@@ -186,7 +186,7 @@ LINKFLAGSRUNPATH_NONE=
 # flag -Wl,-z,noexecstack sets the NX bit on the stack
 LINKFLAGS=-Wl,-z,noexecstack -Wl,-z,combreloc $(LINKFLAGSDEFS) $(LINKFLAGS_SYSBASE)
 .IF "$(HAVE_LD_BSYMBOLIC_FUNCTIONS)"  == "TRUE"
-LINKFLAGS += -Wl,-Bsymbolic-functions -Wl,--dynamic-list-cpp-new -Wl,--dynamic-list-cpp-typeinfo
+LINKFLAGS += -Wl,-Bsymbolic-functions
 .ENDIF
 
 # linker flags for linking applications
