@@ -2,7 +2,7 @@
 gb_MAKEFILEDIR:=$(dir $(realpath $(firstword $(MAKEFILE_LIST))))
 
 define gb_SourceEnvAndRecurse_recurse
-$(MAKE) -f $(firstword $(MAKEFILE_LIST)) -j $${GMAKE_PARALLELISM} $(1) gb_SourceEnvAndRecurse_STAGE=$(2)
+$(MAKE) -f $(firstword $(MAKEFILE_LIST)) -j $${GMAKE_PARALLELISM} $(1) gb_SourceEnvAndRecurse_STAGE=$(2) gb_FULLDEPS=$(gb_FULLDEPS)
 endef
 
 ifneq ($(strip $(gb_PARTIALBUILD)),)
