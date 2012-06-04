@@ -1,0 +1,287 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+scp2%2Fsource%2Fextensions.oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-02-21 19:43+0200\n"
+"PO-Revision-Date: 2012-03-17 19:48+0800\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.1.6\n"
+"X-Accelerator-Marker: ~\n"
+
+#: module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_EN_US.LngText.text
+msgid "English"
+msgstr "英文"
+
+#: module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_EN_US.LngText.text
+msgid "Installs English support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "在 %PRODUCTNAME %PRODUCTVERSION 中安裝英文支援"
+
+#: module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_DE.LngText.text
+msgid "German"
+msgstr "德文"
+
+#: module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_DE.LngText.text
+msgid "Installs German support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "在 %PRODUCTNAME %PRODUCTVERSION 中安裝德文支援"
+
+#: module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_FR.LngText.text
+msgid "French"
+msgstr "法文"
+
+#: module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_FR.LngText.text
+msgid "Installs French support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "在 %PRODUCTNAME %PRODUCTVERSION 中安裝法文支援"
+
+#: module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_IT.LngText.text
+msgid "Italian"
+msgstr "義大利文"
+
+#: module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_IT.LngText.text
+msgid "Installs Italian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "在 %PRODUCTNAME %PRODUCTVERSION 中安裝義大利文支援"
+
+#: module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_ES.LngText.text
+msgid "Spanish"
+msgstr "西班牙文"
+
+#: module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_ES.LngText.text
+msgid "Installs Spanish support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "在 %PRODUCTNAME %PRODUCTVERSION 中安裝西班牙文支援"
+
+#: module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_HU.LngText.text
+msgid "Hungarian"
+msgstr "匈牙利文"
+
+#: module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_HU.LngText.text
+msgid "Installs Hungarian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "在 %PRODUCTNAME %PRODUCTVERSION 中安裝匈牙利文支援"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS.LngText.text
+msgid "Extensions"
+msgstr "擴充套件"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS.LngText.text
+msgid "Useful %PRODUCTNAME extensions."
+msgstr "非常有用的 %PRODUCTNAME 擴充套件。"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_MINIMIZER.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_MINIMIZER.LngText.text"
+msgid "Presentation Minimizer"
+msgstr "簡報縮小器"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_MINIMIZER.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_MINIMIZER.LngText.text"
+msgid "Presentation Minimizer"
+msgstr "簡報縮小器"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_REPORTDESIGN.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_REPORTDESIGN.LngText.text"
+msgid "Report Builder"
+msgstr "報告建立器"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_REPORTDESIGN.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_REPORTDESIGN.LngText.text"
+msgid "Report Builder"
+msgstr "報告建立器"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_MEDIAWIKI.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_MEDIAWIKI.LngText.text"
+msgid "MediaWiki Publisher"
+msgstr "MediaWiki 發布器"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_MEDIAWIKI.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_MEDIAWIKI.LngText.text"
+msgid "MediaWiki Publisher"
+msgstr "MediaWiki 發布器"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_PRESENTER_SCREEN.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_PRESENTER_SCREEN.LngText.text"
+msgid "Presenter Screen"
+msgstr "簡報者畫面"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_PRESENTER_SCREEN.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_PRESENTER_SCREEN.LngText.text"
+msgid "Presenter Screen"
+msgstr "簡報者畫面"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_PDFIMPORT.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_PDFIMPORT.LngText.text"
+msgid "PDF Import"
+msgstr "PDF 匯入"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_PDFIMPORT.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_PDFIMPORT.LngText.text"
+msgid "PDF Import"
+msgstr "PDF 匯入"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_NUMBERTEXT.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_NUMBERTEXT.LngText.text"
+msgid "Numbertext"
+msgstr "表數文字"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_NUMBERTEXT.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_NUMBERTEXT.LngText.text"
+msgid "Numbertext"
+msgstr "表數文字"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_HUNART.LngText.text
+msgid "Hungarian cross-reference toolbar"
+msgstr "匈牙利文交叉索引工具列"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_HUNART.LngText.text
+msgid "Toolbar to add cross-references with automatic conditional Hungarian articles (eg. *az* 5. ábra, *a* 6. ábra) to avoid bad article and number combination in cross-references."
+msgstr "加入交叉索引用的工具列，有自動匈牙利文文章條件功能 (例如，*az* 5. ábra, *a* 6. ábra) 可以避免交叉索引中有不良的文章與數字組合。"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_TYPO.LngText.text
+msgid "Typography toolbar"
+msgstr "排版工具列"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_TYPO.LngText.text
+msgid "Toolbar for Graphite smart font features: ligatures, small caps, old style numbers, proportional or monospaced numbers, automatic thousand separators, minus sign, real superscript and subscript, German umlaut variants, fractions."
+msgstr "Graphite 智慧字型功能的工具列：連字、小寫、古風數字、比例或等寬數字、自動千位分隔符、負號、真正上標與下標、德文母音字母變體、分數等等。"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_CT2N.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_CT2N.LngText.text"
+msgid "Convert Text to Number"
+msgstr "將文字轉換為數字"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_CT2N.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_CT2N.LngText.text"
+msgid "Convert Text to Number"
+msgstr "將文字轉換為數字"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_WATCH_WINDOW.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_WATCH_WINDOW.LngText.text"
+msgid "Watch Window"
+msgstr "監看視窗"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_WATCH_WINDOW.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_WATCH_WINDOW.LngText.text"
+msgid "Watch Window"
+msgstr "監看視窗"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_DIAGRAM.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_DIAGRAM.LngText.text"
+msgid "Diagram"
+msgstr "圖表"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_DIAGRAM.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_DIAGRAM.LngText.text"
+msgid "Diagram"
+msgstr "圖表"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_VALIDATOR.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_VALIDATOR.LngText.text"
+msgid "Validator"
+msgstr "驗證器"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_VALIDATOR.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_VALIDATOR.LngText.text"
+msgid "Validator"
+msgstr "驗證器"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_BARCODE.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_BARCODE.LngText.text"
+msgid "Barcode"
+msgstr "條碼"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_BARCODE.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_BARCODE.LngText.text"
+msgid "Barcode"
+msgstr "條碼"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_GOOGLE_DOCS.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_GOOGLE_DOCS.LngText.text"
+msgid "Google Docs & Zoho"
+msgstr "Google Docs 與 Zoho"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_GOOGLE_DOCS.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_GOOGLE_DOCS.LngText.text"
+msgid "Google Docs & Zoho"
+msgstr "Google Docs 與 Zoho"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_NLPSOLVER.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_NLPSOLVER.LngText.text"
+msgid "Solver for Nonlinear Programming"
+msgstr "非線性程設求解器"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_NLPSOLVER.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_NLPSOLVER.LngText.text"
+msgid "Solver for Nonlinear Programming"
+msgstr "非線性程設求解器"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_LANGUAGETOOL.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_LANGUAGETOOL.LngText.text"
+msgid "LanguageTool Open Source language checker"
+msgstr "LanguageTool 開放源碼語言檢查器"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_LANGUAGETOOL.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_LANGUAGETOOL.LngText.text"
+msgid "LanguageTool Open Source language checker"
+msgstr "LanguageTool 開放源碼語言檢查器"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_MYSQLC.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_MYSQLC.LngText.text"
+msgid "MySQL Connector"
+msgstr "MySQL Connector"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_MYSQLC.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_MYSQLC.LngText.text"
+msgid "MySQL Connector"
+msgstr "MySQL Connector"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_OOOBLOGGER.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_OOOBLOGGER.LngText.text"
+msgid "Metaweblog Support"
+msgstr "Metaweblog 支援"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_OOOBLOGGER.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_OOOBLOGGER.LngText.text"
+msgid "Metaweblog Support"
+msgstr "Metaweblog 支援"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SUN_TEMPLATE_PACK.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SUN_TEMPLATE_PACK.LngText.text"
+msgid "Sun Professional Template Pack"
+msgstr "Sun 專業範本包"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SUN_TEMPLATE_PACK.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SUN_TEMPLATE_PACK.LngText.text"
+msgid "Sun Professional Template Pack"
+msgstr "Sun 專業範本包"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_BEANSHELL.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_BEANSHELL.LngText.text"
+msgid "Script provider for BeanShell"
+msgstr "BeanShell 的指令稿提供器"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_BEANSHELL.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_BEANSHELL.LngText.text"
+msgid "Script provider for BeanShell"
+msgstr "BeanShell 的指令稿提供器"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_JAVASCRIPT.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_JAVASCRIPT.LngText.text"
+msgid "Script provider for JavaScript"
+msgstr "JavaScript 的指令稿提供器"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_JAVASCRIPT.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_JAVASCRIPT.LngText.text"
+msgid "Script provider for JavaScript"
+msgstr "JavaScript 的指令稿提供器"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_PYTHON.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_PYTHON.LngText.text"
+msgid "Script provider for Python"
+msgstr "Python 的指令稿提供器"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_PYTHON.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_PYTHON.LngText.text"
+msgid "Script provider for Python"
+msgstr "Python 的指令稿提供器"

@@ -1,0 +1,289 @@
+#. extracted from scp2/source/extensions.oo
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+scp2%2Fsource%2Fextensions.oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-02-21 19:43+0200\n"
+"PO-Revision-Date: 2011-12-20 11:51+0300\n"
+"Last-Translator: Modestas Rimkus <modestas.rimkus@gmail.com>\n"
+"Language-Team: Lithuanian <komp_lt@konferencijos.lt>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Accelerator-Marker: ~\n"
+"X-Project-Style: openoffice\n"
+
+#: module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_EN_US.LngText.text
+msgid "English"
+msgstr "Anglų"
+
+#: module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_EN_US.LngText.text
+msgid "Installs English support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama anglų kalba"
+
+#: module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_DE.LngText.text
+msgid "German"
+msgstr "Vokiečių"
+
+#: module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_DE.LngText.text
+msgid "Installs German support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama vokiečių kalba"
+
+#: module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_FR.LngText.text
+msgid "French"
+msgstr "Prancūzų"
+
+#: module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_FR.LngText.text
+msgid "Installs French support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama prancūzų kalba"
+
+#: module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_IT.LngText.text
+msgid "Italian"
+msgstr "Italų"
+
+#: module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_IT.LngText.text
+msgid "Installs Italian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama italų kalba"
+
+#: module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_ES.LngText.text
+msgid "Spanish"
+msgstr "Ispanų"
+
+#: module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_ES.LngText.text
+msgid "Installs Spanish support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama ispanų kalba"
+
+#: module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_HU.LngText.text
+msgid "Hungarian"
+msgstr "Vengrų"
+
+#: module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_HU.LngText.text
+msgid "Installs Hungarian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "Į „%PRODUCTNAME %PRODUCTVERSION“ įdiegiama vengrų kalba"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS.LngText.text
+msgid "Extensions"
+msgstr "Plėtiniai"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS.LngText.text
+msgid "Useful %PRODUCTNAME extensions."
+msgstr "Naudingi „%PRODUCTNAME“ plėtiniai."
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_MINIMIZER.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_MINIMIZER.LngText.text"
+msgid "Presentation Minimizer"
+msgstr "Pateikčių glaudinimo priemonė"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_MINIMIZER.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_MINIMIZER.LngText.text"
+msgid "Presentation Minimizer"
+msgstr "Pateikčių glaudinimo priemonė"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_REPORTDESIGN.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_REPORTDESIGN.LngText.text"
+msgid "Report Builder"
+msgstr "Ataskaitų rengyklė"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_REPORTDESIGN.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_REPORTDESIGN.LngText.text"
+msgid "Report Builder"
+msgstr "Ataskaitų rengyklė"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_MEDIAWIKI.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_MEDIAWIKI.LngText.text"
+msgid "MediaWiki Publisher"
+msgstr "Publikavimo į „MediaWiki“ modulis"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_MEDIAWIKI.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_MEDIAWIKI.LngText.text"
+msgid "MediaWiki Publisher"
+msgstr "Publikavimo į „MediaWiki“ modulis"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_PRESENTER_SCREEN.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_PRESENTER_SCREEN.LngText.text"
+msgid "Presenter Screen"
+msgstr "Pranešėjo pultas"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_PRESENTER_SCREEN.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_PRESENTER_SCREEN.LngText.text"
+msgid "Presenter Screen"
+msgstr "Pranešėjo pultas"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_PDFIMPORT.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_PDFIMPORT.LngText.text"
+msgid "PDF Import"
+msgstr "PDF importas"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_PDFIMPORT.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_PDFIMPORT.LngText.text"
+msgid "PDF Import"
+msgstr "PDF importas"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_NUMBERTEXT.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_NUMBERTEXT.LngText.text"
+msgid "Numbertext"
+msgstr "Numbertext"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_NUMBERTEXT.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_NUMBERTEXT.LngText.text"
+msgid "Numbertext"
+msgstr "Numbertext"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_HUNART.LngText.text
+msgid "Hungarian cross-reference toolbar"
+msgstr "Vengrų kryžminių nuorodų mygtukų juosta"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_HUNART.LngText.text
+msgid "Toolbar to add cross-references with automatic conditional Hungarian articles (eg. *az* 5. ábra, *a* 6. ábra) to avoid bad article and number combination in cross-references."
+msgstr "Mygtukų juosta kryžminėms nuorodoms su automatiniais sąlyginiais vengriškais artikeliais (pvz. *az* 5. ábra, *a* 6. ábra) įdėti ir taip išvengti neleistinų artikelio ir skaičiaus kombinacijų kryžminėse nuorodose."
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_TYPO.LngText.text
+msgid "Typography toolbar"
+msgstr "Tipografijos mygtukų juosta"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_TYPO.LngText.text
+msgid "Toolbar for Graphite smart font features: ligatures, small caps, old style numbers, proportional or monospaced numbers, automatic thousand separators, minus sign, real superscript and subscript, German umlaut variants, fractions."
+msgstr "Išmaniųjų „Graphite“ šriftų mygtukų juostoje yra priemonės ligatūroms, sumažintoms didžiosioms raidėms, senovinio stiliaus skaičiams, įvairiapločiams ir lygiapločiams skaitmenims, automatiniams tūkstančių skirtukams, minuso ženklui, viršutiniams ir apatiniams indeksams, vokiškiems umliautams, trupmenoms įterpti ir formatuoti."
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_CT2N.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_CT2N.LngText.text"
+msgid "Convert Text to Number"
+msgstr "Teksto į skaičių keitiklis"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_CT2N.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_CT2N.LngText.text"
+msgid "Convert Text to Number"
+msgstr "Teksto į skaičių keitiklis"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_WATCH_WINDOW.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_WATCH_WINDOW.LngText.text"
+msgid "Watch Window"
+msgstr "Stebėjimo langas"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_WATCH_WINDOW.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_WATCH_WINDOW.LngText.text"
+msgid "Watch Window"
+msgstr "Stebėjimo langas"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_DIAGRAM.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_DIAGRAM.LngText.text"
+msgid "Diagram"
+msgstr "Diagrama"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_DIAGRAM.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_DIAGRAM.LngText.text"
+msgid "Diagram"
+msgstr "Diagrama"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_VALIDATOR.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_VALIDATOR.LngText.text"
+msgid "Validator"
+msgstr "Tikrintuvas"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_VALIDATOR.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_VALIDATOR.LngText.text"
+msgid "Validator"
+msgstr "Tikrintuvas"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_BARCODE.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_BARCODE.LngText.text"
+msgid "Barcode"
+msgstr "Brūkšninis kodas"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_BARCODE.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_BARCODE.LngText.text"
+msgid "Barcode"
+msgstr "Brūkšninis kodas"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_GOOGLE_DOCS.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_GOOGLE_DOCS.LngText.text"
+msgid "Google Docs & Zoho"
+msgstr "„Google dokumentai“ ir „Zoho“"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_GOOGLE_DOCS.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_GOOGLE_DOCS.LngText.text"
+msgid "Google Docs & Zoho"
+msgstr "„Google dokumentai“ ir „Zoho“"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_NLPSOLVER.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_NLPSOLVER.LngText.text"
+msgid "Solver for Nonlinear Programming"
+msgstr "Netiesinio programavimo sprendiklis"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_NLPSOLVER.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_NLPSOLVER.LngText.text"
+msgid "Solver for Nonlinear Programming"
+msgstr "Netiesinio programavimo sprendiklis"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_LANGUAGETOOL.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_LANGUAGETOOL.LngText.text"
+msgid "LanguageTool Open Source language checker"
+msgstr "Atvirasis „LanguageTool“ kalbos tikrintuvas"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_LANGUAGETOOL.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_LANGUAGETOOL.LngText.text"
+msgid "LanguageTool Open Source language checker"
+msgstr "Atvirasis „LanguageTool“ kalbos tikrintuvas"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_MYSQLC.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_MYSQLC.LngText.text"
+msgid "MySQL Connector"
+msgstr "„MySQL“ šliuzas"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_MYSQLC.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_MYSQLC.LngText.text"
+msgid "MySQL Connector"
+msgstr "„MySQL“ šliuzas"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_OOOBLOGGER.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_OOOBLOGGER.LngText.text"
+msgid "Metaweblog Support"
+msgstr "„Metaweblog“ suderinamumas"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_OOOBLOGGER.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_OOOBLOGGER.LngText.text"
+msgid "Metaweblog Support"
+msgstr "„Metaweblog“ suderinamumas"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SUN_TEMPLATE_PACK.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SUN_TEMPLATE_PACK.LngText.text"
+msgid "Sun Professional Template Pack"
+msgstr "„Sun“ profesionalių šablonų paketas"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SUN_TEMPLATE_PACK.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SUN_TEMPLATE_PACK.LngText.text"
+msgid "Sun Professional Template Pack"
+msgstr "„Sun“ profesionalių šablonų paketas"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_BEANSHELL.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_BEANSHELL.LngText.text"
+msgid "Script provider for BeanShell"
+msgstr "„BeanShell“ scenarijų suderinamumas"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_BEANSHELL.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_BEANSHELL.LngText.text"
+msgid "Script provider for BeanShell"
+msgstr "„BeanShell“ scenarijų suderinamumas"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_JAVASCRIPT.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_JAVASCRIPT.LngText.text"
+msgid "Script provider for JavaScript"
+msgstr "„JavaScript“ scenarijų suderinamumas"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_JAVASCRIPT.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_JAVASCRIPT.LngText.text"
+msgid "Script provider for JavaScript"
+msgstr "„JavaScript“ scenarijų suderinamumas"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_PYTHON.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_PYTHON.LngText.text"
+msgid "Script provider for Python"
+msgstr "„Python“ scenarijų suderinamumas"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_PYTHON.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_PYTHON.LngText.text"
+msgid "Script provider for Python"
+msgstr "„Python“ scenarijų suderinamumas"
