@@ -1,0 +1,36 @@
+# Format:
+
+# Start
+# scpModule
+# shellscript file (optional)
+# solarispackagename
+# solarisrequires (optional)
+# solarisprovides (optional)
+# packagename
+# linuxreplaces (optional)
+# requires (optional)
+# provides (optional)
+# copyright
+# vendor
+# description
+# destpath
+# End
+
+Start
+module = "gid_Module_Helppack_Help"
+solarispackagename = "%BASISPACKAGEPREFIX%WITHOUTDOTPRODUCTVERSION-%LANGUAGESTRING-help"
+solarisrequires = "%BASISPACKAGEPREFIX%WITHOUTDOTPRODUCTVERSION-%LANGUAGESTRING"
+packagename = "%BASISPACKAGEPREFIX%PRODUCTVERSION-%LANGUAGESTRING-help"
+provides = "%BASISPACKAGEPREFIX%WITHOUTDOTPRODUCTVERSION-%LANGUAGESTRING-help"
+requires = "%BASISPACKAGEPREFIX%PRODUCTVERSION-%LANGUAGESTRING"
+copyright = "1999-2009 by OpenOffice.org"
+solariscopyright = "solariscopyrightfile"
+vendor = "The Document Foundation"
+description = "Help module for LibreOffice %PRODUCTVERSION, language %LANGUAGESTRING"
+destpath = "/opt"
+packageversion = "%ABOUTBOXPRODUCTVERSION"
+pkg_list_entry = "%BASISPACKAGEPREFIX%WITHOUTDOTPRODUCTVERSION-core01"
+End
+
+
+# END OF Language depended package definitions
