@@ -57,6 +57,7 @@ import com.sun.star.wizards.common.PropertyNames;
 import com.sun.star.wizards.common.SystemDialog;
 import com.sun.star.wizards.db.DBMetaData;
 import com.sun.star.wizards.document.OfficeDocument;
+import com.sun.star.wizards.document.FormHandler.UnknownHiddenControlException;
 import com.sun.star.wizards.ui.UIConsts;
 import java.util.ArrayList;
 import java.util.Vector;
@@ -233,7 +234,15 @@ public class ReportTextImplementation extends ReportImplementationHelper impleme
                 String sCommandType = getDoc().oFormHandler.getValueofHiddenControl(xNamedForm, PropertyNames.COMMAND_TYPE, sMsg);
                 String sGroupFieldNames = getDoc().oFormHandler.getValueofHiddenControl(xNamedForm, "GroupFieldNames", sMsg);
                 String sFieldNames = getDoc().oFormHandler.getValueofHiddenControl(xNamedForm, "FieldNames", sMsg);
-                final String sorting = getDoc().oFormHandler.getValueofHiddenControl(xNamedForm, "Sorting", sMsg);
+                String sorting;
+                try
+                {
+                    sorting = getDoc().oFormHandler.getValueofHiddenControl(xNamedForm, "Sorting", sMsg);
+                }
+                catch (UnknownHiddenControlException exception)
+                {
+		    sorting = "";
+                }
                 String sRecordFieldNames = getDoc().oFormHandler.getValueofHiddenControl(xNamedForm, "RecordFieldNames", sMsg);
                 if (xNamedForm.hasByName("QueryName"))
                 {
@@ -270,7 +279,6 @@ public class ReportTextImplementation extends ReportImplementationHelper impleme
                         {
                             getRecordParser().Command = (String) oCommand.getPropertySet().getPropertyValue(PropertyNames.COMMAND);
                             getRecordParser().getSQLQueryComposer().m_xQueryAnalyzer.setQuery(getRecordParser().Command);
-                            getRecordParser().getSQLQueryComposer().prependSortingCriteria();
                             getRecordParser().Command = getRecordParser().getSQLQueryComposer().getQuery();
                         }
                         else
@@ -283,7 +291,14 @@ public class ReportTextImplementation extends ReportImplementationHelper impleme
                     bexecute = getRecordParser().executeCommand(nCommandType); //sMsgQueryCreationImpossible + (char) 13 + sMsgEndAutopilot, sFieldNameList, true);
                     if (bexecute)
                     {
+                        DBMetaData.CommandObject oCommand = getRecordParser().getQueryByName(sQueryName);
                         bexecute = getRecordParser().getFields(sFieldNameList, true);
+                        if (bexecute && getRecordParser().hasEscapeProcessing(oCommand.getPropertySet()))
+                        {
+                            getRecordParser().getSQLQueryComposer().prependSortingCriteria();
+                            getRecordParser().Command = getRecordParser().getSQLQueryComposer().getQuery();
+                            bexecute = getRecordParser().executeCommand(nCommandType);
+                        }
                     }
                     return bexecute;
                 }
