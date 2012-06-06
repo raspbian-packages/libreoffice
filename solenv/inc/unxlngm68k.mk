@@ -30,6 +30,4 @@
 PICSWITCH:=-fPIC
 .INCLUDE : unxlng.mk
 CDEFS+=-DM68K
-CFLAGS+=-fsigned-char -fno-omit-frame-pointer
-CFLAGSCC+=-fsigned-char
-CFLAGSCXX+=-fsigned-char
+CFLAGS+=-fno-omit-frame-pointer
