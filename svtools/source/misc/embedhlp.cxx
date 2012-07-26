@@ -52,6 +52,7 @@
 #include <cppuhelper/implbase4.hxx>
 #include "vcl/svapp.hxx"
 #include <rtl/logfile.hxx>
+#include <rtl/oustringostreaminserter.hxx>
 #include <osl/mutex.hxx>
 
 using namespace com::sun::star;
@@ -561,16 +562,25 @@ SvStream* EmbeddedObjectRef::GetGraphicStream( sal_Bool bUpdate ) const
         {
             const sal_Int32 nConstBufferSize = 32000;
             SvStream *pStream = new SvMemoryStream( 32000, 32000 );
-            sal_Int32 nRead=0;
-            uno::Sequence < sal_Int8 > aSequence ( nConstBufferSize );
-            do
+            try
             {
-                nRead = xStream->readBytes ( aSequence, nConstBufferSize );
-                pStream->Write( aSequence.getConstArray(), nRead );
+                sal_Int32 nRead=0;
+                uno::Sequence < sal_Int8 > aSequence ( nConstBufferSize );
+                do
+                {
+                    nRead = xStream->readBytes ( aSequence, nConstBufferSize );
+                    pStream->Write( aSequence.getConstArray(), nRead );
+                }
+                while ( nRead == nConstBufferSize );
+                pStream->Seek(0);
+                return pStream;
             }
-            while ( nRead == nConstBufferSize );
-            pStream->Seek(0);
-            return pStream;
+            catch (const uno::Exception& ex)
+            {
+                SAL_WARN("svtools", "discarding broken embedded object preview: " << ex.Message);
+                delete pStream;
+                xStream.clear();
+            }
         }
     }
 
