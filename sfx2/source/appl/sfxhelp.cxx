@@ -102,7 +102,7 @@ public:
 
 NoHelpErrorBox::NoHelpErrorBox( Window* _pParent ) :
 
-    ErrorBox( _pParent, WB_OK, String( SfxResId( RID_STR_HLPFILENOTEXIST ) ) )
+    ErrorBox( _pParent, WB_OK, String( SfxResId( RID_STR_HLPFILENOTEXIST ) ).Append(String(DEFINE_CONST_UNICODE(".\nPlease install the libreoffice-help-en-us package or the locale specific help package libreoffice-help-<language-code>."))) )
 {
     // Error message: "No help available"
 }
