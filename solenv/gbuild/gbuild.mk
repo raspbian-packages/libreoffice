@@ -145,6 +145,9 @@ gb__ENV_CXXFLAGS := $(ENVCFLAGSCXX)
 endif
 endif
 
+gb__ENV_CXXFLAGS += $(HARDEN_CXXFLAGS)
+gb__ENV_CFLAGS += $(HARDEN_CFLAGS)
+
 include $(GBUILDDIR)/Helper.mk
 include $(GBUILDDIR)/TargetLocations.mk
 
@@ -243,6 +246,8 @@ endif
 ifeq ($(HAVE_THREADSAFE_STATICS),TRUE)
 gb_GLOBALDEFS += -DHAVE_THREADSAFE_STATICS
 endif
+
+gb_GLOBALDEFS += $(HARDEN_CPPFLAGS)
 
 gb_GLOBALDEFS := $(sort $(gb_GLOBALDEFS))
 
