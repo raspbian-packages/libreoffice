@@ -139,4 +139,6 @@ $(eval $(call gb_CppunitTest_set_args,sc_cellrangesbase,\
 # b) explicitly depend on the sc resource files needed at unit-test runtime
 $(call gb_CppunitTest_get_target,sc_cellrangesbase) : $(call gb_Library_get_target,scfilt) $(WORKDIR)/AllLangRes/sc
 
+.IGNORE: $(call gb_CppunitTest_get_target,sc_cellrangesbase)
+
 # vim: set noet sw=4 ts=4:
