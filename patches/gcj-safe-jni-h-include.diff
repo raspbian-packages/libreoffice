@@ -1,0 +1,33 @@
+--- a/configure.in-old	2012-04-07 00:05:49.607740045 +0200
++++ b/configure.in	2012-04-07 00:06:53.899999955 +0200
+@@ -4287,7 +4287,8 @@
+     if test "$JDK" = "gcj"; then
+         save_CFLAGS=$CFLAGS
+         save_LDFLAGS=$LDFLAGS
+-        CFLAGS="$CFLAGS -I$JAVA_HOME/include"
++        GCJ_JNI_INCLUDE=`$JAVA_HOME/bin/gcj --print-file-name include/jni.h | $SED -e s,\/jni.h,,g`
++        CFLAGS="$CFLAGS -I$JAVA_HOME/include -I$GCJ_JNI_INCLUDE"
+         LDFLAGS="$LDFLAGS -L$JAVA_HOME/lib -lgcj"
+         exec 6>/dev/null # no output
+         AC_CHECK_HEADER(jni.h, [],
+@@ -4336,6 +4338,7 @@
+ AC_SUBST(JAVAIFLAGS)
+ AC_SUBST(JAVACOMPILER)
+ AC_SUBST(JAVADOC)
++AC_SUBST(GCJ_JNI_INCLUDE)
+ 
+ dnl ===================================================================
+ dnl Checks for specific files.
+--- a/set_soenv.in-old	2012-04-06 23:34:58.307738832 +0200
++++ b/set_soenv.in	2012-04-06 23:37:24.960240235 +0200
+@@ -1311,6 +1311,10 @@
+ 
+         $SOLARINC .=$I.$JAVA_HOME.$INCLUDE.$ds."native_threads".$INCLUDE;
+ 	}
++        if ($JDK eq "gcj")
++        {
++                $SOLARINC    .= $I."@GCJ_JNI_INCLUDE@";
++        }
+     #The tail, if needed
+     if ($platform =~ m/linux|freebsd|netbsd|aix|openbsd|dragonfly/)
+     {  if ( $XINC ne "/usr/include" && $XINC ne 'no_x_includes' ) {

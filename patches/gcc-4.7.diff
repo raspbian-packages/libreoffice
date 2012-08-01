@@ -1,0 +1,135 @@
+From 31d26fb9b85cd54267e1a5c0d5a3595e8bb4884c Mon Sep 17 00:00:00 2001
+From: Stephan Bergmann <sbergman@redhat.com>
+Date: Thu, 29 Mar 2012 12:03:08 +0000
+Subject: GCC 4.7 -Werror=enum-compare
+
+---
+diff --git a/vigra/makefile.mk b/vigra/makefile.mk
+index c8e4f77..6cee4b0 100644
+--- a/vigra/makefile.mk
++++ b/vigra/makefile.mk
+@@ -55,6 +55,13 @@ PATCH_FILES=$(TARFILE_NAME).patch
+ TARFILE_MD5=ea91f2fb4212a21d708aced277e6e85a
+ PATCH_FILES=$(TARFILE_NAME).patch
+ 
++# At least GCC 4.7 treats more correctly now the type of enumerators prior to
++# the closing brace of the enum-specifier (see [dcl.enum] in the C++ 2003
++# Standard), leading to "comparison between <enum1> and <enum2> [-Werror=enum-
++# compare]" and "enumeral mismatch in conditional expression [-Werror]"
++# warnings:
++PATCH_FILES += vigra1.4.0-enumwarn.patch
++
+ CONFIGURE_DIR=
+ CONFIGURE_ACTION=
+ 
+diff --git a/vigra/vigra1.4.0-enumwarn.patch b/vigra/vigra1.4.0-enumwarn.patch
+new file mode 100644
+index 0000000..8ea1ed7
+--- /dev/null
++++ b/vigra/vigra1.4.0-enumwarn.patch
+@@ -0,0 +1,13 @@
++--- misc/vigra1.4.0/include/vigra/sized_int.hxx	2012-03-28 13:36:02.743956393 +0200
+++++ misc/build/vigra1.4.0/include/vigra/sized_int.hxx	2012-03-28 13:35:44.956057143 +0200
++@@ -80,8 +80,8 @@
++ template<class LIST>
++ struct SelectBiggestIntegerType
++ {
++-    enum { cursize = LIST::size, 
++-           nextsize = SelectBiggestIntegerType<typename LIST::next>::size,
+++    enum { cursize = static_cast< int >(LIST::size), 
+++           nextsize = static_cast< int >(SelectBiggestIntegerType<typename LIST::next>::size),
++            size = (cursize < nextsize) ? nextsize : cursize };
++     typedef typename 
++        IfBool<(cursize < nextsize), 
+--
+cgit v0.9.0.2-2-gbebe
+From 8431ad2d8b64400052b8e6e218117dd9fb72f316 Mon Sep 17 00:00:00 2001
+From: Stephan Bergmann <sbergman@redhat.com>
+Date: Thu, 29 Mar 2012 11:57:35 +0000
+Subject: Backport some Boost 1.48.0 changes to keep GCC 4.7 -std=c++11 happy
+
+---
+diff --git a/boost/boost_1_44_0-gcc4.7.patch b/boost/boost_1_44_0-gcc4.7.patch
+new file mode 100644
+index 0000000..842a92a
+--- /dev/null
++++ b/boost/boost_1_44_0-gcc4.7.patch
+@@ -0,0 +1,49 @@
++--- misc/boost_1_44_0/boost/smart_ptr/shared_ptr.hpp	2009-12-14 18:44:19.000000000 +0100
+++++ misc/build/boost_1_44_0/boost/smart_ptr/shared_ptr.hpp	2012-03-28 08:32:46.772493003 +0200
++@@ -207,7 +207,17 @@
++         boost::detail::sp_enable_shared_from_this( this, p, p );
++     }
++ 
++-//  generated copy constructor, destructor are fine
+++//  generated copy constructor, destructor are fine...
+++
+++#if defined( BOOST_HAS_RVALUE_REFS )
+++
+++// ... except in C++0x, move disables the implicit copy
+++
+++    shared_ptr( shared_ptr const & r ): px( r.px ), pn( r.pn ) // never throws
+++    {
+++    }
+++
+++#endif
++ 
++     template<class Y>
++     explicit shared_ptr(weak_ptr<Y> const & r): pn(r.pn) // may throw
++--- misc/boost_1_44_0/boost/smart_ptr/weak_ptr.hpp	2009-12-14 18:44:19.000000000 +0100
+++++ misc/build/boost_1_44_0/boost/smart_ptr/weak_ptr.hpp	2012-03-28 10:31:57.607462325 +0200
++@@ -40,8 +40,24 @@
++     {
++     }
++ 
++-//  generated copy constructor, assignment, destructor are fine
+++//  generated copy constructor, assignment, destructor are fine...
++ 
+++#if defined( BOOST_HAS_RVALUE_REFS )
+++
+++// ... except in C++0x, move disables the implicit copy
+++
+++    weak_ptr( weak_ptr const & r ): px( r.px ), pn( r.pn ) // never throws
+++    {
+++    }
+++
+++    weak_ptr & operator=( weak_ptr const & r ) // never throws
+++    {
+++        px = r.px;
+++        pn = r.pn;
+++        return *this;
+++    }
+++
+++#endif
++ 
++ //
++ //  The "obvious" converting constructor implementation:
+diff --git a/boost/makefile.mk b/boost/makefile.mk
+index 093566b..cab945f 100644
+--- a/boost/makefile.mk
++++ b/boost/makefile.mk
+@@ -71,6 +71,9 @@ PATCH_FILES+=boost.windows.patch
+ 
+ PATCH_FILES+=boost.windows.patch
+ 
++# Backporting fixes for the GCC 4.7 -std=c++11 mode from Boost 1.48.0:
++PATCH_FILES += boost_1_44_0-gcc4.7.patch
++
+ ADDITIONAL_FILES= \
+     libs/thread/src/win32/makefile.mk \
+ 	libs/date_time/src/gregorian/makefile.mk
+--
+cgit v0.9.0.2-2-gbebe
+diff --git a/sal/qa/osl/mutex/osl_Mutex.cxx b/sal/qa/osl/mutex/osl_Mutex.cxx
+index 10a95c1..f4f34d6 100644
+--- a/sal/qa/osl/mutex/osl_Mutex.cxx
++++ b/sal/qa/osl/mutex/osl_Mutex.cxx
+@@ -754,7 +754,7 @@ namespace osl_ClearableGuard
+             TimeValue aTimeVal_after;
+             osl_getSystemTime( &aTimeVal_after );
+             sal_Int32 nSec = aTimeVal_after.Seconds - aTimeVal_befor.Seconds;
+-            printf("nSec is %"SAL_PRIdINT32"\n", nSec);
++            printf("nSec is %" SAL_PRIdINT32 "\n", nSec);
+ 
+             myThread.join();
+ 

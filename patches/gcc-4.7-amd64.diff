@@ -1,0 +1,619 @@
+m 0fdbb5b0eabbaa571f3747fda12a56c938cba474 Mon Sep 17 00:00:00 2001
+From: Stephan Bergmann <sbergman@redhat.com>
+Date: Thu, 29 Mar 2012 15:50:16 +0000
+Subject: Make cpp_uno/gcc3_linux_x86-64 bridge work with GCC 4.7
+
+See comment in callvirtualmethod.cxx for details.
+
+From fa09866ccb5bc197ad3e1ec1a453d6fab20cd7df Mon Sep 17 00:00:00 2001
+From: Stephan Bergmann <sbergman@redhat.com>
+Date: Fri, 30 Mar 2012 11:58:34 +0000
+Subject: Adapt cpp_uno/gcc3_linux_x86-64 to GCC 4.7 cxxabi.h
+
+...the same way cpp_uno/mingw_intel was already adapted.
+
+--- a/bridges/source/cpp_uno/gcc3_linux_x86-64/abi.cxx
++++ b/bridges/source/cpp_uno/gcc3_linux_x86-64/abi.cxx
+@@ -59,9 +59,9 @@
+    OTHER DEALINGS IN THE SOFTWARE.
+    ----------------------------------------------------------------------- */
+ 
+-#include <abi.hxx>
++#include "sal/config.h"
+ 
+-#include <rtl/ustring.hxx>
++#include "abi.hxx"
+ 
+ using namespace x86_64;
+ 
+@@ -98,6 +98,7 @@ enum x86_64_reg_class
+ 
+ static enum x86_64_reg_class
+ merge_classes (enum x86_64_reg_class class1, enum x86_64_reg_class class2)
++    throw ()
+ {
+     /* Rule #1: If both classes are equal, this is the resulting class.  */
+     if (class1 == class2)
+@@ -140,7 +141,7 @@ merge_classes (enum x86_64_reg_class class1, enum x86_64_reg_class class2)
+    See the x86-64 PS ABI for details.
+ */
+ static int
+-classify_argument( typelib_TypeDescriptionReference *pTypeRef, enum x86_64_reg_class classes[], int byteOffset )
++classify_argument( typelib_TypeDescriptionReference *pTypeRef, enum x86_64_reg_class classes[], int byteOffset ) throw ()
+ {
+     switch ( pTypeRef->eTypeClass )
+     {
+@@ -262,7 +263,7 @@ classify_argument( typelib_TypeDescriptionReference *pTypeRef, enum x86_64_reg_c
+ 
+ /* Examine the argument and return set number of register required in each
+    class.  Return 0 iff parameter should be passed in memory.  */
+-bool x86_64::examine_argument( typelib_TypeDescriptionReference *pTypeRef, bool bInReturn, int &nUsedGPR, int &nUsedSSE )
++bool x86_64::examine_argument( typelib_TypeDescriptionReference *pTypeRef, bool bInReturn, int &nUsedGPR, int &nUsedSSE ) throw ()
+ {
+     enum x86_64_reg_class classes[MAX_CLASSES];
+     int n;
+@@ -303,14 +304,14 @@ bool x86_64::examine_argument( typelib_TypeDescriptionReference *pTypeRef, bool
+     return true;
+ }
+ 
+-bool x86_64::return_in_hidden_param( typelib_TypeDescriptionReference *pTypeRef )
++bool x86_64::return_in_hidden_param( typelib_TypeDescriptionReference *pTypeRef ) throw ()
+ {
+     int g, s;
+ 
+     return examine_argument( pTypeRef, true, g, s ) == 0;
+ }
+ 
+-void x86_64::fill_struct( typelib_TypeDescriptionReference *pTypeRef, const sal_uInt64 *pGPR, const double *pSSE, void *pStruct )
++void x86_64::fill_struct( typelib_TypeDescriptionReference *pTypeRef, const sal_uInt64 *pGPR, const double *pSSE, void *pStruct ) throw ()
+ {
+     enum x86_64_reg_class classes[MAX_CLASSES];
+     int n;
+unchanged:
+--- a/bridges/source/cpp_uno/gcc3_linux_x86-64/abi.hxx
++++ b/bridges/source/cpp_uno/gcc3_linux_x86-64/abi.hxx
+@@ -51,7 +51,7 @@ const sal_uInt32 MAX_SSE_REGS = 8;
+ 
+  Return false iff parameter should be passed in memory.
+ */
+-bool examine_argument( typelib_TypeDescriptionReference *pTypeRef, bool bInReturn, int &nUsedGPR, int &nUsedSSE );
++bool examine_argument( typelib_TypeDescriptionReference *pTypeRef, bool bInReturn, int &nUsedGPR, int &nUsedSSE ) throw ();
+ 
+ /** Does function that returns this type use a hidden parameter, or registers?
+ 
+@@ -59,9 +59,9 @@ bool examine_argument( typelib_TypeDescriptionReference *pTypeRef, bool bInRetur
+  pointer to a structure allocated by the caller), or in registers (rax, rdx
+  for the integers, xmm0, xmm1 for the floating point numbers).
+ */
+-bool return_in_hidden_param( typelib_TypeDescriptionReference *pTypeRef );
++bool return_in_hidden_param( typelib_TypeDescriptionReference *pTypeRef ) throw ();
+ 
+-void fill_struct( typelib_TypeDescriptionReference *pTypeRef, const sal_uInt64* pGPR, const double* pSSE, void *pStruct );
++void fill_struct( typelib_TypeDescriptionReference *pTypeRef, const sal_uInt64* pGPR, const double* pSSE, void *pStruct ) throw ();
+ 
+ } // namespace x86_64
+ 
+unchanged:
+--- /dev/null
++++ b/bridges/source/cpp_uno/gcc3_linux_x86-64/callvirtualmethod.cxx
+@@ -0,0 +1,170 @@
++/* -*- Mode: C++; tab-width: 4; indent-tabs-mode: nil; c-basic-offset: 4 -*- */
++/*************************************************************************
++ *
++ * DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS FILE HEADER.
++ *
++ * Copyright 2000, 2010 Oracle and/or its affiliates.
++ *
++ * OpenOffice.org - a multi-platform office productivity suite
++ *
++ * This file is part of OpenOffice.org.
++ *
++ * OpenOffice.org is free software: you can redistribute it and/or modify
++ * it under the terms of the GNU Lesser General Public License version 3
++ * only, as published by the Free Software Foundation.
++ *
++ * OpenOffice.org is distributed in the hope that it will be useful,
++ * but WITHOUT ANY WARRANTY; without even the implied warranty of
++ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
++ * GNU Lesser General Public License version 3 for more details
++ * (a copy is included in the LICENSE file that accompanied this code).
++ *
++ * You should have received a copy of the GNU Lesser General Public License
++ * version 3 along with OpenOffice.org.  If not, see
++ * <http://www.openoffice.org/license.html>
++ * for a copy of the LGPLv3 License.
++ *
++ ************************************************************************/
++
++#include "sal/config.h"
++
++#include <cstring>
++
++#include "sal/types.h"
++#include "typelib/typeclass.h"
++#include "typelib/typedescription.h"
++
++#include "abi.hxx"
++#include "callvirtualmethod.hxx"
++
++// The call instruction within the asm block of callVirtualMethod may throw
++// exceptions.  At least GCC 4.7.0 with -O0 would create (unnecessary)
++// .gcc_exception_table call-site table entries around all other calls in this
++// function that can throw, leading to std::terminate if the asm call throws an
++// exception and the unwinding C++ personality routine finds the unexpected hole
++// in the .gcc_exception_table.  Therefore, make sure this function explicitly
++// only calls nothrow-functions (so GCC 4.7.0 with -O0 happens to not create a
++// .gcc_exception_table section at all for this function).  For some reason,
++// this also needs to be in a source file of its own.
++//
++// Also, this file should be compiled with -fnon-call-exceptions, and ideally
++// there would be a way to tell the compiler that the asm block contains calls
++// to functions that can potentially throw; see the mail thread starting at
++// <http://gcc.gnu.org/ml/gcc/2012-03/msg00454.html> "C++: Letting compiler know
++// asm block can call function that can throw?"
++
++void CPPU_CURRENT_NAMESPACE::callVirtualMethod(
++    void * pThis, sal_uInt32 nVtableIndex, void * pRegisterReturn,
++    typelib_TypeDescriptionReference * pReturnTypeRef, bool bSimpleReturn,
++    sal_uInt64 *pStack, sal_uInt32 nStack, sal_uInt64 *pGPR, sal_uInt32 nGPR,
++    double * pFPR, sal_uInt32 nFPR)
++{
++    // Should not happen, but...
++    if ( nFPR > x86_64::MAX_SSE_REGS )
++        nFPR = x86_64::MAX_SSE_REGS;
++    if ( nGPR > x86_64::MAX_GPR_REGS )
++        nGPR = x86_64::MAX_GPR_REGS;
++
++    // Get pointer to method
++    sal_uInt64 pMethod = *((sal_uInt64 *)pThis);
++    pMethod += 8 * nVtableIndex;
++    pMethod = *((sal_uInt64 *)pMethod);
++
++    // Load parameters to stack, if necessary
++    if ( nStack )
++    {
++        // 16-bytes aligned
++        sal_uInt32 nStackBytes = ( ( nStack + 1 ) >> 1 ) * 16;
++        sal_uInt64 *pCallStack = (sal_uInt64 *) __builtin_alloca( nStackBytes );
++        std::memcpy( pCallStack, pStack, nStackBytes );
++    }
++
++    // Return values
++    sal_uInt64 rax;
++    sal_uInt64 rdx;
++    double xmm0;
++    double xmm1;
++
++    asm volatile (
++
++        // Fill the xmm registers
++        "movq %6, %%rax\n\t"
++
++        "movsd   (%%rax), %%xmm0\n\t"
++        "movsd  8(%%rax), %%xmm1\n\t"
++        "movsd 16(%%rax), %%xmm2\n\t"
++        "movsd 24(%%rax), %%xmm3\n\t"
++        "movsd 32(%%rax), %%xmm4\n\t"
++        "movsd 40(%%rax), %%xmm5\n\t"
++        "movsd 48(%%rax), %%xmm6\n\t"
++        "movsd 56(%%rax), %%xmm7\n\t"
++
++        // Fill the general purpose registers
++        "movq %5, %%rax\n\t"
++
++        "movq    (%%rax), %%rdi\n\t"
++        "movq   8(%%rax), %%rsi\n\t"
++        "movq  16(%%rax), %%rdx\n\t"
++        "movq  24(%%rax), %%rcx\n\t"
++        "movq  32(%%rax), %%r8\n\t"
++        "movq  40(%%rax), %%r9\n\t"
++
++        // Perform the call
++        "movq %4, %%r11\n\t"
++        "movq %7, %%rax\n\t"
++        "call *%%r11\n\t"
++
++        // Fill the return values
++        "movq   %%rax, %0\n\t"
++        "movq   %%rdx, %1\n\t"
++        "movsd %%xmm0, %2\n\t"
++        "movsd %%xmm1, %3\n\t"
++        : "=m" ( rax ), "=m" ( rdx ), "=m" ( xmm0 ), "=m" ( xmm1 )
++        : "m" ( pMethod ), "m" ( pGPR ), "m" ( pFPR ), "m" ( nFPR )
++        : "rax", "rdi", "rsi", "rdx", "rcx", "r8", "r9", "r11"
++    );
++
++    switch (pReturnTypeRef->eTypeClass)
++    {
++    case typelib_TypeClass_HYPER:
++    case typelib_TypeClass_UNSIGNED_HYPER:
++        *reinterpret_cast<sal_uInt64 *>( pRegisterReturn ) = rax;
++        break;
++    case typelib_TypeClass_LONG:
++    case typelib_TypeClass_UNSIGNED_LONG:
++    case typelib_TypeClass_ENUM:
++        *reinterpret_cast<sal_uInt32 *>( pRegisterReturn ) = *reinterpret_cast<sal_uInt32*>( &rax );
++        break;
++    case typelib_TypeClass_CHAR:
++    case typelib_TypeClass_SHORT:
++    case typelib_TypeClass_UNSIGNED_SHORT:
++        *reinterpret_cast<sal_uInt16 *>( pRegisterReturn ) = *reinterpret_cast<sal_uInt16*>( &rax );
++        break;
++    case typelib_TypeClass_BOOLEAN:
++    case typelib_TypeClass_BYTE:
++        *reinterpret_cast<sal_uInt8 *>( pRegisterReturn ) = *reinterpret_cast<sal_uInt8*>( &rax );
++        break;
++    case typelib_TypeClass_FLOAT:
++    case typelib_TypeClass_DOUBLE:
++        *reinterpret_cast<double *>( pRegisterReturn ) = xmm0;
++        break;
++    default:
++        {
++            sal_Int32 const nRetSize = pReturnTypeRef->pType->nSize;
++            if (bSimpleReturn && nRetSize <= 16 && nRetSize > 0)
++            {
++                sal_uInt64 longs[2];
++                longs[0] = rax;
++                longs[1] = rdx;
++
++                double doubles[2];
++                doubles[0] = xmm0;
++                doubles[1] = xmm1;
++                x86_64::fill_struct( pReturnTypeRef, &longs[0], &doubles[0], pRegisterReturn);
++            }
++            break;
++        }
++    }
++}
++
++/* vim:set shiftwidth=4 softtabstop=4 expandtab: */
+unchanged:
+--- /dev/null
++++ b/bridges/source/cpp_uno/gcc3_linux_x86-64/callvirtualmethod.hxx
+@@ -0,0 +1,49 @@
++/* -*- Mode: C++; tab-width: 4; indent-tabs-mode: nil; c-basic-offset: 4 -*- */
++/*************************************************************************
++ *
++ * DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS FILE HEADER.
++ *
++ * Copyright 2000, 2010 Oracle and/or its affiliates.
++ *
++ * OpenOffice.org - a multi-platform office productivity suite
++ *
++ * This file is part of OpenOffice.org.
++ *
++ * OpenOffice.org is free software: you can redistribute it and/or modify
++ * it under the terms of the GNU Lesser General Public License version 3
++ * only, as published by the Free Software Foundation.
++ *
++ * OpenOffice.org is distributed in the hope that it will be useful,
++ * but WITHOUT ANY WARRANTY; without even the implied warranty of
++ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
++ * GNU Lesser General Public License version 3 for more details
++ * (a copy is included in the LICENSE file that accompanied this code).
++ *
++ * You should have received a copy of the GNU Lesser General Public License
++ * version 3 along with OpenOffice.org.  If not, see
++ * <http://www.openoffice.org/license.html>
++ * for a copy of the LGPLv3 License.
++ *
++ ************************************************************************/
++
++#ifndef INCLUDED_BRIDGES_SOURCE_CPP_UNO_GCC3_LINUX_X86_64_CALLVIRTUALMETHOD_HXX
++#define INCLUDED_BRIDGES_SOURCE_CPP_UNO_GCC3_LINUX_X86_64_CALLVIRTUALMETHOD_HXX
++
++#include "sal/config.h"
++
++#include "sal/types.h"
++#include "typelib/typedescription.h"
++
++namespace CPPU_CURRENT_NAMESPACE {
++
++void callVirtualMethod(
++    void * pThis, sal_uInt32 nVtableIndex, void * pRegisterReturn,
++    typelib_TypeDescriptionReference * pReturnTypeRef, bool bSimpleReturn,
++    sal_uInt64 *pStack, sal_uInt32 nStack, sal_uInt64 *pGPR, sal_uInt32 nGPR,
++    double * pFPR, sal_uInt32 nFPR);
++
++}
++
++#endif
++
++/* vim:set shiftwidth=4 softtabstop=4 expandtab: */
+diff -u b/bridges/source/cpp_uno/gcc3_linux_x86-64/except.cxx b/bridges/source/cpp_uno/gcc3_linux_x86-64/except.cxx
+--- b/bridges/source/cpp_uno/gcc3_linux_x86-64/except.cxx
++++ b/bridges/source/cpp_uno/gcc3_linux_x86-64/except.cxx
+@@ -30,7 +30,12 @@
+ #include <stdio.h>
+ #include <string.h>
+ #include <dlfcn.h>
++
+ #include <cxxabi.h>
++#ifndef _GLIBCXX_CDTOR_CALLABI // new in GCC 4.7 cxxabi.h
++#define _GLIBCXX_CDTOR_CALLABI
++#endif
++
+ #include <boost/unordered_map.hpp>
+ 
+ #include <rtl/instance.hxx>
+@@ -57,10 +62,6 @@
+ namespace CPPU_CURRENT_NAMESPACE
+ {
+ 
+-void dummy_can_throw_anything( char const * )
+-{
+-}
+-
+ //==================================================================================================
+ static OUString toUNOname( char const * p ) SAL_THROW( () )
+ {
+@@ -217,7 +218,8 @@
+ struct RTTISingleton: public rtl::Static< RTTI, RTTISingleton > {};
+ 
+ //--------------------------------------------------------------------------------------------------
+-static void deleteException( void * pExc )
++extern "C" {
++static void _GLIBCXX_CDTOR_CALLABI deleteException( void * pExc )
+ {
+     __cxa_exception const * header = ((__cxa_exception const *)pExc - 1);
+     typelib_TypeDescription * pTD = 0;
+@@ -230,6 +232,7 @@
+         ::typelib_typedescription_release( pTD );
+     }
+ }
++}
+ 
+ //==================================================================================================
+ void raiseException( uno_Any * pUnoExc, uno_Mapping * pUno2Cpp )
+unchanged:
+--- a/bridges/source/cpp_uno/gcc3_linux_x86-64/makefile.mk
++++ b/bridges/source/cpp_uno/gcc3_linux_x86-64/makefile.mk
+@@ -57,6 +57,7 @@ CFLAGSCXX += -fno-omit-frame-pointer -fno-strict-aliasing
+ SLOFILES= \
+     $(SLO)$/abi.obj			\
+     $(SLO)$/except.obj		\
++    $(SLO)$/callvirtualmethod.obj \
+     $(SLO)$/cpp2uno.obj		\
+     $(SLO)$/uno2cpp.obj		\
+     $(SLO)$/call.obj
+diff -u b/bridges/source/cpp_uno/gcc3_linux_x86-64/share.hxx b/bridges/source/cpp_uno/gcc3_linux_x86-64/share.hxx
+--- b/bridges/source/cpp_uno/gcc3_linux_x86-64/share.hxx
++++ b/bridges/source/cpp_uno/gcc3_linux_x86-64/share.hxx
+@@ -35,8 +35,6 @@
+ namespace CPPU_CURRENT_NAMESPACE
+ {
+ 
+-void dummy_can_throw_anything( char const * );
+-
+ // ----- following decl from libstdc++-v3/libsupc++/unwind-cxx.h and unwind.h
+ 
+ struct _Unwind_Exception
+@@ -68,17 +66,26 @@
+     _Unwind_Exception unwindHeader;
+ };
+ 
+-extern "C" void *__cxa_allocate_exception(
+-    std::size_t thrown_size ) throw();
+-extern "C" void __cxa_throw (
+-    void *thrown_exception, std::type_info *tinfo, void (*dest) (void *) ) __attribute__((noreturn));
+-
+ struct __cxa_eh_globals
+ {
+     __cxa_exception *caughtExceptions;
+     unsigned int uncaughtExceptions;
+ };
+-extern "C" __cxa_eh_globals *__cxa_get_globals () throw();
++
++}
++
++extern "C" CPPU_CURRENT_NAMESPACE::__cxa_eh_globals *__cxa_get_globals () throw();
++
++// The following are in cxxabi.h since GCC 4.7:
++#if __GNUC__ == 4 && __GNUC_MINOR__ <= 6
++extern "C" void *__cxa_allocate_exception(
++    std::size_t thrown_size ) throw();
++extern "C" void __cxa_throw (
++    void *thrown_exception, void *tinfo, void (*dest) (void *) ) __attribute__((noreturn));
++#endif
++
++namespace CPPU_CURRENT_NAMESPACE
++{
+ 
+ // -----
+ 
+diff -u b/bridges/source/cpp_uno/gcc3_linux_x86-64/uno2cpp.cxx b/bridges/source/cpp_uno/gcc3_linux_x86-64/uno2cpp.cxx
+--- b/bridges/source/cpp_uno/gcc3_linux_x86-64/uno2cpp.cxx
++++ b/bridges/source/cpp_uno/gcc3_linux_x86-64/uno2cpp.cxx
+@@ -26,12 +26,9 @@
+  *
+  ************************************************************************/
+ 
+-
++#include <alloca.h>
+ #include <exception>
+ #include <typeinfo>
+-#include <stdio.h>
+-#include <stdlib.h>
+-#include <string.h>
+ 
+ #include "rtl/alloc.h"
+ #include "rtl/ustrbuf.hxx"
+@@ -46,159 +43,12 @@
+ #include "bridges/cpp_uno/shared/vtables.hxx"
+ 
+ #include "abi.hxx"
++#include "callvirtualmethod.hxx"
+ #include "share.hxx"
+ 
+ using namespace ::rtl;
+ using namespace ::com::sun::star::uno;
+ 
+-//==================================================================================================
+-static void callVirtualMethod(void * pThis, sal_uInt32 nVtableIndex,
+-                              void * pRegisterReturn, typelib_TypeDescriptionReference * pReturnTypeRef, bool bSimpleReturn,
+-                              sal_uInt64 *pStack, sal_uInt32 nStack,
+-                              sal_uInt64 *pGPR, sal_uInt32 nGPR,
+-                              double *pFPR, sal_uInt32 nFPR) __attribute__((noinline));
+-
+-static void callVirtualMethod(void * pThis, sal_uInt32 nVtableIndex,
+-                              void * pRegisterReturn, typelib_TypeDescriptionReference * pReturnTypeRef, bool bSimpleReturn,
+-                              sal_uInt64 *pStack, sal_uInt32 nStack,
+-                              sal_uInt64 *pGPR, sal_uInt32 nGPR,
+-                              double *pFPR, sal_uInt32 nFPR)
+-{
+-#if OSL_DEBUG_LEVEL > 1
+-    // Let's figure out what is really going on here
+-    {
+-        fprintf( stderr, "= callVirtualMethod() =\nGPR's (%d): ", nGPR );
+-        for ( unsigned int i = 0; i < nGPR; ++i )
+-            fprintf( stderr, "0x%lx, ", pGPR[i] );
+-        fprintf( stderr, "\nFPR's (%d): ", nFPR );
+-        for ( unsigned int i = 0; i < nFPR; ++i )
+-            fprintf( stderr, "%f, ", pFPR[i] );
+-        fprintf( stderr, "\nStack (%d): ", nStack );
+-        for ( unsigned int i = 0; i < nStack; ++i )
+-            fprintf( stderr, "0x%lx, ", pStack[i] );
+-        fprintf( stderr, "\n" );
+-    }
+-#endif
+-
+-    // The call instruction within the asm section of callVirtualMethod may throw
+-    // exceptions.  So that the compiler handles this correctly, it is important
+-    // that (a) callVirtualMethod might call dummy_can_throw_anything (although this
+-    // never happens at runtime), which in turn can throw exceptions, and (b)
+-    // callVirtualMethod is not inlined at its call site (so that any exceptions are
+-    // caught which are thrown from the instruction calling callVirtualMethod):
+-    if ( !pThis )
+-        CPPU_CURRENT_NAMESPACE::dummy_can_throw_anything( "xxx" ); // address something
+-
+-    // Should not happen, but...
+-    if ( nFPR > x86_64::MAX_SSE_REGS )
+-        nFPR = x86_64::MAX_SSE_REGS;
+-    if ( nGPR > x86_64::MAX_GPR_REGS )
+-        nGPR = x86_64::MAX_GPR_REGS;
+-
+-    // Get pointer to method
+-    sal_uInt64 pMethod = *((sal_uInt64 *)pThis);
+-    pMethod += 8 * nVtableIndex;
+-    pMethod = *((sal_uInt64 *)pMethod);
+-
+-    // Load parameters to stack, if necessary
+-    if ( nStack )
+-    {
+-        // 16-bytes aligned
+-        sal_uInt32 nStackBytes = ( ( nStack + 1 ) >> 1 ) * 16;
+-        sal_uInt64 *pCallStack = (sal_uInt64 *) __builtin_alloca( nStackBytes );
+-        memcpy( pCallStack, pStack, nStackBytes );
+-    }
+-
+-    // Return values
+-    sal_uInt64 rax;
+-    sal_uInt64 rdx;
+-    double xmm0;
+-    double xmm1;
+-
+-    asm volatile (
+-
+-        // Fill the xmm registers
+-        "movq %6, %%rax\n\t"
+-
+-        "movsd   (%%rax), %%xmm0\n\t"
+-        "movsd  8(%%rax), %%xmm1\n\t"
+-        "movsd 16(%%rax), %%xmm2\n\t"
+-        "movsd 24(%%rax), %%xmm3\n\t"
+-        "movsd 32(%%rax), %%xmm4\n\t"
+-        "movsd 40(%%rax), %%xmm5\n\t"
+-        "movsd 48(%%rax), %%xmm6\n\t"
+-        "movsd 56(%%rax), %%xmm7\n\t"
+-
+-        // Fill the general purpose registers
+-        "movq %5, %%rax\n\t"
+-
+-        "movq    (%%rax), %%rdi\n\t"
+-        "movq   8(%%rax), %%rsi\n\t"
+-        "movq  16(%%rax), %%rdx\n\t"
+-        "movq  24(%%rax), %%rcx\n\t"
+-        "movq  32(%%rax), %%r8\n\t"
+-        "movq  40(%%rax), %%r9\n\t"
+-
+-        // Perform the call
+-        "movq %4, %%r11\n\t"
+-        "movq %7, %%rax\n\t"
+-        "call *%%r11\n\t"
+-
+-        // Fill the return values
+-        "movq   %%rax, %0\n\t"
+-        "movq   %%rdx, %1\n\t"
+-        "movsd %%xmm0, %2\n\t"
+-        "movsd %%xmm1, %3\n\t"
+-        : "=m" ( rax ), "=m" ( rdx ), "=m" ( xmm0 ), "=m" ( xmm1 )
+-        : "m" ( pMethod ), "m" ( pGPR ), "m" ( pFPR ), "m" ( nFPR )
+-        : "rax", "rdi", "rsi", "rdx", "rcx", "r8", "r9", "r11"
+-    );
+-
+-    switch (pReturnTypeRef->eTypeClass)
+-    {
+-    case typelib_TypeClass_HYPER:
+-    case typelib_TypeClass_UNSIGNED_HYPER:
+-        *reinterpret_cast<sal_uInt64 *>( pRegisterReturn ) = rax;
+-        break;
+-    case typelib_TypeClass_LONG:
+-    case typelib_TypeClass_UNSIGNED_LONG:
+-    case typelib_TypeClass_ENUM:
+-        *reinterpret_cast<sal_uInt32 *>( pRegisterReturn ) = *reinterpret_cast<sal_uInt32*>( &rax );
+-        break;
+-    case typelib_TypeClass_CHAR:
+-    case typelib_TypeClass_SHORT:
+-    case typelib_TypeClass_UNSIGNED_SHORT:
+-        *reinterpret_cast<sal_uInt16 *>( pRegisterReturn ) = *reinterpret_cast<sal_uInt16*>( &rax );
+-        break;
+-    case typelib_TypeClass_BOOLEAN:
+-    case typelib_TypeClass_BYTE:
+-        *reinterpret_cast<sal_uInt8 *>( pRegisterReturn ) = *reinterpret_cast<sal_uInt8*>( &rax );
+-        break;
+-    case typelib_TypeClass_FLOAT:
+-    case typelib_TypeClass_DOUBLE:
+-        *reinterpret_cast<double *>( pRegisterReturn ) = xmm0;
+-        break;
+-    default:
+-        {
+-            sal_Int32 const nRetSize = pReturnTypeRef->pType->nSize;
+-            if (bSimpleReturn && nRetSize <= 16 && nRetSize > 0)
+-            {
+-                sal_uInt64 longs[2];
+-                longs[0] = rax;
+-                longs[1] = rdx;
+-
+-                double doubles[2];
+-                doubles[0] = xmm0;
+-                doubles[1] = xmm1;
+-                x86_64::fill_struct( pReturnTypeRef, &longs[0], &doubles[0], pRegisterReturn);
+-            }
+-            break;
+-        }
+-    }
+-}
+-
+-//==================================================================================================
+-
+ // Macros for easier insertion of values to registers or stack
+ // pSV - pointer to the source
+ // nr - order of the value [will be increased if stored to register]
+@@ -384,7 +234,7 @@
+     try
+     {
+         try {
+-            callVirtualMethod(
++            CPPU_CURRENT_NAMESPACE::callVirtualMethod(
+                 pAdjustedThisPtr, aVtableSlot.index,
+                 pCppReturn, pReturnTypeRef, bSimpleReturn,
+                 pStackStart, ( pStack - pStackStart ),
+@@ -450,7 +300,7 @@
+      catch (...)
+      {
+           // fill uno exception
+-        fillUnoException( CPPU_CURRENT_NAMESPACE::__cxa_get_globals()->caughtExceptions, *ppUnoExc, pThis->getBridge()->getCpp2Uno() );
++        fillUnoException( __cxa_get_globals()->caughtExceptions, *ppUnoExc, pThis->getBridge()->getCpp2Uno() );
+ 
+         // temporary params
+         for ( ; nTempIndizes--; )
