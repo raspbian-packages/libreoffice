@@ -35,15 +35,25 @@ Module gid_Module_Optional_Kde
     MOD_NAME_DESC(MODULE_OPTIONAL_KDE);
     Styles = (DONTSHOWINUSERINSTALL);
     Files = (
+    gid_File_Bin_Kde_Open_Url,
 #ifdef ENABLE_KDE
-    gid_File_Lib_Kdebe
+    gid_File_Lib_Kdebe,
+    gid_File_Lib_Vclplug_Kde,
+    gid_File_Lib_Fps_Kde
 #ifdef ENABLE_KDE4
     ,
 #endif // ENABLE_KDE4
 #endif // ENABLE_KDE
 #ifdef ENABLE_KDE4
-    gid_File_Lib_Kde4be
+    gid_File_Lib_Kde4be,
+    gid_File_Lib_Vclplug_Kde4,
+    gid_File_Lib_Fps_Kde4
 #endif // ENABLE_KDE4
+#ifdef ENABLE_KAB
+    ,
+    gid_File_Lib_Kab_1,
+    gid_File_Lib_Kab_Drv_1
+#endif
     );
 End
 #endif
