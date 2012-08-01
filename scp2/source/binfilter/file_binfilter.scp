@@ -42,7 +42,19 @@ File gid_Starregistry_Legacy_Binfilters_Rdb
     Styles = (PACKED);
 End
 
+File gid_File_Rdb_Bf_Migratefilter
+    TXT_FILE_BODY;
+    Name = "bf_migratefilter.rdb";
+    Dir = gid_Brand_Dir_Program_Services;
+    Styles = (PACKED);
+End
 
+File gid_File_Rdb_Bindet
+    TXT_FILE_BODY;
+    Name = "bindet.rdb";
+    Dir = gid_Brand_Dir_Program_Services;
+    Styles = (PACKED);
+End
 
 STD_LIB_FILE( gid_File_Lib_Bf_Go, bf_go)
 STD_LIB_FILE( gid_File_Lib_Bf_Sch, bf_sch)
