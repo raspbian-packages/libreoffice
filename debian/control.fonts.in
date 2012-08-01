@@ -1,0 +1,21 @@
+Package: fonts-opensymbol
+Section: fonts
+Architecture: all
+Depends: ${misc:Depends}
+Recommends: fontconfig
+Replaces: ttf-opensymbol
+Provides: ttf-opensymbol
+Description: OpenSymbol TrueType font
+ This package contains the OpenSymbol TrueType font included in
+ LibreOffice. This font contains symbols (like fonts as Wingdings(tm)),
+ bullets (needed for bullets in LibreOffice) and non-latin character
+
+Package: ttf-opensymbol
+Section: oldlibs
+Priority: extra
+Architecture: all
+Depends: fonts-opensymbol
+Description: transitional package for fonts-opensymbol
+ This package is a transitiional package for font-opensymbol.
+ It can be removed when fonts-opensymbol is installed.
+

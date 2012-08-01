@@ -1,0 +1,10 @@
+UDK_3_0_0 {
+    global:
+        CreateScDocShellDll;
+        CreateObjScDocShellDll;
+        InitScDll;
+        DeInitScDll;
+        component_getFactory;
+    local:
+        *;
+};

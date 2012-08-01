@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006" xmlns:d="http://openoffice.org/extensions/description/2006"  xmlns:xlink="http://www.w3.org/1999/xlink">
+    <version value="3.2" />
+    <identifier value="galician_2003_spellchecker.from.Frco.Javier.Rial.Rodriguez" />
+    <display-name>
+        <name lang="en-US">Galician spelling dictionary</name>
+    </display-name>
+    <platform value="all" />
+    <dependencies>
+        <OpenOffice.org-minimal-version value="3.0" d:name="OpenOffice.org 3.0" />
+    </dependencies>
+    <publisher>
+        <name xlink:href="http://www.mancomun.org" lang="gl">Mancomún</name>
+    </publisher>
+</description>
