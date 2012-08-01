@@ -55,6 +55,7 @@ $(eval $(call gb_Library_add_api,vclplug_gtk3,\
 $(eval $(call gb_Library_add_libs,vclplug_gtk3,\
     $$(GTK3_LIBS) \
     $$(GTHREAD_LIBS) \
+    $$(GMODULE_LIBS) \
 ))
 
 $(eval $(call gb_Library_add_linked_libs,vclplug_gtk3,\
