@@ -27,6 +27,5 @@
 
 # mk file for Unix Linux Mips using GCC, please make generic modifications to unxlng.mk
 
-CDEFAULTOPT=-Os
 .INCLUDE : unxlng.mk
 CDEFS+=-DMIPS
