@@ -50,6 +50,20 @@ Module gid_Module_Prg_Base_Bin
         ,gid_File_Lib_Rpt
         ,gid_File_Lib_Rptui
         ,gid_File_Lib_Rptxml
+        ,gid_File_Lib_Dba
+        ,gid_File_Lib_Dbase2
+        ,gid_File_Lib_Dbaxml
+        ,gid_File_Lib_Odbcbase
+        ,gid_File_Lib_Dbpool
+        ,gid_File_Lib_Odbc
+        ,gid_File_Lib_Sdbc_2
+        ,gid_File_Lib_Mysql
+#ifdef SOLAR_JAVA
+        ,gid_File_Lib_Jdbc
+        ,gid_File_Lib_Hsqldb_2
+#endif
+        ,gid_File_Lib_Flat
+        ,gid_File_Lib_Calc
     );
 End
 
