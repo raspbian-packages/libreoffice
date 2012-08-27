@@ -1,0 +1,8 @@
+InstallPatchedFiles
+UninstallPatchedFiles
+GetUserInstallMode
+SetProductInstallMode
+ShutDownQuickstarter
+SetFeatureState
+SetNewFeatureState
+ShowOnlineUpdateDialog

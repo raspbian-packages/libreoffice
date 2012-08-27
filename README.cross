@@ -1,0 +1,414 @@
+Cross-compiling LibreOffice
+===========================
+
+Cross-compilation work has been done, to various degrees, for four
+platforms: Windows, iOS, Android and PowerPC Mac OS X.
+
+
+General
+-------
+
+In GNU Autoconf terminology, "build" is the platform on which you are
+running a build of some software and "host" is the platform on which
+the software you are building will run. Only in the specific case of
+building compilers and other programming tools is the term "target"
+used to indicate the platform for which the tools your are building
+will produce code. As LibreOffice is not a compiler, the "target" term
+should not be used in the context of cross-compilation.
+
+(For a case where all three of "build", "host" and "target" are
+different: consider a gcc cross-compiler running on Windows, producing
+code for Android, where the cross-compiler itself was built on
+Linux. (This is a real case.) An interesting tidbit is that such
+configurations are called "Canadian Cross".)
+
+Even though the LibreOffice build mechanism is highly unorthodox, the
+configure script takes the normal --build and --host options like any
+GNU Autoconf -based configure script. To cross-compile, you basically
+need just to specify a suitable --host option and things should work
+out nicely. In practise, many details needed to be handled. See
+examples below.
+
+
+What is so hard, then?
+----------------------
+
+Despite the fact that the configure script takes normal --build and
+--host options, that is just the beginning. In practise a lot of work
+was necessary to separate tests for "host" and "build" platforms in
+the configure script. See the git log for details. And the reasonably
+"standard" configure.in is just the top level; when we get down to the
+actual makefilery used to build the bits of LibreOffice, it gets much
+worse.
+
+
+Windows
+-------
+
+There is some support in LibreOffice already (from OpenOffice.org) for
+building it locally on Windows with the GNU tool-chain
+(MinGW). Apparently, that work has never attempted cross-compilation.
+
+This OOo-originated MinGW support attempts to support both running
+Cygwin gcc in its -mno-cygwin mode, and a native MinGW compiler. The
+-mno-cygwin mechanism in the Cygwin gcc is rapidly being obsoleted, if
+it isn't already, and we have not attempted to try to keep it working;
+in fact we have activly cleaned out mechanisms related to this. Ditto
+for native MinGW. If one compiles natively on Windows, just use
+Microsoft's compiler. OOo/LO has been built for Windows all the time
+using that.
+
+The only case where it makes sense to use MinGW is for
+cross-compilation. There is just too much crack on Windows anyway, and
+it is a semi-miracle (well, make that the result of years of work)
+that the MSVC build under Cygwin works as nicely as it does.
+
+MinGW is available as cross-build toolchains pre-packaged in more or
+less official packages for many Linux distros including Debian,
+Fedora, openSUSE and SLE. For instance the mingw32 packages in the
+Open Build Service, running on openSUSE:
+
+http://download.opensuse.org/repositories/windows:/mingw:/win32/
+
+For example, you can install it like this:
+
+zypper ar http://download.opensuse.org/repositories/windows:/mingw:/win32/<your_os>/windows:mingw:win32.repo
+
+where <your_os> is one of SLE_11, SLE_11_SP1, openSUSE_11.3, openSUSE_11.4 or
+openSUSE_Factory.
+
+zypper in mingw32-cross-gcc mingw32-cross-gcc-c++ mingw32-python-devel \
+    mingw32-libexpat-devel mingw32-libexpat mingw32-boost-devel \
+    mingw32-libhyphen-devel mingw32-libhyphen mingw32-hyphen-en \
+    mingw32-liblpsolve mingw32-liblpsolve-devel \
+    mingw32-libxml2-devel mingw32-libxslt-devel mingw32-libicu \
+    mingw32-libicu-devel mingw32-libgraphite2 mingw32-libgraphite2-devel \
+    mingw32-libcairo2 mingw32-cairo-devel mingw32-librsvg mingw32-librsvg-devel \
+    mingw32-hunspell mingw32-hunspell-devel mingw32-libcurl \
+    mingw32-libcurl-devel mingw32-libneon mingw32-libneon-devel \
+    mingw32-libopenssl mingw32-libopenssl-devel mingw32-libexttextcat \
+    mingw32-libexttextcat-devel mingw32-libdb mingw32-libdb-devel \
+    mingw32-cross-pkg-config mingw32-pkg-config mingw32-libcppunit \
+    mingw32-libcppunit-devel mingw32-libredland mingw32-libredland-devel \
+    mingw32-libmythes mingw32-libmythes-devel
+
+There might be more that are missing, please read carefully what autogen.sh
+tells you, and either remove one of the --with-system-*, or install the
+missing dependency.
+
+It also looks like graphite2.pc needs tweaking in order to work right; but
+that's likely to be fixed in the openSUSE project.
+
+It is somewhat unclear how well thought-out the conditionals and code
+for MinGW inside the OOo-originated code in LibreOffice actually
+are. It often seems a bit randomish, with copy-pasting having been
+preferred to factoring out differences.
+
+Most of the configuration settings are maintained in the
+distro-configs/LibreOfficeMinGW.conf file, so in your autogen.lastrun,
+you can use:
+
+CC=ccache i686-w64-mingw32-gcc
+CXX=ccache i686-w64-mingw32-g++
+CC_FOR_BUILD=ccache gcc
+CXX_FOR_BUILD=ccache g++
+--with-distro=LibreOfficeMinGW
+
+Alternatively, you can use something like the following; but the
+preferred way is to keep the LibreOfficeMinGW.conf file up-to-date.
+
+CC=ccache i686-w64-mingw32-gcc
+CXX=ccache i686-w64-mingw32-g++
+CC_FOR_BUILD=ccache gcc
+CXX_FOR_BUILD=ccache g++
+--build=x86_64-unknown-linux-gnu
+--host=i686-w64-mingw32
+--with-distro=LibreOfficeWin32
+--disable-activex
+--disable-binfilter
+--disable-build-mozilla
+--disable-directx
+--disable-ext-nlpsolver
+--disable-ext-pdfimport
+--disable-ext-presenter-console
+--disable-ext-presenter-minimizer
+--disable-ext-report-builder
+--disable-ext-scripting-beanshell
+--disable-ext-scripting-javascript
+--disable-ext-wiki-publisher
+--disable-ext-wiki-publisher
+--disable-mozilla
+--disable-nss-module
+--disable-zenity
+--enable-python=system
+--with-system-altlinuxhyph
+--with-system-boost
+--with-system-cairo
+--with-system-cppunit
+--with-system-curl
+--with-system-db
+--with-system-expat
+--with-system-gettext
+--with-system-hunspell
+--with-system-icu
+--with-system-libpng
+--with-system-libwpd
+--with-system-libwpg
+--with-system-libwps
+--with-system-libxml
+--with-system-lpsolve
+--with-system-mythes
+--with-system-neon
+--with-system-openssl
+--with-system-redland
+--with-vendor=no
+--without-help
+--without-helppack-integration
+--without-myspell-dicts
+
+Once you have compiled it, you may want to try to run it, for instance
+using Wine:
+
+$ cd /tmp
+$ tar xf <your-build-dir>/instsetoo_native/wntgcci.pro/LibreOffice_Dev/archive/install/en-US/LibO-Dev_3.6.0alpha0_Win_x86_install-arc_en-US.tar.gz
+$ cd LibO-Dev_3.6.0alpha0_Win_x86_install-arc_en-US/LOdev\ 3.6/program
+$ wine soffice.exe
+
+NB. it is important to unpack somewhere low in the hierarchy structure (like
+in /tmp as advised above), otherwise you'll get BerkeleyDB errors on startup.
+
+And if you are brave enough, you can even debug it.  First you have to add the
+URE dll's to the wine's PATH using 'wine regedit' - see
+http://www.winehq.org/docs/wineusr-guide/environment-variables, and add
+Z:\tmp\LibO-Dev_3.6.0alpha0_Win_x86_install-arc_en-US\LOdev 3.6\URE\bin
+to "Path" in My Computer->HKEY_CURRENT_USER->Environment.
+
+Then run linkoo, so that when you rebuild something, you can directly see the
+changes the next time you run it:
+
+solenv/bin/linkoo '/tmp/LibO-Dev_3.6.0alpha0_Win_x86_install-arc_en-US/LOdev 3.6' <your_clone_dir>
+
+And start debugging:
+
+$ winedbg soffice.bin
+
+Would be great to be able to use winedbg --gdb, but it was crashing here :-( -
+but maybe you'll be more lucky.
+
+Tricks of some use with winedbg:
+--------------------------------
+
+To examine OUStrings, you might want to use the following trick (prints 50
+unicode characters of rLibName OUString - the +10 is where the buffer starts):
+
+Wine-dbg>x /50u rLibName->pData+10
+0x0909b6c8: vnd.sun.star.expand:$LO_LIB_DIR/abplo.dll
+
+TODO:
+
+- installation
+  - so far the make_installer.pl calls makecab.exe, uuidgen.exe, and
+    others; would be best to avoid that if at all possible (using a free
+    cab implementation, part of Wine or something)
+  - MSI generation
+  - if at all possible, the make dev-install installation (with links
+    back to the build) should be done so that it would be directly
+    executable via wine after doing make dev-install :-)
+
+- runtime
+  - no idea if the entire thing works after the installation at all; I
+    suppose there will be runtime problems to look at too
+
+- cleanup
+  - enable & fix pieces that are currently disabled
+    - --without-myspell-dicts
+    - --disable-directx
+    - --disable-activex
+    - --disable-mozilla
+  - much of the stuff currently relies on --with-system-*, and
+    consequently on the mingw32-* openSUSE packages; might be good to be
+    able to build with as few dependencies as possible - but that is low
+    prio
+
+- profiling
+  - when all the above is sorted out, we should look at the speed of
+    this vs. the speed of the MSVC version
+
+
+iOS
+---
+
+iOS is the operating system of Apple's mobile devices. Clearly for a
+device like the iPad it would be totally unacceptable to run a normal
+LibreOffice application with a overlapping windows and mouse-oriented
+GUI widgets. No work has been done (at least publicly) by others to
+design a touch GUI for LibreOffice, so that is something that needs to
+be done.
+
+Obviously it will make sense to use only a part of LibreOffice's code
+for iOS. Most likely lots of the GUI-oriented code should be left out,
+and some iOS app(s) that eventually wants to use the remaining bits
+will handle all its GUI in a platform-dependent manner. How well it
+will be possible to do such a split remains to be seen.
+
+Technically, one important special aspect of iOS is that apps are not
+allowed to load own dynamic libraries. (System libraries are used in
+the form of dynamic libraries, just like on Mac OS X, of which iOS is a
+variant.) So all the libraries in LibreOffice that normally are shared
+libraries (DLLs on Windows, shared objects (.so) on Linux, dynamic
+libraries on Mac OS X (.dylib)) need to be built as static archives
+instead. Obviously this will have some interesting consequences for
+how UNO is implemented and used. None of that has been spared much
+thought yet.
+
+The Apple tool-chain for iOS cross-building is available only for
+Mac OS X.
+
+Here is an autogen.lastrun for iOS (device) using Xcode 4.3 and clang,
+and Xcode 3 for the build platform parts:
+CXX=ccache /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk
+CC=ccache /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk
+CC_FOR_BUILD=ccache /Xcode3/usr/bin/gcc-4.0 -mmacosx-version-min=10.4
+CXX_FOR_BUILD=ccache /Xcode3/usr/bin/g++-4.0 -mmacosx-version-min=10.4
+--with-distro=LibreOfficeiOS
+--with-system-nss
+--without-help
+--without-helppack-integration
+--without-myspell-dicts
+
+The --with-system-nss doesn't mean that any Mozilla NSS would be used,
+it's just a trick to bypass some tests in the configure script.
+
+For the iOS simulator, using Xcode 4.3 and clang both for the host and
+build platform:
+
+CXX=ccache /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -mmacosx-version-min=10.6
+CC=ccache /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -mmacosx-version-min=10.6
+CC_FOR_BUILD=ccache clang -arch i386 -mmacosx-version-min=10.6
+CXX_FOR_BUILD=ccache clang++ -arch i386 -mmacosx-version-min=10.6
+--enable-werror
+--with-build-platform-configure-options=--with-macosx-version-min-required=10.6 --with-macosx-sdk=10.6
+--with-distro=LibreOfficeiOS
+--with-system-nss
+--without-help
+--without-helppack-integration
+--without-myspell-dicts
+
+Note that you will have to install autoconf and automake yourself
+before running autogen.sh. They are no longer included in Xcode 4.3
+(not even in the add-on "command line tools").
+
+The -mmacosx-version-min=10.6 is necessary when building for the iOS
+simulator to avoid clang replacing simple calls to fprintf with calls
+to fwrite$UNIX2003 which Xcode then warns that doesn't exist on iOS.
+
+
+Android
+-------
+
+From a technical point of view the core Android OS is Linux, but
+everything else is different. Unlike iOS, an Android app can use
+shared objects just fine, so that aspect of UNO doesn't need special
+handling. Except that there is a silly low limit in the Android
+dynamic linker on the number of libraries you can dlopen. Note that
+this is a limitation of user-level code, not the kernel. Here are
+various ways around this problem that are being examined.
+
+As for the GUI, the same holds as said above for iOS.
+
+Android cross-compilation work has been done on Linux (openSUSE in
+particular) and Mac OS X. The Android cross-buld tool-chain (the
+"Native Development Kit", or NDK) is available for Linux and Mac OS
+X. Sure, for Windows, too, but trying to cross-compile LO from Windows
+will probably drive you insane.
+
+Here is an autogen.lastrun for Android, when cross-compiling from Mac OS X:
+
+CC_FOR_BUILD=ccache /Xcode3/usr/bin/gcc-4.0 -mmacosx-version-min=10.4
+CXX_FOR_BUILD=ccache /Xcode3/usr/bin/g++-4.0 -mmacosx-version-min=10.4
+--with-android-ndk=/Users/tml/android-ndk-r7b
+--with-android-sdk=/Users/tml/android-sdk-macosx
+--build=x86_64-apple-darwin11
+--disable-zenity
+--enable-werror
+--with-distro=LibreOfficeAndroid
+--disable-python
+--without-helppack-integration
+--without-myspell-dicts
+--with-java
+
+And here is an autogen.lastrun for Android when cross-compiling from Linux:
+
+CC_FOR_BUILD=ccache gcc
+CXX_FOR_BUILD=ccache g++
+--with-android-ndk=/home/tml/android-ndk-r7b
+--with-android-sdk=/home/tml/android-sdk-linux_x86
+--with-ant-home=/opt/apache-ant-1.8.2
+--build=x86_64-unknown-linux-gnu
+--disable-zenity
+--with-distro=LibreOfficeAndroid
+--disable-python
+--with-num-cpus=1
+--with-max-jobs=1
+--without-helppack-integration
+--without-myspell-dicts
+
+There is no interactive end-user "app" you could run yet that would
+use LibreOffice code, but you can build some non-interactive unit
+tests and run them on the emulator (or, presumably, on a device,
+although that hasn't been tested as nobody with an actual Android
+device has worked on it yet...)  The simple unit tests will succeed,
+the complex one still fails.
+
+These unit tests *are* proper "apps" from Android'd point of view, but
+they don't have any GUI and thus don't take part in the normal Android
+message passing and Android thinks they are stuck and offers to kill
+them...
+
+The activity used for these apps is in android/Bootstrap. See
+README.Android.
+
+To build the complex unit test for Calc functionality which invokes the
+"ucalc" unit test code from sc, cd to android/qa/sc and run a "make". The
+Makefile here is completely manually written, this stuff is so experimental it
+doesn't make sense yet to try to integrate with the normal gbuild mechanism.
+
+Note that lately (as of May 2012) the android/qa/sc test has not been
+maintained, and might not build cleanly.
+
+Then to run the unit test, do "make install" followed by "make
+run". You most likely want to have an "adb logcat" running in another
+window.
+
+To debug, do manually what "make run" would do, adding args "-e lo-main-delay
+20" to the command line, and when the app has started, run
+ndk-gdb. Unfortunately the gdb in NDK r7 and r8 is a bit broken, you can use
+the one in a NDK build with newer versions of gcc and gdb from
+http://code.google.com/p/mingw-and-ndk/ instead.
+
+Running strace on the unit test in progress is often useful to find
+out what is going wrong. Pass something like -e lo-strace '-tt -f -e
+trace=file,process,network -o /system/sc/strace.out' to the am start
+command line.
+
+The Android test app which has been exercised lately is in
+android/experimental/DocumentLoader.
+
+
+PowerPC Mac OS X
+----------------
+
+Cross-compiling for PowerPC Mac OS X from Intel Mac OS X will probably
+be easy. The APIs available should after all be closely identical to
+those on Intel Mac OS X, and LibreOffice builds fine natively on
+PowerPC Mac already. Only a little experimenting has been done with
+it. An autogen.lastrun looks like this:
+
+CC=ccache /Xcode3/usr/bin/gcc-4.0 -arch ppc
+CXX=ccache /Xcode3/usr/bin/g++-4.0 -arch ppc
+CC_FOR_BUILD=ccache /Xcode3/usr/bin/gcc-4.0
+CXX_FOR_BUILD=ccache /Xcode3/usr/bin/g++-4.0
+--build=i386-apple-darwin10.7.0
+--host=powerpc-apple-darwin10
+--disable-mozilla
+--disable-build-mozilla

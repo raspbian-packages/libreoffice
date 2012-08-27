@@ -1,0 +1,106 @@
+/*
+ * Version: MPL 1.1 / GPLv3+ / LGPLv3+
+ *
+ * The contents of this file are subject to the Mozilla Public License Version
+ * 1.1 (the "License"); you may not use this file except in compliance with
+ * the License or as specified alternatively below. You may obtain a copy of
+ * the License at http://www.mozilla.org/MPL/
+ *
+ * Software distributed under the License is distributed on an "AS IS" basis,
+ * WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ * for the specific language governing rights and limitations under the
+ * License.
+ *
+ * Major Contributor(s):
+ *   Copyright (C) 2012 Kohei Yoshida <kohei.yoshida@suse.com>
+ *
+ * All Rights Reserved.
+ *
+ * For minor contributions see the git repository.
+ *
+ * Alternatively, the contents of this file may be used under the terms of
+ * either the GNU General Public License Version 3 or later (the "GPLv3+"), or
+ * the GNU Lesser General Public License Version 3 or later (the "LGPLv3+"),
+ * in which case the provisions of the GPLv3+ or the LGPLv3+ are applicable
+ * instead of those above.
+ */
+
+#include "calcoptionsdlg.hrc"
+
+ModalDialog RID_SCDLG_FORMULA_CALCOPTIONS
+{
+    OutputSize = TRUE ;
+    Hide = TRUE ;
+    SVLook = TRUE ;
+    Size = MAP_APPFONT ( 230, 200 ) ;
+    Text [ en-US ] = "Detailed Calculation Settings" ;
+
+    Control LB_SETTINGS
+    {
+        Border = TRUE ;
+        Pos = MAP_APPFONT ( 6 , 10 ) ;
+        Size = MAP_APPFONT ( 218 , 67 ) ;
+        TabStop = TRUE ;
+    };
+
+    FixedText FT_OPTION_EDIT_CAPTION
+    {
+        Pos = MAP_APPFONT ( 8 , 84 ) ;
+        Size = MAP_APPFONT ( 40 , 14 ) ;
+        TabStop = TRUE ;
+
+        Text [ en-US ] = "Value";
+    };
+
+    ListBox LB_OPTION_EDIT
+    {
+        Pos = MAP_APPFONT ( 50, 82 ) ;
+        Size = MAP_APPFONT ( 100, 46 ) ;
+        TabStop = TRUE ;
+        DropDown = TRUE ;
+    };
+
+    FixedLine FL_ANNOTATION
+    {
+        Pos = MAP_APPFONT ( 6 , 98 ) ;
+        Size = MAP_APPFONT ( 218 , 8 ) ;
+        TabStop = TRUE ;
+    };
+
+    FixedText FT_ANNOTATION
+    {
+        Pos = MAP_APPFONT ( 8 , 108 ) ;
+        Size = MAP_APPFONT ( 214 , 70 ) ;
+        WordBreak = TRUE ;
+        NoLabel = TRUE ;
+    };
+
+    OKButton BTN_OK
+    {
+        Pos = MAP_APPFONT ( 118 , 180 ) ;
+        Size = MAP_APPFONT ( 50 , 14 ) ;
+        TabStop = TRUE ;
+    };
+
+    CancelButton BTN_CANCEL
+    {
+        Pos = MAP_APPFONT ( 174 , 180 ) ;
+        Size = MAP_APPFONT ( 50 , 14 ) ;
+        TabStop = TRUE ;
+    };
+
+    String STR_STRING_REF_SYNTAX_CAPTION
+    {
+        Text [ en-US ] = "Reference syntax for string reference";
+    };
+
+    String STR_STRING_REF_SYNTAX_DESC
+    {
+        Text [ en-US ] = "Formula syntax to use when parsing references given in string parameters. This affects built-in functions such as INDIRECT that takes a reference as a string value.";
+    };
+
+    String STR_USE_FORMULA_SYNTAX
+    {
+        Text [ en-US ] = "Use formula syntax";
+    };
+};

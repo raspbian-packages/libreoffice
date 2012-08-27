@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************************
+ *
+ *  Effective License of whole file:
+ *
+ *    This library is free software; you can redistribute it and/or
+ *    modify it under the terms of the GNU Lesser General Public
+ *    License version 3, as published by the Free Software Foundation.
+ *
+ *    This library is distributed in the hope that it will be useful,
+ *    but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ *    Lesser General Public License for more details.
+ *
+ *    You should have received a copy of the GNU Lesser General Public
+ *    License along with this library; if not, write to the Free Software
+ *    Foundation, Inc., 59 Temple Place, Suite 330, Boston,
+ *    MA  02111-1307  USA
+ *
+ *  Parts "Copyright by Sun Microsystems, Inc" prior to August 2011:
+ *
+ *    The Contents of this file are made available subject to the terms of
+ *    the GNU Lesser General Public License Version 3
+ *
+ *    Copyright: 2008 by Sun Microsystems, Inc.
+ *
+ *  All parts contributed on or after August 2011:
+ *
+ *    Version: MPL 1.1 / GPLv3+ / LGPLv3+
+ *
+ *    The contents of this file are subject to the Mozilla Public License Version
+ *    1.1 (the "License"); you may not use this file except in compliance with
+ *    the License or as specified alternatively below. You may obtain a copy of
+ *    the License at http://www.mozilla.org/MPL/
+ *
+ *    Software distributed under the License is distributed on an "AS IS" basis,
+ *    WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ *    for the specific language governing rights and limitations under the
+ *    License.
+ *
+ *    Major Contributor(s):
+ *    [ Copyright (C) 2011 Lionel Elie Mamane <lionel@mamane.lu> ]
+ *
+ *    All Rights Reserved.
+ *
+ *    For minor contributions see the git repository.
+ *
+ *    Alternatively, the contents of this file may be used under the terms of
+ *    either the GNU General Public License Version 3 or later (the "GPLv3+"), or
+ *    the GNU Lesser General Public License Version 3 or later (the "LGPLv3+"),
+ *    in which case the provisions of the GPLv3+ or the LGPLv3+ are applicable
+ *    instead of those above.
+ *
+ ************************************************************************ -->
+<oor:component-data oor:name="Drivers" oor:package="org.openoffice.Office.DataAccess" xmlns:install="http://openoffice.org/2004/installation" xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <node oor:name="Installed" install:module="postgresql">
+    <node oor:name="sdbc:postgresql:*" oor:op="replace">
+      <prop oor:name="Driver">
+        <value>org.openoffice.comp.connectivity.pq.Driver.noext</value>
+      </prop>
+      <prop oor:name="DriverTypeDisplayName" oor:type="xs:string">
+        <value xml:lang="en-US">PostgreSQL</value>
+      </prop>
+      <node oor:name="Properties">
+        <!-- Don't use ODBC syntax for date&time literals and (full) outer joins,
+             as PostgreSQL does not support it,
+             but supports the _interior_ of these escapes just fine. -->
+        <node oor:name="EscapeDateTime" oor:op="replace">
+          <prop oor:name="Value" oor:type="xs:boolean">
+            <value>false</value>
+          </prop>
+        </node>
+        <!--   Confusingly, this corresponds to "UseBracketedOuterJoinSyntax" in the Features -->
+        <node oor:name="EnableOuterJoinEscape" oor:op="replace">
+          <prop oor:name="Value" oor:type="xs:boolean">
+            <value>false</value>
+          </prop>
+        </node>
+      </node>
+      <node oor:name="Features">
+        <!-- These entries enable the "Advanced Settings" UI to change the settings
+             whose default is set in node "Properties" above;
+             as this is guaranteed not to work with PostgreSQL,
+             we don't let people shoot themselves in the foot and don't enable the UI. -->
+      <!--   <node oor:name="EscapeDateTime" oor:op="replace"> -->
+      <!--     <prop oor:name="Value" oor:type="xs:boolean"> -->
+      <!--       <value>false</value> -->
+      <!--     </prop> -->
+      <!--   </node> -->
+        <!--   Confusingly, this corresponds to "EnableOuterJoinEscape" in the Properties -->
+      <!--   <node oor:name="UseBracketedOuterJoinSyntax" oor:op="replace"> -->
+      <!--     <prop oor:name="Value" oor:type="xs:boolean"> -->
+      <!--       <value>false</value> -->
+      <!--     </prop> -->
+      <!--   </node> -->
+      </node>
+      <node oor:name="MetaData">
+       <node oor:name="Authentication" oor:op="replace">
+          <prop oor:name="Value" oor:type="xs:string">
+            <value>UserPassword</value>
+          </prop>
+        </node>
+      </node>
+    </node>
+  </node>
+</oor:component-data>
+
+<!-- Local Variables: -->
+<!-- indent-tabs-mode: nil -->
+<!-- End: -->

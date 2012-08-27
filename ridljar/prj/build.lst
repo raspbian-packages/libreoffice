@@ -1,0 +1,3 @@
+ri ridljar : DESKTOP:codemaker solenv udkapi NULL
+ri ridljar\prj nmake - all ri_prj NULL
+

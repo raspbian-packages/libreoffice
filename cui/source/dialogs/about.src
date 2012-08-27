@@ -1,0 +1,117 @@
+﻿/*************************************************************************
+ *
+ * DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS FILE HEADER.
+ *
+ * Copyright 2000, 2010 Oracle and/or its affiliates.
+ *
+ * OpenOffice.org - a multi-platform office productivity suite
+ *
+ * This file is part of OpenOffice.org.
+ *
+ * OpenOffice.org is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Lesser General Public License version 3
+ * only, as published by the Free Software Foundation.
+ *
+ * OpenOffice.org is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Lesser General Public License version 3 for more details
+ * (a copy is included in the LICENSE file that accompanied this code).
+ *
+ * You should have received a copy of the GNU Lesser General Public License
+ * version 3 along with OpenOffice.org.  If not, see
+ * <http://www.openoffice.org/license.html>
+ * for a copy of the LGPLv3 License.
+ *
+ ************************************************************************/
+
+#include "about.hrc"
+
+ModalDialog RID_DEFAULTABOUT
+{
+    OutputSize = TRUE ;
+    Moveable = TRUE ;
+    SVLook = TRUE ;
+    MultiLineEdit ABOUT_DESCRIPTION_TEXT
+    {
+        Border = FALSE ;
+        IgnoreTab = TRUE ;
+        ReadOnly = TRUE ;
+        AutoVScroll = TRUE ;
+        LEFT = FALSE ;
+        CENTER = TRUE ;
+        RIGHT = FALSE ;
+    };
+    MultiLineEdit ABOUT_COPYRIGHT_TEXT
+    {
+        Border = FALSE ;
+        IgnoreTab = TRUE ;
+        ReadOnly = TRUE ;
+        LEFT = FALSE ;
+        CENTER = TRUE ;
+        RIGHT = FALSE ;
+    };
+    MultiLineEdit ABOUT_COPYRIGHT_TEXT_SHADOW
+    {
+        Border = FALSE ;
+        IgnoreTab = TRUE ;
+        ReadOnly = TRUE ;
+        LEFT = FALSE ;
+        CENTER = TRUE ;
+        RIGHT = FALSE ;
+    };
+    MultiLineEdit ABOUT_VERSION_TEXT
+    {
+        Border = FALSE ;
+        IgnoreTab = TRUE ;
+        ReadOnly = TRUE ;
+        LEFT = FALSE ;
+        CENTER = TRUE ;
+        RIGHT = FALSE ;
+    };
+    String ABOUT_STR_VERSION
+    {
+        Text [ en-US ] = "Version %ABOUTBOXPRODUCTVERSION%ABOUTBOXPRODUCTVERSIONSUFFIX %PRODUCTEXTENSION";
+    };
+    String ABOUT_STR_DESCRIPTION
+    {
+        Text [ en-US ] = "%PRODUCTNAME is a modern, easy-to-use, open source productivity suite for word processing, spreadsheets, presentations and more.";
+    };
+    String ABOUT_STR_VENDOR
+    {
+        Text[ en-US ] = "This release was supplied by %OOOVENDOR";
+    };
+    String ABOUT_STR_COPYRIGHT
+    {
+        Text[ en-US ] = "Copyright © 2000 - 2012 LibreOffice contributors and/or their affiliates";
+    };
+    String ABOUT_STR_BASED
+    {
+        Text[ en-US ] = "LibreOffice was based on OpenOffice.org";
+    };
+    String ABOUT_STR_BASED_DERIVED
+    {
+        Text[ en-US ] = "%PRODUCTNAME is derived from LibreOffice which was based on OpenOffice.org";
+    };
+    String ABOUT_STR_BUILD
+    {
+        Text[ en-US ] = "(Build ID: $BUILDID)";
+    };
+    String ABOUT_STR_LINK_CREDITS
+    {
+        Text[ en-US ] = "http://www.libreoffice.org/about-us/credits/";
+    };
+    PushButton ABOUT_BTN_CREDITS
+    {
+        Text [ en-US ] = "Credits";
+    };
+    PushButton ABOUT_BTN_WEBSITE
+    {
+        Text [ en-US ] = "Website";
+    };
+    CancelButton ABOUT_BTN_CANCEL
+    {
+        DefButton = TRUE ;
+        Text [ en-US ] = "~Close";
+    };
+};

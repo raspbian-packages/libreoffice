@@ -1,0 +1,132 @@
+# backup and temporary files
+*~
+.*sw?
+\#*
+.DS_Store
+
+# StGit
+.stgit-edit.txt
+
+# python generated file
+*.pyc
+
+# where the 'subrepos' and downloads are located
+/clone
+/src
+
+# the build directories
+/*/unxlng??
+/*/unxlng??.pro
+/*/unxlng???
+/*/unxlng???.pro
+/*/wntmsc???
+/*/wntmsc???.pro
+/*/wntgcc?
+/*/wntgcc?.pro
+/*/unxmac??
+/*/unxmac??.pro
+/*/unx?bsd??
+/*/unx?bsd??.pro
+/*/unxdfly??
+/*/unxdfly??.pro
+/*/unxso???
+/*/unxso???.pro
+/*/unxaig??
+/*/unxaig??.pro
+/*/unxios?
+/*/unxios?.pro
+/*/unxand?
+/*/unxand?.pro
+/*/unx*.obsolete
+/*/wnt*.obsolete
+/*/callcatcher
+/workdir
+/solver
+/instsetoo_native/util/LibreOffice
+/instsetoo_native/util/LibreOffice_SDK
+
+# autoconf generated stuff
+/aclocal.m4
+/autom4te.cache
+/autogen.lastrun
+/autogen.lastrun.bak
+/ChangeLog
+/config.guess
+/config.log
+/config.status
+/config.parms
+/config_host.mk
+/config_host.mk.last
+/config_build.mk
+/configure
+/desktop/scripts/soffice.sh
+/makefile.mk
+/post_download
+/bin/repo-list
+/src.downloaded
+/ooo.lst
+/intltool-extract.in
+/intltool-merge.in
+/intltool-update.in
+/NEWS
+/TODO
+/README
+/AUTHORS
+/MAINTAINERS
+
+# misc
+/file-lists
+/cross-build-toolset.built
+/set_soenv.stamp
+/warn
+/build.log
+/build_error.log
+/post_download.log
+/install
+/downloaded
+/ID
+/tags
+/docs
+/autogen.save
+TAGS
+
+/*/*.exe
+
+# external dlls etc
+/external/*/*.dll
+/external/*/*.exe
+/external/*/*.manifest
+/external/*/*.txt
+/external/*/*.msm
+/moz/zipped/*.zip
+/extras/source/extensions
+
+# links to the other repositories
+/binfilter
+/dictionaries
+/helpcontent2
+/translations
+
+# compiled python objects for gdb pretty printers
+/solenv/gdb/libreoffice/*.py[co]
+/solenv/gdb/libreoffice/util/*.py[co]
+
+# botstrap generated tool
+/solenv/bin/concat-deps
+/solenv/bin/concat-deps.exe
+
+# test output files
+test/user-template/user/psprint/pspfontcache
+
+# MSVC debug information
+/*/vc90.pdb
+
+# libxslt debug memdump
+.memdump
+
+# LibreOffice lock files
+.~lock.*#
+
+# Somepeople love debugging
+gdbtrace.log
+valgrind.log

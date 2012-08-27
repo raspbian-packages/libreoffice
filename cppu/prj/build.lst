@@ -1,0 +1,2 @@
+cu	cppu	:	sal salhelper offapi BOOST:boost NULL
+cu	cppu\prj						nmake	-	all	cu_prj NULL
