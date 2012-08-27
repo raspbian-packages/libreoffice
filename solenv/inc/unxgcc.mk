@@ -264,6 +264,10 @@ LINKFLAGS += -Wl,--hash-style=$(WITH_LINKER_HASH_STYLE)
 LINKFLAGS += -Wl,-zdynsort
 .ENDIF
 
+LINKFLAGS += $(HARDEN_LDFLAGS)
+CDEFS += $(HARDEN_CPPFLAGS)
+CFLAGS += $(HARDEN_CFLAGS)
+
 # libraries for linking applications
 STDLIBGUIMT+=-Wl,--as-needed $(DL_LIB) $(PTHREAD_LIBS) -lm -Wl,--no-as-needed
 STDLIBCUIMT+=-Wl,--as-needed $(DL_LIB) $(PTHREAD_LIBS) -lm -Wl,--no-as-needed

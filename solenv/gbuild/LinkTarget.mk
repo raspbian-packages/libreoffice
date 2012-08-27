@@ -54,6 +54,8 @@ gb_LinkTarget__get_objcflags=$(if $(OBJCFLAGS),$(OBJCFLAGS),$(call gb_LinkTarget
 gb_LinkTarget__get_cxxflags=$(if $(CXXFLAGS),$(CXXFLAGS),$(call gb_LinkTarget__get_debugcxxflags,$(1)))
 gb_LinkTarget__get_objcxxflags=$(if $(OBJCXXFLAGS),$(OBJCXXFLAGS),$(call gb_LinkTarget__get_debugcxxflags,$(1)))
 
+LDFLAGS += $(HARDEN_LDFLAGS)
+
 # Overview of dependencies and tasks of LinkTarget
 #
 # target                      task                         depends on
