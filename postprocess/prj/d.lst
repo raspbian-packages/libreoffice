@@ -4,4 +4,7 @@ mkdir: %_DEST%\xml\ooo
 ..\%__SRC%\misc\lang\*.xcd %_DEST%\xml\
 ..\%__SRC%\misc\scriptproviderforbeanshell.rdb %_DEST%\xml\scriptproviderforbeanshell.rdb
 ..\%__SRC%\misc\scriptproviderforjavascript.rdb %_DEST%\xml\scriptproviderforjavascript.rdb
+..\%__SRC%\misc\bf_migratefilter.rdb %_DEST%\xml\bf_migratefilter.rdb
+..\%__SRC%\misc\bindet.rdb %_DEST%\xml\bindet.rdb
+..\%__SRC%\misc\evoab.rdb %_DEST%\xml\evoab.rdb
 ..\%__SRC%\misc\services.rdb %_DEST%\xml\services.rdb

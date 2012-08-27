@@ -304,12 +304,6 @@ my_components += \
     component/wizards/com/sun/star/wizards/web/web
 .END
 
-.IF "$(WITH_BINFILTER)" != "NO"
-my_components += \
-    bf_migratefilter \
-    bindet
-.END
-
 .IF "$(WITH_LDAP)" == "YES"
 my_components += component/extensions/source/config/ldap/ldapbe2
 .END
@@ -395,10 +389,6 @@ my_components += component/connectivity/source/drivers/mozab/bootstrap/mozbootst
 my_components += component/shell/source/cmdmail/cmdmail
 .END
 
-.IF "$(OS)" != "WNT" && "$(ENABLE_EVOAB2)" != ""
-my_components += component/connectivity/source/drivers/evoab2/evoab
-.END
-
 .IF "$(OS)" != "WNT" && "$(ENABLE_GSTREAMER)" != ""
 my_components += component/avmedia/source/gstreamer/avmediagstreamer
 .END
@@ -448,5 +438,52 @@ $(MISC)/scriptproviderforjavascript.rdb .ERRREMOVE : \
 $(MISC)/scriptproviderforjavascript.input : makefile.mk
     echo \
         '<list><filename>component/scripting/java/ScriptProviderForJavaScript.component</filename></list>' \
+        > $@
+.END
+
+.IF "$(WITH_BINFILTER)" == "YES"
+ALLTAR: $(MISC)/bf_migratefilter.rdb $(MISC)/bindet.rdb
+
+$(MISC)/bf_migratefilter.rdb .ERRREMOVE : \
+        $(SOLARENV)/bin/packcomponents.xslt \
+        $(MISC)/bf_migratefilter.input \
+        $(SOLARXMLDIR)/bf_migratefilter.component
+    $(XSLTPROC) --nonet --stringparam prefix $(SOLARXMLDIR)/ -o $@ \
+        $(SOLARENV)/bin/packcomponents.xslt \
+        $(MISC)/bf_migratefilter.input
+
+$(MISC)/bindet.rdb .ERRREMOVE : \
+        $(SOLARENV)/bin/packcomponents.xslt \
+        $(MISC)/bindet.input \
+        $(SOLARXMLDIR)/bindet.component
+    $(XSLTPROC) --nonet --stringparam prefix $(SOLARXMLDIR)/ -o $@ \
+        $(SOLARENV)/bin/packcomponents.xslt \
+        $(MISC)/bindet.input
+
+$(MISC)/bf_migratefilter.input : makefile.mk
+    echo \
+        '<list><filename>bf_migratefilter.component</filename></list>' \
+        > $@
+
+$(MISC)/bindet.input : makefile.mk
+    echo \
+        '<list><filename>bindet.component</filename></list>' \
+        > $@
+.END
+
+.IF "$(ENABLE_EVOAB2)" == "YES"
+ALLTAR : $(MISC)/evoab.rdb
+
+$(MISC)/evoab.rdb .ERRREMOVE : \
+        $(SOLARENV)/bin/packcomponents.xslt \
+        $(MISC)/evoab.input \
+        $(SOLARXMLDIR)/evoab.component
+    $(XSLTPROC) --nonet --stringparam prefix $(SOLARXMLDIR)/ -o $@ \
+        $(SOLARENV)/bin/packcomponents.xslt \
+        $(MISC)/evoab.input
+
+$(MISC)/evoab.input : makefile.mk
+    echo \
+        '<list><filename>evoab.component</filename></list>' \
         > $@
 .END
