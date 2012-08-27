@@ -1,0 +1,2303 @@
+#. extracted from sd/source/ui/app.oo
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+sd%2Fsource%2Fui%2Fapp.oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-07-04 16:38+0200\n"
+"PO-Revision-Date: 2012-06-16 14:40+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ks\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Accelerator-Marker: ~\n"
+
+#: popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.SID_FORMAT_TABLE_DLG.menuitem.text
+msgctxt "popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.SID_FORMAT_TABLE_DLG.menuitem.text"
+msgid "~Table..."
+msgstr ""
+
+#: popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_10.SID_TABLE_MERGE_CELLS.menuitem.text
+msgctxt "popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_10.SID_TABLE_MERGE_CELLS.menuitem.text"
+msgid "~Merge"
+msgstr ""
+
+#: popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_10.SID_TABLE_SPLIT_CELLS.menuitem.text
+msgctxt "popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_10.SID_TABLE_SPLIT_CELLS.menuitem.text"
+msgid "~Split..."
+msgstr ""
+
+#: popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_10.SID_TABLE_VERT_NONE.menuitem.text
+#, fuzzy
+msgctxt "popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_10.SID_TABLE_VERT_NONE.menuitem.text"
+msgid "~Top"
+msgstr ""
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"اوپر\n"
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"اوپر\n"
+"#-#-#-#-#  dialogs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"۔ہ۪یور\n"
+"#-#-#-#-#  source.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"۔ہ۪یور\n"
+"#-#-#-#-#  inc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"۔ہ۪یور"
+
+#: popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_10.SID_TABLE_VERT_CENTER.menuitem.text
+#, fuzzy
+msgctxt "popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_10.SID_TABLE_VERT_CENTER.menuitem.text"
+msgid "C~enter"
+msgstr ""
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"مرکز\n"
+"#-#-#-#-#  frmdlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"مرکز\n"
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"مرکز\n"
+"#-#-#-#-#  inc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"مرکز "
+
+#: popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_10.SID_TABLE_VERT_BOTTOM.menuitem.text
+#, fuzzy
+msgctxt "popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_10.SID_TABLE_VERT_BOTTOM.menuitem.text"
+msgid "~Bottom"
+msgstr ""
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"نیچے\n"
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"نیچے\n"
+"#-#-#-#-#  dialogs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"۔تلئكنئ\n"
+"#-#-#-#-#  source.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"۔تلئكنئ\n"
+"#-#-#-#-#  inc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"۔تلئكنئ"
+
+#: popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_10.menuitem.text
+msgctxt "popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_10.menuitem.text"
+msgid "~Cell"
+msgstr ""
+
+#: popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_11.SID_TABLE_DISTRIBUTE_ROWS.menuitem.text
+msgctxt "popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_11.SID_TABLE_DISTRIBUTE_ROWS.menuitem.text"
+msgid "Space ~Equally"
+msgstr ""
+
+#: popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_11.SID_TABLE_SELECT_ROW.menuitem.text
+msgctxt "popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_11.SID_TABLE_SELECT_ROW.menuitem.text"
+msgid "~Select"
+msgstr ""
+
+#: popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_11.SID_TABLE_INSERT_ROW_DLG.menuitem.text
+msgctxt "popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_11.SID_TABLE_INSERT_ROW_DLG.menuitem.text"
+msgid "~Insert..."
+msgstr ""
+
+#: popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_11.SID_TABLE_DELETE_ROW.menuitem.text
+msgctxt "popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_11.SID_TABLE_DELETE_ROW.menuitem.text"
+msgid "~Delete"
+msgstr "~خئرج کریو"
+
+#: popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_11.menuitem.text
+msgctxt "popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_11.menuitem.text"
+msgid "~Row"
+msgstr ""
+
+#: popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_12.SID_TABLE_DISTRIBUTE_COLUMNS.menuitem.text
+msgctxt "popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_12.SID_TABLE_DISTRIBUTE_COLUMNS.menuitem.text"
+msgid "Space ~Equally"
+msgstr ""
+
+#: popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_12.SID_TABLE_SELECT_COL.menuitem.text
+msgctxt "popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_12.SID_TABLE_SELECT_COL.menuitem.text"
+msgid "~Select"
+msgstr ""
+
+#: popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_12.SID_TABLE_INSERT_COL_DLG.menuitem.text
+msgctxt "popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_12.SID_TABLE_INSERT_COL_DLG.menuitem.text"
+msgid "~Insert..."
+msgstr ""
+
+#: popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_12.SID_TABLE_DELETE_COL.menuitem.text
+msgctxt "popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_12.SID_TABLE_DELETE_COL.menuitem.text"
+msgid "~Delete"
+msgstr "~خئرج کریو"
+
+#: popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_12.menuitem.text
+msgctxt "popup.src#RID_DRAW_TABLEOBJ_INSIDE_POPUP.DUMMY_12.menuitem.text"
+msgid "Colu~mn"
+msgstr ""
+
+#: popup.src#RID_LAYERTAB_POPUP.SID_INSERTLAYER.menuitem.text
+msgid "~Insert Layer..."
+msgstr "تہہ كریو  دئخل"
+
+#: popup.src#RID_LAYERTAB_POPUP.SID_MODIFYLAYER.menuitem.text
+msgid "Modify La~yer..."
+msgstr "تہئ شیریو۔۔۔"
+
+#: popup.src#RID_LAYERTAB_POPUP.SID_DELETE_LAYER.menuitem.text
+#, fuzzy
+msgid "Delete ~Layer..."
+msgstr "تہئ كریو خئرج  ۔۔۔.."
+
+#: popup.src#RID_TASKPANE_MASTERPAGESSELECTOR_POPUP.SID_TP_APPLY_TO_ALL_SLIDES.menuitem.text
+msgctxt "popup.src#RID_TASKPANE_MASTERPAGESSELECTOR_POPUP.SID_TP_APPLY_TO_ALL_SLIDES.menuitem.text"
+msgid "~Apply to All Slides"
+msgstr "۔سارنی سلائڈسن پیٹھ كریو لاگو "
+
+#: popup.src#RID_TASKPANE_MASTERPAGESSELECTOR_POPUP.SID_TP_APPLY_TO_SELECTED_SLIDES.menuitem.text
+#, fuzzy
+msgctxt "popup.src#RID_TASKPANE_MASTERPAGESSELECTOR_POPUP.SID_TP_APPLY_TO_SELECTED_SLIDES.menuitem.text"
+msgid "Apply to ~Selected Slides"
+msgstr "ژئرمِتین  سلائڈن پیٹھ كریو لاگو ‎"
+
+#: popup.src#RID_TASKPANE_MASTERPAGESSELECTOR_POPUP.SID_TP_SHOW_LARGE_PREVIEW.menuitem.text
+msgctxt "popup.src#RID_TASKPANE_MASTERPAGESSELECTOR_POPUP.SID_TP_SHOW_LARGE_PREVIEW.menuitem.text"
+msgid "Show ~Large Preview"
+msgstr "بوْڈ  پیش منظر ہئویو"
+
+#: popup.src#RID_TASKPANE_MASTERPAGESSELECTOR_POPUP.SID_TP_SHOW_SMALL_PREVIEW.menuitem.text
+msgctxt "popup.src#RID_TASKPANE_MASTERPAGESSELECTOR_POPUP.SID_TP_SHOW_SMALL_PREVIEW.menuitem.text"
+msgid "Show S~mall Preview"
+msgstr "لكٹ پیش منظر  ہئویو"
+
+#: popup.src#RID_TASKPANE_CURRENT_MASTERPAGESSELECTOR_POPUP.SID_TP_APPLY_TO_ALL_SLIDES.menuitem.text
+msgctxt "popup.src#RID_TASKPANE_CURRENT_MASTERPAGESSELECTOR_POPUP.SID_TP_APPLY_TO_ALL_SLIDES.menuitem.text"
+msgid "~Apply to All Slides"
+msgstr "۔سارنی سلائڈسن پیٹھ كریو لاگو "
+
+#: popup.src#RID_TASKPANE_CURRENT_MASTERPAGESSELECTOR_POPUP.SID_TP_APPLY_TO_SELECTED_SLIDES.menuitem.text
+#, fuzzy
+msgctxt "popup.src#RID_TASKPANE_CURRENT_MASTERPAGESSELECTOR_POPUP.SID_TP_APPLY_TO_SELECTED_SLIDES.menuitem.text"
+msgid "Apply to ~Selected Slides"
+msgstr "ژئرمِتین  سلائڈن پیٹھ كریو لاگو ‎"
+
+#: popup.src#RID_TASKPANE_CURRENT_MASTERPAGESSELECTOR_POPUP.SID_TP_EDIT_MASTER.menuitem.text
+msgid "~Edit Master..."
+msgstr ""
+
+#: popup.src#RID_TASKPANE_CURRENT_MASTERPAGESSELECTOR_POPUP.SID_TP_SHOW_LARGE_PREVIEW.menuitem.text
+msgctxt "popup.src#RID_TASKPANE_CURRENT_MASTERPAGESSELECTOR_POPUP.SID_TP_SHOW_LARGE_PREVIEW.menuitem.text"
+msgid "Show ~Large Preview"
+msgstr "بوْڈ  پیش منظر ہئویو"
+
+#: popup.src#RID_TASKPANE_CURRENT_MASTERPAGESSELECTOR_POPUP.SID_TP_SHOW_SMALL_PREVIEW.menuitem.text
+msgctxt "popup.src#RID_TASKPANE_CURRENT_MASTERPAGESSELECTOR_POPUP.SID_TP_SHOW_SMALL_PREVIEW.menuitem.text"
+msgid "Show S~mall Preview"
+msgstr "لكٹ پیش منظر  ہئویو"
+
+#: popup.src#RID_TASKPANE_LAYOUTMENU_POPUP.SID_TP_APPLY_TO_SELECTED_SLIDES.menuitem.text
+msgctxt "popup.src#RID_TASKPANE_LAYOUTMENU_POPUP.SID_TP_APPLY_TO_SELECTED_SLIDES.menuitem.text"
+msgid "Apply to ~Selected Slides"
+msgstr "ژئرمِتین  سلائڈن پیٹھ كریو لاگو ‎"
+
+#: popup.src#RID_TASKPANE_LAYOUTMENU_POPUP.SID_INSERTPAGE_LAYOUT_MENU.menuitem.text
+#, fuzzy
+msgid "~Insert Slide"
+msgstr "سلائیڈكریو  دئخل"
+
+#: menuids3_tmpl.src#MN_CHANGEBEZIER.SID_CHANGEBEZIER.menuitem.text
+msgid "To ~Curve"
+msgstr "موڑكرُن"
+
+#: menuids3_tmpl.src#MN_CHANGEPOLYGON.SID_CHANGEPOLYGON.menuitem.text
+msgid "To ~Polygon"
+msgstr "پٱلیگَنس"
+
+#: menuids3_tmpl.src#MN_CONVERT_TO_CONTOUR.SID_CONVERT_TO_CONTOUR.menuitem.text
+msgid "To C~ontour"
+msgstr "قنطورس"
+
+#: menuids3_tmpl.src#MN_CONVERT_TO_3D.SID_CONVERT_TO_3D.menuitem.text
+msgid "To 3~D"
+msgstr "3~Dئس"
+
+#: menuids3_tmpl.src#MN_CONVERT_TO_BITMAP.SID_CONVERT_TO_BITMAP.menuitem.text
+msgid "To ~Bitmap"
+msgstr "مبیٹ میپس  "
+
+#: menuids3_tmpl.src#MN_CONVERT_TO_METAFILE.SID_CONVERT_TO_METAFILE.menuitem.text
+msgid "To ~Metafile"
+msgstr "میٹافائلس  "
+
+#: menuids3_tmpl.src#MN_CONVERT_TO_3D_LATHE_FAST.SID_CONVERT_TO_3D_LATHE_FAST.menuitem.text
+msgid "To 3D ~Rotation Object"
+msgstr "3Dگھماؤآبجیکٹس"
+
+#: menuids3_tmpl.src#MN_VERTICAL.SID_VERTICAL.menuitem.text
+msgid "~Vertically"
+msgstr "۔كھدا"
+
+#: menuids3_tmpl.src#MN_HORIZONTAL.SID_HORIZONTAL.menuitem.text
+msgid "~Horizontally"
+msgstr "۔س۪یود"
+
+#: menuids3_tmpl.src#MN_3D_WIN.SID_3D_WIN.menuitem.text
+msgid "~3D Effects"
+msgstr "3D۔ اثرات"
+
+#: menuids3_tmpl.src#MN_PRESENTATION_LAYOUT.SID_PRESENTATION_LAYOUT.menuitem.text
+msgid "~Slide Design"
+msgstr "۔سلائڈ ڈئزائن"
+
+#: menuids3_tmpl.src#MN_DIA.SID_SLIDE_TRANSITIONS_PANEL.menuitem.text
+msgid "Slide ~Transition"
+msgstr "۔سلائڈ تیدیلی"
+
+#: menuids3_tmpl.src#MN_SHOW_SLIDE.SID_SHOW_SLIDE.menuitem.text
+msgid "~Show Slide"
+msgstr ""
+
+#: menuids3_tmpl.src#MN_HIDE_SLIDE.SID_HIDE_SLIDE.menuitem.text
+msgid "~Hide Slide"
+msgstr "سلائڈچھپئویو"
+
+#: strings.src#STR_DRAW_TOOLBOX.string.text
+msgid "Drawings Toolbar"
+msgstr "ڈرائینگ ٹول بار "
+
+#: strings.src#STR_GRAPHIC_TOOLBOX.string.text
+msgid "Draw toolbar/Graphics"
+msgstr "ٹول بار/شکل بناویو"
+
+#: strings.src#STR_SLIDE_TOOLBOX.string.text
+msgid "Slide Bar"
+msgstr "سلائڈپٹ"
+
+#: strings.src#STR_OUTLINE_TOOLBOX.string.text
+msgid "Outline Bar"
+msgstr "آؤٹ لائن پٹ"
+
+#: strings.src#STR_DRAW_OBJ_TOOLBOX.string.text
+msgid "Draw Object Bar"
+msgstr "آبجیکٹ پٹ   بنئویو"
+
+#: strings.src#STR_GRAPHIC_OBJ_TOOLBOX.string.text
+msgid "Draw object bar/Graphics"
+msgstr "آبجیکٹپٹ بنئویو/نقشئ"
+
+#: strings.src#STR_DRAW_OPTIONS_TOOLBOX.string.text
+msgid "Options Bar"
+msgstr "متبئدل پٹ"
+
+#: strings.src#STR_GRAPHIC_OPTIONS_TOOLBOX.string.text
+msgid "Options bar/Graphics"
+msgstr "متبئدل پٹ/ نقشئ"
+
+#: strings.src#STR_DRAW_COMMONTASK_TOOLBOX.string.text
+msgctxt "strings.src#STR_DRAW_COMMONTASK_TOOLBOX.string.text"
+msgid "Presentation"
+msgstr "پیشکش"
+
+#: strings.src#STR_SLIDE_OBJ_TOOLBOX.string.text
+msgid "Slide Object Bar"
+msgstr "سلائڈآبجیکٹ پٹ"
+
+#: strings.src#STR_BEZIER_TOOLBOX.string.text
+msgid "Bézier object bar"
+msgstr "آبجیکٹ بارBézier"
+
+#: strings.src#STR_GLUEPOINTS_TOOLBOX.string.text
+msgid "Glue Point Object Bar"
+msgstr "گلیو پوائنٹ آبجیکپٹ بار "
+
+#: strings.src#STR_DRAW_TEXT_TOOLBOX.string.text
+msgid "Text Object Bar"
+msgstr "مواد   آبجیکٹ پٹ"
+
+#: strings.src#STR_GRAPHIC_TEXT_TOOLBOX.string.text
+msgid "Text Object Bar/Draw"
+msgstr "مواد  آبجیکٹ بار/  بنئویو "
+
+#: strings.src#STR_NULL.string.text
+msgid "None"
+msgstr "كہین نئ"
+
+#: strings.src#STR_INSERTPAGE.string.text
+msgid "Insert Slide"
+msgstr "سلائیڈكریو  دئخل"
+
+#: strings.src#STR_INSERTLAYER.string.text
+msgid "Insert Layer"
+msgstr "تہہ كریو  دئخل"
+
+#: strings.src#STR_MODIFYLAYER.string.text
+msgid "Modify Layer"
+msgstr "تئہ  کریو تبدیل"
+
+#: strings.src#STR_UNDO_SLIDE_PARAMS.string.text
+msgid "Slide parameter"
+msgstr "سلائڈ پیرامیٹر"
+
+#: strings.src#STR_UNDO_SLIDE_MOVE.string.text
+msgid "Move slide"
+msgstr "سلائڈسن ہنز جاے بدلئیویو"
+
+#: strings.src#STR_UNDO_CUT.string.text
+msgid "Cut"
+msgstr "ژٹیو"
+
+#: strings.src#STR_UNDO_REPLACE.string.text
+msgid "Replace"
+msgstr "بدلاوُن"
+
+#: strings.src#STR_UNDO_DRAGDROP.string.text
+msgid "Drag and Drop"
+msgstr "لم تئ   تراو"
+
+#: strings.src#STR_INSERTGRAPHIC.string.text
+msgid "Insert picture"
+msgstr "تصویرجوڑیو"
+
+#: strings.src#STR_SLOW.string.text
+msgid "Slow"
+msgstr "وارئ وارئ"
+
+#: strings.src#STR_MEDIUM.string.text
+msgid "Medium"
+msgstr "درمیانی"
+
+#: strings.src#STR_FAST.string.text
+msgid "Fast"
+msgstr "تیز "
+
+#: strings.src#STR_UNDO_BEZCLOSE.string.text
+msgid "Close Polygon"
+msgstr "پالیگن کریو  بند"
+
+#: strings.src#STR_SLIDE_MODE.string.text
+msgid "Slide Sorter"
+msgstr "سلائڈسارٹر۔"
+
+#: strings.src#STR_DRAW_MODE.string.text
+msgid "Normal"
+msgstr "عام"
+
+#: strings.src#STR_OUTLINE_MODE.string.text
+msgid "Outline"
+msgstr "آؤٹ لائن"
+
+#: strings.src#STR_NOTES_MODE.string.text
+msgctxt "strings.src#STR_NOTES_MODE.string.text"
+msgid "Notes"
+msgstr "نوٹس"
+
+#: strings.src#STR_HANDOUT_MODE.string.text
+msgid "Handout"
+msgstr "ہینڈآؤٹ"
+
+#: strings.src#STR_AUTOLAYOUT_NONE.string.text
+msgid "Blank Slide"
+msgstr "سادئ سلائڈ "
+
+#: strings.src#STR_AUTOLAYOUT_ONLY_TITLE.string.text
+msgid "Title Only"
+msgstr "صرف عنوان"
+
+#: strings.src#STR_AUTOLAYOUT_ONLY_TEXT.string.text
+msgid "Centered Text"
+msgstr ""
+
+#: strings.src#STR_AUTOLAYOUT_TITLE.string.text
+msgid "Title Slide"
+msgstr "عنوان سلائڈ"
+
+#: strings.src#STR_AUTOLAYOUT_CONTENT.string.text
+msgid "Title, Content"
+msgstr ""
+
+#: strings.src#STR_AUTOLAYOUT_2CONTENT.string.text
+msgid "Title and 2 Content"
+msgstr ""
+
+#: strings.src#STR_AUTOLAYOUT_CONTENT_2CONTENT.string.text
+msgid "Title, Content and 2 Content"
+msgstr ""
+
+#: strings.src#STR_AUTOLAYOUT_2CONTENT_CONTENT.string.text
+msgid "Title, 2 Content and Content"
+msgstr ""
+
+#: strings.src#STR_AUTOLAYOUT_CONTENT_OVER_2CONTENT.string.text
+msgid "Title, Content over 2 Content"
+msgstr ""
+
+#: strings.src#STR_AUTOLAYOUT_2CONTENT_OVER_CONTENT.string.text
+msgid "Title, 2 Content over Content"
+msgstr ""
+
+#: strings.src#STR_AUTOLAYOUT_CONTENT_OVER_CONTENT.string.text
+msgid "Title, Content over Content"
+msgstr ""
+
+#: strings.src#STR_AUTOLAYOUT_4CONTENT.string.text
+msgid "Title, 4 Content"
+msgstr ""
+
+#: strings.src#STR_AUTOLAYOUT_6CONTENT.string.text
+msgid "Title, 6 Content"
+msgstr ""
+
+#: strings.src#STR_AL_TITLE_VERT_OUTLINE.string.text
+msgid "Title, Vertical Text"
+msgstr "عنوان،كھڈا مواد"
+
+#: strings.src#STR_AL_TITLE_VERT_OUTLINE_CLIPART.string.text
+msgid "Title, Vertical Text, Clipart"
+msgstr "عنوان،عمودی  مواد ،کلیپ آرٹ۔"
+
+#: strings.src#STR_AL_VERT_TITLE_TEXT_CHART.string.text
+msgid "Vertical Title, Text, Chart"
+msgstr " كھڈا عنوان،مواد  ،چارٹ "
+
+#: strings.src#STR_AL_VERT_TITLE_VERT_OUTLINE.string.text
+msgid "Vertical Title, Vertical Text"
+msgstr "كھڈا عنوان، كھڈا مواد"
+
+#: strings.src#STR_AUTOLAYOUT_HANDOUT1.string.text
+msgid "One Slide"
+msgstr "اكھ سلائڈ"
+
+#: strings.src#STR_AUTOLAYOUT_HANDOUT2.string.text
+msgid "Two Slides"
+msgstr "زئ سلائڈس"
+
+#: strings.src#STR_AUTOLAYOUT_HANDOUT3.string.text
+msgid "Three Slides"
+msgstr "تر۪یئ سلائڈس"
+
+#: strings.src#STR_AUTOLAYOUT_HANDOUT4.string.text
+msgid "Four Slides"
+msgstr "ژور سلائڈس"
+
+#: strings.src#STR_AUTOLAYOUT_HANDOUT6.string.text
+msgid "Six Slides"
+msgstr "شئ سلائڈس"
+
+#: strings.src#STR_AUTOLAYOUT_HANDOUT9.string.text
+msgid "Nine Slides"
+msgstr ""
+
+#: strings.src#STR_AUTOLAYOUT_NOTES.string.text
+msgctxt "strings.src#STR_AUTOLAYOUT_NOTES.string.text"
+msgid "Notes"
+msgstr "نوٹس"
+
+#: strings.src#STR_TRANSFORM.string.text
+msgid "transform"
+msgstr "  بدلٲوُن  "
+
+#: strings.src#STR_LINEEND.string.text
+msgid "Line Ends"
+msgstr "لائن اینڈس   "
+
+#: strings.src#STR_DESC_LINEEND.string.text
+msgid "Please enter a name for the new arrowhead:"
+msgstr " مہربٲنی كریو نئوِس ایروہیڈس  ناو دئخل۔"
+
+#: strings.src#STR_WARN_NAME_DUPLICATE.string.text
+msgid ""
+"The name chosen already exists. \n"
+"Please enter another name."
+msgstr ""
+"ژارنئ آمُت ناو چھُ گڈئی موجود \n"
+" مہربئنی كریتھ كریو نئو ناو دئخل۔۔"
+
+#: strings.src#STR_UNDO_ANIMATION.string.text
+msgid "Animation parameters"
+msgstr "اینیمیشن  پئیرامیٹر"
+
+#: strings.src#STR_EXPORT_HTML_NAME.string.text
+msgid "Web Page"
+msgstr "  ویب صفحہ  "
+
+#: strings.src#STR_EXPORT_DIALOG_TITLE.string.text
+msgid "Export"
+msgstr "درآمدکریو"
+
+#: strings.src#STR_UNDO_COPYOBJECTS.string.text
+msgid "Duplicate"
+msgstr "نقل"
+
+#: strings.src#STR_TITLE_NAMEGROUP.string.text
+msgid "Name Object"
+msgstr "چیزُك ناو"
+
+#: strings.src#STR_DESC_NAMEGROUP.string.text
+msgctxt "strings.src#STR_DESC_NAMEGROUP.string.text"
+msgid "Name"
+msgstr "ناو"
+
+#: strings.src#STR_WARN_PAGE_EXISTS.string.text
+msgid "The slide name already exists or is invalid. Please enter another name."
+msgstr "سلائڈ ناو چھئ یاتئ گڈن۪یتھی موجود نتئ چھئ نا منظور۔ مہربئنی كریتھ كریو بدل ناو دئخل۔"
+
+#: strings.src#STR_SNAPDLG_SETLINE.string.text
+msgid "Edit Snap Line"
+msgstr " سنیپ لائن كریو ادارت۔"
+
+#: strings.src#STR_SNAPDLG_SETPOINT.string.text
+msgid "Edit Snap Point"
+msgstr "سنیپ پھیرس كریو ادارت"
+
+#: strings.src#STR_POPUP_EDIT_SNAPLINE.string.text
+msgid "Edit Snap Line..."
+msgstr "سنیپ ریكھئ  كریو ادارت"
+
+#: strings.src#STR_POPUP_EDIT_SNAPPOINT.string.text
+msgid "Edit Snap Point..."
+msgstr "سنیپ پھیرس كریو  ادارت"
+
+#: strings.src#STR_POPUP_DELETE_SNAPLINE.string.text
+msgid "Delete Snap Line"
+msgstr "سنیپ لائن كریو خئارج"
+
+#: strings.src#STR_POPUP_DELETE_SNAPPOINT.string.text
+msgid "Delete Snap Point"
+msgstr "سنیپ نقطئ كریو خئارج"
+
+#: strings.src#STR_IMPRESS.string.text
+msgid "StarImpress 4.0"
+msgstr " سٹار مپریس4.0 "
+
+#: strings.src#STR_LAYER.string.text
+msgid "Layer"
+msgstr "تہہ"
+
+#: strings.src#STR_UNDO_DELETEPAGES.string.text
+msgctxt "strings.src#STR_UNDO_DELETEPAGES.string.text"
+msgid "Delete slides"
+msgstr "سلائڈس كریو  خئرج "
+
+#: strings.src#STR_UNDO_INSERTPAGES.string.text
+msgid "Insert slides"
+msgstr "سلائیڈس كریو  دئخل  "
+
+#: strings.src#STR_ASK_DELETE_LAYER.string.text
+msgid ""
+"Are you sure you want to delete the level \"$\"?\n"
+"Note: All objects on this level will be deleted!"
+msgstr ""
+"تہئ چھئوئ پزپئٹھ یژھان لیول خعرج كرُن  \"$\"?\n"
+" نوٹ:سئری آبجیكٹس یتھ لیولئ پیٹھ خعرج كرنئ!   "
+
+#: strings.src#STR_ASK_DELETE_ALL_PICTURES.string.text
+msgid "Do you really want to delete all images?"
+msgstr "تہئ چھئوئ پزپئٹھ یژھان سعری اِمیجس خعرج كرین؟"
+
+#: strings.src#STR_UNDO_CHANGE_TITLE_AND_LAYOUT.string.text
+msgid "Modify title and outline"
+msgstr "عنوان تئ آؤٹ لائن  شیریو"
+
+#: strings.src#STR_WAV_FILE.string.text
+msgctxt "strings.src#STR_WAV_FILE.string.text"
+msgid "Sound"
+msgstr "آواز"
+
+#: strings.src#STR_MIDI_FILE.string.text
+msgid "MIDI"
+msgstr "MIDI"
+
+#: strings.src#STR_AU_FILE.string.text
+msgid "Sun/NeXT Audio"
+msgstr "Sun/NeXT Audio "
+
+#: strings.src#STR_VOC_FILE.string.text
+msgid "Creative Labs Audio"
+msgstr "تخلیقی لیبس آڈیو "
+
+#: strings.src#STR_AIFF_FILE.string.text
+msgid "Apple/SGI Audio"
+msgstr "Apple/SGIآڈیو "
+
+#: strings.src#STR_SVX_FILE.string.text
+msgid "Amiga SVX Audio"
+msgstr "Amiga SVX آڈیو "
+
+#: strings.src#STR_SD_PAGE.string.text
+msgid "Slide"
+msgstr "سلائڈ"
+
+#: strings.src#STR_ALL_FILES.string.text
+msgid "All files"
+msgstr ""
+
+#: strings.src#STR_UNDO_INSERT_TEXTFRAME.string.text
+msgid "Insert text frame"
+msgstr "مواد  فریم كریو  دئخل"
+
+#: strings.src#STR_ACTION_NOTPOSSIBLE.string.text
+msgid ""
+"This function cannot be run \n"
+"with the selected objects."
+msgstr ""
+" یہ فنکشن ہیك۪ی نئ ژئرمئتس  آبجیکٹس  ستھ جئری   \n"
+"روزیتھ۔"
+
+#: strings.src#STR_DLG_INSERT_PAGES_FROM_FILE.string.text
+msgid "Insert File"
+msgstr "فائل كریو  دئخل"
+
+#: strings.src#STR_READ_DATA_ERROR.string.text
+msgid "The file could not be loaded!"
+msgstr "فائل  ہیچ نئ لوڈ  كریتھ"
+
+#: strings.src#STR_SCALE_OBJECTS.string.text
+msgid ""
+"The format of the new pages will be adapted.\n"
+"Do you want to adapt the objects, too?"
+msgstr ""
+"نئوین صفن ہیند فارمیٹ ین اپناونئ ۔\n"
+" تہئ چئھوئ یژھان آبجیكٹس  تئ اپناوئن؟ "
+
+#: strings.src#STR_CREATE_PAGES.string.text
+msgid "Create slides"
+msgstr "سلائڈ س بنئویو"
+
+#: strings.src#STR_UNDO_CHANGE_PAGEFORMAT.string.text
+msgid "Modify page format"
+msgstr "صفحئ   کریو تبدیل"
+
+#: strings.src#STR_UNDO_CHANGE_PAGEBORDER.string.text
+msgid "Modify page margins"
+msgstr "صفحك خآش كریو تبدیل"
+
+#: strings.src#STR_EDIT_OBJ.string.text
+#, fuzzy
+msgid "~Edit"
+msgstr "~ادارت كریو"
+
+#: strings.src#RID_UNDO_DELETE_WARNING.FT_UNDO_DELETE_WARNING.fixedtext.text
+msgid ""
+"This action deletes the list of actions that can\n"
+"be undone. Previous changes made to the document are still valid,\n"
+"but cannot be undone. Do you want to continue and\n"
+"thus assign the new slide design?"
+msgstr ""
+"یہ ایکشن ہیك۪ی  ان ڈن ایکشن كس  لسٹس  خئرج کریتھ۔دستاویزك پتم۪ی  تبدیلی چھئ ون۪ی تئ منظور،\n"
+" مگر ان ڈن ہیكن نئ گژیتھ۔ تہئ چھئوئ یژھان جئری تھٲوئن تئ نئوئ سلایڈ ڈیزاین دین؟ "
+
+#: strings.src#RID_UNDO_DELETE_WARNING.CB_UNDO_DELETE_DISABLE.checkbox.text
+msgid "~Do not show this warning again"
+msgstr "یہ آگہی ہئوزیو نئ  دوبارئ۔"
+
+#: strings.src#RID_UNDO_DELETE_WARNING.modaldialog.text
+msgid "%PRODUCTNAME %PRODUCTVERSION"
+msgstr "%PRODUCTNAME %PRODUCTVERSION  "
+
+#: strings.src#STR_DELETE_PAGES.string.text
+msgctxt "strings.src#STR_DELETE_PAGES.string.text"
+msgid "Delete slides"
+msgstr "سلائڈس كریو  خئرج "
+
+#: strings.src#STR_WARN_PRINTFORMAT_FAILURE.string.text
+msgid "The document format could not be set on the specified printer."
+msgstr "دستاویزی فارمیٹ یی نئ  مختص پرنٹرپرس پ۪یٹھ سیٹ كرنئ۔"
+
+#: strings.src#STR_REMOVE_LINK.string.text
+msgid ""
+"This graphic is linked to a document. \n"
+"Do you want to unlink the graphic in order to edit it?"
+msgstr ""
+"یہ ترسیم چھئ  دستاویزس سعتھ لنک  ۔ \n"
+"  تہئ چھئوئ ادارت كرنئ گریپھیكس اَن لنك یژھان كرُن؟"
+
+#: strings.src#STR_IMPORT_GRFILTER_OPENERROR.string.text
+msgid "Graphics file cannot be opened"
+msgstr " شکلن ہنز  فائل ہیكٲو نئ  کھولیتھ۔"
+
+#: strings.src#STR_IMPORT_GRFILTER_IOERROR.string.text
+msgid "Graphics file cannot be read"
+msgstr " شکلن ہنز فایل ہیكٲو نئ پریتھ۔"
+
+#: strings.src#STR_IMPORT_GRFILTER_FORMATERROR.string.text
+msgid "Unknown graphics format"
+msgstr "نامولوم شکل فارمیٹ"
+
+#: strings.src#STR_IMPORT_GRFILTER_VERSIONERROR.string.text
+msgid "This graphics file version is not supported"
+msgstr "یہتھ شکل فائل ورجنس چُھنئ  معاون "
+
+#: strings.src#STR_IMPORT_GRFILTER_FILTERERROR.string.text
+msgid "Graphics filter not found"
+msgstr "نقشئ فائل   آی نئ اَتھ۪یط"
+
+#: strings.src#STR_IMPORT_GRFILTER_TOOBIG.string.text
+msgid "Not enough memory to import graphics"
+msgstr " شکلئ  درآمد  كرنئ خعترئ چھئنئ  کئفی میمری "
+
+#: strings.src#STR_OBJECTS.string.text
+msgid "Objects"
+msgstr "آبجیکٹس "
+
+#: strings.src#STR_END_SEARCHING.string.text
+msgid "The document search is finished."
+msgstr "دستاویزکھوج  مكلیی ۔"
+
+#: strings.src#STR_END_SPELLING.string.text
+msgid "Spellcheck of entire document has been completed."
+msgstr "پورئ دستاویزك  املاجانچ گئو مکمل ۔"
+
+#: strings.src#STR_END_SPELLING_OBJ.string.text
+msgid "The spellcheck for the selected objects has been completed."
+msgstr "ژئرمئتس آبجیکٹس  خعطرئ  گئو املاجانچ مکمل ۔"
+
+#: strings.src#STR_NOLANGUAGE.string.text
+msgid "The selected language is not available."
+msgstr "ژئرمژ زبان چھنئ دستیاب۔"
+
+#: strings.src#STR_ASK_FOR_CONVERT_TO_BEZIER.string.text
+msgid "Convert selected object to curve?"
+msgstr "ژئرمُت  آبجیکٹ كریو کمانس منز تبدیل۔؟"
+
+#: strings.src#STR_UNDO_CHANGE_PRES_OBJECT.string.text
+msgid "Modify presentation object '$'"
+msgstr "آبجیکٹ پیشکش   کریو تبدیل'$'"
+
+#: strings.src#STR_UNDO_MODIFY_PAGE.string.text
+msgid "Slide layout"
+msgstr "سلائڈلےآؤٹ   "
+
+#: strings.src#STR_STATSTR_PRINT.string.text
+msgid "Printing..."
+msgstr "پرنٹنگ چھئ جئری  "
+
+#: strings.src#STR_UNDO_INSERT_FILE.string.text
+msgid "Insert file"
+msgstr "فائل كریو  دئخل"
+
+#: strings.src#STR_SCALE_OBJS_TO_PAGE.string.text
+msgid "Should the graphics be scaled to the new slide format?"
+msgstr "شكل گژھے نئوس سلایڈ فارمیٹس پیٹھ سكیل ین كرنئ؟"
+
+#: strings.src#STR_UNDO_INSERT_SPECCHAR.string.text
+msgid "Insert special character"
+msgstr "خاص لفظ كریو  دئخل"
+
+#: strings.src#STR_UNDO_SET_PRESLAYOUT.string.text
+msgid "Apply presentation layout"
+msgstr "پیشكرنُك  لےآؤٹ كریو لاگوئ"
+
+#: strings.src#STR_STRING_NOTFOUND.string.text
+msgctxt "strings.src#STR_STRING_NOTFOUND.string.text"
+msgid "Search key not found."
+msgstr "سرچ  كی آی نئ اَتھ۪ی."
+
+#: strings.src#STR_PLAY.string.text
+msgid "~Play"
+msgstr "۔بجاوُن"
+
+#: strings.src#STR_STOP.string.text
+msgid "Sto~p"
+msgstr "رکیو"
+
+#: strings.src#STR_UNDO_ORIGINALSIZE.string.text
+msgid "Original Size"
+msgstr "اصلی سائز"
+
+#: strings.src#STR_PRINT_DRAWING.string.text
+msgid " (Drawing)"
+msgstr "(ڈرائینگ)"
+
+#: strings.src#STR_PRINT_NOTES.string.text
+msgid " (Notes)"
+msgstr "(نوٹس)"
+
+#: strings.src#STR_PRINT_HANDOUT.string.text
+msgid " (Handout)"
+msgstr "  ( ہینڈآؤٹ)"
+
+#: strings.src#STR_PRINT_OUTLINE.string.text
+msgid " (Outline)"
+msgstr " (آؤٹ لائن)"
+
+#: strings.src#STR_WARN_SCALE_FAIL.string.text
+msgid ""
+"The specified scale is invalid.\n"
+"Do you want to enter a new one?"
+msgstr ""
+"مختص شدہ  سکیل چھئ نا منظور   \n"
+"تہئ چھئوئ یژھان نئو دئخل كرُن؟"
+
+#: strings.src#STR_CLICK_ACTION_NONE.string.text
+msgid "No action"
+msgstr "كہین كئم چھنئ"
+
+#: strings.src#STR_CLICK_ACTION_PREVPAGE.string.text
+msgid "Go to previous slide"
+msgstr "پچھلیسلائڈ میں جاؤ"
+
+#: strings.src#STR_CLICK_ACTION_NEXTPAGE.string.text
+msgid "Go to next slide"
+msgstr "نئوس سلایڈس منز گژھیو"
+
+#: strings.src#STR_CLICK_ACTION_FIRSTPAGE.string.text
+msgid "Go to first slide"
+msgstr "گڈنیكس  سلایڈس منز گژھیو"
+
+#: strings.src#STR_CLICK_ACTION_LASTPAGE.string.text
+msgid "Go to last slide"
+msgstr "ٲخری سلائدس منز گژھیو۔"
+
+#: strings.src#STR_CLICK_ACTION_BOOKMARK.string.text
+msgid "Go to page or object"
+msgstr "صفحہس  یاآبجیکٹس منز گژھیو"
+
+#: strings.src#STR_CLICK_ACTION_DOCUMENT.string.text
+msgid "Go to document"
+msgstr "دستاویزمنز   گژھیو"
+
+#: strings.src#STR_CLICK_ACTION_VANISH.string.text
+msgid "Fade object"
+msgstr "آبجیكٹ گھُٹ كرُن"
+
+#: strings.src#STR_CLICK_ACTION_INVISIBLE.string.text
+msgid "Hide object"
+msgstr "آبجیکٹ تھئویو ژور۪ی"
+
+#: strings.src#STR_CLICK_ACTION_SOUND.string.text
+msgid "Play sound"
+msgstr "آوازبجاویو"
+
+#: strings.src#STR_CLICK_ACTION_VERB.string.text
+msgid "Start object action"
+msgstr "آبجیكٹچ كئم كریو   شروع  "
+
+#: strings.src#STR_CLICK_ACTION_PROGRAM.string.text
+msgid "Run program"
+msgstr "پروگرام چلئویو"
+
+#: strings.src#STR_CLICK_ACTION_MACRO.string.text
+msgid "Run macro"
+msgstr "میکروچلاویو"
+
+#: strings.src#STR_CLICK_ACTION_STOPPRESENTATION.string.text
+msgid "Exit presentation"
+msgstr "پیشکش كریو خئرج "
+
+#: strings.src#STR_EFFECTDLG_JUMP.string.text
+msgid "Target"
+msgstr "ٹارگیٹ"
+
+#: strings.src#STR_EFFECTDLG_ACTION.string.text
+msgid "Act~ion"
+msgstr "ایکشن"
+
+#: strings.src#STR_EFFECTDLG_SOUND.string.text
+msgctxt "strings.src#STR_EFFECTDLG_SOUND.string.text"
+msgid "Sound"
+msgstr "آواز"
+
+#: strings.src#STR_EFFECTDLG_PAGE_OBJECT.string.text
+msgid "Slide / Object"
+msgstr "سلائڈ/آبجیکٹ"
+
+#: strings.src#STR_EFFECTDLG_DOCUMENT.string.text
+msgid "Document"
+msgstr "دستاویز"
+
+#: strings.src#STR_EFFECTDLG_PROGRAM.string.text
+msgid "Program"
+msgstr "پروگرام"
+
+#: strings.src#STR_EFFECTDLG_MACRO.string.text
+msgid "Macro"
+msgstr "میکرو"
+
+#: strings.src#STR_EFFECT_NONE.string.text
+msgid "No Effect"
+msgstr "كہین اثرچھُنئ"
+
+#: strings.src#STR_INSERT_TEXT.string.text
+msgid "Insert Text"
+msgstr "مواد كریو  دئخل"
+
+#: strings.src#STR_SLIDE_SINGULAR.string.text
+msgid " Slide"
+msgstr "سلائڈ"
+
+#: strings.src#STR_SLIDE_PLURAL.string.text
+msgid " Slides"
+msgstr "سلائڈس"
+
+#: strings.src#STR_LOAD_PRESENTATION_LAYOUT.string.text
+msgid "Load Slide Design"
+msgstr "سلائڈ ڈیزائن كریو  لوڈ "
+
+#: strings.src#STR_DRAGTYPE_URL.string.text
+msgid "Insert as hyperlink"
+msgstr "ہائپرلنک ہیو كریودئخل"
+
+#: strings.src#STR_DRAGTYPE_EMBEDDED.string.text
+msgid "Insert as copy"
+msgstr "نقل ہیو كریودئخل"
+
+#: strings.src#STR_DRAGTYPE_LINK.string.text
+msgid "Insert as link"
+msgstr "لنک ہیو كریودئخل"
+
+#: strings.src#STR_GLUE_ESCDIR_SMART.string.text
+msgid "Smart"
+msgstr " سمارٹ"
+
+#: strings.src#STR_GLUE_ESCDIR_LEFT.string.text
+msgid "Left"
+msgstr "كھوفُر"
+
+#: strings.src#STR_GLUE_ESCDIR_RIGHT.string.text
+msgid "Right"
+msgstr "دَچھُن"
+
+#: strings.src#STR_GLUE_ESCDIR_TOP.string.text
+msgid "Top"
+msgstr "ہ۪یور"
+
+#: strings.src#STR_GLUE_ESCDIR_BOTTOM.string.text
+msgid "Bottom"
+msgstr "تلئكنئ"
+
+#: strings.src#STR_GLUE_ESCDIR_LO.string.text
+msgid "Top Left?"
+msgstr "ہ۪یوركن كھوفُر؟"
+
+#: strings.src#STR_GLUE_ESCDIR_LU.string.text
+msgid "Bottom Left?"
+msgstr " تلئكنئ كھوفِر كن؟"
+
+#: strings.src#STR_GLUE_ESCDIR_RO.string.text
+msgid "Top Right?"
+msgstr "ہیور كُن دچھُن؟"
+
+#: strings.src#STR_GLUE_ESCDIR_RU.string.text
+msgid "Bottom Right?"
+msgstr "دائیں جانب نیچے؟‎"
+
+#: strings.src#STR_GLUE_ESCDIR_HORZ.string.text
+msgid "Horizontal"
+msgstr "س۪یود"
+
+#: strings.src#STR_GLUE_ESCDIR_VERT.string.text
+msgid "Vertical"
+msgstr "كھدا"
+
+#: strings.src#STR_GLUE_ESCDIR_ALL.string.text
+msgid "All?"
+msgstr "سئری؟"
+
+#: strings.src#STR_CANT_PERFORM_IN_LIVEMODE.string.text
+msgid "This action can't be run in the live mode."
+msgstr "یہ ایکشن ہیك۪ی نئ لایو موڈس منز چلیتھ"
+
+#: strings.src#STR_PUBLISH_BACK.string.text
+msgid "Back"
+msgstr "پَتھ"
+
+#: strings.src#STR_PUBLISH_NEXT.string.text
+msgid "Continue"
+msgstr "جئریرتھَویو"
+
+#: strings.src#STR_PUBLISH_OUTLINE.string.text
+msgid "Overview"
+msgstr "اورویئو"
+
+#: strings.src#STR_EYEDROPPER.string.text
+#, fuzzy
+msgid "Color Replacer"
+msgstr "رنگ   برداشتہ"
+
+#: strings.src#STR_UNDO_MORPHING.string.text
+msgid "Cross-fading"
+msgstr "کراس فیڈینگ"
+
+#: strings.src#STR_UNDO_COLORRESOLUTION.string.text
+msgid "Color resolution"
+msgstr " رنگك  تجزیئ "
+
+#: strings.src#STR_UNDO_EXPAND_PAGE.string.text
+msgid "Expand Slide"
+msgstr "سلائڈکریو وسیع"
+
+#: strings.src#STR_UNDO_SUMMARY_PAGE.string.text
+msgid "Table of Contents Slide"
+msgstr "مشمولاتن ہندئ  سلائڈُك  جدول"
+
+#: strings.src#STR_TWAIN_NO_SOURCE_UNX.string.text
+msgid "No SANE source is available at the moment."
+msgstr "زریی چھئنئ یمئ وقتئ دستیاب۔No SANE "
+
+#: strings.src#STR_TWAIN_NO_SOURCE.string.text
+msgid "At present, no TWAIN source is available."
+msgstr "فیلحال، چھئنئ TWAINزریی دستیاب  ۔"
+
+#: strings.src#STR_FIX.string.text
+msgid "Fixed"
+msgstr "طےشدہ"
+
+#: strings.src#STR_VAR.string.text
+msgid "Variable"
+msgstr "ویریئبل"
+
+#: strings.src#STR_STANDARD_NORMAL.string.text
+msgid "Standard"
+msgstr "معیاری"
+
+#: strings.src#STR_STANDARD_SMALL.string.text
+msgid "Standard (short)"
+msgstr "(معیاری     (لكُٹ"
+
+#: strings.src#STR_STANDARD_BIG.string.text
+msgid "Standard (long)"
+msgstr "(معیاری (ز۪یوٹھ"
+
+#: strings.src#STR_FILEFORMAT_NAME_EXT.string.text
+msgid "File name"
+msgstr "فائلُك ناو"
+
+#: strings.src#STR_FILEFORMAT_FULLPATH.string.text
+msgid "Path/File name"
+msgstr "وَتھہ/ فائل ناو"
+
+#: strings.src#STR_FILEFORMAT_PATH.string.text
+msgid "Path"
+msgstr "وَتھ"
+
+#: strings.src#STR_FILEFORMAT_NAME.string.text
+msgid "File name without extension"
+msgstr "فائل نا  گنجئئش روْستی"
+
+#: strings.src#STR_RELEASE_GRAPHICLINK.string.text
+msgid "This graphic is linked to a document. Do you want to unlink the graphic in order to edit it?"
+msgstr "یہ شكل چھئ دستاویزس سعتھ لنک ۔تہئ چھئوئ یژھان شكل ان لنك كرِن اتھ ادارت كرنئ خعترئ؟"
+
+#: strings.src#STR_NEW_CUSTOMSHOW.string.text
+msgid "New Custom Slide Show"
+msgstr "نئوکسٹم سلائڈشو "
+
+#: strings.src#STR_COPY_CUSTOMSHOW.string.text
+msgid "Copy "
+msgstr "نقل"
+
+#: strings.src#STR_IMPRESS_DOCUMENT.string.text
+msgctxt "strings.src#STR_IMPRESS_DOCUMENT.string.text"
+msgid "Presentation"
+msgstr "پیشکش"
+
+#: strings.src#STR_IMPRESS_DOCUMENT_FULLTYPE_60.string.text
+msgid "%PRODUCTNAME %PRODUCTVERSION Presentation"
+msgstr "%PRODUCTNAME %PRODUCTVERSIONپیشکش"
+
+#: strings.src#STR_GRAPHIC_DOCUMENT.string.text
+msgid "Drawing"
+msgstr "ڈرائینگ"
+
+#: strings.src#STR_GRAPHIC_DOCUMENT_FULLTYPE_60.string.text
+msgid "%PRODUCTNAME %PRODUCTVERSION Drawing"
+msgstr "%PRODUCTNAME %PRODUCTVERSIONڈرائینگ"
+
+#: strings.src#STR_BREAK_METAFILE.string.text
+msgid "Ungroup Metafile(s)..."
+msgstr "میٹافائل كریو ان گروپ  "
+
+#: strings.src#STR_BREAK_FAIL.string.text
+msgid "It was not possible to ungroup all drawing objects."
+msgstr "سئری ڈرائینگ آبجیکٹس  ان گروپ کرُن اوس نئ  ممکن ۔"
+
+#: strings.src#STR_PUBDLG_SAMENAME.string.text
+msgid ""
+"A design already exists with this name.\n"
+"Do you want to replace it?"
+msgstr ""
+"یتھ ناوس سعتھ چھُ دیزاین گڈئی موجود۔\n"
+" تہئ چھئوئ یژھان یئ بدلاوُن؟  "
+
+#: strings.src#STR_HTMLATTR_TEXT.string.text
+msgctxt "strings.src#STR_HTMLATTR_TEXT.string.text"
+msgid "Text"
+msgstr "مواد"
+
+#: strings.src#STR_HTMLATTR_LINK.string.text
+msgid "Hyperlink"
+msgstr "ہائپرلنک"
+
+#: strings.src#STR_HTMLATTR_VLINK.string.text
+msgid "Visited link"
+msgstr "وچھمت زریئ"
+
+#: strings.src#STR_HTMLATTR_ALINK.string.text
+msgid "Active link"
+msgstr "چالو زریئ"
+
+#: strings.src#STR_HTMLEXP_NOTES.string.text
+msgctxt "strings.src#STR_HTMLEXP_NOTES.string.text"
+msgid "Notes"
+msgstr "نوٹس"
+
+#: strings.src#STR_HTMLEXP_CONTENTS.string.text
+msgid "Table of contents"
+msgstr "عنوان جدول"
+
+#: strings.src#STR_HTMLEXP_CLICKSTART.string.text
+msgid "Click here to start"
+msgstr "شروع کرنئ خعطرئ كریویتیتھ کلیک "
+
+#: strings.src#STR_HTMLEXP_AUTHOR.string.text
+msgid "Author"
+msgstr "لكھآر"
+
+#: strings.src#STR_HTMLEXP_EMAIL.string.text
+msgid "E-mail"
+msgstr "E-mail"
+
+#: strings.src#STR_HTMLEXP_HOMEPAGE.string.text
+msgid "Homepage"
+msgstr "ہوم پیج"
+
+#: strings.src#STR_HTMLEXP_INFO.string.text
+msgid "Further information"
+msgstr "زیادئ مولومات"
+
+#: strings.src#STR_HTMLEXP_DOWNLOAD.string.text
+msgid "Download presentation"
+msgstr "ڈاؤن لوڈپیش کش"
+
+#: strings.src#STR_HTMLEXP_NOFRAMES.string.text
+msgid "Unfortunately your browser does not support floating frames."
+msgstr "بد قسمتی سبئ چھُنئ تہُند براوزر فلوٹنگ فریمسن معاوُن كران۔"
+
+#: strings.src#STR_HTMLEXP_FIRSTPAGE.string.text
+msgid "First page"
+msgstr "پہلاصفحہ"
+
+#: strings.src#STR_HTMLEXP_LASTPAGE.string.text
+msgid "Last page"
+msgstr "آخری صفحہ "
+
+#: strings.src#STR_HTMLEXP_SETTEXT.string.text
+msgctxt "strings.src#STR_HTMLEXP_SETTEXT.string.text"
+msgid "Text"
+msgstr "مواد"
+
+#: strings.src#STR_HTMLEXP_SETGRAPHIC.string.text
+msgid "Graphics"
+msgstr "نقئشی "
+
+#: strings.src#STR_HTMLEXP_OUTLINE.string.text
+msgid "With contents"
+msgstr "موضوعات ن  سعتھ"
+
+#: strings.src#STR_HTMLEXP_NOOUTLINE.string.text
+msgid "Without contents"
+msgstr "موضوعاتن روْستوی"
+
+#: strings.src#STR_WEBVIEW_SAVE.string.text
+msgid "To given page"
+msgstr "دیتمِتِس صفحس"
+
+#: strings.src#STR_UNDO_VECTORIZE.string.text
+msgid "Convert bitmap to polygon"
+msgstr "بیٹ میپ كریو پالیگنس منز  تبدیل ۔"
+
+#: strings.src#STR_PRES_SOFTEND.string.text
+msgid "Click to exit presentation..."
+msgstr "پیشکش ایکزیٹ کرنئ خعترئ كریو کلیک۔۔۔۔"
+
+#: strings.src#STR_PRES_PAUSE.string.text
+msgid "Pause..."
+msgstr "رکاوٹ۔۔۔۔۔"
+
+#: strings.src#STR_WIZARD_ORIGINAL.string.text
+msgid "<Original>"
+msgstr "<اصلی>"
+
+#: strings.src#STR_ISLOADING.string.text
+msgid "Loading..."
+msgstr "لوڈکران۔۔۔۔۔"
+
+#: strings.src#STR_DRAW_GRAF_TOOLBOX.string.text
+msgid "Graphics Object Bar"
+msgstr "نقئشی چیز پٹ"
+
+#: strings.src#STR_UNDO_APPLY_3D_FAVOURITE.string.text
+msgid "Apply 3D favorite"
+msgstr "                      3ٹوٹھ      D كریو لاگو"
+
+#: strings.src#STR_UNDO_GRAFFILTER.string.text
+msgid "Graphics filter"
+msgstr "شکل فلٹر"
+
+#: strings.src#STR_WARNING_NOSOUNDFILE.string.text
+msgid ""
+"The file %\n"
+"is not a valid sound file !"
+msgstr ""
+"  ! چھنئ منظورساؤنڈفائل   %\n"
+"فائل"
+
+#: strings.src#STR_UNDO_CONVERT_TO_METAFILE.string.text
+msgid "Convert to metafile"
+msgstr "میٹافائل منز كریو تبدیل "
+
+#: strings.src#STR_UNDO_CONVERT_TO_BITMAP.string.text
+msgid "Convert to bitmap"
+msgstr "بٹ میپس منز  کریو تبدیل "
+
+#: strings.src#STR_HTMLEXP_ERROR_CREATE_FILE.string.text
+msgid "Cannot create the file $(URL1)."
+msgstr "فائل ہیكٲو نئ بنٲویتھ۔ $(URL1)"
+
+#: strings.src#STR_HTMLEXP_ERROR_OPEN_FILE.string.text
+msgid "Could not open the file $(URL1)."
+msgstr "فائل ہیك۪ی نئ كھُلیتھ۔ $(URL1)"
+
+#: strings.src#STR_HTMLEXP_ERROR_COPY_FILE.string.text
+msgid "The file $(URL1) could not be copied to $(URL2)"
+msgstr " (URL1) ہیك نئ كاپی كریتھ$(URL2)پیٹھ"
+
+#: strings.src#STR_PAGE_BACKGROUND_TITLE.string.text
+msgid "Page Settings"
+msgstr "صفحن ہینز  ترتیب"
+
+#: strings.src#STR_PAGE_BACKGROUND_TXT.string.text
+msgid "Background settings for all pages?"
+msgstr ""
+
+#: strings.src#STR_TITLE_RENAMESLIDE.string.text
+msgid "Rename Slide"
+msgstr "سلائڈس  دیو دوبارئ ناو"
+
+#: strings.src#STR_TITLE_SAVE_AS_PICTURE.string.text
+msgid "Save as Picture"
+msgstr ""
+
+#: strings.src#STR_DESC_RENAMESLIDE.string.text
+msgctxt "strings.src#STR_DESC_RENAMESLIDE.string.text"
+msgid "Name"
+msgstr "ناو"
+
+#: strings.src#STR_PLACEHOLDER_DESCRIPTION_TITLE.string.text
+msgid "Title Area for AutoLayouts"
+msgstr "عنوان رقبہ خعطرئ لےآؤٹس  "
+
+#: strings.src#STR_PLACEHOLDER_DESCRIPTION_OUTLINE.string.text
+msgid "Object Area for AutoLayouts"
+msgstr "آبجیکٹ رقبہ خعطرئ لےآؤٹس  "
+
+#: strings.src#STR_PLACEHOLDER_DESCRIPTION_FOOTER.string.text
+msgid "Footer Area"
+msgstr "دامنُك رقبئ"
+
+#: strings.src#STR_PLACEHOLDER_DESCRIPTION_HEADER.string.text
+msgid "Header Area"
+msgstr "بالائی خاشك  رقبہ"
+
+#: strings.src#STR_PLACEHOLDER_DESCRIPTION_DATETIME.string.text
+msgid "Date Area"
+msgstr "تئریخی رقبہ"
+
+#: strings.src#STR_PLACEHOLDER_DESCRIPTION_SLIDE.string.text
+msgid "Slide Number Area"
+msgstr "سلائڈنمبررقبہ"
+
+#: strings.src#STR_PLACEHOLDER_DESCRIPTION_NUMBER.string.text
+msgid "Page Number Area"
+msgstr "صفحہ نمبررقبہ"
+
+#: strings.src#STR_FIELD_PLACEHOLDER_HEADER.string.text
+msgid "<header>"
+msgstr "<بالائی خاش>"
+
+#: strings.src#STR_FIELD_PLACEHOLDER_FOOTER.string.text
+msgid "<footer>"
+msgstr "<دامنئ>"
+
+#: strings.src#STR_FIELD_PLACEHOLDER_DATETIME.string.text
+msgid "<date/time>"
+msgstr " تئریخ/ وقت"
+
+#: strings.src#STR_FIELD_PLACEHOLDER_NUMBER.string.text
+msgid "<number>"
+msgstr "<نمبر>"
+
+#: strings.src#STR_FIELD_PLACEHOLDER_COUNT.string.text
+msgid "<count>"
+msgstr ""
+
+#: strings.src#STR_PLACEHOLDER_DESCRIPTION_NOTES.string.text
+msgid "Notes Area"
+msgstr "نوٹس رقبہ"
+
+#: strings.src#STR_UNDO_HANGULHANJACONVERSION.string.text
+msgid "Hangul/Hanja Conversion"
+msgstr "ہینگول/ ہانجا تبدیلی"
+
+#: strings.src#STR_LEFT_PANE_IMPRESS_TITLE.string.text
+msgid "Slides"
+msgstr "سلائڈس"
+
+#: strings.src#STR_LEFT_PANE_DRAW_TITLE.string.text
+msgid "Pages"
+msgstr "صفحئ"
+
+#: strings.src#STR_RIGHT_PANE_TITLE.string.text
+msgid "Tasks"
+msgstr "كامئ"
+
+#: strings.src#STR_TASKPANEL_MASTER_PAGE_TITLE.string.text
+msgid "Master Pages"
+msgstr "ماسٹرصفحئ"
+
+#: strings.src#STR_TASKPANEL_MASTER_PAGE_MENU_TITLE.string.text
+msgid "View"
+msgstr "منظر"
+
+#: strings.src#STR_TASKPANEL_MASTER_PAGE_MENU_LOCK.string.text
+msgid "~Dock Task Pane"
+msgstr "۔ٹاسک پین كریو ڈاک  "
+
+#: strings.src#STR_TASKPANEL_MASTER_PAGE_MENU_UNLOCK.string.text
+msgid "~Undock Task Pane"
+msgstr "ٹاسک پین كریو ان ڈاک "
+
+#: strings.src#STR_TASKPANEL_CURRENT_MASTER_PAGES_TITLE.string.text
+msgid "Used in This Presentation"
+msgstr "یتھ  پیشکش منز  استیمال كرمُت"
+
+#: strings.src#STR_TASKPANEL_RECENT_MASTER_PAGES_TITLE.string.text
+msgid "Recently Used"
+msgstr "حالئی  استیمالكرمُت"
+
+#: strings.src#STR_TASKPANEL_ALL_MASTER_PAGES_TITLE.string.text
+msgid "Available for Use"
+msgstr "استیمال كرنئ خعطرئ دستیاب"
+
+#: strings.src#STR_TASKPANEL_NOT_AVAILABLE_SUBSTITUTION.string.text
+msgid "Preview not available"
+msgstr "پیش منظر چھُنئ دستیاب "
+
+#: strings.src#STR_TASKPANEL_PREPARING_PREVIEW_SUBSTITUTION.string.text
+msgid "Preparing preview"
+msgstr "پیش منظرتیارکران"
+
+#: strings.src#STR_TASKPANEL_LAYOUT_MENU_TITLE.string.text
+msgid "Layouts"
+msgstr "لےآؤٹس"
+
+#: strings.src#STR_GRAPHICS_STYLE_FAMILY.string.text
+msgctxt "strings.src#STR_GRAPHICS_STYLE_FAMILY.string.text"
+msgid "Graphics Styles"
+msgstr "نقشن ہیوند سٹائل "
+
+#: strings.src#STR_CELL_STYLE_FAMILY.string.text
+msgid "Cell Styles"
+msgstr "سیل سٹائلس"
+
+#: strings.src#DLG_TABLEDESIGNPANE.string.text
+msgid "Table Designs"
+msgstr ""
+
+#: strings.src#STR_CUSTOMANIMATIONPANE.string.text
+#, fuzzy
+msgid "Custom Animation"
+msgstr "دستور کی کیفیت"
+
+#: strings.src#STR_SLIDE_TRANSITION_PANE.string.text
+msgid "Slide Transition"
+msgstr "سلائڈ تیدیلی "
+
+#: strings.src#STR_NAVIGATOR_SHOW_NAMED_SHAPES.string.text
+msgid "Named shapes"
+msgstr ""
+
+#: strings.src#STR_NAVIGATOR_SHOW_ALL_SHAPES.string.text
+msgid "All shapes"
+msgstr ""
+
+#: strings.src#STR_NAVIGATOR_SHAPE_BASE_NAME.string.text
+msgid "Shape %1"
+msgstr ""
+
+#: strings.src#STR_SET_BACKGROUND_PICTURE.string.text
+msgctxt "strings.src#STR_SET_BACKGROUND_PICTURE.string.text"
+msgid "Set Background Picture for Slide ..."
+msgstr ""
+
+#: strings.src#STR_ACC_DIALOG_DESC.string.text
+msgid "Select a template from which to import page designs."
+msgstr ""
+
+#: strings.src#RID_ANNOTATIONS_START.string.text
+#, fuzzy
+msgid "Comments"
+msgstr ""
+"#-#-#-#-#  config.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"نوٹس\n"
+"#-#-#-#-#  navipi.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"نوٹس\n"
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"آرائ\n"
+"#-#-#-#-#  res.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"آرائ\n"
+"#-#-#-#-#  xsltdialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"آرائ"
+
+#: strings.src#STR_RESET_LAYOUT.string.text
+msgid "Reset Slide Layout"
+msgstr ""
+
+#: strings.src#STR_INSERT_TABLE.string.text
+msgid "Insert Table"
+msgstr "جدول داخل کرو"
+
+#: strings.src#STR_INSERT_CHART.string.text
+msgid "Insert Chart"
+msgstr "چارٹ داخل کرو"
+
+#: strings.src#STR_INSERT_PICTURE.string.text
+msgid "Insert Picture"
+msgstr "شكل كریو دئخل  "
+
+#: strings.src#STR_INSERT_MOVIE.string.text
+msgid "Insert Movie"
+msgstr ""
+
+#: strings.src#STRING_DRAG_AND_DROP_PAGES.string.text
+msgid "Drag and Drop Pages"
+msgstr ""
+
+#: strings.src#STRING_DRAG_AND_DROP_SLIDES.string.text
+msgid "Drag and Drop Slides"
+msgstr ""
+
+#: strings.src#STRING_START_SLIDESHOW.string.text
+msgid "Start Slide Show"
+msgstr ""
+
+#: strings.src#STRING_HIDE_SLIDE.string.text
+#, fuzzy
+msgid "Hide Slide"
+msgstr "سلائڈچھپئویو"
+
+#: strings.src#STRING_SHOW_SLIDE.string.text
+msgid "Show Slide"
+msgstr ""
+
+#: strings.src#STRING_DUPLICATE_SLIDE.string.text
+#, fuzzy
+msgid "Duplicate Slide"
+msgstr "ڈوپلیکیٹ سلائڈ  "
+
+#: menuids_tmpl.src#MN_DISTRIBUTE.SID_DISTRIBUTE_DLG.menuitem.text
+msgid "~Distribution..."
+msgstr "۔تقسیم۔۔۔"
+
+#: menuids_tmpl.src#MN_DRAWINGMODE.SID_DRAWINGMODE.menuitem.text
+msgid "~Drawing View"
+msgstr "۔ڈرائنگ وئیو"
+
+#: menuids_tmpl.src#MN_OUTLINEMODE.SID_OUTLINEMODE.menuitem.text
+msgid "~Outline View"
+msgstr "۔آؤٹ لائن منظر"
+
+#: menuids_tmpl.src#MN_DIAMODE.SID_DIAMODE.menuitem.text
+msgid "~Slide Sorter"
+msgstr "سلائڈسارٹر۔"
+
+#: menuids_tmpl.src#MN_PRESENTATION.SID_PRESENTATION.menuitem.text
+msgid "Slide Sho~w"
+msgstr "سلائڈ ہئویو"
+
+#: menuids_tmpl.src#MN_CAPTUREPOINT.SID_CAPTUREPOINT.menuitem.text
+msgid "~Insert Snap Point/Line..."
+msgstr "سنیاپ پوائنٹ/ریخ كریو  دئخل"
+
+#: menuids_tmpl.src#MN_SET_SNAPITEM.SID_SET_SNAPITEM.menuitem.text
+msgid "~Edit..."
+msgstr "۔ادارت۔۔۔۔۔"
+
+#: menuids_tmpl.src#MN_DELETE_SNAPITEM.SID_DELETE_SNAPITEM.menuitem.text
+msgctxt "menuids_tmpl.src#MN_DELETE_SNAPITEM.SID_DELETE_SNAPITEM.menuitem.text"
+msgid "~Delete"
+msgstr "~خئرج کریو"
+
+#: menuids_tmpl.src#MN_MODIFY_PAGE.SID_MODIFYPAGE.menuitem.text
+#, fuzzy
+msgid "Slide ~Layout"
+msgstr "سلائڈلےآؤٹ   "
+
+#: menuids_tmpl.src#MN_FORMAT_PAGE.SID_PAGESETUP.menuitem.text
+msgid "~Page Setup..."
+msgstr "۔پیج سیٹ اپ۔۔۔"
+
+#: menuids_tmpl.src#MN_INSERT_SLIDE.SID_INSERTPAGE.menuitem.text
+msgid "~New Slide"
+msgstr "۔نئو سلائڈ"
+
+#: menuids_tmpl.src#MN_INSERT_MASTER.SID_INSERT_MASTER_PAGE.menuitem.text
+msgid "~New Master"
+msgstr "نئو ماسٹر "
+
+#: menuids_tmpl.src#MN_INSERT_PAGE.SID_INSERTPAGE.menuitem.text
+msgid "~New Page"
+msgstr "۔نئو صفحہ "
+
+#: menuids_tmpl.src#MN_INSERT_PAGE.MN_SELECT_BACKGROUND.SID_SELECT_BACKGROUND.menuitem.text
+msgctxt "menuids_tmpl.src#MN_INSERT_PAGE.MN_SELECT_BACKGROUND.SID_SELECT_BACKGROUND.menuitem.text"
+msgid "Set Background Picture for Slide ..."
+msgstr ""
+
+#: menuids_tmpl.src#MN_INSERT_PAGE.MN_SELECT_BACKGROUND.MN_DISPLAY_MASTER_BACKGROUND.SID_DISPLAY_MASTER_BACKGROUND.menuitem.text
+msgid "Display Background of Master"
+msgstr "پس منظرك ماسٹر ہئویو"
+
+#: menuids_tmpl.src#MN_INSERT_PAGE.MN_SELECT_BACKGROUND.MN_DISPLAY_MASTER_BACKGROUND.MN_DISPLAY_MASTER_OBJECTS.SID_DISPLAY_MASTER_OBJECTS.menuitem.text
+msgid "Display Objects from Master"
+msgstr " ماسٹرپیٹھ ہئویو آبجیکٹس"
+
+#: menuids_tmpl.src#MN_PAGE_MENU.DUMMY_3.menuitem.text
+msgid "Pag~e"
+msgstr "صفحہ "
+
+#: menuids_tmpl.src#MN_SLIDE_MENU.DUMMY_8.menuitem.text
+#, fuzzy
+msgid "Slid~e"
+msgstr "سلائڈ"
+
+#: menuids_tmpl.src#MN_RENAME_LAYER.SID_RENAMELAYER.menuitem.text
+msgid "~Rename Layer..."
+msgstr "طہس دیو دوبارہ ناو"
+
+#: menuids_tmpl.src#MN_DELETE_SLIDE.SID_DELETE_PAGE.menuitem.text
+msgid "D~elete Slide"
+msgstr "سلائڈ  كریو خئرج "
+
+#: menuids_tmpl.src#MN_DELETE_MASTER.SID_DELETE_MASTER_PAGE.menuitem.text
+msgid "D~elete Master"
+msgstr "ماسٹر كریوخئرج  "
+
+#: menuids_tmpl.src#MN_DELETE_PAGE.SID_DELETE_PAGE.menuitem.text
+msgid "D~elete Page"
+msgstr "صفحہ كریو خئرج"
+
+#: menuids_tmpl.src#MN_RENAME_SLIDE.SID_RENAMEPAGE.menuitem.text
+msgid "~Rename Slide"
+msgstr "سلائڈئ دیو دوبارئ ناو"
+
+#: menuids_tmpl.src#MN_RENAME_MASTER.SID_RENAME_MASTER_PAGE.menuitem.text
+msgid "~Rename Master"
+msgstr "ماسٹرس دیو دوبارئ ناو"
+
+#: menuids_tmpl.src#MN_RENAME_PAGE.SID_RENAMEPAGE.menuitem.text
+msgid "~Rename Page"
+msgstr "صفحس دیو دوبارئ ناو"
+
+#: menuids_tmpl.src#MN_LINE.SID_ATTRIBUTES_LINE.menuitem.text
+msgid "L~ine..."
+msgstr "ریخ۔۔۔"
+
+#: menuids_tmpl.src#MN_AREA.SID_ATTRIBUTES_AREA.menuitem.text
+msgid "~Area..."
+msgstr ""
+
+#: menuids_tmpl.src#MN_TEXTATTR.SID_TEXTATTR_DLG.menuitem.text
+msgid "~Text..."
+msgstr "مواد۔۔۔ "
+
+#: menuids_tmpl.src#MN_OUTLINE_TEXT_AUTOFIT.SID_OUTLINE_TEXT_AUTOFIT.menuitem.text
+msgid "~Autofit Text"
+msgstr ""
+
+#: menuids_tmpl.src#MN_CONNECTION.SID_CONNECTION_DLG.menuitem.text
+#, fuzzy
+msgid "~Connector..."
+msgstr "~۔رابطہ کار۔۔۔"
+
+#: menuids_tmpl.src#MN_NEW_ROUTING.SID_CONNECTION_NEW_ROUTING.menuitem.text
+msgid "Reset ~Routing"
+msgstr "روٹینگ كریو ری سیٹ  "
+
+#: menuids_tmpl.src#MN_MEASURE.SID_MEASURE_DLG.menuitem.text
+#, fuzzy
+msgid "Dimen~sions..."
+msgstr "ڈائمینشنس۔۔۔..."
+
+#: menuids_tmpl.src#MN_TRANSFORM.SID_ATTR_TRANSFORM.menuitem.text
+msgid "Position and Si~ze..."
+msgstr "حالت تئ سائز۔۔۔"
+
+#: menuids_tmpl.src#MN_EDIT_POINTS.SID_BEZIER_EDIT.menuitem.text
+msgctxt "menuids_tmpl.src#MN_EDIT_POINTS.SID_BEZIER_EDIT.menuitem.text"
+msgid "Edit ~Points"
+msgstr "نقطن كریو ادارت"
+
+#: menuids_tmpl.src#MN_POSITION.SID_POSITION.SID_FRAME_TO_TOP.menuitem.text
+msgid "~Bring to Front"
+msgstr "بَتھ۪ی اَنیو"
+
+#: menuids_tmpl.src#MN_POSITION.SID_POSITION.SID_MOREFRONT.menuitem.text
+#, fuzzy
+msgid "Bring ~Forward"
+msgstr "برونٹھ كُن  انیو"
+
+#: menuids_tmpl.src#MN_POSITION.SID_POSITION.SID_MOREBACK.menuitem.text
+#, fuzzy
+msgid "Send Back~ward"
+msgstr "پتھ كُن سوزیو"
+
+#: menuids_tmpl.src#MN_POSITION.SID_POSITION.SID_FRAME_TO_BOTTOM.menuitem.text
+msgid "~Send to Back"
+msgstr "پتھ سوزیو "
+
+#: menuids_tmpl.src#MN_POSITION.SID_POSITION.SID_BEFORE_OBJ.menuitem.text
+#, fuzzy
+msgid "In Front of ~Object"
+msgstr "آبجیکٹس    برونٹھكنئ"
+
+#: menuids_tmpl.src#MN_POSITION.SID_POSITION.SID_BEHIND_OBJ.menuitem.text
+#, fuzzy
+msgid "Be~hind Object"
+msgstr "آبجیکٹس پتكنئ۔"
+
+#: menuids_tmpl.src#MN_POSITION.SID_POSITION.SID_REVERSE_ORDER.menuitem.text
+#, fuzzy
+msgid "~Reverse"
+msgstr "~ریورس کریو"
+
+#: menuids_tmpl.src#MN_POSITION.SID_POSITION.menuitem.text
+#, fuzzy
+msgid "Arra~nge"
+msgstr "~ترتیب دیو"
+
+#: menuids_tmpl.src#MN_CHAR.SID_CHAR_DLG.menuitem.text
+msgid "C~haracter..."
+msgstr "لفظ۔۔۔ "
+
+#: menuids_tmpl.src#MN_CHAR_PARAGRAPH.SID_PARA_DLG.menuitem.text
+msgid "P~aragraph..."
+msgstr "پیراگراف۔۔۔ "
+
+#: menuids_tmpl.src#MN_TEXT_ATTR.SID_ATTR_CHAR_FONT.menuitem.text
+msgid "~Font"
+msgstr "۔فانٹ"
+
+#: menuids_tmpl.src#MN_TEXT_ATTR.SID_ATTR_CHAR_FONTHEIGHT.menuitem.text
+msgid "~Size"
+msgstr "۔سائز"
+
+#: menuids_tmpl.src#MN_TEXT_ATTR.DUMMY.SID_ATTR_CHAR_WEIGHT.menuitem.text
+msgid "Bold"
+msgstr "  بو٘ڈ"
+
+#: menuids_tmpl.src#MN_TEXT_ATTR.DUMMY.SID_ATTR_CHAR_POSTURE.menuitem.text
+msgid "Italic"
+msgstr "ترچھئ"
+
+#: menuids_tmpl.src#MN_TEXT_ATTR.DUMMY.SID_ATTR_CHAR_OVERLINE.menuitem.text
+msgid "Overline"
+msgstr ""
+
+#: menuids_tmpl.src#MN_TEXT_ATTR.DUMMY.SID_ATTR_CHAR_UNDERLINE.menuitem.text
+msgid "Underline"
+msgstr "تل۪یم ریكھ"
+
+#: menuids_tmpl.src#MN_TEXT_ATTR.DUMMY.SID_ATTR_CHAR_STRIKEOUT.menuitem.text
+msgid "Strikethrough"
+msgstr " سٹرائک تھرو"
+
+#: menuids_tmpl.src#MN_TEXT_ATTR.DUMMY.SID_ATTR_CHAR_SHADOWED.menuitem.text
+msgid "Shadow"
+msgstr "ژھاے"
+
+#: menuids_tmpl.src#MN_TEXT_ATTR.DUMMY.SID_ATTR_CHAR_CONTOUR.menuitem.text
+msgid "~Contour"
+msgstr "۔قنطور"
+
+#: menuids_tmpl.src#MN_TEXT_ATTR.DUMMY.menuitem.text
+msgid "St~yle"
+msgstr " سٹائل "
+
+#: menuids_tmpl.src#MN_LINESPACING_ATTR.DUMMY_1.SID_ATTR_PARA_LINESPACE_10.menuitem.text
+msgid "Single Line Spacing"
+msgstr "سنگل لائن فئاصلہ دیون"
+
+#: menuids_tmpl.src#MN_LINESPACING_ATTR.DUMMY_1.SID_ATTR_PARA_LINESPACE_15.menuitem.text
+msgid "1.5 Lines"
+msgstr " 1.5ریكھئ"
+
+#: menuids_tmpl.src#MN_LINESPACING_ATTR.DUMMY_1.SID_ATTR_PARA_LINESPACE_20.menuitem.text
+msgid "~Double"
+msgstr "۔دْگنئ"
+
+#: menuids_tmpl.src#MN_LINESPACING_ATTR.DUMMY_1.menuitem.text
+msgid "~Line Spacing"
+msgstr "۔ریكھ فئصلہ دیون"
+
+#: menuids_tmpl.src#MN_BULLET.SID_CHARMAP.menuitem.text
+msgid "S~pecial Character..."
+msgstr "خاص لفظ"
+
+#: menuids_tmpl.src#MN_TEXT_ALIGN.DUMMY_2.SID_ATTR_PARA_ADJUST_LEFT.menuitem.text
+msgctxt "menuids_tmpl.src#MN_TEXT_ALIGN.DUMMY_2.SID_ATTR_PARA_ADJUST_LEFT.menuitem.text"
+msgid "~Left"
+msgstr "~كھوفر"
+
+#: menuids_tmpl.src#MN_TEXT_ALIGN.DUMMY_2.SID_ATTR_PARA_ADJUST_RIGHT.menuitem.text
+msgctxt "menuids_tmpl.src#MN_TEXT_ALIGN.DUMMY_2.SID_ATTR_PARA_ADJUST_RIGHT.menuitem.text"
+msgid "~Right"
+msgstr "~دچھُن"
+
+#: menuids_tmpl.src#MN_TEXT_ALIGN.DUMMY_2.SID_ATTR_PARA_ADJUST_CENTER.menuitem.text
+msgctxt "menuids_tmpl.src#MN_TEXT_ALIGN.DUMMY_2.SID_ATTR_PARA_ADJUST_CENTER.menuitem.text"
+msgid "~Centered"
+msgstr "~مرکزی"
+
+#: menuids_tmpl.src#MN_TEXT_ALIGN.DUMMY_2.SID_ATTR_PARA_ADJUST_BLOCK.menuitem.text
+msgid "Justified"
+msgstr "صف بندی "
+
+#: menuids_tmpl.src#MN_TEXT_ALIGN.DUMMY_2.menuitem.text
+msgid "A~lignment"
+msgstr "ترتیب دین "
+
+#: menuids_tmpl.src#MN_OBJECT_ALIGN.SID_OBJECT_ALIGN.SID_OBJECT_ALIGN_LEFT.menuitem.text
+msgctxt "menuids_tmpl.src#MN_OBJECT_ALIGN.SID_OBJECT_ALIGN.SID_OBJECT_ALIGN_LEFT.menuitem.text"
+msgid "~Left"
+msgstr "~كھوفر"
+
+#: menuids_tmpl.src#MN_OBJECT_ALIGN.SID_OBJECT_ALIGN.SID_OBJECT_ALIGN_CENTER.menuitem.text
+msgctxt "menuids_tmpl.src#MN_OBJECT_ALIGN.SID_OBJECT_ALIGN.SID_OBJECT_ALIGN_CENTER.menuitem.text"
+msgid "~Centered"
+msgstr "~مرکزی"
+
+#: menuids_tmpl.src#MN_OBJECT_ALIGN.SID_OBJECT_ALIGN.SID_OBJECT_ALIGN_RIGHT.menuitem.text
+msgctxt "menuids_tmpl.src#MN_OBJECT_ALIGN.SID_OBJECT_ALIGN.SID_OBJECT_ALIGN_RIGHT.menuitem.text"
+msgid "~Right"
+msgstr "~دچھُن"
+
+#: menuids_tmpl.src#MN_OBJECT_ALIGN.SID_OBJECT_ALIGN.SID_OBJECT_ALIGN_UP.menuitem.text
+msgctxt "menuids_tmpl.src#MN_OBJECT_ALIGN.SID_OBJECT_ALIGN.SID_OBJECT_ALIGN_UP.menuitem.text"
+msgid "~Top"
+msgstr "~ہیریوم"
+
+#: menuids_tmpl.src#MN_OBJECT_ALIGN.SID_OBJECT_ALIGN.SID_OBJECT_ALIGN_MIDDLE.menuitem.text
+msgctxt "menuids_tmpl.src#MN_OBJECT_ALIGN.SID_OBJECT_ALIGN.SID_OBJECT_ALIGN_MIDDLE.menuitem.text"
+msgid "C~enter"
+msgstr "مرکز "
+
+#: menuids_tmpl.src#MN_OBJECT_ALIGN.SID_OBJECT_ALIGN.SID_OBJECT_ALIGN_DOWN.menuitem.text
+msgctxt "menuids_tmpl.src#MN_OBJECT_ALIGN.SID_OBJECT_ALIGN.SID_OBJECT_ALIGN_DOWN.menuitem.text"
+msgid "~Bottom"
+msgstr "~تلیم"
+
+#: menuids_tmpl.src#MN_OBJECT_ALIGN.SID_OBJECT_ALIGN.menuitem.text
+#, fuzzy
+msgid "Al~ignment"
+msgstr "ترتیب دین "
+
+#: menuids_tmpl.src#MN_CLOSE_OBJECT.SID_OBJECT_CLOSE.menuitem.text
+msgctxt "menuids_tmpl.src#MN_CLOSE_OBJECT.SID_OBJECT_CLOSE.menuitem.text"
+msgid "Close ~Object"
+msgstr "آبجیکٹ بندکرُن"
+
+#: menuids_tmpl.src#MN_BEZIER.SID_BEZIER_EDIT.menuitem.text
+msgctxt "menuids_tmpl.src#MN_BEZIER.SID_BEZIER_EDIT.menuitem.text"
+msgid "Edit ~Points"
+msgstr "نقطن كریو ادارت"
+
+#: menuids_tmpl.src#MN_BEZIER.SID_BEZIER_MOVE.menuitem.text
+msgid "~Move Points"
+msgstr "نقطن ہینز جاے بدلاوین"
+
+#: menuids_tmpl.src#MN_BEZIER.SID_BEZIER_INSERT.menuitem.text
+msgid "Insert ~Points"
+msgstr "پھ۪یر كریو  دئخل"
+
+#: menuids_tmpl.src#MN_BEZIER.SID_BEZIER_DELETE.menuitem.text
+msgid "~Delete Points"
+msgstr "نقطئ  كریو خئارج"
+
+#: menuids_tmpl.src#MN_BEZIER.SID_BEZIER_CLOSE.menuitem.text
+msgctxt "menuids_tmpl.src#MN_BEZIER.SID_BEZIER_CLOSE.menuitem.text"
+msgid "Close ~Object"
+msgstr "آبجیکٹ بندکرُن"
+
+#: menuids_tmpl.src#MN_BEZIER.SID_BEZIER_CUTLINE.menuitem.text
+msgid "~Split Curve"
+msgstr "کمان الگ كرِن"
+
+#: menuids_tmpl.src#MN_BEZIER.SID_BEZIER_CONVERT.menuitem.text
+msgid "Con~vert to Curve"
+msgstr "کمانن منز كریو تبدیل  "
+
+#: menuids_tmpl.src#MN_BEZIER.SID_BEZIER_EDGE.menuitem.text
+msgid "~Corner"
+msgstr "۔کون"
+
+#: menuids_tmpl.src#MN_BEZIER.SID_BEZIER_SMOOTH.menuitem.text
+msgid "Smoot~h"
+msgstr "ہموار "
+
+#: menuids_tmpl.src#MN_BEZIER.SID_BEZIER_SYMMTR.menuitem.text
+msgid "S~ymmetric"
+msgstr "متناسب "
+
+#: menuids_tmpl.src#MN_BEZIER.SID_BEZIER_ELIMINATE_POINTS.menuitem.text
+msgid "~Reduce Points"
+msgstr "پوائنٹس  گھٹئویو"
+
+#: menuids_tmpl.src#MN_GROUP.SID_GROUP.menuitem.text
+#, fuzzy
+msgid "~Group"
+msgstr "~گروپ"
+
+#: menuids_tmpl.src#MN_UNGROUP.SID_UNGROUP.menuitem.text
+#, fuzzy
+msgid "~Ungroup"
+msgstr "~اَن گروپ"
+
+#: menuids_tmpl.src#MN_COMBINE.SID_COMBINE.menuitem.text
+msgid "Comb~ine"
+msgstr "جوڑیو"
+
+#: menuids_tmpl.src#MN_DISMANTLE.SID_DISMANTLE.menuitem.text
+msgid "~Split"
+msgstr "۔الگ    كرُن"
+
+#: menuids_tmpl.src#MN_ENTER_GROUP.SID_ENTER_GROUP.menuitem.text
+msgid "~Enter Group"
+msgstr "۔گروپ دئخل کرونئ"
+
+#: menuids_tmpl.src#MN_LEAVE_GROUP.SID_LEAVE_GROUP.menuitem.text
+msgid "E~xit Group"
+msgstr "۔ایکزیٹ گروپ"
+
+#: menuids_tmpl.src#MN_NAME_GROUP.SID_NAME_GROUP.menuitem.text
+msgid "Name..."
+msgstr ""
+
+#: menuids_tmpl.src#MN_OBJECT_TITLE_DESCRIPTION.SID_OBJECT_TITLE_DESCRIPTION.menuitem.text
+msgid "Description..."
+msgstr "وضاحت۔۔۔۔"
+
+#: menuids_tmpl.src#MN_EFFECT.SID_CUSTOM_ANIMATION_PANEL.menuitem.text
+msgid "Custom Animation..."
+msgstr "دستور کی کیفیت"
+
+#: menuids_tmpl.src#MN_ACTION.SID_ANIMATION_EFFECTS.menuitem.text
+#, fuzzy
+msgid "Int~eraction..."
+msgstr "تفاعل۔۔۔ "
+
+#: menuids_tmpl.src#MN_PRESENTATIONOBJECT.SID_PRESENTATIONOBJECT.menuitem.text
+msgid "Presentation ~Object..."
+msgstr "۔پیشکش آجبیکٹ۔۔۔ "
+
+#: menuids_tmpl.src#MN_DELETE.SID_DELETE.menuitem.text
+msgctxt "menuids_tmpl.src#MN_DELETE.SID_DELETE.menuitem.text"
+msgid "~Delete"
+msgstr "~خئرج کریو"
+
+#: menuids_tmpl.src#MN_SET_DEFAULT.SID_SET_DEFAULT.menuitem.text
+msgid "~Default"
+msgstr "۔ڈیفالٹ"
+
+#: menuids_tmpl.src#MN_FONTWORK.SID_FONTWORK.menuitem.text
+msgid "F~ontwork"
+msgstr "فانٹ كئم"
+
+#: menuids_tmpl.src#MN_OLE_OBJECT.SID_OBJECT.menuitem.text
+msgid "~OLE Object"
+msgstr "۔آبجیکٹOLE "
+
+#: menuids_tmpl.src#MN_ORIGINAL_SIZE.SID_ORIGINAL_SIZE.menuitem.text
+#, fuzzy
+msgid "~Original Size"
+msgstr ""
+"#-#-#-#-#  frmdlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~اصل سائز\n"
+"#-#-#-#-#  drawfunc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"اصلی سائز"
+
+#: menuids_tmpl.src#MN_SAVEGRAPHIC.SID_SAVEGRAPHIC.menuitem.text
+msgid "Save as Picture..."
+msgstr ""
+
+#: menuids_tmpl.src#MN_CROP.SID_ATTR_GRAF_CROP.menuitem.text
+msgid "Crop Picture..."
+msgstr ""
+
+#: menuids_tmpl.src#MN_NAVIGATOR.SID_NAVIGATOR.menuitem.text
+msgid "Na~vigator"
+msgstr "نیویگیٹر"
+
+#: menuids_tmpl.src#MN_GLUE_INSERT_POINT.SID_GLUE_INSERT_POINT.menuitem.text
+msgid "Insert ~Point"
+msgstr "نقط كریو دئخل  "
+
+#: menuids_tmpl.src#MN_GLUE_ESC_DIR_LEFT.SID_GLUE_ESCDIR_LEFT.menuitem.text
+msgctxt "menuids_tmpl.src#MN_GLUE_ESC_DIR_LEFT.SID_GLUE_ESCDIR_LEFT.menuitem.text"
+msgid "~Left"
+msgstr "~كھوفر"
+
+#: menuids_tmpl.src#MN_GLUE_ESC_DIR_TOP.SID_GLUE_ESCDIR_TOP.menuitem.text
+msgctxt "menuids_tmpl.src#MN_GLUE_ESC_DIR_TOP.SID_GLUE_ESCDIR_TOP.menuitem.text"
+msgid "~Top"
+msgstr "~ہیریوم"
+
+#: menuids_tmpl.src#MN_GLUE_ESC_DIR_RIGHT.SID_GLUE_ESCDIR_RIGHT.menuitem.text
+msgctxt "menuids_tmpl.src#MN_GLUE_ESC_DIR_RIGHT.SID_GLUE_ESCDIR_RIGHT.menuitem.text"
+msgid "~Right"
+msgstr "~دچھُن"
+
+#: menuids_tmpl.src#MN_GLUE_ESC_DIR_BOTTOM.SID_GLUE_ESCDIR_BOTTOM.menuitem.text
+msgctxt "menuids_tmpl.src#MN_GLUE_ESC_DIR_BOTTOM.SID_GLUE_ESCDIR_BOTTOM.menuitem.text"
+msgid "~Bottom"
+msgstr "~تلیم"
+
+#: menuids_tmpl.src#MN_GLUE_PERCENT.SID_GLUE_PERCENT.menuitem.text
+msgid "~Adapt Position to Object"
+msgstr "۔پوزیشن بنئویو آبجیکٹ موزوں "
+
+#: menuids_tmpl.src#MN_GLUE_HORZALIGN_LEFT.SID_GLUE_HORZALIGN_LEFT.menuitem.text
+msgid "Fixed ~Horizontal Left"
+msgstr "طےشدہ س۪یود كھوفر"
+
+#: menuids_tmpl.src#MN_GLUE_HORZALIGN_CENTER.SID_GLUE_HORZALIGN_CENTER.menuitem.text
+msgid "Fixed Horizontal ~Center"
+msgstr "طےشدہ س۪یود مركزی۔"
+
+#: menuids_tmpl.src#MN_GLUE_HORZALIGN_RIGHT.SID_GLUE_HORZALIGN_RIGHT.menuitem.text
+msgid "Fixed Hori~zontal Right"
+msgstr "طےشدہ س۪یود دچُھن"
+
+#: menuids_tmpl.src#MN_GLUE_VERTALIGN_TOP.SID_GLUE_VERTALIGN_TOP.menuitem.text
+msgid "Fixed ~Vertical Top"
+msgstr "طےشدئ  كؤڈا ہیریم"
+
+#: menuids_tmpl.src#MN_GLUE_VERTALIGN_CENTER.SID_GLUE_VERTALIGN_CENTER.menuitem.text
+msgid "Fixed V~ertical Center"
+msgstr "طےشدہ كھڈا مرکزی "
+
+#: menuids_tmpl.src#MN_GLUE_VERTALIGN_BOTTOM.SID_GLUE_VERTALIGN_BOTTOM.menuitem.text
+msgid "Fixed Ver~tical Bottom"
+msgstr "طےشدہ  كھڈا بنیم"
+
+#: menuids_tmpl.src#MN_GRID_VISIBLE.SID_GRID_VISIBLE.menuitem.text
+msgid "~Display Grid"
+msgstr "جال دکھاؤ"
+
+#: menuids_tmpl.src#MN_GRID_USE.SID_GRID_USE.menuitem.text
+msgid "Snap to Grid"
+msgstr "گریڈس منز سنیپ "
+
+#: menuids_tmpl.src#MN_GRID_FRONT.SID_GRID_FRONT.menuitem.text
+msgid "Grid to ~Front"
+msgstr "برونٹھ كُن  گریڈ"
+
+#: menuids_tmpl.src#MN_GRID.DUMMY_5.menuitem.text
+msgid "~Grid"
+msgstr "۔گریڈ"
+
+#: menuids_tmpl.src#MN_HELPLINES_VISIBLE.SID_HELPLINES_VISIBLE.menuitem.text
+msgid "~Display Snap Lines"
+msgstr ""
+
+#: menuids_tmpl.src#MN_HELPLINES_USE.SID_HELPLINES_USE.menuitem.text
+#, fuzzy
+msgid "~Snap to Snap Lines"
+msgstr " سنیپ پیٹھ سنیپ لائن "
+
+#: menuids_tmpl.src#MN_HELPLINES_FRONT.SID_HELPLINES_FRONT.menuitem.text
+#, fuzzy
+msgid "Snap Lines to ~Front"
+msgstr "سنیپ لائنس برونٹھ كئن"
+
+#: menuids_tmpl.src#MN_HELPLINES.DUMMY_6.menuitem.text
+msgid "~Snap Lines"
+msgstr "۔سنیپ لائنز"
+
+#: menuids_tmpl.src#MN_CONTROL_SHOW_BROWSER.SID_SHOW_BROWSER.menuitem.text
+msgid "Propert~ies..."
+msgstr "خصوصیت۔۔۔"
+
+#: menuids_tmpl.src#MN_CONVERT_TO_1BIT_THRESHOLD.SID_CONVERT_TO_1BIT_THRESHOLD.menuitem.text
+msgid "1Bit ~Threshold"
+msgstr "1Bit ~تھرےشولڈ   "
+
+#: menuids_tmpl.src#MN_CONVERT_TO_1BIT_MATRIX.SID_CONVERT_TO_1BIT_MATRIX.menuitem.text
+msgid "1 Bit ~Dithering"
+msgstr "1Bit ~ڈیتھرینگ "
+
+#: menuids_tmpl.src#MN_CONVERT_TO_4BIT_GRAYS.SID_CONVERT_TO_4BIT_GRAYS.menuitem.text
+msgid "4 Bit G~rayscales"
+msgstr "4 Bit G~رے سکیلس "
+
+#: menuids_tmpl.src#MN_CONVERT_TO_4BIT_COLORS.SID_CONVERT_TO_4BIT_COLORS.menuitem.text
+msgid "4 Bit ~Color Palette"
+msgstr "4 Bit ~رنگ پیلیٹ "
+
+#: menuids_tmpl.src#MN_CONVERT_TO_8BIT_GRAYS.SID_CONVERT_TO_8BIT_GRAYS.menuitem.text
+msgid "8 Bit Gr~ayscales"
+msgstr "8 Bit Gr~اےواےاسکیلس "
+
+#: menuids_tmpl.src#MN_CONVERT_TO_8BIT_COLORS.SID_CONVERT_TO_8BIT_COLORS.menuitem.text
+msgid "8 Bit C~olor Palette"
+msgstr "8 Bit  ~رنگ پیلیٹ "
+
+#: menuids_tmpl.src#MN_CONVERT_TO_24BIT.SID_CONVERT_TO_24BIT.menuitem.text
+msgid "24 Bit ~True Colors"
+msgstr "24 Bit ~اصل رنگ "
+
+#: menuids_tmpl.src#MNSUB_CONVERT.SID_CONVERT.menuitem.text
+msgid "Con~vert"
+msgstr ""
+
+#: menuids_tmpl.src#MNSUB_MIRROR.SID_MIRROR.menuitem.text
+msgid "~Flip"
+msgstr "۔فلیپ کریو"
+
+#: menuids_tmpl.src#MNSUB_ROTATE.SID_OBJECT_ROTATE.menuitem.text
+msgid "~Rotate"
+msgstr "۔گتھ"
+
+#: menuids_tmpl.src#MN_CONNECT.SID_CONNECT.menuitem.text
+msgid "C~onnect"
+msgstr "جوڑیو"
+
+#: menuids_tmpl.src#MN_BREAK.SID_BREAK.menuitem.text
+msgid "~Break"
+msgstr "۔ژھینن"
+
+#: menuids_tmpl.src#MN_STYLEDT.SID_STYLE_EDIT.menuitem.text
+msgid "Edit Style..."
+msgstr "۔سٹائلس  ادارت۔۔۔"
+
+#: res_bmp.src#SfxStyleFamiliesRes1.#define.text
+msgctxt "res_bmp.src#SfxStyleFamiliesRes1.#define.text"
+msgid "Graphics Styles"
+msgstr "نقشن ہیوند سٹائل "
+
+#: res_bmp.src#SfxStyleFamiliesRes2.#define.text
+msgid "Presentation Styles"
+msgstr "پیشکش سٹائلز "
+
+#: res_bmp.src#STR_STYLE_FILTER_USED.string.text
+msgctxt "res_bmp.src#STR_STYLE_FILTER_USED.string.text"
+msgid "Applied Styles"
+msgstr ""
+
+#: res_bmp.src#STR_STYLE_FILTER_USERDEF.string.text
+msgctxt "res_bmp.src#STR_STYLE_FILTER_USERDEF.string.text"
+msgid "Custom Styles"
+msgstr ""
+
+#: res_bmp.src#STR_STYLE_FILTER_ALL.string.text
+#, fuzzy
+msgctxt "res_bmp.src#STR_STYLE_FILTER_ALL.string.text"
+msgid "All Styles"
+msgstr "سیل سٹائلس"
+
+#: res_bmp.src#DLG_STYLE_DESIGNER.RID_GRAPHICSTYLEFAMILY.1.filterlist.text
+#, fuzzy
+msgctxt "res_bmp.src#DLG_STYLE_DESIGNER.RID_GRAPHICSTYLEFAMILY.1.filterlist.text"
+msgid "All Styles"
+msgstr "سیل سٹائلس"
+
+#: res_bmp.src#DLG_STYLE_DESIGNER.RID_GRAPHICSTYLEFAMILY.2.filterlist.text
+msgctxt "res_bmp.src#DLG_STYLE_DESIGNER.RID_GRAPHICSTYLEFAMILY.2.filterlist.text"
+msgid "Applied Styles"
+msgstr ""
+
+#: res_bmp.src#DLG_STYLE_DESIGNER.RID_GRAPHICSTYLEFAMILY.3.filterlist.text
+msgctxt "res_bmp.src#DLG_STYLE_DESIGNER.RID_GRAPHICSTYLEFAMILY.3.filterlist.text"
+msgid "Custom Styles"
+msgstr ""
+
+#: res_bmp.src#DLG_STYLE_DESIGNER.RID_PRESENTATIONSTYLEFAMILY.1.filterlist.text
+#, fuzzy
+msgctxt "res_bmp.src#DLG_STYLE_DESIGNER.RID_PRESENTATIONSTYLEFAMILY.1.filterlist.text"
+msgid "All Styles"
+msgstr "سیل سٹائلس"
+
+#: sdstring.src#STR_SAR_NOT_FOUND.string.text
+msgctxt "sdstring.src#STR_SAR_NOT_FOUND.string.text"
+msgid "Search key not found."
+msgstr "سرچ  كی آی نئ اَتھ۪ی."
+
+#: sdstring.src#STR_SAR_WRAP_FORWARD.string.text
+msgid "%PRODUCTNAME Impress has searched to the end of the presentation. Do you want to continue at the beginning?"
+msgstr "%PRODUCTNAMEامپریسن چھُ ژھنڈمُت پیشكش كس ٲخرس تام٫ تہئ چھئو  یژھان شروعوا تس  پیٹھئ جئری تھاوُن  ؟  "
+
+#: sdstring.src#STR_SAR_WRAP_BACKWARD.string.text
+msgid "%PRODUCTNAME Impress has searched to the beginning of the presentation. Do you want to continue at the end?"
+msgstr "     %PRODUCTNAMEامپریسن چھُ ژھنڈمُت پیشكش كس شروعس تام تہئ چھئو ٲخرس ئ پیتٹھ  یژھان جئری تھاوُن  ؟  "
+
+#: sdstring.src#STR_SAR_WRAP_FORWARD_DRAW.string.text
+msgid "%PRODUCTNAME Draw has searched to the end of the document. Do you want to continue at the beginning?"
+msgstr "   %PRODUCTNAMEڈرائن  چھُ ژھنڈمُت پیشكش كسٲكرس تام  تہئ چھئوشروعواتس  ئ پیتٹھ  یژھان جئری تھاوُن  ؟  "
+
+#: sdstring.src#STR_SAR_WRAP_BACKWARD_DRAW.string.text
+msgid "%PRODUCTNAME Draw has searched to the beginning of the document. Do you want to continue at the end?"
+msgstr "ڈراؤدستاویزکےشروع ات کےلئےتلاش%PRODUCTNAME کرچکاہے۔کیاآپ آخرمیں جاری رکھناچاہتےہیں؟ "
+
+#: toolbox.src#RID_DRAW_VIEWER_TOOLBOX.string.text
+msgctxt "toolbox.src#RID_DRAW_VIEWER_TOOLBOX.string.text"
+msgid "Function Bar (viewing mode)"
+msgstr "(فنکشن پٹ(ویوینگ موڈ "
+
+#: toolbox.src#RID_GRAPHIC_VIEWER_TOOLBOX.string.text
+msgctxt "toolbox.src#RID_GRAPHIC_VIEWER_TOOLBOX.string.text"
+msgid "Function Bar (viewing mode)"
+msgstr "(فنکشن پٹ(ویوینگ موڈ "
+
+#: toolbox.src#RID_DRAW_MEDIA_TOOLBOX.string.text
+#, fuzzy
+msgid "Media Playback"
+msgstr ""
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"میڈیا پلےبیک\n"
+"#-#-#-#-#  core.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"میڈیا پلےبیک "
+
+#: toolbox.src#RID_DRAW_TABLE_TOOLBOX.string.text
+#, fuzzy
+msgid "Table"
+msgstr ""
+"#-#-#-#-#  ribbar.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"جدول\n"
+"#-#-#-#-#  table.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"جدول\n"
+"#-#-#-#-#  fldui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"جدول\n"
+"#-#-#-#-#  chrdlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"جدول\n"
+"#-#-#-#-#  appl.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"جدول\n"
+"#-#-#-#-#  Office.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"جدول\n"
+"#-#-#-#-#  dbpilots.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"جدول \n"
+"#-#-#-#-#  bibliography.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"جدول\n"
+"#-#-#-#-#  dialogs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"جدول\n"
+"#-#-#-#-#  items.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"جدول"
+
+#: popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.SID_FORMAT_TABLE_DLG.menuitem.text
+msgctxt "popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.SID_FORMAT_TABLE_DLG.menuitem.text"
+msgid "~Table..."
+msgstr ""
+
+#: popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_10.SID_TABLE_MERGE_CELLS.menuitem.text
+msgctxt "popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_10.SID_TABLE_MERGE_CELLS.menuitem.text"
+msgid "~Merge"
+msgstr ""
+
+#: popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_10.SID_TABLE_SPLIT_CELLS.menuitem.text
+msgctxt "popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_10.SID_TABLE_SPLIT_CELLS.menuitem.text"
+msgid "~Split..."
+msgstr ""
+
+#: popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_10.SID_TABLE_VERT_NONE.menuitem.text
+#, fuzzy
+msgctxt "popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_10.SID_TABLE_VERT_NONE.menuitem.text"
+msgid "~Top"
+msgstr ""
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"اوپر\n"
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"اوپر\n"
+"#-#-#-#-#  dialogs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"۔ہ۪یور\n"
+"#-#-#-#-#  source.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"۔ہ۪یور\n"
+"#-#-#-#-#  inc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"۔ہ۪یور"
+
+#: popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_10.SID_TABLE_VERT_CENTER.menuitem.text
+#, fuzzy
+msgctxt "popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_10.SID_TABLE_VERT_CENTER.menuitem.text"
+msgid "C~enter"
+msgstr ""
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"مرکز\n"
+"#-#-#-#-#  frmdlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"مرکز\n"
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"مرکز\n"
+"#-#-#-#-#  inc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"مرکز "
+
+#: popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_10.SID_TABLE_VERT_BOTTOM.menuitem.text
+#, fuzzy
+msgctxt "popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_10.SID_TABLE_VERT_BOTTOM.menuitem.text"
+msgid "~Bottom"
+msgstr ""
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"نیچے\n"
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"نیچے\n"
+"#-#-#-#-#  dialogs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"۔تلئكنئ\n"
+"#-#-#-#-#  source.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"۔تلئكنئ\n"
+"#-#-#-#-#  inc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"۔تلئكنئ"
+
+#: popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_10.menuitem.text
+msgctxt "popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_10.menuitem.text"
+msgid "~Cell"
+msgstr ""
+
+#: popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_11.SID_TABLE_DISTRIBUTE_ROWS.menuitem.text
+msgctxt "popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_11.SID_TABLE_DISTRIBUTE_ROWS.menuitem.text"
+msgid "Space ~Equally"
+msgstr ""
+
+#: popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_11.SID_TABLE_SELECT_ROW.menuitem.text
+msgctxt "popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_11.SID_TABLE_SELECT_ROW.menuitem.text"
+msgid "~Select"
+msgstr ""
+
+#: popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_11.SID_TABLE_INSERT_ROW_DLG.menuitem.text
+msgctxt "popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_11.SID_TABLE_INSERT_ROW_DLG.menuitem.text"
+msgid "~Insert..."
+msgstr ""
+
+#: popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_11.SID_TABLE_DELETE_ROW.menuitem.text
+msgctxt "popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_11.SID_TABLE_DELETE_ROW.menuitem.text"
+msgid "~Delete"
+msgstr "~خئرج کریو"
+
+#: popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_11.menuitem.text
+msgctxt "popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_11.menuitem.text"
+msgid "~Row"
+msgstr ""
+
+#: popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_12.SID_TABLE_DISTRIBUTE_COLUMNS.menuitem.text
+msgctxt "popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_12.SID_TABLE_DISTRIBUTE_COLUMNS.menuitem.text"
+msgid "Space ~Equally"
+msgstr ""
+
+#: popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_12.SID_TABLE_SELECT_COL.menuitem.text
+msgctxt "popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_12.SID_TABLE_SELECT_COL.menuitem.text"
+msgid "~Select"
+msgstr ""
+
+#: popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_12.SID_TABLE_INSERT_COL_DLG.menuitem.text
+msgctxt "popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_12.SID_TABLE_INSERT_COL_DLG.menuitem.text"
+msgid "~Insert..."
+msgstr ""
+
+#: popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_12.SID_TABLE_DELETE_COL.menuitem.text
+msgctxt "popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_12.SID_TABLE_DELETE_COL.menuitem.text"
+msgid "~Delete"
+msgstr "~خئرج کریو"
+
+#: popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_12.menuitem.text
+msgctxt "popup2_tmpl.src#RID_GRAPHIC_TABLE_POPUP.DUMMY_12.menuitem.text"
+msgid "Colu~mn"
+msgstr ""

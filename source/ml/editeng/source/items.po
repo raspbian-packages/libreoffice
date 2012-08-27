@@ -1,0 +1,972 @@
+#. extracted from editeng/source/items.oo
+msgid ""
+msgstr ""
+"Project-Id-Version: items\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+editeng%2Fsource%2Fitems.oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-07-04 16:40+0200\n"
+"PO-Revision-Date: 2012-07-25 10:16+0200\n"
+"Last-Translator: anipeter <peter.ani@gmail.com>\n"
+"Language-Team: <en@li.org>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+"X-Accelerator-Marker: ~\n"
+
+#: svxitems.src#RID_SVXITEMS_TRUE.string.text
+msgid "True"
+msgstr "ശരി"
+
+#: svxitems.src#RID_SVXITEMS_FALSE.string.text
+msgid "False"
+msgstr "തെറ്റ്"
+
+#: svxitems.src#RID_SVXITEMS_BREAK_NONE.string.text
+msgid "No break"
+msgstr "വിഭജിയ്ക്കേണ്ട"
+
+#: svxitems.src#RID_SVXITEMS_BREAK_COLUMN_BEFORE.string.text
+msgid "Break before new column"
+msgstr "പുതിയ നിരയ്ക്കു് മുമ്പ് വിഭജിയ്ക്കുക"
+
+#: svxitems.src#RID_SVXITEMS_BREAK_COLUMN_AFTER.string.text
+msgid "Break after new column"
+msgstr "പുതിയ നിരയ്ക്കു് ശേഷം വിഭജിയ്ക്കുക"
+
+#: svxitems.src#RID_SVXITEMS_BREAK_COLUMN_BOTH.string.text
+msgid "Break before and after new column"
+msgstr "പുതിയ നിരയ്ക്കു് ശേഷവും മുമ്പും വിഭജിയ്ക്കുക"
+
+#: svxitems.src#RID_SVXITEMS_BREAK_PAGE_BEFORE.string.text
+msgid "Break before new page"
+msgstr "പുതിയ പേജിനുമുന്പ് വിഭജിക്കുക"
+
+#: svxitems.src#RID_SVXITEMS_BREAK_PAGE_AFTER.string.text
+msgid "Break after new page"
+msgstr "പുതിയ താളിനു് ശേഷം വിഭജിയ്ക്കുക"
+
+#: svxitems.src#RID_SVXITEMS_BREAK_PAGE_BOTH.string.text
+msgid "Break before and after new page"
+msgstr "പുതിയ താളിനു് ശേഷവും മുമ്പും വിഭജിയ്ക്കുക"
+
+#: svxitems.src#RID_SVXITEMS_SHADOW_NONE.string.text
+msgid "No Shadow"
+msgstr "നിഴല്‍ ഇല്ലാതെ"
+
+#: svxitems.src#RID_SVXITEMS_SHADOW_TOPLEFT.string.text
+msgid "Shadow top left"
+msgstr "നിഴല്‍ മുകളില്‍ ഇടതു് "
+
+#: svxitems.src#RID_SVXITEMS_SHADOW_TOPRIGHT.string.text
+msgid "Shadow top right"
+msgstr "നിഴല്‍ മുകളില്‍ വലതു്"
+
+#: svxitems.src#RID_SVXITEMS_SHADOW_BOTTOMLEFT.string.text
+msgid "Shadow bottom left"
+msgstr "നിഴല്‍ താഴെ ഇടതു് "
+
+#: svxitems.src#RID_SVXITEMS_SHADOW_BOTTOMRIGHT.string.text
+msgid "Shadow bottom right"
+msgstr "നിഴല്‍ താഴെ വലതു്"
+
+#: svxitems.src#RID_SVXITEMS_COLOR.string.text
+msgid "Color "
+msgstr "നിറം"
+
+#: svxitems.src#RID_SVXITEMS_COLOR_BLACK.string.text
+msgid "Black"
+msgstr "കറുത്ത"
+
+#: svxitems.src#RID_SVXITEMS_COLOR_BLUE.string.text
+msgid "Blue"
+msgstr "നീല"
+
+#: svxitems.src#RID_SVXITEMS_COLOR_GREEN.string.text
+msgid "Green"
+msgstr "പച്ച"
+
+#: svxitems.src#RID_SVXITEMS_COLOR_CYAN.string.text
+msgid "Cyan"
+msgstr "സിയാന്‍"
+
+#: svxitems.src#RID_SVXITEMS_COLOR_RED.string.text
+msgid "Red"
+msgstr "ചുവപ്പ്"
+
+#: svxitems.src#RID_SVXITEMS_COLOR_MAGENTA.string.text
+msgid "Magenta"
+msgstr "മജന്ഡ"
+
+#: svxitems.src#RID_SVXITEMS_COLOR_BROWN.string.text
+msgid "Brown"
+msgstr "ബ്രൌണ്‍"
+
+#: svxitems.src#RID_SVXITEMS_COLOR_GRAY.string.text
+msgid "Gray"
+msgstr "തവിട്ടു നിരം"
+
+#: svxitems.src#RID_SVXITEMS_COLOR_LIGHTGRAY.string.text
+msgid "Light Gray"
+msgstr "ഇളം ഗ്രേ"
+
+#: svxitems.src#RID_SVXITEMS_COLOR_LIGHTBLUE.string.text
+msgid "Light Blue"
+msgstr "ഇളം നീല"
+
+#: svxitems.src#RID_SVXITEMS_COLOR_LIGHTGREEN.string.text
+msgid "Light Green"
+msgstr "ഇളം പച്ച"
+
+#: svxitems.src#RID_SVXITEMS_COLOR_LIGHTCYAN.string.text
+msgid "Light Cyan"
+msgstr "ഇളം സിയാന്‍"
+
+#: svxitems.src#RID_SVXITEMS_COLOR_LIGHTRED.string.text
+msgid "Light Red"
+msgstr "ഇളം ചുവപ്പു്"
+
+#: svxitems.src#RID_SVXITEMS_COLOR_LIGHTMAGENTA.string.text
+msgid "Light Magenta"
+msgstr "ഇളം മജന്ത"
+
+#: svxitems.src#RID_SVXITEMS_COLOR_YELLOW.string.text
+msgid "Yellow"
+msgstr "മഞ്ഞ"
+
+#: svxitems.src#RID_SVXITEMS_COLOR_WHITE.string.text
+msgid "White"
+msgstr "വെളുപ്പു് "
+
+#: svxitems.src#RID_SVXITEMS_ITALIC_NONE.string.text
+msgid "Not Italic"
+msgstr "ചരിവില്ലാതെ"
+
+#: svxitems.src#RID_SVXITEMS_ITALIC_OBLIQUE.string.text
+msgid "Oblique italic"
+msgstr "ഒബ്ലിക്ക് ഇറ്റാലിക്"
+
+#: svxitems.src#RID_SVXITEMS_ITALIC_NORMAL.string.text
+msgid "Italic"
+msgstr "ചരിഞ്ഞ"
+
+#: svxitems.src#RID_SVXITEMS_WEIGHT_THIN.string.text
+msgid "thin"
+msgstr "മെലിഞ്ഞതു്"
+
+#: svxitems.src#RID_SVXITEMS_WEIGHT_ULTRALIGHT.string.text
+msgid "ultra thin"
+msgstr "വളരെ മെലിഞ്ഞതു്"
+
+#: svxitems.src#RID_SVXITEMS_WEIGHT_LIGHT.string.text
+msgid "light"
+msgstr "ഇളം"
+
+#: svxitems.src#RID_SVXITEMS_WEIGHT_SEMILIGHT.string.text
+msgid "semi light"
+msgstr "സെമി ലൈറ്റ്"
+
+#: svxitems.src#RID_SVXITEMS_WEIGHT_NORMAL.string.text
+msgid "normal"
+msgstr "സാധാരണ"
+
+#: svxitems.src#RID_SVXITEMS_WEIGHT_MEDIUM.string.text
+msgid "medium"
+msgstr "മീഡിയം"
+
+#: svxitems.src#RID_SVXITEMS_WEIGHT_SEMIBOLD.string.text
+msgid "semi bold"
+msgstr "സെമീ ബോള്‍ഡ്"
+
+#: svxitems.src#RID_SVXITEMS_WEIGHT_BOLD.string.text
+msgid "bold"
+msgstr "ബോള്‍ഡ്"
+
+#: svxitems.src#RID_SVXITEMS_WEIGHT_ULTRABOLD.string.text
+msgid "ultra bold"
+msgstr "അള്‍ട്രാ ബോള്‍ഡ്"
+
+#: svxitems.src#RID_SVXITEMS_WEIGHT_BLACK.string.text
+msgid "black"
+msgstr "കറുത്ത"
+
+#: svxitems.src#RID_SVXITEMS_UL_NONE.string.text
+msgid "No underline"
+msgstr "അടിവര ഇല്ല"
+
+#: svxitems.src#RID_SVXITEMS_UL_SINGLE.string.text
+msgid "Single underline"
+msgstr "ഒറ്റ അടിവര"
+
+#: svxitems.src#RID_SVXITEMS_UL_DOUBLE.string.text
+msgid "Double underline"
+msgstr "ഇരട്ട അടിവര"
+
+#: svxitems.src#RID_SVXITEMS_UL_DOTTED.string.text
+msgid "Dotted underline"
+msgstr "കുത്തിട്ട അടിവര"
+
+#: svxitems.src#RID_SVXITEMS_UL_DONTKNOW.string.text
+msgid "Underline"
+msgstr "അടിവര"
+
+#: svxitems.src#RID_SVXITEMS_UL_DASH.string.text
+msgid "Underline (dashes)"
+msgstr "അടിവര (ചെറിയ ഡാഷുകള്‍)"
+
+#: svxitems.src#RID_SVXITEMS_UL_LONGDASH.string.text
+msgid "Underline (long dashes)"
+msgstr "അടിവര (വലിയ ഡാഷുകള്‍)"
+
+#: svxitems.src#RID_SVXITEMS_UL_DASHDOT.string.text
+msgid "Underline (dot dash)"
+msgstr "അടിവര (കുത്തിട്ട ഡാഷുകള്‍)"
+
+#: svxitems.src#RID_SVXITEMS_UL_DASHDOTDOT.string.text
+msgid "Underline (dot dot dash)"
+msgstr "അടിവര (ഡോട്ട് ഡോട്ട് ഡാഷുകള്‍)"
+
+#: svxitems.src#RID_SVXITEMS_UL_SMALLWAVE.string.text
+msgid "Underline (small wave)"
+msgstr "അടിവര (സ്മോള്‍ വേവ്)"
+
+#: svxitems.src#RID_SVXITEMS_UL_WAVE.string.text
+msgid "Underline (Wave)"
+msgstr "അടിവര (വേവ്)"
+
+#: svxitems.src#RID_SVXITEMS_UL_DOUBLEWAVE.string.text
+msgid "Underline (Double wave)"
+msgstr "അടിവര (ഡബിള്‍ വേവ്)"
+
+#: svxitems.src#RID_SVXITEMS_UL_BOLD.string.text
+msgid "Underlined (Bold)"
+msgstr "അടിവര (ബോള്‍ഡ്)"
+
+#: svxitems.src#RID_SVXITEMS_UL_BOLDDOTTED.string.text
+msgid "Dotted underline (Bold)"
+msgstr "കുത്തിട്ട അടിവര (ബോള്‍ഡ്)"
+
+#: svxitems.src#RID_SVXITEMS_UL_BOLDDASH.string.text
+msgid "Underline (Dash bold)"
+msgstr "അടിവര (ഡാഷ് ബോള്‍ഡ്)"
+
+#: svxitems.src#RID_SVXITEMS_UL_BOLDLONGDASH.string.text
+msgid "Underline (long dash, bold)"
+msgstr "അടിവര (ലോങ് ഡാഷ്, ബോള്‍ഡ്)"
+
+#: svxitems.src#RID_SVXITEMS_UL_BOLDDASHDOT.string.text
+msgid "Underline (dot dash, bold)"
+msgstr "അടിവര (ഡോട്ട് ഡാഷ്, ബോള്‍ഡ്)"
+
+#: svxitems.src#RID_SVXITEMS_UL_BOLDDASHDOTDOT.string.text
+msgid "Underline (dot dot dash, bold)"
+msgstr "അടിവര (ഡോട്ട് ഡോട്ട് ഡാഷ്, ബോള്‍ഡ്)"
+
+#: svxitems.src#RID_SVXITEMS_UL_BOLDWAVE.string.text
+msgid "Underline (wave, bold)"
+msgstr "അടിവര (വേവ്, ബോള്‍ഡ്)"
+
+#: svxitems.src#RID_SVXITEMS_OL_NONE.string.text
+msgid "No overline"
+msgstr "മുകളിലൂടെ വരയില്ല"
+
+#: svxitems.src#RID_SVXITEMS_OL_SINGLE.string.text
+msgid "Single overline"
+msgstr "മുകളിലൂടെ ഒറ്റവരിയില്ല"
+
+#: svxitems.src#RID_SVXITEMS_OL_DOUBLE.string.text
+msgid "Double overline"
+msgstr "മുകളിലൂടെ ഇരട്ടവര"
+
+#: svxitems.src#RID_SVXITEMS_OL_DOTTED.string.text
+msgid "Dotted overline"
+msgstr "മുകളിലൂടെ കുത്തിട്ടവര"
+
+#: svxitems.src#RID_SVXITEMS_OL_DONTKNOW.string.text
+msgid "Overline"
+msgstr "വര മുകളിലൂടെ"
+
+#: svxitems.src#RID_SVXITEMS_OL_DASH.string.text
+msgid "Overline (dashes)"
+msgstr "മുകളിലൂടെ വര (ഡാഷുകള്‍)"
+
+#: svxitems.src#RID_SVXITEMS_OL_LONGDASH.string.text
+msgid "Overline (long dashes)"
+msgstr "മുകളിലൂടെ വര (നീളമുള്ള ഡാഷുകള്‍)"
+
+#: svxitems.src#RID_SVXITEMS_OL_DASHDOT.string.text
+msgid "Overline (dot dash)"
+msgstr "ഓവര്‍ലൈന്‍ (ഡോട്ട്-ഡാഷ്)"
+
+#: svxitems.src#RID_SVXITEMS_OL_DASHDOTDOT.string.text
+msgid "Overline (dot dot dash)"
+msgstr "ഓവര്‍ലൈന്‍ (ഡോട്ട് ഡോട്ട് ഡാഷ്)"
+
+#: svxitems.src#RID_SVXITEMS_OL_SMALLWAVE.string.text
+msgid "Overline (small wave)"
+msgstr "ഓവര്‍ലൈന്‍ (സ്മോള്‍ വേവ്)"
+
+#: svxitems.src#RID_SVXITEMS_OL_WAVE.string.text
+msgid "Overline (Wave)"
+msgstr "ഓവര്‍ലൈന്‍ (വേവ്)"
+
+#: svxitems.src#RID_SVXITEMS_OL_DOUBLEWAVE.string.text
+msgid "Overline (Double wave)"
+msgstr "ഓവര്‍ലൈന്‍ (ഡബിള്‍ വേവ്)"
+
+#: svxitems.src#RID_SVXITEMS_OL_BOLD.string.text
+msgid "Overlined (Bold)"
+msgstr "ഓവര്‍ലൈന്‍ (ബോള്‍ഡ്)"
+
+#: svxitems.src#RID_SVXITEMS_OL_BOLDDOTTED.string.text
+msgid "Dotted overline (Bold)"
+msgstr "കുത്തിട്ട ഓവര്‍ലൈന്‍ (ബോള്‍ഡ്)"
+
+#: svxitems.src#RID_SVXITEMS_OL_BOLDDASH.string.text
+msgid "Overline (Dash bold)"
+msgstr "ഓവര്‍ലൈന്‍ (ഡാഷ് ബോള്‍ഡ്)"
+
+#: svxitems.src#RID_SVXITEMS_OL_BOLDLONGDASH.string.text
+msgid "Overline (long dash, bold)"
+msgstr "ഓവര്‍ലൈന്‍ (ലോങ് ഡാഷ്, ബോള്‍ഡ്)"
+
+#: svxitems.src#RID_SVXITEMS_OL_BOLDDASHDOT.string.text
+msgid "Overline (dot dash, bold)"
+msgstr "ഓവര്‍ലൈന്‍ (ഡോട്ട് ഡാഷ്, ബോള്‍ഡ്)"
+
+#: svxitems.src#RID_SVXITEMS_OL_BOLDDASHDOTDOT.string.text
+msgid "Overline (dot dot dash, bold)"
+msgstr "ഓവര്‍ലൈന്‍ (ഡോട്ട് ഡോട്ട് ഡാഷ്, ബോള്‍ഡ്)"
+
+#: svxitems.src#RID_SVXITEMS_OL_BOLDWAVE.string.text
+msgid "Overline (wave, bold)"
+msgstr "ഓവര്‍ലൈന്‍ (വേവ്, ബോള്‍ഡ്)"
+
+#: svxitems.src#RID_SVXITEMS_STRIKEOUT_NONE.string.text
+msgid "No strikethrough"
+msgstr "ഇടയിലൂടെ വരെ ആവശ്യമില്ല"
+
+#: svxitems.src#RID_SVXITEMS_STRIKEOUT_SINGLE.string.text
+msgid "Single strikethrough"
+msgstr "ഇടയിലൂടെ ഒറ്റവര"
+
+#: svxitems.src#RID_SVXITEMS_STRIKEOUT_DOUBLE.string.text
+msgid "Double strikethrough"
+msgstr "ഇടയിലൂടെ ഇരട്ടവര"
+
+#: svxitems.src#RID_SVXITEMS_STRIKEOUT_BOLD.string.text
+msgid "Bold strikethrough"
+msgstr "ഇടയിലൂടെയുള്ള കട്ടിയുള്ളവര"
+
+#: svxitems.src#RID_SVXITEMS_STRIKEOUT_SLASH.string.text
+msgid "Strike through with slash"
+msgstr "സ്ലാഷ് ഉപയോഗിച്ചു് വെട്ടുക"
+
+#: svxitems.src#RID_SVXITEMS_STRIKEOUT_X.string.text
+msgid "Strike through with Xes"
+msgstr "എക്സ് ഉപയോഗിച്ചു് വെട്ടുക"
+
+#: svxitems.src#RID_SVXITEMS_CASEMAP_NONE.string.text
+msgid "None"
+msgstr "ഒന്നുമില്ല"
+
+#: svxitems.src#RID_SVXITEMS_CASEMAP_VERSALIEN.string.text
+msgid "Caps"
+msgstr "കാപ്പ്സ്"
+
+#: svxitems.src#RID_SVXITEMS_CASEMAP_GEMEINE.string.text
+msgid "Lowercase"
+msgstr "ചെറിയ അക്ഷരം"
+
+#: svxitems.src#RID_SVXITEMS_CASEMAP_TITEL.string.text
+msgid "Title"
+msgstr "തലക്കെട്ട്"
+
+#: svxitems.src#RID_SVXITEMS_CASEMAP_KAPITAELCHEN.string.text
+msgid "Small caps"
+msgstr "ചെറിയ വലിയ അക്ഷരം"
+
+#: svxitems.src#RID_SVXITEMS_ESCAPEMENT_OFF.string.text
+msgid "Normal position"
+msgstr "സാധാരണ സ്ഥാനം"
+
+#: svxitems.src#RID_SVXITEMS_ESCAPEMENT_SUPER.string.text
+msgid "Superscript "
+msgstr "സൂപ്പര്‍സ്ക്രിപ്റ്റ് "
+
+#: svxitems.src#RID_SVXITEMS_ESCAPEMENT_SUB.string.text
+msgid "Subscript "
+msgstr "സബ്സ്ക്രിപ്റ്റ് "
+
+#: svxitems.src#RID_SVXITEMS_ESCAPEMENT_AUTO.string.text
+msgid "automatic"
+msgstr "സ്വയം പ്രവര്‍ത്തിയ്ക്കുന്ന"
+
+#: svxitems.src#RID_SVXITEMS_ADJUST_LEFT.string.text
+msgctxt "svxitems.src#RID_SVXITEMS_ADJUST_LEFT.string.text"
+msgid "Align left"
+msgstr "ഇടത്തേക്ക് ക്രമീകരിയ്ക്കുക"
+
+#: svxitems.src#RID_SVXITEMS_ADJUST_RIGHT.string.text
+msgctxt "svxitems.src#RID_SVXITEMS_ADJUST_RIGHT.string.text"
+msgid "Align right"
+msgstr "വലത്തേക്ക് ക്രമീകരിയ്ക്കുക"
+
+#: svxitems.src#RID_SVXITEMS_ADJUST_BLOCK.string.text
+msgctxt "svxitems.src#RID_SVXITEMS_ADJUST_BLOCK.string.text"
+msgid "Justify"
+msgstr "ജസ്റ്റിഫൈ"
+
+#: svxitems.src#RID_SVXITEMS_ADJUST_CENTER.string.text
+msgctxt "svxitems.src#RID_SVXITEMS_ADJUST_CENTER.string.text"
+msgid "Centered"
+msgstr "മദ്ധ്യത്തില്‍"
+
+#: svxitems.src#RID_SVXITEMS_ADJUST_BLOCKLINE.string.text
+msgctxt "svxitems.src#RID_SVXITEMS_ADJUST_BLOCKLINE.string.text"
+msgid "Justify"
+msgstr "ജസ്റ്റിഫൈ"
+
+#: svxitems.src#RID_SVXITEMS_TAB_DECIMAL_CHAR.string.text
+msgid "Decimal Symbol:"
+msgstr "ഡെസിമല്‍ ചിഹ്നം:"
+
+#: svxitems.src#RID_SVXITEMS_TAB_FILL_CHAR.string.text
+msgid "Fill character:"
+msgstr "അക്ഷരം നിറയ്ക്കുക:"
+
+#: svxitems.src#RID_SVXITEMS_TAB_ADJUST_LEFT.string.text
+msgid "Left"
+msgstr "ഇടത്തു്"
+
+#: svxitems.src#RID_SVXITEMS_TAB_ADJUST_RIGHT.string.text
+msgid "Right"
+msgstr "വലത്തു്"
+
+#: svxitems.src#RID_SVXITEMS_TAB_ADJUST_DECIMAL.string.text
+msgid "Decimal"
+msgstr "ദശാംശം"
+
+#: svxitems.src#RID_SVXITEMS_TAB_ADJUST_CENTER.string.text
+msgctxt "svxitems.src#RID_SVXITEMS_TAB_ADJUST_CENTER.string.text"
+msgid "Centered"
+msgstr "മദ്ധ്യത്തില്‍"
+
+#: svxitems.src#RID_SVXITEMS_TAB_ADJUST_DEFAULT.string.text
+msgid "Default"
+msgstr "സ്വതവേയുള്ളതു്"
+
+#: svxitems.src#RID_SOLID.string.text
+msgid "Single, solid"
+msgstr "സിംഗിള്‍, സോളിഡ്"
+
+#: svxitems.src#RID_DOTTED.string.text
+msgid "Single, dotted"
+msgstr "ഒറ്റ, കുത്തിട്ട"
+
+#: svxitems.src#RID_DASHED.string.text
+msgid "Single, dashed"
+msgstr "ഒറ്റ്, ഡാഷ്"
+
+#: svxitems.src#RID_DOUBLE.string.text
+msgid "Double"
+msgstr "ഇരട്ട"
+
+#: svxitems.src#RID_THINTHICK_SMALLGAP.string.text
+msgid "Double, inside: fine, outside: thick, spacing: small"
+msgstr "ഇരട്ട, അകത്തു്: ലളിതം, പുറത്തു്: കട്ടിയുള്ള, സ്പെയിസിങ്: ചെറിയ"
+
+#: svxitems.src#RID_THINTHICK_MEDIUMGAP.string.text
+msgid "Double, inside: fine, outside: thick, spacing: medium"
+msgstr "ഇരട്ട, അകത്തു്: ലളിതം, പുറത്തു്: കട്ടിയുള്ള, സ്പെയിസിങ്: കുറഞ്ഞതു്"
+
+#: svxitems.src#RID_THINTHICK_LARGEGAP.string.text
+msgid "Double, inside: fine, outside: thick, spacing: large"
+msgstr "ഇരട്ട, അകത്തു്: ലളിതം, പുറത്തു്: കട്ടിയുള്ള, സ്പെയിസിങ്: വലിയ"
+
+#: svxitems.src#RID_THICKTHIN_SMALLGAP.string.text
+msgid "Double, inside: thick, outside: fine, spacing: small"
+msgstr "ഇരട്ട, അകത്തു്: കട്ടിയുള്ള, പുറത്തു്: ലളിതം, സ്പെയിസിങ്: ചെറിയ"
+
+#: svxitems.src#RID_THICKTHIN_MEDIUMGAP.string.text
+msgid "Double, inside: thick, outside: fine, spacing: medium"
+msgstr "ഇരട്ട, അകത്തു്: കട്ടിയുള്ള, പുറത്തു്: ലളിതം, സ്പെയിസിങ്: കുറഞ്ഞതു്"
+
+#: svxitems.src#RID_THICKTHIN_LARGEGAP.string.text
+msgid "Double, inside: thick, outside: fine, spacing: large"
+msgstr "ഇരട്ട, അകത്തു്: കട്ടിയുള്ള, പുറത്തു്: ലളിതം, സ്പെയിസിങ്: വലിയ"
+
+#: svxitems.src#RID_EMBOSSED.string.text
+msgid "3D embossed"
+msgstr "ത്രിഡി എംബോസ്ഡ്"
+
+#: svxitems.src#RID_ENGRAVED.string.text
+msgid "3D engraved"
+msgstr "ത്രിഡി എന്‍ഗ്രേവ്ഡ്"
+
+#: svxitems.src#RID_INSET.string.text
+msgid "Inset"
+msgstr "ഇന്‍സെറ്റ്"
+
+#: svxitems.src#RID_OUTSET.string.text
+msgid "Outset"
+msgstr "ഔട്ട്സെറ്റ്"
+
+#: svxitems.src#RID_SVXITEMS_METRIC_MM.string.text
+msgid "mm"
+msgstr "mm"
+
+#: svxitems.src#RID_SVXITEMS_METRIC_CM.string.text
+msgid "cm"
+msgstr "cm"
+
+#: svxitems.src#RID_SVXITEMS_METRIC_INCH.string.text
+msgid "inch"
+msgstr "ഇഞ്ച്"
+
+#: svxitems.src#RID_SVXITEMS_METRIC_POINT.string.text
+msgid "pt"
+msgstr "pt"
+
+#: svxitems.src#RID_SVXITEMS_METRIC_TWIP.string.text
+msgid "twip"
+msgstr "ട്വിപ്പ്"
+
+#: svxitems.src#RID_SVXITEMS_METRIC_PIXEL.string.text
+msgid "pixel"
+msgstr "പിക്സല്‍"
+
+#: svxitems.src#RID_SVXITEMS_SHADOWED_TRUE.string.text
+msgid "Shadowed"
+msgstr "ഷാഡോ ചെയ്തിട്ടുള്ള"
+
+#: svxitems.src#RID_SVXITEMS_SHADOWED_FALSE.string.text
+msgid "Not Shadowed"
+msgstr "നിഴല്‍ ഇല്ലാതെ"
+
+#: svxitems.src#RID_SVXITEMS_BLINK_TRUE.string.text
+msgid "Blinking"
+msgstr "മിന്നുന്നതു്"
+
+#: svxitems.src#RID_SVXITEMS_BLINK_FALSE.string.text
+msgid "Not Blinking"
+msgstr "മിന്നുന്നില്ല"
+
+#: svxitems.src#RID_SVXITEMS_AUTOKERN_TRUE.string.text
+msgid "Pair Kerning"
+msgstr "പെയര്‍ കേണിങ്"
+
+#: svxitems.src#RID_SVXITEMS_AUTOKERN_FALSE.string.text
+msgid "No pair kerning"
+msgstr "പെയര്‍ കേണിങ് ലഭ്യമല്ല"
+
+#: svxitems.src#RID_SVXITEMS_WORDLINE_TRUE.string.text
+msgid "Individual words"
+msgstr "വാക്കുകള്‍ ഓരോന്നായി"
+
+#: svxitems.src#RID_SVXITEMS_WORDLINE_FALSE.string.text
+msgid "Not Words Only"
+msgstr "വാക്കുകള്‍ മാത്രമല്ല"
+
+#: svxitems.src#RID_SVXITEMS_CONTOUR_TRUE.string.text
+msgid "Outline"
+msgstr "ഔട്ട്ലൈന്‍"
+
+#: svxitems.src#RID_SVXITEMS_CONTOUR_FALSE.string.text
+msgid "No Outline"
+msgstr "ബാഹ്യരേഖ ഇല്ല"
+
+#: svxitems.src#RID_SVXITEMS_PRINT_TRUE.string.text
+msgid "Print"
+msgstr "പ്രിന്റ് ചെയ്യുക"
+
+#: svxitems.src#RID_SVXITEMS_PRINT_FALSE.string.text
+msgid "Don't print"
+msgstr "അച്ചടിക്കരുത്"
+
+#: svxitems.src#RID_SVXITEMS_OPAQUE_TRUE.string.text
+msgid "Opaque"
+msgstr "കട്ടിയുള്ള"
+
+#: svxitems.src#RID_SVXITEMS_OPAQUE_FALSE.string.text
+msgid "Not Opaque"
+msgstr "കട്ടിയില്ലാത്തതു്"
+
+#: svxitems.src#RID_SVXITEMS_FMTKEEP_TRUE.string.text
+msgid "Keep with next paragraph"
+msgstr "അടുത്ത ഖണ്ഡികയില്‍"
+
+#: svxitems.src#RID_SVXITEMS_FMTKEEP_FALSE.string.text
+msgid "Don't Keep Paragraphs Together"
+msgstr "ഖണ്ഡിക ഒന്നിച്ചു് വേണ്ട"
+
+#: svxitems.src#RID_SVXITEMS_FMTSPLIT_TRUE.string.text
+msgid "Split paragraph"
+msgstr "ഖണ്ഡിക വേര്‍പെടുത്തുക"
+
+#: svxitems.src#RID_SVXITEMS_FMTSPLIT_FALSE.string.text
+msgid "Don't split paragraph"
+msgstr "ഖണ്ഡിക വേര്‍പെടുത്തേണ്ട"
+
+#: svxitems.src#RID_SVXITEMS_PROT_CONTENT_TRUE.string.text
+msgid "Contents protected"
+msgstr "ഉള്ളടക്കം സുരക്ഷിതം"
+
+#: svxitems.src#RID_SVXITEMS_PROT_CONTENT_FALSE.string.text
+msgid "Contents not protected"
+msgstr "ഉള്ളടക്കം സുരക്ഷിതമല്ല"
+
+#: svxitems.src#RID_SVXITEMS_PROT_SIZE_TRUE.string.text
+msgid "Size protected"
+msgstr "വ്യാപ്തി സുരക്ഷിതം"
+
+#: svxitems.src#RID_SVXITEMS_PROT_SIZE_FALSE.string.text
+msgid "Size not protected"
+msgstr "വ്യാപ്തി സുരക്ഷിതമല്ല"
+
+#: svxitems.src#RID_SVXITEMS_PROT_POS_TRUE.string.text
+msgid "Position protected"
+msgstr "സ്ഥാനം സുരക്ഷിതമാണ‍്"
+
+#: svxitems.src#RID_SVXITEMS_PROT_POS_FALSE.string.text
+msgid "Position not protected"
+msgstr "സ്ഥാനം സുരക്ഷിതമല്ല"
+
+#: svxitems.src#RID_SVXITEMS_TRANSPARENT_TRUE.string.text
+msgid "Transparent"
+msgstr "സുതാര്യത"
+
+#: svxitems.src#RID_SVXITEMS_TRANSPARENT_FALSE.string.text
+msgid "Not Transparent"
+msgstr "സുതാര്യമല്ല"
+
+#: svxitems.src#RID_SVXITEMS_HYPHEN_TRUE.string.text
+msgid "Hyphenation"
+msgstr "ഹൈഫനേഷന്‍"
+
+#: svxitems.src#RID_SVXITEMS_HYPHEN_FALSE.string.text
+msgid "No hyphenation"
+msgstr "ഹൈഫനേഷന്‍ ഇല്ല"
+
+#: svxitems.src#RID_SVXITEMS_PAGE_END_TRUE.string.text
+msgid "Page End"
+msgstr "താളിന്റെ അവസാനം"
+
+#: svxitems.src#RID_SVXITEMS_PAGE_END_FALSE.string.text
+msgid "No Page End"
+msgstr "താളിന്റെ അവസാനമല്ല"
+
+#: svxitems.src#RID_SVXITEMS_SIZE_WIDTH.string.text
+msgid "Width: "
+msgstr "വീതി:"
+
+#: svxitems.src#RID_SVXITEMS_SIZE_HEIGHT.string.text
+msgid "Height: "
+msgstr "ഉയരം:"
+
+#: svxitems.src#RID_SVXITEMS_LRSPACE_LEFT.string.text
+msgid "Indent left "
+msgstr "ഇടത്തേക്കു്"
+
+#: svxitems.src#RID_SVXITEMS_LRSPACE_FLINE.string.text
+msgid "First Line "
+msgstr "ആദ്യ വരി"
+
+#: svxitems.src#RID_SVXITEMS_LRSPACE_RIGHT.string.text
+msgid "Indent right "
+msgstr "വലത്തേക്കു്"
+
+#: svxitems.src#RID_SVXITEMS_SHADOW_COMPLETE.string.text
+msgid "Shadow: "
+msgstr "ഷാഡോ:"
+
+#: svxitems.src#RID_SVXITEMS_BORDER_COMPLETE.string.text
+msgid "Borders "
+msgstr "അതിരുകള്‍"
+
+#: svxitems.src#RID_SVXITEMS_BORDER_NONE.string.text
+msgid "No border"
+msgstr "അതിരില്ല"
+
+#: svxitems.src#RID_SVXITEMS_BORDER_TOP.string.text
+msgid "top "
+msgstr "മുകളില്‍"
+
+#: svxitems.src#RID_SVXITEMS_BORDER_BOTTOM.string.text
+msgid "bottom "
+msgstr "താഴെ"
+
+#: svxitems.src#RID_SVXITEMS_BORDER_LEFT.string.text
+msgid "left "
+msgstr "ഇടത്തു്"
+
+#: svxitems.src#RID_SVXITEMS_BORDER_RIGHT.string.text
+msgid "right "
+msgstr "വലത്തു്"
+
+#: svxitems.src#RID_SVXITEMS_BORDER_DISTANCE.string.text
+msgid "Spacing "
+msgstr "സ്പെയിസിങ്"
+
+#: svxitems.src#RID_SVXITEMS_ULSPACE_UPPER.string.text
+msgid "From top "
+msgstr "മുകളില്‍ നിന്നും"
+
+#: svxitems.src#RID_SVXITEMS_ULSPACE_LOWER.string.text
+msgid "From bottom "
+msgstr "താഴെ നിന്നും"
+
+#. pb: %1 == will be replaced by the number of lines
+#: svxitems.src#RID_SVXITEMS_LINES.string.text
+msgid "%1 Lines"
+msgstr "%1 വരികള്‍"
+
+#: svxitems.src#RID_SVXITEMS_WIDOWS_COMPLETE.string.text
+msgid "Widow control"
+msgstr "ജാലകത്തിന്റെ നിയന്ത്രണം"
+
+#: svxitems.src#RID_SVXITEMS_ORPHANS_COMPLETE.string.text
+msgid "Orphan control"
+msgstr "ഓര്‍ഫന്‍ കണ്ട്രോള്‍"
+
+#: svxitems.src#RID_SVXITEMS_HYPHEN_MINLEAD.string.text
+msgid "Characters at end of line"
+msgstr "വരിയുടെ അവസാനമുള്ള അക്ഷരങ്ങള്‍"
+
+#: svxitems.src#RID_SVXITEMS_HYPHEN_MINTRAIL.string.text
+msgid "Characters at beginning of line"
+msgstr "വരിയുടെ ആദ്യമുള്ള അക്ഷരങ്ങള്‍"
+
+#: svxitems.src#RID_SVXITEMS_HYPHEN_MAX.string.text
+msgid "Hyphens"
+msgstr "ഹൈഫനുകള്‍"
+
+#: svxitems.src#RID_SVXITEMS_PAGEMODEL_COMPLETE.string.text
+msgid "Page Style: "
+msgstr "പേജിന്റെ ശൈലി"
+
+#: svxitems.src#RID_SVXITEMS_KERNING_COMPLETE.string.text
+msgid "Kerning "
+msgstr "കേര്‍ണിങ്"
+
+#: svxitems.src#RID_SVXITEMS_KERNING_EXPANDED.string.text
+msgid "locked "
+msgstr "പൂട്ടിയിരിയ്ക്കുന്നു"
+
+#: svxitems.src#RID_SVXITEMS_KERNING_CONDENSED.string.text
+msgid "Condensed "
+msgstr "കണ്ടന്‍സ്ഡ്"
+
+#: svxitems.src#RID_SVXITEMS_GRAPHIC.string.text
+msgid "Graphic"
+msgstr "ഗ്രാഫിക്"
+
+#: svxitems.src#RID_SVXITEMS_EMPHASIS_NONE_STYLE.string.text
+msgid "none"
+msgstr "ഒന്നുമില്ല"
+
+#: svxitems.src#RID_SVXITEMS_EMPHASIS_DOT_STYLE.string.text
+msgid "Dots "
+msgstr "കുത്തുകള്‍"
+
+#: svxitems.src#RID_SVXITEMS_EMPHASIS_CIRCLE_STYLE.string.text
+msgid "Circle "
+msgstr "വട്ടം"
+
+#: svxitems.src#RID_SVXITEMS_EMPHASIS_DISC_STYLE.string.text
+msgid "Filled circle "
+msgstr "നിറഞ്ഞ വട്ടം"
+
+#: svxitems.src#RID_SVXITEMS_EMPHASIS_ACCENT_STYLE.string.text
+msgid "Accent "
+msgstr "ആക്സന്റ്"
+
+#: svxitems.src#RID_SVXITEMS_EMPHASIS_ABOVE_POS.string.text
+msgid "Above"
+msgstr "മുകളില്‍"
+
+#: svxitems.src#RID_SVXITEMS_EMPHASIS_BELOW_POS.string.text
+msgid "Below"
+msgstr "താഴെ"
+
+#: svxitems.src#RID_SVXITEMS_TWOLINES_OFF.string.text
+msgid "Double-lined off"
+msgstr "ഇരട്ട-വര മാറ്റിയിരിയ്ക്കുന്നു"
+
+#: svxitems.src#RID_SVXITEMS_TWOLINES.string.text
+msgid "Double-lined"
+msgstr "ഇരട്ട-വര"
+
+#: svxitems.src#RID_SVXITEMS_SCRPTSPC_OFF.string.text
+msgctxt "svxitems.src#RID_SVXITEMS_SCRPTSPC_OFF.string.text"
+msgid "No automatic character spacing"
+msgstr "സ്വയമായ ക്യാരക്ടര്‍ സ്പെയിസിങ് ലഭ്യമല്ല"
+
+#: svxitems.src#RID_SVXITEMS_SCRPTSPC_ON.string.text
+msgctxt "svxitems.src#RID_SVXITEMS_SCRPTSPC_ON.string.text"
+msgid "No automatic character spacing"
+msgstr "സ്വയമായ ക്യാരക്ടര്‍ സ്പെയിസിങ് ലഭ്യമല്ല"
+
+#: svxitems.src#RID_SVXITEMS_HNGPNCT_OFF.string.text
+msgid "No hanging punctuation at line end"
+msgstr "വരിയുടെ അവസാനം ഹാങിങ് പങ്ച്വേഷന്‍ ലഭ്യമല്ല"
+
+#: svxitems.src#RID_SVXITEMS_HNGPNCT_ON.string.text
+msgid "Hanging punctuation at line end"
+msgstr "വരിയുടെ അവസാനമുള്ള ഹാങിങ് പങ്ച്വേഷന്‍"
+
+#: svxitems.src#RID_SVXITEMS_FORBIDDEN_RULE_OFF.string.text
+msgid "Apply list of forbidden characters to beginning and end of lines"
+msgstr "വരികളുടെ തുടക്കത്തിലും അവസാനത്തിലും നിഷേധിച്ചിരിയ്ക്കുന്ന അക്ഷരങ്ങള്‍ ലഭ്യമാക്കുക"
+
+#: svxitems.src#RID_SVXITEMS_FORBIDDEN_RULE_ON.string.text
+msgid "Don't apply list of forbidden characters to beginning and end of lines"
+msgstr "വരികളുടെ തുടക്കത്തിലും അവസാനത്തിലും നിഷേധിച്ചിരിയ്ക്കുന്ന അക്ഷരങ്ങള്‍ ലഭ്യമാക്കേണ്ട"
+
+#: svxitems.src#RID_SVXITEMS_CHARROTATE_OFF.string.text
+msgid "No rotated characters"
+msgstr "തിരിച്ച അക്ഷരങ്ങള്‍ ലഭ്യമല്ല"
+
+#: svxitems.src#RID_SVXITEMS_CHARROTATE.string.text
+msgid "Character rotated by $(ARG1)°"
+msgstr "$(ARG1)° കറക്കുന്ന അക്ഷരങ്ങള്‍"
+
+#: svxitems.src#RID_SVXITEMS_CHARROTATE_FITLINE.string.text
+msgid "Fit to line"
+msgstr "വരിയുടെ പാകത്തിനാക്കുക"
+
+#: svxitems.src#RID_SVXITEMS_CHARSCALE.string.text
+msgid "Characters scaled $(ARG1)%"
+msgstr "$(ARG1)% സ്കേല്‍ ചെയ്തിരിയ്ക്കുന്ന അക്ഷരങ്ങള്‍"
+
+#: svxitems.src#RID_SVXITEMS_CHARSCALE_OFF.string.text
+msgid "No scaled characters"
+msgstr "സ്കേല്‍ ചെയ്യാത്ത അക്ഷരങ്ങള്‍"
+
+#: svxitems.src#RID_SVXITEMS_RELIEF_NONE.string.text
+msgid "No relief"
+msgstr "ആശ്വാസമില്ല"
+
+#: svxitems.src#RID_SVXITEMS_RELIEF_EMBOSSED.string.text
+msgid "Relief"
+msgstr "ആശ്വാസം"
+
+#: svxitems.src#RID_SVXITEMS_RELIEF_ENGRAVED.string.text
+msgid "Engraved"
+msgstr "പതിപ്പിച്ചിരിയ്ക്കുന്നു"
+
+#: svxitems.src#RID_SVXITEMS_PARAVERTALIGN_AUTO.string.text
+msgid "Automatic text alignment"
+msgstr "സ്വയമായ ടെക്സ്റ്റ് അലൈന്‍മെന്റ്"
+
+#: svxitems.src#RID_SVXITEMS_PARAVERTALIGN_BASELINE.string.text
+msgid "Text aligned to base line"
+msgstr "ബെയിസ് വരിയിലേക്കു് അലൈന്‍ ചെയ്തിരിയ്ക്കുന്ന ടെക്സ്റ്റ്"
+
+#: svxitems.src#RID_SVXITEMS_PARAVERTALIGN_TOP.string.text
+msgid "Text aligned top"
+msgstr "മുകളിലുള്ള ടെക്സ്റ്റ്"
+
+#: svxitems.src#RID_SVXITEMS_PARAVERTALIGN_CENTER.string.text
+msgid "Text aligned middle"
+msgstr "മദ്ധ്യത്തിലുള്ള ടെക്സ്റ്റ്"
+
+#: svxitems.src#RID_SVXITEMS_PARAVERTALIGN_BOTTOM.string.text
+msgid "Text aligned bottom"
+msgstr "താഴെയുള്ള ടെക്സ്റ്റ്"
+
+#: svxitems.src#RID_SVXITEMS_FRMDIR_HORI_LEFT_TOP.string.text
+msgid "Text direction left-to-right (horizontal)"
+msgstr "ഇടത്തു് നിന്നും വലത്തേക്കുള്ള ടെക്സ്റ്റ് (നേരെയുള്ള)"
+
+#: svxitems.src#RID_SVXITEMS_FRMDIR_HORI_RIGHT_TOP.string.text
+msgid "Text direction right-to-left (horizontal)"
+msgstr "വലത്തു് നിന്നും ഇടത്തേക്കുള്ള ടെക്സ്റ്റ് (നേരെയുള്ള)"
+
+#: svxitems.src#RID_SVXITEMS_FRMDIR_VERT_TOP_RIGHT.string.text
+msgid "Text direction right-to-left (vertical)"
+msgstr "വലത്തു് നിന്നും ഇടത്തേക്കുള്ള ടെക്സ്റ്റ് (കുറുകെയുള്ള)"
+
+#: svxitems.src#RID_SVXITEMS_FRMDIR_VERT_TOP_LEFT.string.text
+msgid "Text direction left-to-right (vertical)"
+msgstr "ഇടത്തു് നിന്നും വലത്തേക്കുള്ള ടെക്സ്റ്റ് (കുറുകെയുള്ള)"
+
+#: svxitems.src#RID_SVXITEMS_FRMDIR_ENVIRONMENT.string.text
+msgid "Use superordinate object text direction setting"
+msgstr "സൂപ്പര്‍ഓര്‍ഡിനേറ്റ് ഒബ്ജക്ട് ടെക്സ്റ്റ് ഡയറക്ഷന്‍ സജ്ജീകരണം ഉപയോഗിയ്ക്കുക"
+
+#: svxitems.src#RID_SVXITEMS_PARASNAPTOGRID_ON.string.text
+msgid "Paragraph snaps to text grid (if active)"
+msgstr "ടെക്സ്റ്റ് ഗ്രിഡിലേക്കു് ഖണ്ഡിക സ്നാപ്പ് ചെയ്യുന്നു (സജീവമെങ്കില്‍)"
+
+#: svxitems.src#RID_SVXITEMS_PARASNAPTOGRID_OFF.string.text
+msgid "Paragraph does not snap to text grid"
+msgstr "ടെക്സ്റ്റ് ഗ്രിഡിലേക്കു് ഖണ്ഡിക സ്നാപ്പ് ചെയ്യുന്നില്ല"
+
+#: svxitems.src#RID_SVXITEMS_CHARHIDDEN_FALSE.string.text
+msgid "Not hidden"
+msgstr "അദൃശ്യമല്ല"
+
+#: svxitems.src#RID_SVXITEMS_CHARHIDDEN_TRUE.string.text
+msgid "Hidden"
+msgstr "അദൃശ്യം"
+
+#: svxitems.src#RID_SVXITEMS_HORJUST_STANDARD.string.text
+msgid "Horizontal alignment default"
+msgstr "കുറുകെയായി യോജിക്കല് ഡിഫോള്ട്ടായിടുക"
+
+#: svxitems.src#RID_SVXITEMS_HORJUST_LEFT.string.text
+msgctxt "svxitems.src#RID_SVXITEMS_HORJUST_LEFT.string.text"
+msgid "Align left"
+msgstr "ഇടത്തേക്കു്"
+
+#: svxitems.src#RID_SVXITEMS_HORJUST_CENTER.string.text
+msgid "Centered horizontally"
+msgstr "കുത്തനെ കേന്ദ്രീകരിച്ച"
+
+#: svxitems.src#RID_SVXITEMS_HORJUST_RIGHT.string.text
+msgctxt "svxitems.src#RID_SVXITEMS_HORJUST_RIGHT.string.text"
+msgid "Align right"
+msgstr "വലത്തേക്കു്"
+
+#: svxitems.src#RID_SVXITEMS_HORJUST_BLOCK.string.text
+msgctxt "svxitems.src#RID_SVXITEMS_HORJUST_BLOCK.string.text"
+msgid "Justify"
+msgstr "ജസ്റ്റിഫൈ"
+
+#: svxitems.src#RID_SVXITEMS_HORJUST_REPEAT.string.text
+msgid "Repeat alignment"
+msgstr "ക്രമീകരണം അവര്ത്തിക്കുക"
+
+#: svxitems.src#RID_SVXITEMS_VERJUST_STANDARD.string.text
+msgid "Vertical alignment default"
+msgstr "അനുപസ്ഥിതിയായുള്ള കുത്തനെയുള്ള യോജി്പ്പ് "
+
+#: svxitems.src#RID_SVXITEMS_VERJUST_TOP.string.text
+msgid "Align to top"
+msgstr "മുകളിലോട്ടു ക്രമീകരിക്കുക"
+
+#: svxitems.src#RID_SVXITEMS_VERJUST_CENTER.string.text
+msgid "Centered vertically"
+msgstr "മദ്ധ്യത്തില്‍ കുറുകെ"
+
+#: svxitems.src#RID_SVXITEMS_VERJUST_BOTTOM.string.text
+msgid "Align to bottom"
+msgstr "താഴോട്ടു ക്രമീകരിക്കുക"
+
+#: svxitems.src#RID_SVXITEMS_JUSTMETHOD_AUTO.string.text
+msgid "Automatic"
+msgstr "സ്വയമേ"
+
+#: svxitems.src#RID_SVXITEMS_JUSTMETHOD_DISTRIBUTE.string.text
+msgid "Distributed"
+msgstr "വിതരണം ചെയ്തതു്"
+
+#: page.src#RID_SVXSTR_PAPERBIN.string.text
+msgid "Paper tray"
+msgstr "കടലാസ് ട്രേ"
+
+#: page.src#RID_SVXSTR_PAPERBIN_SETTINGS.string.text
+msgid "[From printer settings]"
+msgstr "[പ്രിന്റര്‍ സജ്ജീകരണങ്ങളില്‍ നിന്നും]"

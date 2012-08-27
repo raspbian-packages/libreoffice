@@ -1,0 +1,916 @@
+#. extracted from vcl/source/src.oo
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+vcl%2Fsource%2Fsrc.oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-07-04 16:39+0200\n"
+"PO-Revision-Date: 2012-06-16 14:48+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: lo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Accelerator-Marker: ~\n"
+
+#: stdtext.src#SV_STDTEXT_SERVICENOTAVAILABLE.string.text
+msgid ""
+"The component (%s) could not be loaded.\n"
+"Please start setup with the repair option."
+msgstr ""
+
+#: stdtext.src#SV_STDTEXT_DONTASKAGAIN.string.text
+msgid "Do not show this question again."
+msgstr "ບໍ່ສະແດງຄຳຖາມນີ້ອີກຄັ້ງ."
+
+#: stdtext.src#SV_STDTEXT_DONTWARNAGAIN.string.text
+msgid "Do not show warning again."
+msgstr "ບໍ່ສະແດງຄຳເຕືອນນີ້ອີກຄັ້ງ"
+
+#: stdtext.src#SV_ACCESSERROR_WRONG_VERSION.string.text
+msgid "Wrong Version"
+msgstr "ຜິດລຸ້ນ"
+
+#: stdtext.src#SV_ACCESSERROR_BRIDGE_MSG.string.text
+msgid "%PRODUCTNAME %PRODUCTVERSION requires a Java Access Bridge 1.0.3 or later version to support accessibility."
+msgstr "%PRODUCTNAME %PRODUCTVERSION ຕ້ອງການ Java Access Bridge 1.0.3 ຫຼື ລຸ້ນລ່າສຸດເພື່ອສາມາດຕອບສະໜອງ."
+
+#: stdtext.src#SV_ACCESSERROR_OK_CANCEL_MSG.string.text
+msgid "Click '%OK' to start %PRODUCTNAME %PRODUCTVERSION without accessibility support, or click '%CANCEL' to exit %PRODUCTNAME %PRODUCTVERSION."
+msgstr "Click '%OK' to start %PRODUCTNAME %PRODUCTVERSION ປາດສະຈາກການຕອບສະໜອງ, ຫຼື ກົດ '%CANCEL' ເພື່ອອອກຈາກ %PRODUCTNAME %PRODUCTVERSION."
+
+#: stdtext.src#SV_ACCESSERROR_MISSING_BRIDGE.string.text
+msgid "No Java Access Bridge"
+msgstr "ບໍ່ມີ Java Access Bridge"
+
+#: stdtext.src#SV_ACCESSERROR_FAULTY_JAVA.string.text
+msgid "Faulty Java Installation"
+msgstr "ການຕິດຕັ້ງ Java ຟາວ"
+
+#: stdtext.src#SV_ACCESSERROR_JAVA_MSG.string.text
+msgid "%PRODUCTNAME %PRODUCTVERSION requires Java 1.4.0_02 or later version to support accessibility."
+msgstr "%PRODUCTNAME %PRODUCTVERSION ຕ້ອງການ Java 1.4.0_02 ຫຼື ລຸ້ນລ່າສຸດເພື່ອໃຫ້ສາມາດຕອບສະໜອງ."
+
+#: stdtext.src#SV_ACCESSERROR_MISSING_JAVA.string.text
+msgid "No Java Installation"
+msgstr "ບໍ່ມີການຕິດຕັ້ງ Java"
+
+#: stdtext.src#SV_ACCESSERROR_JAVA_NOT_CONFIGURED.string.text
+msgid "Missing Java Configuration"
+msgstr "ການກຳນົດ Java ຜິດ"
+
+#: stdtext.src#SV_ACCESSERROR_JAVA_DISABLED.string.text
+msgid "Java Disabled"
+msgstr "Java ບໍ່ສາມາດເຮັດວຽກ"
+
+#: stdtext.src#SV_ACCESSERROR_TURNAROUND_MSG.string.text
+msgid "The Java Access Bridge could not be started."
+msgstr "Java Access Bridge ບໍ່ສາມາດເລີ່ມຖືກເລີ່ມຕົ້ນ."
+
+#: stdtext.src#SV_ACCESSERROR_NO_FONTS.string.text
+#, fuzzy
+msgid "No fonts could be found on the system."
+msgstr "ບໍ່​ພົບ​ແບບ​ຕາ​ຕະລາງ​"
+
+#: stdtext.src#SV_STDTEXT_ABOUT.string.text
+msgid "About %PRODUCTNAME"
+msgstr "ກ່ຽວກັບ %PRODUCTNAME"
+
+#: stdtext.src#SV_STDTEXT_PREFERENCES.string.text
+msgid "Preferences..."
+msgstr ""
+
+#: stdtext.src#SV_EDIT_WARNING_BOX.warningbox.text
+msgid "The inserted text exceeded the maximum length of this text field. The text was truncated."
+msgstr ""
+
+#: stdtext.src#SV_MAC_SCREENNNAME.string.text
+msgid "Screen %d"
+msgstr ""
+
+#: stdtext.src#SV_STDTEXT_ALLFILETYPES.string.text
+msgid "Any type"
+msgstr ""
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_OK.okbutton.text
+#, fuzzy
+msgid "~Print"
+msgstr ""
+"#-#-#-#-#  doc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~ພີມ\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"~ພິມອອກ"
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_PAGE_TXT.fixedtext.text
+msgid "/ %n"
+msgstr ""
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_NOPAGES.string.text
+msgid "No pages"
+msgstr ""
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TOFILE_TXT.string.text
+msgid "Print to File..."
+msgstr ""
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_DEFPRT_TXT.string.text
+msgid "Default printer"
+msgstr "ຄ່າເຄື່ອງພີມເກົ່າ"
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_PRINTPREVIEW_TXT.string.text
+msgid "Print preview"
+msgstr ""
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_LAYOUT_FL.fixedline.text
+#, fuzzy
+msgid "Layout"
+msgstr ""
+"#-#-#-#-#  dbgui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ການຈັດໜ້າ\n"
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ການຈັດໜ້າ\n"
+"#-#-#-#-#  core.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ເລຢ້ອນ"
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BTN.radiobutton.text
+msgid "Pa~ges per sheet"
+msgstr ""
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX.1.stringlist.text
+msgid "1"
+msgstr "1"
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX.2.stringlist.text
+msgid "2"
+msgstr "2"
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX.3.stringlist.text
+msgid "4"
+msgstr "4"
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX.4.stringlist.text
+msgid "6"
+msgstr "6"
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX.5.stringlist.text
+msgid "9"
+msgstr "9"
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX.6.stringlist.text
+msgid "16"
+msgstr ""
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX.7.stringlist.text
+msgid "Custom"
+msgstr ""
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_NUM_PAGES_TXT.fixedtext.text
+msgid "P~ages"
+msgstr ""
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_TIMES_TXT.fixedtext.text
+msgid "b~y"
+msgstr ""
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_MARGINS_PAGES_1_TXT.fixedtext.text
+msgid "~Distance"
+msgstr "~ຄວາມຫ່າງ"
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_MARGINS_PAGES_2_TXT.fixedtext.text
+msgid "between pages"
+msgstr ""
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_MARGINS_SHEET_1_TXT.fixedtext.text
+msgid "~Margin"
+msgstr ""
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_MARGINS_SHEET_2_TXT.fixedtext.text
+msgid "to sheet border"
+msgstr ""
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORIENTATION_TXT.fixedtext.text
+msgid "~Orientation"
+msgstr "~ແນະນຳ"
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORIENTATION_BOX.1.stringlist.text
+msgid "Automatic"
+msgstr "ອັດຕະໂນມັດ"
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORIENTATION_BOX.2.stringlist.text
+msgid "Portrait"
+msgstr "ຮູບຄົນ"
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORIENTATION_BOX.3.stringlist.text
+msgid "Landscape"
+msgstr "ແນວນອນ"
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORDER_TXT.fixedtext.text
+#, fuzzy
+msgid "Order"
+msgstr ""
+"#-#-#-#-#  misc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ສັ່ງ\n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ສຳດັບ\n"
+"#-#-#-#-#  dialogs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ລຳດັບ"
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORDER_BOX.1.stringlist.text
+msgid "left to right, then down"
+msgstr ""
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORDER_BOX.2.stringlist.text
+#, fuzzy
+msgid "top to bottom, then right"
+msgstr "~ເທິງສຸດຫາລຸ່ມສຸດ, ຈາກນັ້ນຂວາ"
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORDER_BOX.3.stringlist.text
+#, fuzzy
+msgid "top to bottom, then left"
+msgstr "~ເທິງສຸດຫາລຸ່ມສຸດ, ຈາກນັ້ນຂວາ"
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORDER_BOX.4.stringlist.text
+#, fuzzy
+msgid "right to left, then down"
+msgstr "~ຊ້າຍຫາຂວາ,ຈາກນັ້ນລົງລຸ່ມ"
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_BORDER_CB.checkbox.text
+msgid "Draw a border around each page"
+msgstr ""
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.tabpage.text
+msgid "Page Layout"
+msgstr ""
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.SV_PRINT_PRINTERS_FL.fixedline.text
+msgid "Prin~ter"
+msgstr ""
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.SV_PRINT_DETAILS_BTN.checkbox.text
+msgid "Details"
+msgstr "ລາຍລະອຽດ"
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.SV_PRINT_STATUS_TXT.fixedtext.text
+msgid "Status:"
+msgstr "ສະຖານະ:"
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.SV_PRINT_LOCATION_TXT.fixedtext.text
+#, fuzzy
+msgid "Location:"
+msgstr ""
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ຕຳແໜ່ງຢູ່:\n"
+"#-#-#-#-#  source.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ສະຖານທີ່:\n"
+"#-#-#-#-#  formwizard.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ທີ່ຕັ້ງ:"
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.SV_PRINT_COMMENT_TXT.fixedtext.text
+msgid "Comment:"
+msgstr "ຄຳເຫັນ:"
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.SV_PRINT_PRT_SETUP.pushbutton.text
+#, fuzzy
+msgid "Properties..."
+msgstr ""
+"#-#-#-#-#  navipi.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ຄຸນສົມບັດ...\n"
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ຄຸນສົມບັດ...\n"
+"#-#-#-#-#  source.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ຄຸນສົມບັດ:..."
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.SV_PRINT_COPIES.fixedline.text
+msgid "Range and copies"
+msgstr ""
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.SV_PRINT_COPYCOUNT.fixedtext.text
+msgid "Number of copies"
+msgstr ""
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.SV_PRINT_COLLATE.checkbox.text
+msgid "Collate"
+msgstr ""
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.SV_PRINT_OPT_REVERSE.checkbox.text
+msgid "Print in ~reverse page order"
+msgstr ""
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.tabpage.text
+#, fuzzy
+msgid "General"
+msgstr ""
+"#-#-#-#-#  tabledesign.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ທົ່ວໄປ\n"
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ທົ່ວໄປ\n"
+"#-#-#-#-#  appl.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ທົ່ວໄປ\n"
+"#-#-#-#-#  dialogs.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ທົ່ວໄປ\n"
+"#-#-#-#-#  propctrlr.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ໂດຍທົ່ວໄປ\n"
+"#-#-#-#-#  bibliography.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ທົ່ວໄປ"
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_OPT.SV_PRINT_OPT_PRINT_FL.fixedline.text
+msgctxt "print.src#SV_DLG_PRINT.SV_PRINT_TAB_OPT.SV_PRINT_OPT_PRINT_FL.fixedline.text"
+msgid "Options"
+msgstr ""
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_OPT.SV_PRINT_OPT_TOFILE.checkbox.text
+msgid "Print to ~file"
+msgstr "ພີມທີ່~ແຟັມ"
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_OPT.SV_PRINT_OPT_SINGLEJOBS.checkbox.text
+msgid "~Create single print jobs for collated output"
+msgstr ""
+
+#: print.src#SV_DLG_PRINT.SV_PRINT_TAB_OPT.tabpage.text
+msgctxt "print.src#SV_DLG_PRINT.SV_PRINT_TAB_OPT.tabpage.text"
+msgid "Options"
+msgstr ""
+
+#: print.src#SV_DLG_PRINT.modaldialog.text
+#, fuzzy
+msgid "Print"
+msgstr ""
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ພິມ\n"
+"#-#-#-#-#  pagedlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ພີມ\n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ພິມ"
+
+#: print.src#SV_DLG_PRINT_PROGRESS.SV_PRINT_PROGRESS_TEXT.fixedtext.text
+msgid "Page %p of %n"
+msgstr ""
+
+#: print.src#SV_DLG_PRINT_PROGRESS.modelessdialog.text
+msgid "Printing"
+msgstr "ການພີມ"
+
+#: print.src#SV_PRINT_NOPRINTERWARNING.errorbox.text
+msgid ""
+"No default printer found.\n"
+"Please choose a printer and try again."
+msgstr ""
+"ບໍ່ມີເຄື່ອງພີມດັງເດີມຖືກພົບ.\n"
+" ກະລຸນາເລືອກເຄື່ອງພີມແລະລອງໃໝ່ອີກຄັ້ງ."
+
+#: print.src#SV_PRINT_NOCONTENT.errorbox.text
+msgid "There are no pages to be printed. Please check your document for ranges relevant to printing."
+msgstr ""
+
+#: print.src#SV_PRINT_NATIVE_STRINGS.1.itemlist.text
+#, fuzzy
+msgid "Preview"
+msgstr ""
+"#-#-#-#-#  index.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ສະແດງເບິ່ງ\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ສະ​ແດງ​ເບີ່ງ​\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ສະແດງເບິ່ງ\n"
+"#-#-#-#-#  formwizard.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ສະແດງກ່ອນເບິ່ງ\n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ເບິ່ງ\n"
+"#-#-#-#-#  scanner.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ສະແດງເບິ່ງ"
+
+#: print.src#SV_PRINT_NATIVE_STRINGS.2.itemlist.text
+msgid "Page number"
+msgstr "ເລກໜ້າ"
+
+#: print.src#SV_PRINT_NATIVE_STRINGS.3.itemlist.text
+msgid "Number of pages"
+msgstr ""
+
+#: print.src#SV_PRINT_NATIVE_STRINGS.4.itemlist.text
+#, fuzzy
+msgid "More"
+msgstr "~ຕື່ມອີກ"
+
+#: print.src#SV_PRINT_NATIVE_STRINGS.5.itemlist.text
+#, fuzzy
+msgid "Print selection only"
+msgstr "ການເລືອກການພີມ"
+
+#: print.src#RID_STR_PAPERNAMES.1.itemlist.text
+msgid "A0"
+msgstr ""
+
+#: print.src#RID_STR_PAPERNAMES.2.itemlist.text
+msgid "A1"
+msgstr ""
+
+#: print.src#RID_STR_PAPERNAMES.3.itemlist.text
+msgid "A2"
+msgstr ""
+
+#: print.src#RID_STR_PAPERNAMES.4.itemlist.text
+#, fuzzy
+msgid "A3"
+msgstr "A"
+
+#: print.src#RID_STR_PAPERNAMES.5.itemlist.text
+#, fuzzy
+msgid "A4"
+msgstr "A"
+
+#: print.src#RID_STR_PAPERNAMES.6.itemlist.text
+#, fuzzy
+msgid "A5"
+msgstr "A"
+
+#: print.src#RID_STR_PAPERNAMES.7.itemlist.text
+msgid "B4 (ISO)"
+msgstr ""
+
+#: print.src#RID_STR_PAPERNAMES.8.itemlist.text
+msgid "B5 (ISO)"
+msgstr ""
+
+#: print.src#RID_STR_PAPERNAMES.9.itemlist.text
+msgid "Letter"
+msgstr "ຕົວອັກສອນ"
+
+#: print.src#RID_STR_PAPERNAMES.10.itemlist.text
+msgid "Legal"
+msgstr ""
+
+#: print.src#RID_STR_PAPERNAMES.11.itemlist.text
+#, fuzzy
+msgid "Tabloid"
+msgstr "ຕາຕະລາງ"
+
+#: print.src#RID_STR_PAPERNAMES.12.itemlist.text
+msgid "User Defined"
+msgstr ""
+
+#: print.src#RID_STR_PAPERNAMES.13.itemlist.text
+msgid "B6 (ISO)"
+msgstr ""
+
+#: print.src#RID_STR_PAPERNAMES.14.itemlist.text
+#, fuzzy
+msgid "C4 Envelope"
+msgstr "ຊ່ອງຈົດໝາຍ"
+
+#: print.src#RID_STR_PAPERNAMES.15.itemlist.text
+#, fuzzy
+msgid "C5 Envelope"
+msgstr "ຊ່ອງຈົດໝາຍ"
+
+#: print.src#RID_STR_PAPERNAMES.16.itemlist.text
+#, fuzzy
+msgid "C6 Envelope"
+msgstr "ຊ່ອງຈົດໝາຍ"
+
+#: print.src#RID_STR_PAPERNAMES.17.itemlist.text
+#, fuzzy
+msgid "C6/5 Envelope"
+msgstr "ຊ່ອງຈົດໝາຍ"
+
+#: print.src#RID_STR_PAPERNAMES.18.itemlist.text
+#, fuzzy
+msgid "DL Envelope"
+msgstr "ຊ່ອງຈົດໝາຍ"
+
+#: print.src#RID_STR_PAPERNAMES.19.itemlist.text
+msgid "Dia Slide"
+msgstr ""
+
+#: print.src#RID_STR_PAPERNAMES.20.itemlist.text
+msgid "C"
+msgstr ""
+
+#: print.src#RID_STR_PAPERNAMES.21.itemlist.text
+msgid "D"
+msgstr ""
+
+#: print.src#RID_STR_PAPERNAMES.22.itemlist.text
+msgid "E"
+msgstr ""
+
+#: print.src#RID_STR_PAPERNAMES.23.itemlist.text
+#, fuzzy
+msgid "Executive"
+msgstr "ການປະຕິບັດການ"
+
+#: print.src#RID_STR_PAPERNAMES.24.itemlist.text
+msgid "Long Bond"
+msgstr ""
+
+#: print.src#RID_STR_PAPERNAMES.25.itemlist.text
+msgid "#8 (Monarch) Envelope"
+msgstr ""
+
+#: print.src#RID_STR_PAPERNAMES.26.itemlist.text
+msgid "#6 3/4 (Personal) Envelope"
+msgstr ""
+
+#: print.src#RID_STR_PAPERNAMES.27.itemlist.text
+#, fuzzy
+msgid "#9 Envelope"
+msgstr "ຊ່ອງຈົດໝາຍ"
+
+#: print.src#RID_STR_PAPERNAMES.28.itemlist.text
+#, fuzzy
+msgid "#10 Envelope"
+msgstr "ຊ່ອງຈົດໝາຍ"
+
+#: print.src#RID_STR_PAPERNAMES.29.itemlist.text
+#, fuzzy
+msgid "#11 Envelope"
+msgstr "ຊ່ອງຈົດໝາຍ"
+
+#: print.src#RID_STR_PAPERNAMES.30.itemlist.text
+#, fuzzy
+msgid "#12 Envelope"
+msgstr "ຊ່ອງຈົດໝາຍ"
+
+#: print.src#RID_STR_PAPERNAMES.31.itemlist.text
+msgid "16 Kai"
+msgstr ""
+
+#: print.src#RID_STR_PAPERNAMES.32.itemlist.text
+msgid "32 Kai"
+msgstr ""
+
+#: print.src#RID_STR_PAPERNAMES.33.itemlist.text
+msgid "Big 32 Kai"
+msgstr ""
+
+#: print.src#RID_STR_PAPERNAMES.34.itemlist.text
+msgid "B4 (JIS)"
+msgstr ""
+
+#: print.src#RID_STR_PAPERNAMES.35.itemlist.text
+msgid "B5 (JIS)"
+msgstr ""
+
+#: print.src#RID_STR_PAPERNAMES.36.itemlist.text
+msgid "B6 (JIS)"
+msgstr ""
+
+#: print.src#RID_STR_PAPERNAMES.37.itemlist.text
+msgid "Japanese Postcard"
+msgstr ""
+
+#: btntext.src#SV_BUTTONTEXT_OK.string.text
+msgid "OK"
+msgstr "ຕົກລົງ"
+
+#: btntext.src#SV_BUTTONTEXT_CANCEL.string.text
+msgid "Cancel"
+msgstr "ຍົກເລີກ"
+
+#: btntext.src#SV_BUTTONTEXT_YES.string.text
+msgid "~Yes"
+msgstr "~ແມ່ນ"
+
+#: btntext.src#SV_BUTTONTEXT_NO.string.text
+msgid "~No"
+msgstr "~ບໍ່"
+
+#: btntext.src#SV_BUTTONTEXT_RETRY.string.text
+msgid "~Retry"
+msgstr "~ລອງໃໝ່"
+
+#: btntext.src#SV_BUTTONTEXT_HELP.string.text
+msgid "~Help"
+msgstr "~ຊວ່ຍ"
+
+#: btntext.src#SV_BUTTONTEXT_MORE.string.text
+#, fuzzy
+msgid "~More"
+msgstr "~ຕື່ມອີກ"
+
+#: btntext.src#SV_BUTTONTEXT_LESS.string.text
+msgid "~Less"
+msgstr ""
+
+#: btntext.src#SV_BUTTONTEXT_IGNORE.string.text
+msgid "~Ignore"
+msgstr "~ບໍ່ສົນໃຈ"
+
+#: btntext.src#SV_BUTTONTEXT_ABORT.string.text
+msgid "~Abort"
+msgstr "~ຍົກເລີກ"
+
+#: menu.src#SV_RESID_STRING_NOSELECTIONPOSSIBLE.string.text
+msgid "<No selection possible>"
+msgstr "<ບໍ່ມີການເລືອກທີ່ເປັນໄປໄດ້>"
+
+#: menu.src#SV_RESID_MENU_EDIT.SV_MENU_EDIT_UNDO.menuitem.text
+msgid "~Undo"
+msgstr "~ຍົກເລີກຄຳສັ່ງ"
+
+#: menu.src#SV_RESID_MENU_EDIT.SV_MENU_EDIT_CUT.menuitem.text
+msgid "Cu~t"
+msgstr "~ຕັດ"
+
+#: menu.src#SV_RESID_MENU_EDIT.SV_MENU_EDIT_COPY.menuitem.text
+msgid "~Copy"
+msgstr "~ສຳເນົາ"
+
+#: menu.src#SV_RESID_MENU_EDIT.SV_MENU_EDIT_PASTE.menuitem.text
+msgid "~Paste"
+msgstr "~ວາງ"
+
+#: menu.src#SV_RESID_MENU_EDIT.SV_MENU_EDIT_DELETE.menuitem.text
+msgid "~Delete"
+msgstr "~ລຶບ"
+
+#: menu.src#SV_RESID_MENU_EDIT.SV_MENU_EDIT_SELECTALL.menuitem.text
+msgid "Select ~All"
+msgstr "~ເລືອກທັງໝົດ"
+
+#: menu.src#SV_RESID_MENU_EDIT.SV_MENU_EDIT_INSERTSYMBOL.menuitem.text
+msgid "~Special Character..."
+msgstr "~ຕົວອັກສອນພິເສດ..."
+
+#: menu.src#SV_MENU_MAC_SERVICES.string.text
+msgid "Services"
+msgstr ""
+
+#: menu.src#SV_MENU_MAC_HIDEAPP.string.text
+#, fuzzy
+msgid "Hide %PRODUCTNAME"
+msgstr "ກ່ຽວກັບ %PRODUCTNAME"
+
+#: menu.src#SV_MENU_MAC_HIDEALL.string.text
+msgid "Hide Others"
+msgstr ""
+
+#: menu.src#SV_MENU_MAC_SHOWALL.string.text
+msgid "Show All"
+msgstr ""
+
+#: menu.src#SV_MENU_MAC_QUITAPP.string.text
+#, fuzzy
+msgid "Quit %PRODUCTNAME"
+msgstr "ກ່ຽວກັບ %PRODUCTNAME"
+
+#: units.src#SV_FUNIT_STRINGS.1.itemlist.text
+msgid "mm"
+msgstr "mm"
+
+#: units.src#SV_FUNIT_STRINGS.2.itemlist.text
+msgid "cm"
+msgstr "cm"
+
+#: units.src#SV_FUNIT_STRINGS.3.itemlist.text
+msgid "m"
+msgstr "m"
+
+#: units.src#SV_FUNIT_STRINGS.4.itemlist.text
+msgid "km"
+msgstr "km"
+
+#: units.src#SV_FUNIT_STRINGS.5.itemlist.text
+msgid "twips"
+msgstr "twips"
+
+#: units.src#SV_FUNIT_STRINGS.6.itemlist.text
+msgid "twip"
+msgstr "twip"
+
+#: units.src#SV_FUNIT_STRINGS.7.itemlist.text
+msgid "pt"
+msgstr "pt"
+
+#: units.src#SV_FUNIT_STRINGS.8.itemlist.text
+msgid "pc"
+msgstr ""
+
+#: units.src#SV_FUNIT_STRINGS.9.itemlist.text
+msgid "\""
+msgstr "\""
+
+#: units.src#SV_FUNIT_STRINGS.10.itemlist.text
+msgid "in"
+msgstr "ໃນ"
+
+#: units.src#SV_FUNIT_STRINGS.11.itemlist.text
+msgid "inch"
+msgstr "inch"
+
+#: units.src#SV_FUNIT_STRINGS.12.itemlist.text
+msgid "'"
+msgstr "'"
+
+#: units.src#SV_FUNIT_STRINGS.13.itemlist.text
+msgid "ft"
+msgstr "ft"
+
+#: units.src#SV_FUNIT_STRINGS.14.itemlist.text
+msgid "foot"
+msgstr "foot"
+
+#: units.src#SV_FUNIT_STRINGS.15.itemlist.text
+msgid "feet"
+msgstr "feet"
+
+#: units.src#SV_FUNIT_STRINGS.16.itemlist.text
+msgid "miles"
+msgstr "miles"
+
+#: units.src#SV_FUNIT_STRINGS.17.itemlist.text
+msgid "mile"
+msgstr "mile"
+
+#: units.src#SV_FUNIT_STRINGS.18.itemlist.text
+msgid "ch"
+msgstr "%"
+
+#: units.src#SV_FUNIT_STRINGS.19.itemlist.text
+msgid "line"
+msgstr ""
+
+#: units.src#SV_FUNIT_STRINGS.20.itemlist.text
+msgid "%"
+msgstr "%"
+
+#: helptext.src#SV_HELPTEXT_CLOSE.string.text
+msgid "Close"
+msgstr "ປິດ"
+
+#: helptext.src#SV_HELPTEXT_CLOSEDOCUMENT.string.text
+msgid "Close Document"
+msgstr "ປິດເອກະສານ"
+
+#: helptext.src#SV_HELPTEXT_MINIMIZE.string.text
+msgid "Minimize"
+msgstr "ຫຍໍ້ນ້ອຍລົງ"
+
+#: helptext.src#SV_HELPTEXT_MAXIMIZE.string.text
+msgid "Maximize"
+msgstr "ຂະຫຍາຍໃຫ່ຍຂື້ນ"
+
+#: helptext.src#SV_HELPTEXT_RESTORE.string.text
+msgid "Restore"
+msgstr "ຕິດຕັ້ງຄືນ"
+
+#: helptext.src#SV_HELPTEXT_ROLLDOWN.string.text
+msgid "Drop down"
+msgstr "ວາງລົງ"
+
+#: helptext.src#SV_HELPTEXT_ROLLUP.string.text
+msgid "Roll up"
+msgstr "ກໍ້ຂື້ນ"
+
+#: helptext.src#SV_HELPTEXT_HELP.string.text
+msgctxt "helptext.src#SV_HELPTEXT_HELP.string.text"
+msgid "Help"
+msgstr "ຊ່ວຍ"
+
+#: helptext.src#SV_HELPTEXT_ALWAYSVISIBLE.string.text
+msgid "Always visible"
+msgstr "ສາມາດແນມເຫັນຕະຫຼອດ"
+
+#: helptext.src#SV_HELPTEXT_FADEIN.string.text
+msgid "Show"
+msgstr "ສະແດງ"
+
+#: helptext.src#SV_HELPTEXT_FADEOUT.string.text
+msgid "Hide"
+msgstr "ເຊື່ອງໄວ້"
+
+#: helptext.src#SV_HELPTEXT_SPLITFLOATING.string.text
+msgid "Floating"
+msgstr "ປ່ຽນແປງ"
+
+#: helptext.src#SV_HELPTEXT_SPLITFIXED.string.text
+msgid "Stick"
+msgstr "ຕິດ"
+
+#: helptext.src#SV_SHORTCUT_HELP.string.text
+msgctxt "helptext.src#SV_SHORTCUT_HELP.string.text"
+msgid "Help"
+msgstr "ຊ່ວຍ"
+
+#: helptext.src#SV_SHORTCUT_CONTEXTHELP.string.text
+msgid "Context Help"
+msgstr "ປະໂຫຍກຊ່ວຍ"
+
+#: helptext.src#SV_SHORTCUT_ACTIVEHELP.string.text
+msgid "Extended Tips"
+msgstr "ຄຳແນະນຳພາຍນອກ"
+
+#: helptext.src#SV_SHORTCUT_DOCKUNDOCK.string.text
+msgid "Dock/Undock Windows"
+msgstr "ຂັດເອົາ/ບໍ່ຂັດເອົາ ວິນໂດ"
+
+#: helptext.src#SV_SHORTCUT_NEXTSUBWINDOW.string.text
+msgid "To Next Toolbar/Window"
+msgstr "ແຖບເຄື່ອງມືໂຕຕໍ່ໄປ/ວິນໂດ"
+
+#: helptext.src#SV_SHORTCUT_PREVSUBWINDOW.string.text
+msgid "To Previous Toolbar/Window"
+msgstr "ແຖບເຄື່ອງມືກ່ອນໜ້ານີ້/ວິນໂດ"
+
+#: helptext.src#SV_SHORTCUT_TODOCUMENT.string.text
+msgid "To Document"
+msgstr "ເອກະສານ"
+
+#: helptext.src#SV_SHORTCUT_MENUBAR.string.text
+msgid "To Menu Bar"
+msgstr "ແຖບລາຍການ"
+
+#: helptext.src#SV_SHORTCUT_SPLITTER.string.text
+msgid "Split window separator"
+msgstr "ຕົວແຍກໜ້າວິນໂດ"
+
+#: fpicker.src#STR_FPICKER_AUTO_EXTENSION.string.text
+msgid "~Automatic file name extension"
+msgstr "~ຊື່ນາມສະກຸນແຟັມອັດຕະໂນມັດ"
+
+#: fpicker.src#STR_FPICKER_PASSWORD.string.text
+msgid "Save with pass~word"
+msgstr "ບັນທຶກກັບລະຫັດຜ່ານ"
+
+#: fpicker.src#STR_FPICKER_FILTER_OPTIONS.string.text
+msgid "~Edit filter settings"
+msgstr "ການແກ້ໄຂການຕັ້ງຄ່າຕົວກັ່ນຕອງ"
+
+#: fpicker.src#STR_FPICKER_READONLY.string.text
+msgid "~Read-only"
+msgstr "~ອ່ານຢ່າງດຽວ"
+
+#: fpicker.src#STR_FPICKER_INSERT_AS_LINK.string.text
+msgid "~Link"
+msgstr ""
+
+#: fpicker.src#STR_FPICKER_SHOW_PREVIEW.string.text
+#, fuzzy
+msgid "Pr~eview"
+msgstr ""
+"#-#-#-#-#  index.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ສະແດງເບິ່ງ\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ສະ​ແດງ​ເບີ່ງ​\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ສະແດງເບິ່ງ\n"
+"#-#-#-#-#  formwizard.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ສະແດງກ່ອນເບິ່ງ\n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ເບິ່ງ\n"
+"#-#-#-#-#  scanner.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ສະແດງເບິ່ງ"
+
+#: fpicker.src#STR_FPICKER_PLAY.string.text
+msgid "~Play"
+msgstr ""
+
+#: fpicker.src#STR_FPICKER_VERSION.string.text
+msgid "~Version:"
+msgstr "~ລຸ້ນ:"
+
+#: fpicker.src#STR_FPICKER_TEMPLATES.string.text
+msgid "S~tyles:"
+msgstr "ແບບ:"
+
+#: fpicker.src#STR_FPICKER_IMAGE_TEMPLATE.string.text
+#, fuzzy
+msgid "Style:"
+msgstr "ແບບ:"
+
+#: fpicker.src#STR_FPICKER_SELECTION.string.text
+msgid "~Selection"
+msgstr ""
+
+#: fpicker.src#STR_FPICKER_FOLDER_DEFAULT_TITLE.string.text
+msgid "Select Path"
+msgstr "ເລືອກຄຳສັ່ງ"
+
+#: fpicker.src#STR_FPICKER_FOLDER_DEFAULT_DESCRIPTION.string.text
+msgid "Please select a folder."
+msgstr "ກະລຸນາເລືອກທີ່ເກັບຂໍ້ມູນ"
+
+#: fpicker.src#STR_FPICKER_ALREADYEXISTOVERWRITE.string.text
+msgid ""
+"A file named \"$filename$\" already exists.\n"
+"\n"
+"Do you want to replace it?"
+msgstr ""
+
+#: fpicker.src#STR_FPICKER_ALLFORMATS.string.text
+msgid "All Formats"
+msgstr ""
+
+#: fpicker.src#STR_FPICKER_OPEN.string.text
+msgid "Open"
+msgstr "ເປີດ"
+
+#: fpicker.src#STR_FPICKER_SAVE.string.text
+msgid "Save"
+msgstr "ບັນທຶກ"
+
+#: fpicker.src#STR_FPICKER_TYPE.string.text
+msgid "File ~type"
+msgstr ""

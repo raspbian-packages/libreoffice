@@ -1,0 +1,288 @@
+#. extracted from scp2/source/extensions.oo
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+scp2%2Fsource%2Fextensions.oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-07-04 16:40+0200\n"
+"PO-Revision-Date: 2012-08-01 19:49+0530\n"
+"Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
+"Language-Team: Oriya <oriya-it@googlegroups.com>\n"
+"Language: or\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.4\n"
+"X-Accelerator-Marker: ~\n"
+
+#: module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_EN_US.LngText.text
+msgid "English"
+msgstr "ଇଂରାଜୀ"
+
+#: module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_EN_US.LngText.text
+msgid "Installs English support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "%PRODUCTNAME %PRODUCTVERSIONରେ ଇଂରାଜୀ ସମର୍ଥନକୁ ସ୍ଥାପନ କରିଥାଏ"
+
+#: module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_DE.LngText.text
+msgid "German"
+msgstr "ଜର୍ମାନ"
+
+#: module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_DE.LngText.text
+msgid "Installs German support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "%PRODUCTNAME %PRODUCTVERSIONରେ ଜର୍ମାନ ସମର୍ଥନକୁ ସ୍ଥାପନ କରିଥାଏ"
+
+#: module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_FR.LngText.text
+msgid "French"
+msgstr "ଫ୍ରେଞ୍ଚ"
+
+#: module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_FR.LngText.text
+msgid "Installs French support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "%PRODUCTNAME %PRODUCTVERSIONରେ ଫ୍ରେଞ୍ଚ ସମର୍ଥନକୁ ସ୍ଥାପନ କରିଥାଏ"
+
+#: module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_IT.LngText.text
+msgid "Italian"
+msgstr "ଇଟାଲିଆନ"
+
+#: module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_IT.LngText.text
+msgid "Installs Italian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "%PRODUCTNAME %PRODUCTVERSIONରେ ଇଟାଲିଆନ ସମର୍ଥନକୁ ସ୍ଥାପନ କରିଥାଏ"
+
+#: module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_ES.LngText.text
+msgid "Spanish"
+msgstr "ସ୍ପେନିସ"
+
+#: module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_ES.LngText.text
+msgid "Installs Spanish support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "%PRODUCTNAME %PRODUCTVERSIONରେ ସ୍ପେନିସ ସମର୍ଥନକୁ ସ୍ଥାପନ କରିଥାଏ"
+
+#: module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_HU.LngText.text
+msgid "Hungarian"
+msgstr "ହାଙ୍ଗାରିଆନ"
+
+#: module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_HU.LngText.text
+msgid "Installs Hungarian support in %PRODUCTNAME %PRODUCTVERSION"
+msgstr "%PRODUCTNAME %PRODUCTVERSIONରେ ହାଙ୍ଗାରିଆନ ସମର୍ଥନକୁ ସ୍ଥାପନ କରିଥାଏ"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS.LngText.text
+msgid "Extensions"
+msgstr "ଅନୁଲଗ୍ନ"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS.LngText.text
+msgid "Useful %PRODUCTNAME extensions."
+msgstr "ଉପଯୋଗୀ %PRODUCTNAME ଅନୁଲଗ୍ନଗୁଡ଼ିକ।"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_MINIMIZER.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_MINIMIZER.LngText.text"
+msgid "Presentation Minimizer"
+msgstr "ଉପସ୍ଥାପନା କ୍ଷୁଦ୍ରକାରୀ"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_MINIMIZER.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_MINIMIZER.LngText.text"
+msgid "Presentation Minimizer"
+msgstr "ଉପସ୍ଥାପନା କ୍ଷୁଦ୍ରକାରୀ"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_REPORTDESIGN.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_REPORTDESIGN.LngText.text"
+msgid "Report Builder"
+msgstr "ବିବରଣୀ ନିର୍ମାତା"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_REPORTDESIGN.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_REPORTDESIGN.LngText.text"
+msgid "Report Builder"
+msgstr "ବିବରଣୀ ନିର୍ମାତା"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_MEDIAWIKI.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_MEDIAWIKI.LngText.text"
+msgid "MediaWiki Publisher"
+msgstr "MediaWiki ପ୍ରକାଶକ"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_MEDIAWIKI.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_MEDIAWIKI.LngText.text"
+msgid "MediaWiki Publisher"
+msgstr "MediaWiki ପ୍ରକାଶକ"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_PRESENTER_SCREEN.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_PRESENTER_SCREEN.LngText.text"
+msgid "Presenter Screen"
+msgstr "ଉପସ୍ଥାପକ ପରଦା"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_PRESENTER_SCREEN.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_PRESENTER_SCREEN.LngText.text"
+msgid "Presenter Screen"
+msgstr "ଉପସ୍ଥାପକ ପରଦା"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_PDFIMPORT.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_PDFIMPORT.LngText.text"
+msgid "PDF Import"
+msgstr "PDF ଆମଦାନୀ"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_PDFIMPORT.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_PDFIMPORT.LngText.text"
+msgid "PDF Import"
+msgstr "PDF ଆମଦାନୀ"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_NUMBERTEXT.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_NUMBERTEXT.LngText.text"
+msgid "Numbertext"
+msgstr "ସଂଖ୍ୟାପାଠ୍ୟ"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_NUMBERTEXT.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_NUMBERTEXT.LngText.text"
+msgid "Numbertext"
+msgstr "ସଂଖ୍ୟାପାଠ୍ୟ"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_HUNART.LngText.text
+msgid "Hungarian cross-reference toolbar"
+msgstr "ହଙ୍ଗେରିଆନ ଅନ୍ତ-ସନ୍ଦର୍ଭ ସାଧନପଟି"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_HUNART.LngText.text
+msgid "Toolbar to add cross-references with automatic conditional Hungarian articles (eg. *az* 5. ábra, *a* 6. ábra) to avoid bad article and number combination in cross-references."
+msgstr "ଖରାପ ପତ୍ରିକାକୁ ଏଡ଼ାଇବା ଏବଂ ସଂଖ୍ୟା ଯୁଗଳକୁ ସ୍ୱୟଂଚାଳିତ ସର୍ତ୍ତମୂଳକ ହଙ୍ଗେରିଆନ ପତ୍ରିକାଗୁଡ଼ିକ ସହିତ ଯୋଗ କରିବାକୁ ଥିବା ସାଧନ ପଟି (ଯେପରିକି *az* 5. ábra, *a* 6. ábra)।"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_TYPO.LngText.text
+msgid "Typography toolbar"
+msgstr "ମୁଦ୍ରଣ କଳା ସାଧନପଟି"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_TYPO.LngText.text
+msgid "Toolbar for Graphite smart font features: ligatures, small caps, old style numbers, proportional or monospaced numbers, automatic thousand separators, minus sign, real superscript and subscript, German umlaut variants, fractions."
+msgstr "ଗ୍ରାଫାଇଟ ସ୍ମାର୍ଟ ଅକ୍ଷରରୂପ ବିଶେଷତା ପାଇଁ ସାଧନପଟି: ଲିଗେଚର, ଛୋଟ ଅକ୍ଷର, ପୁରୁଣା ଶୈଳୀସଂଖ୍ୟା, ଆନୁପାତିକ କିମ୍ବା ସମାନ ସ୍ଥାନ ଅଧିକାର କରୁଥିବା ସଂଖ୍ୟା, ସ୍ୱୟଂଚାଳିତ ହଜାର ବିଭାଜକ, ବିଯୁକ୍ତ ଚିହ୍ନ, ପ୍ରକୃତ ଉପସର୍ଗ ଏବଂ ଅନୁସର୍ଗ, ଜର୍ମାନ ଅମଲେଟ ପ୍ରକାର, ବିଭକ୍ତ।"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_CT2N.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_CT2N.LngText.text"
+msgid "Convert Text to Number"
+msgstr "ଅକ୍ଷରରୁ ସଂଖ୍ୟାକୁ ରୂପାନ୍ତର କରନ୍ତୁ"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_CT2N.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_CT2N.LngText.text"
+msgid "Convert Text to Number"
+msgstr "ଅକ୍ଷରରୁ ସଂଖ୍ୟାକୁ ରୂପାନ୍ତର କରନ୍ତୁ"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_WATCH_WINDOW.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_WATCH_WINDOW.LngText.text"
+msgid "Watch Window"
+msgstr "ଦେଖିବା ୱିଣ୍ଡୋ"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_WATCH_WINDOW.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_WATCH_WINDOW.LngText.text"
+msgid "Watch Window"
+msgstr "ଦେଖିବା ୱିଣ୍ଡୋ"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_DIAGRAM.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_DIAGRAM.LngText.text"
+msgid "Diagram"
+msgstr "ଚିତ୍ର"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_DIAGRAM.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_DIAGRAM.LngText.text"
+msgid "Diagram"
+msgstr "ଚିତ୍ର"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_VALIDATOR.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_VALIDATOR.LngText.text"
+msgid "Validator"
+msgstr "ସଂଶୋଧକ"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_VALIDATOR.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_VALIDATOR.LngText.text"
+msgid "Validator"
+msgstr "ସଂଶୋଧକ"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_BARCODE.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_BARCODE.LngText.text"
+msgid "Barcode"
+msgstr "ବାର କୋଡ"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_BARCODE.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_BARCODE.LngText.text"
+msgid "Barcode"
+msgstr "ବାର କୋଡ"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_GOOGLE_DOCS.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_GOOGLE_DOCS.LngText.text"
+msgid "Google Docs & Zoho"
+msgstr "Google ଦଲିଲ ଏବଂ ଜୋହୋ"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_GOOGLE_DOCS.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_GOOGLE_DOCS.LngText.text"
+msgid "Google Docs & Zoho"
+msgstr "Google ଦଲିଲ ଏବଂ ଜୋହୋ"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_NLPSOLVER.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_NLPSOLVER.LngText.text"
+msgid "Solver for Nonlinear Programming"
+msgstr "ଜଟିଳ ପ୍ରଗ୍ରାମିଙ୍ଗ ପାଇଁ ସମାଧାନକାରୀ"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_NLPSOLVER.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_NLPSOLVER.LngText.text"
+msgid "Solver for Nonlinear Programming"
+msgstr "ଜଟିଳ ପ୍ରଗ୍ରାମିଙ୍ଗ ପାଇଁ ସମାଧାନକାରୀ"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_LANGUAGETOOL.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_LANGUAGETOOL.LngText.text"
+msgid "LanguageTool Open Source language checker"
+msgstr "ଭାଷା ସାଧନ ମୁକ୍ତ ଉତ୍ସ ଭାଷା ଯାଞ୍ଚକର୍ତ୍ତା"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_LANGUAGETOOL.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_LANGUAGETOOL.LngText.text"
+msgid "LanguageTool Open Source language checker"
+msgstr "ଭାଷା ସାଧନ ମୁକ୍ତ ଉତ୍ସ ଭାଷା ଯାଞ୍ଚକର୍ତ୍ତା"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_MYSQLC.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_MYSQLC.LngText.text"
+msgid "MySQL Connector"
+msgstr "MySQL ସଂଯୋଜକ"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_MYSQLC.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_MYSQLC.LngText.text"
+msgid "MySQL Connector"
+msgstr "MySQL ସଂଯୋଜକ"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_OOOBLOGGER.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_OOOBLOGGER.LngText.text"
+msgid "Metaweblog Support"
+msgstr "Metaweblog ସହାୟତା"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_OOOBLOGGER.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_OOOBLOGGER.LngText.text"
+msgid "Metaweblog Support"
+msgstr "Metaweblog ସହାୟତା"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SUN_TEMPLATE_PACK.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SUN_TEMPLATE_PACK.LngText.text"
+msgid "Sun Professional Template Pack"
+msgstr "Sun ପ୍ରଫେସନାଲ ନମୁନା ପ୍ୟାକେଟ"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SUN_TEMPLATE_PACK.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SUN_TEMPLATE_PACK.LngText.text"
+msgid "Sun Professional Template Pack"
+msgstr "Sun ପ୍ରଫେସନାଲ ନମୁନା ପ୍ୟାକେଟ"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_BEANSHELL.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_BEANSHELL.LngText.text"
+msgid "Script provider for BeanShell"
+msgstr "ବିନ ସେଲ ପାଇଁ ସ୍କ୍ରିପ୍ଟ ପ୍ରଦାନକାରୀ"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_BEANSHELL.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_BEANSHELL.LngText.text"
+msgid "Script provider for BeanShell"
+msgstr "ବିନ ସେଲ ପାଇଁ ସ୍କ୍ରିପ୍ଟ ପ୍ରଦାନକାରୀ"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_JAVASCRIPT.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_JAVASCRIPT.LngText.text"
+msgid "Script provider for JavaScript"
+msgstr "Java ସ୍କ୍ରିପ୍ଟ ପାଇଁ ସ୍କ୍ରିପ୍ଟ ପ୍ରଦାନକାରୀ"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_JAVASCRIPT.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_JAVASCRIPT.LngText.text"
+msgid "Script provider for JavaScript"
+msgstr "Java ସ୍କ୍ରିପ୍ଟ ପାଇଁ ସ୍କ୍ରିପ୍ଟ ପ୍ରଦାନକାରୀ"
+
+#: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_PYTHON.LngText.text
+msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_PYTHON.LngText.text"
+msgid "Script provider for Python"
+msgstr "Python ପାଇଁ ସ୍କ୍ରିପ୍ଟ ପ୍ରଦାନକାରୀ"
+
+#: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_PYTHON.LngText.text
+msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_PYTHON.LngText.text"
+msgid "Script provider for Python"
+msgstr "Python ପାଇଁ ସ୍କ୍ରିପ୍ଟ ପ୍ରଦାନକାରୀ"

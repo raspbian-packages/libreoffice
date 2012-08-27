@@ -1,0 +1,116 @@
+#. extracted from sc/source/ui/styleui.oo
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+sc%2Fsource%2Fui%2Fstyleui.oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-07-04 16:39+0200\n"
+"PO-Revision-Date: 2011-09-28 10:08+0200\n"
+"Last-Translator: Donald <donr2648@clear.net.nz>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Accelerator-Marker: ~\n"
+
+#: scstyles.src#DLG_STYLE_DESIGNER.Cell_Styles.sfxstylefamilyitem.text
+msgid "Cell Styles"
+msgstr "Ĉelstiloj"
+
+#: scstyles.src#DLG_STYLE_DESIGNER.Cell_Styles.1.filterlist.text
+msgctxt "scstyles.src#DLG_STYLE_DESIGNER.Cell_Styles.1.filterlist.text"
+msgid "All Styles"
+msgstr "Ĉiuj stiloj"
+
+#: scstyles.src#DLG_STYLE_DESIGNER.Cell_Styles.2.filterlist.text
+msgid "Applied Styles"
+msgstr "Aplikitaj stiloj"
+
+#: scstyles.src#DLG_STYLE_DESIGNER.Cell_Styles.3.filterlist.text
+msgctxt "scstyles.src#DLG_STYLE_DESIGNER.Cell_Styles.3.filterlist.text"
+msgid "Custom Styles"
+msgstr "Propraj stiloj"
+
+#: scstyles.src#DLG_STYLE_DESIGNER.Page_Styles.sfxstylefamilyitem.text
+msgid "Page Styles"
+msgstr "Paĝaj stiloj"
+
+#: scstyles.src#DLG_STYLE_DESIGNER.Page_Styles.1.filterlist.text
+msgctxt "scstyles.src#DLG_STYLE_DESIGNER.Page_Styles.1.filterlist.text"
+msgid "All Styles"
+msgstr "Ĉiuj stiloj"
+
+#: scstyles.src#DLG_STYLE_DESIGNER.Page_Styles.2.filterlist.text
+msgctxt "scstyles.src#DLG_STYLE_DESIGNER.Page_Styles.2.filterlist.text"
+msgid "Custom Styles"
+msgstr "Propraj stiloj"
+
+#: styledlg.src#RID_SCDLG_STYLES_PAR.1.TP_NUMBER.pageitem.text
+msgid "Numbers"
+msgstr "Numeroj"
+
+#: styledlg.src#RID_SCDLG_STYLES_PAR.1.TP_FONT.pageitem.text
+msgid "Font"
+msgstr "Tiparo"
+
+#: styledlg.src#RID_SCDLG_STYLES_PAR.1.TP_FONTEFF.pageitem.text
+msgid "Font Effects"
+msgstr "Tiparaj efektoj"
+
+#: styledlg.src#RID_SCDLG_STYLES_PAR.1.TP_ALIGNMENT.pageitem.text
+msgid "Alignment"
+msgstr "Ĝisrandigo"
+
+#: styledlg.src#RID_SCDLG_STYLES_PAR.1.TP_ASIAN.pageitem.text
+msgid "Asian Typography"
+msgstr "Azia tipografio"
+
+#: styledlg.src#RID_SCDLG_STYLES_PAR.1.TP_BORDER.pageitem.text
+msgctxt "styledlg.src#RID_SCDLG_STYLES_PAR.1.TP_BORDER.pageitem.text"
+msgid "Borders"
+msgstr "Borderoj"
+
+#: styledlg.src#RID_SCDLG_STYLES_PAR.1.TP_BACKGROUND.pageitem.text
+msgctxt "styledlg.src#RID_SCDLG_STYLES_PAR.1.TP_BACKGROUND.pageitem.text"
+msgid "Background"
+msgstr "Fono"
+
+#: styledlg.src#RID_SCDLG_STYLES_PAR.1.TP_PROTECTION.pageitem.text
+msgid "Cell Protection"
+msgstr "Ĉelprotektado"
+
+#: styledlg.src#RID_SCDLG_STYLES_PAR.tabdialog.text
+msgid "Cell Style"
+msgstr "Ĉelstilo"
+
+#: styledlg.src#RID_SCDLG_STYLES_PAGE.1.TP_PAGE_STD.pageitem.text
+msgid "Page"
+msgstr "Paĝo"
+
+#: styledlg.src#RID_SCDLG_STYLES_PAGE.1.TP_BORDER.pageitem.text
+msgctxt "styledlg.src#RID_SCDLG_STYLES_PAGE.1.TP_BORDER.pageitem.text"
+msgid "Borders"
+msgstr "Borderoj"
+
+#: styledlg.src#RID_SCDLG_STYLES_PAGE.1.TP_BACKGROUND.pageitem.text
+msgctxt "styledlg.src#RID_SCDLG_STYLES_PAGE.1.TP_BACKGROUND.pageitem.text"
+msgid "Background"
+msgstr "Fono"
+
+#: styledlg.src#RID_SCDLG_STYLES_PAGE.1.TP_PAGE_HEADER.pageitem.text
+msgid "Header"
+msgstr "Paĝokapo"
+
+#: styledlg.src#RID_SCDLG_STYLES_PAGE.1.TP_PAGE_FOOTER.pageitem.text
+msgid "Footer"
+msgstr "Paĝopiedo"
+
+#: styledlg.src#RID_SCDLG_STYLES_PAGE.1.TP_TABLE.pageitem.text
+msgid "Sheet"
+msgstr "Folio"
+
+#: styledlg.src#RID_SCDLG_STYLES_PAGE.tabdialog.text
+msgid "Page Style"
+msgstr "Paĝa stilo"
