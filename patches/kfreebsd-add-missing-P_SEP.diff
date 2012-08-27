@@ -1,0 +1,11 @@
+--- a/configure.in-old	2012-08-23 22:22:17.023096695 +0200
++++ b/configure.in	2012-08-23 22:22:48.827254399 +0200
+@@ -3126,6 +3126,8 @@
+     GUIBASE=unx
+     OS=LINUX
+     RTL_OS=kFreeBSD
++    P_SEP=:
++
+     case "$host_cpu" in
+ 
+     i*86)
