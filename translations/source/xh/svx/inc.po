@@ -1,0 +1,295 @@
+#. extracted from svx/inc.oo
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+svx%2Finc.oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-07-04 16:39+0200\n"
+"PO-Revision-Date: 2011-04-06 04:39+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: xh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Accelerator-Marker: ~\n"
+
+#: globlmn_tmpl.hrc#ITEM_FORM_CONTROL_PROPERTIES.#define.text
+msgid "Con~trol..."
+msgstr "Ula~wulo..."
+
+#: globlmn_tmpl.hrc#ITEM_FORM_PROPERTIES.#define.text
+msgid "For~m..."
+msgstr "Ifo~m..."
+
+#: globlmn_tmpl.hrc#ITEM_REPLACE_CONTROL.#define.text
+msgid "~Replace with"
+msgstr "~Susa ngokufaka enye"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_CHAR_DLG.#define.text
+msgid "C~haracter..."
+msgstr "Umbhalo ~Onjengonobumba..."
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_PARA_DLG.#define.text
+msgid "P~aragraph..."
+msgstr "Um~hlathi..."
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_FONTWORK.#define.text
+msgid "F~ontwork"
+msgstr "Um~sebenzi wefonti"
+
+#: globlmn_tmpl.hrc#ITEM_EDIT_CUT.#define.text
+msgid "Cu~t"
+msgstr "Si~ka"
+
+#: globlmn_tmpl.hrc#ITEM_EDIT_COPY.#define.text
+msgid "~Copy"
+msgstr "~Kopa"
+
+#: globlmn_tmpl.hrc#ITEM_EDIT_DELETE.#define.text
+msgid "~Delete"
+msgstr "~Cima"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_CHAR_FONT.#define.text
+msgid "Font"
+msgstr "Ifonti"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_CHAR_FONTHEIGHT.#define.text
+msgid "Size"
+msgstr "Ubukhulu"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_CHAR_WEIGHT.#define.text
+msgid "Bold"
+msgstr "Ngqindilili"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_CHAR_POSTURE.#define.text
+msgid "Italic"
+msgstr "Ngokukekela"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_CHAR_UNDERLINE.#define.text
+msgid "Underline"
+msgstr "Ukukrwela umgca ngezantsi"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_CHAR_OVERLINE.#define.text
+msgid "Overline"
+msgstr ""
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_CHAR_STRIKEOUT.#define.text
+msgid "Strikethrough"
+msgstr "Ukucima ngokukrwela umgca"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_CHAR_SHADOWED.#define.text
+msgid "Shadow"
+msgstr "Isithunzi"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_CHAR_CONTOUR.#define.text
+msgid "Outline"
+msgstr "Ukugqabaza"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_SET_SUPER_SCRIPT.#define.text
+msgid "Su~perscript"
+msgstr "Umbhalo~ongasentla emgceni"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_SET_SUB_SCRIPT.#define.text
+msgid "Su~bscript"
+msgstr "Umbhalo~ongasezantsi emgceni"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_PARA_ADJUST_LEFT.#define.text
+msgctxt "globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_PARA_ADJUST_LEFT.#define.text"
+msgid "~Left"
+msgstr ""
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_PARA_ADJUST_RIGHT.#define.text
+msgctxt "globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_PARA_ADJUST_RIGHT.#define.text"
+msgid "~Right"
+msgstr ""
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_PARA_ADJUST_CENTER.#define.text
+msgctxt "globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_PARA_ADJUST_CENTER.#define.text"
+msgid "~Centered"
+msgstr ""
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_PARA_ADJUST_BLOCK.#define.text
+msgid "Justified"
+msgstr "Ulungelelaniso macala"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_PARA_LINESPACE_10.#define.text
+msgid "Single"
+msgstr "Isikhewu esinye semigca"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_PARA_LINESPACE_15.#define.text
+msgid "1.5 lines"
+msgstr "imigca yesikhewu se1.5"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_PARA_LINESPACE_20.#define.text
+msgid "~Double"
+msgstr "~Isikhewu semigca esiphinda-phindiweyo"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_FRAME_TO_TOP.#define.text
+msgid "~Bring to Front"
+msgstr "~Zisa Ngaphambili"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_FRAME_TO_BOTTOM.#define.text
+msgid "~Send to Back"
+msgstr "~Thumela Emva"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_ALIGN.#define.text
+msgid "A~lignment"
+msgstr "U~lungelelaniso"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_ALIGN_LEFT.#define.text
+msgctxt "globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_ALIGN_LEFT.#define.text"
+msgid "~Left"
+msgstr ""
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_ALIGN_CENTER.#define.text
+msgctxt "globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_ALIGN_CENTER.#define.text"
+msgid "~Centered"
+msgstr ""
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_ALIGN_RIGHT.#define.text
+msgctxt "globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_ALIGN_RIGHT.#define.text"
+msgid "~Right"
+msgstr ""
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_ALIGN_UP.#define.text
+msgid "~Top"
+msgstr "~Ngaphezulu"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_ALIGN_MIDDLE.#define.text
+msgid "C~enter"
+msgstr "Isi~zikithi"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_ALIGN_DOWN.#define.text
+msgid "~Bottom"
+msgstr "~Emazantsi"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTRIBUTES_LINE.#define.text
+msgid "L~ine..."
+msgstr "Um~gca..."
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTRIBUTES_AREA.#define.text
+msgid "A~rea..."
+msgstr "In~dawo..."
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_TRANSFORM.#define.text
+msgid "Position and Si~ze..."
+msgstr "Isimo sendawo Nobu~khulu..."
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_HEAVEN.#define.text
+msgid "~To Foreground"
+msgstr "~Umhlaba ongaphambili"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_HELL.#define.text
+msgid "T~o Background"
+msgstr "Uku~ya Kumhlaba Ongasemva"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_BEZIER_EDIT.#define.text
+msgid "Edit ~Points"
+msgstr "Hlela ~Amanqaku"
+
+#: globlmn_tmpl.hrc#ITEM_EDIT_PASTE.#define.text
+msgid "~Paste"
+msgstr "~Ncamathisela"
+
+#: globlmn_tmpl.hrc#ITEM_EDIT_IMAP.#define.text
+msgid "ImageMap"
+msgstr "ImephuYomfuziselo"
+
+#: globlmn_tmpl.hrc#ITEM_VIEW_ATTR_ZOOM.#define.text
+msgid "~Zoom..."
+msgstr "~Nciphisa wandise"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_NUMBERING.DEFINE_SLOTID_FOR_NUMBER_BULLETS.menuitem.text
+msgid "~Bullets and Numbering..."
+msgstr ""
+
+#: globlmn_tmpl.hrc#ITEM_POLY_MERGE.SID_POLY_MERGE.menuitem.text
+msgid "~Merge"
+msgstr "~Dibanisa"
+
+#: globlmn_tmpl.hrc#ITEM_POLY_MERGE.ITEM_POLY_SUBSTRACT.SID_POLY_SUBSTRACT.menuitem.text
+msgid "~Subtract"
+msgstr "~Thabatha"
+
+#: globlmn_tmpl.hrc#ITEM_POLY_MERGE.ITEM_POLY_SUBSTRACT.ITEM_POLY_INTERSECT.SID_POLY_INTERSECT.menuitem.text
+msgid "I~ntersect"
+msgstr "Nqam~lezisa"
+
+#: globlmn_tmpl.hrc#MNSUB_FORMEN.SID_POLY_FORMEN.menuitem.text
+msgid "~Shapes"
+msgstr "~Iimilo"
+
+#: globlmn_tmpl.hrc#ITEM_POPUP_TEMPLATE_EDIT.#define.text
+msgid "Edit Paragraph Style..."
+msgstr "Hlela Isimbo Somhlathi..."
+
+#: globlmn_tmpl.hrc#ITEM_POPUP_GROUP.#define.text
+msgctxt "globlmn_tmpl.hrc#ITEM_POPUP_GROUP.#define.text"
+msgid "~Group"
+msgstr ""
+
+#: globlmn_tmpl.hrc#ITEM_POPUP_UNGROUP.#define.text
+msgid "~Ungroup"
+msgstr "~Chitha Amaqela"
+
+#: globlmn_tmpl.hrc#ITEM_POPUP_ENTER_GROUP.#define.text
+msgid "~Edit Group"
+msgstr "~Hlela Amaqela"
+
+#: globlmn_tmpl.hrc#ITEM_POPUP_LEAVE_GROUP.#define.text
+msgid "E~xit Group"
+msgstr "Phu~ma Kumaqela"
+
+#: globlmn_tmpl.hrc#ITEM_GROUP_MENU.SID_MN_GROUP.menuitem.text
+msgctxt "globlmn_tmpl.hrc#ITEM_GROUP_MENU.SID_MN_GROUP.menuitem.text"
+msgid "~Group"
+msgstr ""
+
+#: globlmn_tmpl.hrc#ITEM_TRANSLITERATE_MENU.SID_MN_SUB_TRANSLITERATE.SID_TRANSLITERATE_SENTENCE_CASE.menuitem.text
+msgid "~Sentence case"
+msgstr ""
+
+#: globlmn_tmpl.hrc#ITEM_TRANSLITERATE_MENU.SID_MN_SUB_TRANSLITERATE.SID_TRANSLITERATE_LOWER.menuitem.text
+msgid "~lowercase"
+msgstr ""
+
+#: globlmn_tmpl.hrc#ITEM_TRANSLITERATE_MENU.SID_MN_SUB_TRANSLITERATE.SID_TRANSLITERATE_UPPER.menuitem.text
+msgid "~UPPERCASE"
+msgstr ""
+
+#: globlmn_tmpl.hrc#ITEM_TRANSLITERATE_MENU.SID_MN_SUB_TRANSLITERATE.SID_TRANSLITERATE_TITLE_CASE.menuitem.text
+msgid "~Capitalize Every Word"
+msgstr ""
+
+#: globlmn_tmpl.hrc#ITEM_TRANSLITERATE_MENU.SID_MN_SUB_TRANSLITERATE.SID_TRANSLITERATE_TOGGLE_CASE.menuitem.text
+msgid "~tOGGLE cASE"
+msgstr ""
+
+#: globlmn_tmpl.hrc#ITEM_TRANSLITERATE_MENU.SID_MN_SUB_TRANSLITERATE.SID_TRANSLITERATE_HALFWIDTH.menuitem.text
+msgid "H~alf-width"
+msgstr "Isiqinga~tha-sobubanzi"
+
+#: globlmn_tmpl.hrc#ITEM_TRANSLITERATE_MENU.SID_MN_SUB_TRANSLITERATE.SID_TRANSLITERATE_FULLWIDTH.menuitem.text
+msgid "Full-width"
+msgstr "Ububanzi-obupheleleyo"
+
+#: globlmn_tmpl.hrc#ITEM_TRANSLITERATE_MENU.SID_MN_SUB_TRANSLITERATE.SID_TRANSLITERATE_HIRAGANA.menuitem.text
+msgid "~Hiragana"
+msgstr "~Uhlobo Lobhalo Loonobumba BesiJapani"
+
+#: globlmn_tmpl.hrc#ITEM_TRANSLITERATE_MENU.SID_MN_SUB_TRANSLITERATE.SID_TRANSLITERATE_KATAGANA.menuitem.text
+msgid "~Katakana"
+msgstr "~Olunye Uhlobo Lobhalo Loonobumba BesiJapani"
+
+#: globlmn_tmpl.hrc#ITEM_TRANSLITERATE_MENU.SID_MN_SUB_TRANSLITERATE.menuitem.text
+msgid "~Change Case"
+msgstr "~Guqula Ubukhulu Boonobumba"
+
+#: globlmn_tmpl.hrc#ITEM_OPEN_HYPERLINK.#define.text
+msgid "~Open Hyperlink"
+msgstr "~Vula iHyperlink"
+
+#: globlmn_tmpl.hrc#ITEM_OPEN_SMARTTAGMENU.#define.text
+msgid "Open ~Smart Tag Menu"
+msgstr ""

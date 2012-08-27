@@ -1,0 +1,295 @@
+#. extracted from svx/inc.oo
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+svx%2Finc.oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-07-04 16:39+0200\n"
+"PO-Revision-Date: 2011-04-06 14:37+0200\n"
+"Last-Translator: Andras <timar74@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sa_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Accelerator-Marker: ~\n"
+
+#: globlmn_tmpl.hrc#ITEM_FORM_CONTROL_PROPERTIES.#define.text
+msgid "Con~trol..."
+msgstr "नियंत्रणम्..."
+
+#: globlmn_tmpl.hrc#ITEM_FORM_PROPERTIES.#define.text
+msgid "For~m..."
+msgstr "प्रपत्रम्..."
+
+#: globlmn_tmpl.hrc#ITEM_REPLACE_CONTROL.#define.text
+msgid "~Replace with"
+msgstr "अनेन प्रतिसमाधत्स्व"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_CHAR_DLG.#define.text
+msgid "C~haracter..."
+msgstr "संप्रतीकः..."
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_PARA_DLG.#define.text
+msgid "P~aragraph..."
+msgstr "अधिकरणम्..."
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_FONTWORK.#define.text
+msgid "F~ontwork"
+msgstr "फोण्ट्कार्यम्"
+
+#: globlmn_tmpl.hrc#ITEM_EDIT_CUT.#define.text
+msgid "Cu~t"
+msgstr "कर्तय"
+
+#: globlmn_tmpl.hrc#ITEM_EDIT_COPY.#define.text
+msgid "~Copy"
+msgstr "अनुरूपय"
+
+#: globlmn_tmpl.hrc#ITEM_EDIT_DELETE.#define.text
+msgid "~Delete"
+msgstr "लोपय"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_CHAR_FONT.#define.text
+msgid "Font"
+msgstr "फोण्ट्"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_CHAR_FONTHEIGHT.#define.text
+msgid "Size"
+msgstr "परिमाणम्"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_CHAR_WEIGHT.#define.text
+msgid "Bold"
+msgstr "स्थूलम्"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_CHAR_POSTURE.#define.text
+msgid "Italic"
+msgstr "साचीकृतम्"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_CHAR_UNDERLINE.#define.text
+msgid "Underline"
+msgstr "रेखाङ्कितम्"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_CHAR_OVERLINE.#define.text
+msgid "Overline"
+msgstr ""
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_CHAR_STRIKEOUT.#define.text
+msgid "Strikethrough"
+msgstr "छेदः"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_CHAR_SHADOWED.#define.text
+msgid "Shadow"
+msgstr "छाया"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_CHAR_CONTOUR.#define.text
+msgid "Outline"
+msgstr "परिलेखः"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_SET_SUPER_SCRIPT.#define.text
+msgid "Su~perscript"
+msgstr "अधिलिखितम्"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_SET_SUB_SCRIPT.#define.text
+msgid "Su~bscript"
+msgstr "अधोलिखितम्"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_PARA_ADJUST_LEFT.#define.text
+msgctxt "globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_PARA_ADJUST_LEFT.#define.text"
+msgid "~Left"
+msgstr "वामम्"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_PARA_ADJUST_RIGHT.#define.text
+msgctxt "globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_PARA_ADJUST_RIGHT.#define.text"
+msgid "~Right"
+msgstr "दक्षिणम्"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_PARA_ADJUST_CENTER.#define.text
+msgctxt "globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_PARA_ADJUST_CENTER.#define.text"
+msgid "~Centered"
+msgstr "केन्द्रितम्"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_PARA_ADJUST_BLOCK.#define.text
+msgid "Justified"
+msgstr "परिशोधितम्"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_PARA_LINESPACE_10.#define.text
+msgid "Single"
+msgstr "एककम्"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_PARA_LINESPACE_15.#define.text
+msgid "1.5 lines"
+msgstr "1.5 रेखाः"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_PARA_LINESPACE_20.#define.text
+msgid "~Double"
+msgstr "द्विगुणितम्"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_FRAME_TO_TOP.#define.text
+msgid "~Bring to Front"
+msgstr "पुरतः आनय"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_FRAME_TO_BOTTOM.#define.text
+msgid "~Send to Back"
+msgstr "पृष्ठे प्रेषय"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_ALIGN.#define.text
+msgid "A~lignment"
+msgstr "पङ्क्तीकरणम्"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_ALIGN_LEFT.#define.text
+msgctxt "globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_ALIGN_LEFT.#define.text"
+msgid "~Left"
+msgstr "वामम्"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_ALIGN_CENTER.#define.text
+msgctxt "globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_ALIGN_CENTER.#define.text"
+msgid "~Centered"
+msgstr "केन्द्रितम्"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_ALIGN_RIGHT.#define.text
+msgctxt "globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_ALIGN_RIGHT.#define.text"
+msgid "~Right"
+msgstr "दक्षिणम्"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_ALIGN_UP.#define.text
+msgid "~Top"
+msgstr "उपरि"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_ALIGN_MIDDLE.#define.text
+msgid "C~enter"
+msgstr "मध्यम्"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_ALIGN_DOWN.#define.text
+msgid "~Bottom"
+msgstr "तलम्"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTRIBUTES_LINE.#define.text
+msgid "L~ine..."
+msgstr "रेखा..."
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTRIBUTES_AREA.#define.text
+msgid "A~rea..."
+msgstr "क्षेत्रम्..."
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_ATTR_TRANSFORM.#define.text
+msgid "Position and Si~ze..."
+msgstr "स्थानं परिमाणञ्च..."
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_HEAVEN.#define.text
+msgid "~To Foreground"
+msgstr "अग्रपटलं प्रति"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_OBJECT_HELL.#define.text
+msgid "T~o Background"
+msgstr "पृष्ठपटलं प्रति"
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_BEZIER_EDIT.#define.text
+msgid "Edit ~Points"
+msgstr "बिन्दून् सम्पादय"
+
+#: globlmn_tmpl.hrc#ITEM_EDIT_PASTE.#define.text
+msgid "~Paste"
+msgstr "लेपय"
+
+#: globlmn_tmpl.hrc#ITEM_EDIT_IMAP.#define.text
+msgid "ImageMap"
+msgstr "चित्रमानचित्रम्"
+
+#: globlmn_tmpl.hrc#ITEM_VIEW_ATTR_ZOOM.#define.text
+msgid "~Zoom..."
+msgstr "जूम् कुरु..."
+
+#: globlmn_tmpl.hrc#ITEM_FORMAT_NUMBERING.DEFINE_SLOTID_FOR_NUMBER_BULLETS.menuitem.text
+msgid "~Bullets and Numbering..."
+msgstr ""
+
+#: globlmn_tmpl.hrc#ITEM_POLY_MERGE.SID_POLY_MERGE.menuitem.text
+msgid "~Merge"
+msgstr "मेलय"
+
+#: globlmn_tmpl.hrc#ITEM_POLY_MERGE.ITEM_POLY_SUBSTRACT.SID_POLY_SUBSTRACT.menuitem.text
+msgid "~Subtract"
+msgstr "न्यूनीकुरु"
+
+#: globlmn_tmpl.hrc#ITEM_POLY_MERGE.ITEM_POLY_SUBSTRACT.ITEM_POLY_INTERSECT.SID_POLY_INTERSECT.menuitem.text
+msgid "I~ntersect"
+msgstr "अन्तश्छेदय"
+
+#: globlmn_tmpl.hrc#MNSUB_FORMEN.SID_POLY_FORMEN.menuitem.text
+msgid "~Shapes"
+msgstr "रूपाणि"
+
+#: globlmn_tmpl.hrc#ITEM_POPUP_TEMPLATE_EDIT.#define.text
+msgid "Edit Paragraph Style..."
+msgstr "अधिकरणशैलीं सम्पादय..."
+
+#: globlmn_tmpl.hrc#ITEM_POPUP_GROUP.#define.text
+msgctxt "globlmn_tmpl.hrc#ITEM_POPUP_GROUP.#define.text"
+msgid "~Group"
+msgstr "समूहस्थीकुरु"
+
+#: globlmn_tmpl.hrc#ITEM_POPUP_UNGROUP.#define.text
+msgid "~Ungroup"
+msgstr "असमूहस्थीकुरु"
+
+#: globlmn_tmpl.hrc#ITEM_POPUP_ENTER_GROUP.#define.text
+msgid "~Edit Group"
+msgstr "समूहं सम्पादय"
+
+#: globlmn_tmpl.hrc#ITEM_POPUP_LEAVE_GROUP.#define.text
+msgid "E~xit Group"
+msgstr "समूहात् निर्गच्छ"
+
+#: globlmn_tmpl.hrc#ITEM_GROUP_MENU.SID_MN_GROUP.menuitem.text
+msgctxt "globlmn_tmpl.hrc#ITEM_GROUP_MENU.SID_MN_GROUP.menuitem.text"
+msgid "~Group"
+msgstr "समूहस्थीकुरु"
+
+#: globlmn_tmpl.hrc#ITEM_TRANSLITERATE_MENU.SID_MN_SUB_TRANSLITERATE.SID_TRANSLITERATE_SENTENCE_CASE.menuitem.text
+msgid "~Sentence case"
+msgstr ""
+
+#: globlmn_tmpl.hrc#ITEM_TRANSLITERATE_MENU.SID_MN_SUB_TRANSLITERATE.SID_TRANSLITERATE_LOWER.menuitem.text
+msgid "~lowercase"
+msgstr "ह्रस्वाक्षरम्"
+
+#: globlmn_tmpl.hrc#ITEM_TRANSLITERATE_MENU.SID_MN_SUB_TRANSLITERATE.SID_TRANSLITERATE_UPPER.menuitem.text
+msgid "~UPPERCASE"
+msgstr "बृहदक्षरम्"
+
+#: globlmn_tmpl.hrc#ITEM_TRANSLITERATE_MENU.SID_MN_SUB_TRANSLITERATE.SID_TRANSLITERATE_TITLE_CASE.menuitem.text
+msgid "~Capitalize Every Word"
+msgstr ""
+
+#: globlmn_tmpl.hrc#ITEM_TRANSLITERATE_MENU.SID_MN_SUB_TRANSLITERATE.SID_TRANSLITERATE_TOGGLE_CASE.menuitem.text
+msgid "~tOGGLE cASE"
+msgstr ""
+
+#: globlmn_tmpl.hrc#ITEM_TRANSLITERATE_MENU.SID_MN_SUB_TRANSLITERATE.SID_TRANSLITERATE_HALFWIDTH.menuitem.text
+msgid "H~alf-width"
+msgstr "अर्धविस्तारः"
+
+#: globlmn_tmpl.hrc#ITEM_TRANSLITERATE_MENU.SID_MN_SUB_TRANSLITERATE.SID_TRANSLITERATE_FULLWIDTH.menuitem.text
+msgid "Full-width"
+msgstr "पूर्णविस्तारः"
+
+#: globlmn_tmpl.hrc#ITEM_TRANSLITERATE_MENU.SID_MN_SUB_TRANSLITERATE.SID_TRANSLITERATE_HIRAGANA.menuitem.text
+msgid "~Hiragana"
+msgstr "हिरागाना"
+
+#: globlmn_tmpl.hrc#ITEM_TRANSLITERATE_MENU.SID_MN_SUB_TRANSLITERATE.SID_TRANSLITERATE_KATAGANA.menuitem.text
+msgid "~Katakana"
+msgstr "कटाकाना"
+
+#: globlmn_tmpl.hrc#ITEM_TRANSLITERATE_MENU.SID_MN_SUB_TRANSLITERATE.menuitem.text
+msgid "~Change Case"
+msgstr "अक्षरावस्थां परिवर्तय"
+
+#: globlmn_tmpl.hrc#ITEM_OPEN_HYPERLINK.#define.text
+msgid "~Open Hyperlink"
+msgstr "हैपर्लिङ्क् उद्घाटय"
+
+#: globlmn_tmpl.hrc#ITEM_OPEN_SMARTTAGMENU.#define.text
+msgid "Open ~Smart Tag Menu"
+msgstr "स्मार्ट् टैग् आज्ञावलीम् उद्घाटय"

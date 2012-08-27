@@ -1,0 +1,82 @@
+#. extracted from editeng/source/editeng.oo
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+editeng%2Fsource%2Fediteng.oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-07-04 16:40+0200\n"
+"PO-Revision-Date: 2012-06-13 20:34+0200\n"
+"Last-Translator: Hossein <hossein.ir@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Accelerator-Marker: ~\n"
+
+#: editeng.src#RID_EDITUNDO_DEL.string.text
+msgid "Delete"
+msgstr "حذف"
+
+#: editeng.src#RID_EDITUNDO_MOVE.string.text
+msgid "Move"
+msgstr "جابه‌جایی"
+
+#: editeng.src#RID_EDITUNDO_INSERT.string.text
+msgid "Insert"
+msgstr "درج"
+
+#: editeng.src#RID_EDITUNDO_REPLACE.string.text
+msgid "Replace"
+msgstr "جایگزینی"
+
+#: editeng.src#RID_EDITUNDO_SETATTRIBS.string.text
+msgid "Apply attributes"
+msgstr "اِعمال مشخصه‌ها"
+
+#: editeng.src#RID_EDITUNDO_RESETATTRIBS.string.text
+msgid "Reset attributes"
+msgstr "بازگرداندن مشخصه‌ها به حالت اولیه"
+
+#: editeng.src#RID_EDITUNDO_INDENT.string.text
+msgid "Indent"
+msgstr "تورفتگی"
+
+#: editeng.src#RID_EDITUNDO_SETSTYLE.string.text
+msgid "Apply Styles"
+msgstr "اعمال کردن سبک"
+
+#: editeng.src#RID_EDITUNDO_TRANSLITERATE.string.text
+msgid "~Change Case"
+msgstr "تغییر حالت بزرگ و کوچک حرف‌ها"
+
+#: editeng.src#RID_MENU_SPELL.MN_SPELLING.menuitem.text
+msgid "~Spellcheck..."
+msgstr "بررسی ام~لائی..."
+
+#: editeng.src#RID_MENU_SPELL.MN_INSERT.menuitem.text
+msgctxt "editeng.src#RID_MENU_SPELL.MN_INSERT.menuitem.text"
+msgid "~Add"
+msgstr "~افزودن"
+
+#: editeng.src#RID_MENU_SPELL.MN_INSERT_SINGLE.menuitem.text
+msgctxt "editeng.src#RID_MENU_SPELL.MN_INSERT_SINGLE.menuitem.text"
+msgid "~Add"
+msgstr "~افزودن"
+
+#: editeng.src#RID_MENU_SPELL.MN_IGNORE.menuitem.text
+msgid "Ignore All"
+msgstr "نادیده گرفتن همه"
+
+#: editeng.src#RID_MENU_SPELL.MN_AUTOCORR.menuitem.text
+msgid "AutoCorrect"
+msgstr "تصحیح خودکار"
+
+#: editeng.src#RID_STR_WORD.string.text
+msgid "Word is %x"
+msgstr "کلمه %x است"
+
+#: editeng.src#RID_STR_PARAGRAPH.string.text
+msgid "Paragraph is %x"
+msgstr "پارگراف %x است"

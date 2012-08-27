@@ -1,0 +1,352 @@
+#. extracted from reportbuilder/registry/data/org/openoffice/Office/UI.oo
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+reportbuilder%2Fregistry%2Fdata%2Forg%2Fopenoffice%2FOffice%2FUI.oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-07-04 16:39+0200\n"
+"PO-Revision-Date: 2011-04-11 23:06+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: bo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Accelerator-Marker: ~\n"
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_ReportHeaderFooter.Label.value.text
+msgid "Report Header/Footer"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_PageHeaderFooter.Label.value.text
+msgid "Page Header/Footer"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_ShowRuler.Label.value.text
+msgid "~Ruler"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_DbSortingAndGrouping.Label.value.text
+msgid "~Sorting and Grouping"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_AddField.Label.value.text
+msgid "~Add Field"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_ConditionalFormatting.Label.value.text
+msgid "~Conditional Formatting..."
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_PageDialog.Label.value.text
+#, fuzzy
+msgid "Page Settings"
+msgstr ""
+"#-#-#-#-#  UI.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ཤོག་ངོས་བཀོད་སྒྲིག(~P)...\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ཤོག་ངོས་ཀྱི་སྒྲིག་བཀོད།"
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_PageDialog.ContextLabel.value.text
+msgid "~Page..."
+msgstr "ཤོག་ངོས།(~P)..."
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_ResetAttributes.Label.value.text
+#, fuzzy
+msgid "~Clear Direct Formatting"
+msgstr "རྣམ་གཞག་གཙང་སེལ་རྒྱུ།"
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_InsertPageNumberField.Label.value.text
+msgid "~Page Numbers..."
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_InsertDateTimeField.Label.value.text
+msgid "~Date and Time..."
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SelectReport.Label.value.text
+msgid "~Select Report"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SubReportInNewWindow.Label.value.text
+msgid "~Subreport in New Window..."
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_FontColor.Label.value.text
+msgid "Font Color"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_GridMenu.Label.value.text
+msgid "Gr~id"
+msgstr "དྲ་མིག(~G)"
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_ColumnHeaderFooter.Label.value.text
+msgid "~Column Header/Footer"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_PasteSpecial.Label.value.text
+#, fuzzy
+msgid "Paste ~Special..."
+msgstr ""
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"བདམས་ནས་སྦྱར་བ།(~S)...\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"དམིགས་བསལ་སྦྱར་བ།(~S)..."
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_ExecuteReport.Label.value.text
+msgid "Execute Report..."
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_ImageControl.Label.value.text
+msgid "Graphic..."
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_TextDocument.Label.value.text
+#, fuzzy
+msgid "Text Document"
+msgstr ""
+"#-#-#-#-#  doc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ཡིག་དེབ་ཀྱི་ཡིག་ཚགས།\n"
+"#-#-#-#-#  misc.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ཡི་གེ་སྒྲིག་གཅོད་ཀྱི་ཡིག་ཚགས།\n"
+"#-#-#-#-#  writer.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ཡིག་དེབ་ཀྱི་ཡིག་ཚགས།"
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_Spreadsheet.Label.value.text
+msgid "Spreadsheet Document"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_ReportNavigator.Label.value.text
+msgid "Report Navigator"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SmallestWidth.Label.value.text
+msgid "Fit to smallest width"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SmallestHeight.Label.value.text
+msgid "Fit to smallest height"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_GreatestWidth.Label.value.text
+msgid "Fit to greatest width"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_GreatestHeight.Label.value.text
+msgid "Fit to greatest height"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_ControlProperties.Label.value.text
+msgid "Properties"
+msgstr "གཏོགས་གཤིས།"
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_Distribution.Label.value.text
+msgid "Distribution..."
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SelectAllInSection.Label.value.text
+msgid "~Select Objects in Section"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SectionAlignLeft.Label.value.text
+msgid "Left Align on Section"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SectionAlignRight.Label.value.text
+msgid "Right Align on Section"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SectionAlignTop.Label.value.text
+msgid "Top Align on Section"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SectionAlignBottom.Label.value.text
+msgid "Bottom Align on Section"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SectionAlignCenter.Label.value.text
+msgid "Centered on Section"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SectionAlignMiddle.Label.value.text
+msgid "Middle on Section"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SelectAllLabels.Label.value.text
+msgid "Select all Labels"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SelectAllEdits.Label.value.text
+msgid "Select all Formatted Fields"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_EditShapeMenu.Label.value.text
+msgid "Shape Arrange"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_EditControlMenu.Label.value.text
+#, fuzzy
+msgid "Control"
+msgstr ""
+"#-#-#-#-#  ribbar.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"按控件浏览\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ཚོད་འཛིན་ལྷུ་ཆས།\n"
+"#-#-#-#-#  dbpilots.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ཚེད་འཛིན།\n"
+"#-#-#-#-#  form.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ཚོད་འཛིན།\n"
+"#-#-#-#-#  svdraw.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ཚོད་འཛིན།"
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_AlignmentMenu.Label.value.text
+#, fuzzy
+msgid "Alignment"
+msgstr ""
+"#-#-#-#-#  config.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"གྲལ་སྒྲིག\n"
+"#-#-#-#-#  fmtui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"སྙོམ་གཤིབ།\n"
+"#-#-#-#-#  dlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"སྙོམས་གཤིབ།\n"
+"#-#-#-#-#  styleui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"སྙོམ་གཤིབ།\n"
+"#-#-#-#-#  source.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"གྲལ་སྒྲིག\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"བྱ་ཡུལ།\n"
+"#-#-#-#-#  propctrlr.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"གྲལ་སྒྲིག\n"
+"#-#-#-#-#  form.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"སྙོམ་གཤིབ་ཐབས་ཚུལ།\n"
+"#-#-#-#-#  dialog.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"སྙོམ་གཤིབ།\n"
+"#-#-#-#-#  items.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"སྙོམ་སྒྲིག\n"
+"#-#-#-#-#  tbxctrls.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"སྙོམས་གཤིབ།"
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_ResizeMenu.Label.value.text
+msgid "Resize"
+msgstr "ཆེ་ཆུང་བཟོ་བཅོས།"
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SectionAlignmentMenu.Label.value.text
+msgid "Section alignment"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_ReportControlMenu.Label.value.text
+msgctxt "ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_ReportControlMenu.Label.value.text"
+msgid "Report Controls"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_ShapesMenu.Label.value.text
+msgid "Shapes"
+msgstr "དབྱིབས་ཚུལ།"
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_BasicShapesMenu.Label.value.text
+msgid "Basic Shapes"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SymbolShapesMenu.Label.value.text
+msgid "Symbol Shapes"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_ArrowShapesMenu.Label.value.text
+msgid "Arrow Shapes"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_FlowChartShapesMenu.Label.value.text
+msgid "FlowChart Shapes"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_CalloutShapesMenu.Label.value.text
+msgid "Callout Shapes"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_StarShapesMenu.Label.value.text
+msgid "Star Shapes"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SectionShrinkMenu.Label.value.text
+#, fuzzy
+msgid "Section"
+msgstr ""
+"#-#-#-#-#  utlui.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ཁུལ་ཁོངས།\n"
+"#-#-#-#-#  ribbar.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"按区域浏览\n"
+"#-#-#-#-#  chrdlg.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ས་ཁོངས།\n"
+"#-#-#-#-#  app.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ཁུལ་ཁོངས།"
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SectionShrink.Label.value.text
+msgid "Shrink"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SectionShrinkTop.Label.value.text
+msgid "Shrink from top"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Commands..uno_SectionShrinkBottom.Label.value.text
+msgid "Shrink from bottom"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Popups..uno_ExportReportTo.Label.value.text
+msgid "Report Output Format"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Popups..uno_SnapLinesMenu.Label.value.text
+msgid "~Snap Lines"
+msgstr "གནས་ཚད་ཐིག"
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Popups..uno_ObjectResize.Label.value.text
+msgctxt "ReportCommands.xcu#.ReportCommands.UserInterface.Popups..uno_ObjectResize.Label.value.text"
+msgid "Object Resizing"
+msgstr ""
+
+#: ReportCommands.xcu#.ReportCommands.UserInterface.Popups..uno_ArrangeMenu.Label.value.text
+msgid "A~rrange"
+msgstr "སྟར་སྒྲིག(~R)"
+
+#: DbReportWindowState.xcu#.DbReportWindowState.UIElements.States.private_resource/toolbar/toolbar.UIName.value.text
+msgid "Standard"
+msgstr "ཚད་གཞི།"
+
+#: DbReportWindowState.xcu#.DbReportWindowState.UIElements.States.private_resource/toolbar/Formatting.UIName.value.text
+#, fuzzy
+msgid "Formatting"
+msgstr ""
+"#-#-#-#-#  table.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"རྣམ་གཞག་ཅན།\n"
+"#-#-#-#-#  src.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ཉེར་སྤྱོད་དགོས་པའི་རྣམ་གཞག\n"
+"#-#-#-#-#  propctrlr.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"རྣམ་གཞག་ཏུ་སྒྱུར་བ།"
+
+#: DbReportWindowState.xcu#.DbReportWindowState.UIElements.States.private_resource/toolbar/reportcontrols.UIName.value.text
+msgctxt "DbReportWindowState.xcu#.DbReportWindowState.UIElements.States.private_resource/toolbar/reportcontrols.UIName.value.text"
+msgid "Report Controls"
+msgstr ""
+
+#: DbReportWindowState.xcu#.DbReportWindowState.UIElements.States.private_resource/toolbar/drawbar.UIName.value.text
+msgid "Drawing objects"
+msgstr "རི་མོ་འབྲི་བ།"
+
+#: DbReportWindowState.xcu#.DbReportWindowState.UIElements.States.private_resource/toolbar/alignmentbar.UIName.value.text
+msgid "Align"
+msgstr ""
+
+#: DbReportWindowState.xcu#.DbReportWindowState.UIElements.States.private_resource/toolbar/sectionalignmentbar.UIName.value.text
+msgid "Align at Section"
+msgstr ""
+
+#: DbReportWindowState.xcu#.DbReportWindowState.UIElements.States.private_resource/toolbar/sectionshrinkbar.UIName.value.text
+msgid "Shrink at Section"
+msgstr ""
+
+#: DbReportWindowState.xcu#.DbReportWindowState.UIElements.States.private_resource/toolbar/resizebar.UIName.value.text
+msgctxt "DbReportWindowState.xcu#.DbReportWindowState.UIElements.States.private_resource/toolbar/resizebar.UIName.value.text"
+msgid "Object Resizing"
+msgstr ""
