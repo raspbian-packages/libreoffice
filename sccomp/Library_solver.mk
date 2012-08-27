@@ -44,7 +44,13 @@ $(eval $(call gb_Library_use_libraries,solver,\
 	$(gb_STDLIBS) \
 ))
 
+ifeq ($(SYSTEM_LPSOLVE),YES)
+$(eval $(call gb_Library_add_ldflags,solver, \
+	/usr/lib/lp_solve/liblpsolve55.so -Wl$(COMMA)-rpath=/usr/lib/lp_solve \
+))
+else
 $(eval $(call gb_Library_use_external,solver,lpsolve55))
+endif
 
 $(eval $(call gb_Library_add_exception_objects,solver,\
 	sccomp/source/solver/solver \
