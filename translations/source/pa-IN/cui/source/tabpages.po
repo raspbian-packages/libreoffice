@@ -1,0 +1,5023 @@
+#. extracted from cui/source/tabpages.oo
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+cui%2Fsource%2Ftabpages.oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-07-04 16:39+0200\n"
+"PO-Revision-Date: 2012-08-17 16:24+0530\n"
+"Last-Translator: Jaswinder Singh <jsingh@redhat.com>\n"
+"Language-Team: Punjabi/Panjabi <kde-i18n-doc@kde.org>\n"
+"Language: pa_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.4\n"
+"X-Accelerator-Marker: ~\n"
+
+#: macroass.src#RID_SVXPAGE_EVENTASSIGN.STR_EVENT.string.text
+msgid "Event"
+msgstr "ਈਵੈਂਟ"
+
+#: macroass.src#RID_SVXPAGE_EVENTASSIGN.STR_ASSMACRO.string.text
+msgid "Assigned macro"
+msgstr "ਜਾਰੀ ਕੀਤਾ ਮਾਈਕਰੋ"
+
+#: macroass.src#RID_SVXPAGE_EVENTASSIGN.FT_LABEL4LB_MACROS.fixedtext.text
+msgid "~Existing macros\n"
+msgstr "ਮੌਜੂਦ ਮਾਇਕਰੋ(~E)\n"
+
+#: macroass.src#RID_SVXPAGE_EVENTASSIGN.PB_ASSIGN.pushbutton.text
+msgid "~Assign"
+msgstr "ਜਾਰੀ ਕਰੋ(~A)"
+
+#: macroass.src#RID_SVXPAGE_EVENTASSIGN.PB_DELETE.pushbutton.text
+msgid "~Remove"
+msgstr "ਹਟਾਓ(~R)"
+
+#: macroass.src#RID_SVXPAGE_EVENTASSIGN.STR_MACROS.string.text
+msgid "Macros"
+msgstr "ਮਾਈਕਰੋ"
+
+#: macroass.src#RID_SVXPAGE_EVENTASSIGN.tabpage.text
+msgid "Assign Macro"
+msgstr "ਮਾਈਕਰੋ ਦਿਓ"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.FL_POSITION.fixedline.text
+msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.FL_POSITION.fixedline.text"
+msgid "Position"
+msgstr "ਸਥਿਤੀ"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.FT_POS_X.fixedtext.text
+msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.FT_POS_X.fixedtext.text"
+msgid "Position ~X"
+msgstr "ਸਥਿਤੀ ~X:"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.FT_POS_Y.fixedtext.text
+msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.FT_POS_Y.fixedtext.text"
+msgid "Position ~Y"
+msgstr "ਸਥਿਤੀ ~Y:"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.FT_POSREFERENCE.fixedtext.text
+msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.FT_POSREFERENCE.fixedtext.text"
+msgid "Base point"
+msgstr "ਬੇਸ ਪੁਆਇੰਟ"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.CTL_POSRECT.control.text
+msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.CTL_POSRECT.control.text"
+msgid "-"
+msgstr "-"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.CTL_POSRECT.control.quickhelptext
+msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.CTL_POSRECT.control.quickhelptext"
+msgid "Base point"
+msgstr "ਬੇਸ ਪੁਆਇੰਟ"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.FL_SIZE.fixedline.text
+msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.FL_SIZE.fixedline.text"
+msgid "Size"
+msgstr "ਅਕਾਰ"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.FT_WIDTH.fixedtext.text
+msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.FT_WIDTH.fixedtext.text"
+msgid "Wi~dth"
+msgstr "ਚੌੜਾਈ(~d)"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.FT_HEIGHT.fixedtext.text
+msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.FT_HEIGHT.fixedtext.text"
+msgid "H~eight"
+msgstr "ਉਚਾਈ(~e)"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.FT_SIZEREFERENCE.fixedtext.text
+msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.FT_SIZEREFERENCE.fixedtext.text"
+msgid "Base point"
+msgstr "ਬੇਸ ਪੁਆਇੰਟ"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.CTL_SIZERECT.control.text
+msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.CTL_SIZERECT.control.text"
+msgid "-"
+msgstr "-"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.CTL_SIZERECT.control.quickhelptext
+msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.CTL_SIZERECT.control.quickhelptext"
+msgid "Base point"
+msgstr "ਬੇਸ ਪੁਆਇੰਟ"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.CBX_SCALE.checkbox.text
+msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.CBX_SCALE.checkbox.text"
+msgid "~Keep ratio"
+msgstr "ਅਨੁਪਾਤ ਰੱਖੋ(~K)"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.FL_PROTECT.fixedline.text
+msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.FL_PROTECT.fixedline.text"
+msgid "Protect"
+msgstr "ਸੁਰੱਖਿਅਤ"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.TSB_POSPROTECT.tristatebox.text
+msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.TSB_POSPROTECT.tristatebox.text"
+msgid "Position"
+msgstr "ਸਥਿਤੀ"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.TSB_SIZEPROTECT.tristatebox.text
+msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.TSB_SIZEPROTECT.tristatebox.text"
+msgid "~Size"
+msgstr "ਅਕਾਰ(~S)"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.FL_ADJUST.fixedline.text
+msgid "Adapt"
+msgstr "ਮੇਲੀਆਂ"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.TSB_AUTOGROW_WIDTH.tristatebox.text
+msgid "~Fit width to text"
+msgstr "ਪਾਠ ਅਨੁਸਾਰ ਚੌੜਾਈ ਫਿੱਟ ਕਰੋ(~F)"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.TSB_AUTOGROW_HEIGHT.tristatebox.text
+msgid "Fit ~height to text"
+msgstr "ਪਾਠ ਅਨੁਸਾਰ ਉਚਾਈ ਫਿੱਟ ਕਰੋ(~h)"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.FL_ANCHOR.fixedline.text
+msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.FL_ANCHOR.fixedline.text"
+msgid "Anchor"
+msgstr "ਐਂਕਰ"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.FT_ANCHOR.fixedtext.text
+msgid "~Anchor"
+msgstr "ਐਂਕਰ(~A)"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ANCHOR.1.stringlist.text
+msgid "To paragraph"
+msgstr "ਪ੍ਹੈਰੇ ਤੋਂ"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ANCHOR.2.stringlist.text
+msgid "As character"
+msgstr "ਅੱਖਰ ਵਾਂਗ"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ANCHOR.3.stringlist.text
+msgid "To page"
+msgstr "ਸਫ਼ੇ ਉੱਤੇ"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ANCHOR.4.stringlist.text
+msgid "To frame"
+msgstr "ਫਰੇਮ ਤੋਂ"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.FT_ORIENT.fixedtext.text
+msgid "P~osition"
+msgstr "ਸਥਿਤੀ(~O)"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.1.stringlist.text
+msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.1.stringlist.text"
+msgid "From top"
+msgstr "ਉੱਤੇ ਤੋਂ "
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.2.stringlist.text
+msgid "Above"
+msgstr "ਉੱਤੇ"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.3.stringlist.text
+msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.3.stringlist.text"
+msgid "Centered"
+msgstr "ਸੈਂਟਰਡ"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.4.stringlist.text
+msgid "Below"
+msgstr "ਹੇਠਾਂ"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.5.stringlist.text
+msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.5.stringlist.text"
+msgid "Top of character"
+msgstr "ਅੱਖਰ ਦੇ ਉੱਤੇ"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.6.stringlist.text
+msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.6.stringlist.text"
+msgid "Center of character"
+msgstr "ਅੱਖਰ ਦਾ ਮੱਧ"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.7.stringlist.text
+msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.7.stringlist.text"
+msgid "Bottom of character"
+msgstr "ਅੱਖਰ ਦੇ ਹੇਠਾਂ"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.8.stringlist.text
+msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.8.stringlist.text"
+msgid "Top of line"
+msgstr "ਲਾਈਨ ਦੇ ਉੱਤੇ"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.9.stringlist.text
+msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.9.stringlist.text"
+msgid "Center of line"
+msgstr "ਲਾਇਨ ਦਾ ਮੱਧ"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.10.stringlist.text
+msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.10.stringlist.text"
+msgid "Bottom of line"
+msgstr "ਲਾਈਨ ਦੇ ਹੇਠਾਂ"
+
+#: transfrm.src#RID_SVXPAGE_POSITION_SIZE.tabpage.text
+msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.tabpage.text"
+msgid "Position and Size"
+msgstr "ਸਥਿਤੀ ਅਤੇ ਅਕਾਰ"
+
+#: transfrm.src#RID_SVXPAGE_ANGLE.FL_POSITION.fixedline.text
+msgid "Pivot point"
+msgstr "ਬਿੰਦੂ"
+
+#: transfrm.src#RID_SVXPAGE_ANGLE.FT_POS_X.fixedtext.text
+msgctxt "transfrm.src#RID_SVXPAGE_ANGLE.FT_POS_X.fixedtext.text"
+msgid "Position ~X"
+msgstr "ਸਥਿਤੀ ~X:"
+
+#: transfrm.src#RID_SVXPAGE_ANGLE.FT_POS_Y.fixedtext.text
+msgctxt "transfrm.src#RID_SVXPAGE_ANGLE.FT_POS_Y.fixedtext.text"
+msgid "Position ~Y"
+msgstr "ਸਥਿਤੀ ~Y:"
+
+#: transfrm.src#RID_SVXPAGE_ANGLE.FT_POSPRESETS.fixedtext.text
+msgctxt "transfrm.src#RID_SVXPAGE_ANGLE.FT_POSPRESETS.fixedtext.text"
+msgid "Default settings"
+msgstr "ਡਿਫਾਲਟ ਸੈਟਿੰਗ"
+
+#: transfrm.src#RID_SVXPAGE_ANGLE.CTL_RECT.control.text
+msgctxt "transfrm.src#RID_SVXPAGE_ANGLE.CTL_RECT.control.text"
+msgid "-"
+msgstr "-"
+
+#: transfrm.src#RID_SVXPAGE_ANGLE.CTL_RECT.control.quickhelptext
+msgid "Rotation point"
+msgstr "ਘੁੰਮਾਓ ਬਿੰਦੂ"
+
+#: transfrm.src#RID_SVXPAGE_ANGLE.FL_ANGLE.fixedline.text
+msgid "Rotation angle"
+msgstr "ਘੁੰਮਾਉ ਕੋਣ"
+
+#: transfrm.src#RID_SVXPAGE_ANGLE.FT_ANGLE.fixedtext.text
+msgctxt "transfrm.src#RID_SVXPAGE_ANGLE.FT_ANGLE.fixedtext.text"
+msgid "~Angle"
+msgstr "ਕੋਣ(~A)"
+
+#: transfrm.src#RID_SVXPAGE_ANGLE.MTR_FLD_ANGLE.metricfield.text
+msgctxt "transfrm.src#RID_SVXPAGE_ANGLE.MTR_FLD_ANGLE.metricfield.text"
+msgid " degrees"
+msgstr " ਡਿਗਰੀ"
+
+#: transfrm.src#RID_SVXPAGE_ANGLE.FT_ANGLEPRESETS.fixedtext.text
+msgctxt "transfrm.src#RID_SVXPAGE_ANGLE.FT_ANGLEPRESETS.fixedtext.text"
+msgid "Default settings"
+msgstr "ਡਿਫਾਲਟ ਸੈਟਿੰਗ"
+
+#: transfrm.src#RID_SVXPAGE_ANGLE.CTL_ANGLE.control.text
+msgctxt "transfrm.src#RID_SVXPAGE_ANGLE.CTL_ANGLE.control.text"
+msgid "-"
+msgstr "-"
+
+#: transfrm.src#RID_SVXPAGE_ANGLE.CTL_ANGLE.control.quickhelptext
+msgid "Rotation Angle"
+msgstr "ਘੁੰਮਾਓ ਕੋਣ"
+
+#: transfrm.src#RID_SVXPAGE_ANGLE.tabpage.text
+msgid "Angle"
+msgstr "ਕੋਣ"
+
+#: transfrm.src#RID_SVXPAGE_SLANT.FL_RADIUS.fixedline.text
+msgid "Corner radius"
+msgstr "ਕੋਨ ਅਰਧ-ਵਿਆਸ"
+
+#: transfrm.src#RID_SVXPAGE_SLANT.FT_RADIUS.fixedtext.text
+msgid "~Radius"
+msgstr "ਰੇਡੀਅਸ(~R)"
+
+#: transfrm.src#RID_SVXPAGE_SLANT.FL_SLANT.fixedline.text
+msgid "Slant"
+msgstr "ਤਿਰਛੇ"
+
+#: transfrm.src#RID_SVXPAGE_SLANT.FT_ANGLE.fixedtext.text
+msgctxt "transfrm.src#RID_SVXPAGE_SLANT.FT_ANGLE.fixedtext.text"
+msgid "~Angle"
+msgstr "ਕੋਣ(~A)"
+
+#: transfrm.src#RID_SVXPAGE_SLANT.MTR_FLD_ANGLE.metricfield.text
+msgctxt "transfrm.src#RID_SVXPAGE_SLANT.MTR_FLD_ANGLE.metricfield.text"
+msgid " degrees"
+msgstr " ਡਿਗਰੀ"
+
+#: transfrm.src#RID_SVXPAGE_SLANT.tabpage.text
+msgctxt "transfrm.src#RID_SVXPAGE_SLANT.tabpage.text"
+msgid "Slant & Corner Radius"
+msgstr "Slant & Corner Radius"
+
+#: transfrm.src#_POS_SIZE_TEXT.#define.text
+msgctxt "transfrm.src#_POS_SIZE_TEXT.#define.text"
+msgid "Position and Size"
+msgstr "ਸਥਿਤੀ ਅਤੇ ਅਕਾਰ"
+
+#: transfrm.src#RID_SVXDLG_TRANSFORM.TAB_CONTROL.RID_SVXPAGE_ANGLE.pageitem.text
+msgid "Rotation"
+msgstr "ਘੁੰਮਾਓ"
+
+#: transfrm.src#RID_SVXDLG_TRANSFORM.TAB_CONTROL.RID_SVXPAGE_SLANT.pageitem.text
+msgctxt "transfrm.src#RID_SVXDLG_TRANSFORM.TAB_CONTROL.RID_SVXPAGE_SLANT.pageitem.text"
+msgid "Slant & Corner Radius"
+msgstr "Slant & Corner Radius"
+
+#: transfrm.src#RID_SVXDLG_TRANSFORM.tabdialog.text
+msgctxt "transfrm.src#RID_SVXDLG_TRANSFORM.tabdialog.text"
+msgid "Position and Size"
+msgstr "ਸਥਿਤੀ ਅਤੇ ਅਕਾਰ"
+
+#: bbdlg.src#RID_SVXDLG_BBDLG.1.RID_SVXPAGE_BORDER.pageitem.text
+msgctxt "bbdlg.src#RID_SVXDLG_BBDLG.1.RID_SVXPAGE_BORDER.pageitem.text"
+msgid "Borders"
+msgstr "ਬਾਰਡਰ"
+
+#: bbdlg.src#RID_SVXDLG_BBDLG.1.RID_SVXPAGE_BACKGROUND.pageitem.text
+msgctxt "bbdlg.src#RID_SVXDLG_BBDLG.1.RID_SVXPAGE_BACKGROUND.pageitem.text"
+msgid "Background"
+msgstr "ਬੈਕਗਰਾਊਂਡ"
+
+#: bbdlg.src#RID_SVXDLG_BBDLG.tabdialog.text
+msgid "Border / Background"
+msgstr "ਬਾਰਡਰ ਅਤੇ ਬੈਕਗਰਾਊਂਡ"
+
+#: backgrnd.src#UNLINKED_IMAGE.#define.text
+msgid "Unlinked graphic"
+msgstr "ਲਿੰਕ ਕੀਤੇ ਗਰਾਫਿਕਸ"
+
+#: backgrnd.src#RID_SVXPAGE_BACKGROUND.FT_SELECTOR.fixedtext.text
+msgid "A~s"
+msgstr "A~s"
+
+#: backgrnd.src#RID_SVXPAGE_BACKGROUND.LB_SELECTOR.1.stringlist.text
+msgctxt "backgrnd.src#RID_SVXPAGE_BACKGROUND.LB_SELECTOR.1.stringlist.text"
+msgid "Color"
+msgstr "ਰੰਗ"
+
+#: backgrnd.src#RID_SVXPAGE_BACKGROUND.LB_SELECTOR.2.stringlist.text
+msgid "Graphic"
+msgstr "ਗਰਾਫਿਕਸ"
+
+#: backgrnd.src#RID_SVXPAGE_BACKGROUND.FT_TBL_DESC.fixedtext.text
+msgid "F~or"
+msgstr "F~or"
+
+#: backgrnd.src#RID_SVXPAGE_BACKGROUND.LB_TBL_BOX.1.stringlist.text
+msgid "Cell"
+msgstr "ਸੈੱਲ"
+
+#: backgrnd.src#RID_SVXPAGE_BACKGROUND.LB_TBL_BOX.2.stringlist.text
+msgid "Row"
+msgstr "ਕਤਾਰ"
+
+#: backgrnd.src#RID_SVXPAGE_BACKGROUND.LB_TBL_BOX.3.stringlist.text
+msgctxt "backgrnd.src#RID_SVXPAGE_BACKGROUND.LB_TBL_BOX.3.stringlist.text"
+msgid "Table"
+msgstr "ਟੇਬਲ"
+
+#: backgrnd.src#RID_SVXPAGE_BACKGROUND.LB_PARA_BOX.1.stringlist.text
+msgid "Paragraph"
+msgstr "ਪ੍ਹੈਰਾ"
+
+#: backgrnd.src#RID_SVXPAGE_BACKGROUND.LB_PARA_BOX.2.stringlist.text
+msgctxt "backgrnd.src#RID_SVXPAGE_BACKGROUND.LB_PARA_BOX.2.stringlist.text"
+msgid "Character"
+msgstr "ਅੱਖਰ"
+
+#: backgrnd.src#RID_SVXPAGE_BACKGROUND.GB_BGDCOLOR.fixedline.text
+msgid "Background color"
+msgstr "ਬੈਕਗਰਾਊਂਡ ਰੰਗ"
+
+#: backgrnd.src#RID_SVXPAGE_BACKGROUND.FT_COL_TRANS.fixedtext.text
+msgctxt "backgrnd.src#RID_SVXPAGE_BACKGROUND.FT_COL_TRANS.fixedtext.text"
+msgid "~Transparency"
+msgstr "ਟਰਾਂਸਪਰੇਸੀ(~T)"
+
+#: backgrnd.src#RID_SVXPAGE_BACKGROUND.GB_FILE.fixedline.text
+msgid "File"
+msgstr "ਫਾਇਲ"
+
+#: backgrnd.src#RID_SVXPAGE_BACKGROUND.BTN_BROWSE.pushbutton.text
+msgid "~Browse..."
+msgstr "ਝਲਕ(~B)..."
+
+#: backgrnd.src#RID_SVXPAGE_BACKGROUND.BTN_LINK.checkbox.text
+msgid "~Link"
+msgstr "ਲਿੰਕ(~L)"
+
+#: backgrnd.src#RID_SVXPAGE_BACKGROUND.GB_POSITION.fixedline.text
+msgctxt "backgrnd.src#RID_SVXPAGE_BACKGROUND.GB_POSITION.fixedline.text"
+msgid "Type"
+msgstr "ਕਿਸਮ"
+
+#: backgrnd.src#RID_SVXPAGE_BACKGROUND.BTN_POSITION.radiobutton.text
+msgctxt "backgrnd.src#RID_SVXPAGE_BACKGROUND.BTN_POSITION.radiobutton.text"
+msgid "~Position"
+msgstr "ਸਥਿਤੀ(~P)"
+
+#: backgrnd.src#RID_SVXPAGE_BACKGROUND.BTN_AREA.radiobutton.text
+msgid "Ar~ea"
+msgstr "ਖੇਤਰ(~e)"
+
+#: backgrnd.src#RID_SVXPAGE_BACKGROUND.BTN_TILE.radiobutton.text
+msgctxt "backgrnd.src#RID_SVXPAGE_BACKGROUND.BTN_TILE.radiobutton.text"
+msgid "~Tile"
+msgstr "ਟਾਈਲ(~T)"
+
+#: backgrnd.src#RID_SVXPAGE_BACKGROUND.FL_GRAPH_TRANS.fixedline.text
+msgctxt "backgrnd.src#RID_SVXPAGE_BACKGROUND.FL_GRAPH_TRANS.fixedline.text"
+msgid "Transparency"
+msgstr "ਟਰਾਂਸਪਰੇਸੀ"
+
+#: backgrnd.src#RID_SVXPAGE_BACKGROUND.BTN_PREVIEW.checkbox.text
+msgid "Pre~view"
+msgstr "ਝਲਕ(~V)"
+
+#: backgrnd.src#RID_SVXPAGE_BACKGROUND.STR_BROWSE.string.text
+msgid "Find graphics"
+msgstr "ਗਰਾਫਿਕਸ ਲੱਭੋ"
+
+#: backgrnd.src#RID_SVXPAGE_BACKGROUND.tabpage.text
+msgctxt "backgrnd.src#RID_SVXPAGE_BACKGROUND.tabpage.text"
+msgid "Background"
+msgstr "ਬੈਕਗਰਾਊਂਡ"
+
+#: numpages.src#RID_SVXPAGE_PICK_BULLET.FL_VALUES.fixedline.text
+msgctxt "numpages.src#RID_SVXPAGE_PICK_BULLET.FL_VALUES.fixedline.text"
+msgid "Selection"
+msgstr "ਚੋਣ"
+
+#: numpages.src#RID_SVXPAGE_PICK_SINGLE_NUM.FL_VALUES.fixedline.text
+msgctxt "numpages.src#RID_SVXPAGE_PICK_SINGLE_NUM.FL_VALUES.fixedline.text"
+msgid "Selection"
+msgstr "ਚੋਣ"
+
+#: numpages.src#RID_SVXPAGE_PICK_NUM.FL_VALUES.fixedline.text
+msgctxt "numpages.src#RID_SVXPAGE_PICK_NUM.FL_VALUES.fixedline.text"
+msgid "Selection"
+msgstr "ਚੋਣ"
+
+#: numpages.src#RID_SVXPAGE_PICK_BMP.FL_VALUES.fixedline.text
+msgctxt "numpages.src#RID_SVXPAGE_PICK_BMP.FL_VALUES.fixedline.text"
+msgid "Selection"
+msgstr "ਚੋਣ"
+
+#: numpages.src#RID_SVXPAGE_PICK_BMP.CB_LINKED.checkbox.text
+msgid "~Link graphics"
+msgstr "ਲਿੰਕ ਕੀਤੇ ਗਰਾਫਿਕਸ"
+
+#: numpages.src#RID_SVXPAGE_PICK_BMP.FT_ERROR.fixedtext.text
+msgid "The Gallery theme 'Bullets' is empty (no graphics)."
+msgstr "ਗੈਲਰੀ ਥੀਮ 'ਗੋਲੇ' ਖਾਲੀ ਹੈ (ਕੋਈ ਗਰਾਫਿਕਸ ਨਹੀਂ)।"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_LEVEL.fixedtext.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_LEVEL.fixedtext.text"
+msgid "Level"
+msgstr "ਲੈਵਲ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FL_FORMAT.fixedline.text
+msgid "Format"
+msgstr "ਫਾਰਮੈਟ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_FMT.fixedtext.text
+msgid "~Numbering"
+msgstr "ਗਿਣਤੀ(~N)"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.1.stringlist.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.1.stringlist.text"
+msgid "1, 2, 3, ..."
+msgstr "1, 2, 3, ..."
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.2.stringlist.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.2.stringlist.text"
+msgid "A, B, C, ..."
+msgstr "A, B, C, ..."
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.3.stringlist.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.3.stringlist.text"
+msgid "a, b, c, ..."
+msgstr "A, B, C, ..."
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.4.stringlist.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.4.stringlist.text"
+msgid "I, II, III, ..."
+msgstr "I, II, III, ..."
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.5.stringlist.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.5.stringlist.text"
+msgid "i, ii, iii, ..."
+msgstr "i, ii, iii, ..."
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.6.stringlist.text
+msgid "A, .., AA, .., AAA, ..."
+msgstr "A, .., AA, .., AAA, ..."
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.7.stringlist.text
+msgid "a, .., aa, .., aaa, ..."
+msgstr "a, .., aa, .., aaa, ..."
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.8.stringlist.text
+msgid "Bullet"
+msgstr "ਬਿੰਦੀ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.9.stringlist.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.9.stringlist.text"
+msgid "Graphics"
+msgstr "ਗਰਾਫਿਕਸ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.10.stringlist.text
+msgid "Linked graphics"
+msgstr "ਲਿੰਕ ਕੀਤੇ ਗਰਾਫਿਕਸ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.11.stringlist.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.11.stringlist.text"
+msgid "None"
+msgstr "ਕੋਈ ਨਹੀਂ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.12.stringlist.text
+msgid "Native Numbering"
+msgstr "ਮੁੱਢਲੀ ਗਿਣਤੀ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.13.stringlist.text
+msgid "А, Б, .., Аа, Аб, ... (Bulgarian)"
+msgstr "А, Б, .., Аа, Аб, ... (ਬੁਲਗਾਰੀਆਈ)"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.14.stringlist.text
+msgid "а, б, .., аа, аб, ... (Bulgarian)"
+msgstr "а, б, .., аа, аб, ... (ਬੁਲਗੇਰੀਆਈ)"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.15.stringlist.text
+msgid "А, Б, .., Аа, Бб, ... (Bulgarian)"
+msgstr "А, Б, .., Аа, Бб, ... (ਬੁਲਗਾਰੀਆਈ)"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.16.stringlist.text
+msgid "а, б, .., аа, бб, ... (Bulgarian)"
+msgstr "а, б, .., аа, бб, ... (ਬੁਲਗੇਰੀਆਈ)"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.17.stringlist.text
+msgid "А, Б, .., Аа, Аб, ... (Russian)"
+msgstr "А, Б, .., Аа, Аб, ... (ਰੂਸੀ)"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.18.stringlist.text
+msgid "а, б, .., аа, аб, ... (Russian)"
+msgstr "а, б, .., аа, аб, ... (ਰੂਸੀ)"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.19.stringlist.text
+msgid "А, Б, .., Аа, Бб, ... (Russian)"
+msgstr "А, Б, .., Аа, Бб, ... (ਰੂਸ)"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.20.stringlist.text
+msgid "а, б, .., аа, бб, ... (Russian)"
+msgstr "а, б, .., аа, бб, ... (ਰੂਸੀ)"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.21.stringlist.text
+msgid "А, Б, .., Аа, Аб, ... (Serbian)"
+msgstr "А, Б, .., Аа, Аб, ... (ਸਰਬੀਆਈ)"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.22.stringlist.text
+msgid "а, б, .., аа, аб, ... (Serbian)"
+msgstr "а, б, .., аа, аб, ... (ਸਰਬੀਆਈ)"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.23.stringlist.text
+msgid "А, Б, .., Аа, Бб, ... (Serbian)"
+msgstr "А, Б, .., Аа, Бб, ... (ਸਰਬੀਆਈ)"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.24.stringlist.text
+msgid "а, б, .., аа, бб, ... (Serbian)"
+msgstr "а, б, .., аа, бб, ... (ਸਰਬੀਆਈ)"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.25.stringlist.text
+msgid "Α, Β, Γ, ... (Greek Upper Letter)"
+msgstr "Α, Β, Γ, ... (ਵੱਡੇ ਗਰੀਕ ਅੱਖਰ)"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.26.stringlist.text
+msgid "α, β, γ, ... (Greek Lower Letter)"
+msgstr "α, β, γ, ... (ਛੋਟੇ ਗਰੀਕ ਅੱਖਰ)"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_PREFIX.fixedtext.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_PREFIX.fixedtext.text"
+msgid "Before"
+msgstr "ਪਹਿਲਾਂ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_SUFFIX.fixedtext.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_SUFFIX.fixedtext.text"
+msgid "After"
+msgstr "ਬਾਅਦ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_CHARFMT.fixedtext.text
+msgid "~Character Style"
+msgstr "ਅੱਖਰ ਸਟਾਈਲ(~C)"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_BUL_COLOR.fixedtext.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_BUL_COLOR.fixedtext.text"
+msgid "Color"
+msgstr "ਰੰਗ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_BUL_REL_SIZE.fixedtext.text
+msgid "~Relative size"
+msgstr "~ਢੁੱਕਵਾਂ ਫੋਂਟ ਸਾਈਜ਼"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_ALL_LEVEL.fixedtext.text
+msgid "Show sublevels"
+msgstr "ਸਬਲੈਵਲ ਵੇਖਾਓ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_START.fixedtext.text
+msgid "Start at"
+msgstr "ਸ਼ੁਰੂ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_ALIGN.fixedtext.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_ALIGN.fixedtext.text"
+msgid "~Alignment"
+msgstr "ਸ਼ਫਬੰਦੀ(~A)"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ALIGN.1.stringlist.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ALIGN.1.stringlist.text"
+msgid "Left"
+msgstr "ਖੱਬੇ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ALIGN.2.stringlist.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ALIGN.2.stringlist.text"
+msgid "Centered"
+msgstr "ਸੈਂਟਰਡ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ALIGN.3.stringlist.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ALIGN.3.stringlist.text"
+msgid "Right"
+msgstr "ਸੱਜੇ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.STR_BULLET.string.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.STR_BULLET.string.text"
+msgid "Character"
+msgstr "ਅੱਖਰ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_BITMAP.fixedtext.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_BITMAP.fixedtext.text"
+msgid "Graphics"
+msgstr "ਗਰਾਫਿਕਸ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.MB_BITMAP.MN_GRAPHIC_DLG.menuitem.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.MB_BITMAP.MN_GRAPHIC_DLG.menuitem.text"
+msgid "From file..."
+msgstr "ਫਾਇਲ ਤੋਂ..."
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.MB_BITMAP.MN_GALLERY.menuitem.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.MB_BITMAP.MN_GALLERY.menuitem.text"
+msgid "Gallery"
+msgstr "ਗੈਲਰੀ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.MB_BITMAP.menubutton.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.MB_BITMAP.menubutton.text"
+msgid "Select..."
+msgstr "ਚੁਣੋ..."
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_SIZE.fixedtext.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_SIZE.fixedtext.text"
+msgid "Width"
+msgstr "ਚੌੜਾਈ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_MULT.fixedtext.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_MULT.fixedtext.text"
+msgid "Height"
+msgstr "ਉਚਾਈ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.CB_RATIO.checkbox.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.CB_RATIO.checkbox.text"
+msgid "Keep ratio"
+msgstr "ਰੇਸ਼ੋ ਰੱਖੋ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_ORIENT.fixedtext.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_ORIENT.fixedtext.text"
+msgid "Alignment"
+msgstr "ਇਕਸਾਰ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT.1.stringlist.text
+msgid "Top of baseline"
+msgstr "ਬੇਸਲਾਈਨ ਦਾ ਸਿਖਰ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT.2.stringlist.text
+msgid "Center of baseline"
+msgstr "ਬੇਸਲਾਈਨ ਦਾ ਕੇਂਦਰ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT.3.stringlist.text
+msgid "Bottom of baseline"
+msgstr "ਬੇਸਲਾਈਨ ਦਾ ਥੱਲਾ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT.4.stringlist.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT.4.stringlist.text"
+msgid "Top of character"
+msgstr "ਅੱਖਰ ਦੇ ਉੱਤੇ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT.5.stringlist.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT.5.stringlist.text"
+msgid "Center of character"
+msgstr "ਅੱਖਰ ਦਾ ਮੱਧ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT.6.stringlist.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT.6.stringlist.text"
+msgid "Bottom of character"
+msgstr "ਅੱਖਰ ਦੇ ਹੇਠਾਂ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT.7.stringlist.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT.7.stringlist.text"
+msgid "Top of line"
+msgstr "ਲਾਈਨ ਦੇ ਉੱਤੇ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT.8.stringlist.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT.8.stringlist.text"
+msgid "Center of line"
+msgstr "ਲਾਇਨ ਦਾ ਮੱਧ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT.9.stringlist.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT.9.stringlist.text"
+msgid "Bottom of line"
+msgstr "ਲਾਈਨ ਦੇ ਹੇਠਾਂ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FL_SAME_LEVEL.fixedline.text
+msgid "All levels"
+msgstr "ਸਭ ਲੈਵਲ"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.CB_SAME_LEVEL.checkbox.text
+msgid "~Consecutive numbering"
+msgstr "~Consecutive numbering"
+
+#: numpages.src#RID_SVXPAGE_NUM_OPTIONS.ST_POPUP_EMPTY_ENTRY.string.text
+msgid "There are no graphics in the 'Bullets' Gallery theme."
+msgstr "ਗੈਲਰੀ ਥੀਮ 'ਗੋਲੇ' ਖਾਲੀ ਹੈ (ਕੋਈ ਗਰਾਫਿਕਸ ਨਹੀਂ)।"
+
+#: numpages.src#RID_SVXPAGE_NUM_POSITION.FT_LEVEL.fixedtext.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_POSITION.FT_LEVEL.fixedtext.text"
+msgid "Level"
+msgstr "ਲੈਵਲ"
+
+#: numpages.src#RID_SVXPAGE_NUM_POSITION.FL_POSITION.fixedline.text
+msgid "Position and spacing"
+msgstr "ਸਥਿਤੀ ਅਤੇ ਖਾਲੀ ਥਾਂ"
+
+#: numpages.src#RID_SVXPAGE_NUM_POSITION.FT_BORDERDIST.fixedtext.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_POSITION.FT_BORDERDIST.fixedtext.text"
+msgid "Indent"
+msgstr "ਹਾਸ਼ੀਏ ਤੋਂ ਦੂਰ"
+
+#: numpages.src#RID_SVXPAGE_NUM_POSITION.CB_RELATIVE.checkbox.text
+msgid "Relati~ve"
+msgstr "ਅਨੁਸਾਰੀ(~v)"
+
+#: numpages.src#RID_SVXPAGE_NUM_POSITION.FT_INDENT.fixedtext.text
+msgid "Width of numbering"
+msgstr "ਗਿਣਤੀ ਦੀ ਚੌੜਾਈ"
+
+#: numpages.src#RID_SVXPAGE_NUM_POSITION.FT_NUMDIST.fixedtext.text
+msgid "Minimum space numbering <-> text"
+msgstr "ਘੱਟੋ-ਘੱਟ ਖਾਲੀ ਥਾਂ ਗਿਣਤੀ <-> ਟੈਕਸਟ"
+
+#: numpages.src#RID_SVXPAGE_NUM_POSITION.FT_ALIGN.fixedtext.text
+msgid "N~umbering alignment"
+msgstr "ਗਿਣਤੀ ਇਕਸਾਰ(~u)"
+
+#: numpages.src#RID_SVXPAGE_NUM_POSITION.LB_ALIGN.1.stringlist.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_POSITION.LB_ALIGN.1.stringlist.text"
+msgid "Left"
+msgstr "ਖੱਬੇ"
+
+#: numpages.src#RID_SVXPAGE_NUM_POSITION.LB_ALIGN.2.stringlist.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_POSITION.LB_ALIGN.2.stringlist.text"
+msgid "Centered"
+msgstr "ਸੈਂਟਰਡ"
+
+#: numpages.src#RID_SVXPAGE_NUM_POSITION.LB_ALIGN.3.stringlist.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_POSITION.LB_ALIGN.3.stringlist.text"
+msgid "Right"
+msgstr "ਸੱਜੇ"
+
+#: numpages.src#RID_SVXPAGE_NUM_POSITION.FT_LABEL_FOLLOWED_BY.fixedtext.text
+msgid "Numbering followed by"
+msgstr "ਗਿਣਤੀ ਅੱਗੇ"
+
+#: numpages.src#RID_SVXPAGE_NUM_POSITION.LB_LABEL_FOLLOWED_BY.1.stringlist.text
+msgid "Tab stop"
+msgstr "ਟੈਬ ਰੋਕੋ"
+
+#: numpages.src#RID_SVXPAGE_NUM_POSITION.LB_LABEL_FOLLOWED_BY.2.stringlist.text
+msgid "Space"
+msgstr "ਖਾਲੀ ਥਾਂ"
+
+#: numpages.src#RID_SVXPAGE_NUM_POSITION.LB_LABEL_FOLLOWED_BY.3.stringlist.text
+msgid "Nothing"
+msgstr "ਕੁਝ ਨਹੀਂ"
+
+#: numpages.src#RID_SVXPAGE_NUM_POSITION.FT_LISTTAB.fixedtext.text
+msgid "at"
+msgstr "ਉੱਤੇ"
+
+#: numpages.src#RID_SVXPAGE_NUM_POSITION.FT_ALIGNED_AT.fixedtext.text
+msgid "Aligned at"
+msgstr "ਇਕਸਾਰ"
+
+#: numpages.src#RID_SVXPAGE_NUM_POSITION.FT_INDENT_AT.fixedtext.text
+msgid "Indent at"
+msgstr "ਹਾਸ਼ੀਏ ਤੋਂ ਦੂਰ"
+
+#: numpages.src#RID_SVXPAGE_NUM_POSITION.PB_STANDARD.pushbutton.text
+msgctxt "numpages.src#RID_SVXPAGE_NUM_POSITION.PB_STANDARD.pushbutton.text"
+msgid "Default"
+msgstr "ਡਿਫਾਲਟ"
+
+#: numpages.src#RID_STR_EDIT_GRAPHIC.string.text
+msgid "Link"
+msgstr "ਲਿੰਕ"
+
+#: strings.src#RID_SVXSTR_DESC_GRADIENT.string.text
+msgid "Please enter a name for the gradient:"
+msgstr "ਕਿਰਪਾ ਕਰਕੇ ਨਵੇਂ ਤੀਰਮੁੱਖ ਲਈ ਨਾਂ ਦਿਓ:"
+
+#: strings.src#RID_SVXSTR_ASK_DEL_GRADIENT.string.text
+msgid "Do you want to delete the gradient?"
+msgstr "ਕੀ ਤੁਸੀਂ ਗਰੇਡੀਐਂਟ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+
+#: strings.src#RID_SVXSTR_ASK_CHANGE_GRADIENT.string.text
+msgid ""
+"The gradient was modified without saving. \n"
+"Modify the selected gradient or add a new gradient."
+msgstr ""
+"ਬਰੇਡੀਐਂਟ ਨੂੰ ਬਿਨਾ ਸੰਭਾਲੇ ਸੋਧਿਆ ਗਿਆ ਹੈ। \n"
+"Modify the selected gradient or add a new gradient."
+
+#: strings.src#RID_SVXSTR_DESC_NEW_BITMAP.string.text
+msgid "Please enter a name for the bitmap:"
+msgstr "ਕਿਰਪਾ ਕਰਕੇ ਨਵੇਂ ਤੀਰਮੁੱਖ ਲਈ ਨਾਂ ਦਿਓ:"
+
+#: strings.src#RID_SVXSTR_DESC_EXT_BITMAP.string.text
+msgid "Please enter a name for the external bitmap:"
+msgstr "ਕਿਰਪਾ ਕਰਕੇ ਨਵੇਂ ਤੀਰਮੁੱਖ ਲਈ ਨਾਂ ਦਿਓ:"
+
+#: strings.src#RID_SVXSTR_ASK_DEL_BITMAP.string.text
+msgid "Are you sure you want to delete the bitmap?"
+msgstr "ਕੀ ਤੁਸੀਂ ਬਿੱਟਮੈਪ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+
+#: strings.src#RID_SVXSTR_ASK_CHANGE_BITMAP.string.text
+msgid ""
+"The bitmap was modified without saving. \n"
+"Modify the selected bitmap or add a new bitmap."
+msgstr ""
+"The bitmap was modified without saving. \n"
+"Modify the selected bitmap or add a new bitmap."
+
+#: strings.src#RID_SVXSTR_DESC_LINESTYLE.string.text
+msgid "Please enter a name for the line style:"
+msgstr "ਕਿਰਪਾ ਕਰਕੇ ਨਵੇਂ ਤੀਰਮੁੱਖ ਲਈ ਨਾਂ ਦਿਓ:"
+
+#: strings.src#RID_SVXSTR_ASK_DEL_LINESTYLE.string.text
+msgid "Do you want to delete the line style?"
+msgstr "ਕੀ ਤੁਸੀਂ ਲਾਈਨ ਸਟਾਈਲ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+
+#: strings.src#RID_SVXSTR_ASK_CHANGE_LINESTYLE.string.text
+msgid ""
+"The line style was modified without saving. \n"
+"Modify the selected line style or add a new line style."
+msgstr ""
+"The line style was modified without saving. \n"
+"Modify the selected line style or add a new line style."
+
+#: strings.src#RID_SVXSTR_DESC_HATCH.string.text
+msgid "Please enter a name for the hatching:"
+msgstr "ਕਿਰਪਾ ਕਰਕੇ ਨਵੇਂ ਤੀਰਮੁੱਖ ਲਈ ਨਾਂ ਦਿਓ:"
+
+#: strings.src#RID_SVXSTR_ASK_DEL_HATCH.string.text
+msgid "Do you want to delete the hatching?"
+msgstr "ਕੀ ਤੁਸੀਂ ਹੈਚਿੰਗ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+
+#: strings.src#RID_SVXSTR_ASK_CHANGE_HATCH.string.text
+msgid ""
+"The hatching type was modified but not saved. \n"
+"Modify the selected hatching type or add a new hatching type."
+msgstr ""
+"The hatching type was modified but not saved. \n"
+"Modify the selected hatching type or add a new hatching type."
+
+#: strings.src#RID_SVXSTR_CHANGE.string.text
+msgid "Modify"
+msgstr "ਸੋਧ"
+
+#: strings.src#RID_SVXSTR_ADD.string.text
+msgctxt "strings.src#RID_SVXSTR_ADD.string.text"
+msgid "Add"
+msgstr "ਸ਼ਾਮਲ"
+
+#: strings.src#RID_SVXSTR_DESC_COLOR.string.text
+msgid "Please enter a name for the new color:"
+msgstr "ਕਿਰਪਾ ਕਰਕੇ ਨਵੇਂ ਤੀਰਮੁੱਖ ਲਈ ਨਾਂ ਦਿਓ:"
+
+#: strings.src#RID_SVXSTR_ASK_DEL_COLOR.string.text
+msgid "Do you want to delete the color?"
+msgstr "ਕੀ ਤੁਸੀਂ ਯਕੀਨਨ ਯੂਜ਼ਰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+
+#: strings.src#RID_SVXSTR_ASK_CHANGE_COLOR.string.text
+msgid ""
+"The color was modified without saving.\n"
+"Modify the selected color or add a new color."
+msgstr ""
+"The color was modified without saving.\n"
+"Modify the selected color or add a new color."
+
+#: strings.src#RID_SVXSTR_TABLE.string.text
+msgctxt "strings.src#RID_SVXSTR_TABLE.string.text"
+msgid "Table"
+msgstr "ਟੇਬਲ"
+
+#: strings.src#RID_SVXSTR_WRITE_DATA_ERROR.string.text
+msgid "The file could not be saved!"
+msgstr "ਫਾਇਲ਼ ਨੂੰ ਸੰਭਾਲਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ!"
+
+#: strings.src#RID_SVXSTR_READ_DATA_ERROR.string.text
+msgid "The file could not be loaded!"
+msgstr "ਫਾਇਲ ਨੂੰ ਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ!"
+
+#: strings.src#RID_SVXSTR_WARN_TABLE_OVERWRITE.string.text
+msgid "The list was modified without saving. Would you like to save the list now?"
+msgstr "ਕੀ ਤੁਸੀਂ ਤਬਦੀਲੀਆਂ ਸੰਭਾਲੀਆਂ ਚਾਹੁੰਦੇ ਹੋ?"
+
+#: strings.src#RID_SVXSTR_WARN_NAME_DUPLICATE.string.text
+msgid ""
+"The name you have entered already exists. \n"
+"Please choose another name."
+msgstr ""
+"ਇੰਦਰਾਜ਼ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ।\n"
+"ਵੱਖਰਾ ਨਾਂ ਚੁਣੋ ਜੀ।"
+
+#: strings.src#RID_SVXSTR_DESC_LINEEND.string.text
+msgid "Please enter a name for the new arrowhead:"
+msgstr "ਕਿਰਪਾ ਕਰਕੇ ਨਵੇਂ ਤੀਰਮੁੱਖ ਲਈ ਨਾਂ ਦਿਓ:"
+
+#: strings.src#RID_SVXSTR_ASK_DEL_LINEEND.string.text
+msgid "Do you want to delete the arrowhead?"
+msgstr "ਕੀ ਤੁਸੀਂ ਐਰੋਹੈੱਡ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+
+#: strings.src#RID_SVXSTR_ASK_CHANGE_LINEEND.string.text
+msgid ""
+"The arrowhead was modified without saving.\n"
+"Would you like to save the arrowhead now?"
+msgstr ""
+"The arrowhead was modified without saving.\n"
+"Would you like to save the arrowhead now?"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.FL_ALIGNMENT.fixedline.text
+msgid "Text alignment"
+msgstr "ਪਾਠ ਸ਼ਫ਼ਬੰਦੀ"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.FT_HORALIGN.fixedtext.text
+msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.FT_HORALIGN.fixedtext.text"
+msgid "Hori~zontal"
+msgstr "ਖਿਤਿਜੀ(~Z)"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.LB_HORALIGN.1.stringlist.text
+msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.LB_HORALIGN.1.stringlist.text"
+msgid "Default"
+msgstr "ਡਿਫਾਲਟ"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.LB_HORALIGN.2.stringlist.text
+msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.LB_HORALIGN.2.stringlist.text"
+msgid "Left"
+msgstr "ਖੱਬੇ"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.LB_HORALIGN.3.stringlist.text
+msgid "Center"
+msgstr "ਕੇਂਦਰ"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.LB_HORALIGN.4.stringlist.text
+msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.LB_HORALIGN.4.stringlist.text"
+msgid "Right"
+msgstr "ਸੱਜੇ"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.LB_HORALIGN.5.stringlist.text
+msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.LB_HORALIGN.5.stringlist.text"
+msgid "Justified"
+msgstr "ਅਨੁਕੂਲ"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.LB_HORALIGN.6.stringlist.text
+msgid "Filled"
+msgstr "ਭਰੇ"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.LB_HORALIGN.7.stringlist.text
+msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.LB_HORALIGN.7.stringlist.text"
+msgid "Distributed"
+msgstr "ਵੰਡੇ"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.FT_INDENT.fixedtext.text
+msgid "I~ndent"
+msgstr "ਟੇਡਾ(~n)"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.FT_VERALIGN.fixedtext.text
+msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.FT_VERALIGN.fixedtext.text"
+msgid "~Vertical"
+msgstr "ਵਰਟੀਕਲ(~V)"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.LB_VERALIGN.1.stringlist.text
+msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.LB_VERALIGN.1.stringlist.text"
+msgid "Default"
+msgstr "ਡਿਫਾਲਟ"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.LB_VERALIGN.2.stringlist.text
+msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.LB_VERALIGN.2.stringlist.text"
+msgid "Top"
+msgstr "ਉੱਤੇ"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.LB_VERALIGN.3.stringlist.text
+msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.LB_VERALIGN.3.stringlist.text"
+msgid "Middle"
+msgstr "ਮੱਧ"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.LB_VERALIGN.4.stringlist.text
+msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.LB_VERALIGN.4.stringlist.text"
+msgid "Bottom"
+msgstr "ਹੇਠਾਂ"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.LB_VERALIGN.5.stringlist.text
+msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.LB_VERALIGN.5.stringlist.text"
+msgid "Justified"
+msgstr "ਅਨੁਕੂਲ"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.LB_VERALIGN.6.stringlist.text
+msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.LB_VERALIGN.6.stringlist.text"
+msgid "Distributed"
+msgstr "ਵੰਡੇ"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.FL_ORIENTATION.fixedline.text
+msgid "Text orientation"
+msgstr "ਟੈਕਸਟ ਘੁੰਮਾਓ"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.BTN_TXTSTACKED.tristatebox.text
+msgid "Ve~rtically stacked"
+msgstr "ਵਰਟੀਕਲ ਸਟੈਕ(~r)"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.FT_DEGREES.fixedtext.text
+msgid "De~grees"
+msgstr "ਡਿਗਰੀਆਂ(~g)"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.FT_BORDER_LOCK.fixedtext.text
+msgid "Re~ference edge"
+msgstr "ਹਵਾਲਾ ਇੱਜ(~f)"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.BTN_ASIAN_VERTICAL.tristatebox.text
+msgid "Asian layout ~mode"
+msgstr "ਏਸ਼ੀਅਨ ਲੇਆਊਟ ਮੋਡ(~m)"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.FL_WRAP.fixedline.text
+msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.FL_WRAP.fixedline.text"
+msgid "Properties"
+msgstr "ਵਿਸ਼ੇਸ਼ਤਾ"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.BTN_WRAP.tristatebox.text
+msgid "~Wrap text automatically"
+msgstr "ਪਾਠ ਸਵੈ ਹੀ ਲਪੇਟੋ(~W)"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.BTN_HYPH.tristatebox.text
+msgid "Hyphenation ~active"
+msgstr "ਹਾਈਫਨੇਸ਼ਨ ਐਕਟਿਵ(~a)"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.BTN_SHRINK.tristatebox.text
+msgid "~Shrink to fit cell size"
+msgstr "ਸੈੱਲ ਅਕਾਰ `ਚ ਫਿੱਟ ਹੋਣ ਲਈ ਛੋਟਾ ਕਰੋ(~S)"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.FT_TEXTFLOW.fixedtext.text
+msgid "Te~xt direction"
+msgstr "ਟੈਕਸਟ ਦਿਸ਼ਾ(~x)"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.STR_BOTTOMLOCK.string.text
+msgid "Text Extension From Lower Cell Border"
+msgstr "Text Extension From Lower Cell Border"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.STR_TOPLOCK.string.text
+msgid "Text Extension From Upper Cell Border"
+msgstr "Text Extension From Upper Cell Border"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.STR_CELLLOCK.string.text
+msgid "Text Extension Inside Cell"
+msgstr "ਸੈੱਲ ਵਿੱਚ ਟੈਕਸਟ ਐਕਸਟੈਂਸ਼ਨ"
+
+#: align.src#RID_SVXPAGE_ALIGNMENT.tabpage.text
+msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.tabpage.text"
+msgid "Alignment"
+msgstr "ਸ਼ਫਬੰਦੀ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.FL_WEST.fixedline.text
+msgid "Western text font"
+msgstr "ਪੱਛਮੀ ਟੈਕਸਟ ਫੌਂਟ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE.1.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE.1.stringlist.text"
+msgid "Normal"
+msgstr "ਸਧਾਰਨ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE.2.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE.2.stringlist.text"
+msgid "Italic"
+msgstr "ਤਿਰਛੇ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE.3.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE.3.stringlist.text"
+msgid "Bold"
+msgstr "ਗੂੜਾ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE.4.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE.4.stringlist.text"
+msgid "Bold italic"
+msgstr "ਗੂੜੇ ਤਿਰਛੇ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE_NOCJK.1.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE_NOCJK.1.stringlist.text"
+msgid "Normal"
+msgstr "ਸਧਾਰਨ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE_NOCJK.2.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE_NOCJK.2.stringlist.text"
+msgid "Italic"
+msgstr "ਤਿਰਛੇ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE_NOCJK.3.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE_NOCJK.3.stringlist.text"
+msgid "Bold"
+msgstr "ਗੂੜਾ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE_NOCJK.4.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE_NOCJK.4.stringlist.text"
+msgid "Bold italic"
+msgstr "ਗੂੜੇ ਤਿਰਛੇ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_WEST_SIZE.fixedtext.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_WEST_SIZE.fixedtext.text"
+msgid "Size"
+msgstr "ਅਕਾਰ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_WEST_SIZE_NOCJK.fixedtext.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_WEST_SIZE_NOCJK.fixedtext.text"
+msgid "Size"
+msgstr "ਅਕਾਰ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_WEST_LANG.fixedtext.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_WEST_LANG.fixedtext.text"
+msgid "Language"
+msgstr "ਭਾਸ਼ਾ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_WEST_LANG_NOCJK.fixedtext.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_WEST_LANG_NOCJK.fixedtext.text"
+msgid "~Language"
+msgstr "~ਭਾਸ਼ਾ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.FL_EAST.fixedline.text
+msgid "Asian text font"
+msgstr "ਏਸ਼ੀਅਨ ਟੈਕਸਟ ਫੌਂਟ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_EAST_STYLE.1.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_EAST_STYLE.1.stringlist.text"
+msgid "Normal"
+msgstr "ਸਧਾਰਨ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_EAST_STYLE.2.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_EAST_STYLE.2.stringlist.text"
+msgid "Italic"
+msgstr "ਤਿਰਛੇ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_EAST_STYLE.3.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_EAST_STYLE.3.stringlist.text"
+msgid "Bold"
+msgstr "ਗੂੜਾ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_EAST_STYLE.4.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_EAST_STYLE.4.stringlist.text"
+msgid "Bold italic"
+msgstr "ਗੂੜੇ ਤਿਰਛੇ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_EAST_SIZE.fixedtext.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_EAST_SIZE.fixedtext.text"
+msgid "Size"
+msgstr "ਅਕਾਰ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_EAST_LANG.fixedtext.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_EAST_LANG.fixedtext.text"
+msgid "Language"
+msgstr "ਭਾਸ਼ਾ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.FL_CTL.fixedline.text
+msgid "CTL font"
+msgstr "CLT ਫੋਂਟ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_CTL_STYLE.1.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_CTL_STYLE.1.stringlist.text"
+msgid "Normal"
+msgstr "ਸਧਾਰਨ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_CTL_STYLE.2.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_CTL_STYLE.2.stringlist.text"
+msgid "Italic"
+msgstr "ਤਿਰਛੇ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_CTL_STYLE.3.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_CTL_STYLE.3.stringlist.text"
+msgid "Bold"
+msgstr "ਗੂੜਾ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_CTL_STYLE.4.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_CTL_STYLE.4.stringlist.text"
+msgid "Bold italic"
+msgstr "ਗੂੜੇ ਤਿਰਛੇ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_CTL_SIZE.fixedtext.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_CTL_SIZE.fixedtext.text"
+msgid "Size"
+msgstr "ਅਕਾਰ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_CTL_LANG.fixedtext.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_CTL_LANG.fixedtext.text"
+msgid "Language"
+msgstr "ਭਾਸ਼ਾ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.WIN_CHAR_PREVIEW.window.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.WIN_CHAR_PREVIEW.window.text"
+msgid "Example"
+msgstr "ਉਦਾਹਰਨ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.FL_COLOR2.fixedline.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.FL_COLOR2.fixedline.text"
+msgid "Color"
+msgstr "ਰੰਗ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_COLOR2.fixedtext.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_COLOR2.fixedtext.text"
+msgid "Font ~color"
+msgstr "ਫੋਂਟ ਰੰਗ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.STR_CHARNAME_NOSTYLE.string.text
+msgid "No %1"
+msgstr "ਨਹੀਂ %1"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.STR_CHARNAME_TRANSPARENT.string.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.STR_CHARNAME_TRANSPARENT.string.text"
+msgid "Transparent"
+msgstr "ਪਾਰਦਰਸ਼ੀ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.STR_CHARNAME_FAMILY.string.text
+msgid "Family"
+msgstr "ਪਰਿਵਾਰ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.STR_CHARNAME_FONT.string.text
+msgid "Font"
+msgstr "ਫੋਂਟ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.STR_CHARNAME_STYLE.string.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.STR_CHARNAME_STYLE.string.text"
+msgid "Style"
+msgstr "ਸਟਾਇਲ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_NAME.STR_CHARNAME_TYPEFACE.string.text
+msgid "Typeface"
+msgstr "ਟਾਇਪਫੇਸ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.FT_FONTCOLOR.fixedtext.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.FT_FONTCOLOR.fixedtext.text"
+msgid "Font ~color"
+msgstr "ਫੋਂਟ ਰੰਗ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.FT_EFFECTS.fixedtext.text
+msgid "~Effects"
+msgstr "~ਪ੍ਰਭਾਵ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EFFECTS2.1.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EFFECTS2.1.stringlist.text"
+msgid "(Without)"
+msgstr "(ਬਿਨਾਂ)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EFFECTS2.2.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EFFECTS2.2.stringlist.text"
+msgid "Capitals"
+msgstr "ਵੱਡੇ ਅੱਖਰ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EFFECTS2.3.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EFFECTS2.3.stringlist.text"
+msgid "Lowercase"
+msgstr "ਛੋਟੇ ਅੱਖਰ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EFFECTS2.4.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EFFECTS2.4.stringlist.text"
+msgid "Title"
+msgstr "ਟਾਈਟਲ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EFFECTS2.5.stringlist.text
+msgid "Small capitals"
+msgstr "ਛੋਟਾ ਕੈਪੀਟਲ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.FT_RELIEF.fixedtext.text
+msgid "~Relief"
+msgstr "ਰਾਹਤ:"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_RELIEF.1.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_RELIEF.1.stringlist.text"
+msgid "(Without)"
+msgstr "(ਬਿਨਾਂ)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_RELIEF.2.stringlist.text
+msgid "Embossed"
+msgstr "ਉਭਰਿਆ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_RELIEF.3.stringlist.text
+msgid "Engraved"
+msgstr "ਖੋਦਿਆ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.CB_OUTLINE.tristatebox.text
+msgid "Out~line"
+msgstr "ਆਉਟਲਾਈਨ(~L)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.CB_SHADOW.tristatebox.text
+msgid "Sha~dow"
+msgstr "ਪਰਛਾਵਾਂ(~d)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.CB_BLINKING.tristatebox.text
+msgid "~Blinking"
+msgstr "~ਝਪਕਣਾ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.CB_CHARHIDDEN.tristatebox.text
+msgid "H~idden"
+msgstr "ਓਹਲੇ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.FT_OVERLINE.fixedtext.text
+msgid "~Overlining"
+msgstr "ਓਵਰਲਾਈਨਿੰਗ(~O)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.1.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.1.stringlist.text"
+msgid "(Without)"
+msgstr "(ਬਿਨਾਂ)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.2.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.2.stringlist.text"
+msgid "Single"
+msgstr "ਇਕਹੇਰੀ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.3.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.3.stringlist.text"
+msgid "Double"
+msgstr "ਡਬਲ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.4.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.4.stringlist.text"
+msgid "Bold"
+msgstr "ਗੂੜਾ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.5.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.5.stringlist.text"
+msgid "Dotted"
+msgstr "ਬਿੰਦੂ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.6.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.6.stringlist.text"
+msgid "Dotted (Bold)"
+msgstr "ਬਿੰਦੂ(ਗੂੜ੍ਹੇ)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.7.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.7.stringlist.text"
+msgid "Dash"
+msgstr "ਡੈਸ਼"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.8.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.8.stringlist.text"
+msgid "Dash (Bold)"
+msgstr "ਡੈਸ਼ (ਗੂੜ੍ਹੀ)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.9.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.9.stringlist.text"
+msgid "Long Dash"
+msgstr "ਲੰਮਾ ਡੈਸ਼"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.10.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.10.stringlist.text"
+msgid "Long Dash (Bold)"
+msgstr "ਲੰਮਾ ਡੈਸ਼ (ਗੂੜ੍ਹੀ)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.11.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.11.stringlist.text"
+msgid "Dot Dash"
+msgstr "ਬਿੰਦੂ ਡੈਸ਼"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.12.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.12.stringlist.text"
+msgid "Dot Dash (Bold)"
+msgstr "ਡੌਟ ਡੈਸ਼ (ਗੂੜ੍ਹੇ)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.13.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.13.stringlist.text"
+msgid "Dot Dot Dash"
+msgstr "ਡੌਟ ਡੌਟ ਡੈਸ਼"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.14.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.14.stringlist.text"
+msgid "Dot Dot Dash (Bold)"
+msgstr "ਡੌਟ ਡੌਟ ਡੈਸ਼ (ਗੂੜ੍ਹੇ)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.15.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.15.stringlist.text"
+msgid "Wave"
+msgstr "ਵੇਵ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.16.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.16.stringlist.text"
+msgid "Wave (Bold)"
+msgstr "ਵੇਵ (ਗੂੜ੍ਹੇ)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.17.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.17.stringlist.text"
+msgid "Double Wave"
+msgstr "ਡਬਲ ਵੇਵ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.FT_OVERLINE_COLOR.fixedtext.text
+msgid "O~verline color"
+msgstr "ਓਵਰਲਾਈਨ ਰੰਗ(~v)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.FT_STRIKEOUT.fixedtext.text
+msgid "~Strikethrough"
+msgstr "ਵਿੰਨ੍ਹੋ(~S)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_STRIKEOUT.1.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_STRIKEOUT.1.stringlist.text"
+msgid "(Without)"
+msgstr "(ਬਿਨਾਂ)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_STRIKEOUT.2.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_STRIKEOUT.2.stringlist.text"
+msgid "Single"
+msgstr "ਇਕਹੇਰੀ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_STRIKEOUT.3.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_STRIKEOUT.3.stringlist.text"
+msgid "Double"
+msgstr "ਡਬਲ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_STRIKEOUT.4.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_STRIKEOUT.4.stringlist.text"
+msgid "Bold"
+msgstr "ਗੂੜਾ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_STRIKEOUT.5.stringlist.text
+msgid "With /"
+msgstr "/ ਸਮੇਤ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_STRIKEOUT.6.stringlist.text
+msgid "With X"
+msgstr "X ਨਾਲ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.FT_UNDERLINE.fixedtext.text
+msgid "~Underlining"
+msgstr "ਅੰਡਰਲਾਈਨ(~U)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.1.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.1.stringlist.text"
+msgid "(Without)"
+msgstr "(ਬਿਨਾਂ)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.2.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.2.stringlist.text"
+msgid "Single"
+msgstr "ਇਕਹੇਰੀ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.3.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.3.stringlist.text"
+msgid "Double"
+msgstr "ਡਬਲ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.4.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.4.stringlist.text"
+msgid "Bold"
+msgstr "ਗੂੜਾ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.5.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.5.stringlist.text"
+msgid "Dotted"
+msgstr "ਸਾਫ਼ ਬਿੰਦੂ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.6.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.6.stringlist.text"
+msgid "Dotted (Bold)"
+msgstr "ਡੌਟਡ (ਗੂੜ੍ਹੇ)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.7.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.7.stringlist.text"
+msgid "Dash"
+msgstr "ਡੈਸ਼"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.8.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.8.stringlist.text"
+msgid "Dash (Bold)"
+msgstr "ਡੈਸ਼ (ਗੂੜ੍ਹੀ)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.9.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.9.stringlist.text"
+msgid "Long Dash"
+msgstr "ਲੰਮਾ ਡੈਸ਼"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.10.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.10.stringlist.text"
+msgid "Long Dash (Bold)"
+msgstr "ਲੰਮਾ ਡੈਸ਼ (ਗੂੜ੍ਹੀ)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.11.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.11.stringlist.text"
+msgid "Dot Dash"
+msgstr "ਬਿੰਦੂ ਡੈਸ਼"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.12.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.12.stringlist.text"
+msgid "Dot Dash (Bold)"
+msgstr "ਡੌਟ ਡੈਸ਼ (ਗੂੜ੍ਹੇ)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.13.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.13.stringlist.text"
+msgid "Dot Dot Dash"
+msgstr "ਡੌਟ ਡੌਟ ਡੈਸ਼"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.14.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.14.stringlist.text"
+msgid "Dot Dot Dash (Bold)"
+msgstr "ਡੌਟ ਡੌਟ ਡੈਸ਼ (ਗੂੜ੍ਹੇ)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.15.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.15.stringlist.text"
+msgid "Wave"
+msgstr "ਵੇਵ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.16.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.16.stringlist.text"
+msgid "Wave (Bold)"
+msgstr "ਵੇਵ (ਗੂੜ੍ਹੇ)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.17.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.17.stringlist.text"
+msgid "Double Wave"
+msgstr "ਡਬਲ ਵੇਵ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.FT_UNDERLINE_COLOR.fixedtext.text
+msgid "U~nderline color"
+msgstr "ਟੈਕਸਟ ਰੰਗ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.CB_INDIVIDUALWORDS.checkbox.text
+msgid "Individual ~words"
+msgstr "ਵੱਖਰੇ ਸ਼ਬਦ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.FT_EMPHASIS.fixedtext.text
+msgid "Emp~hasis mark"
+msgstr "Emp~hasis mark"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EMPHASIS.1.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EMPHASIS.1.stringlist.text"
+msgid "(Without)"
+msgstr "(ਬਿਨਾਂ)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EMPHASIS.2.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EMPHASIS.2.stringlist.text"
+msgid "Dot"
+msgstr "ਬਿੰਦੀ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EMPHASIS.3.stringlist.text
+msgid "Circle"
+msgstr "ਚੱਕਰ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EMPHASIS.4.stringlist.text
+msgid "Disc"
+msgstr "ਡਿਸਕ ਫਾਇਲ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EMPHASIS.5.stringlist.text
+msgid "Accent"
+msgstr "ਨੀਲਾ ਐਸੰਟ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.FT_POSITION.fixedtext.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.FT_POSITION.fixedtext.text"
+msgid "~Position"
+msgstr "ਸਥਿਤੀ(~P)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_POSITION.1.stringlist.text
+msgid "Above text"
+msgstr "ਟੈਕਸਟ ਤੋਂ ਉੱਪਰ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_POSITION.2.stringlist.text
+msgid "Below text"
+msgstr "ਟੈਕਸਟ ਤੋਂ ਹੇਠਾਂ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.WIN_EFFECTS_PREVIEW.window.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.WIN_EFFECTS_PREVIEW.window.text"
+msgid "Example"
+msgstr "ਉਦਾਹਰਨ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.STR_EFFECTS_CAPITALS.string.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.STR_EFFECTS_CAPITALS.string.text"
+msgid "Capitals"
+msgstr "ਵੱਡੇ ਅੱਖਰ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.STR_EFFECTS_LOWERCASE.string.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.STR_EFFECTS_LOWERCASE.string.text"
+msgid "Lowercase"
+msgstr "ਛੋਟੇ ਅੱਖਰ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.STR_EFFECTS_TITLE.string.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.STR_EFFECTS_TITLE.string.text"
+msgid "Title"
+msgstr "ਟਾਈਟਲ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.STR_EFFECTS_SMALL.string.text
+msgid "Small Capitals"
+msgstr "ਛੋਟਾ ਕੈਪੀਟਲ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.STR_EFFECTS_OUTLINE.string.text
+msgid "Outline"
+msgstr "ਆਉਟਲਾਈਨ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.STR_EFFECTS_SHADOW.string.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.STR_EFFECTS_SHADOW.string.text"
+msgid "Shadow"
+msgstr "ਸ਼ੈਡੋ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.STR_EFFECTS_BLINKING.string.text
+msgid "Blinking"
+msgstr "ਝਪਕਣਾ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.STR_CHARNAME_TRANSPARENT.string.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.STR_CHARNAME_TRANSPARENT.string.text"
+msgid "Transparent"
+msgstr "ਪਾਰਦਰਸ਼ੀ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_POSITION.FL_POSITION.fixedline.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_POSITION.FL_POSITION.fixedline.text"
+msgid "Position"
+msgstr "ਸਥਿਤੀ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_POSITION.RB_HIGHPOS.radiobutton.text
+msgid "Superscript"
+msgstr "ਘਾਤ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_POSITION.RB_NORMALPOS.radiobutton.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_POSITION.RB_NORMALPOS.radiobutton.text"
+msgid "Normal"
+msgstr "ਸਧਾਰਨ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_POSITION.RB_LOWPOS.radiobutton.text
+msgid "Subscript"
+msgstr "ਪੈਰ ਵਿੱਚ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_POSITION.FT_HIGHLOW.fixedtext.text
+msgid "~Raise/lower by"
+msgstr "ਏਨਾਂ ਵੱਡਾ/ਛੋਟਾ(~R)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_POSITION.CB_HIGHLOW.checkbox.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_POSITION.CB_HIGHLOW.checkbox.text"
+msgid "A~utomatic"
+msgstr "ਆਟੋਮੈਟਿਕ(~u)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_POSITION.FT_FONTSIZE.fixedtext.text
+msgid "Relative font size"
+msgstr "ਢੁੱਕਵਾਂ ਫੋਂਟ ਸਾਈਜ਼"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_POSITION.FL_ROTATION_SCALING.fixedline.text
+msgid "Rotation / scaling"
+msgstr "ਘੁੰਮਾਓ / ਸਕੇਲਿੰਗ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_POSITION.FL_SCALING.fixedline.text
+msgid "Scaling"
+msgstr "ਸਕੇਲਿੰਗ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_POSITION.RB_0_DEG.radiobutton.text
+msgid "~0 degrees"
+msgstr "~0 ਡਿਗਰੀ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_POSITION.RB_90_DEG.radiobutton.text
+msgid "~90 degrees"
+msgstr "~90 ਡਿਗਰੀ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_POSITION.RB_270_DEG.radiobutton.text
+msgid "~270 degrees"
+msgstr "~270 ਡਿਗਰੀ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_POSITION.CB_FIT_TO_LINE.checkbox.text
+msgid "Fit to line"
+msgstr "ਲਾਈਨ ਲਈ ਫਿੱਟ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_POSITION.FT_SCALE_WIDTH.fixedtext.text
+msgid "Scale ~width"
+msgstr "ਚੌੜਾਈ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_POSITION.FL_KERNING2.fixedline.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_POSITION.FL_KERNING2.fixedline.text"
+msgid "Spacing"
+msgstr "ਖਾਲੀ ਥਾਂ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_POSITION.LB_KERNING2.1.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_POSITION.LB_KERNING2.1.stringlist.text"
+msgid "Default"
+msgstr "ਡਿਫਾਲਟ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_POSITION.LB_KERNING2.2.stringlist.text
+msgid "Expanded"
+msgstr "ਖਿਲਰੇ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_POSITION.LB_KERNING2.3.stringlist.text
+msgid "Condensed"
+msgstr "ਗੂੜੇ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_POSITION.FT_KERNING2.fixedtext.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_POSITION.FT_KERNING2.fixedtext.text"
+msgid "b~y"
+msgstr "ਰਾਹੀਂ(~y)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_POSITION.CB_PAIRKERNING.checkbox.text
+msgid "~Pair kerning"
+msgstr "~Pair kerning"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_POSITION.WIN_POS_PREVIEW.window.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_POSITION.WIN_POS_PREVIEW.window.text"
+msgid "Example"
+msgstr "ਉਦਾਹਰਨ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.FL_SWITCHON.fixedline.text
+msgid "Double-lined"
+msgstr "ਦੋਹਰੀ ਰੇਖਾ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.CB_TWOLINES.checkbox.text
+msgid "~Write in double lines"
+msgstr "ਡਬਲ ਲਾਈਨਾਂ ਵਿੱਚ ਲਿਖੋ(~W)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.FL_ENCLOSE.fixedline.text
+msgid "Enclosing character"
+msgstr "ਬੰਦ ਅੱਖਰ"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.FT_STARTBRACKET.fixedtext.text
+msgid "I~nitial character"
+msgstr "ਸ਼ੁਰੂਆਤੀ ਅੱਖਰ(~n)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_STARTBRACKET.1.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_STARTBRACKET.1.stringlist.text"
+msgid "(None)"
+msgstr "(ਕੋਈ ਨਹੀਂ)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_STARTBRACKET.2.stringlist.text
+msgid "("
+msgstr "("
+
+#: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_STARTBRACKET.3.stringlist.text
+msgid "["
+msgstr "["
+
+#: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_STARTBRACKET.4.stringlist.text
+msgid "<"
+msgstr "<"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_STARTBRACKET.5.stringlist.text
+msgid "{"
+msgstr "{"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_STARTBRACKET.6.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_STARTBRACKET.6.stringlist.text"
+msgid "Other Characters..."
+msgstr "ਹੋਰ ਅੱਖਰ..."
+
+#: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.FT_ENDBRACKET.fixedtext.text
+msgid "Final charact~er"
+msgstr "ਭਰਨ ਅੱਖਰ(~e)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_ENDBRACKET.1.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_ENDBRACKET.1.stringlist.text"
+msgid "(None)"
+msgstr "(ਕੋਈ ਨਹੀਂ)"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_ENDBRACKET.2.stringlist.text
+msgid ")"
+msgstr ")"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_ENDBRACKET.3.stringlist.text
+msgid "]"
+msgstr "]"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_ENDBRACKET.4.stringlist.text
+msgid ">"
+msgstr ">"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_ENDBRACKET.5.stringlist.text
+msgid "}"
+msgstr "}"
+
+#: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_ENDBRACKET.6.stringlist.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_ENDBRACKET.6.stringlist.text"
+msgid "Other Characters..."
+msgstr "ਹੋਰ ਅੱਖਰ..."
+
+#: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.WIN_TWOLINES_PREVIEW.window.text
+msgctxt "chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.WIN_TWOLINES_PREVIEW.window.text"
+msgid "Example"
+msgstr "ਉਦਾਹਰਨ"
+
+#: autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_AUTOCORR_REPLACE.pageitem.text
+msgid "Replace"
+msgstr "ਤਬਦੀਲ"
+
+#: autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_AUTOCORR_EXCEPT.pageitem.text
+msgid "Exceptions"
+msgstr "ਛੋਟ"
+
+#: autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_AUTOCORR_OPTIONS.pageitem.text
+msgctxt "autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_AUTOCORR_OPTIONS.pageitem.text"
+msgid "Options"
+msgstr "ਚੋਣਾਂ"
+
+#: autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_AUTOFMT_APPLY.pageitem.text
+msgctxt "autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_AUTOFMT_APPLY.pageitem.text"
+msgid "Options"
+msgstr "ਚੋਣਾਂ"
+
+#: autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_AUTOCORR_QUOTE.pageitem.text
+msgctxt "autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_AUTOCORR_QUOTE.pageitem.text"
+msgid "Localized Options"
+msgstr "ਲੋਕਾਲਾਈਡ ਚੋਣਾਂ"
+
+#: autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.pageitem.text
+msgctxt "autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.pageitem.text"
+msgid "Word Completion"
+msgstr "ਸ਼ਬਦ ਪੂਰਤੀ"
+
+#: autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_SMARTTAG_OPTIONS.pageitem.text
+msgctxt "autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_SMARTTAG_OPTIONS.pageitem.text"
+msgid "Smart Tags"
+msgstr "ਸਮਾਰਟ ਟੈਗ"
+
+#: autocdlg.src#RID_OFA_AUTOCORR_DLG.FT_LANG.fixedtext.text
+msgid "Replacements and exceptions for language:"
+msgstr "ਭਾਸ਼ਾ ਲਈ ਤਬਦੀਲੀ ਅਤੇ ਅੱਪਵਾਦ:"
+
+#: autocdlg.src#RID_OFA_AUTOCORR_DLG.tabdialog.text
+msgid "AutoCorrect"
+msgstr "ਆਟੋਮੈਟਿਕ ਠੀਕ"
+
+#: autocdlg.src#COMMON_CLB_ENTRIES.ST_USE_REPLACE.string.text
+msgid "Use replacement table"
+msgstr "ਤਬਦੀਲੀ ਟੇਬਲ ਵਰਤੋਂ"
+
+#: autocdlg.src#COMMON_CLB_ENTRIES.ST_CPTL_STT_WORD.string.text
+msgid "Correct TWo INitial CApitals"
+msgstr "ਦੋ ਸ਼ੁਰੂਆਤੀ ਵੱਡੇ ਅੱਖਰ ਠੀਕ"
+
+#: autocdlg.src#COMMON_CLB_ENTRIES.ST_CPTL_STT_SENT.string.text
+msgid "Capitalize first letter of every sentence"
+msgstr "ਵਾਕ ਦਾ ਪਹਿਲਾਂ ਸ਼ਬਦ ਵੱਡਾ"
+
+#: autocdlg.src#COMMON_CLB_ENTRIES.ST_BOLD_UNDER.string.text
+msgid "Automatic *bold* and _underline_"
+msgstr "ਆਟੋਮੈਟਿਕ *bold* and _underline_"
+
+#: autocdlg.src#COMMON_CLB_ENTRIES.STR_NO_DBL_SPACES.string.text
+msgid "Ignore double spaces"
+msgstr "ਡਬਲ ਸਪੇਸ ਅਣਡਿੱਠਾ"
+
+#: autocdlg.src#COMMON_CLB_ENTRIES.ST_DETECT_URL.string.text
+msgid "URL Recognition"
+msgstr "URL ਪਛਾਣ"
+
+#: autocdlg.src#COMMON_CLB_ENTRIES.ST_DASH.string.text
+msgid "Replace dashes"
+msgstr "ਡੈਸ਼ ਤਬਦੀਲ"
+
+#: autocdlg.src#COMMON_CLB_ENTRIES.ST_CORRECT_ACCIDENTAL_CAPS_LOCK.string.text
+msgid "Correct accidental use of cAPS LOCK key"
+msgstr "cAPS LOCK ਕੁੰਜੀ ਦੀ ਗਲਤੀ ਨਾਲ ਹੋਈ ਵਰਤੋਂ ਨੂੰ ਠੀਕ ਕਰੋ"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_OPTIONS.tabpage.text
+msgid "Settings"
+msgstr "ਸੈਟਿੰਗ"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.PB_EDIT.pushbutton.text
+msgctxt "autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.PB_EDIT.pushbutton.text"
+msgid "~Edit..."
+msgstr "ਸੋਧ(~E)..."
+
+#: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.STR_HEADER1.string.text
+msgctxt "autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.STR_HEADER1.string.text"
+msgid "[M]"
+msgstr "[M]"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.STR_HEADER2.string.text
+msgctxt "autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.STR_HEADER2.string.text"
+msgid "[T]"
+msgstr "[T]"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.FT_HEADER1_EXPLANATION.fixedtext.text
+msgid "[M]: Replace while modifying existing text"
+msgstr "[M]: ਮੌਜੂਦਾ ਟੈਕਸਟ ਸੋਧਣ ਸਮੇਂ ਹਟਾਓ"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.FT_HEADER2_EXPLANATION.fixedtext.text
+msgid "[T]: AutoFormat/AutoCorrect while typing"
+msgstr "[T]: ਟਾਈਪ ਕਰਨ ਵੇਲੇ ਆਟੋਫਾਰਮੈਟ/ਆਟੋਕੁਰੈਕਟ"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.ST_DEL_EMPTY_PARA.string.text
+msgid "Remove blank paragraphs"
+msgstr "ਖਾਲੀ ਪੈਰ੍ਹੇ ਹਟਾਓ"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.ST_USER_STYLE.string.text
+msgid "Replace Custom Styles"
+msgstr "Replace Custom Styles"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.ST_BULLET.string.text
+msgid "Replace bullets with: "
+msgstr "ਗੋਲਿਆਂ ਨੂੰ ਇਸ ਨਾਲ ਤਬਦੀਲ ਕਰੋ: "
+
+#: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.ST_RIGHT_MARGIN.string.text
+msgid "Combine single line paragraphs if length greater than"
+msgstr "ਇਕੱਲੀ ਲਾਈਨ ਪੈਰ੍ਹਾਗਰਾਫ ਜੋੜੋ ਜੇ ਲੰਬਾਈ ਇਸਤੋਂ ਜਿਆਦਾ ਹੋਵੇ"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.STR_NUM.string.text
+msgid "Apply numbering - symbol: "
+msgstr "ਨੰਬਰਿੰਗ ਚਾਲੂ - symbol: "
+
+#: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.STR_BORDER.string.text
+msgid "Apply border"
+msgstr "ਬਾਰਡਰ ਲਾਗੂ ਕਰੋ"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.STR_TABLE.string.text
+msgid "Create table"
+msgstr "ਟੇਬਲ ਬਣਾਓ"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.STR_REPLACE_TEMPLATES.string.text
+msgid "Apply Styles"
+msgstr "ਸਟਾਈਲ ਲਾਗੂ ਕਰੋ"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.STR_DEL_SPACES_AT_STT_END.string.text
+msgid "Delete spaces and tabs at beginning and end of paragraph"
+msgstr "ਪੈਰ੍ਹੇ ਦੇ ਸ਼ੁਰੂ ਅਤੇ ਅੰਤ ਵਾਲੀਆਂ ਸਪੇਸਾਂ ਤੇ ਟੈਬਾਂ ਮਿਟਾਓ"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.STR_DEL_SPACES_BETWEEN_LINES.string.text
+msgid "Delete spaces and tabs at end and start of line"
+msgstr "ਲਾਈਨ ਦੇ ਸ਼ੁਰੂ ਅਤੇ ਅੰਤ ਵਾਲੀਆਂ ਸਪੇਸਾਂ ਤੇ ਟੈਬਾਂ ਮਿਟਾਓ"
+
+#: autocdlg.src#RID_OFADLG_PRCNT_SET.FL_PRCNT.fixedline.text
+msgid "Minimum size"
+msgstr "ਘੱਟੋ-ਘੱਟ ਅਕਾਰ"
+
+#: autocdlg.src#RID_OFADLG_PRCNT_SET.modaldialog.text
+msgid "Combine"
+msgstr "ਜੋੜ੍ਹੋ"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_REPLACE.FT_SHORT.fixedtext.text
+msgctxt "autocdlg.src#RID_OFAPAGE_AUTOCORR_REPLACE.FT_SHORT.fixedtext.text"
+msgid "Repla~ce"
+msgstr "ਤਬਦੀਲ"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_REPLACE.FT_REPLACE.fixedtext.text
+msgid "~With:"
+msgstr "ਸਮੇਤ(~W):"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_REPLACE.CB_TEXT_ONLY.checkbox.text
+msgid "~Text only"
+msgstr "ਸਿਰਫ਼ ਪਾਠ ਹੀ(~T)"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_REPLACE.PB_NEW_REPLACE.pushbutton.text
+msgctxt "autocdlg.src#RID_OFAPAGE_AUTOCORR_REPLACE.PB_NEW_REPLACE.pushbutton.text"
+msgid "~New"
+msgstr "ਨਵਾਂ(~N)"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_REPLACE.PB_DELETE_REPLACE.pushbutton.text
+msgctxt "autocdlg.src#RID_OFAPAGE_AUTOCORR_REPLACE.PB_DELETE_REPLACE.pushbutton.text"
+msgid "~Delete"
+msgstr "ਹਟਾਓ(~D)"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_REPLACE.STR_MODIFY.string.text
+msgid "~Replace"
+msgstr "ਬਦਲੋ(~R)"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.FL_ABBREV.fixedline.text
+msgid "Abbreviations (no subsequent capital)"
+msgstr "Abbreviations (no subsequent capital)"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.PB_NEWABBREV.pushbutton.text
+msgctxt "autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.PB_NEWABBREV.pushbutton.text"
+msgid "~New"
+msgstr "ਨਵਾਂ(~N)"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.PB_DELABBREV.pushbutton.text
+msgctxt "autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.PB_DELABBREV.pushbutton.text"
+msgid "~Delete"
+msgstr "ਹਟਾਓ(~D)"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.CB_AUTOABBREV.checkbox.text
+msgid "~AutoInclude"
+msgstr "ਸਵੈ-ਸ਼ਾਮਿਲ(~A)"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.FL_DOUBLECAPS.fixedline.text
+msgid "Words with TWo INitial CApitals"
+msgstr "ਦੋ ਸ਼ੁਰੂਆਤੀ ਵੱਡੇ ਅੱਖਰ ਠੀਕ"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.PB_NEWDOUBLECAPS.pushbutton.text
+msgid "Ne~w"
+msgstr "ਨਵਾਂ(~w)"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.PB_DELDOUBLECAPS.pushbutton.text
+msgid "Dele~te"
+msgstr "ਹਟਾਓ(~t)"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.CB_AUTOCAPS.checkbox.text
+msgid "A~utoInclude"
+msgstr "ਸਵੈ-ਸ਼ਾਮਿਲ(~u)"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.STR_PB_NEWABBREV.string.text
+msgid "New abbreviations"
+msgstr "ਨਵੀਂ ਚੋਣ"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.STR_PB_DELABBREV.string.text
+msgid "Delete abbreviations"
+msgstr "ਚੋਣ ਹਟਾਓ"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.STR_PB_NEWDOUBLECAPS.string.text
+msgid "New words with two initial capitals"
+msgstr "ਦੋ ਸ਼ੁਰੂਆਤੀ ਵੱਡੇ ਅੱਖਰ ਠੀਕ"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.STR_PB_DELDOUBLECAPS.string.text
+msgid "Delete words with two initial capitals"
+msgstr "ਦੋ ਸ਼ੁਰੂਆਤੀ ਵੱਡੇ ਅੱਖਰਾਂ ਵਾਲੇ ਸ਼ਬਦ ਮਿਟਾਓ"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.STR_HEADER1.string.text
+msgctxt "autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.STR_HEADER1.string.text"
+msgid "[M]"
+msgstr "[M]"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.STR_HEADER2.string.text
+msgctxt "autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.STR_HEADER2.string.text"
+msgid "[T]"
+msgstr "[T]"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.ST_NON_BREAK_SPACE.string.text
+msgid "Add non breaking space before specific punctuation marks in french text"
+msgstr "Add non breaking space before specific punctuation marks in french text"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.ST_ORDINAL.string.text
+msgid "Format ordinal numbers suffixes (1st -> 1^st)"
+msgstr "Format ordinal numbers suffixes (1st -> 1^st)"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.FL_SINGLE.fixedline.text
+msgid "Single quotes"
+msgstr "ਸਿੰਗਲ ਕਾਮੇ"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.CB_SGL_TYPO.checkbox.text
+msgctxt "autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.CB_SGL_TYPO.checkbox.text"
+msgid "Repla~ce"
+msgstr "ਤਬਦੀਲ(~c)"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.FT_SGL_STARTQUOTE.fixedtext.text
+msgid "~Start quote:"
+msgstr "ਸ਼ੁਰੂਆਤੀ ਕਾਮੇ(~S):"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.FT_SGL_ENDQUOTE.fixedtext.text
+msgid "~End quote:"
+msgstr "ਅੰਤਲੇ ਕਾਮੇ(~E):"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.PB_SGL_STD.pushbutton.text
+msgctxt "autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.PB_SGL_STD.pushbutton.text"
+msgid "~Default"
+msgstr "ਡਿਫਾਲਟ(~D)"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.FL_DOUBLE.fixedline.text
+msgid "Double quotes"
+msgstr "ਦੋਹਰੇ ਕਾਮੇ"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.CB_TYPO.checkbox.text
+msgid "Repl~ace"
+msgstr "ਬਦਲੋ(~a)"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.FT_STARTQUOTE.fixedtext.text
+msgid "Start q~uote:"
+msgstr "ਕਾਮੇ ਸ਼ੁਰੂ(~u):"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.FT_ENDQUOTE.fixedtext.text
+msgid "E~nd quote:"
+msgstr "ਕਾਮੇ ਅੰਤ(~n):"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.PB_DBL_STD.pushbutton.text
+msgid "De~fault"
+msgstr "ਡਿਫਾਲਟ(~F)"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.STR_CHANGE_START.string.text
+msgid "Start quote"
+msgstr "ਕਾਮੇ ਸ਼ੁਰੂ"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.STR_CHANGE_END.string.text
+msgid "End quote"
+msgstr "ਕਾਮੇ ਅੰਤ"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.ST_STANDARD.string.text
+msgctxt "autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.ST_STANDARD.string.text"
+msgid "Default"
+msgstr "ਡਿਫਾਲਟ"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.STR_PB_SGL_STD.string.text
+msgid "Single quotes default"
+msgstr "ਡਿਫਾਲਟ ਸਿੰਗਲ ਕਾਮੇ"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.STR_PB_DBL_STD.string.text
+msgid "Double quotes default"
+msgstr "ਡਿਫਾਲਟ ਦੋਹਰੇ ਕਾਮੇ"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.STR_PB_SGL_START.string.text
+msgid "Start quote of single quotes"
+msgstr "ਸਿੰਗਲ ਕਾਮੇਆਂ ਦੇ ਕਾਮੇ ਸ਼ੂਰੂ"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.STR_PB_DBL_START.string.text
+msgid "Start quote of double quotes"
+msgstr "ਦੋਹਰੇ ਕਾਮੇਆਂ ਦੇ ਕਾਮੇ ਸ਼ੂਰੂ"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.STR_PB_SGL_END.string.text
+msgid "End quote of single quotes"
+msgstr "ਸਿੰਗਲ ਕਾਮੇਆਂ ਦੇ ਕਾਮੇ ਅੰਤ"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.STR_PB_DBL_END.string.text
+msgid "End quote of double quotes"
+msgstr "ਦੋਹਰੇ ਕਾਮੇਆਂ ਦੇ ਕਾਮੇ ਅੰਤ"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.tabpage.text
+msgctxt "autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.tabpage.text"
+msgid "Localized Options"
+msgstr "ਲੋਕਾਲਾਈਡ ਚੋਣਾਂ"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.CB_ACTIV.checkbox.text
+msgid "Enable word ~completion"
+msgstr "ਸ਼ਬਦ ਮੁਕੰਮਲਤਾ ਯੋਗ ਕਰੋ(~c)"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.CB_APPEND_SPACE.checkbox.text
+msgid "~Append space"
+msgstr "ਆਖਰ ਚ ਸਪੇਸ ਦਿਓ(~A)"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.CB_AS_TIP.checkbox.text
+msgid "~Show as tip"
+msgstr "ਟਿੱਪਣੀ ਵੇਖਾਓ(~S)"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.CB_COLLECT.checkbox.text
+msgid "C~ollect words"
+msgstr "ਇਕੱਠੇ ਕੀਤੇ ਸ਼ਬਦ(~o)"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.CB_REMOVE_LIST.checkbox.text
+msgid "~When closing a document, remove the words collected from it from the list"
+msgstr "~When closing a document, remove the words collected from it from the list"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.FT_EXPAND_KEY.fixedtext.text
+msgid "Acc~ept with"
+msgstr "Acc~ept with"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.FT_MIN_WORDLEN.fixedtext.text
+msgid "Mi~n. word length"
+msgstr "Mi~n. word length"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.FT_MAX_ENTRIES.fixedtext.text
+msgid "~Max. entries"
+msgstr "~Max. entries"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.PB_ENTRIES.pushbutton.text
+msgid "~Delete Entry"
+msgstr "ਐਂਟਰੀ ਹਟਾਓ"
+
+#: autocdlg.src#RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.tabpage.text
+msgctxt "autocdlg.src#RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.tabpage.text"
+msgid "Word Completion"
+msgstr "ਸ਼ਬਦ ਪੂਰਤੀ"
+
+#: autocdlg.src#RID_OFAPAGE_SMARTTAG_OPTIONS.CB_SMARTTAGS.checkbox.text
+msgid "Label text with smart tags"
+msgstr "ਸਮਾਰਟ ਟੈਗਾਂ ਨਾਲ ਲੇਬਲ ਟੈਕਸਟ"
+
+#: autocdlg.src#RID_OFAPAGE_SMARTTAG_OPTIONS.FT_SMARTTAGS.fixedtext.text
+msgid "Currently installed smart tags"
+msgstr "ਮੌਜੂਦਾ ਇੰਸਟਾਲ ਕੀਤੇ ਸਮਾਰਟ ਟੈਗ"
+
+#: autocdlg.src#RID_OFAPAGE_SMARTTAG_OPTIONS.PB_SMARTTAGS.pushbutton.text
+msgid "Properties..."
+msgstr "ਵਿਸ਼ੇਸ਼ਤਾ..."
+
+#: autocdlg.src#RID_OFAPAGE_SMARTTAG_OPTIONS.tabpage.text
+msgctxt "autocdlg.src#RID_OFAPAGE_SMARTTAG_OPTIONS.tabpage.text"
+msgid "Smart Tags"
+msgstr "ਸਮਾਰਟ ਟੈਗ"
+
+#: page.src#RID_SVXPAGE_PAGE.FL_PAPER_SIZE.fixedline.text
+msgid "Paper format"
+msgstr "ਪੇਪਰ ਫਾਰਮੈਟ"
+
+#: page.src#RID_SVXPAGE_PAGE.FT_PAPER_FORMAT.fixedtext.text
+msgid "~Format"
+msgstr "ਫਾਰਮੈਟ(~F)"
+
+#: page.src#RID_SVXPAGE_PAGE.FT_PAPER_WIDTH.fixedtext.text
+msgctxt "page.src#RID_SVXPAGE_PAGE.FT_PAPER_WIDTH.fixedtext.text"
+msgid "~Width"
+msgstr "ਚੌੜਾਈ(~W)"
+
+#: page.src#RID_SVXPAGE_PAGE.FT_PAPER_HEIGHT.fixedtext.text
+msgid "~Height"
+msgstr "ਉਚਾਈ(~H)"
+
+#: page.src#RID_SVXPAGE_PAGE.FT_ORIENTATION.fixedtext.text
+msgid "Orientation"
+msgstr "ਸਥਿਤੀ"
+
+#: page.src#RID_SVXPAGE_PAGE.RB_PORTRAIT.radiobutton.text
+msgid "~Portrait"
+msgstr "ਪੋਰਟਰੇਟ(~P)"
+
+#: page.src#RID_SVXPAGE_PAGE.RB_LANDSCAPE.radiobutton.text
+msgid "L~andscape"
+msgstr "ਖਤਿਜੀ(~a)"
+
+#: page.src#RID_SVXPAGE_PAGE.FT_TEXT_FLOW.fixedtext.text
+msgid "~Text direction"
+msgstr "ਪਾਠ ਦਿਸ਼ਾ(~T)"
+
+#: page.src#RID_SVXPAGE_PAGE.FT_PAPER_TRAY.fixedtext.text
+msgid "Paper ~tray"
+msgstr "ਕਾਗਜ਼ ਟਰੇ(~t)"
+
+#: page.src#RID_SVXPAGE_PAGE.FL_MARGIN.fixedline.text
+msgid "Margins"
+msgstr "ਹਾਸ਼ੀਆ"
+
+#: page.src#RID_SVXPAGE_PAGE.FT_LEFT_MARGIN.fixedtext.text
+msgctxt "page.src#RID_SVXPAGE_PAGE.FT_LEFT_MARGIN.fixedtext.text"
+msgid "~Left"
+msgstr "ਖੱਬੇ(~L)"
+
+#: page.src#RID_SVXPAGE_PAGE.FT_RIGHT_MARGIN.fixedtext.text
+msgctxt "page.src#RID_SVXPAGE_PAGE.FT_RIGHT_MARGIN.fixedtext.text"
+msgid "~Right"
+msgstr "ਸੱਜੇ(~R)"
+
+#: page.src#RID_SVXPAGE_PAGE.FT_TOP_MARGIN.fixedtext.text
+msgctxt "page.src#RID_SVXPAGE_PAGE.FT_TOP_MARGIN.fixedtext.text"
+msgid "~Top"
+msgstr "ਉੱਤੇ(~T)"
+
+#: page.src#RID_SVXPAGE_PAGE.FT_BOTTOM_MARGIN.fixedtext.text
+msgctxt "page.src#RID_SVXPAGE_PAGE.FT_BOTTOM_MARGIN.fixedtext.text"
+msgid "~Bottom"
+msgstr "ਹੇਠਾਂ(~B)"
+
+#: page.src#RID_SVXPAGE_PAGE.FL_LAYOUT.fixedline.text
+msgid "Layout settings"
+msgstr "ਲੇਆਉਟ ਸੈਟਿੰਗ"
+
+#: page.src#RID_SVXPAGE_PAGE.FT_PAGELAYOUT.fixedtext.text
+msgid "Page layout"
+msgstr "ਪੇਜ਼ ਲੇਆਉਟ"
+
+#: page.src#RID_SVXPAGE_PAGE.LB_LAYOUT.1.stringlist.text
+msgid "Right and left"
+msgstr "ਸੱਜੇ ਅਤੇ ਖੱਬੇ"
+
+#: page.src#RID_SVXPAGE_PAGE.LB_LAYOUT.2.stringlist.text
+msgid "Mirrored"
+msgstr "ਪ੍ਰਤੀਬਿੰਬ"
+
+#: page.src#RID_SVXPAGE_PAGE.LB_LAYOUT.3.stringlist.text
+msgid "Only right"
+msgstr "ਸਿਰਫ ਸੱਜੇ"
+
+#: page.src#RID_SVXPAGE_PAGE.LB_LAYOUT.4.stringlist.text
+msgid "Only left"
+msgstr "ਸਿਰਫ ਖੱਬੇ"
+
+#: page.src#RID_SVXPAGE_PAGE.FT_NUMBER_FORMAT.fixedtext.text
+msgid "For~mat"
+msgstr "ਫਾਰਮੈਟ(~M)"
+
+#: page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.1.stringlist.text
+msgctxt "page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.1.stringlist.text"
+msgid "A, B, C, ..."
+msgstr "A, B, C, ..."
+
+#: page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.2.stringlist.text
+msgctxt "page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.2.stringlist.text"
+msgid "a, b, c, ..."
+msgstr "A, B, C, ..."
+
+#: page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.3.stringlist.text
+msgctxt "page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.3.stringlist.text"
+msgid "I, II, III, ..."
+msgstr "I, II, III, ..."
+
+#: page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.4.stringlist.text
+msgctxt "page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.4.stringlist.text"
+msgid "i, ii, iii, ..."
+msgstr "i, ii, iii, ..."
+
+#: page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.5.stringlist.text
+msgctxt "page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.5.stringlist.text"
+msgid "1, 2, 3, ..."
+msgstr "1, 2, 3, ..."
+
+#: page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.6.stringlist.text
+msgctxt "page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.6.stringlist.text"
+msgid "None"
+msgstr "ਕੋਈ ਨਹੀਂ"
+
+#: page.src#RID_SVXPAGE_PAGE.FT_TBL_ALIGN.fixedtext.text
+msgid "Table alignment"
+msgstr "ਟੇਬਲ ਇਕਸਾਰਤਾ"
+
+#: page.src#RID_SVXPAGE_PAGE.CB_HORZ.checkbox.text
+msgctxt "page.src#RID_SVXPAGE_PAGE.CB_HORZ.checkbox.text"
+msgid "Hori~zontal"
+msgstr "ਖਿਤਿਜੀ(~Z)"
+
+#: page.src#RID_SVXPAGE_PAGE.CB_VERT.checkbox.text
+msgctxt "page.src#RID_SVXPAGE_PAGE.CB_VERT.checkbox.text"
+msgid "~Vertical"
+msgstr "ਵਰਟੀਕਲ(~V)"
+
+#: page.src#RID_SVXPAGE_PAGE.CB_ADAPT.checkbox.text
+msgid "~Fit object to paper format"
+msgstr "ਆਬਜੈਕਟ ਨੂੰ ਪੇਪਰ ਫਾਰਮੈਟ ਵਿੱਚ ਫਿੱਟ ਕਰੋ(~F)"
+
+#: page.src#RID_SVXPAGE_PAGE.CB_REGISTER.checkbox.text
+msgctxt "page.src#RID_SVXPAGE_PAGE.CB_REGISTER.checkbox.text"
+msgid "Register-true"
+msgstr "ਰਜਿਸਟਰ-ਸੱਚ"
+
+#: page.src#RID_SVXPAGE_PAGE.FT_REGISTER.fixedtext.text
+msgid "Reference ~Style"
+msgstr "ਹਵਾਲਾ ਸਟਾਈਲ(~S)"
+
+#: page.src#RID_SVXPAGE_PAGE.STR_INSIDE.string.text
+msgid "I~nner"
+msgstr "ਅੰਦਰੂਨੀ(~n)"
+
+#: page.src#RID_SVXPAGE_PAGE.STR_OUTSIDE.string.text
+msgid "O~uter"
+msgstr "ਬਾਹਰੀ(~u)"
+
+#: page.src#RID_SVXPAGE_PAGE.STR_QUERY_PRINTRANGE.string.text
+msgid ""
+"The margin settings are out of print range.\n"
+"\n"
+"Do you still want to apply these settings?"
+msgstr ""
+"The margin settings are out of print range.\n"
+"\n"
+"Do you still want to apply these settings?"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.1.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.1.itemlist.text"
+msgid "A6"
+msgstr "A6"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.2.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.2.itemlist.text"
+msgid "A5"
+msgstr "A5"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.3.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.3.itemlist.text"
+msgid "A4"
+msgstr "A4"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.4.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.4.itemlist.text"
+msgid "A3"
+msgstr "A3"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.5.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.5.itemlist.text"
+msgid "B6 (ISO)"
+msgstr "B6 (ISO)"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.6.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.6.itemlist.text"
+msgid "B5 (ISO)"
+msgstr "B5 (ISO)"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.7.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.7.itemlist.text"
+msgid "B4 (ISO)"
+msgstr "B4 (ISO)"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.8.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.8.itemlist.text"
+msgid "Letter"
+msgstr "ਪੱਤਰ"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.9.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.9.itemlist.text"
+msgid "Legal"
+msgstr "ਕਾਨੂੰਨੀ"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.10.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.10.itemlist.text"
+msgid "Long Bond"
+msgstr "ਲੰਮਾ ਬਾਂਡ"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.11.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.11.itemlist.text"
+msgid "Tabloid"
+msgstr "ਸਾਰਣੀਰੂਪ"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.12.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.12.itemlist.text"
+msgid "B6 (JIS)"
+msgstr "B6 (JIS)"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.13.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.13.itemlist.text"
+msgid "B5 (JIS)"
+msgstr "B5 (JIS)"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.14.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.14.itemlist.text"
+msgid "B4 (JIS)"
+msgstr "B4 (JIS)"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.15.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.15.itemlist.text"
+msgid "16 Kai"
+msgstr "16 Kai"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.16.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.16.itemlist.text"
+msgid "32 Kai"
+msgstr "32 Kai"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.17.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.17.itemlist.text"
+msgid "Big 32 Kai"
+msgstr "ਬਿਗ 32 Kai"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.18.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.18.itemlist.text"
+msgid "User"
+msgstr "ਯੂਜ਼ਰ"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.19.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.19.itemlist.text"
+msgid "DL Envelope"
+msgstr "DL ਲਿਫਾਫ਼ਾ"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.20.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.20.itemlist.text"
+msgid "C6 Envelope"
+msgstr "C6 ਲਿਫਾਫ਼ਾ"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.21.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.21.itemlist.text"
+msgid "C6/5 Envelope"
+msgstr "C6/5 ਲਿਫ਼ਾਫਾ"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.22.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.22.itemlist.text"
+msgid "C5 Envelope"
+msgstr "C5 ਲਿਫਾਫ਼ਾ"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.23.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.23.itemlist.text"
+msgid "C4 Envelope"
+msgstr "C4 ਲਿਫਾਫ਼ਾ"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.24.itemlist.text
+msgid "#6 3/4 (Personal) Envelope"
+msgstr "#6 3/4 (ਨਿੱਜੀ) ਲਿਫ਼ਾਫਾ"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.25.itemlist.text
+msgid "#8 (Monarch) Envelope"
+msgstr "#8 (Monarch) ਲਿਫ਼ਾਫਾ"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.26.itemlist.text
+msgid "#9 Envelope"
+msgstr "#੯ ਲਿਫ਼ਾਫਾ"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.27.itemlist.text
+msgid "#10 Envelope"
+msgstr "#੧੦ ਲਿਫ਼ਾਫਾ"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.28.itemlist.text
+msgid "#11 Envelope"
+msgstr "#੧੧ ਲਿਫਾਫਾ"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.29.itemlist.text
+msgid "#12 Envelope"
+msgstr "#੧੨ ਲਿਫ਼ਾਫਾ"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_STD.30.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.30.itemlist.text"
+msgid "Japanese Postcard"
+msgstr "ਜਪਾਨੀ ਪੋਸਟਕਾਰਡ"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.1.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.1.itemlist.text"
+msgid "A6"
+msgstr "A6"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.2.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.2.itemlist.text"
+msgid "A5"
+msgstr "A5"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.3.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.3.itemlist.text"
+msgid "A4"
+msgstr "A4"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.4.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.4.itemlist.text"
+msgid "A3"
+msgstr "A3"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.5.itemlist.text
+msgid "A2"
+msgstr "A2"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.6.itemlist.text
+msgid "A1"
+msgstr "A1"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.7.itemlist.text
+msgid "A0"
+msgstr "A0"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.8.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.8.itemlist.text"
+msgid "B6 (ISO)"
+msgstr "B6 (ISO)"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.9.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.9.itemlist.text"
+msgid "B5 (ISO)"
+msgstr "B5 (ISO)"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.10.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.10.itemlist.text"
+msgid "B4 (ISO)"
+msgstr "B4 (ISO)"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.11.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.11.itemlist.text"
+msgid "Letter"
+msgstr "ਪੱਤਰ"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.12.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.12.itemlist.text"
+msgid "Legal"
+msgstr "ਕਾਨੂੰਨੀ"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.13.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.13.itemlist.text"
+msgid "Long Bond"
+msgstr "ਲੰਮਾ ਬਾਂਡ"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.14.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.14.itemlist.text"
+msgid "Tabloid"
+msgstr "ਸਾਰਣੀਰੂਪ"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.15.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.15.itemlist.text"
+msgid "B6 (JIS)"
+msgstr "B6 (JIS)"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.16.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.16.itemlist.text"
+msgid "B5 (JIS)"
+msgstr "B5 (JIS)"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.17.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.17.itemlist.text"
+msgid "B4 (JIS)"
+msgstr "B4 (JIS)"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.18.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.18.itemlist.text"
+msgid "16 Kai"
+msgstr "16 Kai"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.19.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.19.itemlist.text"
+msgid "32 Kai"
+msgstr "32 Kai"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.20.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.20.itemlist.text"
+msgid "Big 32 Kai"
+msgstr "ਬਿਗ 32 Kai"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.21.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.21.itemlist.text"
+msgid "User"
+msgstr "ਯੂਜ਼ਰ"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.22.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.22.itemlist.text"
+msgid "DL Envelope"
+msgstr "DL ਲਿਫਾਫ਼ਾ"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.23.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.23.itemlist.text"
+msgid "C6 Envelope"
+msgstr "C6 ਲਿਫਾਫ਼ਾ"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.24.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.24.itemlist.text"
+msgid "C6/5 Envelope"
+msgstr "C6/5 ਲਿਫ਼ਾਫਾ"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.25.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.25.itemlist.text"
+msgid "C5 Envelope"
+msgstr "C5 ਲਿਫਾਫ਼ਾ"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.26.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.26.itemlist.text"
+msgid "C4 Envelope"
+msgstr "C4 ਲਿਫਾਫ਼ਾ"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.27.itemlist.text
+msgid "Dia Slide"
+msgstr "ਡਾਈ ਸਲਾਈਡ"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.28.itemlist.text
+msgid "Screen 4:3"
+msgstr "ਸਕਰੀਨ 4:3"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.29.itemlist.text
+msgid "Screen 16:9"
+msgstr "ਸਕਰੀਨ 16:9"
+
+#: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.30.itemlist.text
+msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.30.itemlist.text"
+msgid "Japanese Postcard"
+msgstr "ਜਪਾਨੀ ਪੋਸਟਕਾਰਡ"
+
+#: measure.src#RID_SVXPAGE_MEASURE.FL_LINE.fixedline.text
+msgctxt "measure.src#RID_SVXPAGE_MEASURE.FL_LINE.fixedline.text"
+msgid "Line"
+msgstr " ਲਾਈਨ"
+
+#: measure.src#RID_SVXPAGE_MEASURE.FT_LINE_DIST.fixedtext.text
+msgid "Line ~distance"
+msgstr "ਲਾਈਨ ਫਾਸਲਾ(~d)"
+
+#: measure.src#RID_SVXPAGE_MEASURE.FT_HELPLINE_OVERHANG.fixedtext.text
+msgid "Guide ~overhang"
+msgstr "ਗਾਈਡ ਓਵਰਲੈਪਿੰਗ(~o)"
+
+#: measure.src#RID_SVXPAGE_MEASURE.FT_HELPLINE_DIST.fixedtext.text
+msgid "~Guide distance"
+msgstr "ਗਾਈਡ ਫਾਸਲਾ(~G)"
+
+#: measure.src#RID_SVXPAGE_MEASURE.FT_HELPLINE1_LEN.fixedtext.text
+msgid "~Left guide"
+msgstr "ਖੱਬੇ ਗਾਈਡ(~L)"
+
+#: measure.src#RID_SVXPAGE_MEASURE.FT_HELPLINE2_LEN.fixedtext.text
+msgid "~Right guide"
+msgstr "ਸੱਜੇ ਗਾਈਡ(~R)"
+
+#: measure.src#RID_SVXPAGE_MEASURE.TSB_BELOW_REF_EDGE.tristatebox.text
+msgid "Measure ~below object"
+msgstr "ਹੇਠਲੇ ਆਬਜੈਕਟ ਮਾਪੋ(~b)"
+
+#: measure.src#RID_SVXPAGE_MEASURE.FT_DECIMALPLACES.fixedtext.text
+msgid "Decimal places"
+msgstr "ਦਸ਼ਮਲਵ ਥਾਂ"
+
+#: measure.src#RID_SVXPAGE_MEASURE.FL_LABEL.fixedline.text
+msgid "Legend"
+msgstr "ਸੰਕੇਤ"
+
+#: measure.src#RID_SVXPAGE_MEASURE.FT_POSITION.fixedtext.text
+msgid "~Text position"
+msgstr "ਟੈਕਸਟ ਸਥਿਤੀ(~T)"
+
+#: measure.src#RID_SVXPAGE_MEASURE.TSB_AUTOPOSV.tristatebox.text
+msgid "~AutoVertical"
+msgstr "ਸਵੈ-ਲੰਬਕਾਰੀ(~A)"
+
+#: measure.src#RID_SVXPAGE_MEASURE.TSB_AUTOPOSH.tristatebox.text
+msgid "A~utoHorizontal"
+msgstr "ਸਵੈ-ਖਤਿਜੀ(~u)"
+
+#: measure.src#RID_SVXPAGE_MEASURE.TSB_PARALLEL.tristatebox.text
+msgid "~Parallel to line"
+msgstr "ਲਾਈਨ ਦੇ ਸਮਾਂਤਰ(~P)"
+
+#: measure.src#RID_SVXPAGE_MEASURE.TSB_SHOW_UNIT.tristatebox.text
+msgid "Show ~meas. units"
+msgstr "~meas. ਇਕਾਈਆਂ ਵੇਖਾਓ"
+
+#: measure.src#RID_SVXPAGE_MEASURE.STR_MEASURE_AUTOMATIC.string.text
+msgctxt "measure.src#RID_SVXPAGE_MEASURE.STR_MEASURE_AUTOMATIC.string.text"
+msgid "Automatic"
+msgstr "ਆਟੋਮੈਟਿਕ"
+
+#: measure.src#RID_SVXPAGE_MEASURE.tabpage.text
+msgid "Dimensioning"
+msgstr "ਮਾਪ"
+
+#: textanim.src#RID_SVXPAGE_TEXTANIMATION.FL_EFFECT.fixedline.text
+msgid "Text animation effects"
+msgstr "ਟੈਕਸਟ ਐਨੀਮੇਸ਼ਨ ਪ੍ਰਭਾਵ"
+
+#: textanim.src#RID_SVXPAGE_TEXTANIMATION.FT_EFFECTS.fixedtext.text
+msgid "E~ffect"
+msgstr "ਪ੍ਰਭਾਵ(~f)"
+
+#: textanim.src#RID_SVXPAGE_TEXTANIMATION.LB_EFFECT.1.stringlist.text
+msgid "No Effect"
+msgstr "ਕੋਈ ਪ੍ਰਭਾਵ ਨਹੀਂ"
+
+#: textanim.src#RID_SVXPAGE_TEXTANIMATION.LB_EFFECT.2.stringlist.text
+msgid "Blink"
+msgstr "ਝਪਕਦਾ"
+
+#: textanim.src#RID_SVXPAGE_TEXTANIMATION.LB_EFFECT.3.stringlist.text
+msgid "Scroll Through"
+msgstr "ਧੁਰ ਸਕਰੋਲ"
+
+#: textanim.src#RID_SVXPAGE_TEXTANIMATION.LB_EFFECT.4.stringlist.text
+msgid "Scroll Back and Forth"
+msgstr "ਪਿੱਛੇ ਅਤੇ ਅੱਗੇ ਜਾਓ"
+
+#: textanim.src#RID_SVXPAGE_TEXTANIMATION.LB_EFFECT.5.stringlist.text
+msgid "Scroll In"
+msgstr "ਸਕਰੋਲ ਅੰਦਰ"
+
+#: textanim.src#RID_SVXPAGE_TEXTANIMATION.FT_DIRECTION.fixedtext.text
+msgid "Direction"
+msgstr "ਦਿਸ਼ਾ"
+
+#: textanim.src#RID_SVXPAGE_TEXTANIMATION.BTN_UP.imagebutton.text
+msgctxt "textanim.src#RID_SVXPAGE_TEXTANIMATION.BTN_UP.imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#: textanim.src#RID_SVXPAGE_TEXTANIMATION.BTN_UP.imagebutton.quickhelptext
+msgid "To Top"
+msgstr "ਉੱਤੇ ਵੱਲ"
+
+#: textanim.src#RID_SVXPAGE_TEXTANIMATION.BTN_LEFT.imagebutton.text
+msgctxt "textanim.src#RID_SVXPAGE_TEXTANIMATION.BTN_LEFT.imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#: textanim.src#RID_SVXPAGE_TEXTANIMATION.BTN_LEFT.imagebutton.quickhelptext
+msgid "To Left"
+msgstr "ਖੱਬੇ ਵੱਲ"
+
+#: textanim.src#RID_SVXPAGE_TEXTANIMATION.BTN_RIGHT.imagebutton.text
+msgctxt "textanim.src#RID_SVXPAGE_TEXTANIMATION.BTN_RIGHT.imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#: textanim.src#RID_SVXPAGE_TEXTANIMATION.BTN_RIGHT.imagebutton.quickhelptext
+msgid "To Right"
+msgstr "ਸੱਜੇ ਵੱਲ"
+
+#: textanim.src#RID_SVXPAGE_TEXTANIMATION.BTN_DOWN.imagebutton.text
+msgctxt "textanim.src#RID_SVXPAGE_TEXTANIMATION.BTN_DOWN.imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#: textanim.src#RID_SVXPAGE_TEXTANIMATION.BTN_DOWN.imagebutton.quickhelptext
+msgid "To Bottom"
+msgstr "ਹੇਠਾਂ ਵੱਲ"
+
+#: textanim.src#RID_SVXPAGE_TEXTANIMATION.FL_PROPERTIES.fixedline.text
+msgctxt "textanim.src#RID_SVXPAGE_TEXTANIMATION.FL_PROPERTIES.fixedline.text"
+msgid "Properties"
+msgstr "ਵਿਸ਼ੇਸ਼ਤਾ"
+
+#: textanim.src#RID_SVXPAGE_TEXTANIMATION.TSB_START_INSIDE.tristatebox.text
+msgid "S~tart inside"
+msgstr "ਅੰਦਰ ਜਾਓ(~t)"
+
+#: textanim.src#RID_SVXPAGE_TEXTANIMATION.TSB_STOP_INSIDE.tristatebox.text
+msgid "Text visible when exiting"
+msgstr "ਬਾਹਰ ਜਾਣ ਤੇ ਟੈਕਸਟ ਦਿੱਖ"
+
+#: textanim.src#RID_SVXPAGE_TEXTANIMATION.FT_COUNT.fixedtext.text
+msgid "Animation cycles"
+msgstr "ਐਨੀਮੇਸ਼ਨ ਸਾਈਕਲ"
+
+#: textanim.src#RID_SVXPAGE_TEXTANIMATION.TSB_ENDLESS.tristatebox.text
+msgid "~Continuous"
+msgstr "ਲਗਾਤਾਰ(~C)"
+
+#: textanim.src#RID_SVXPAGE_TEXTANIMATION.FT_AMOUNT.fixedtext.text
+msgid "Increment"
+msgstr "ਵਾਧਾ"
+
+#: textanim.src#RID_SVXPAGE_TEXTANIMATION.TSB_PIXEL.tristatebox.text
+msgid "~Pixels"
+msgstr "~ਪਿਕਸਲ"
+
+#: textanim.src#RID_SVXPAGE_TEXTANIMATION.MTR_FLD_AMOUNT.metricfield.text
+msgid " Pixel"
+msgstr " ਪਿਕਸਲ"
+
+#: textanim.src#RID_SVXPAGE_TEXTANIMATION.FT_DELAY.fixedtext.text
+msgid "Delay"
+msgstr "ਦੇਰੀ"
+
+#: textanim.src#RID_SVXPAGE_TEXTANIMATION.TSB_AUTO.tristatebox.text
+msgctxt "textanim.src#RID_SVXPAGE_TEXTANIMATION.TSB_AUTO.tristatebox.text"
+msgid "~Automatic"
+msgstr "~ਆਟੋਮੈਟਿਕ"
+
+#: textanim.src#RID_SVXPAGE_TEXTANIMATION.MTR_FLD_DELAY.metricfield.text
+msgid " ms"
+msgstr " ms"
+
+#: textanim.src#RID_SVXPAGE_TEXTANIMATION.tabpage.text
+msgid "Animation"
+msgstr "ਐਨੀਮੇਸ਼ਨ"
+
+#: textanim.src#RID_SVXDLG_TEXT.1.RID_SVXPAGE_TEXTATTR.pageitem.text
+msgctxt "textanim.src#RID_SVXDLG_TEXT.1.RID_SVXPAGE_TEXTATTR.pageitem.text"
+msgid "Text"
+msgstr "ਪਾਠ"
+
+#: textanim.src#RID_SVXDLG_TEXT.1.RID_SVXPAGE_TEXTANIMATION.pageitem.text
+msgid "Text Animation"
+msgstr "ਪਾਠ ਸਜੀਵਤਾ"
+
+#: textanim.src#RID_SVXDLG_TEXT.tabdialog.text
+msgctxt "textanim.src#RID_SVXDLG_TEXT.tabdialog.text"
+msgid "Text"
+msgstr "ਟੈਕਸਟ"
+
+#: border.src#RID_SVXPAGE_BORDER.FL_BORDER.fixedline.text
+msgid "Line arrangement"
+msgstr "ਲਾਈਨ ਤਰਤੀਬ"
+
+#: border.src#RID_SVXPAGE_BORDER.FT_DEFAULT.fixedtext.text
+msgctxt "border.src#RID_SVXPAGE_BORDER.FT_DEFAULT.fixedtext.text"
+msgid "~Default"
+msgstr "ਡਿਫਾਲਟ(~D)"
+
+#: border.src#RID_SVXPAGE_BORDER.FT_USERDEF.fixedtext.text
+msgid "~User-defined"
+msgstr "ਯੂਜ਼ਰ ਪ੍ਰਭਾਸ਼ਿਤ (~U)"
+
+#: border.src#RID_SVXPAGE_BORDER.FL_LINE.fixedline.text
+msgctxt "border.src#RID_SVXPAGE_BORDER.FL_LINE.fixedline.text"
+msgid "Line"
+msgstr " ਲਾਈਨ"
+
+#: border.src#RID_SVXPAGE_BORDER.FT_STYLE.fixedtext.text
+msgctxt "border.src#RID_SVXPAGE_BORDER.FT_STYLE.fixedtext.text"
+msgid "St~yle"
+msgstr "ਸਟਾਈਲ(~y)"
+
+#: border.src#RID_SVXPAGE_BORDER.FT_WIDTH.fixedtext.text
+msgctxt "border.src#RID_SVXPAGE_BORDER.FT_WIDTH.fixedtext.text"
+msgid "~Width"
+msgstr "ਚੌੜਾਈ(~W)"
+
+#: border.src#RID_SVXPAGE_BORDER.FT_COLOR.fixedtext.text
+msgctxt "border.src#RID_SVXPAGE_BORDER.FT_COLOR.fixedtext.text"
+msgid "~Color"
+msgstr "ਰੰਗ(~C)"
+
+#: border.src#RID_SVXPAGE_BORDER.FT_LEFT.fixedtext.text
+msgctxt "border.src#RID_SVXPAGE_BORDER.FT_LEFT.fixedtext.text"
+msgid "~Left"
+msgstr "ਖੱਬੇ(~L)"
+
+#: border.src#RID_SVXPAGE_BORDER.FT_RIGHT.fixedtext.text
+msgctxt "border.src#RID_SVXPAGE_BORDER.FT_RIGHT.fixedtext.text"
+msgid "Right"
+msgstr "ਸੱਜੇ"
+
+#: border.src#RID_SVXPAGE_BORDER.FT_TOP.fixedtext.text
+msgctxt "border.src#RID_SVXPAGE_BORDER.FT_TOP.fixedtext.text"
+msgid "~Top"
+msgstr "ਉੱਤੇ(~T)"
+
+#: border.src#RID_SVXPAGE_BORDER.FT_BOTTOM.fixedtext.text
+msgctxt "border.src#RID_SVXPAGE_BORDER.FT_BOTTOM.fixedtext.text"
+msgid "~Bottom"
+msgstr "ਹੇਠਾਂ(~B)"
+
+#: border.src#RID_SVXPAGE_BORDER.CB_SYNC.checkbox.text
+msgid "Synchronize"
+msgstr "ਸੈਕਰੋਨਾਈਜ਼"
+
+#: border.src#RID_SVXPAGE_BORDER.FL_DISTANCE.fixedline.text
+msgid "Spacing to contents"
+msgstr "ਸਮੱਗਰੀ ਵਿੱਚ ਖਾਲੀ ਥਾਂ"
+
+#: border.src#RID_SVXPAGE_BORDER.FT_SHADOWPOS.fixedtext.text
+msgctxt "border.src#RID_SVXPAGE_BORDER.FT_SHADOWPOS.fixedtext.text"
+msgid "~Position"
+msgstr "ਸਥਿਤੀ(~P)"
+
+#: border.src#RID_SVXPAGE_BORDER.FT_SHADOWSIZE.fixedtext.text
+msgid "Distan~ce"
+msgstr "ਦੂਰੀ(~D)"
+
+#: border.src#RID_SVXPAGE_BORDER.FT_SHADOWCOLOR.fixedtext.text
+msgctxt "border.src#RID_SVXPAGE_BORDER.FT_SHADOWCOLOR.fixedtext.text"
+msgid "C~olor"
+msgstr "ਰੰਗ"
+
+#: border.src#RID_SVXPAGE_BORDER.FL_SHADOW.fixedline.text
+msgid "Shadow style"
+msgstr "ਸ਼ੈਡੋ ਸਟਾਈਲ:"
+
+#: border.src#RID_SVXPAGE_BORDER.FL_PROPERTIES.fixedline.text
+msgctxt "border.src#RID_SVXPAGE_BORDER.FL_PROPERTIES.fixedline.text"
+msgid "Properties"
+msgstr "ਵਿਸ਼ੇਸ਼ਤਾ"
+
+#: border.src#RID_SVXPAGE_BORDER.CB_MERGEWITHNEXT.checkbox.text
+msgid "~Merge with next paragraph"
+msgstr "ਅੱਗੇ ਪ੍ਹੈਰਾ ਨਾਲ ਰੱਖੋ(~M)"
+
+#: border.src#RID_SVXPAGE_BORDER.CB_MERGEADJACENTBORDERS.checkbox.text
+msgid "~Merge adjacent line styles"
+msgstr "~ਲਾਇਨ ਸਟਾਈਲ"
+
+#: border.src#RID_SVXPAGE_BORDER.tabpage.text
+msgctxt "border.src#RID_SVXPAGE_BORDER.tabpage.text"
+msgid "Borders"
+msgstr "ਬਾਰਡਰ"
+
+#: border.src#RID_SVXSTR_TABLE_PRESET_NONE.string.text
+msgid "Set No Borders"
+msgstr "ਕੋਈ ਬਾਰਡਰ ਨਾ ਚੁਣੋ"
+
+#: border.src#RID_SVXSTR_TABLE_PRESET_ONLYOUTER.string.text
+msgid "Set Outer Border Only"
+msgstr "ਬਾਹਰੀ ਸਫ਼ਾ ਹਾਸ਼ੀਆ"
+
+#: border.src#RID_SVXSTR_TABLE_PRESET_OUTERHORI.string.text
+msgid "Set Outer Border and Horizontal Lines"
+msgstr "ਬਾਹਰੀ ਸਫ਼ਾ ਹਾਸ਼ੀਆ"
+
+#: border.src#RID_SVXSTR_TABLE_PRESET_OUTERALL.string.text
+msgid "Set Outer Border and All Inner Lines"
+msgstr "ਬਾਹਰੀ ਬਾਰਡਰ ਅਤੇ ਸਭ ਅੰਦਰੂਨੀ ਲਾਈਨਾਂ ਸੈੱਟ ਕਰੋ"
+
+#: border.src#RID_SVXSTR_TABLE_PRESET_OUTERINNER.string.text
+msgid "Set Outer Border Without Changing Inner Lines"
+msgstr "Set Outer Border Without Changing Inner Lines"
+
+#: border.src#RID_SVXSTR_PARA_PRESET_DIAGONAL.string.text
+msgid "Set Diagonal Lines Only"
+msgstr "ਕੇਵਲ ਲਾਈਨਾਂ"
+
+#: border.src#RID_SVXSTR_PARA_PRESET_ALL.string.text
+msgid "Set All Four Borders"
+msgstr "ਸਭ ਚਾਰੋਂ ਹਾਰਡਰ ਸੈੱਟ ਕਰੋ"
+
+#: border.src#RID_SVXSTR_PARA_PRESET_LEFTRIGHT.string.text
+msgid "Set Left and Right Borders Only"
+msgstr "ਖੱਬਾ ਅਤੇ ਸੱਜਾ ਤੀਰ"
+
+#: border.src#RID_SVXSTR_PARA_PRESET_TOPBOTTOM.string.text
+msgid "Set Top and Bottom Borders Only"
+msgstr "ਖੱਬਾ ਅਤੇ ਸੱਜਾ ਤੀਰ"
+
+#: border.src#RID_SVXSTR_PARA_PRESET_ONLYLEFT.string.text
+msgid "Set Left Border Only"
+msgstr "ਖੱਬੇ ਹਾਸ਼ੀਆ ਲਾਇਨ"
+
+#: border.src#RID_SVXSTR_HOR_PRESET_ONLYHOR.string.text
+msgid "Set Top and Bottom Borders, and All Inner Lines"
+msgstr "Set Top and Bottom Borders, and All Inner Lines"
+
+#: border.src#RID_SVXSTR_VER_PRESET_ONLYVER.string.text
+msgid "Set Left and Right Borders, and All Inner Lines"
+msgstr "Set Left and Right Borders, and All Inner Lines"
+
+#: border.src#RID_SVXSTR_SHADOW_STYLE_NONE.string.text
+msgid "No Shadow"
+msgstr "ਛਾਂ ਨਹੀਂ"
+
+#: border.src#RID_SVXSTR_SHADOW_STYLE_BOTTOMRIGHT.string.text
+msgid "Cast Shadow to Bottom Right"
+msgstr "ਹੇਠਾਂ-ਸੱਜੇ ਵੱਲ"
+
+#: border.src#RID_SVXSTR_SHADOW_STYLE_TOPRIGHT.string.text
+msgid "Cast Shadow to Top Right"
+msgstr "Cast Shadow to Top Right"
+
+#: border.src#RID_SVXSTR_SHADOW_STYLE_BOTTOMLEFT.string.text
+msgid "Cast Shadow to Bottom Left"
+msgstr "Cast Shadow to Bottom Left"
+
+#: border.src#RID_SVXSTR_SHADOW_STYLE_TOPLEFT.string.text
+msgid "Cast Shadow to Top Left"
+msgstr "Cast Shadow to Top Left"
+
+#: grfpage.src#RID_SVXPAGE_GRFCROP.FL_CROP.fixedline.text
+msgid "Crop"
+msgstr "ਉਭਾਰੋ"
+
+#: grfpage.src#RID_SVXPAGE_GRFCROP.FT_LEFT.fixedtext.text
+msgctxt "grfpage.src#RID_SVXPAGE_GRFCROP.FT_LEFT.fixedtext.text"
+msgid "~Left"
+msgstr "ਖੱਬੇ(~L)"
+
+#: grfpage.src#RID_SVXPAGE_GRFCROP.FT_RIGHT.fixedtext.text
+msgctxt "grfpage.src#RID_SVXPAGE_GRFCROP.FT_RIGHT.fixedtext.text"
+msgid "~Right"
+msgstr "ਸੱਜੇ(~R)"
+
+#: grfpage.src#RID_SVXPAGE_GRFCROP.FT_TOP.fixedtext.text
+msgctxt "grfpage.src#RID_SVXPAGE_GRFCROP.FT_TOP.fixedtext.text"
+msgid "~Top"
+msgstr "ਉੱਤੇ(~T)"
+
+#: grfpage.src#RID_SVXPAGE_GRFCROP.FT_BOTTOM.fixedtext.text
+msgctxt "grfpage.src#RID_SVXPAGE_GRFCROP.FT_BOTTOM.fixedtext.text"
+msgid "~Bottom"
+msgstr "~ਹੇਠਾਂ"
+
+#: grfpage.src#RID_SVXPAGE_GRFCROP.RB_SIZECONST.radiobutton.text
+msgid "Keep image si~ze"
+msgstr "ਈਮੇਜ਼ ਅਕਾਰ ਰੱਖੋ(~z)"
+
+#: grfpage.src#RID_SVXPAGE_GRFCROP.RB_ZOOMCONST.radiobutton.text
+msgid "Keep ~scale"
+msgstr "ਸਕੇਲ ਰੱਖੋ(~s)"
+
+#: grfpage.src#RID_SVXPAGE_GRFCROP.FL_ZOOM.fixedline.text
+msgid "Scale"
+msgstr "ਸਕੇਲ"
+
+#: grfpage.src#RID_SVXPAGE_GRFCROP.FT_WIDTHZOOM.fixedtext.text
+msgctxt "grfpage.src#RID_SVXPAGE_GRFCROP.FT_WIDTHZOOM.fixedtext.text"
+msgid "~Width"
+msgstr "ਚੌੜਾਈ(~W)"
+
+#: grfpage.src#RID_SVXPAGE_GRFCROP.FT_HEIGHTZOOM.fixedtext.text
+msgctxt "grfpage.src#RID_SVXPAGE_GRFCROP.FT_HEIGHTZOOM.fixedtext.text"
+msgid "H~eight"
+msgstr "ਉਚਾਈ(~e)"
+
+#: grfpage.src#RID_SVXPAGE_GRFCROP.FL_SIZE.fixedline.text
+msgid "Image size"
+msgstr "ਚਿੱਤਰ ਅਕਾਰ"
+
+#: grfpage.src#RID_SVXPAGE_GRFCROP.FT_WIDTH.fixedtext.text
+msgctxt "grfpage.src#RID_SVXPAGE_GRFCROP.FT_WIDTH.fixedtext.text"
+msgid "~Width"
+msgstr "ਚੌੜਾਈ(~W)"
+
+#: grfpage.src#RID_SVXPAGE_GRFCROP.FT_HEIGHT.fixedtext.text
+msgctxt "grfpage.src#RID_SVXPAGE_GRFCROP.FT_HEIGHT.fixedtext.text"
+msgid "H~eight"
+msgstr "ਉਚਾਈ(~e)"
+
+#: grfpage.src#RID_SVXPAGE_GRFCROP.PB_ORGSIZE.pushbutton.text
+msgid "~Original Size"
+msgstr "ਅਸਲੀ ਆਕਾਰ(~O)"
+
+#. PPI is pixel per inch, %1 is a number
+#: grfpage.src#STR_PPI.string.text
+msgid "(%1 PPI)"
+msgstr "(%1 PPI)"
+
+#: textattr.src#RID_SVXPAGE_TEXTATTR.FL_TEXT.fixedline.text
+msgctxt "textattr.src#RID_SVXPAGE_TEXTATTR.FL_TEXT.fixedline.text"
+msgid "Text"
+msgstr "ਪਾਠ"
+
+#: textattr.src#RID_SVXPAGE_TEXTATTR.TSB_AUTOGROW_WIDTH.tristatebox.text
+msgid "Fit wi~dth to text"
+msgstr "ਟੈਕਸਟ ਦੀ ਚੌੜਾਈ ਸੋਧੋ(~d)"
+
+#: textattr.src#RID_SVXPAGE_TEXTATTR.TSB_AUTOGROW_HEIGHT.tristatebox.text
+msgid "Fit h~eight to text"
+msgstr "ਟੈਕਸਟ ਦੀ ਉਚਾਈ ਸੋਧੋ(~e)"
+
+#: textattr.src#RID_SVXPAGE_TEXTATTR.TSB_FIT_TO_SIZE.tristatebox.text
+msgid "~Fit to frame"
+msgstr "~ਫਰੇਮ ਦੇ ਫਿੱਟ"
+
+#: textattr.src#RID_SVXPAGE_TEXTATTR.TSB_CONTOUR.tristatebox.text
+msgid "~Adjust to contour"
+msgstr "~Adjust to contour"
+
+#: textattr.src#RID_SVXPAGE_TEXTATTR.TSB_WORDWRAP_TEXT.tristatebox.text
+msgid "~Word wrap text in shape"
+msgstr "~ਸ਼ਕਲ ਵਿੱਚ ਸ਼ਬਦ ਸਮੇਟੋ"
+
+#: textattr.src#RID_SVXPAGE_TEXTATTR.TSB_AUTOGROW_SIZE.tristatebox.text
+msgid "~Resize shape to fit text"
+msgstr "ਟੈਕਸਟ ਵਿੱਚ ਫਿੱਟ ਕਰਨ ਲਈ ਅਕਾਰ ਸੋਧੋ(~R)"
+
+#: textattr.src#RID_SVXPAGE_TEXTATTR.FL_DISTANCE.fixedline.text
+msgid "Spacing to borders"
+msgstr "ਫੁੱਟਨੋਟ ਸਮੱਗਰੀ ਲਈ ਖਾਲੀ"
+
+#: textattr.src#RID_SVXPAGE_TEXTATTR.FT_LEFT.fixedtext.text
+msgctxt "textattr.src#RID_SVXPAGE_TEXTATTR.FT_LEFT.fixedtext.text"
+msgid "~Left"
+msgstr "ਖੱਬੇ(~L)"
+
+#: textattr.src#RID_SVXPAGE_TEXTATTR.FT_RIGHT.fixedtext.text
+msgctxt "textattr.src#RID_SVXPAGE_TEXTATTR.FT_RIGHT.fixedtext.text"
+msgid "~Right"
+msgstr "ਸੱਜੇ(~R)"
+
+#: textattr.src#RID_SVXPAGE_TEXTATTR.FT_TOP.fixedtext.text
+msgctxt "textattr.src#RID_SVXPAGE_TEXTATTR.FT_TOP.fixedtext.text"
+msgid "~Top"
+msgstr "ਉੱਤੇ(~T)"
+
+#: textattr.src#RID_SVXPAGE_TEXTATTR.FT_BOTTOM.fixedtext.text
+msgctxt "textattr.src#RID_SVXPAGE_TEXTATTR.FT_BOTTOM.fixedtext.text"
+msgid "~Bottom"
+msgstr "~ਹੇਠਾਂ"
+
+#: textattr.src#RID_SVXPAGE_TEXTATTR.FL_POSITION.fixedline.text
+msgid "Text anchor"
+msgstr "ਟੈਕਸਟ ਐਂਕਰ"
+
+#: textattr.src#RID_SVXPAGE_TEXTATTR.TSB_FULL_WIDTH.tristatebox.text
+msgid "Full ~width"
+msgstr "ਪੂਰੀ ਚੌੜਾਈ"
+
+#: textattr.src#RID_SVXPAGE_TEXTATTR.tabpage.text
+msgctxt "textattr.src#RID_SVXPAGE_TEXTATTR.tabpage.text"
+msgid "Text"
+msgstr "ਟੈਕਸਟ"
+
+#: connect.src#RID_SVXPAGE_CONNECTION.FT_TYPE.fixedtext.text
+msgctxt "connect.src#RID_SVXPAGE_CONNECTION.FT_TYPE.fixedtext.text"
+msgid "~Type"
+msgstr "ਕਿਸਮ(~T)"
+
+#: connect.src#RID_SVXPAGE_CONNECTION.FL_DELTA.fixedline.text
+msgid "Line skew"
+msgstr "ਲਾਈਨ skew"
+
+#: connect.src#RID_SVXPAGE_CONNECTION.FT_LINE_1.fixedtext.text
+msgid "Line ~1"
+msgstr "ਲਾਈਨ ~1"
+
+#: connect.src#RID_SVXPAGE_CONNECTION.FT_LINE_2.fixedtext.text
+msgid "Line ~2"
+msgstr "ਲਾਈਨ ~2"
+
+#: connect.src#RID_SVXPAGE_CONNECTION.FT_LINE_3.fixedtext.text
+msgid "Line ~3"
+msgstr "ਲਾਈਨ ~3"
+
+#: connect.src#RID_SVXPAGE_CONNECTION.FL_DISTANCE.fixedline.text
+msgctxt "connect.src#RID_SVXPAGE_CONNECTION.FL_DISTANCE.fixedline.text"
+msgid "Line spacing"
+msgstr "ਰੇਖਾ ਥਾਂ"
+
+#: connect.src#RID_SVXPAGE_CONNECTION.FT_HORZ_1.fixedtext.text
+msgid "~Begin horizontal"
+msgstr "~ਖਿਤਿਜੀ"
+
+#: connect.src#RID_SVXPAGE_CONNECTION.FT_HORZ_2.fixedtext.text
+msgid "End ~horizontal"
+msgstr "ਖਤਿਜੀ ਅੰਤ(~h)"
+
+#: connect.src#RID_SVXPAGE_CONNECTION.FT_VERT_1.fixedtext.text
+msgid "Begin ~vertical"
+msgstr "ਵਰਟੀਕਲ"
+
+#: connect.src#RID_SVXPAGE_CONNECTION.FT_VERT_2.fixedtext.text
+msgid "~End vertical"
+msgstr "ਲੰਬਕਾਰੀ ਅੰਤ(~E)"
+
+#: connect.src#RID_SVXPAGE_CONNECTION.CTL_PREVIEW.control.text
+msgctxt "connect.src#RID_SVXPAGE_CONNECTION.CTL_PREVIEW.control.text"
+msgid "-"
+msgstr "-"
+
+#: connect.src#RID_SVXPAGE_CONNECTION.CTL_PREVIEW.control.quickhelptext
+msgid "Preview"
+msgstr "ਝਲਕ"
+
+#: connect.src#RID_SVXPAGE_CONNECTION.tabpage.text
+msgid "Connector"
+msgstr "ਕੁਨੈਕਟਰ"
+
+#: labdlg.src#RID_SVXPAGE_CAPTION.FT_ABSTAND.fixedtext.text
+msgctxt "labdlg.src#RID_SVXPAGE_CAPTION.FT_ABSTAND.fixedtext.text"
+msgid "~Spacing"
+msgstr "ਖਾਲੀ ਥਾਂ(~S)"
+
+#: labdlg.src#RID_SVXPAGE_CAPTION.FT_WINKEL.fixedtext.text
+msgctxt "labdlg.src#RID_SVXPAGE_CAPTION.FT_WINKEL.fixedtext.text"
+msgid "~Angle"
+msgstr "ਕੋਣ(~A)"
+
+#: labdlg.src#RID_SVXPAGE_CAPTION.LB_WINKEL.1.stringlist.text
+msgid "Free"
+msgstr "ਖਾਲੀ"
+
+#: labdlg.src#RID_SVXPAGE_CAPTION.LB_WINKEL.2.stringlist.text
+msgid "30 Degrees"
+msgstr "30 ਡਿਗਰੀ"
+
+#: labdlg.src#RID_SVXPAGE_CAPTION.LB_WINKEL.3.stringlist.text
+msgid "45 Degrees"
+msgstr "45 ਡਿਗਰੀ"
+
+#: labdlg.src#RID_SVXPAGE_CAPTION.LB_WINKEL.4.stringlist.text
+msgid "60 Degrees"
+msgstr "60 ਡਿਗਰੀ"
+
+#: labdlg.src#RID_SVXPAGE_CAPTION.LB_WINKEL.5.stringlist.text
+msgid "90 Degrees"
+msgstr "90 ਡਿਗਰੀ"
+
+#: labdlg.src#RID_SVXPAGE_CAPTION.FT_ANSATZ.fixedtext.text
+msgid "~Extension"
+msgstr "~ਇਕਸਟੈਨਸ਼ਨ ਨਾਲ"
+
+#: labdlg.src#RID_SVXPAGE_CAPTION.LB_ANSATZ.1.stringlist.text
+msgid "Optimal"
+msgstr "ਅਨੁਕੂਲ"
+
+#: labdlg.src#RID_SVXPAGE_CAPTION.LB_ANSATZ.2.stringlist.text
+msgctxt "labdlg.src#RID_SVXPAGE_CAPTION.LB_ANSATZ.2.stringlist.text"
+msgid "From top"
+msgstr "ਉੱਤੇ ਤੋਂ "
+
+#: labdlg.src#RID_SVXPAGE_CAPTION.LB_ANSATZ.3.stringlist.text
+msgid "From left"
+msgstr "ਖੱਬਿਓ"
+
+#: labdlg.src#RID_SVXPAGE_CAPTION.LB_ANSATZ.4.stringlist.text
+msgctxt "labdlg.src#RID_SVXPAGE_CAPTION.LB_ANSATZ.4.stringlist.text"
+msgid "Horizontal"
+msgstr "ਖਿਤਿਜੀ"
+
+#: labdlg.src#RID_SVXPAGE_CAPTION.LB_ANSATZ.5.stringlist.text
+msgctxt "labdlg.src#RID_SVXPAGE_CAPTION.LB_ANSATZ.5.stringlist.text"
+msgid "Vertical"
+msgstr "ਲੰਬਕਾਰੀ"
+
+#: labdlg.src#RID_SVXPAGE_CAPTION.FT_UM.fixedtext.text
+msgid "~By"
+msgstr "~ਰਾਹੀਂ"
+
+#: labdlg.src#RID_SVXPAGE_CAPTION.FT_ANSATZ_REL.fixedtext.text
+msgctxt "labdlg.src#RID_SVXPAGE_CAPTION.FT_ANSATZ_REL.fixedtext.text"
+msgid "~Position"
+msgstr "ਸਥਿਤੀ(~P)"
+
+#: labdlg.src#RID_SVXPAGE_CAPTION.FT_LAENGE.fixedtext.text
+msgctxt "labdlg.src#RID_SVXPAGE_CAPTION.FT_LAENGE.fixedtext.text"
+msgid "~Length"
+msgstr "ਲੰਬਾਈ(~L)"
+
+#: labdlg.src#RID_SVXPAGE_CAPTION.CB_LAENGE.checkbox.text
+msgid "~Optimal"
+msgstr "ਅਨੁਕੂਲ(~O)"
+
+#: labdlg.src#RID_SVXPAGE_CAPTION.STR_CAPTTYPE_1.string.text
+msgid "Straight Line"
+msgstr "ਸਿੱਧੀ ਲਾਈਨ"
+
+#: labdlg.src#RID_SVXPAGE_CAPTION.STR_CAPTTYPE_2.string.text
+msgid "Angled Line"
+msgstr "ਕੋਣੀ ਲਾਈਨ"
+
+#: labdlg.src#RID_SVXPAGE_CAPTION.STR_CAPTTYPE_3.string.text
+msgid "Angled Connector Line"
+msgstr "ਕੋਣੀ ਕੁਨੈਕਟਰ ਲਾਈਨ"
+
+#: labdlg.src#RID_SVXPAGE_CAPTION.STR_CAPTTYPE_4.string.text
+msgid "Double-angled line"
+msgstr "ਡਬਲ-ਕੋਣੀ ਲਾਈਨ"
+
+#: labdlg.src#RID_SVXPAGE_CAPTION.STR_HORZ_LIST.string.text
+msgid "Top;Middle;Bottom"
+msgstr "Top;Middle;Bottom"
+
+#: labdlg.src#RID_SVXPAGE_CAPTION.STR_VERT_LIST.string.text
+msgid "Left;Middle;Right"
+msgstr "Left;Middle;Right"
+
+#: labdlg.src#RID_SVXPAGE_CAPTION.tabpage.text
+msgctxt "labdlg.src#RID_SVXPAGE_CAPTION.tabpage.text"
+msgid "Callouts"
+msgstr "ਕਾਲਆਉਟ"
+
+#: labdlg.src#_POS_SIZE_TEXT.#define.text
+msgctxt "labdlg.src#_POS_SIZE_TEXT.#define.text"
+msgid "Position and Size"
+msgstr "ਸਥਿਤੀ ਅਤੇ ਅਕਾਰ"
+
+#: labdlg.src#RID_SVXDLG_CAPTION.TAB_CONTROL.RID_SVXPAGE_CAPTION.pageitem.text
+msgid "Callout"
+msgstr "ਕਾਲਆਉਟ"
+
+#: labdlg.src#RID_SVXDLG_CAPTION.tabdialog.text
+msgctxt "labdlg.src#RID_SVXDLG_CAPTION.tabdialog.text"
+msgid "Callouts"
+msgstr "ਕਾਲਆਉਟ"
+
+#: dstribut.src#RID_SVXPAGE_DISTRIBUTE.FL_HORIZONTAL.fixedline.text
+msgctxt "dstribut.src#RID_SVXPAGE_DISTRIBUTE.FL_HORIZONTAL.fixedline.text"
+msgid "Horizontal"
+msgstr "ਖਿਤਿਜੀ"
+
+#: dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_HOR_NONE.radiobutton.text
+msgid "~None"
+msgstr "ਕੋਈ ਨਹੀਂ(~N)"
+
+#: dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_HOR_LEFT.radiobutton.text
+msgctxt "dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_HOR_LEFT.radiobutton.text"
+msgid "~Left"
+msgstr "ਖੱਬੇ(~L)"
+
+#: dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_HOR_CENTER.radiobutton.text
+msgctxt "dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_HOR_CENTER.radiobutton.text"
+msgid "~Center"
+msgstr "ਸੈਂਟਰ(~C)"
+
+#: dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_HOR_DISTANCE.radiobutton.text
+msgctxt "dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_HOR_DISTANCE.radiobutton.text"
+msgid "~Spacing"
+msgstr "ਖਾਲੀ ਥਾਂ(~S)"
+
+#: dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_HOR_RIGHT.radiobutton.text
+msgctxt "dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_HOR_RIGHT.radiobutton.text"
+msgid "~Right"
+msgstr "ਸੱਜੇ(~R)"
+
+#: dstribut.src#RID_SVXPAGE_DISTRIBUTE.FL_VERTICAL.fixedline.text
+msgctxt "dstribut.src#RID_SVXPAGE_DISTRIBUTE.FL_VERTICAL.fixedline.text"
+msgid "Vertical"
+msgstr "ਲੰਬਕਾਰੀ"
+
+#: dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_VER_NONE.radiobutton.text
+msgctxt "dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_VER_NONE.radiobutton.text"
+msgid "N~one"
+msgstr "ਕੋਈ ਨਹੀਂ(~o)"
+
+#: dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_VER_TOP.radiobutton.text
+msgctxt "dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_VER_TOP.radiobutton.text"
+msgid "~Top"
+msgstr "ਉੱਤੇ(~T)"
+
+#: dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_VER_CENTER.radiobutton.text
+msgctxt "dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_VER_CENTER.radiobutton.text"
+msgid "C~enter"
+msgstr "ਕੇਂਦਰੀ(~e)"
+
+#: dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_VER_DISTANCE.radiobutton.text
+msgid "S~pacing"
+msgstr "ਸਪੇਸਿੰਗ(~p)"
+
+#: dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_VER_BOTTOM.radiobutton.text
+msgctxt "dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_VER_BOTTOM.radiobutton.text"
+msgid "~Bottom"
+msgstr "~ਹੇਠਾਂ"
+
+#: dstribut.src#RID_SVXPAGE_DISTRIBUTE.tabpage.text
+msgid "Distribution"
+msgstr "ਡਿਸਟਰੀਬਿਊਸ਼ਨ"
+
+#: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.FT_LEFTINDENT.fixedtext.text
+msgid "Before text"
+msgstr "ਟੈਕਸਟ ਤੋਂ ਪਹਿਲਾਂ"
+
+#: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.FT_RIGHTINDENT.fixedtext.text
+msgid "After text"
+msgstr "ਟੈਕਸਟ ਤੋਂ ਬਾਅਦ"
+
+#: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.FT_FLINEINDENT.fixedtext.text
+msgid "~First line"
+msgstr "~ਪਹਿਲੀ ਲਾਈਨ"
+
+#: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.CB_AUTO.checkbox.text
+msgctxt "paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.CB_AUTO.checkbox.text"
+msgid "~Automatic"
+msgstr "~ਆਟੋਮੈਟਿਕ"
+
+#: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.FL_INDENT.fixedline.text
+msgctxt "paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.FL_INDENT.fixedline.text"
+msgid "Indent"
+msgstr "ਹਾਸ਼ੀਏ ਤੋਂ ਦੂਰ"
+
+#: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.FT_TOPDIST.fixedtext.text
+msgid "Ab~ove paragraph"
+msgstr "ਪੈਰ੍ਹੇ ਤੋਂ ਉੱਪਰ(~o)"
+
+#: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.FT_BOTTOMDIST.fixedtext.text
+msgid "Below paragraph"
+msgstr "ਪੈਰ੍ਹੇ ਤੋਂ ਹੇਠਾਂ"
+
+#: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.CB_CONTEXTUALSPACING.checkbox.text
+msgid "Don't add space between paragraphs of the same style"
+msgstr "ਆਈਕਾਨ ਅਕਾਰ ਅਤੇ ਸਟਾਈਨ"
+
+#: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.FL_DIST.fixedline.text
+msgctxt "paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.FL_DIST.fixedline.text"
+msgid "Spacing"
+msgstr "ਖਾਲੀ ਥਾਂ"
+
+#: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.LB_LINEDIST.1.stringlist.text
+msgctxt "paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.LB_LINEDIST.1.stringlist.text"
+msgid "Single"
+msgstr "ਇਕਹੇਰੀ"
+
+#: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.LB_LINEDIST.2.stringlist.text
+msgid "1.5 lines"
+msgstr "1.5 ਲਾਈਨਾਂ"
+
+#: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.LB_LINEDIST.3.stringlist.text
+msgctxt "paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.LB_LINEDIST.3.stringlist.text"
+msgid "Double"
+msgstr "ਡਬਲ"
+
+#: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.LB_LINEDIST.4.stringlist.text
+msgid "Proportional"
+msgstr "ਅਨੁਪਾਤੀ"
+
+#: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.LB_LINEDIST.5.stringlist.text
+msgid "At least"
+msgstr "ਘੱਟੋ-ਘੱਟ"
+
+#: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.LB_LINEDIST.6.stringlist.text
+msgid "Leading"
+msgstr "ਲੀਡਿੰਗ"
+
+#: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.ST_LINEDIST_ABS.string.text
+msgid "Fixed"
+msgstr "ਸਥਿਰ"
+
+#: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.FT_LINEDIST.fixedtext.text
+msgid "of"
+msgstr "ਵਿੱਚੋਂ"
+
+#: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.FL_LINEDIST.fixedline.text
+msgctxt "paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.FL_LINEDIST.fixedline.text"
+msgid "Line spacing"
+msgstr "ਰੇਖਾ ਥਾਂ"
+
+#: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.CB_REGISTER.checkbox.text
+msgid "A~ctivate"
+msgstr "ਸਰਗਰਮ(~c)"
+
+#: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.FL_REGISTER.fixedline.text
+msgctxt "paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.FL_REGISTER.fixedline.text"
+msgid "Register-true"
+msgstr "ਰਜਿਸਟਰ-ਸੱਚ"
+
+#: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.tabpage.text
+msgid "Indents and Spacing"
+msgstr "ਟੇਡੇ ਅਤੇ ਸਪੇਸਿੰਗ"
+
+#: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.FL_ALIGN.fixedline.text
+msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.FL_ALIGN.fixedline.text"
+msgid "Options"
+msgstr "ਚੋਣਾਂ"
+
+#: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.BTN_LEFTALIGN.radiobutton.text
+msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.BTN_LEFTALIGN.radiobutton.text"
+msgid "~Left"
+msgstr "ਖੱਬੇ(~L)"
+
+#: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.BTN_RIGHTALIGN.radiobutton.text
+msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.BTN_RIGHTALIGN.radiobutton.text"
+msgid "Righ~t"
+msgstr "ਸੱਜਾ(~t)"
+
+#: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.BTN_CENTERALIGN.radiobutton.text
+msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.BTN_CENTERALIGN.radiobutton.text"
+msgid "~Center"
+msgstr "ਸੈਂਟਰਡ(~C)"
+
+#: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.BTN_JUSTIFYALIGN.radiobutton.text
+msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.BTN_JUSTIFYALIGN.radiobutton.text"
+msgid "Justified"
+msgstr "ਅਨੁਕੂਲ"
+
+#: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.ST_LEFTALIGN_ASIAN.string.text
+msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.ST_LEFTALIGN_ASIAN.string.text"
+msgid "~Left/Top"
+msgstr "~ਖੱਬੇ ਉੱਪਰ"
+
+#: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.ST_RIGHTALIGN_ASIAN.string.text
+msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.ST_RIGHTALIGN_ASIAN.string.text"
+msgid "Righ~t/Bottom"
+msgstr "ਸੱਜੇ/ਹੇਠਾਂ(~t)"
+
+#: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.FT_LASTLINE.fixedtext.text
+msgid "~Last line"
+msgstr "ਆਖਰੀ ਲਾਈਨ(~L)"
+
+#: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_LASTLINE.1.stringlist.text
+msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_LASTLINE.1.stringlist.text"
+msgid "Default"
+msgstr "ਡਿਫਾਲਟ"
+
+#: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_LASTLINE.2.stringlist.text
+msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_LASTLINE.2.stringlist.text"
+msgid "Left"
+msgstr "ਖੱਬੇ"
+
+#: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_LASTLINE.3.stringlist.text
+msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_LASTLINE.3.stringlist.text"
+msgid "Centered"
+msgstr "ਸੈਂਟਰਡ"
+
+#: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_LASTLINE.4.stringlist.text
+msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_LASTLINE.4.stringlist.text"
+msgid "Justified"
+msgstr "ਅਨੁਕੂਲ"
+
+#: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.CB_EXPAND.checkbox.text
+msgid "~Expand single word"
+msgstr "~ਘੱਟੋ-ਘੱਟ ਸ਼ਬਦ ਲੰਬਾਈ"
+
+#: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.CB_SNAP.checkbox.text
+msgid "Snap to text grid (if active)"
+msgstr "ਸਰਗਰਮ)"
+
+#: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.FL_VERTALIGN.fixedline.text
+msgid "Text-to-text"
+msgstr "ਟੈਕਸਟ ਲਈ ਡਾਟਾ"
+
+#: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.FT_VERTALIGN.fixedtext.text
+msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.FT_VERTALIGN.fixedtext.text"
+msgid "~Alignment"
+msgstr "ਸ਼ਫਬੰਦੀ(~A)"
+
+#: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_VERTALIGN.1.stringlist.text
+msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_VERTALIGN.1.stringlist.text"
+msgid "Automatic"
+msgstr "ਆਟੋਮੈਟਿਕ"
+
+#: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_VERTALIGN.2.stringlist.text
+msgid "Base line"
+msgstr "ਅਧਾਰ ਲਾਇਨ"
+
+#: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_VERTALIGN.3.stringlist.text
+msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_VERTALIGN.3.stringlist.text"
+msgid "Top"
+msgstr "ਉੱਤੇ"
+
+#: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_VERTALIGN.4.stringlist.text
+msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_VERTALIGN.4.stringlist.text"
+msgid "Middle"
+msgstr "ਮੱਧ"
+
+#: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_VERTALIGN.5.stringlist.text
+msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_VERTALIGN.5.stringlist.text"
+msgid "Bottom"
+msgstr "ਤਲ"
+
+#: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.FL_PROPERTIES.fixedline.text
+msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.FL_PROPERTIES.fixedline.text"
+msgid "Properties"
+msgstr "ਵਿਸ਼ੇਸ਼ਤਾ"
+
+#: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.FT_TEXTDIRECTION.fixedtext.text
+msgid "Text ~direction"
+msgstr "ਪਾਠ ਦਿਸ਼ਾ(~d)"
+
+#: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.tabpage.text
+msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.tabpage.text"
+msgid "Alignment"
+msgstr "ਸ਼ਫਬੰਦੀ"
+
+#: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.BTN_HYPHEN.tristatebox.text
+msgid "A~utomatically"
+msgstr "ਆਟੋਮੈਟਿਕ(~u)"
+
+#: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FT_HYPHENBEFORE.fixedtext.text
+msgid "C~haracters at line end"
+msgstr "ਲਾਈਨ ਦੇ ਸ਼ੁਰੂ ਵਿੱਚ ਨਹੀਂ"
+
+#: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FT_HYPHENAFTER.fixedtext.text
+msgid "Cha~racters at line begin"
+msgstr "ਸਤਰ ਸ਼ੁਰੂ ਤੇ"
+
+#: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FT_MAXHYPH.fixedtext.text
+msgid "~Maximum number of consecutive hyphens"
+msgstr "~ਪਾਸਵਰਡ ਵਿੱਚ ਕੁੱਝ ਲਗਾਤਾਰ ਅੱਖਰਾਂ ਦੀ ਵੱਧੋ-ਵੱਧ ਗਿਣਤੀ"
+
+#: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FL_HYPHEN.fixedline.text
+msgid "Hyphenation"
+msgstr "ਸਮਾਸ ਚਿੰਨੀਕਰਨ"
+
+#: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FL_OPTIONS.fixedline.text
+msgctxt "paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FL_OPTIONS.fixedline.text"
+msgid "Options"
+msgstr "ਚੋਣਾਂ"
+
+#: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FL_BREAKS.fixedline.text
+msgid "Breaks"
+msgstr "ਬਰੇਕ"
+
+#: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.BTN_PAGEBREAK.tristatebox.text
+msgid "Insert"
+msgstr "ਸ਼ਾਮਲ"
+
+#: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FT_BREAKTYPE.fixedtext.text
+msgctxt "paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FT_BREAKTYPE.fixedtext.text"
+msgid "~Type"
+msgstr "ਕਿਸਮ(~T)"
+
+#: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.LB_BREAKTYPE.1.stringlist.text
+msgid "Page"
+msgstr "ਸਫ਼ਾ"
+
+#: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.LB_BREAKTYPE.2.stringlist.text
+msgid "Column"
+msgstr "ਕਾਲਮ"
+
+#: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FT_BREAKPOSITION.fixedtext.text
+msgctxt "paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FT_BREAKPOSITION.fixedtext.text"
+msgid "Position"
+msgstr "ਸਥਿਤੀ"
+
+#: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.LB_BREAKPOSITION.1.stringlist.text
+msgctxt "paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.LB_BREAKPOSITION.1.stringlist.text"
+msgid "Before"
+msgstr "ਪਹਿਲਾਂ"
+
+#: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.LB_BREAKPOSITION.2.stringlist.text
+msgctxt "paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.LB_BREAKPOSITION.2.stringlist.text"
+msgid "After"
+msgstr "ਬਾਅਦ"
+
+#: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.BTN_PAGECOLL.tristatebox.text
+msgid "With Page St~yle"
+msgstr "ਸਫ਼ਾ ਸਟਾਈਲ ਨਾਲ(~Y)"
+
+#: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FT_PAGENUM.fixedtext.text
+msgid "Page ~number"
+msgstr "ਸਫ਼ਾ ਨੰਬਰ(~N)"
+
+#: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.BTN_KEEPTOGETHER.tristatebox.text
+msgid "~Do not split paragraph"
+msgstr "~ਪ੍ਹੈਰਾ ਨਾ ਵੰਡੋ"
+
+#: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.CB_KEEPTOGETHER.tristatebox.text
+msgid "~Keep with next paragraph"
+msgstr "ਅੱਗੇ ਪ੍ਹੈਰਾ ਨਾਲ ਰੱਖੋ(~K)"
+
+#: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.BTN_ORPHANS.tristatebox.text
+msgid "~Orphan control"
+msgstr "~ਕੰਟਰੋਲ-H"
+
+#: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FT_ORPHANS.fixedtext.text
+msgctxt "paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FT_ORPHANS.fixedtext.text"
+msgid "Lines"
+msgstr "ਲਾਈਨਾਂ"
+
+#: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.BTN_WIDOWS.tristatebox.text
+msgid "~Widow control"
+msgstr "ਵਿਡੋ ਕੰਟਰੋਲ"
+
+#: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FT_WIDOWS.fixedtext.text
+msgctxt "paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FT_WIDOWS.fixedtext.text"
+msgid "Lines"
+msgstr "ਲਾਈਨਾਂ"
+
+#: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.tabpage.text
+msgid "Text Flow"
+msgstr "ਪਾਠ ਵਹਾ"
+
+#: paragrph.src#RID_SVXPAGE_PARA_ASIAN.FL_AS_OPTIONS.fixedline.text
+msgid "Line change"
+msgstr "ਸੈੱਟ ਬਦਲੋ"
+
+#: paragrph.src#RID_SVXPAGE_PARA_ASIAN.CB_AS_FORBIDDEN.tristatebox.text
+msgid "Apply list of forbidden characters to the beginning and end of lines"
+msgstr "ਸਫੈਦ-ਸਪੇਸ ਅੱਖਰ(~W)"
+
+#: paragrph.src#RID_SVXPAGE_PARA_ASIAN.CB_AS_HANG_PUNC.tristatebox.text
+msgid "Allow hanging punctuation"
+msgstr "ਖਾਸ ਵਿਰਾਮ ਚਿੰਨ੍ਹ"
+
+#: paragrph.src#RID_SVXPAGE_PARA_ASIAN.CB_AS_SCRIPT_SPACE.tristatebox.text
+msgid "Apply spacing between Asian, Latin and Complex text"
+msgstr "ਏਸ਼ੀਅਨ ਟੈਕਸਟ ਫੌਂਟ"
+
+#: paragrph.src#RID_SVXPAGE_PARA_ASIAN.tabpage.text
+msgid "Asian Typography"
+msgstr "ਏਸ਼ੀਆਈਂ ਟਾਈਪੋਗਰਾਫ਼ੀ"
+
+#: paragrph.src#STR_EXAMPLE.string.text
+msgctxt "paragrph.src#STR_EXAMPLE.string.text"
+msgid "Example"
+msgstr "ਉਦਾਹਰਨ"
+
+#: paragrph.src#STR_PAGE_STYLE.string.text
+msgid "Page Style"
+msgstr "ਸਫ਼ਾ ਸਟਾਈਲ"
+
+#: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.FT_CATEGORY.fixedtext.text
+msgid "~Category"
+msgstr "ਕੈਟਾਗਰੀ(~C)"
+
+#: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY.1.stringlist.text
+msgid "All"
+msgstr "ਸਭ"
+
+#: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY.2.stringlist.text
+msgid "User-defined"
+msgstr "ਉਪਭੋਗੀ ਪਰਭਾਸ਼ਿਤ"
+
+#: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY.3.stringlist.text
+msgid "Number"
+msgstr "ਗਿਣਤੀ"
+
+#: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY.4.stringlist.text
+msgid "Percent"
+msgstr "ਫ਼ੀ-ਸਦੀ"
+
+#: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY.5.stringlist.text
+msgid "Currency"
+msgstr "ਮੁਦਰਾ"
+
+#: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY.6.stringlist.text
+msgid "Date"
+msgstr "ਮਿਤੀ"
+
+#: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY.7.stringlist.text
+msgid "Time"
+msgstr "ਸਮਾਂ"
+
+#: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY.8.stringlist.text
+msgid "Scientific"
+msgstr "ਵਿਗਿਆਨਿਕ"
+
+#: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY.9.stringlist.text
+msgid "Fraction"
+msgstr "ਭਾਗ"
+
+#: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY.10.stringlist.text
+msgid "Boolean Value"
+msgstr "ਬੂਲੀਅਨ ਮੁੱਲ"
+
+#: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY.11.stringlist.text
+msgctxt "numfmt.src#RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY.11.stringlist.text"
+msgid "Text"
+msgstr "ਟੈਕਸਟ"
+
+#: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.FT_EDFORMAT.fixedtext.text
+msgid "~Format code"
+msgstr "~ਫਾਰਮੈਟ"
+
+#: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.FT_FORMAT.fixedtext.text
+msgid "F~ormat"
+msgstr "ਫਾਰਮੈਟ(~O)"
+
+#: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.LB_CURRENCY.1.stringlist.text
+msgid "Automatically"
+msgstr "ਆਟੋਮੈਟਿਕ"
+
+#: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.FT_DECIMALS.fixedtext.text
+msgid "~Decimal places"
+msgstr "ਦਸ਼ਮਲਵ ਥਾਂ(~d)"
+
+#: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.FT_LEADZEROES.fixedtext.text
+msgid "Leading ~zeroes"
+msgstr "ਲੀਡਿੰਗ"
+
+#: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.BTN_NEGRED.checkbox.text
+msgid "~Negative numbers red"
+msgstr "ਰਿਣਾਤਮਕ ਅੰਕ ਲਾਲ(~N)"
+
+#: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.BTN_THOUSAND.checkbox.text
+msgid "~Thousands separator"
+msgstr "~ਹਜ਼ਾਰ ਵੱਖਰੇਵਾਂ"
+
+#: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.FL_OPTIONS.fixedline.text
+msgctxt "numfmt.src#RID_SVXPAGE_NUMBERFORMAT.FL_OPTIONS.fixedline.text"
+msgid "Options"
+msgstr "ਚੋਣਾਂ"
+
+#: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.FT_LANGUAGE.fixedtext.text
+msgctxt "numfmt.src#RID_SVXPAGE_NUMBERFORMAT.FT_LANGUAGE.fixedtext.text"
+msgid "~Language"
+msgstr "~ਭਾਸ਼ਾ"
+
+#: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.CB_SOURCEFORMAT.checkbox.text
+msgid "So~urce format"
+msgstr "ਫਾਰਮੈਟ"
+
+#: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.IB_ADD.imagebutton.text
+msgctxt "numfmt.src#RID_SVXPAGE_NUMBERFORMAT.IB_ADD.imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.IB_ADD.imagebutton.quickhelptext
+msgctxt "numfmt.src#RID_SVXPAGE_NUMBERFORMAT.IB_ADD.imagebutton.quickhelptext"
+msgid "Add"
+msgstr "ਸ਼ਾਮਲ"
+
+#: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.IB_REMOVE.imagebutton.text
+msgctxt "numfmt.src#RID_SVXPAGE_NUMBERFORMAT.IB_REMOVE.imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.IB_REMOVE.imagebutton.quickhelptext
+msgid "Remove"
+msgstr "ਹਟਾਓ"
+
+#: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.IB_INFO.imagebutton.text
+msgctxt "numfmt.src#RID_SVXPAGE_NUMBERFORMAT.IB_INFO.imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.IB_INFO.imagebutton.quickhelptext
+msgid "Edit Comment"
+msgstr "ਟਿੱਪਣੀ ਸੋਧ"
+
+#: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.STR_AUTO_ENTRY.string.text
+msgctxt "numfmt.src#RID_SVXPAGE_NUMBERFORMAT.STR_AUTO_ENTRY.string.text"
+msgid "Automatic"
+msgstr "ਆਟੋਮੈਟਿਕ"
+
+#: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.tabpage.text
+msgid "Number Format"
+msgstr "ਨੰਬਰ ਫਾਰਮੈਟ"
+
+#: frmdirlbox.src#RID_SVXSTR_FRAMEDIR_LTR.string.text
+msgid "Left-to-right"
+msgstr "ਖੱਬੇ-ਤੋਂ-ਸੱਜਾ"
+
+#: frmdirlbox.src#RID_SVXSTR_FRAMEDIR_RTL.string.text
+msgid "Right-to-left"
+msgstr "ਸੱਜੇ-ਤੋਂ-ਖੱਬੇ"
+
+#: frmdirlbox.src#RID_SVXSTR_FRAMEDIR_SUPER.string.text
+msgid "Use superordinate object settings"
+msgstr "ਸੁਪਰ-ਸਹਾਇਕ ਇਕਾਈ ਸੈਟਿੰਗ ਵਰਤੋਂ"
+
+#: frmdirlbox.src#RID_SVXSTR_PAGEDIR_LTR_HORI.string.text
+msgid "Left-to-right (horizontal)"
+msgstr "ਖੱਬੇ-ਤੋਂ-ਸੱਜੇ (ਖਿਤਿਜੀ)"
+
+#: frmdirlbox.src#RID_SVXSTR_PAGEDIR_RTL_HORI.string.text
+msgid "Right-to-left (horizontal)"
+msgstr "ਸੱਜੇ-ਤੋਂ-ਖੱਬੇ (ਖਿਤਿਜੀ)"
+
+#: frmdirlbox.src#RID_SVXSTR_PAGEDIR_RTL_VERT.string.text
+msgid "Right-to-left (vertical)"
+msgstr "ਸੱਜੇ-ਤੋਂ-ਖੱਬਾ (ਲੰਬਕਾਰੀ)"
+
+#: frmdirlbox.src#RID_SVXSTR_PAGEDIR_LTR_VERT.string.text
+msgid "Left-to-right (vertical)"
+msgstr "ਸੱਜੇ-ਤੋਂ-ਖੱਬਾ (ਲੰਬਕਾਰੀ)"
+
+#: tabline.src#RID_SVXPAGE_LINE.FL_LINE.fixedline.text
+msgid "Line properties"
+msgstr "ਲਾਇਨ ਵਿਸ਼ੇਸ਼ਤਾ"
+
+#: tabline.src#RID_SVXPAGE_LINE.FT_LINE_STYLE.fixedtext.text
+msgid "~Style"
+msgstr "ਸਟਾਈਲ(~S)"
+
+#: tabline.src#RID_SVXPAGE_LINE.FT_COLOR.fixedtext.text
+msgid "Colo~r"
+msgstr "ਰੰਗ(~r)"
+
+#: tabline.src#RID_SVXPAGE_LINE.FT_LINE_WIDTH.fixedtext.text
+msgctxt "tabline.src#RID_SVXPAGE_LINE.FT_LINE_WIDTH.fixedtext.text"
+msgid "~Width"
+msgstr "ਚੌੜਾਈ(~W)"
+
+#: tabline.src#RID_SVXPAGE_LINE.FT_TRANSPARENT.fixedtext.text
+msgctxt "tabline.src#RID_SVXPAGE_LINE.FT_TRANSPARENT.fixedtext.text"
+msgid "~Transparency"
+msgstr "ਟਰਾਂਸਪਰੇਸੀ(~T)"
+
+#: tabline.src#RID_SVXPAGE_LINE.FL_LINE_ENDS.fixedline.text
+msgid "Arrow styles"
+msgstr "ਤੀਰ ਸਟਾਈਲ"
+
+#: tabline.src#RID_SVXPAGE_LINE.FT_LINE_ENDS_STYLE.fixedtext.text
+msgctxt "tabline.src#RID_SVXPAGE_LINE.FT_LINE_ENDS_STYLE.fixedtext.text"
+msgid "St~yle"
+msgstr "ਸਟਾਈਲ(~y)"
+
+#: tabline.src#RID_SVXPAGE_LINE.FT_LINE_ENDS_WIDTH.fixedtext.text
+msgctxt "tabline.src#RID_SVXPAGE_LINE.FT_LINE_ENDS_WIDTH.fixedtext.text"
+msgid "Wi~dth"
+msgstr "ਚੌੜਾਈ(~d)"
+
+#: tabline.src#RID_SVXPAGE_LINE.TSB_CENTER_START.tristatebox.text
+msgid "Ce~nter"
+msgstr "ਕੇਂਦਰੀ(~n)"
+
+#: tabline.src#RID_SVXPAGE_LINE.TSB_CENTER_END.tristatebox.text
+msgctxt "tabline.src#RID_SVXPAGE_LINE.TSB_CENTER_END.tristatebox.text"
+msgid "C~enter"
+msgstr "ਕੇਂਦਰੀ(~e)"
+
+#: tabline.src#RID_SVXPAGE_LINE.CBX_SYNCHRONIZE.checkbox.text
+msgid "Synchroni~ze ends"
+msgstr "Synchroni~ze ends"
+
+#: tabline.src#RID_SVXPAGE_LINE.FL_EDGE_STYLE.fixedline.text
+msgid "Corner style"
+msgstr "ਸਟਾਇਲ"
+
+#: tabline.src#RID_SVXPAGE_LINE.FT_EDGE_STYLE.fixedtext.text
+msgid "Sty~le"
+msgstr "ਸਟਾਇਲ(~l)"
+
+#: tabline.src#RID_SVXPAGE_LINE.LB_EDGE_STYLE.1.stringlist.text
+msgid "Rounded"
+msgstr "ਗੋਲ ਕਿਨਾਰੇ"
+
+#: tabline.src#RID_SVXPAGE_LINE.LB_EDGE_STYLE.2.stringlist.text
+msgid "- none -"
+msgstr "- ਕੋਈ ਨਹੀਂ -"
+
+#: tabline.src#RID_SVXPAGE_LINE.LB_EDGE_STYLE.3.stringlist.text
+msgid "Mitered"
+msgstr "Mitered"
+
+#: tabline.src#RID_SVXPAGE_LINE.LB_EDGE_STYLE.4.stringlist.text
+msgid "Beveled"
+msgstr "ਬੀਵਲੀਡ"
+
+#: tabline.src#RID_SVXPAGE_LINE.FL_SYMBOL_FORMAT.fixedline.text
+msgid "Icon"
+msgstr "ਆਈਕਾਨ"
+
+#: tabline.src#RID_SVXPAGE_LINE.MB_SYMBOL_BITMAP.MN_SYMBOLS_NONE.menuitem.text
+msgid "No Symbol"
+msgstr "ਨਹੀਂ"
+
+#: tabline.src#RID_SVXPAGE_LINE.MB_SYMBOL_BITMAP.MN_SYMBOLS_AUTO.menuitem.text
+msgctxt "tabline.src#RID_SVXPAGE_LINE.MB_SYMBOL_BITMAP.MN_SYMBOLS_AUTO.menuitem.text"
+msgid "Automatic"
+msgstr "ਆਟੋਮੈਟਿਕ"
+
+#: tabline.src#RID_SVXPAGE_LINE.MB_SYMBOL_BITMAP.MN_GRAPHIC_DLG.menuitem.text
+msgctxt "tabline.src#RID_SVXPAGE_LINE.MB_SYMBOL_BITMAP.MN_GRAPHIC_DLG.menuitem.text"
+msgid "From file..."
+msgstr "ਫਾਇਲ ਤੋਂ..."
+
+#: tabline.src#RID_SVXPAGE_LINE.MB_SYMBOL_BITMAP.MN_GALLERY.menuitem.text
+msgctxt "tabline.src#RID_SVXPAGE_LINE.MB_SYMBOL_BITMAP.MN_GALLERY.menuitem.text"
+msgid "Gallery"
+msgstr "ਗੈਲਰੀ"
+
+#: tabline.src#RID_SVXPAGE_LINE.MB_SYMBOL_BITMAP.MN_SYMBOLS.menuitem.text
+msgid "Symbols"
+msgstr "ਨਿਸ਼ਾਨ"
+
+#: tabline.src#RID_SVXPAGE_LINE.MB_SYMBOL_BITMAP.menubutton.text
+msgctxt "tabline.src#RID_SVXPAGE_LINE.MB_SYMBOL_BITMAP.menubutton.text"
+msgid "Select..."
+msgstr "ਚੁਣੋ..."
+
+#: tabline.src#RID_SVXPAGE_LINE.FT_SYMBOL_WIDTH.fixedtext.text
+msgctxt "tabline.src#RID_SVXPAGE_LINE.FT_SYMBOL_WIDTH.fixedtext.text"
+msgid "Width"
+msgstr "ਚੌੜਾਈ"
+
+#: tabline.src#RID_SVXPAGE_LINE.FT_SYMBOL_HEIGHT.fixedtext.text
+msgctxt "tabline.src#RID_SVXPAGE_LINE.FT_SYMBOL_HEIGHT.fixedtext.text"
+msgid "Height"
+msgstr "ਉਚਾਈ"
+
+#: tabline.src#RID_SVXPAGE_LINE.CB_SYMBOL_RATIO.checkbox.text
+msgctxt "tabline.src#RID_SVXPAGE_LINE.CB_SYMBOL_RATIO.checkbox.text"
+msgid "Keep ratio"
+msgstr "ਰੇਸ਼ੋ ਰੱਖੋ"
+
+#: tabline.src#RID_SVXPAGE_LINE.STR_STYLE.string.text
+msgctxt "tabline.src#RID_SVXPAGE_LINE.STR_STYLE.string.text"
+msgid "Style"
+msgstr "ਸਟਾਇਲ"
+
+#: tabline.src#RID_SVXPAGE_LINE.STR_LB_START_STYLE.string.text
+msgid "Start style"
+msgstr "ਸ਼ੁਰੂ ਸਟਾਈਲ"
+
+#: tabline.src#RID_SVXPAGE_LINE.STR_LB_END_STYLE.string.text
+msgid "End style"
+msgstr "ਅੰਤ ਸਟਾਈਲ"
+
+#: tabline.src#RID_SVXPAGE_LINE.STR_MTR_FLD_START_WIDTH.string.text
+msgid "Start width"
+msgstr "ਇਸ ਨਾਲ ਸ਼ੁਰੂ"
+
+#: tabline.src#RID_SVXPAGE_LINE.STR_MTR_FLD_END_WIDTH.string.text
+msgid "End width"
+msgstr "ਰੇਖਾ ਚੌੜਾਈ"
+
+#: tabline.src#RID_SVXPAGE_LINE.STR_CENTER_START.string.text
+msgid "Start with center"
+msgstr "ਸ਼ੁਰੂ-ਸੈਂਟਰ"
+
+#: tabline.src#RID_SVXPAGE_LINE.STR_CENTER_END.string.text
+msgid "End with center"
+msgstr "ਸੱਜਾ ਕੇਂਦਰੀ"
+
+#: tabline.src#RID_SVXPAGE_LINE.tabpage.text
+msgctxt "tabline.src#RID_SVXPAGE_LINE.tabpage.text"
+msgid "Lines"
+msgstr "ਲਾਈਨਾਂ"
+
+#: tabline.src#RID_SVXPAGE_LINE_DEF.FL_DEFINITION.fixedline.text
+msgctxt "tabline.src#RID_SVXPAGE_LINE_DEF.FL_DEFINITION.fixedline.text"
+msgid "Properties"
+msgstr "ਵਿਸ਼ੇਸ਼ਤਾ"
+
+#: tabline.src#RID_SVXPAGE_LINE_DEF.FT_TYPE.fixedtext.text
+msgctxt "tabline.src#RID_SVXPAGE_LINE_DEF.FT_TYPE.fixedtext.text"
+msgid "~Type"
+msgstr "ਕਿਸਮ(~T)"
+
+#: tabline.src#RID_SVXPAGE_LINE_DEF.LB_TYPE_1.1.stringlist.text
+msgctxt "tabline.src#RID_SVXPAGE_LINE_DEF.LB_TYPE_1.1.stringlist.text"
+msgid "Dot"
+msgstr "ਬਿੰਦੀ"
+
+#: tabline.src#RID_SVXPAGE_LINE_DEF.LB_TYPE_1.2.stringlist.text
+msgctxt "tabline.src#RID_SVXPAGE_LINE_DEF.LB_TYPE_1.2.stringlist.text"
+msgid "Dash"
+msgstr "ਡੈਸ਼"
+
+#: tabline.src#RID_SVXPAGE_LINE_DEF.LB_TYPE_2.1.stringlist.text
+msgctxt "tabline.src#RID_SVXPAGE_LINE_DEF.LB_TYPE_2.1.stringlist.text"
+msgid "Dot"
+msgstr "ਬਿੰਦੀ"
+
+#: tabline.src#RID_SVXPAGE_LINE_DEF.LB_TYPE_2.2.stringlist.text
+msgctxt "tabline.src#RID_SVXPAGE_LINE_DEF.LB_TYPE_2.2.stringlist.text"
+msgid "Dash"
+msgstr "ਡੈਸ਼"
+
+#: tabline.src#RID_SVXPAGE_LINE_DEF.FT_NUMBER.fixedtext.text
+msgid "~Number"
+msgstr "ਗਿਣਤੀ(~N)"
+
+#: tabline.src#RID_SVXPAGE_LINE_DEF.FT_LENGTH.fixedtext.text
+msgctxt "tabline.src#RID_SVXPAGE_LINE_DEF.FT_LENGTH.fixedtext.text"
+msgid "~Length"
+msgstr "ਲੰਬਾਈ(~L)"
+
+#: tabline.src#RID_SVXPAGE_LINE_DEF.FT_DISTANCE.fixedtext.text
+msgctxt "tabline.src#RID_SVXPAGE_LINE_DEF.FT_DISTANCE.fixedtext.text"
+msgid "~Spacing"
+msgstr "ਖਾਲੀ ਥਾਂ(~S)"
+
+#: tabline.src#RID_SVXPAGE_LINE_DEF.CBX_SYNCHRONIZE.checkbox.text
+msgid "~Fit to line width"
+msgstr "~ਲਾਈਨ ਦੇ ਅੰਤ ਵਿੱਚ ਨਹੀਂ"
+
+#: tabline.src#RID_SVXPAGE_LINE_DEF.FT_LINESTYLE.fixedtext.text
+msgid "Line style"
+msgstr "ਰੇਖਾ ਸਟਾਈਲ"
+
+#: tabline.src#RID_SVXPAGE_LINE_DEF.BTN_ADD.pushbutton.text
+msgctxt "tabline.src#RID_SVXPAGE_LINE_DEF.BTN_ADD.pushbutton.text"
+msgid "~Add..."
+msgstr "ਸ਼ਾਮਲ(~A)..."
+
+#: tabline.src#RID_SVXPAGE_LINE_DEF.BTN_MODIFY.pushbutton.text
+msgctxt "tabline.src#RID_SVXPAGE_LINE_DEF.BTN_MODIFY.pushbutton.text"
+msgid "~Modify..."
+msgstr "ਸੋਧ(~M)..."
+
+#: tabline.src#RID_SVXPAGE_LINE_DEF.BTN_DELETE.pushbutton.text
+msgctxt "tabline.src#RID_SVXPAGE_LINE_DEF.BTN_DELETE.pushbutton.text"
+msgid "~Delete..."
+msgstr "ਹਟਾਓ(~D)..."
+
+#: tabline.src#RID_SVXPAGE_LINE_DEF.BTN_LOAD.imagebutton.text
+msgctxt "tabline.src#RID_SVXPAGE_LINE_DEF.BTN_LOAD.imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#: tabline.src#RID_SVXPAGE_LINE_DEF.BTN_LOAD.imagebutton.quickhelptext
+msgid "Load Line Styles"
+msgstr "ਲਾਇਨ ਸਟਾਈਲ"
+
+#: tabline.src#RID_SVXPAGE_LINE_DEF.BTN_SAVE.imagebutton.text
+msgctxt "tabline.src#RID_SVXPAGE_LINE_DEF.BTN_SAVE.imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#: tabline.src#RID_SVXPAGE_LINE_DEF.BTN_SAVE.imagebutton.quickhelptext
+msgid "Save Line Styles"
+msgstr "ਲਾਇਨ ਸਟਾਈਲ"
+
+#: tabline.src#RID_SVXPAGE_LINE_DEF.STR_START_TYPE.string.text
+msgid "Start type"
+msgstr "ਸ਼ੁਰੂ ਕਿਸਮ"
+
+#: tabline.src#RID_SVXPAGE_LINE_DEF.STR_END_TYPE.string.text
+msgid "End type"
+msgstr "ਅੰਤ ਕਿਸਮ"
+
+#: tabline.src#RID_SVXPAGE_LINE_DEF.STR_START_NUM.string.text
+msgid "Start number"
+msgstr "ਸ਼ੁਰੂ ਨੰਬਰ"
+
+#: tabline.src#RID_SVXPAGE_LINE_DEF.STR_END_NUM.string.text
+msgid "End number"
+msgstr "ਅੰਤ ਨੰਬਰ"
+
+#: tabline.src#RID_SVXPAGE_LINE_DEF.STR_START_LENGTH.string.text
+msgid "Start length"
+msgstr "ਸ਼ੁਰੂ ਲੰਬਾਈ"
+
+#: tabline.src#RID_SVXPAGE_LINE_DEF.STR_END_LENGTH.string.text
+msgid "End length"
+msgstr "ਅੰਤ ਲੰਬਾਈ"
+
+#: tabline.src#RID_SVXPAGE_LINE_DEF.tabpage.text
+msgid "Define line styles"
+msgstr "ਲਾਇਨ ਸਟਾਈਲ"
+
+#: tabline.src#RID_SVXPAGE_LINEEND_DEF.FL_TIP.fixedline.text
+msgid "Organize arrow styles"
+msgstr "ਤੀਰ ਸਟਾਈਲ"
+
+#: tabline.src#RID_SVXPAGE_LINEEND_DEF.FI_TIP.fixedtext.text
+msgid "Add a selected object to create new arrow styles."
+msgstr "ਨੂੰ ਬਣਾਉਣ ਵਿੱਚ ਫੇਲ."
+
+#: tabline.src#RID_SVXPAGE_LINEEND_DEF.FT_LINE_END_STYLE.fixedtext.text
+msgid "Arrow style"
+msgstr "ਤੀਰ ਸਟਾਈਲ"
+
+#: tabline.src#RID_SVXPAGE_LINEEND_DEF.FT_TITLE.fixedtext.text
+msgid "~Title"
+msgstr "ਟਾਈਟਲ(~T)"
+
+#: tabline.src#RID_SVXPAGE_LINEEND_DEF.BTN_ADD.pushbutton.text
+msgctxt "tabline.src#RID_SVXPAGE_LINEEND_DEF.BTN_ADD.pushbutton.text"
+msgid "~Add..."
+msgstr "ਸ਼ਾਮਲ(~A)..."
+
+#: tabline.src#RID_SVXPAGE_LINEEND_DEF.BTN_MODIFY.pushbutton.text
+msgctxt "tabline.src#RID_SVXPAGE_LINEEND_DEF.BTN_MODIFY.pushbutton.text"
+msgid "~Modify..."
+msgstr "ਸੋਧ(~M)..."
+
+#: tabline.src#RID_SVXPAGE_LINEEND_DEF.BTN_DELETE.pushbutton.text
+msgctxt "tabline.src#RID_SVXPAGE_LINEEND_DEF.BTN_DELETE.pushbutton.text"
+msgid "~Delete..."
+msgstr "ਹਟਾਓ(~D)..."
+
+#: tabline.src#RID_SVXPAGE_LINEEND_DEF.BTN_LOAD.imagebutton.text
+msgctxt "tabline.src#RID_SVXPAGE_LINEEND_DEF.BTN_LOAD.imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#: tabline.src#RID_SVXPAGE_LINEEND_DEF.BTN_LOAD.imagebutton.quickhelptext
+msgid "Load Arrow Styles"
+msgstr "ਤੀਰ ਸਟਾਈਲ ਲੋਡ"
+
+#: tabline.src#RID_SVXPAGE_LINEEND_DEF.BTN_SAVE.imagebutton.text
+msgctxt "tabline.src#RID_SVXPAGE_LINEEND_DEF.BTN_SAVE.imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#: tabline.src#RID_SVXPAGE_LINEEND_DEF.BTN_SAVE.imagebutton.quickhelptext
+msgid "Save Arrow Styles"
+msgstr "ਤੀਰ ਸਟਾਈਲ ਸੰਭਾਲੋ"
+
+#: tabline.src#RID_SVXPAGE_LINEEND_DEF.tabpage.text
+msgid "Arrowheads"
+msgstr "ਤੀਰਮੁੱਖ"
+
+#: tabline.src#RID_SVXDLG_LINE.TAB_CONTROL.RID_SVXPAGE_LINE.pageitem.text
+msgctxt "tabline.src#RID_SVXDLG_LINE.TAB_CONTROL.RID_SVXPAGE_LINE.pageitem.text"
+msgid "Line"
+msgstr " ਲਾਈਨ"
+
+#: tabline.src#RID_SVXDLG_LINE.TAB_CONTROL.RID_SVXPAGE_SHADOW.pageitem.text
+msgctxt "tabline.src#RID_SVXDLG_LINE.TAB_CONTROL.RID_SVXPAGE_SHADOW.pageitem.text"
+msgid "Shadow"
+msgstr "ਸ਼ੈਡੋ"
+
+#: tabline.src#RID_SVXDLG_LINE.TAB_CONTROL.RID_SVXPAGE_LINE_DEF.pageitem.text
+msgid "Line Styles"
+msgstr "ਲਾਇਨ ਸਟਾਈਲ"
+
+#: tabline.src#RID_SVXDLG_LINE.TAB_CONTROL.RID_SVXPAGE_LINEEND_DEF.pageitem.text
+msgid "Arrow Styles"
+msgstr "ਤੀਰ ਸਟਾਈਲ"
+
+#: tabline.src#RID_SVXDLG_LINE.tabdialog.text
+msgctxt "tabline.src#RID_SVXDLG_LINE.tabdialog.text"
+msgid "Line"
+msgstr " ਲਾਈਨ"
+
+#: tabstpge.src#RID_SVXPAGE_TABULATOR.FL_TABPOS.fixedline.text
+msgctxt "tabstpge.src#RID_SVXPAGE_TABULATOR.FL_TABPOS.fixedline.text"
+msgid "Position"
+msgstr "ਸਥਿਤੀ"
+
+#: tabstpge.src#RID_SVXPAGE_TABULATOR.FL_TABTYPE.fixedline.text
+msgctxt "tabstpge.src#RID_SVXPAGE_TABULATOR.FL_TABTYPE.fixedline.text"
+msgid "Type"
+msgstr "ਕਿਸਮ"
+
+#: tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_TABTYPE_LEFT.radiobutton.text
+msgctxt "tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_TABTYPE_LEFT.radiobutton.text"
+msgid "~Left"
+msgstr "ਖੱਬੇ(~L)"
+
+#: tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_TABTYPE_RIGHT.radiobutton.text
+msgctxt "tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_TABTYPE_RIGHT.radiobutton.text"
+msgid "Righ~t"
+msgstr "ਸੱਜਾ(~t)"
+
+#: tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_TABTYPE_CENTER.radiobutton.text
+msgid "C~entered"
+msgstr "ਕੇਂਦਰੀ(~e)"
+
+#: tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_TABTYPE_DECIMAL.radiobutton.text
+msgid "Deci~mal"
+msgstr "ਦਸਮਲਵ(~m)"
+
+#: tabstpge.src#RID_SVXPAGE_TABULATOR.FT_TABTYPE_DECCHAR.fixedtext.text
+msgid "~Character"
+msgstr "ਅੱਖਰ(~C)"
+
+#: tabstpge.src#RID_SVXPAGE_TABULATOR.FL_FILLCHAR.fixedline.text
+msgid "Fill character"
+msgstr "ਭਰਨ ਅੱਖਰ"
+
+#: tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_FILLCHAR_NO.radiobutton.text
+msgctxt "tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_FILLCHAR_NO.radiobutton.text"
+msgid "N~one"
+msgstr "ਕੋਈ ਨਹੀਂ(~o)"
+
+#: tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_FILLCHAR_OTHER.radiobutton.text
+msgctxt "tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_FILLCHAR_OTHER.radiobutton.text"
+msgid "Character"
+msgstr "ਅੱਖਰ"
+
+#: tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_NEW.pushbutton.text
+msgctxt "tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_NEW.pushbutton.text"
+msgid "~New"
+msgstr "ਨਵਾਂ(~N)"
+
+#: tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_DELALL.pushbutton.text
+msgid "Delete ~All"
+msgstr "ਸਭ ਹਟਾਓ(~A)"
+
+#: tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_DEL.pushbutton.text
+msgctxt "tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_DEL.pushbutton.text"
+msgid "~Delete"
+msgstr "ਹਟਾਓ(~D)"
+
+#: tabstpge.src#RID_SVXPAGE_TABULATOR.ST_LEFTTAB_ASIAN.string.text
+msgctxt "tabstpge.src#RID_SVXPAGE_TABULATOR.ST_LEFTTAB_ASIAN.string.text"
+msgid "~Left/Top"
+msgstr "ਖੱਬੇ/ਉੱਪਰ(~L)"
+
+#: tabstpge.src#RID_SVXPAGE_TABULATOR.ST_RIGHTTAB_ASIAN.string.text
+msgctxt "tabstpge.src#RID_SVXPAGE_TABULATOR.ST_RIGHTTAB_ASIAN.string.text"
+msgid "Righ~t/Bottom"
+msgstr "ਸੱਜੇ/ਹੇਠਾਂ(~t)"
+
+#: tabstpge.src#RID_SVXPAGE_TABULATOR.ST_FILLCHAR_OTHER.string.text
+msgctxt "tabstpge.src#RID_SVXPAGE_TABULATOR.ST_FILLCHAR_OTHER.string.text"
+msgid "Character"
+msgstr "ਅੱਖਰ"
+
+#: tabstpge.src#RID_SVXPAGE_TABULATOR.tabpage.text
+msgid "Tabs"
+msgstr "ਟੈਬ"
+
+#: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FL_SIZE.fixedline.text
+msgctxt "swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FL_SIZE.fixedline.text"
+msgid "Size"
+msgstr "ਅਕਾਰ"
+
+#: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FT_WIDTH.fixedtext.text
+msgctxt "swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FT_WIDTH.fixedtext.text"
+msgid "~Width"
+msgstr "ਚੌੜਾਈ(~W)"
+
+#: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FT_HEIGHT.fixedtext.text
+msgctxt "swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FT_HEIGHT.fixedtext.text"
+msgid "H~eight"
+msgstr "ਉਚਾਈ(~e)"
+
+#: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.CB_KEEPRATIO.checkbox.text
+msgctxt "swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.CB_KEEPRATIO.checkbox.text"
+msgid "~Keep ratio"
+msgstr "ਅਨੁਪਾਤ ਰੱਖੋ(~K)"
+
+#: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FL_ANCHOR.fixedline.text
+msgctxt "swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FL_ANCHOR.fixedline.text"
+msgid "Anchor"
+msgstr "ਐਂਕਰ"
+
+#: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.RB_TOPAGE.radiobutton.text
+msgid "To ~page"
+msgstr "ਸਫ਼ੇ ਉੱਤੇ(~P)"
+
+#: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.RB_TOPARA.radiobutton.text
+msgid "To paragrap~h"
+msgstr "ਪ੍ਹੈਰੇ ਤੋਂ(~H)"
+
+#: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.RB_TOCHAR.radiobutton.text
+msgid "To cha~racter"
+msgstr "ਅੱਖਰ ਲਈ(~R)"
+
+#: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.RB_ASCHAR.radiobutton.text
+msgid "~As character"
+msgstr "ਅੱਖਰ ਵਾਂਗ(~A)"
+
+#: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.RB_TOFRAME.radiobutton.text
+msgid "To ~frame"
+msgstr "ਫਰੇਮ ਤੇ(~F)"
+
+#: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FL_PROTECTION.fixedline.text
+msgctxt "swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FL_PROTECTION.fixedline.text"
+msgid "Protect"
+msgstr "ਸੁਰੱਖਿਅਤ"
+
+#: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.CB_POSITION.tristatebox.text
+msgctxt "swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.CB_POSITION.tristatebox.text"
+msgid "Position"
+msgstr "ਸਥਿਤੀ"
+
+#: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.CB_SIZE.tristatebox.text
+msgctxt "swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.CB_SIZE.tristatebox.text"
+msgid "~Size"
+msgstr "ਅਕਾਰ(~S)"
+
+#: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FL_POSITION.fixedline.text
+msgctxt "swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FL_POSITION.fixedline.text"
+msgid "Position"
+msgstr "ਸਥਿਤੀ"
+
+#: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FT_HORI.fixedtext.text
+msgctxt "swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FT_HORI.fixedtext.text"
+msgid "Hori~zontal"
+msgstr "ਖਿਤਿਜੀ(~Z)"
+
+#: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FT_HORIBY.fixedtext.text
+msgctxt "swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FT_HORIBY.fixedtext.text"
+msgid "b~y"
+msgstr "ਰਾਹੀਂ(~y)"
+
+#: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FT_HORITO.fixedtext.text
+msgid "~to"
+msgstr "ਵੱਲ(~T)"
+
+#: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.CB_HORIMIRROR.checkbox.text
+msgid "~Mirror on even pages"
+msgstr "ਜਿਸਤ ਸਫ਼ਿਆਂ ਤੇ ਪ੍ਰਤੀਬਿੰਬ(~M)"
+
+#: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FT_VERT.fixedtext.text
+msgctxt "swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FT_VERT.fixedtext.text"
+msgid "~Vertical"
+msgstr "ਵਰਟੀਕਲ(~V)"
+
+#: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FT_VERTBY.fixedtext.text
+msgid "by"
+msgstr "ਰਾਹੀਂ"
+
+#: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FT_VERTTO.fixedtext.text
+msgid "t~o"
+msgstr "ਵੱਲ(~O)"
+
+#: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.CB_FOLLOW.checkbox.text
+msgid "Follow text flow"
+msgstr "ਪਾਠ ਵਹਾ ਵੇਖੋ"
+
+#: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.tabpage.text
+msgctxt "swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.tabpage.text"
+msgid "Position and Size"
+msgstr "ਸਥਿਤੀ ਅਤੇ ਅਕਾਰ"
+
+#: tabarea.src#RID_SVXPAGE_TRANSPARENCE.FL_PROP.fixedline.text
+msgid "Transparency mode"
+msgstr "ਪਾਰਦਰਸ਼ਤਾ ਮੋਡ"
+
+#: tabarea.src#RID_SVXPAGE_TRANSPARENCE.RBT_TRANS_OFF.radiobutton.text
+msgid "~No transparency"
+msgstr "ਕੋਈ ਪਾਰਦਰਸ਼ਤਾ ਨਹੀਂ(~n)"
+
+#: tabarea.src#RID_SVXPAGE_TRANSPARENCE.RBT_TRANS_LINEAR.radiobutton.text
+msgctxt "tabarea.src#RID_SVXPAGE_TRANSPARENCE.RBT_TRANS_LINEAR.radiobutton.text"
+msgid "~Transparency"
+msgstr "ਟਰਾਂਸਪਰੇਸੀ"
+
+#: tabarea.src#RID_SVXPAGE_TRANSPARENCE.RBT_TRANS_GRADIENT.radiobutton.text
+msgctxt "tabarea.src#RID_SVXPAGE_TRANSPARENCE.RBT_TRANS_GRADIENT.radiobutton.text"
+msgid "Gradient"
+msgstr "ਗਰੇਡੀਐਂਟ"
+
+#: tabarea.src#RID_SVXPAGE_TRANSPARENCE.FT_TRGR_TYPE.fixedtext.text
+msgctxt "tabarea.src#RID_SVXPAGE_TRANSPARENCE.FT_TRGR_TYPE.fixedtext.text"
+msgid "Ty~pe"
+msgstr "ਕਿਸਮ(~p)"
+
+#: tabarea.src#RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES.1.stringlist.text
+msgctxt "tabarea.src#RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES.1.stringlist.text"
+msgid "Linear"
+msgstr "ਲੀਨੀਅਰ"
+
+#: tabarea.src#RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES.2.stringlist.text
+msgctxt "tabarea.src#RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES.2.stringlist.text"
+msgid "Axial"
+msgstr "ਧੁਰਾ"
+
+#: tabarea.src#RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES.3.stringlist.text
+msgctxt "tabarea.src#RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES.3.stringlist.text"
+msgid "Radial"
+msgstr "ਰੇਡੀਕਲ"
+
+#: tabarea.src#RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES.4.stringlist.text
+msgctxt "tabarea.src#RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES.4.stringlist.text"
+msgid "Ellipsoid"
+msgstr "ਅੰਡਾਕਾਰੀ"
+
+#: tabarea.src#RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES.5.stringlist.text
+msgid "Quadratic"
+msgstr "ਚਕੌਰ"
+
+#: tabarea.src#RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES.6.stringlist.text
+msgctxt "tabarea.src#RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES.6.stringlist.text"
+msgid "Square"
+msgstr "ਵਰਗ"
+
+#: tabarea.src#RID_SVXPAGE_TRANSPARENCE.FT_TRGR_CENTER_X.fixedtext.text
+msgctxt "tabarea.src#RID_SVXPAGE_TRANSPARENCE.FT_TRGR_CENTER_X.fixedtext.text"
+msgid "Center ~X"
+msgstr "ਕੇਂਦਰੀ ~X"
+
+#: tabarea.src#RID_SVXPAGE_TRANSPARENCE.FT_TRGR_CENTER_Y.fixedtext.text
+msgctxt "tabarea.src#RID_SVXPAGE_TRANSPARENCE.FT_TRGR_CENTER_Y.fixedtext.text"
+msgid "Center ~Y"
+msgstr "ਕੇਂਦਰੀ ~Y"
+
+#: tabarea.src#RID_SVXPAGE_TRANSPARENCE.FT_TRGR_ANGLE.fixedtext.text
+msgctxt "tabarea.src#RID_SVXPAGE_TRANSPARENCE.FT_TRGR_ANGLE.fixedtext.text"
+msgid "~Angle"
+msgstr "ਕੋਣ(~A)"
+
+#: tabarea.src#RID_SVXPAGE_TRANSPARENCE.MTR_TRGR_ANGLE.metricfield.text
+msgctxt "tabarea.src#RID_SVXPAGE_TRANSPARENCE.MTR_TRGR_ANGLE.metricfield.text"
+msgid " degrees"
+msgstr " ਡਿਗਰੀ"
+
+#: tabarea.src#RID_SVXPAGE_TRANSPARENCE.FT_TRGR_BORDER.fixedtext.text
+msgctxt "tabarea.src#RID_SVXPAGE_TRANSPARENCE.FT_TRGR_BORDER.fixedtext.text"
+msgid "~Border"
+msgstr "ਬਾਰਡਰ(~B)"
+
+#: tabarea.src#RID_SVXPAGE_TRANSPARENCE.FT_TRGR_START_VALUE.fixedtext.text
+msgid "~Start value"
+msgstr "ਸ਼ੁਰੂ ਮੁੱਲ(~s)"
+
+#: tabarea.src#RID_SVXPAGE_TRANSPARENCE.FT_TRGR_END_VALUE.fixedtext.text
+msgid "~End value"
+msgstr "ਅੰਤ ਮੁੱਲ(~E)"
+
+#: tabarea.src#RID_SVXPAGE_TRANSPARENCE.tabpage.text
+msgctxt "tabarea.src#RID_SVXPAGE_TRANSPARENCE.tabpage.text"
+msgid "Transparency"
+msgstr "ਟਰਾਂਸਪਰੇਸੀ"
+
+#: tabarea.src#RID_SVXPAGE_AREA.FL_PROP.fixedline.text
+msgid "Fill"
+msgstr "ਭਰੋ"
+
+#: tabarea.src#RID_SVXPAGE_AREA.LB_AREA_TYPE.1.stringlist.text
+msgctxt "tabarea.src#RID_SVXPAGE_AREA.LB_AREA_TYPE.1.stringlist.text"
+msgid "None"
+msgstr "ਕੋਈ ਨਹੀਂ"
+
+#: tabarea.src#RID_SVXPAGE_AREA.LB_AREA_TYPE.2.stringlist.text
+msgctxt "tabarea.src#RID_SVXPAGE_AREA.LB_AREA_TYPE.2.stringlist.text"
+msgid "Color"
+msgstr "ਰੰਗ"
+
+#: tabarea.src#RID_SVXPAGE_AREA.LB_AREA_TYPE.3.stringlist.text
+msgctxt "tabarea.src#RID_SVXPAGE_AREA.LB_AREA_TYPE.3.stringlist.text"
+msgid "Gradient"
+msgstr "ਗਰੇਡੀਐਂਟ"
+
+#: tabarea.src#RID_SVXPAGE_AREA.LB_AREA_TYPE.4.stringlist.text
+msgctxt "tabarea.src#RID_SVXPAGE_AREA.LB_AREA_TYPE.4.stringlist.text"
+msgid "Hatching"
+msgstr "ਵਿਓਂਤ"
+
+#: tabarea.src#RID_SVXPAGE_AREA.LB_AREA_TYPE.5.stringlist.text
+msgctxt "tabarea.src#RID_SVXPAGE_AREA.LB_AREA_TYPE.5.stringlist.text"
+msgid "Bitmap"
+msgstr "ਬਿਟਮੈਪ"
+
+#: tabarea.src#RID_SVXPAGE_AREA.FL_STEPCOUNT.fixedline.text
+msgid "Increments"
+msgstr "ਵਾਧਾ"
+
+#: tabarea.src#RID_SVXPAGE_AREA.TSB_STEPCOUNT.tristatebox.text
+msgctxt "tabarea.src#RID_SVXPAGE_AREA.TSB_STEPCOUNT.tristatebox.text"
+msgid "A~utomatic"
+msgstr "ਆਟੋਮੈਟਿਕ(~u)"
+
+#: tabarea.src#RID_SVXPAGE_AREA.CB_HATCHBCKGRD.checkbox.text
+msgctxt "tabarea.src#RID_SVXPAGE_AREA.CB_HATCHBCKGRD.checkbox.text"
+msgid "~Background color"
+msgstr "ਬੈਕਗਰਾਊਂਡ ਰੰਗ(~B)"
+
+#: tabarea.src#RID_SVXPAGE_AREA.FL_SIZE.fixedline.text
+msgctxt "tabarea.src#RID_SVXPAGE_AREA.FL_SIZE.fixedline.text"
+msgid "Size"
+msgstr "ਅਕਾਰ"
+
+#: tabarea.src#RID_SVXPAGE_AREA.TSB_ORIGINAL.tristatebox.text
+msgid "~Original"
+msgstr "ਅਸਲੀ(~O)"
+
+#: tabarea.src#RID_SVXPAGE_AREA.TSB_SCALE.tristatebox.text
+msgid "Re~lative"
+msgstr "ਅਨੁਸਾਰੀ(~l)"
+
+#: tabarea.src#RID_SVXPAGE_AREA.FT_X_SIZE.fixedtext.text
+msgctxt "tabarea.src#RID_SVXPAGE_AREA.FT_X_SIZE.fixedtext.text"
+msgid "Wi~dth"
+msgstr "ਚੌੜਾਈ(~W)"
+
+#: tabarea.src#RID_SVXPAGE_AREA.FT_Y_SIZE.fixedtext.text
+msgctxt "tabarea.src#RID_SVXPAGE_AREA.FT_Y_SIZE.fixedtext.text"
+msgid "H~eight"
+msgstr "ਉਚਾਈ(~e)"
+
+#: tabarea.src#RID_SVXPAGE_AREA.FL_POSITION.fixedline.text
+msgctxt "tabarea.src#RID_SVXPAGE_AREA.FL_POSITION.fixedline.text"
+msgid "Position"
+msgstr "ਸਥਿਤੀ"
+
+#: tabarea.src#RID_SVXPAGE_AREA.FT_X_OFFSET.fixedtext.text
+msgid "~X Offset"
+msgstr "~X ਆਫਸੈੱਟ"
+
+#: tabarea.src#RID_SVXPAGE_AREA.FT_Y_OFFSET.fixedtext.text
+msgid "~Y Offset"
+msgstr "~Y ਆਫਸੈੱਟ"
+
+#: tabarea.src#RID_SVXPAGE_AREA.TSB_TILE.tristatebox.text
+msgctxt "tabarea.src#RID_SVXPAGE_AREA.TSB_TILE.tristatebox.text"
+msgid "~Tile"
+msgstr "ਟਾਈਲ(~T)"
+
+#: tabarea.src#RID_SVXPAGE_AREA.TSB_STRETCH.tristatebox.text
+msgid "Auto~Fit"
+msgstr "ਆਟੋ ਫਿੱਟ"
+
+#: tabarea.src#RID_SVXPAGE_AREA.FL_OFFSET.fixedline.text
+msgid "Offset"
+msgstr "ਆਫ਼-ਸੈੱਟ"
+
+#: tabarea.src#RID_SVXPAGE_AREA.RBT_ROW.radiobutton.text
+msgid "Ro~w"
+msgstr "ਕਤਾਰ(~w)"
+
+#: tabarea.src#RID_SVXPAGE_AREA.RBT_COLUMN.radiobutton.text
+msgid "Colu~mn"
+msgstr "ਕਾਲਮ(~m)"
+
+#: tabarea.src#RID_SVXPAGE_AREA.tabpage.text
+msgctxt "tabarea.src#RID_SVXPAGE_AREA.tabpage.text"
+msgid "Area"
+msgstr "ਖੇਤਰ"
+
+#: tabarea.src#RID_SVXPAGE_SHADOW.FL_PROP.fixedline.text
+msgctxt "tabarea.src#RID_SVXPAGE_SHADOW.FL_PROP.fixedline.text"
+msgid "Properties"
+msgstr "ਵਿਸ਼ੇਸ਼ਤਾ"
+
+#: tabarea.src#RID_SVXPAGE_SHADOW.TSB_SHOW_SHADOW.tristatebox.text
+msgid "~Use shadow"
+msgstr "~ਸ਼ੈਡੋ ਪਾਸਵਰਡ ਵਰਤੋ"
+
+#: tabarea.src#RID_SVXPAGE_SHADOW.FT_POSITION.fixedtext.text
+msgctxt "tabarea.src#RID_SVXPAGE_SHADOW.FT_POSITION.fixedtext.text"
+msgid "~Position"
+msgstr "ਸਥਿਤੀ(~P"
+
+#: tabarea.src#RID_SVXPAGE_SHADOW.FT_DISTANCE.fixedtext.text
+msgid "~Distance"
+msgstr "ਦੂਰੀ(~D)"
+
+#: tabarea.src#RID_SVXPAGE_SHADOW.FT_SHADOW_COLOR.fixedtext.text
+msgctxt "tabarea.src#RID_SVXPAGE_SHADOW.FT_SHADOW_COLOR.fixedtext.text"
+msgid "~Color"
+msgstr "ਰੰਗ(~C)"
+
+#: tabarea.src#RID_SVXPAGE_SHADOW.FT_TRANSPARENT.fixedtext.text
+msgctxt "tabarea.src#RID_SVXPAGE_SHADOW.FT_TRANSPARENT.fixedtext.text"
+msgid "~Transparency"
+msgstr "ਟਰਾਂਸਪਰੇਸੀ(~T)"
+
+#: tabarea.src#RID_SVXPAGE_SHADOW.tabpage.text
+msgctxt "tabarea.src#RID_SVXPAGE_SHADOW.tabpage.text"
+msgid "Shadow"
+msgstr "ਸ਼ੈਡੋ"
+
+#: tabarea.src#RID_SVXPAGE_HATCH.FL_PROP.fixedline.text
+msgctxt "tabarea.src#RID_SVXPAGE_HATCH.FL_PROP.fixedline.text"
+msgid "Properties"
+msgstr "ਵਿਸ਼ੇਸ਼ਤਾ"
+
+#: tabarea.src#RID_SVXPAGE_HATCH.FT_LINE_DISTANCE.fixedtext.text
+msgctxt "tabarea.src#RID_SVXPAGE_HATCH.FT_LINE_DISTANCE.fixedtext.text"
+msgid "~Spacing"
+msgstr "ਖਾਲੀ ਥਾਂ(~S)"
+
+#: tabarea.src#RID_SVXPAGE_HATCH.FT_LINE_ANGLE.fixedtext.text
+msgctxt "tabarea.src#RID_SVXPAGE_HATCH.FT_LINE_ANGLE.fixedtext.text"
+msgid "A~ngle"
+msgstr "ਕੋਣ(~n)"
+
+#: tabarea.src#RID_SVXPAGE_HATCH.MTR_FLD_ANGLE.metricfield.text
+msgctxt "tabarea.src#RID_SVXPAGE_HATCH.MTR_FLD_ANGLE.metricfield.text"
+msgid " degrees"
+msgstr " ਡਿਗਰੀ"
+
+#: tabarea.src#RID_SVXPAGE_HATCH.FT_LINE_TYPE.fixedtext.text
+msgid "~Line type"
+msgstr "ਰੇਖਾ ਕਿਸਮ"
+
+#: tabarea.src#RID_SVXPAGE_HATCH.LB_LINE_TYPE.1.stringlist.text
+msgctxt "tabarea.src#RID_SVXPAGE_HATCH.LB_LINE_TYPE.1.stringlist.text"
+msgid "Single"
+msgstr "ਇਕਹੇਰੀ"
+
+#: tabarea.src#RID_SVXPAGE_HATCH.LB_LINE_TYPE.2.stringlist.text
+msgid "Crossed"
+msgstr "ਕਰੌਸਡ"
+
+#: tabarea.src#RID_SVXPAGE_HATCH.LB_LINE_TYPE.3.stringlist.text
+msgid "Triple"
+msgstr "ਤਿਹਰੀ"
+
+#: tabarea.src#RID_SVXPAGE_HATCH.FT_LINE_COLOR.fixedtext.text
+msgid "Line ~color"
+msgstr "ਰੇਖਾ ਰੰਗ"
+
+#: tabarea.src#RID_SVXPAGE_HATCH.BTN_ADD.pushbutton.text
+msgctxt "tabarea.src#RID_SVXPAGE_HATCH.BTN_ADD.pushbutton.text"
+msgid "~Add..."
+msgstr "ਸ਼ਾਮਲ(~A)..."
+
+#: tabarea.src#RID_SVXPAGE_HATCH.BTN_MODIFY.pushbutton.text
+msgctxt "tabarea.src#RID_SVXPAGE_HATCH.BTN_MODIFY.pushbutton.text"
+msgid "~Modify..."
+msgstr "ਸੋਧ(~M)..."
+
+#: tabarea.src#RID_SVXPAGE_HATCH.BTN_DELETE.pushbutton.text
+msgctxt "tabarea.src#RID_SVXPAGE_HATCH.BTN_DELETE.pushbutton.text"
+msgid "~Delete..."
+msgstr "ਹਟਾਓ(~D)..."
+
+#: tabarea.src#RID_SVXPAGE_HATCH.BTN_LOAD.imagebutton.text
+msgctxt "tabarea.src#RID_SVXPAGE_HATCH.BTN_LOAD.imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#: tabarea.src#RID_SVXPAGE_HATCH.BTN_LOAD.imagebutton.quickhelptext
+msgid "Load Hatches List"
+msgstr "ਹੈਚਸ ਸੂਚੀ ਲੋਡ ਕਰੋ"
+
+#: tabarea.src#RID_SVXPAGE_HATCH.BTN_SAVE.imagebutton.text
+msgctxt "tabarea.src#RID_SVXPAGE_HATCH.BTN_SAVE.imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#: tabarea.src#RID_SVXPAGE_HATCH.BTN_SAVE.imagebutton.quickhelptext
+msgid "Save Hatches List"
+msgstr "ਹੈਚਸ ਸੂਚੀ ਸੰਭਾਲੋ"
+
+#: tabarea.src#RID_SVXPAGE_HATCH.BTN_EMBED.checkbox.text
+msgctxt "tabarea.src#RID_SVXPAGE_HATCH.BTN_EMBED.checkbox.text"
+msgid "Embed"
+msgstr "ਇੰਬੈੱਡ"
+
+#: tabarea.src#RID_SVXPAGE_HATCH.tabpage.text
+msgctxt "tabarea.src#RID_SVXPAGE_HATCH.tabpage.text"
+msgid "Hatching"
+msgstr "ਵਿਓਂਤ"
+
+#: tabarea.src#RID_SVXPAGE_BITMAP.FL_PROP.fixedline.text
+msgctxt "tabarea.src#RID_SVXPAGE_BITMAP.FL_PROP.fixedline.text"
+msgid "Properties"
+msgstr "ਵਿਸ਼ੇਸ਼ਤਾ"
+
+#: tabarea.src#RID_SVXPAGE_BITMAP.FT_PIXEL_EDIT.fixedtext.text
+msgid "Pattern Editor"
+msgstr "ਟੈਕਸਟ ਐਡੀਟਰ"
+
+#: tabarea.src#RID_SVXPAGE_BITMAP.FT_COLOR.fixedtext.text
+msgid "~Foreground color"
+msgstr "ਫਾਰਗਰਾਊਂਡ ਰੰਗ(~F)"
+
+#: tabarea.src#RID_SVXPAGE_BITMAP.FT_BACKGROUND_COLOR.fixedtext.text
+msgctxt "tabarea.src#RID_SVXPAGE_BITMAP.FT_BACKGROUND_COLOR.fixedtext.text"
+msgid "~Background color"
+msgstr "ਬੈਕਗਰਾਊਂਡ ਰੰਗ(~B)..."
+
+#: tabarea.src#RID_SVXPAGE_BITMAP.FT_BITMAPS_HIDDEN.fixedtext.text
+msgctxt "tabarea.src#RID_SVXPAGE_BITMAP.FT_BITMAPS_HIDDEN.fixedtext.text"
+msgid "Bitmap"
+msgstr "ਬਿਟਮੈਪ"
+
+#: tabarea.src#RID_SVXPAGE_BITMAP.BTN_ADD.pushbutton.text
+msgctxt "tabarea.src#RID_SVXPAGE_BITMAP.BTN_ADD.pushbutton.text"
+msgid "~Add..."
+msgstr "ਸ਼ਾਮਲ(~A)..."
+
+#: tabarea.src#RID_SVXPAGE_BITMAP.BTN_MODIFY.pushbutton.text
+msgctxt "tabarea.src#RID_SVXPAGE_BITMAP.BTN_MODIFY.pushbutton.text"
+msgid "~Modify..."
+msgstr "ਸੋਧ(~M)..."
+
+#: tabarea.src#RID_SVXPAGE_BITMAP.BTN_IMPORT.pushbutton.text
+msgid "~Import..."
+msgstr "ਇੰਪੋਰਟ(~I)..."
+
+#: tabarea.src#RID_SVXPAGE_BITMAP.BTN_DELETE.pushbutton.text
+msgctxt "tabarea.src#RID_SVXPAGE_BITMAP.BTN_DELETE.pushbutton.text"
+msgid "~Delete..."
+msgstr "ਹਟਾਓ(~D)..."
+
+#: tabarea.src#RID_SVXPAGE_BITMAP.BTN_LOAD.imagebutton.text
+msgctxt "tabarea.src#RID_SVXPAGE_BITMAP.BTN_LOAD.imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#: tabarea.src#RID_SVXPAGE_BITMAP.BTN_LOAD.imagebutton.quickhelptext
+msgid "Load Bitmap List"
+msgstr "ਬਿੱਟਮੈਪ ਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ"
+
+#: tabarea.src#RID_SVXPAGE_BITMAP.BTN_SAVE.imagebutton.text
+msgctxt "tabarea.src#RID_SVXPAGE_BITMAP.BTN_SAVE.imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#: tabarea.src#RID_SVXPAGE_BITMAP.BTN_SAVE.imagebutton.quickhelptext
+msgid "Save Bitmap List"
+msgstr "ਬਿੱਟਮੈਪ ਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ"
+
+#: tabarea.src#RID_SVXPAGE_BITMAP.BTN_EMBED.checkbox.text
+msgctxt "tabarea.src#RID_SVXPAGE_BITMAP.BTN_EMBED.checkbox.text"
+msgid "Embed"
+msgstr "ਇੰਬੈੱਡ"
+
+#: tabarea.src#RID_SVXPAGE_BITMAP.tabpage.text
+msgid "Bitmap Patterns"
+msgstr "ਬਿੱਟਮੈਪ ਪੈਟਰਨ"
+
+#: tabarea.src#RID_SVXPAGE_GRADIENT.FL_PROP.fixedline.text
+msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.FL_PROP.fixedline.text"
+msgid "Properties"
+msgstr "ਵਿਸ਼ੇਸ਼ਤਾ"
+
+#: tabarea.src#RID_SVXPAGE_GRADIENT.FT_TYPE.fixedtext.text
+msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.FT_TYPE.fixedtext.text"
+msgid "Ty~pe"
+msgstr "ਕਿਸਮ(~p)"
+
+#: tabarea.src#RID_SVXPAGE_GRADIENT.LB_GRADIENT_TYPES.1.stringlist.text
+msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.LB_GRADIENT_TYPES.1.stringlist.text"
+msgid "Linear"
+msgstr "ਲੀਨੀਅਰ"
+
+#: tabarea.src#RID_SVXPAGE_GRADIENT.LB_GRADIENT_TYPES.2.stringlist.text
+msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.LB_GRADIENT_TYPES.2.stringlist.text"
+msgid "Axial"
+msgstr "ਧੁਰਾ"
+
+#: tabarea.src#RID_SVXPAGE_GRADIENT.LB_GRADIENT_TYPES.3.stringlist.text
+msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.LB_GRADIENT_TYPES.3.stringlist.text"
+msgid "Radial"
+msgstr "ਰੇਡੀਕਲ"
+
+#: tabarea.src#RID_SVXPAGE_GRADIENT.LB_GRADIENT_TYPES.4.stringlist.text
+msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.LB_GRADIENT_TYPES.4.stringlist.text"
+msgid "Ellipsoid"
+msgstr "ਅੰਡਾਕਾਰੀ"
+
+#: tabarea.src#RID_SVXPAGE_GRADIENT.LB_GRADIENT_TYPES.5.stringlist.text
+msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.LB_GRADIENT_TYPES.5.stringlist.text"
+msgid "Square"
+msgstr "ਵਰਗ"
+
+#: tabarea.src#RID_SVXPAGE_GRADIENT.LB_GRADIENT_TYPES.6.stringlist.text
+msgid "Rectangular"
+msgstr "ਆਈਤਾਕਾਰ"
+
+#: tabarea.src#RID_SVXPAGE_GRADIENT.FT_CENTER_X.fixedtext.text
+msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.FT_CENTER_X.fixedtext.text"
+msgid "Center ~X"
+msgstr "ਕੇਂਦਰੀ ~X"
+
+#: tabarea.src#RID_SVXPAGE_GRADIENT.FT_CENTER_Y.fixedtext.text
+msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.FT_CENTER_Y.fixedtext.text"
+msgid "Center ~Y"
+msgstr "ਕੇਂਦਰੀ ~Y"
+
+#: tabarea.src#RID_SVXPAGE_GRADIENT.FT_ANGLE.fixedtext.text
+msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.FT_ANGLE.fixedtext.text"
+msgid "A~ngle"
+msgstr "ਕੋਣ(~n)"
+
+#: tabarea.src#RID_SVXPAGE_GRADIENT.MTR_ANGLE.metricfield.text
+msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.MTR_ANGLE.metricfield.text"
+msgid " degrees"
+msgstr " ਡਿਗਰੀ"
+
+#: tabarea.src#RID_SVXPAGE_GRADIENT.FT_BORDER.fixedtext.text
+msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.FT_BORDER.fixedtext.text"
+msgid "~Border"
+msgstr "ਬਾਰਡਰ(~B)"
+
+#: tabarea.src#RID_SVXPAGE_GRADIENT.FT_COLOR_FROM.fixedtext.text
+msgid "~From"
+msgstr "ਤੋਂ(~F)"
+
+#: tabarea.src#RID_SVXPAGE_GRADIENT.FT_COLOR_TO.fixedtext.text
+msgid "~To"
+msgstr "ਵੱਲ(~T)"
+
+#: tabarea.src#RID_SVXPAGE_GRADIENT.BTN_ADD.pushbutton.text
+msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.BTN_ADD.pushbutton.text"
+msgid "~Add..."
+msgstr "ਸ਼ਾਮਲ(~A)..."
+
+#: tabarea.src#RID_SVXPAGE_GRADIENT.BTN_MODIFY.pushbutton.text
+msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.BTN_MODIFY.pushbutton.text"
+msgid "~Modify..."
+msgstr "ਸੋਧ(~M)..."
+
+#: tabarea.src#RID_SVXPAGE_GRADIENT.BTN_DELETE.pushbutton.text
+msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.BTN_DELETE.pushbutton.text"
+msgid "~Delete..."
+msgstr "ਹਟਾਓ(~D)..."
+
+#: tabarea.src#RID_SVXPAGE_GRADIENT.BTN_LOAD.imagebutton.text
+msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.BTN_LOAD.imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#: tabarea.src#RID_SVXPAGE_GRADIENT.BTN_LOAD.imagebutton.quickhelptext
+msgid "Load Gradients List"
+msgstr "ਗਰੇਡੀਐਂਟ ਸੂਚੀ ਲੋਡ ਕਰੋ"
+
+#: tabarea.src#RID_SVXPAGE_GRADIENT.BTN_SAVE.imagebutton.text
+msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.BTN_SAVE.imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#: tabarea.src#RID_SVXPAGE_GRADIENT.BTN_SAVE.imagebutton.quickhelptext
+msgid "Save Gradients List"
+msgstr "ਗਰੇਡੀਐਂਟ ਸੂਚੀ ਸੰਭਾਲੋ"
+
+#: tabarea.src#RID_SVXPAGE_GRADIENT.BTN_EMBED.checkbox.text
+msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.BTN_EMBED.checkbox.text"
+msgid "Embed"
+msgstr "ਇੰਬੈੱਡ"
+
+#: tabarea.src#RID_SVXPAGE_GRADIENT.tabpage.text
+msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.tabpage.text"
+msgid "Gradients"
+msgstr "ਗਰੇਡੀਐਂਟ"
+
+#: tabarea.src#RID_SVXPAGE_COLOR.FL_PROP.fixedline.text
+msgctxt "tabarea.src#RID_SVXPAGE_COLOR.FL_PROP.fixedline.text"
+msgid "Properties"
+msgstr "ਵਿਸ਼ੇਸ਼ਤਾ"
+
+#: tabarea.src#RID_SVXPAGE_COLOR.FT_NAME.fixedtext.text
+msgid "~Name"
+msgstr "ਨਾਂ(~N)"
+
+#: tabarea.src#RID_SVXPAGE_COLOR.FT_COLOR.fixedtext.text
+msgctxt "tabarea.src#RID_SVXPAGE_COLOR.FT_COLOR.fixedtext.text"
+msgid "C~olor"
+msgstr "ਰੰਗ(~o)"
+
+#: tabarea.src#RID_SVXPAGE_COLOR.FT_TABLE_NAME.fixedtext.text
+msgid "Color table"
+msgstr "ਰੰਗ ਟੇਬਲ"
+
+#: tabarea.src#RID_SVXPAGE_COLOR.LB_COLORMODEL.1.stringlist.text
+msgid "RGB"
+msgstr "RGB"
+
+#: tabarea.src#RID_SVXPAGE_COLOR.LB_COLORMODEL.2.stringlist.text
+msgid "CMYK"
+msgstr "CMYK"
+
+#: tabarea.src#RID_SVXPAGE_COLOR.FT_1.fixedtext.text
+msgid "~C"
+msgstr "~C"
+
+#: tabarea.src#RID_SVXPAGE_COLOR.FT_2.fixedtext.text
+msgid "~M"
+msgstr "~M"
+
+#: tabarea.src#RID_SVXPAGE_COLOR.FT_3.fixedtext.text
+msgid "~Y"
+msgstr "~Y"
+
+#: tabarea.src#RID_SVXPAGE_COLOR.FT_4.fixedtext.text
+msgid "~K"
+msgstr "~K"
+
+#: tabarea.src#RID_SVXPAGE_COLOR.BTN_ADD.pushbutton.text
+msgid "~Add"
+msgstr "ਸ਼ਾਮਲ(~A)"
+
+#: tabarea.src#RID_SVXPAGE_COLOR.BTN_WORK_ON.pushbutton.text
+msgctxt "tabarea.src#RID_SVXPAGE_COLOR.BTN_WORK_ON.pushbutton.text"
+msgid "~Edit..."
+msgstr "ਸੋਧ(~E)..."
+
+#: tabarea.src#RID_SVXPAGE_COLOR.BTN_DELETE.pushbutton.text
+msgctxt "tabarea.src#RID_SVXPAGE_COLOR.BTN_DELETE.pushbutton.text"
+msgid "~Delete..."
+msgstr "ਹਟਾਓ(~D)..."
+
+#: tabarea.src#RID_SVXPAGE_COLOR.BTN_MODIFY.pushbutton.text
+msgid "~Modify"
+msgstr "ਸੋਧ(~M)"
+
+#: tabarea.src#RID_SVXPAGE_COLOR.BTN_LOAD.imagebutton.text
+msgctxt "tabarea.src#RID_SVXPAGE_COLOR.BTN_LOAD.imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#: tabarea.src#RID_SVXPAGE_COLOR.BTN_LOAD.imagebutton.quickhelptext
+msgid "Load Color List"
+msgstr "ਰੰਗ ਸੂਚੀ ਲੋਡ ਕਰੋ"
+
+#: tabarea.src#RID_SVXPAGE_COLOR.BTN_SAVE.imagebutton.text
+msgctxt "tabarea.src#RID_SVXPAGE_COLOR.BTN_SAVE.imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#: tabarea.src#RID_SVXPAGE_COLOR.BTN_SAVE.imagebutton.quickhelptext
+msgid "Save Color List"
+msgstr "ਰੰਗ ਸੂਚੀ ਸੰਭਾਲੋ"
+
+#: tabarea.src#RID_SVXPAGE_COLOR.BTN_EMBED.checkbox.text
+msgctxt "tabarea.src#RID_SVXPAGE_COLOR.BTN_EMBED.checkbox.text"
+msgid "Embed"
+msgstr "ਇੰਬੈੱਡ"
+
+#: tabarea.src#RID_SVXPAGE_COLOR.tabpage.text
+msgctxt "tabarea.src#RID_SVXPAGE_COLOR.tabpage.text"
+msgid "Colors"
+msgstr "ਰੰਗ"
+
+#: tabarea.src#RID_SVXDLG_AREA.1.RID_SVXPAGE_AREA.pageitem.text
+msgctxt "tabarea.src#RID_SVXDLG_AREA.1.RID_SVXPAGE_AREA.pageitem.text"
+msgid "Area"
+msgstr "ਖੇਤਰ"
+
+#: tabarea.src#RID_SVXDLG_AREA.1.RID_SVXPAGE_SHADOW.pageitem.text
+msgctxt "tabarea.src#RID_SVXDLG_AREA.1.RID_SVXPAGE_SHADOW.pageitem.text"
+msgid "Shadow"
+msgstr "ਸ਼ੈਡੋ"
+
+#: tabarea.src#RID_SVXDLG_AREA.1.RID_SVXPAGE_TRANSPARENCE.pageitem.text
+msgctxt "tabarea.src#RID_SVXDLG_AREA.1.RID_SVXPAGE_TRANSPARENCE.pageitem.text"
+msgid "Transparency"
+msgstr "ਟਰਾਂਸਪਰੇਸੀ"
+
+#: tabarea.src#RID_SVXDLG_AREA.1.RID_SVXPAGE_COLOR.pageitem.text
+msgctxt "tabarea.src#RID_SVXDLG_AREA.1.RID_SVXPAGE_COLOR.pageitem.text"
+msgid "Colors"
+msgstr "ਰੰਗ"
+
+#: tabarea.src#RID_SVXDLG_AREA.1.RID_SVXPAGE_GRADIENT.pageitem.text
+msgctxt "tabarea.src#RID_SVXDLG_AREA.1.RID_SVXPAGE_GRADIENT.pageitem.text"
+msgid "Gradients"
+msgstr "ਗਰੇਡੀਐਂਟ"
+
+#: tabarea.src#RID_SVXDLG_AREA.1.RID_SVXPAGE_HATCH.pageitem.text
+msgctxt "tabarea.src#RID_SVXDLG_AREA.1.RID_SVXPAGE_HATCH.pageitem.text"
+msgid "Hatching"
+msgstr "ਵਿਓਂਤ"
+
+#: tabarea.src#RID_SVXDLG_AREA.1.RID_SVXPAGE_BITMAP.pageitem.text
+msgid "Bitmaps"
+msgstr "ਬਿੱਟਮੈਪ"
+
+#: tabarea.src#RID_SVXDLG_AREA.tabdialog.text
+msgctxt "tabarea.src#RID_SVXDLG_AREA.tabdialog.text"
+msgid "Area"
+msgstr "ਖੇਤਰ"
+
+#: tabarea.src#STR_LB_HATCHINGSTYLE.string.text
+msgid "Hatching Style"
+msgstr "ਵਿਓਂਤ ਸਟਾਈਲ"
+
+#: tabarea.src#STR_CUI_COLORMODEL.string.text
+msgid "Color Mode"
+msgstr "ਰੰਗ ਮੋਡ"

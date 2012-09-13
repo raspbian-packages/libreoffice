@@ -1,0 +1,4 @@
+db-4.7.25.NC-custom.tar.gz is the normal db 4.7.25NC (without encryption) tarball
+with the documentation removed. The documentation was kept in the directories:
+docs
+docs_src

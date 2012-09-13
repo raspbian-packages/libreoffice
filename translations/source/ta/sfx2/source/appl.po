@@ -1,0 +1,586 @@
+#. extracted from sfx2/source/appl.oo
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+sfx2%2Fsource%2Fappl.oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-07-04 16:39+0200\n"
+"PO-Revision-Date: 2011-10-03 18:36+0200\n"
+"Last-Translator: Elanjelian <tamiliam@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Accelerator-Marker: ~\n"
+
+#: dde.src#MD_DDE_LINKEDIT.FT_DDE_APP.fixedtext.text
+msgid "~Application:"
+msgstr "பயன்பாடு"
+
+#: dde.src#MD_DDE_LINKEDIT.FT_DDE_TOPIC.fixedtext.text
+msgid "~File:"
+msgstr "~கோப்பு"
+
+#: dde.src#MD_DDE_LINKEDIT.FT_DDE_ITEM.fixedtext.text
+msgid "~Category:"
+msgstr "பகுப்பு:"
+
+#: dde.src#MD_DDE_LINKEDIT.GROUP_DDE_CHG.fixedline.text
+msgid "Modify link"
+msgstr "இணைப்பை மாற்றி"
+
+#: dde.src#MD_DDE_LINKEDIT.modaldialog.text
+msgid "Modify Link"
+msgstr "இணைப்பை மாற்றி"
+
+#: app.src#STR_NONAME.string.text
+msgid "Untitled"
+msgstr "தலைப்பில்லாத"
+
+#: app.src#STR_CLOSE.string.text
+msgid "Close"
+msgstr "மூடு"
+
+#: app.src#STR_STYLE_FILTER_AUTO.string.text
+msgid "Automatic"
+msgstr "தன்னியக்கம்"
+
+#: app.src#STR_STANDARD_SHORTCUT.string.text
+msgctxt "app.src#STR_STANDARD_SHORTCUT.string.text"
+msgid "Standard"
+msgstr "தரம்"
+
+#: app.src#STR_BYTES.string.text
+msgid "Bytes"
+msgstr "பைட்டுகள்"
+
+#: app.src#STR_KB.string.text
+msgid "KB"
+msgstr "KB"
+
+#: app.src#STR_MB.string.text
+msgid "MB"
+msgstr "MB"
+
+#: app.src#STR_GB.string.text
+msgid "GB"
+msgstr "GB"
+
+#: app.src#MSG_QUERY_LASTVERSION.querybox.text
+msgid "Cancel all changes?"
+msgstr "அனைத்து மாற்றங்களையும் நீக்கவா?"
+
+#: app.src#RID_DOCALREADYLOADED_DLG.infobox.text
+msgid "Document already open."
+msgstr "ஆவணம் ஏற்கனவே திறக்கப்பட்டுள்ளது."
+
+#: app.src#MSG_ERR_NO_WEBBROWSER_FOUND.errorbox.text
+msgid "%PRODUCTNAME could not find a web browser on your system. Please check your Desktop Preferences or install a web browser (for example, Mozilla) in the default  location requested during the browser installation."
+msgstr "%PRODUCTNAME ஆல் ஒரு வலை உலாவியை உங்கள் கட்டகத்தில் கட்டுபிடிக்க முடியவில்லை. உங்கள் பணிமேடை விருப்பங்களைப் பார்க்கவும் அல்லது ஒரு வலை உலாவியை (எ-டு மொசில்லா) உலாவி நிறுவலின் போது கேட்கப்படும் முன்னிருப்பு இடத்தில் நிறுவவும்."
+
+#: app.src#MSG_ERR_NO_ABS_URI_REF.errorbox.text
+msgid "\"$(ARG1)\" is not an absolute URL that can be passed to an external application to open it."
+msgstr ""
+
+#: app.src#GID_INTERN.string.text
+msgid "Internal"
+msgstr "உள்சார்ந்த"
+
+#: app.src#GID_APPLICATION.string.text
+msgid "Application"
+msgstr "செயலி"
+
+#: app.src#GID_VIEW.string.text
+msgid "View"
+msgstr "காட்சி"
+
+#: app.src#GID_DOCUMENT.string.text
+msgid "Documents"
+msgstr "ஆவணங்கள்"
+
+#: app.src#GID_EDIT.string.text
+msgid "Edit"
+msgstr "பதிப்பிக்க"
+
+#: app.src#GID_MACRO.string.text
+msgid "BASIC"
+msgstr "BASIC"
+
+#: app.src#GID_OPTIONS.string.text
+msgid "Options"
+msgstr "விருப்பத்தேர்வுகள்"
+
+#: app.src#GID_MATH.string.text
+msgid "Math"
+msgstr "கணிதம்"
+
+#: app.src#GID_NAVIGATOR.string.text
+msgid "Navigate"
+msgstr "உலாவுக"
+
+#: app.src#GID_INSERT.string.text
+msgid "Insert"
+msgstr "சொருகு"
+
+#: app.src#GID_FORMAT.string.text
+msgid "Format"
+msgstr "வடிவமைப்பு"
+
+#: app.src#GID_TEMPLATE.string.text
+msgid "Templates"
+msgstr "வார்ப்புருக்கள்"
+
+#: app.src#GID_TEXT.string.text
+msgid "Text"
+msgstr "உரை"
+
+#: app.src#GID_FRAME.string.text
+msgid "Frame"
+msgstr "சட்டம்"
+
+#: app.src#GID_GRAPHIC.string.text
+msgctxt "app.src#GID_GRAPHIC.string.text"
+msgid "Graphic"
+msgstr "சித்திரம்"
+
+#: app.src#GID_TABLE.string.text
+msgid "Table"
+msgstr "அட்டவணை"
+
+#: app.src#GID_ENUMERATION.string.text
+msgid "Numbering"
+msgstr "எண்ணிடல்"
+
+#: app.src#GID_DATA.string.text
+msgid "Data"
+msgstr "தரவு"
+
+#: app.src#GID_SPECIAL.string.text
+msgid "Special Functions"
+msgstr "சிறப்பு சார்புகள்"
+
+#: app.src#GID_IMAGE.string.text
+msgid "Image"
+msgstr "பிம்பம்"
+
+#: app.src#GID_CHART.string.text
+msgid "Chart"
+msgstr "வரைபடம்"
+
+#: app.src#GID_EXPLORER.string.text
+msgid "Explorer"
+msgstr "எக்ஸ்ப்ளோரர்"
+
+#: app.src#GID_CONNECTOR.string.text
+msgid "Connector"
+msgstr "இணைப்பான்"
+
+#: app.src#GID_MODIFY.string.text
+msgid "Modify"
+msgstr "திருத்து"
+
+#: app.src#GID_DRAWING.string.text
+msgid "Drawing"
+msgstr "வரைதல்"
+
+#: app.src#GID_CONTROLS.string.text
+msgid "Controls"
+msgstr "கட்டுப்பாடுகள்"
+
+#: app.src#MSG_CANT_QUIT.infobox.text
+msgid ""
+"The application cannot be terminated at the moment.\n"
+"Please wait until all print jobs and/or\n"
+"OLE actions have finished and close all dialogs."
+msgstr ""
+"தற்போது இந்த பயன்பாட்டை நீக்க முடியாது.\n"
+"எல்லா அச்சு வேலைகள் மற்றும் OLE செயல்கள் முடியும்வரை காத்திரு. எல்லா உரையாடல்களையும் மூடு."
+
+#: app.src#STR_ISMODIFIED.string.text
+msgid "Do you want to save the changes to %1?"
+msgstr "%1 க்குச் செய்த மாற்றங்களைச் சேமிக்க வேண்டுகிறீரா?"
+
+#: app.src#STR_QUITAPP.string.text
+msgid "E~xit"
+msgstr "வெளியேறு"
+
+#: app.src#RID_STR_HELP.string.text
+msgid "Help"
+msgstr "உதவி"
+
+#: app.src#RID_STR_NOAUTOSTARTHELPAGENT.string.text
+msgid "No automatic start at 'XX'"
+msgstr "'XX'ல் தன்னியக்க தொடக்கம் கிடையாது"
+
+#: app.src#RID_HELPBAR.string.text
+msgid "Help Bar"
+msgstr "உதவிப்பட்டை"
+
+#: app.src#RID_STR_HLPFILENOTEXIST.string.text
+msgid "The help file for this topic is not installed."
+msgstr "இத்தலைப்புக்கான உதவிக்கோப்பு நிறுவப்படவில்லை."
+
+#: app.src#RID_ENVTOOLBOX.string.text
+msgid "Function Bar"
+msgstr "செயல்பாட்டு பட்டி"
+
+#: app.src#RID_SPECIALCONFIG_ERROR.string.text
+msgid ""
+"An error has occurred in the special configuration.\n"
+"Please contact your administrator."
+msgstr ""
+"விசேஷ அமைப்பின்போது பிழை நேர்ந்துள்ளது.\n"
+"உங்கள் நிர்வாகியை தொடர்பு கொள்ளவும்."
+
+#: app.src#STR_QUICKSTART_EXIT.string.text
+msgid "Exit Quickstarter"
+msgstr "Quickstarterத்தை விட்டு வெளியேறு"
+
+#: app.src#STR_QUICKSTART_TIP.string.text
+msgid "%PRODUCTNAME %PRODUCTVERSION Quickstarter"
+msgstr "%PRODUCTNAME %PRODUCTVERSION விரைவுத்தொடக்கி"
+
+#: app.src#STR_QUICKSTART_FILEOPEN.string.text
+msgid "Open Document..."
+msgstr "ஆவணத்தை திறக்க..."
+
+#: app.src#STR_QUICKSTART_FROMTEMPLATE.string.text
+msgid "From Template..."
+msgstr "மாதிரிஉருவிலிருந்து..."
+
+#: app.src#STR_QUICKSTART_PRELAUNCH.string.text
+msgid "Load %PRODUCTNAME During System Start-Up"
+msgstr "இயக்கத்தொடக்கத்தின் போது %PRODUCTNAME ஏற்றுக"
+
+#: app.src#STR_QUICKSTART_PRELAUNCH_UNX.string.text
+msgid "Disable systray Quickstarter"
+msgstr "கட்டகத்தட்டு விரைவு தொடக்கியை முடக்கு"
+
+#: app.src#STR_QUICKSTART_LNKNAME.string.text
+msgid "%PRODUCTNAME %PRODUCTVERSION"
+msgstr "%PRODUCTNAME %PRODUCTVERSION"
+
+#: app.src#STR_QUICKSTART_FILE.string.text
+msgid "File"
+msgstr "கோப்பு"
+
+#: app.src#STR_QUICKSTART_STARTCENTER.string.text
+msgid "Startcenter"
+msgstr "தொடக்கமையம்"
+
+#: app.src#STR_QUICKSTART_RECENTDOC.string.text
+msgid "Recent Documents"
+msgstr "சமீபத்திய ஆவணங்கள் "
+
+#: app.src#STR_QUERY_UPDATE_LINKS.string.text
+msgid ""
+"This document contains one or more links to external data.\n"
+"\n"
+"Would you like to change the document, and update all links\n"
+"to get the most recent data?"
+msgstr ""
+"இந்த ஆவணம் ஒன்று அல்லது அதற்கு மேற்பட்ட இணைப்புகளை வெளி தரவுகளுடன் கொண்டுள்ளன.\n"
+"\n"
+"நீங்கள் மிக சமீபத்திய தரவைப் பெற, ஆவணத்தை மாற்றியமைத்து அனைத்து\n"
+"இணைப்புகளையும் புதுப்பிக்க வேண்டுகிறீரா?"
+
+#: app.src#STR_DDE_ERROR.string.text
+msgid "DDE link to % for % area % are not available."
+msgstr "% உடனான (இதன் % area % ) DDE தொடர்பு கிடைப்பிலில்லை."
+
+#: app.src#RID_SECURITY_WARNING_HYPERLINK.warningbox.text
+msgid "This hyperlink is going to open \"%s\". Do you want to proceed?"
+msgstr "இந்த மீதொகுப்பு \"%s\"ஐ திறக்கப்போகிறது. தொடர வேண்டுமா?"
+
+#: app.src#RID_SECURITY_WARNING_NO_HYPERLINKS.warningbox.text
+msgid ""
+"For security reasons, the hyperlink cannot be executed.\n"
+"The stated address will not be opened."
+msgstr ""
+"பாதுகாப்பு காரணங்களுக்காக, மீத்தொடுப்பை செயலாக்க முடியவில்லை.\n"
+"குறிப்பிட்ட முகவரி திறக்கப்பட மாட்டாது."
+
+#: app.src#RID_SECURITY_WARNING_TITLE.string.text
+msgid "Security Warning"
+msgstr "பாதுகாப்பு எச்சரிக்கை"
+
+#: app.src#RID_XMLSEC_QUERY_LOSINGSIGNATURE.querybox.text
+msgid ""
+"Saving will remove all existing signatures.\n"
+"Do you want to continue saving the document?"
+msgstr ""
+"இருக்கும் அனைத்து கையொப்பங்களையும் சேமித்தல் அகற்றிவிடும்.\n"
+"ஆவணத்தைத் தொடர்ந்து சேமிக்க வேண்டுகிறீரா?"
+
+#: app.src#RID_XMLSEC_QUERY_SAVEBEFORESIGN.querybox.text
+msgid ""
+"The document has to be saved before it can be signed.\n"
+"Do you want to save the document?"
+msgstr ""
+"ஆவணம் கையொப்பமிடுவதற்கு முன்னர் சேமிக்கப்பட வேண்டும்.\n"
+"ஆவணத்தைச் சேமிக்க வேண்டுகிறீரா?"
+
+#: app.src#RID_XMLSEC_INFO_WRONGDOCFORMAT.infobox.text
+msgid "This document must be saved in OpenDocument file format before it can be digitally signed."
+msgstr "இந்த ஆவணம் எண்முறையில் கையொப்பமிடுவதற்கு முன் ஓபன்டொகுமண்ட் கோப்பு வடிவத்தில் சேமிக்கப்பட வேண்டும்."
+
+#: app.src#RID_XMLSEC_DOCUMENTSIGNED.string.text
+msgid " (Signed)"
+msgstr " (கையொப்பமிட்டது)"
+
+#: app.src#STR_STANDARD.string.text
+msgctxt "app.src#STR_STANDARD.string.text"
+msgid "Standard"
+msgstr "தரம்"
+
+#: app.src#RID_SVXSTR_FILELINK.string.text
+msgid "Document"
+msgstr "ஆவணங்கள்"
+
+#: app.src#STR_NONE.string.text
+msgid "- None -"
+msgstr "- ஒன்றுமில்லை -"
+
+#: app.src#RID_SVXSTR_GRAFIKLINK.string.text
+msgctxt "app.src#RID_SVXSTR_GRAFIKLINK.string.text"
+msgid "Graphic"
+msgstr "சித்திரம்"
+
+#: app.src#STR_SFX_FILTERNAME_ALL.string.text
+msgid "All files"
+msgstr ""
+
+#: app.src#RID_SVXSTR_EDITGRFLINK.string.text
+msgid "Link graphics"
+msgstr ""
+
+#: app.src#STR_ERRUNOEVENTBINDUNG.string.text
+msgid ""
+"An appropriate component method %1\n"
+"could not be found.\n"
+"\n"
+"Check spelling of method name."
+msgstr ""
+"ஏற்ற சாதன வழிமுறை %1 ஐக்\n"
+"கண்டுபிடிக்க முடியவில்லை.\n"
+"\n"
+"வழிமுறை பெயரின் எழுத்துக்கூட்டலைச் சோதி."
+
+#: app.src#RID_SVXSTR_GRFILTER_OPENERROR.string.text
+msgid "Graphics file cannot be opened"
+msgstr "வரைகலை கோப்பைத் திறக்க முடியவில்லை"
+
+#: app.src#RID_SVXSTR_GRFILTER_IOERROR.string.text
+msgid "Graphics file cannot be read"
+msgstr "வரைகலை கோப்பை வாசிக்க முடியவில்லை"
+
+#: app.src#RID_SVXSTR_GRFILTER_FORMATERROR.string.text
+msgid "Unknown graphics format"
+msgstr "தெரியாத வரைகலை வடிவமைப்பு"
+
+#: app.src#RID_SVXSTR_GRFILTER_VERSIONERROR.string.text
+msgid "This version of the graphics file is not supported"
+msgstr "இந்த வரைகலை கோப்பின் பதிப்புக்கு ஆதரவில்லை"
+
+#: app.src#RID_SVXSTR_GRFILTER_FILTERERROR.string.text
+msgid "Graphics filter not found"
+msgstr "வரைவியல் வடிகட்டியைக் காணவில்லை"
+
+#: app.src#RID_SVXSTR_GRFILTER_TOOBIG.string.text
+msgid "Not enough memory to insert graphic"
+msgstr "படத்தை நுழைக்க நினைவகம் போதவில்லை"
+
+#: app.src#DLG_HELP_LICENSING.STR_LICENSING_INFORMATION_1.string.text
+msgid ""
+"%PRODUCTNAME is made available subject to the terms of GNU Lesser General Public\n"
+"License Version 3. A copy of the LGPL license can be found at\n"
+"http://www.gnu.org/licenses/lgpl-3.0.html"
+msgstr ""
+
+#: app.src#DLG_HELP_LICENSING.STR_LICENSING_INFORMATION_2.string.text
+msgid ""
+"Third Party Code Additional copyright notices and license terms applicable to\n"
+"portions of the Software are set forth in the THIRDPARTYLICENSEREADME.html\n"
+"file; choose Show License to see exact details in English."
+msgstr ""
+
+#: app.src#DLG_HELP_LICENSING.STR_LICENSING_INFORMATION_3.string.text
+msgid ""
+"All trademarks and registered trademarks mentioned herein are the property of\n"
+"their respective owners."
+msgstr ""
+
+#: app.src#DLG_HELP_LICENSING.STR_LICENSING_INFORMATION_4.string.text
+msgid ""
+"Copyright © 2000, 2012 LibreOffice contributors and/or their affiliates. All rights\n"
+"reserved."
+msgstr ""
+
+#: app.src#DLG_HELP_LICENSING.STR_LICENSING_INFORMATION_5.string.text
+msgid ""
+"This product was created by %OOOVENDOR, based on OpenOffice.org,\n"
+"which is Copyright 2000, 2011 Oracle and/or its affiliates.\n"
+"%OOOVENDOR acknowledges all community members, please see\n"
+"http://www.libreoffice.org/ for more details."
+msgstr ""
+
+#: app.src#DLG_HELP_LICENSING.PB_LICENSING_SHOW.okbutton.text
+msgid "~Show License"
+msgstr ""
+
+#: app.src#DLG_HELP_LICENSING.PB_LICENSING_CLOSE.cancelbutton.text
+msgid "~Close"
+msgstr "மூடு"
+
+#: app.src#DLG_HELP_LICENSING.modaldialog.text
+msgid "Licensing and Legal information"
+msgstr ""
+
+#: newhelp.src#WIN_HELPINDEX.TC_INDEX.HELP_INDEX_PAGE_CONTENTS.pageitem.text
+msgid "Contents"
+msgstr "அடக்கங்கள்"
+
+#: newhelp.src#WIN_HELPINDEX.TC_INDEX.HELP_INDEX_PAGE_INDEX.pageitem.text
+msgid "Index"
+msgstr "சுட்டி"
+
+#: newhelp.src#WIN_HELPINDEX.TC_INDEX.HELP_INDEX_PAGE_SEARCH.pageitem.text
+msgid "Find"
+msgstr "கண்டுபிடி"
+
+#: newhelp.src#WIN_HELPINDEX.TC_INDEX.HELP_INDEX_PAGE_BOOKMARKS.pageitem.text
+msgid "Bookmarks"
+msgstr "புத்தகக்குறிகள்"
+
+#: newhelp.src#TP_HELP_INDEX.FT_EXPRESSION.fixedtext.text
+msgid "~Search term"
+msgstr "~தொடரைத் தேடுக"
+
+#: newhelp.src#TP_HELP_INDEX.PB_OPEN_INDEX.pushbutton.text
+msgctxt "newhelp.src#TP_HELP_INDEX.PB_OPEN_INDEX.pushbutton.text"
+msgid "~Display"
+msgstr "காட்டுக"
+
+#: newhelp.src#TP_HELP_SEARCH.FT_SEARCH.fixedtext.text
+msgid "S~earch term"
+msgstr "தொ~டரைத் தேடுக"
+
+#: newhelp.src#TP_HELP_SEARCH.PB_SEARCH.pushbutton.text
+msgid "~Find"
+msgstr "கண்டுபிடி"
+
+#: newhelp.src#TP_HELP_SEARCH.CB_FULLWORDS.checkbox.text
+msgid "~Complete words only"
+msgstr "~முழுச் சொற்கள் மட்டும்"
+
+#: newhelp.src#TP_HELP_SEARCH.CB_SCOPE.checkbox.text
+msgid "Find in ~headings only"
+msgstr "தலைப்புக்களில் மட்டும் கண்டுபிடி"
+
+#: newhelp.src#TP_HELP_SEARCH.PB_OPEN_SEARCH.pushbutton.text
+msgctxt "newhelp.src#TP_HELP_SEARCH.PB_OPEN_SEARCH.pushbutton.text"
+msgid "~Display"
+msgstr "காட்டுக"
+
+#: newhelp.src#TP_HELP_BOOKMARKS.FT_BOOKMARKS.fixedtext.text
+msgid "~Bookmarks"
+msgstr "~புத்தகக்குறிகள்"
+
+#: newhelp.src#TP_HELP_BOOKMARKS.PB_BOOKMARKS.pushbutton.text
+msgctxt "newhelp.src#TP_HELP_BOOKMARKS.PB_BOOKMARKS.pushbutton.text"
+msgid "~Display"
+msgstr "காட்டு"
+
+#: newhelp.src#STR_HELP_WINDOW_TITLE.string.text
+msgid "%PRODUCTNAME Help"
+msgstr "%PRODUCTNAME உதவி"
+
+#: newhelp.src#STR_HELP_BUTTON_INDEX_ON.string.text
+msgid "Show Navigation Pane"
+msgstr "உலாவி பட்டையை காட்டுக"
+
+#: newhelp.src#STR_HELP_BUTTON_INDEX_OFF.string.text
+msgid "Hide Navigation Pane"
+msgstr "உலாவி பட்டையை மறைக்க"
+
+#: newhelp.src#STR_HELP_BUTTON_START.string.text
+msgid "First Page"
+msgstr "முதற் பக்கம்"
+
+#: newhelp.src#STR_HELP_BUTTON_PREV.string.text
+msgid "Previous Page"
+msgstr "முந்தைய பக்கம்"
+
+#: newhelp.src#STR_HELP_BUTTON_NEXT.string.text
+msgid "Next Page"
+msgstr "அடுத்த பக்கம்"
+
+#: newhelp.src#STR_HELP_BUTTON_PRINT.string.text
+msgid "Print..."
+msgstr "அச்சிடுக..."
+
+#: newhelp.src#STR_HELP_BUTTON_ADDBOOKMARK.string.text
+msgid "Add to Bookmarks..."
+msgstr "புத்தகக்குறிகளைச் சேர்க்க..."
+
+#: newhelp.src#STR_HELP_BUTTON_SEARCHDIALOG.string.text
+msgid "Find on this Page..."
+msgstr "இப்பக்கத்தில் கண்டுபிடி..."
+
+#: newhelp.src#STR_HELP_BUTTON_SOURCEVIEW.string.text
+msgid "HTML Source"
+msgstr "HTML மூலம்"
+
+#: newhelp.src#STR_HELP_FIRST_MESSAGE.string.text
+msgid "The Help is being started..."
+msgstr "உதவி தொடங்கப்பட்டுள்ளது..."
+
+#: newhelp.src#STR_HELP_MENU_TEXT_SELECTION_MODE.string.text
+msgid "Select Text"
+msgstr "உரையை தேர்ந்தெடு"
+
+#: newhelp.src#STR_HELP_MENU_TEXT_COPY.string.text
+msgid "~Copy"
+msgstr "~படியெடு"
+
+#: newhelp.src#DLG_HELP_ADDBOOKMARK.FT_BOOKMARK_TITLE.fixedtext.text
+msgid "Bookmark:"
+msgstr "புத்தகக்குறி:"
+
+#: newhelp.src#DLG_HELP_ADDBOOKMARK.STR_BOOKMARK_RENAME.string.text
+msgid "Rename Bookmark"
+msgstr "புத்தகக்குறிக்கு வேறுபெயரிடுக"
+
+#: newhelp.src#DLG_HELP_ADDBOOKMARK.modaldialog.text
+msgid "Add to Bookmarks"
+msgstr "புக் மார்க்குக்கு சேர்"
+
+#: newhelp.src#MENU_HELP_BOOKMARKS.MID_OPEN.menuitem.text
+msgid "Display"
+msgstr "காட்டுக"
+
+#: newhelp.src#MENU_HELP_BOOKMARKS.MID_RENAME.menuitem.text
+msgid "Rename..."
+msgstr "மறுபெயரிடுக..."
+
+#: newhelp.src#MENU_HELP_BOOKMARKS.MID_DELETE.menuitem.text
+msgid "Delete"
+msgstr "நீக்கு"
+
+#: newhelp.src#RID_INFO_NOSEARCHRESULTS.infobox.text
+msgid "No topics found."
+msgstr "தலைப்பு காணப்படவில்லை."
+
+#: newhelp.src#RID_INFO_NOSEARCHTEXTFOUND.infobox.text
+msgid "The text you entered was not found."
+msgstr "நீங்கள் உள்ளிட்ட உரையைக் காணவில்லை."
+
+#: newhelp.src#RID_HELP_ONSTARTUP_TEXT.string.text
+msgid "~Display %PRODUCTNAME %MODULENAME Help at Startup"
+msgstr "%PRODUCTNAME %MODULENAME உதவியைத் தொடக்கத்தில் காட்டு"
+
+#: sfx.src#STR_ACCTITLE_PRODUCTIVITYTOOLS.string.text
+msgid "%PRODUCTNAME"
+msgstr "%PRODUCTNAME"
