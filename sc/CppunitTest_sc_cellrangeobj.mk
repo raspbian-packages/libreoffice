@@ -132,4 +132,6 @@ $(eval $(call gb_CppunitTest_use_extra_configuration,sc_cellrangesbase,\
 $(call gb_CppunitTest_get_target,sc_cellrangesbase) : \
     $(WORKDIR)/AllLangRes/sc \
 
+.IGNORE: $(call gb_CppunitTest_get_target,sc_cellrangesbase)
+
 # vim: set noet sw=4 ts=4:
