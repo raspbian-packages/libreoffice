@@ -50,9 +50,10 @@
 #include <svtools/javainteractionhandler.hxx>
 #include <svtools/javacontext.hxx>
 
+#define DEFINE_CONST_UNICODE(CONSTASCII) UniString(RTL_CONSTASCII_USTRINGPARAM(CONSTASCII))
+
 using namespace com::sun::star::uno;
 using namespace com::sun::star::task;
-
 namespace svt
 {
 
@@ -157,6 +158,9 @@ void SAL_CALL JavaInteractionHandler::handle( const Reference< XInteractionReque
 #endif
             String aTitle( SvtResId(STR_WARNING_INVALIDJAVASETTINGS));
             aWarningBox.SetText( aTitle );
+            String aText = String(aWarningBox.GetMessText());
+            aText.Append(DEFINE_CONST_UNICODE("\nPlease install the libreoffice-java-common package for this functionality."));
+            aWarningBox.SetMessText( aText );
             nResult = aWarningBox.Execute();
         }
         else
@@ -174,6 +178,9 @@ void SAL_CALL JavaInteractionHandler::handle( const Reference< XInteractionReque
             QueryBox aQueryBox( NULL, SvtResId( QBX_JAVADISABLED ) );
             String aTitle( SvtResId( STR_QUESTION_JAVADISABLED ) );
             aQueryBox.SetText( aTitle );
+            String aText = String(aQueryBox.GetMessText());
+            aText.Append(DEFINE_CONST_UNICODE("\nPlease install the libreoffice-java-common package for this functionality."));
+            aQueryBox.SetMessText( aText );
             nResult = aQueryBox.Execute();
             if ( nResult == RET_YES )
             {
@@ -220,6 +227,9 @@ void SAL_CALL JavaInteractionHandler::handle( const Reference< XInteractionReque
             ErrorBox aErrorBox(NULL, SvtResId( ERRORBOX_RESTARTREQUIRED ) );
             String aTitle( SvtResId( STR_ERROR_RESTARTREQUIRED ) );
             aErrorBox.SetText( aTitle );
+            String aText = String(aErrorBox.GetMessText());
+            aText.Append(DEFINE_CONST_UNICODE("\nPlease install the libreoffice-java-common package for this functionality."));
+            aErrorBox.SetMessText( aText );
             nResult = aErrorBox.Execute();
         }
         else
