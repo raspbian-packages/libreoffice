@@ -1,0 +1,7 @@
+UDK_3_0_0 {
+    global:
+        legacysmgr_component_getFactory;
+        _ZN17legacy_binfilters30getLegacyProcessServiceFactoryEv;
+    local:
+    *;
+};
