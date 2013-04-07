@@ -1,0 +1,63 @@
+#. extracted from dbaccess/source/ui/inc.oo
+msgid ""
+msgstr ""
+"Project-Id-Version: dbaccess/source/ui/inc.po\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+dbaccess%2Fsource%2Fui%2Finc.oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-02-21 19:41+0200\n"
+"PO-Revision-Date: 2012-02-20 17:25+0200\n"
+"Last-Translator: Dimitris Spingos (Δημήτρης Σπίγγος) <dmtrs32@gmail.com>\n"
+"Language-Team: Greek <users@el.libreoffice.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.0\n"
+"X-Accelerator-Marker: ~\n"
+"X-Project-Style: openoffice\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: Greece\n"
+
+#: toolbox_tmpl.hrc#MID_SBA_QRY_REFRESH.#define.text
+msgid "Refresh"
+msgstr "Ανανέωση"
+
+#: toolbox_tmpl.hrc#MID_NEW_VIEW_DESIGN.#define.text
+msgid "New ~View Design"
+msgstr "Νέος σχεδιασμός ~προβολής"
+
+#: toolbox_tmpl.hrc#MID_NEW_TABLE_DESIGN.#define.text
+msgid "New ~Table Design"
+msgstr "Νέο ~σχεδιασμός πίνακα"
+
+#: toolbox_tmpl.hrc#MID_QUERY_WIZARD.#define.text
+msgid "Query AutoPilot..."
+msgstr "Ερώτημα AutoPilot..."
+
+#: toolbox_tmpl.hrc#MID_QUERY_NEW_DESIGN.#define.text
+msgid "New ~Query (Design View)"
+msgstr "Νέο ~ερώτημα (προβολή σχεδίασης)"
+
+#: toolbox_tmpl.hrc#MID_QUERY_EDIT_DESIGN.#define.text
+msgid "~Edit Query"
+msgstr "~Επεξεργασία ερωτήματος"
+
+#: toolbox_tmpl.hrc#MID_QUERY_NEW_SQL.#define.text
+msgid "New Query (~SQL View)"
+msgstr "Νέο ερώτημα (προβολή ~SQL)"
+
+#: toolbox_tmpl.hrc#MID_DBUI_QUERY_EDIT_JOINCONNECTION.#define.text
+msgid "Edit..."
+msgstr "Edit..."
+
+#: toolbox_tmpl.hrc#MID_COLUMN_WIDTH.#define.text
+msgid "Column ~Width..."
+msgstr "Π~λάτος στήλης..."
+
+#: toolbox_tmpl.hrc#MID_DOCUMENT_CREATE_REPWIZ.#define.text
+msgid "Report Wizard..."
+msgstr "Οδηγός έκθεσης..."
+
+#: toolbox_tmpl.hrc#MID_DOCUMENT_NEW_AUTOPILOT.#define.text
+msgid "Form AutoPilot..."
+msgstr "Οδηγός Φόρμας..."
