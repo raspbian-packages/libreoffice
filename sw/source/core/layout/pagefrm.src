@@ -1,0 +1,16 @@
+#include "pagefrm.hrc"
+
+Bitmap BMP_PAGE_SHADOW_MASK
+{
+    File = "page-shadow-mask.png";
+};
+
+String STR_PAGE_BREAK
+{
+    Text [ en-US ] = "Manual Page Break" ;
+};
+
+String STR_COLUMN_BREAK
+{
+    Text [ en-US ] = "Manual Column Break" ;
+};
