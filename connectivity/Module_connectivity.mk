@@ -149,7 +149,7 @@ endif
 endif
 
 ifneq ($(filter QADEVOOO,$(BUILD_TYPE)),)
-$(eval $(call gb_Module_add_subsequentcheck_targets,connectivity,\
+$(eval $(call gb_Module_add_targets,connectivity,\
 	Jar_ConnectivityTools \
 ))
 # FIXME: Does not work. Convert to JUnit.
