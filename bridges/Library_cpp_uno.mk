@@ -35,6 +35,18 @@ $(call gb_LinkTarget_get_target,$(call gb_Library_get_linktarget,gcc3_uno)) : \
 	EXTRAOBJECTLISTS += $(call gb_CustomTarget_get_workdir,bridges/source/cpp_uno/gcc3_linux_arm)/armhelper.objectlist
 endif
 
+else ifeq ($(OS)-$(CPUNAME),LINUX-AARCH64)
+
+bridges_SELECTED_BRIDGE := gcc3_linux_aarch64
+bridge_exception_objects := abi callvirtualfunction uno2cpp
+
+$(eval $(call gb_Library_add_cxxobjects,$(gb_CPPU_ENV)_uno, \
+    bridges/source/cpp_uno/$(bridges_SELECTED_BRIDGE)/cpp2uno, \
+    $(subst -fstack-protector-strong,-fstack-protector, \
+        $(gb_LinkTarget_EXCEPTIONFLAGS) \
+        $(call gb_LinkTarget__get_cxxflags,$(gb_CPPU_ENV)_uno)) \
+))
+
 else ifeq ($(OS)-$(CPUNAME),LINUX-AXP)
 
 bridges_SELECTED_BRIDGE := gcc3_linux_alpha
