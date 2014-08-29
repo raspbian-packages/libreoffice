@@ -4327,6 +4327,12 @@ linux-gnu*)
 
     case "$host_cpu" in
 
+    aarch64)
+        CPUNAME=AARCH64
+        PLATFORMID=linux_aarch64
+        RTL_ARCH=AARCH64
+        OUTPATH=unxlngaarch64
+        ;;
     alpha)
         CPUNAME=AXP
         RTL_ARCH=ALPHA
