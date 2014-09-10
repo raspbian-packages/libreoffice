@@ -219,7 +219,7 @@ void PolyPolygon::Insert( const Polygon& rPoly, sal_uInt16 nPos )
 void PolyPolygon::Remove( sal_uInt16 nPos )
 {
     DBG_CHKTHIS( PolyPolygon, NULL );
-    DBG_ASSERT( nPos < Count(), "PolyPolygon::Remove(): nPos >= nSize" );
+    assert(nPos < Count() && "PolyPolygon::Remove(): nPos >= nSize");
 
     if ( mpImplPolyPolygon->mnRefCount > 1 )
     {
@@ -239,7 +239,7 @@ void PolyPolygon::Remove( sal_uInt16 nPos )
 void PolyPolygon::Replace( const Polygon& rPoly, sal_uInt16 nPos )
 {
     DBG_CHKTHIS( PolyPolygon, NULL );
-    DBG_ASSERT( nPos < Count(), "PolyPolygon::Replace(): nPos >= nSize" );
+    assert(nPos < Count() && "PolyPolygon::Replace(): nPos >= nSize");
 
     if ( mpImplPolyPolygon->mnRefCount > 1 )
     {
@@ -256,7 +256,7 @@ void PolyPolygon::Replace( const Polygon& rPoly, sal_uInt16 nPos )
 const Polygon& PolyPolygon::GetObject( sal_uInt16 nPos ) const
 {
     DBG_CHKTHIS( PolyPolygon, NULL );
-    DBG_ASSERT( nPos < Count(), "PolyPolygon::GetObject(): nPos >= nSize" );
+    assert(nPos < Count() && "PolyPolygon::GetObject(): nPos >= nSize");
 
     return *(mpImplPolyPolygon->mpPolyAry[nPos]);
 }
@@ -617,7 +617,7 @@ Rectangle PolyPolygon::GetBoundRect() const
 Polygon& PolyPolygon::operator[]( sal_uInt16 nPos )
 {
     DBG_CHKTHIS( PolyPolygon, NULL );
-    DBG_ASSERT( nPos < Count(), "PolyPolygon::[](): nPos >= nSize" );
+    assert(nPos < Count() && "PolyPolygon::[](): nPos >= nSize");
 
     if ( mpImplPolyPolygon->mnRefCount > 1 )
     {
