@@ -4027,13 +4027,19 @@ dnl Check for enable symbols option
 dnl ===================================================================
 AC_MSG_CHECKING([whether to include symbols while preserve optimization])
 if test -n "$enable_symbols" -a "$enable_symbols" != "no"; then
-    ENABLE_SYMBOLS="TRUE"
+    if test "$enable_symbols" = "SMALL" -o "$enable_symbols" = "small"; then
+        ENABLE_SYMBOLS="SMALL"
+        AC_MSG_RESULT([yes, small ones])
+    else
+        ENABLE_SYMBOLS="TRUE"
+        AC_MSG_RESULT([yes])
+    fi
+
     if test -n "$ENABLE_DBGUTIL"; then
         AC_MSG_ERROR([--enable-dbgutil cannot be used with --enable-symbols])
     elif test -n "$ENABLE_DEBUG"; then
         AC_MSG_ERROR([--enable-debug cannot be used with --enable-symbols])
     fi
-    AC_MSG_RESULT([yes])
 else
     if test -n "$enable_symbols" -a "$enable_symbols" = "no"; then
         ENABLE_SYMBOLS="FALSE"

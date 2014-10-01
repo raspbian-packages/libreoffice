@@ -151,8 +151,13 @@ gb_LinkTarget_CFLAGS := $(gb_CFLAGS)
 gb_LinkTarget_CXXFLAGS := $(gb_CXXFLAGS)
 
 ifeq ($(gb_SYMBOL),$(true))
+ifeq ($(ENABLE_SYMBOLS),SMALL)
+gb_LinkTarget_CXXFLAGS += -g1
+gb_LinkTarget_CFLAGS += -g1
+else
 gb_LinkTarget_CXXFLAGS += $(GGDB2)
 gb_LinkTarget_CFLAGS += $(GGDB2)
+endif
 endif
 
 # note that `cat $(extraobjectlist)` is needed to build with older gcc versions, e.g. 4.1.2 on SLED10
