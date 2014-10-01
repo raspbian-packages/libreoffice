@@ -1,0 +1,4 @@
+# transitional packages
+libreoffice source: debhelper-but-no-misc-depends libreoffice-presenter-console
+libreoffice source: debhelper-but-no-misc-depends libreoffice-emailmerge
+

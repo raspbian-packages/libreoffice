@@ -1,0 +1,20 @@
+Package: libreoffice-gcj
+Architecture: %OOO_GCJ_ARCHS%
+Section: java
+Depends: gcj-jre,
+         libreoffice-core (= ${binary:Version}),
+         libreoffice-java-common (= ${source:Version}),
+         ${java-gcj-depends},
+         ${java:Depends},
+         ${misc:Depends},
+         ${shlibs:Depends}
+Enhances: libreoffice-base, libreoffice-writer
+Description: office productivity suite -- Java libraries for GIJ
+ LibreOffice is a full-featured office productivity suite that provides
+ a near drop-in replacement for Microsoft(R) Office.
+ .
+ This package contains the .jars from libreoffice-java-common compiled to
+ native to make the Java features of LibreOffice faster when using gij.
+ .
+ This package has NO effect with Suns/Blackdowns/IBMs/etc. JDK.
+
