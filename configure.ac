@@ -10472,6 +10472,11 @@ else
 fi
 AC_SUBST(ENABLE_VLC)
 
+if test -x /usr/bin/dpkg-buildflags; then
+	HARDEN_CPPFLAGS=`dpkg-buildflags --get CPPFLAGS 2>/dev/null`
+fi
+AC_SUBST(HARDEN_CPPFLAGS)
+
 dnl ===================================================================
 dnl Check whether the OpenGL libraries are available
 dnl ===================================================================
