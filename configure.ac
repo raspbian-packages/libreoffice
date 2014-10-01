@@ -7303,12 +7303,18 @@ if test -n "$ENABLE_JAVA" -a -z "$JAVAINC"; then
     k*bsd*-gnu*)
         JAVAINC="-I$JAVA_HOME/include"
         test -d "$JAVA_HOME/include/native_thread" && JAVAINC="$JAVAINC -I$JAVA_HOME/include/native_thread"
+	if test "$JDK" = "gcj"; then
+		JAVAINC="$JAVAINC -I`$JAVA_HOME/bin/gcj --print-file-name include/jni.h | $SED -e s,\/jni.h,,g`"
+	fi
         ;;
 
     linux-gnu*)
         JAVAINC="-I$JAVA_HOME/include"
         JAVAINC="$JAVAINC -I$JAVA_HOME/include/linux"
         test -d "$JAVA_HOME/include/native_thread" && JAVAINC="$JAVAINC -I$JAVA_HOME/include/native_thread"
+	if test "$JDK" = "gcj"; then
+		JAVAINC="$JAVAINC -I`$JAVA_HOME/bin/gcj --print-file-name include/jni.h | $SED -e s,\/jni.h,,g`"
+	fi
         ;;
 
     mingw*)
