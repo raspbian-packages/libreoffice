@@ -50,6 +50,7 @@ $(eval $(call gb_Library_use_sdk_api,vclplug_gtk3))
 $(eval $(call gb_Library_add_libs,vclplug_gtk3,\
 	$(GTK3_LIBS) \
 	$(GTHREAD_LIBS) \
+	$(GMODULE_LIBS) \
 	-lX11 \
 	-lXext \
 	-lSM \

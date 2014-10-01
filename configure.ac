@@ -10084,11 +10084,14 @@ if test "x$enable_gtk3" = "xyes"; then
     else
         AC_MSG_ERROR([gtk3 libraries of the correct versions, not found])
     fi
+    PKG_CHECK_MODULES(GMODULE, gmodule-2.0,,AC_MSG_ERROR([requirements to build the gtk3-plugin not met. Use --disable-gtk3 or install the missing packages]))
     GTK3_CFLAGS=$(printf '%s' "$GTK3_CFLAGS" | sed -e "s/-I/${ISYSTEM?}/g")
 fi
 AC_SUBST(GTK3_LIBS)
 AC_SUBST(GTK3_CFLAGS)
 AC_SUBST(ENABLE_GTK3)
+AC_SUBST(GMODULE_LIBS)
+AC_SUBST(GMODULE_CFLAGS)
 
 AC_MSG_CHECKING([which VCLplugs shall be built])
 if test "$GUIBASE" != "unx" -o "$enable_headless" = "yes"; then
