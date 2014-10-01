@@ -1,0 +1,175 @@
+Gemeinsame Unterverzeichnisse: odk-old/config und odk/config.
+Gemeinsame Unterverzeichnisse: odk-old/docs und odk/docs.
+Gemeinsame Unterverzeichnisse: odk-old/examples und odk/examples.
+diff --git a/odk/Module_odk.mk b/odk/Module_odk.mk
+index 32bdfc1..a174932 100644
+--- a/odk/Module_odk.mk
++++ b/odk/Module_odk.mk
+@@ -43,11 +43,13 @@ ifneq ($(ENABLE_JAVA),)
+ $(eval $(call gb_Module_add_targets,odk,\
+ 	$(if $(and $(BUILD_UNOWINREG),$(filter GCC,$(COM))),CustomTarget_unowinreg)\
+ 	CustomTarget_classes \
+-	CustomTarget_javadoc \
+-	GeneratedPackage_odk_javadoc \
+ 	GeneratedPackage_uno_loader_classes \
+ 	$(if $(filter WNT,$(OS)),Library_unowinreg) \
+ 	Package_unowinreg \
++	$(if $(JAVADOC),\
++		CustomTarget_javadoc \
++		GeneratedPackage_odk_javadoc \
++	) \
+ ))
+ endif
+ 
+Gemeinsame Unterverzeichnisse: odk-old/pack und odk/pack.
+Gemeinsame Unterverzeichnisse: odk-old/qa und odk/qa.
+Gemeinsame Unterverzeichnisse: odk-old/settings und odk/settings.
+Gemeinsame Unterverzeichnisse: odk-old/source und odk/source.
+Gemeinsame Unterverzeichnisse: odk-old/util und odk/util.
+--- a/configure.ac-old	2013-05-27 18:32:42.187305241 +0200
++++ b/configure.ac	2013-05-27 18:44:29.131286710 +0200
+@@ -1709,6 +1709,18 @@
+     ],,
+     [with_doxygen=yes])
+ 
++AC_ARG_WITH(
++    [javadoc],
++    AS_HELP_STRING(
++        [--with-javadoc],
++        [Specifies the javadoc executable to use when generating ODK Java
++         documentation. --without-javadoc disables generation of ODK Java
++         documentation. Not relevant in the --disable-odk case.])
++    [
++                          Usage:     --with-javadoc=<absolute path to doxygen executable>
++    ],,
++    [with_javadoc=yes])
++
+ AC_ARG_WITH(visual-studio,
+     AS_HELP_STRING([--with-visual-studio=<2012/2010/2013>],
+         [Specify which Visual Studio version to use in case several are
+@@ -6290,35 +6302,45 @@
+ dnl ===================================================================
+ dnl Checks for javadoc
+ dnl ===================================================================
+-if test "$ENABLE_JAVA" != ""; then
++if test "$ENABLE_JAVA" != "" -a "$enable_odk" != no; then
+     if test -z "$with_jdk_home"; then
+         AC_PATH_PROG(JAVADOC, javadoc)
+     else
+-        _javadoc_path="$with_jdk_home/bin/javadoc"
+-        dnl Check if there is a javadoc at all.
+-        if test -x "$_javadoc_path"; then
+-            JAVADOC=$_javadoc_path
+-        else
+-            AC_PATH_PROG(JAVADOC, javadoc)
+-        fi
+-    fi
+-    if test -z "$JAVADOC"; then
+-        AC_MSG_ERROR([$_javadoc_path not found set with_jdk_home])
+-    fi
+-    if test "$build_os" = "cygwin"; then
+-        if test x`echo "$JAVADOC" | $GREP -i '\.exe$'` = x; then
+-            JAVADOC="${JAVADOC}.exe"
+-        fi
+-        JAVADOC=`cygpath -d "$JAVADOC"`
+-        JAVADOC=`cygpath -u "$JAVADOC"`
+-    fi
++        if test "$with_javadoc" = "yes"; then
++            _javadoc_path="$with_jdk_home/bin/javadoc"
++            dnl Check if there is a javadoc at all.
++            if test -x "$_javadoc_path"; then
++                JAVADOC=$_javadoc_path
++            else
++                AC_PATH_PROG(JAVADOC, javadoc)
++            fi
++            if test -z "$JAVADOC"; then
++                AC_MSG_ERROR([$_javadoc_path not found set with_jdk_home])
++            fi
++            if test "$build_os" = "cygwin"; then
++                if test x`echo "$JAVADOC" | $GREP -i '\.exe$'` = x; then
++                    JAVADOC="${JAVADOC}.exe"
++                fi
++                JAVADOC=`cygpath -d "$JAVADOC"`
++                JAVADOC=`cygpath -u "$JAVADOC"`
++            fi
+ 
+-    if test `$JAVADOC --version 2>&1 | $GREP -c "gjdoc"` -gt 0; then
+-    JAVADOCISGJDOC="yes"
++            if test `$JAVADOC --version 2>&1 | $GREP -c "gjdoc"` -gt 0; then
++            JAVADOCISGJDOC="yes"
++            fi
++        else
++	    unset JAVADOC
++	fi
+     fi
++else
++    unset JAVADOC
+ fi
+ AC_SUBST(JAVADOCISGJDOC)
+ 
++if test "$JAVADOCISGJDOC" = "yes"; then
++	unset JAVADOC
++fi
++
+ if test "$ENABLE_JAVA" != ""; then
+     # check if JAVA_HOME was (maybe incorrectly?) set automatically to /usr
+     if test "$JAVA_HOME" = "/usr" -a "x$with_jdk_home" = "x"; then
+--- a/scp2/source/sdkoo/sdkoo.scp-old	2013-05-27 21:26:53.967031270 +0200
++++ b/scp2/source/sdkoo/sdkoo.scp	2013-05-27 21:27:01.895031062 +0200
+@@ -177,6 +177,7 @@
+ End
+ 
+ #if defined(ENABLE_JAVA)
++#if defined(JAVADOC)
+ File gid_File_Package_odk_javadoc
+     TXT_FILE_BODY;
+     Dir = FILELIST_SDK_DIR;
+@@ -184,6 +185,7 @@
+     Styles = (FILELIST,USE_INTERNAL_RIGHTS);
+ End
+ #endif
++#endif
+ 
+ File gid_File_Package_odk_lib
+     TXT_FILE_BODY;
+--- a/scp2/InstallModule_sdkoo.mk-old	2013-09-23 22:46:56.034054736 +0200
++++ b/scp2/InstallModule_sdkoo.mk	2013-09-23 22:46:47.914054950 +0200
+@@ -15,6 +15,12 @@
+ ))
+ endif
+ 
++ifneq ($(JAVADOC),)
++$(eval $(call gb_InstallModule_add_defs,scp2/sdkoo,\
++	-DJAVADOC \
++))
++endif
++
+ $(eval $(call gb_InstallModule_add_scpfiles,scp2/sdkoo,\
+     scp2/source/sdkoo/sdkoo \
+ ))
+diff --git a/odk/CustomTarget_check.mk b/odk/CustomTarget_check.mk
+index a9b542d..707829a 100644
+--- a/odk/CustomTarget_check.mk
++++ b/odk/CustomTarget_check.mk
+@@ -35,7 +35,7 @@ $(call gb_CustomTarget_get_workdir,odk/check)/checkbin : \
+ 		$(if $(filter WNT,$(OS)),$(call gb_Package_get_target,odk_config_win)) \
+ 		$(call gb_Package_get_target,odk_docs) \
+ 		$(call gb_Package_get_target,odk_html) \
+-		$(if $(ENABLE_JAVA),$(call gb_GeneratedPackage_get_target,odk_javadoc)) \
++		$(if $(JAVADOC),$(call gb_GeneratedPackage_get_target,odk_javadoc)) \
+ 		$(call gb_Package_get_target,odk_lib) \
+ 		$(call gb_Package_get_target,odk_settings) \
+ 		$(call gb_Package_get_target,odk_settings_generated) \
+diff --git a/odk/util/check.pl b/odk/util/check.pl
+index 899b42c..2c7a780 100644
+--- a/odk/util/check.pl
++++ b/odk/util/check.pl
+@@ -188,7 +188,7 @@ if (-d "$SdkDir") {
+     # improvement required
+     my $solar_java = $ENV{"ENABLE_JAVA"};
+     my $JDK = $ENV{"JDK"};
+-    if (defined($solar_java) && $solar_java ne "" && (!defined($JDK) || $JDK ne "gcj")) {
++    if (defined($solar_java) && $solar_java ne "" && $ENV{"JAVADOC"} ne "") {
+     print "check java docu: ";
+     if (check_dir("docs/java/ref")) {
+         if (!check_file("docs/java/ref/index.html")) {
