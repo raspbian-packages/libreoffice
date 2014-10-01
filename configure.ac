@@ -1954,6 +1954,18 @@ AC_ARG_WITH(
     ],,
     [with_doxygen=yes])
 
+AC_ARG_WITH(
+    [javadoc],
+    AS_HELP_STRING(
+        [--with-javadoc],
+        [Specifies the javadoc executable to use when generating ODK Java
+         documentation. --without-javadoc disables generation of ODK Java
+         documentation. Not relevant in the --disable-odk case.])
+    [
+                          Usage:     --with-javadoc=<absolute path to doxygen executable>
+    ],,
+    [with_javadoc=yes])
+
 AC_ARG_WITH(visual-studio,
     AS_HELP_STRING([--with-visual-studio=<2012/2010/2013>],
         [Specify which Visual Studio version to use in case several are
@@ -7101,34 +7113,44 @@ AC_SUBST(JAVACISGCJ)
 dnl ===================================================================
 dnl Checks for javadoc
 dnl ===================================================================
-if test "$ENABLE_JAVA" != ""; then
+if test "$ENABLE_JAVA" != "" -a "$enable_odk" != no; then
     if test -z "$with_jdk_home"; then
         AC_PATH_PROG(JAVADOC, javadoc)
     else
-        _javadoc_path="$with_jdk_home/bin/javadoc"
-        dnl Check if there is a javadoc at all.
-        if test -x "$_javadoc_path"; then
-            JAVADOC=$_javadoc_path
-        else
-            AC_PATH_PROG(JAVADOC, javadoc)
-        fi
-    fi
-    if test -z "$JAVADOC"; then
-        AC_MSG_ERROR([$_javadoc_path not found set with_jdk_home])
-    fi
-    if test "$build_os" = "cygwin"; then
-        if test x`echo "$JAVADOC" | $GREP -i '\.exe$'` = x; then
-            JAVADOC="${JAVADOC}.exe"
-        fi
-        JAVADOC=`cygpath -d "$JAVADOC"`
-        JAVADOC=`cygpath -u "$JAVADOC"`
-    fi
+        if test "$with_javadoc" = "yes"; then
+            _javadoc_path="$with_jdk_home/bin/javadoc"
+            dnl Check if there is a javadoc at all.
+            if test -x "$_javadoc_path"; then
+                JAVADOC=$_javadoc_path
+            else
+                AC_PATH_PROG(JAVADOC, javadoc)
+            fi
+            if test -z "$JAVADOC"; then
+                AC_MSG_ERROR([$_javadoc_path not found set with_jdk_home])
+            fi
+            if test "$build_os" = "cygwin"; then
+                if test x`echo "$JAVADOC" | $GREP -i '\.exe$'` = x; then
+                    JAVADOC="${JAVADOC}.exe"
+                fi
+                JAVADOC=`cygpath -d "$JAVADOC"`
+                JAVADOC=`cygpath -u "$JAVADOC"`
+            fi
 
-    if test `$JAVADOC --version 2>&1 | $GREP -c "gjdoc"` -gt 0; then
-    JAVADOCISGJDOC="yes"
+            if test `$JAVADOC --version 2>&1 | $GREP -c "gjdoc"` -gt 0; then
+            JAVADOCISGJDOC="yes"
+            fi
+        else
+	    unset JAVADOC
+	fi
     fi
+else
+    unset JAVADOC
 fi
 AC_SUBST(JAVADOCISGJDOC)
+
+if test "$JAVADOCISGJDOC" = "yes"; then
+	unset JAVADOC
+fi
 
 if test "$ENABLE_JAVA" != ""; then
     # check if JAVA_HOME was (maybe incorrectly?) set automatically to /usr

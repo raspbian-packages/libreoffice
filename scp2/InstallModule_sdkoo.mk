@@ -17,6 +17,12 @@ $(eval $(call gb_InstallModule_add_defs,scp2/sdkoo,\
 ))
 endif
 
+ifneq ($(JAVADOC),)
+$(eval $(call gb_InstallModule_add_defs,scp2/sdkoo,\
+	-DJAVADOC \
+))
+endif
+
 $(eval $(call gb_InstallModule_add_scpfiles,scp2/sdkoo,\
     scp2/source/sdkoo/sdkoo \
 ))
