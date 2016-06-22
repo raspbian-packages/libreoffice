@@ -1,0 +1,44 @@
+From 6dc998c084ed143ee3d5867edabbb3f7a14a453e Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?Caol=C3=A1n=20McNamara?= <caolanm@redhat.com>
+Date: Thu, 10 Dec 2015 12:59:21 +0000
+Subject: [PATCH] guard against corrupt LwpTocSuperLayout
+
+Change-Id: I18648e74d16b932cfa6fbd2057d1e9987c498fd4
+---
+ lotuswordpro/source/filter/lwptoc.cxx | 13 +++++++++----
+ 1 file changed, 9 insertions(+), 4 deletions(-)
+
+diff --git a/lotuswordpro/source/filter/lwptoc.cxx b/lotuswordpro/source/filter/lwptoc.cxx
+index 9808023..59926bb 100644
+--- a/lotuswordpro/source/filter/lwptoc.cxx
++++ b/lotuswordpro/source/filter/lwptoc.cxx
+@@ -106,17 +106,22 @@ void LwpTocSuperLayout::Read()
+ 
+     m_SearchItems.Read(m_pObjStrm);
+ 
+-    sal_uInt16 i;
+     sal_uInt16 count = m_pObjStrm->QuickReaduInt16();
+-    for (i = 0; (i < MAX_LEVELS) && (count > 0); i++, count--)
++    if (count > MAX_LEVELS)
++        throw std::range_error("corrupt LwpTocSuperLayout");
++    for (sal_uInt16 i = 0; i < count; ++i)
+         m_DestName[i].Read(m_pObjStrm);
+ 
+     count = m_pObjStrm->QuickReaduInt16();
+-    for (i = 0; (i < MAX_LEVELS) && (count > 0); i++, count--)
++    if (count > MAX_LEVELS)
++        throw std::range_error("corrupt LwpTocSuperLayout");
++    for (sal_uInt16 i = 0; i < count; ++i)
+         m_DestPGName[i].Read(m_pObjStrm);
+ 
+     count = m_pObjStrm->QuickReaduInt16();
+-    for (i = 0; i < count; i++)
++    if (count > MAX_LEVELS)
++        throw std::range_error("corrupt LwpTocSuperLayout");
++    for (sal_uInt16 i = 0; i < count; ++i)
+         m_nFlags[i] = m_pObjStrm->QuickReaduInt32();
+ 
+     m_pObjStrm->SkipExtra();
+-- 
+2.1.4
+

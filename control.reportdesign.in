@@ -1,0 +1,39 @@
+Package: libreoffice-report-builder
+Section: misc
+Architecture: all
+Pre-Depends: ${java-runtime-depends}
+Depends: libreoffice-core,
+         libreoffice-java-common,
+         libreoffice-report-builder-bin (>= ${base-version}),
+         ${java:Depends},
+         ${misc:Depends},
+         ${report-builder-jar-depends}
+Conflicts: libreoffice-common (<< 1:3.5~),
+           libreoffice-core (<< 1:3.5~),
+           ure (<< 1.5.1+OOo3.1.1-15)
+Provides: libreoffice-reportdesigner
+Enhances: libreoffice-base
+Description: LibreOffice component for building database reports
+ LibreOffice is a full-featured office productivity suite that provides
+ a near drop-in replacement for Microsoft(R) Office.
+ .
+ This package contains the report builder:
+  "Create with the Sun Report Builder stylish, smart-looking database reports.
+  The flexible report editor can define group and page headers as well as
+  group and page footers and even calculation fields are available to
+  accomplish complex database reports."
+
+Package: libreoffice-report-builder-bin
+Section: misc
+Architecture: %OOO_REPORTDESIGN_ARCHS%
+Depends: libreoffice-core,
+         libreoffice-base,
+         ${misc:Depends},
+         ${shlibs:Depends}
+Description: LibreOffice component for building database reports -- libraries
+ LibreOffice is a full-featured office productivity suite that provides
+ a near drop-in replacement for Microsoft(R) Office.
+ .
+ This package contains some architecture-dependent support libraries
+ (librpt*.so) for the report builder component.
+
