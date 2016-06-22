@@ -29,6 +29,8 @@ HTML_OUTPUT = .
 
 GENERATE_LATEX = NO
 
+HAVE_DOT = NO
+
 ALIASES = "derive=\par Derive: \n"
 
 MACRO_EXPANSION = YES
