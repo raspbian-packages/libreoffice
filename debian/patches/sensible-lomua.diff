@@ -1,0 +1,44 @@
+Index: logit/officecfg/registry/data/org/openoffice/Office/Common.xcu
+===================================================================
+--- logit.orig/officecfg/registry/data/org/openoffice/Office/Common.xcu	2011-11-22 20:57:46.000000000 +0000
++++ logit/officecfg/registry/data/org/openoffice/Office/Common.xcu	2011-11-24 16:31:09.504024867 +0000
+@@ -659,8 +659,7 @@
+   </node>
+   <node oor:name="ExternalMailer" install:module="unixdesktop">
+     <prop oor:name="Program">
+-      <value oor:external=
+-          "com.sun.star.configuration.backend.DesktopBackend ExternalMailer"/>
++      <value>sensible-lomua</value>
+     </prop>
+   </node>
+   <node oor:name="Font">
+Index: logit/shell/source/unix/misc/senddoc.sh
+===================================================================
+--- logit.orig/shell/source/unix/misc/senddoc.sh	2011-11-22 20:57:46.000000000 +0000
++++ logit/shell/source/unix/misc/senddoc.sh	2011-11-24 16:30:30.276027576 +0000
+@@ -59,6 +59,25 @@
+     shift
+ fi
+ 
++case `basename "$MAILER"` in
++    sensible-lomua)
++        if [ -n "$GNOME_DESKTOP_SESSION_ID" -a -x /usr/bin/evolution ]; then
++            MAILER=/usr/bin/evolution
++        elif [ -n "$KDE_FULL_SESSION" -a -x /usr/bin/kmail ]; then
++            MAILER=/usr/bin/kmail
++        elif [ -x /usr/bin/evolution ]; then
++            # default
++            MAILER=/usr/bin/evolution
++        elif [ -x /usr/bin/icedove ]; then
++            # fallback
++            MAILER=/usr/bin/icedove
++        elif [ -x /usr/bin/thunderbird ]; then
++            # fallback
++            MAILER=/usr/bin/thunderbird
++        fi
++        ;;
++esac
++
+ # autodetect mail client from executable name
+ case `basename "$MAILER" | sed 's/-.*$//'` in
+ 

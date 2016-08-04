@@ -1,0 +1,27 @@
+--- a/officecfg/registry/data/org/openoffice/VCL.xcu	2012-10-19 10:40:40.099426979 +0200
++++ b/officecfg/registry/data/org/openoffice/VCL.xcu	2012-10-19 10:44:28.004557099 +0200
+@@ -480,19 +480,19 @@
+         <value>Tahoma;Andale Sans UI;Arial Unicode MS;Lucida Sans Unicode;DejaVu Sans;Albany AMT;Albany;Arial;Nimbus Sans L;Interface User;WarpSans;Geneva;Tahoma;MS Sans Serif;Helv;Dialog;Lucida;Helvetica;Charcoal;Chicago;Helmet;Interface System;Sans Serif</value>
+      </prop>
+      <prop oor:name="CTL_DISPLAY" oor:type="xs:string" oor:op="replace">
+-        <value>Nachlieli CLM;Miriam CLM;Ellinia CLM;Aharoni CLM;Drugulin CLM;Miriam Mono CLM;Lucidasans;Lucida Sans;Arial Unicode MS</value>
++        <value>Nachlieli CLM;Miriam CLM;Ellinia CLM;Aharoni CLM;Drugulin CLM;Miriam Mono CLM;Lucida Sans Unicode;Arial Unicode MS</value>
+      </prop>
+      <prop oor:name="CTL_HEADING" oor:type="xs:string" oor:op="replace">
+-        <value>Nachlieli CLM;Miriam CLM;Ellinia CLM;Aharoni CLM;Drugulin CLM;Miriam Mono CLM;Lucidasans;Lucida Sans;Arial Unicode MS</value>
++        <value>Nachlieli CLM;Miriam CLM;Ellinia CLM;Aharoni CLM;Drugulin CLM;Miriam Mono CLM;Lucida Sans Unicode;Arial Unicode MS</value>
+      </prop>
+      <prop oor:name="CTL_PRESENTATION" oor:type="xs:string" oor:op="replace">
+-        <value>Nachlieli CLM;Miriam CLM;Ellinia CLM;Aharoni CLM;Drugulin CLM;Miriam Mono CLM;Lucidasans;Lucida Sans;Arial Unicode MS</value>
++        <value>Nachlieli CLM;Miriam CLM;Ellinia CLM;Aharoni CLM;Drugulin CLM;Miriam Mono CLM;Lucida Sans Unicode;Arial Unicode MS</value>
+      </prop>
+      <prop oor:name="CTL_SPREADSHEET" oor:type="xs:string" oor:op="replace">
+-        <value>Nachlieli CLM;Miriam CLM;Ellinia CLM;Aharoni CLM;Drugulin CLM;Miriam Mono CLM;Lucidasans;Lucida Sans;Arial Unicode MS</value>
++        <value>Nachlieli CLM;Miriam CLM;Ellinia CLM;Aharoni CLM;Drugulin CLM;Miriam Mono CLM;Lucida Sans Unicode;Arial Unicode MS</value>
+      </prop>
+      <prop oor:name="CTL_TEXT" oor:type="xs:string" oor:op="replace">
+-        <value>Nachlieli CLM;Miriam CLM;Ellinia CLM;Aharoni CLM;Drugulin CLM;Miriam Mono CLM;Lucidasans;Lucida Sans;Arial Unicode MS</value>
++        <value>Nachlieli CLM;Miriam CLM;Ellinia CLM;Aharoni CLM;Drugulin CLM;Miriam Mono CLM;Lucida Sans Unicode;Arial Unicode MS</value>
+      </prop>
+     </node>
+     <node oor:name="th" oor:op="replace">

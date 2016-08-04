@@ -1,0 +1,13 @@
+UDK_3_0_0 {
+    global:
+        CreateSchChartDocShellDll;
+        CreateObjSchChartDocShellDll;
+        InitSchDll;
+        DeInitSchDll;
+        SchUpdate;
+        SchGetChartData;
+        SchNewMemChartXY;
+        component_getFactory;
+    local:
+        *;
+};
