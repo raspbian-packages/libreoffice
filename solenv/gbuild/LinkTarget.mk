@@ -46,6 +46,8 @@ CXXFLAGS ?= $(gb_COMPILEROPTFLAGS)
 OBJCXXFLAGS ?= $(gb_COMPILEROPTFLAGS)
 endif
 
+LDFLAGS += $(HARDEN_LDFLAGS)
+
 # if enabled we link all of these libraries into one larger, merged library
 # for which we can do a lot more optimisation, and which is faster to read
 # from disk.
