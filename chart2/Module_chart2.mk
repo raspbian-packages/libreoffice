@@ -37,8 +37,8 @@ $(eval $(call gb_Module_add_targets,chart2,\
     Package_uiconfig \
 ))
 
-$(eval $(call gb_Module_add_subsequentcheck_targets,chart2,\
-    JunitTest_chart2_unoapi \
-))
+#$(eval $(call gb_Module_add_subsequentcheck_targets,chart2,\
+#    JunitTest_chart2_unoapi \
+#))
 
 # vim: set noet sw=4 ts=4:

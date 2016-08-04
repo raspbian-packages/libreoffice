@@ -40,8 +40,8 @@ $(eval $(call gb_Module_add_targets,starmath,\
     CppunitTest_starmath_qa_cppunit \
 ))
 
-$(eval $(call gb_Module_add_subsequentcheck_targets,starmath,\
-	JunitTest_sm_unoapi \
-))
+#$(eval $(call gb_Module_add_subsequentcheck_targets,starmath,\
+#	JunitTest_sm_unoapi \
+#))
 
 # vim: set noet sw=4 ts=4:
