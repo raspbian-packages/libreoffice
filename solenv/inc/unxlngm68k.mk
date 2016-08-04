@@ -27,7 +27,6 @@
 
 # mk file for Unix Linux m68k using GCC, please make generic modifications to unxlng.mk
 
-CDEFAULTOPT=-Os
 PICSWITCH:=-fPIC
 .INCLUDE : unxlng.mk
 CDEFS+=-DM68K

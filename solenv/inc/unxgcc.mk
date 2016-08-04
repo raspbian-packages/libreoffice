@@ -31,7 +31,7 @@ ASM*=
 AFLAGS*=
 SOLAR_JAVA*=
 # default optimization level for product code
-CDEFAULTOPT*=-O2
+CDEFAULTOPT*=$(shell dpkg-buildflags --get CFLAGS 2>/dev/null | $(GREP) -E -o "\-O[0-3]" || echo "-O2")
 # architecture dependent flags for the C and C++ compiler that can be changed by
 # exporting the variable ARCH_FLAGS="..." in the shell, which is used to start build
 ARCH_FLAGS*=

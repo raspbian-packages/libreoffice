@@ -27,7 +27,6 @@
 
 # mk file for Unix Linux ARM using GCC, please make generic modifications to unxlng.mk
 
-CDEFAULTOPT=-Os
 .INCLUDE : unxlng.mk
 CDEFS+=-DARM32
 CFLAGS+=-fno-omit-frame-pointer
