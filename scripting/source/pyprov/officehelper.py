@@ -53,7 +53,7 @@ def bootstrap():
         if "UNO_PATH" in os.environ:
             sOffice = os.environ["UNO_PATH"]
         else:
-            sOffice = "" # lets hope for the best
+            sOffice = "/usr/lib/libreoffice/program"
         sOffice = os.path.join(sOffice, "soffice")
         if platform.startswith("win"): 
             sOffice += ".exe"
