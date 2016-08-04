@@ -4287,7 +4287,8 @@ if test "$SOLAR_JAVA" != ""; then
     if test "$JDK" = "gcj"; then
         save_CFLAGS=$CFLAGS
         save_LDFLAGS=$LDFLAGS
-        CFLAGS="$CFLAGS -I$JAVA_HOME/include"
+        GCJ_JNI_INCLUDE=`$JAVA_HOME/bin/gcj --print-file-name include/jni.h | $SED -e s,\/jni.h,,g`
+        CFLAGS="$CFLAGS -I$JAVA_HOME/include -I$GCJ_JNI_INCLUDE"
         LDFLAGS="$LDFLAGS -L$JAVA_HOME/lib -lgcj"
         exec 6>/dev/null # no output
         AC_CHECK_HEADER(jni.h, [],
@@ -4336,6 +4337,7 @@ AC_SUBST(JAVAINTERPRETER)
 AC_SUBST(JAVAIFLAGS)
 AC_SUBST(JAVACOMPILER)
 AC_SUBST(JAVADOC)
+AC_SUBST(GCJ_JNI_INCLUDE)
 
 dnl ===================================================================
 dnl Checks for specific files.

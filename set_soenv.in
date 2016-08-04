@@ -1311,6 +1311,10 @@ if ($platform =~ m/solaris|linux|freebsd|netbsd|aix|openbsd|dragonfly/ && '@CROS
 
         $SOLARINC .=$I.$JAVA_HOME.$INCLUDE.$ds."native_threads".$INCLUDE;
 	}
+        if ($JDK eq "gcj")
+        {
+                $SOLARINC    .= $I."@GCJ_JNI_INCLUDE@";
+        }
     #The tail, if needed
     if ($platform =~ m/linux|freebsd|netbsd|aix|openbsd|dragonfly/)
     {  if ( $XINC ne "/usr/include" && $XINC ne 'no_x_includes' ) {
