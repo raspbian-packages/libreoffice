@@ -85,6 +85,10 @@ private:
     typedef boost::unordered_map<
         rtl::OUString, std::pair< bool, BitmapEx >, rtl::OUStringHash > IconCache;
 
+    // we want to search zip files (icons) also in /usr/share/
+    ::rtl::OUString m_datadir; // /usr/share/
+    ::rtl::OUString m_libdir;   // /usr/lib or /usr/lib64
+
     rtl::OUString m_style;
     Zips m_zips;
     CheckStyleCache m_checkStyleCache;
@@ -92,6 +96,7 @@ private:
 
     void setStyle(rtl::OUString const & style );
 
+    void addUrlToZips(const rtl::OUString &url);
     void resetZips();
 
     bool checkStyleCacheLookup( rtl::OUString const & style, bool &exists );
