@@ -83,7 +83,7 @@ distclean: clean
 	desktop/scripts/soffice.sh ooo.lst post_download post_download.log \
 	set_soenv set_soenv.last set_soenv.stamp src.downloaded warn
 
-install: build
+install:
 	echo "Installing in $(INSTALLDIR)..." && \
 	ooinstall "$(INSTALLDIR)" && \
 	echo "" && \
