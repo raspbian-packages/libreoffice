@@ -1,0 +1,13 @@
+Index: libreoffice-3.5.7/writerfilter/source/rtftok/rtfdocumentimpl.cxx
+===================================================================
+--- libreoffice-3.5.7.orig/writerfilter/source/rtftok/rtfdocumentimpl.cxx	2016-06-25 00:31:33.000000000 +0200
++++ libreoffice-3.5.7/writerfilter/source/rtftok/rtfdocumentimpl.cxx	2016-06-25 02:45:28.997653128 +0200
+@@ -486,6 +486,8 @@
+ 
+ void RTFDocumentImpl::parBreak()
+ {
++    if(m_aStates.empty())
++        return;
+     checkFirstRun();
+     checkNeedPap();
+     // end previous paragraph

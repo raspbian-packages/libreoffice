@@ -1,0 +1,9 @@
+--- a/sc/CppunitTest_sc_cellrangesbase.mk-old	2012-05-09 01:02:30.359827642 +0200
++++ b/sc/CppunitTest_sc_cellrangesbase.mk	2012-05-09 01:04:10.416323786 +0200
+@@ -139,4 +139,6 @@
+ # b) explicitly depend on the sc resource files needed at unit-test runtime
+ $(call gb_CppunitTest_get_target,sc_cellrangesbase) : $(call gb_Library_get_target,scfilt) $(WORKDIR)/AllLangRes/sc
+ 
++.IGNORE: $(call gb_CppunitTest_get_target,sc_cellrangesbase)
++
+ # vim: set noet sw=4 ts=4:

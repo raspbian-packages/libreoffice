@@ -1,0 +1,10 @@
+--- a/connectivity/source/drivers/evoab2/EApi.cxx-old	2012-06-18 18:24:12.964565099 +0200
++++ b/connectivity/source/drivers/evoab2/EApi.cxx	2012-06-18 18:24:37.480686688 +0200
+@@ -33,6 +33,7 @@
+ #define  DECLARE_FN_POINTERS 1
+ #include "EApi.h"
+ static const char *eBookLibNames[] = {
++    "libebook-1.2.so.13", // bumped again (evolution-3.4)
+     "libebook-1.2.so.12", // bumped again
+     "libebook-1.2.so.10", // bumped again
+     "libebook-1.2.so.9",  // evolution-2.8

@@ -1,0 +1,153 @@
+From a7bf1ce30cc49928039cd5dba6293267ed9c35c2 Mon Sep 17 00:00:00 2001
+From: Rene Engelhard <rene@debian.org>
+Date: Wed, 06 Jun 2012 13:49:12 +0000
+Subject: remove -fsigned-char from s390 to fix smoketest..
+
+Change-Id: I66c468e917513cdb096937f9955eb8a41aabaa37
+
+Signed-off-by: Caolán McNamara <caolanm@redhat.com>
+---
+diff --git a/solenv/inc/unxlngs390.mk b/solenv/inc/unxlngs390.mk
+index 0eac39a..af2518f 100644
+--- a/solenv/inc/unxlngs390.mk
++++ b/solenv/inc/unxlngs390.mk
+@@ -30,6 +30,4 @@
+ PICSWITCH:=-fPIC
+ .INCLUDE : unxlng.mk
+ CDEFS+=-DS390
+-CFLAGS+=-fsigned-char -fno-omit-frame-pointer
+-CFLAGSCC+=-fsigned-char
+-CFLAGSCXX+=-fsigned-char
++CFLAGS+=-fno-omit-frame-pointer
+--
+cgit v0.9.0.2-2-gbebe
+
+From fb75552a492ab9ff1f2c6c7820a07862d6b88ba6 Mon Sep 17 00:00:00 2001
+From: Rene Engelhard <rene@debian.org>
+Date: Wed, 06 Jun 2012 13:50:48 +0000
+Subject: signed char is default on m68k...
+
+Change-Id: I5b57e8e9a9dce3eacc665979844f8cb29f968368
+(cherry picked from commit c6b5b20d0a9506ae35421836940bbd1b0e86a3d4)
+
+Signed-off-by: Caolán McNamara <caolanm@redhat.com>
+---
+diff --git a/solenv/inc/unxlngm68k.mk b/solenv/inc/unxlngm68k.mk
+index b6a018a..7ce4156 100644
+--- a/solenv/inc/unxlngm68k.mk
++++ b/solenv/inc/unxlngm68k.mk
+@@ -31,6 +31,4 @@
+ PICSWITCH:=-fPIC
+ .INCLUDE : unxlng.mk
+ CDEFS+=-DM68K
+-CFLAGS+=-fsigned-char -fno-omit-frame-pointer
+-CFLAGSCC+=-fsigned-char
+-CFLAGSCXX+=-fsigned-char
++CFLAGS+=-fno-omit-frame-pointer
+
+From 567147acbc8dcbb6c43652ac6b326759b48df9da Mon Sep 17 00:00:00 2001
+From: Caolán McNamara <caolanm@redhat.com>
+Date: Fri, 08 Jun 2012 07:50:50 +0000
+Subject: Resolves: rhbz#826609, rhbz#820554 fix smoketest on ppc[64] and s390[x]
+
+i.e. restore #i81127# to remove -fsigned-char from old-school dmake
+ppc[64] flags, but also remove them from the new-school gbuild ones.
+
+correspondingly remove -fsigned-char from the very similar s390[x]
+arch equivalents and drop them from the very obscure linux ports
+where I just cut and paste them in the first place.
+
+with 6b3bf27cb56d661725ac3fcfb756562e0ad75564 in place this now passes
+smoketestdoc for me on build from scratch on ppc[64] and s390[x]
+
+Change-Id: I3dae70fd7a3d3adc57cf04a02350689ad097e4d3
+---
+diff --git a/solenv/gbuild/platform/LINUX_AXP_GCC.mk b/solenv/gbuild/platform/LINUX_AXP_GCC.mk
+index 2c5082e..25edcd7 100644
+--- a/solenv/gbuild/platform/LINUX_AXP_GCC.mk
++++ b/solenv/gbuild/platform/LINUX_AXP_GCC.mk
+@@ -27,8 +27,8 @@
+ 
+ #please make generic modifications to unxgcc.mk or linux.mk
+ gb_COMPILERDEFAULTOPTFLAGS := -Os
+-gb_CXXFLAGS += -fsigned-char -fno-omit-frame-pointer
+-gb_CFLAGS += -fsigned-char -fno-omit-frame-pointer
++gb_CXXFLAGS += -fno-omit-frame-pointer
++gb_CFLAGS += -fno-omit-frame-pointer
+ gb_LinkTarget_LDFLAGS += -Wl,--no-relax
+ 
+ include $(GBUILDDIR)/platform/linux.mk
+diff --git a/solenv/gbuild/platform/LINUX_M68K_GCC.mk b/solenv/gbuild/platform/LINUX_M68K_GCC.mk
+index 99d01fd..55f69a4 100644
+--- a/solenv/gbuild/platform/LINUX_M68K_GCC.mk
++++ b/solenv/gbuild/platform/LINUX_M68K_GCC.mk
+@@ -27,8 +27,8 @@
+ 
+ #please make generic modifications to unxgcc.mk or linux.mk
+ gb_COMPILERDEFAULTOPTFLAGS := -Os
+-gb_CXXFLAGS += -fsigned-char -fno-omit-frame-pointer
+-gb_CFLAGS += -fsigned-char -fno-omit-frame-pointer
++gb_CXXFLAGS += -fno-omit-frame-pointer
++gb_CFLAGS += -fno-omit-frame-pointer
+ 
+ include $(GBUILDDIR)/platform/linux.mk
+ 
+diff --git a/solenv/gbuild/platform/LINUX_POWERPC64_GCC.mk b/solenv/gbuild/platform/LINUX_POWERPC64_GCC.mk
+index 33f6bd1..08e7b23 100644
+--- a/solenv/gbuild/platform/LINUX_POWERPC64_GCC.mk
++++ b/solenv/gbuild/platform/LINUX_POWERPC64_GCC.mk
+@@ -28,8 +28,7 @@
+ #please make generic modifications to unxgcc.mk or linux.mk
+ gb_CPUDEFS += -DPPC
+ gb_COMPILERDEFAULTOPTFLAGS := -O2
+-gb_CXXFLAGS += -mminimal-toc -fsigned-char
+-gb_CFLAGS += -fsigned-char
++gb_CXXFLAGS += -mminimal-toc
+ 
+ include $(GBUILDDIR)/platform/linux.mk
+ 
+diff --git a/solenv/gbuild/platform/LINUX_POWERPC_GCC.mk b/solenv/gbuild/platform/LINUX_POWERPC_GCC.mk
+index 1c78df0..6fe92ec 100644
+--- a/solenv/gbuild/platform/LINUX_POWERPC_GCC.mk
++++ b/solenv/gbuild/platform/LINUX_POWERPC_GCC.mk
+@@ -28,8 +28,6 @@
+ #please make generic modifications to unxgcc.mk or linux.mk
+ gb_CPUDEFS += -DPPC
+ gb_COMPILERDEFAULTOPTFLAGS := -O2
+-gb_CXXFLAGS += -fsigned-char
+-gb_CFLAGS += -fsigned-char
+ 
+ include $(GBUILDDIR)/platform/linux.mk
+ 
+diff --git a/solenv/gbuild/platform/LINUX_S390X_GCC.mk b/solenv/gbuild/platform/LINUX_S390X_GCC.mk
+index b352572..1d6889e 100644
+--- a/solenv/gbuild/platform/LINUX_S390X_GCC.mk
++++ b/solenv/gbuild/platform/LINUX_S390X_GCC.mk
+@@ -27,8 +27,8 @@
+ 
+ #please make generic modifications to unxgcc.mk or linux.mk
+ gb_COMPILERDEFAULTOPTFLAGS := -O2
+-gb_CXXFLAGS += -fsigned-char -fno-omit-frame-pointer
+-gb_CFLAGS += -fsigned-char -fno-omit-frame-pointer
++gb_CXXFLAGS += -fno-omit-frame-pointer
++gb_CFLAGS += -fno-omit-frame-pointer
+ 
+ include $(GBUILDDIR)/platform/linux.mk
+ 
+diff --git a/solenv/gbuild/platform/LINUX_S390_GCC.mk b/solenv/gbuild/platform/LINUX_S390_GCC.mk
+index b352572..1d6889e 100644
+--- a/solenv/gbuild/platform/LINUX_S390_GCC.mk
++++ b/solenv/gbuild/platform/LINUX_S390_GCC.mk
+@@ -27,8 +27,8 @@
+ 
+ #please make generic modifications to unxgcc.mk or linux.mk
+ gb_COMPILERDEFAULTOPTFLAGS := -O2
+-gb_CXXFLAGS += -fsigned-char -fno-omit-frame-pointer
+-gb_CFLAGS += -fsigned-char -fno-omit-frame-pointer
++gb_CXXFLAGS += -fno-omit-frame-pointer
++gb_CFLAGS += -fno-omit-frame-pointer
+ 
+ include $(GBUILDDIR)/platform/linux.mk
+ 
+--
+cgit v0.9.0.2-2-gbebe
