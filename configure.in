@@ -6635,8 +6635,9 @@ if test "$with_system_lpsolve" = "yes"; then
     # some systems need this. Like Ubuntu....
     AC_CHECK_LIB(m, floor)
     AC_CHECK_LIB(dl, dlopen)
+    AC_CHECK_LIB(colamd, colamd)
     AC_CHECK_LIB(lpsolve55, make_lp, ,
-        [ AC_MSG_ERROR(lpsolve library not found or too old.)], [])
+        [ AC_MSG_ERROR(lpsolve library not found or too old.)], [-L/usr/lib/lpsolve])
     MINGW_EXTERNAL_DLLS="$MINGW_EXTERNAL_DLLS lpsolve55.dll"
 else
     AC_MSG_RESULT([internal])
