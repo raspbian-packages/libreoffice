@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+filter%2Fsource%2Fconfig%2Ffragments%2Ftypes.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+filter%2Fsource%2Fconfig%2Ffragments%2Ftypes.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
 "PO-Revision-Date: 2011-10-27 17:47+0200\n"
 "Last-Translator: Jesús <jesus@softcatala.org>\n"
@@ -15,95 +17,126 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. sbxT
 #: StarBase.xcu#StarBase.UIName.value.text
 msgid "OpenDocument Database"
 msgstr "Base de dades OpenDocument"
 
+# 78%
+#. QkZp
 #: MS_PowerPoint_2007_XML_AutoPlay.xcu#MS_PowerPoint_2007_XML_AutoPlay.UIName.value.text
-msgctxt "MS_PowerPoint_2007_XML_AutoPlay.xcu#MS_PowerPoint_2007_XML_AutoPlay.UIName.value.text"
+msgctxt ""
+"MS_PowerPoint_2007_XML_AutoPlay.xcu#MS_PowerPoint_2007_XML_AutoPlay.UIName."
+"value.text"
 msgid "Microsoft PowerPoint 2007/2010 XML"
 msgstr "XML del Microsoft Word 2003/2010"
 
+# 79%
+#. uh9z
 #: MS_Excel_2007_XML_Template.xcu#MS_Excel_2007_XML_Template.UIName.value.text
 msgid "Microsoft Excel 2007/2010 XML Template"
 msgstr "XML del Microsoft Excel 2003/2010"
 
+#. 5eKr
 #: calc_MS_Excel_2003_XML.xcu#calc_MS_Excel_2003_XML.UIName.value.text
 msgid "Microsoft Excel 2003 XML"
 msgstr "XML del Microsoft Excel 2003"
 
+#. 5n5z
 #: writer8.xcu#writer8.UIName.value.text
 msgid "Writer 8"
 msgstr "Writer 8"
 
+#. cdfN
 #: chart8.xcu#chart8.UIName.value.text
 msgid "Chart 8"
 msgstr "Chart 8"
 
+#. ZIwD
 #: writerglobal8.xcu#writerglobal8.UIName.value.text
 msgid "Writer 8 Master Document"
 msgstr "Document mestre del Writer 8"
 
+# 79%
+#. XfAb
 #: MS_Excel_2007_XML.xcu#MS_Excel_2007_XML.UIName.value.text
 msgid "Microsoft Excel 2007/2010 XML"
 msgstr "XML del Microsoft Excel 2003/2010"
 
+# 78%
+#. OrLJ
 #: writer_MS_Word_2007_XML_Template.xcu#writer_MS_Word_2007_Template.UIName.value.text
 msgid "Microsoft Word 2007/2010 XML Template"
 msgstr "XML del Microsoft Word 2003/2010"
 
+#. OsOs
 #: MS_PowerPoint_2007_XML_Template.xcu#MS_PowerPoint_2007_XML_Template.UIName.value.text
 msgid "Microsoft PowerPoint 2007/2010 XML Template"
 msgstr "Plantilla XML del Microsoft PowerPoint 2007/2010"
 
+#. qhMk
 #: impress8.xcu#impress8.UIName.value.text
 msgid "Impress 8"
 msgstr "Impress 8"
 
+# 78%
+#. B_8k
 #: writer_MS_Word_2007_XML.xcu#writer_MS_Word_2007.UIName.value.text
 msgid "Microsoft Word 2007/2010 XML"
 msgstr "XML del Microsoft Word 2003/2010"
 
+#. 8YyL
 #: draw8.xcu#draw8.UIName.value.text
 msgid "Draw 8"
 msgstr "Draw 8"
 
+#. fxhX
 #: writerweb8_writer_template.xcu#writerweb8_writer_template.UIName.value.text
 msgid "Writer/Web 8 Template"
 msgstr "Plantilla del Writer/Web 8"
 
+#. #qq#
 #: impress8_template.xcu#impress8_template.UIName.value.text
 msgid "Impress 8 Template"
 msgstr "Plantilla de l'Impress 8"
 
+#. KQsJ
 #: writer_MS_Word_2003_XML.xcu#writer_MS_Word_2003_XML.UIName.value.text
 msgid "Microsoft Word 2003 XML"
 msgstr "XML del Microsoft Word 2003"
 
+#. dn#A
 #: draw8_template.xcu#draw8_template.UIName.value.text
 msgid "Draw 8 Template"
 msgstr "Plantilla del Draw 8"
 
+#. g6OP
 #: math8.xcu#math8.UIName.value.text
 msgid "Math 8"
 msgstr "Math 8"
 
+#. IXbP
 #: writer8_template.xcu#writer8_template.UIName.value.text
 msgid "Writer 8 Template"
 msgstr "Plantilla del Writer 8"
 
+#. 3Q9P
 #: MS_Excel_2007_Binary.xcu#MS_Excel_2007_Binary.UIName.value.text
 msgid "Microsoft Excel 2007 Binary"
 msgstr "Binari del Microsoft Excel 2007"
 
+#. 8fvF
 #: calc8.xcu#calc8.UIName.value.text
 msgid "Calc 8"
 msgstr "Calc 8"
 
+#. 2#UU
 #: calc8_template.xcu#calc8_template.UIName.value.text
 msgid "Calc 8 Template"
 msgstr "Plantilla del Calc 8"
 
+# 78%
+#. Lryg
 #: MS_PowerPoint_2007_XML.xcu#MS_PowerPoint_2007_XML.UIName.value.text
 msgctxt "MS_PowerPoint_2007_XML.xcu#MS_PowerPoint_2007_XML.UIName.value.text"
 msgid "Microsoft PowerPoint 2007/2010 XML"

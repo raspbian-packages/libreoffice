@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+vcl%2Fsource%2Fsrc.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment="
+"&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%"
+"3A+vcl%2Fsource%2Fsrc.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
 "PO-Revision-Date: 2012-02-29 23:24+0200\n"
 "Last-Translator: Joan <joan@montane.cat>\n"
@@ -15,6 +17,7 @@ msgstr ""
 "X-Generator: Pootle 2.1.6\n"
 "X-Accelerator-Marker: ~\n"
 
+#. rKSW
 #: stdtext.src#SV_STDTEXT_SERVICENOTAVAILABLE.string.text
 msgid ""
 "The component (%s) could not be loaded.\n"
@@ -23,284 +26,372 @@ msgstr ""
 "El component (%s) no s'ha pogut carregar.\n"
 "Inicieu la instal·lació amb l'opció de reparació."
 
+#. NDum
 #: stdtext.src#SV_STDTEXT_DONTHINTAGAIN.string.text
 msgid "Do not show this information again."
 msgstr "No tornes a mostrar esta informació."
 
+#. qId1
 #: stdtext.src#SV_STDTEXT_DONTASKAGAIN.string.text
 msgid "Do not show this question again."
 msgstr "No tornes a mostrar esta pregunta."
 
+#. L2if
 #: stdtext.src#SV_STDTEXT_DONTWARNAGAIN.string.text
 msgid "Do not show warning again."
 msgstr "No tornes a mostrar l'advertiment."
 
+#. oJ3b
 #: stdtext.src#SV_ACCESSERROR_WRONG_VERSION.string.text
 msgid "Wrong Version"
 msgstr "Versió errònia"
 
+#. qE6u
 #: stdtext.src#SV_ACCESSERROR_BRIDGE_MSG.string.text
-msgid "%PRODUCTNAME %PRODUCTVERSION requires a Java Access Bridge 1.0.3 or later version to support accessibility."
-msgstr "El %PRODUCTNAME %PRODUCTVERSION requereix una versió del Java Access Bridge 1.03 o posterior per tal d'implementar l'accessibilitat."
+msgid ""
+"%PRODUCTNAME %PRODUCTVERSION requires a Java Access Bridge 1.0.3 or later "
+"version to support accessibility."
+msgstr ""
+"El %PRODUCTNAME %PRODUCTVERSION requereix una versió del Java Access Bridge "
+"1.03 o posterior per tal d'implementar l'accessibilitat."
 
+#. GeYd
 #: stdtext.src#SV_ACCESSERROR_OK_CANCEL_MSG.string.text
-msgid "Click '%OK' to start %PRODUCTNAME %PRODUCTVERSION without accessibility support, or click '%CANCEL' to exit %PRODUCTNAME %PRODUCTVERSION."
-msgstr "Feu clic a '%OK' per iniciar el %PRODUCTNAME %PRODUCTVERSION sense les opcions d'accessibilitat, o feu clic a '%CANCEL' per eixir del %PRODUCTNAME %PRODUCTVERSION."
+msgid ""
+"Click '%OK' to start %PRODUCTNAME %PRODUCTVERSION without accessibility "
+"support, or click '%CANCEL' to exit %PRODUCTNAME %PRODUCTVERSION."
+msgstr ""
+"Feu clic a '%OK' per iniciar el %PRODUCTNAME %PRODUCTVERSION sense les "
+"opcions d'accessibilitat, o feu clic a '%CANCEL' per eixir del %PRODUCTNAME "
+"%PRODUCTVERSION."
 
+#. A09g
 #: stdtext.src#SV_ACCESSERROR_MISSING_BRIDGE.string.text
 msgid "No Java Access Bridge"
 msgstr "No hi ha cap pont d'accés a Java"
 
+#. 8vO8
 #: stdtext.src#SV_ACCESSERROR_FAULTY_JAVA.string.text
 msgid "Faulty Java Installation"
 msgstr "Instal·lació del Java defectuosa"
 
+#. qTGg
 #: stdtext.src#SV_ACCESSERROR_JAVA_MSG.string.text
-msgid "%PRODUCTNAME %PRODUCTVERSION requires Java 1.4.0_02 or later version to support accessibility."
-msgstr "El %PRODUCTNAME %PRODUCTVERSION requereix Java 1.4.0_02 o posterior per implementar l'accessibilitat."
+msgid ""
+"%PRODUCTNAME %PRODUCTVERSION requires Java 1.4.0_02 or later version to "
+"support accessibility."
+msgstr ""
+"El %PRODUCTNAME %PRODUCTVERSION requereix Java 1.4.0_02 o posterior per "
+"implementar l'accessibilitat."
 
+#. zPag
 #: stdtext.src#SV_ACCESSERROR_MISSING_JAVA.string.text
 msgid "No Java Installation"
 msgstr "No hi ha cap instal·lació del Java"
 
+#. LaIs
 #: stdtext.src#SV_ACCESSERROR_JAVA_NOT_CONFIGURED.string.text
 msgid "Missing Java Configuration"
 msgstr "Falta la configuració del Java"
 
+#. Dbff
 #: stdtext.src#SV_ACCESSERROR_JAVA_DISABLED.string.text
 msgid "Java Disabled"
 msgstr "Java inhabilitat"
 
+#. I36N
 #: stdtext.src#SV_ACCESSERROR_TURNAROUND_MSG.string.text
 msgid "The Java Access Bridge could not be started."
 msgstr "El Java Access Bridge no s'ha pogut iniciar."
 
+#. t_hi
 #: stdtext.src#SV_ACCESSERROR_NO_FONTS.string.text
 msgid "No fonts could be found on the system."
 msgstr "No s'han pogut trobar tipus de lletra al sistema."
 
+#. BGVU
 #: stdtext.src#SV_STDTEXT_ABOUT.string.text
 msgid "About %PRODUCTNAME"
 msgstr "Quant al %PRODUCTNAME"
 
+#. t9jp
 #: stdtext.src#SV_STDTEXT_PREFERENCES.string.text
 msgid "Preferences..."
 msgstr "Preferències..."
 
+#. e_BL
 #: stdtext.src#SV_EDIT_WARNING_BOX.warningbox.text
-msgid "The inserted text exceeded the maximum length of this text field. The text was truncated."
-msgstr "El text inserit excedia la longitud màxima d'este camp de text. S'ha truncat el text."
+msgid ""
+"The inserted text exceeded the maximum length of this text field. The text "
+"was truncated."
+msgstr ""
+"El text inserit excedia la longitud màxima d'este camp de text. S'ha "
+"truncat el text."
 
+#. OsWu
 #: stdtext.src#SV_MAC_SCREENNNAME.string.text
 msgid "Screen %d"
 msgstr "Pantalla %d"
 
+#. Avl5
 #: stdtext.src#SV_STDTEXT_ALLFILETYPES.string.text
 msgid "Any type"
 msgstr "Qualsevol tipus"
 
+#. khQA
 #: print.src#SV_DLG_PRINT.SV_PRINT_OK.okbutton.text
 msgid "~Print"
 msgstr "~Imprimeix"
 
+#. bgO#
 #: print.src#SV_DLG_PRINT.SV_PRINT_PAGE_TXT.fixedtext.text
 msgid "/ %n"
 msgstr "/ %n"
 
+#. tJKb
 #: print.src#SV_DLG_PRINT.SV_PRINT_NOPAGES.string.text
 msgid "No pages"
 msgstr "Cap pàgina"
 
+#. Fiku
 #: print.src#SV_DLG_PRINT.SV_PRINT_TOFILE_TXT.string.text
 msgid "Print to File..."
 msgstr "Imprimeix a un fitxer..."
 
+#. bw9n
 #: print.src#SV_DLG_PRINT.SV_PRINT_DEFPRT_TXT.string.text
 msgid "Default printer"
 msgstr "Impressora per defecte"
 
+#. T_kU
 #: print.src#SV_DLG_PRINT.SV_PRINT_PRINTPREVIEW_TXT.string.text
 msgid "Print preview"
 msgstr "Exemple d'impressió"
 
+#. mO3n
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_LAYOUT_FL.fixedline.text
 msgid "Layout"
 msgstr "Format"
 
+#. opqu
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BTN.radiobutton.text
 msgid "Pa~ges per sheet"
 msgstr "Pà~gines per full"
 
+#. HuFZ
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX.1.stringlist.text
 msgid "1"
 msgstr "1"
 
+#. z4sH
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX.2.stringlist.text
 msgid "2"
 msgstr "2"
 
+#. m1zW
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX.3.stringlist.text
 msgid "4"
 msgstr "4"
 
+#. UEXL
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX.4.stringlist.text
 msgid "6"
 msgstr "6"
 
+#. JBga
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX.5.stringlist.text
 msgid "9"
 msgstr "9"
 
+#. _tJM
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX.6.stringlist.text
 msgid "16"
 msgstr "16"
 
+#. ooOd
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_PAGES_BOX.7.stringlist.text
 msgid "Custom"
 msgstr "Personalitzat"
 
+#. P6HO
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_NUM_PAGES_TXT.fixedtext.text
 msgid "P~ages"
 msgstr "~Pàgines"
 
+#. IoF5
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_TIMES_TXT.fixedtext.text
 msgid "b~y"
 msgstr "pe~r"
 
+#. YNG4
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_MARGINS_PAGES_1_TXT.fixedtext.text
 msgid "~Distance"
 msgstr "~Distància"
 
+#. 7le3
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_MARGINS_PAGES_2_TXT.fixedtext.text
 msgid "between pages"
 msgstr "entre les pàgines"
 
+#. 9Hlf
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_MARGINS_SHEET_1_TXT.fixedtext.text
 msgid "~Margin"
 msgstr "~Marge"
 
+#. ifNk
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_MARGINS_SHEET_2_TXT.fixedtext.text
 msgid "to sheet border"
 msgstr "fins a la vora del full"
 
+#. KNGQ
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORIENTATION_TXT.fixedtext.text
 msgid "~Orientation"
 msgstr "~Orientació"
 
+#. PRRv
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORIENTATION_BOX.1.stringlist.text
 msgid "Automatic"
 msgstr "Automàtica"
 
+#. rdYB
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORIENTATION_BOX.2.stringlist.text
 msgid "Portrait"
 msgstr "Vertical"
 
+#. uYfw
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORIENTATION_BOX.3.stringlist.text
 msgid "Landscape"
 msgstr "Horitzontal"
 
+#. V5jn
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORDER_TXT.fixedtext.text
 msgid "Order"
 msgstr "Orde"
 
+#. I2DP
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORDER_BOX.1.stringlist.text
 msgid "left to right, then down"
 msgstr "D'esquerra a dreta, i avall"
 
+#. ##qh
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORDER_BOX.2.stringlist.text
 msgid "top to bottom, then right"
 msgstr "De dalt a baix, i a la dreta"
 
+#. px_Q
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORDER_BOX.3.stringlist.text
 msgid "top to bottom, then left"
 msgstr "De dalt a baix, i a l'esquerra"
 
+#. TqZl
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_ORDER_BOX.4.stringlist.text
 msgid "right to left, then down"
 msgstr "D'esquerra a dreta, i avall"
 
+#. GEuS
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.SV_PRINT_PRT_NUP_BORDER_CB.checkbox.text
 msgid "Draw a border around each page"
 msgstr "Dibuixa una vora al voltant de cada pàgina"
 
+#. AFoD
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_NUP.tabpage.text
 msgid "Page Layout"
 msgstr "Format de la pàgina"
 
+#. KF7k
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.SV_PRINT_PRINTERS_FL.fixedline.text
 msgid "Prin~ter"
 msgstr "~Impressora"
 
+#. yo2_
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.SV_PRINT_DETAILS_BTN.checkbox.text
 msgid "Details"
 msgstr "Detalls"
 
+#. 75D6
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.SV_PRINT_STATUS_TXT.fixedtext.text
 msgid "Status:"
 msgstr "Estat:"
 
+#. gm04
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.SV_PRINT_LOCATION_TXT.fixedtext.text
 msgid "Location:"
 msgstr "Ubicació:"
 
+#. znX3
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.SV_PRINT_COMMENT_TXT.fixedtext.text
 msgid "Comment:"
 msgstr "Comentari:"
 
+#. zjHw
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.SV_PRINT_PRT_SETUP.pushbutton.text
 msgid "Properties..."
 msgstr "Propietats..."
 
+#. WMuQ
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.SV_PRINT_COPIES.fixedline.text
 msgid "Range and copies"
 msgstr "Àrea d'impressió i nombre de còpies"
 
+#. B_eP
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.SV_PRINT_COPYCOUNT.fixedtext.text
 msgid "Number of copies"
 msgstr "Nombre de còpies"
 
+#. JD9V
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.SV_PRINT_COLLATE.checkbox.text
 msgid "Collate"
 msgstr "Intercala"
 
+#. NuWp
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.SV_PRINT_OPT_REVERSE.checkbox.text
 msgid "Print in ~reverse page order"
 msgstr "Imp~rimeix les pàgines en orde invers"
 
+#. hS0S
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_JOB.tabpage.text
 msgid "General"
 msgstr "General"
 
+#. y3i6
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_OPT.SV_PRINT_OPT_PRINT_FL.fixedline.text
-msgctxt "print.src#SV_DLG_PRINT.SV_PRINT_TAB_OPT.SV_PRINT_OPT_PRINT_FL.fixedline.text"
+msgctxt ""
+"print.src#SV_DLG_PRINT.SV_PRINT_TAB_OPT.SV_PRINT_OPT_PRINT_FL.fixedline.text"
 msgid "Options"
 msgstr "Opcions"
 
+#. igoT
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_OPT.SV_PRINT_OPT_TOFILE.checkbox.text
 msgid "Print to ~file"
 msgstr "Imprimeix a un ~fitxer"
 
+#. Sbr_
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_OPT.SV_PRINT_OPT_SINGLEJOBS.checkbox.text
 msgid "~Create single print jobs for collated output"
 msgstr "~Crea feines d'impressió individuals per a l'eixida intercalada"
 
+#. cjOE
 #: print.src#SV_DLG_PRINT.SV_PRINT_TAB_OPT.tabpage.text
 msgctxt "print.src#SV_DLG_PRINT.SV_PRINT_TAB_OPT.tabpage.text"
 msgid "Options"
 msgstr "Opcions"
 
+#. iRf#
 #: print.src#SV_DLG_PRINT.modaldialog.text
 msgid "Print"
 msgstr "Imprimeix"
 
+#. Vg0Q
 #: print.src#SV_DLG_PRINT_PROGRESS.SV_PRINT_PROGRESS_TEXT.fixedtext.text
 msgid "Page %p of %n"
 msgstr "Pàgina %p de %n"
 
+#. CwU3
 #: print.src#SV_DLG_PRINT_PROGRESS.modelessdialog.text
 msgid "Printing"
 msgstr "S'està imprimint"
 
+#. Toqh
 #: print.src#SV_PRINT_NOPRINTERWARNING.errorbox.text
 msgid ""
 "No default printer found.\n"
@@ -309,492 +400,619 @@ msgstr ""
 "No s'ha trobat cap impressora per defecte.\n"
 "Trieu-ne una i torneu-ho a provar."
 
+#. TIDy
 #: print.src#SV_PRINT_NOCONTENT.errorbox.text
-msgid "There are no pages to be printed. Please check your document for ranges relevant to printing."
-msgstr "No hi ha cap pàgina per imprimir. Comproveu que el document continga àrees que es puguen imprimir."
+msgid ""
+"There are no pages to be printed. Please check your document for ranges "
+"relevant to printing."
+msgstr ""
+"No hi ha cap pàgina per imprimir. Comproveu que el document continga àrees "
+"que es puguen imprimir."
 
+#. oTCw
 #: print.src#SV_PRINT_NATIVE_STRINGS.1.itemlist.text
 msgid "Preview"
 msgstr "Previsualització"
 
+#. JpW2
 #: print.src#SV_PRINT_NATIVE_STRINGS.2.itemlist.text
 msgid "Page number"
 msgstr "Número de pàgina"
 
+#. b7dr
 #: print.src#SV_PRINT_NATIVE_STRINGS.3.itemlist.text
 msgid "Number of pages"
 msgstr "Nombre de pàgines"
 
+#. gTTI
 #: print.src#SV_PRINT_NATIVE_STRINGS.4.itemlist.text
 msgid "More"
 msgstr "Més"
 
+#. SfQb
 #: print.src#SV_PRINT_NATIVE_STRINGS.5.itemlist.text
 msgid "Print selection only"
 msgstr "Imprimeix només la selecció"
 
+#. g_Ef
 #: print.src#RID_STR_PAPERNAMES.1.itemlist.text
 msgid "A0"
 msgstr "A0 (841 x 1189 mm)"
 
+#. BHYH
 #: print.src#RID_STR_PAPERNAMES.2.itemlist.text
 msgid "A1"
 msgstr "A1 (594 x 841 mm)"
 
+#. zbbc
 #: print.src#RID_STR_PAPERNAMES.3.itemlist.text
 msgid "A2"
 msgstr "A2 (420 x 594 mm)"
 
+#. o_V1
 #: print.src#RID_STR_PAPERNAMES.4.itemlist.text
 msgid "A3"
 msgstr "A3 (297 x 420 mm)"
 
+#. 4BOs
 #: print.src#RID_STR_PAPERNAMES.5.itemlist.text
 msgid "A4"
 msgstr "A4 (210 x 297 mm)"
 
+#. bbqE
 #: print.src#RID_STR_PAPERNAMES.6.itemlist.text
 msgid "A5"
 msgstr "A5 (148 x 210 mm)"
 
+#. JHpv
 #: print.src#RID_STR_PAPERNAMES.7.itemlist.text
 msgid "B4 (ISO)"
 msgstr "B4 (ISO 250 x 353 mm)"
 
+#. 0YaW
 #: print.src#RID_STR_PAPERNAMES.8.itemlist.text
 msgid "B5 (ISO)"
 msgstr "B5 (ISO 176 x 250 mm)"
 
+#. sMZN
 #: print.src#RID_STR_PAPERNAMES.9.itemlist.text
 msgid "Letter"
 msgstr "Carta"
 
+#. TcXk
 #: print.src#RID_STR_PAPERNAMES.10.itemlist.text
 msgid "Legal"
 msgstr "Legal (8,5 x 14 polzades)"
 
+#. hIcP
 #: print.src#RID_STR_PAPERNAMES.11.itemlist.text
 msgid "Tabloid"
 msgstr "Tabloide (11 x 17 polzades)"
 
+#. AyAX
 #: print.src#RID_STR_PAPERNAMES.12.itemlist.text
 msgid "User Defined"
 msgstr "Definit per l'usuari"
 
+#. y8DM
 #: print.src#RID_STR_PAPERNAMES.13.itemlist.text
 msgid "B6 (ISO)"
 msgstr "B6 (ISO 125 x 176 mm)"
 
+#. pItn
 #: print.src#RID_STR_PAPERNAMES.14.itemlist.text
 msgid "C4 Envelope"
 msgstr "Sobre C4"
 
+#. 5cm6
 #: print.src#RID_STR_PAPERNAMES.15.itemlist.text
 msgid "C5 Envelope"
 msgstr "Sobre C5"
 
+#. a8S#
 #: print.src#RID_STR_PAPERNAMES.16.itemlist.text
 msgid "C6 Envelope"
 msgstr "Sobre C6"
 
+#. IyR9
 #: print.src#RID_STR_PAPERNAMES.17.itemlist.text
 msgid "C6/5 Envelope"
 msgstr "Sobre C6/5"
 
+#. 1FCG
 #: print.src#RID_STR_PAPERNAMES.18.itemlist.text
 msgid "DL Envelope"
 msgstr "Sobre DL"
 
+#. txBd
 #: print.src#RID_STR_PAPERNAMES.19.itemlist.text
 msgid "Dia Slide"
 msgstr "Diapositiva Dia"
 
+#. FWLt
 #: print.src#RID_STR_PAPERNAMES.20.itemlist.text
 msgid "Screen"
 msgstr "Pantalla"
 
+#. vKI0
 #: print.src#RID_STR_PAPERNAMES.21.itemlist.text
 msgid "C"
 msgstr "C"
 
+#. Ow#u
 #: print.src#RID_STR_PAPERNAMES.22.itemlist.text
 msgid "D"
 msgstr "D"
 
+#. kEvF
 #: print.src#RID_STR_PAPERNAMES.23.itemlist.text
 msgid "E"
 msgstr "E"
 
+#. XK3e
 #: print.src#RID_STR_PAPERNAMES.24.itemlist.text
 msgid "Executive"
 msgstr "Executiu"
 
+#. NW4V
 #: print.src#RID_STR_PAPERNAMES.25.itemlist.text
 msgid "Long Bond"
 msgstr "Long Bond (8,5 x 13 polzades)"
 
+#. sEed
 #: print.src#RID_STR_PAPERNAMES.26.itemlist.text
 msgid "#8 (Monarch) Envelope"
 msgstr "Sobre del núm. 8 (Monarch)"
 
+#. 0wlG
 #: print.src#RID_STR_PAPERNAMES.27.itemlist.text
 msgid "#6 3/4 (Personal) Envelope"
 msgstr "Sobre del núm. 6 3/4 (personal)"
 
+#. J9u9
 #: print.src#RID_STR_PAPERNAMES.28.itemlist.text
 msgid "#9 Envelope"
 msgstr "Sobre del núm. 9"
 
+#. bz_#
 #: print.src#RID_STR_PAPERNAMES.29.itemlist.text
 msgid "#10 Envelope"
 msgstr "Sobre del núm. 10"
 
+#. eCQV
 #: print.src#RID_STR_PAPERNAMES.30.itemlist.text
 msgid "#11 Envelope"
 msgstr "Sobre del núm. 11"
 
+#. UuTe
 #: print.src#RID_STR_PAPERNAMES.31.itemlist.text
 msgid "#12 Envelope"
 msgstr "Sobre del núm. 12"
 
+#. _MnG
 #: print.src#RID_STR_PAPERNAMES.32.itemlist.text
 msgid "16 Kai"
 msgstr "16 kai"
 
+#. 9Ysd
 #: print.src#RID_STR_PAPERNAMES.33.itemlist.text
 msgid "32 Kai"
 msgstr "32 kai"
 
+#. 6uC0
 #: print.src#RID_STR_PAPERNAMES.34.itemlist.text
 msgid "Big 32 Kai"
 msgstr "32 kai gran"
 
+#. mCBt
 #: print.src#RID_STR_PAPERNAMES.35.itemlist.text
 msgid "B4 (JIS)"
 msgstr "B4 (JIS)"
 
+#. HYdF
 #: print.src#RID_STR_PAPERNAMES.36.itemlist.text
 msgid "B5 (JIS)"
 msgstr "B5 (JIS)"
 
+#. dMWu
 #: print.src#RID_STR_PAPERNAMES.37.itemlist.text
 msgid "B6 (JIS)"
 msgstr "B6 (JIS)"
 
+#. mtPm
 #: btntext.src#SV_BUTTONTEXT_OK.string.text
 msgid "OK"
 msgstr "D'acord"
 
+#. jCvL
 #: btntext.src#SV_BUTTONTEXT_CANCEL.string.text
 msgid "Cancel"
 msgstr "Cancel·la"
 
+#. G0Tg
 #: btntext.src#SV_BUTTONTEXT_YES.string.text
 msgid "~Yes"
 msgstr "~Sí"
 
+#. D6Wj
 #: btntext.src#SV_BUTTONTEXT_NO.string.text
 msgid "~No"
 msgstr "~No"
 
+#. bQSs
 #: btntext.src#SV_BUTTONTEXT_RETRY.string.text
 msgid "~Retry"
 msgstr "~Reintenta"
 
+#. arf5
 #: btntext.src#SV_BUTTONTEXT_HELP.string.text
 msgid "~Help"
 msgstr "~Ajuda"
 
+#. ukJj
 #: btntext.src#SV_BUTTONTEXT_MORE.string.text
 msgid "~More"
 msgstr "~Més"
 
+#. RS8E
 #: btntext.src#SV_BUTTONTEXT_LESS.string.text
 msgid "~Less"
 msgstr "~Menys"
 
+#. 2T6I
 #: btntext.src#SV_BUTTONTEXT_IGNORE.string.text
 msgid "~Ignore"
 msgstr "~Ignora"
 
+#. 2y3D
 #: btntext.src#SV_BUTTONTEXT_ABORT.string.text
 msgid "~Abort"
 msgstr "~Interromp"
 
+#. v3WO
 #: menu.src#SV_RESID_STRING_NOSELECTIONPOSSIBLE.string.text
 msgid "<No selection possible>"
 msgstr "<Cap selecció possible>"
 
+#. #2H0
 #: menu.src#SV_RESID_MENU_EDIT.SV_MENU_EDIT_UNDO.menuitem.text
 msgid "~Undo"
 msgstr "~Desfés"
 
+#. 9_NP
 #: menu.src#SV_RESID_MENU_EDIT.SV_MENU_EDIT_CUT.menuitem.text
 msgid "Cu~t"
 msgstr "~Retalla"
 
+#. UNGR
 #: menu.src#SV_RESID_MENU_EDIT.SV_MENU_EDIT_COPY.menuitem.text
 msgid "~Copy"
 msgstr "~Copia"
 
+#. jKrx
 #: menu.src#SV_RESID_MENU_EDIT.SV_MENU_EDIT_PASTE.menuitem.text
 msgid "~Paste"
 msgstr "Engan~xa"
 
+#. co56
 #: menu.src#SV_RESID_MENU_EDIT.SV_MENU_EDIT_DELETE.menuitem.text
 msgid "~Delete"
 msgstr "~Suprimeix"
 
+#. eG8N
 #: menu.src#SV_RESID_MENU_EDIT.SV_MENU_EDIT_SELECTALL.menuitem.text
 msgid "Select ~All"
 msgstr "Selecciona-ho ~tot"
 
+#. Bk5p
 #: menu.src#SV_RESID_MENU_EDIT.SV_MENU_EDIT_INSERTSYMBOL.menuitem.text
 msgid "~Special Character..."
 msgstr "Caràcter e~special..."
 
+#. GWZ4
 #: menu.src#SV_MENU_MAC_SERVICES.string.text
 msgid "Services"
 msgstr "Serveis"
 
+#. LqPp
 #: menu.src#SV_MENU_MAC_HIDEAPP.string.text
 msgid "Hide %PRODUCTNAME"
 msgstr "Amaga el %PRODUCTNAME"
 
+#. Pc4Y
 #: menu.src#SV_MENU_MAC_HIDEALL.string.text
 msgid "Hide Others"
 msgstr "Amaga els altres"
 
+#. zLXb
 #: menu.src#SV_MENU_MAC_SHOWALL.string.text
 msgid "Show All"
 msgstr "Mostra-ho tot"
 
+#. AP64
 #: menu.src#SV_MENU_MAC_QUITAPP.string.text
 msgid "Quit %PRODUCTNAME"
 msgstr "Ix del %PRODUCTNAME"
 
+#. plId
 #: units.src#SV_FUNIT_STRINGS.1.itemlist.text
 msgid "mm"
 msgstr "mm"
 
+#. I1#V
 #: units.src#SV_FUNIT_STRINGS.2.itemlist.text
 msgid "cm"
 msgstr "cm"
 
+#. arve
 #: units.src#SV_FUNIT_STRINGS.3.itemlist.text
 msgid "m"
 msgstr "m"
 
+#. hl3F
 #: units.src#SV_FUNIT_STRINGS.4.itemlist.text
 msgid "km"
 msgstr "km"
 
+#. TR4u
 #: units.src#SV_FUNIT_STRINGS.5.itemlist.text
 msgid "twips"
 msgstr "twips"
 
+#. yre0
 #: units.src#SV_FUNIT_STRINGS.6.itemlist.text
 msgid "twip"
 msgstr "twip"
 
+#. A1lt
 #: units.src#SV_FUNIT_STRINGS.7.itemlist.text
 msgid "pt"
 msgstr "pt"
 
+#. Pouk
 #: units.src#SV_FUNIT_STRINGS.8.itemlist.text
 msgid "pc"
 msgstr "pc"
 
+#. l6_P
 #: units.src#SV_FUNIT_STRINGS.9.itemlist.text
 msgid "\""
 msgstr "\""
 
+#. _85a
 #: units.src#SV_FUNIT_STRINGS.10.itemlist.text
 msgid "in"
 msgstr "in"
 
+#. 9y2J
 #: units.src#SV_FUNIT_STRINGS.11.itemlist.text
 msgid "inch"
 msgstr "polzada"
 
+#. eIkh
 #: units.src#SV_FUNIT_STRINGS.12.itemlist.text
 msgid "'"
 msgstr "'"
 
+#. UcfS
 #: units.src#SV_FUNIT_STRINGS.13.itemlist.text
 msgid "ft"
 msgstr "ft"
 
+#. HyJx
 #: units.src#SV_FUNIT_STRINGS.14.itemlist.text
 msgid "foot"
 msgstr "peu"
 
+#. d8KC
 #: units.src#SV_FUNIT_STRINGS.15.itemlist.text
 msgid "feet"
 msgstr "peus"
 
+#. 6cuq
 #: units.src#SV_FUNIT_STRINGS.16.itemlist.text
 msgid "miles"
 msgstr "milles"
 
+#. mI_3
 #: units.src#SV_FUNIT_STRINGS.17.itemlist.text
 msgid "mile"
 msgstr "milla"
 
+#. ZXeQ
 #: units.src#SV_FUNIT_STRINGS.18.itemlist.text
 msgid "ch"
 msgstr "caràcter"
 
+#. LLlj
 #: units.src#SV_FUNIT_STRINGS.19.itemlist.text
 msgid "line"
 msgstr "línia"
 
+#. jEnz
 #: units.src#SV_FUNIT_STRINGS.20.itemlist.text
 msgid "%"
 msgstr "%"
 
+#. pNCK
 #: helptext.src#SV_HELPTEXT_CLOSE.string.text
 msgid "Close"
 msgstr "Tanca"
 
+#. o6Az
 #: helptext.src#SV_HELPTEXT_CLOSEDOCUMENT.string.text
 msgid "Close Document"
 msgstr "Tanca el document"
 
+#. i0qA
 #: helptext.src#SV_HELPTEXT_MINIMIZE.string.text
 msgid "Minimize"
 msgstr "Minimitza"
 
+#. nRTS
 #: helptext.src#SV_HELPTEXT_MAXIMIZE.string.text
 msgid "Maximize"
 msgstr "Maximitza"
 
+#. cm1w
 #: helptext.src#SV_HELPTEXT_RESTORE.string.text
 msgid "Restore"
 msgstr "Restaura"
 
+#. QR0G
 #: helptext.src#SV_HELPTEXT_ROLLDOWN.string.text
 msgid "Drop down"
 msgstr "Desplega"
 
+#. 1dZm
 #: helptext.src#SV_HELPTEXT_ROLLUP.string.text
 msgid "Roll up"
 msgstr "Replega"
 
+#. 8gDM
 #: helptext.src#SV_HELPTEXT_HELP.string.text
 msgctxt "helptext.src#SV_HELPTEXT_HELP.string.text"
 msgid "Help"
 msgstr "Ajuda"
 
+#. sjUF
 #: helptext.src#SV_HELPTEXT_ALWAYSVISIBLE.string.text
 msgid "Always visible"
 msgstr "Sempre visible"
 
+#. Woly
 #: helptext.src#SV_HELPTEXT_FADEIN.string.text
 msgid "Show"
 msgstr "Mostra"
 
+#. U8eb
 #: helptext.src#SV_HELPTEXT_FADEOUT.string.text
 msgid "Hide"
 msgstr "Amaga"
 
+#. lKJT
 #: helptext.src#SV_HELPTEXT_SPLITFLOATING.string.text
 msgid "Floating"
 msgstr "Flotant"
 
+#. _PHK
 #: helptext.src#SV_HELPTEXT_SPLITFIXED.string.text
 msgid "Stick"
 msgstr "Fixa"
 
+#. raLs
 #: helptext.src#SV_SHORTCUT_HELP.string.text
 msgctxt "helptext.src#SV_SHORTCUT_HELP.string.text"
 msgid "Help"
 msgstr "Ajuda"
 
+#. aXxH
 #: helptext.src#SV_SHORTCUT_CONTEXTHELP.string.text
 msgid "Context Help"
 msgstr "Ajuda contextual"
 
+#. qoGX
 #: helptext.src#SV_SHORTCUT_ACTIVEHELP.string.text
 msgid "Extended Tips"
 msgstr "Consells ampliats"
 
+#. YyDj
 #: helptext.src#SV_SHORTCUT_DOCKUNDOCK.string.text
 msgid "Dock/Undock Windows"
 msgstr "Acobla/Desacobla les finestres"
 
+#. lSbE
 #: helptext.src#SV_SHORTCUT_NEXTSUBWINDOW.string.text
 msgid "To Next Toolbar/Window"
 msgstr "A la propera barra d'eines/finestra"
 
+#. o#f_
 #: helptext.src#SV_SHORTCUT_PREVSUBWINDOW.string.text
 msgid "To Previous Toolbar/Window"
 msgstr "A la barra d'eines/finestra anterior"
 
+#. Wham
 #: helptext.src#SV_SHORTCUT_TODOCUMENT.string.text
 msgid "To Document"
 msgstr "Al document"
 
+#. 9dIi
 #: helptext.src#SV_SHORTCUT_MENUBAR.string.text
 msgid "To Menu Bar"
 msgstr "A la barra de menús"
 
+#. eTpQ
 #: helptext.src#SV_SHORTCUT_SPLITTER.string.text
 msgid "Split window separator"
 msgstr "Divideix el separador de la finestra"
 
+#. CZ7z
 #: fpicker.src#STR_FPICKER_AUTO_EXTENSION.string.text
 msgid "~Automatic file name extension"
 msgstr "Extensió ~automàtica del nom del fitxer"
 
+#. un#D
 #: fpicker.src#STR_FPICKER_PASSWORD.string.text
 msgid "Save with pass~word"
 msgstr "Alça-ho amb ~contrasenya"
 
+#. B9ep
 #: fpicker.src#STR_FPICKER_FILTER_OPTIONS.string.text
 msgid "~Edit filter settings"
 msgstr "~Edita la configuració del filtre"
 
+#. 2Gv8
 #: fpicker.src#STR_FPICKER_READONLY.string.text
 msgid "~Read-only"
 msgstr "Només lectu~ra"
 
+#. LR0w
 #: fpicker.src#STR_FPICKER_INSERT_AS_LINK.string.text
 msgid "~Link"
 msgstr "En~llaç"
 
+# 87%
+#. Z62F
 #: fpicker.src#STR_FPICKER_SHOW_PREVIEW.string.text
 msgid "Pr~eview"
 msgstr "Pr~evisualització"
 
+#. 8uGB
 #: fpicker.src#STR_FPICKER_PLAY.string.text
 msgid "~Play"
 msgstr "Re~produeix"
 
+#. j4Xj
 #: fpicker.src#STR_FPICKER_VERSION.string.text
 msgid "~Version:"
 msgstr "~Versió:"
 
+#. zqZx
 #: fpicker.src#STR_FPICKER_TEMPLATES.string.text
 msgid "S~tyles:"
 msgstr "Es~tils:"
 
+#. _QcC
 #: fpicker.src#STR_FPICKER_IMAGE_TEMPLATE.string.text
 msgid "Style:"
 msgstr "Estil:"
 
+#. 3BPy
 #: fpicker.src#STR_FPICKER_SELECTION.string.text
 msgid "~Selection"
 msgstr "~Selecció"
 
+#. w5a8
 #: fpicker.src#STR_FPICKER_FOLDER_DEFAULT_TITLE.string.text
 msgid "Select Path"
 msgstr "Seleccioneu el camí"
 
+#. UYT8
 #: fpicker.src#STR_FPICKER_FOLDER_DEFAULT_DESCRIPTION.string.text
 msgid "Please select a folder."
 msgstr "Seleccioneu una carpeta."
 
+#. ICuM
 #: fpicker.src#STR_FPICKER_ALREADYEXISTOVERWRITE.string.text
 msgid ""
 "A file named \"$filename$\" already exists.\n"
@@ -805,18 +1023,22 @@ msgstr ""
 "\n"
 "Voleu reemplaçar-lo?"
 
+#. Ua7k
 #: fpicker.src#STR_FPICKER_ALLFORMATS.string.text
 msgid "All Formats"
 msgstr "Tots els formats"
 
+#. DEMO
 #: fpicker.src#STR_FPICKER_OPEN.string.text
 msgid "Open"
 msgstr "Obri"
 
+#. Q81x
 #: fpicker.src#STR_FPICKER_SAVE.string.text
 msgid "Save"
 msgstr "Alça"
 
+#. Xm8m
 #: fpicker.src#STR_FPICKER_TYPE.string.text
 msgid "File ~type"
 msgstr "~Tipus de fitxer"

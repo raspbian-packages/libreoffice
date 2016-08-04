@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+sw%2Fsource%2Fui%2Futlui.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment="
+"&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%"
+"3A+sw%2Fsource%2Fui%2Futlui.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:41+0200\n"
 "PO-Revision-Date: 2012-02-22 09:46+0200\n"
 "Last-Translator: Joan <joan@montane.cat>\n"
@@ -15,1230 +17,1530 @@ msgstr ""
 "X-Generator: Pootle 2.1.6\n"
 "X-Accelerator-Marker: ~\n"
 
+#. #Z45
 #: navipi.src#DLG_NAVIGATION_PI.window.text
 msgid "Navigator"
 msgstr "Navegador"
 
+#. _qN5
 #: navipi.src#TB_CONTENT.FN_GLOBAL_SWITCH.toolboxitem.text
 msgctxt "navipi.src#TB_CONTENT.FN_GLOBAL_SWITCH.toolboxitem.text"
 msgid "Toggle"
 msgstr "Canvia"
 
+#. Y4EZ
 #: navipi.src#TB_CONTENT.FN_CREATE_NAVIGATION.toolboxitem.text
 msgid "Navigation"
 msgstr "Navegació"
 
+#. 9s5I
 #: navipi.src#TB_CONTENT.FN_UP.toolboxitem.text
 msgid "Back"
 msgstr "Arrere"
 
+#. O8Wk
 #: navipi.src#TB_CONTENT.FN_DOWN.toolboxitem.text
 msgid "Forward"
 msgstr "Avant"
 
+#. 6abi
 #: navipi.src#TB_CONTENT.FN_DROP_REGION.toolboxitem.text
 msgctxt "navipi.src#TB_CONTENT.FN_DROP_REGION.toolboxitem.text"
 msgid "Drag Mode"
 msgstr "Mode d'arrossegament"
 
+#. 9C4C
 #: navipi.src#TB_CONTENT.FN_ITEM_UP.toolboxitem.text
 msgid "Promote Chapter"
 msgstr "Capítol cap amunt"
 
+#. DK0h
 #: navipi.src#TB_CONTENT.FN_ITEM_DOWN.toolboxitem.text
 msgid "Demote Chapter"
 msgstr "Capítol cap avall"
 
+#. HCRu
 #: navipi.src#TB_CONTENT.FN_SHOW_CONTENT_BOX.toolboxitem.text
 msgid "List Box On/Off"
 msgstr "Activa/desactiva el quadre de llista"
 
+#. kujt
 #: navipi.src#TB_CONTENT.FN_SHOW_ROOT.toolboxitem.text
 msgctxt "navipi.src#TB_CONTENT.FN_SHOW_ROOT.toolboxitem.text"
 msgid "Content View"
 msgstr "Visualització del contingut"
 
+#. XLg3
 #: navipi.src#TB_CONTENT.FN_SELECT_SET_AUTO_BOOKMARK.toolboxitem.text
 msgid "Set Reminder"
 msgstr "Defineix un recordatori"
 
+#. Qgja
 #: navipi.src#TB_CONTENT.FN_SELECT_HEADER.toolboxitem.text
 msgctxt "navipi.src#TB_CONTENT.FN_SELECT_HEADER.toolboxitem.text"
 msgid "Header"
 msgstr "Capçalera"
 
+#. T1As
 #: navipi.src#TB_CONTENT.FN_SELECT_FOOTER.toolboxitem.text
 msgctxt "navipi.src#TB_CONTENT.FN_SELECT_FOOTER.toolboxitem.text"
 msgid "Footer"
 msgstr "Peu de pàgina"
 
+#. z3lI
 #: navipi.src#TB_CONTENT.FN_SELECT_FOOTNOTE.toolboxitem.text
 msgid "Anchor<->Text"
 msgstr "Àncora<->Text"
 
+#. Koqf
 #: navipi.src#TB_CONTENT.FN_OUTLINE_LEVEL.toolboxitem.text
 msgid "Heading Levels Shown"
 msgstr "Nivells d'encapçalament mostrats"
 
+#. QHjR
 #: navipi.src#TB_CONTENT.FN_ITEM_LEFT.toolboxitem.text
 msgid "Promote Level"
 msgstr "Un nivell cap amunt"
 
+#. Dpvz
 #: navipi.src#TB_CONTENT.FN_ITEM_RIGHT.toolboxitem.text
 msgid "Demote Level"
 msgstr "Un nivell cap avall"
 
+#. FLk6
 #: navipi.src#TB_GLOBAL.FN_GLOBAL_SWITCH.toolboxitem.text
 msgctxt "navipi.src#TB_GLOBAL.FN_GLOBAL_SWITCH.toolboxitem.text"
 msgid "Toggle"
 msgstr "Canvia"
 
+#. 3ujf
 #: navipi.src#TB_GLOBAL.FN_GLOBAL_EDIT.toolboxitem.text
 msgctxt "navipi.src#TB_GLOBAL.FN_GLOBAL_EDIT.toolboxitem.text"
 msgid "Edit"
 msgstr "Edita"
 
+#. x764
 #: navipi.src#TB_GLOBAL.FN_GLOBAL_UPDATE.toolboxitem.text
 msgid "Update"
 msgstr "Actualitza"
 
+#. zEh4
 #: navipi.src#TB_GLOBAL.FN_GLOBAL_OPEN.toolboxitem.text
 msgctxt "navipi.src#TB_GLOBAL.FN_GLOBAL_OPEN.toolboxitem.text"
 msgid "Insert"
 msgstr "Insereix"
 
+#. yVUR
 #: navipi.src#TB_GLOBAL.FN_GLOBAL_SAVE_CONTENT.toolboxitem.text
 msgid "Save Contents as well"
 msgstr "Alça també els continguts"
 
+#. 4b1R
 #: navipi.src#TB_GLOBAL.FN_ITEM_UP.toolboxitem.text
 msgid "Move Up"
 msgstr "Mou amunt"
 
+#. eWh0
 #: navipi.src#TB_GLOBAL.FN_ITEM_DOWN.toolboxitem.text
 msgid "Move Down"
 msgstr "Mou avall"
 
+#. 17Ta
 #: navipi.src#ST_OUTLINE_LEVEL.string.text
 msgid "Outline Level"
 msgstr "Nivell d'esquema"
 
+#. VIta
 #: navipi.src#ST_DRAGMODE.string.text
 msgctxt "navipi.src#ST_DRAGMODE.string.text"
 msgid "Drag Mode"
 msgstr "Mode d'arrossegament"
 
+#. oyJf
 #: navipi.src#ST_HYPERLINK.string.text
 msgid "Insert as Hyperlink"
 msgstr "Insereix com a enllaç"
 
+#. U_V9
 #: navipi.src#ST_LINK_REGION.string.text
 msgid "Insert as Link"
 msgstr "Insereix com a enllaç"
 
+#. vyn9
 #: navipi.src#ST_COPY_REGION.string.text
 msgid "Insert as Copy"
 msgstr "Insereix com a còpia"
 
+#. mXm8
 #: navipi.src#ST_DISPLAY.string.text
 msgid "Display"
 msgstr "Visualitza"
 
+#. tXwV
 #: navipi.src#ST_ACTIVE_VIEW.string.text
 msgid "Active Window"
 msgstr "Finestra activa"
 
+#. j2to
 #: navipi.src#ST_HIDDEN.string.text
 msgctxt "navipi.src#ST_HIDDEN.string.text"
 msgid "hidden"
 msgstr "amagat"
 
+#. o1Aq
 #: navipi.src#ST_ACTIVE.string.text
 msgid "active"
 msgstr "actiu"
 
+#. BmKL
 #: navipi.src#ST_INACTIVE.string.text
 msgid "inactive"
 msgstr "inactiu"
 
+#. 3092
 #: navipi.src#ST_EDIT_ENTRY.string.text
 msgid "Edit..."
 msgstr "Edita..."
 
+#. M3Jt
 #: navipi.src#ST_UPDATE.string.text
 msgid "~Update"
 msgstr "~Actualitza"
 
+#. bvCN
 #: navipi.src#ST_EDIT_CONTENT.string.text
 msgctxt "navipi.src#ST_EDIT_CONTENT.string.text"
 msgid "Edit"
 msgstr "Edita"
 
+#. 07wD
 #: navipi.src#ST_EDIT_LINK.string.text
 msgid "Edit link"
 msgstr "Edita l'enllaç"
 
+#. evPe
 #: navipi.src#ST_INSERT.string.text
 msgctxt "navipi.src#ST_INSERT.string.text"
 msgid "Insert"
 msgstr "Insereix"
 
+#. u7k9
 #: navipi.src#ST_INDEX.string.text
 msgid "~Index"
 msgstr "Í~ndex"
 
+#. 1wqV
 #: navipi.src#ST_FILE.string.text
 msgid "File"
 msgstr "Fitxer"
 
+#. 7eyK
 #: navipi.src#ST_NEW_FILE.string.text
 msgid "New Document"
 msgstr "Document nou"
 
+#. MAd6
 #: navipi.src#ST_TEXT.string.text
 msgctxt "navipi.src#ST_TEXT.string.text"
 msgid "Text"
 msgstr "Text"
 
+#. wQGd
 #: navipi.src#ST_DELETE.string.text
 msgid "Delete"
 msgstr "Suprimeix"
 
+#. sm0g
 #: navipi.src#ST_DELETE_ENTRY.string.text
 msgid "~Delete"
 msgstr "~Suprimeix"
 
+#. rvKS
 #: navipi.src#ST_UPDATE_SEL.string.text
 msgid "Selection"
 msgstr "Selecció"
 
+#. QiK9
 #: navipi.src#ST_UPDATE_INDEX.string.text
 msgctxt "navipi.src#ST_UPDATE_INDEX.string.text"
 msgid "Indexes"
 msgstr "Índexs"
 
+#. U5l0
 #: navipi.src#ST_UPDATE_LINK.string.text
 msgid "Links"
 msgstr "Enllaços"
 
+#. THCG
 #: navipi.src#ST_UPDATE_ALL.string.text
 msgctxt "navipi.src#ST_UPDATE_ALL.string.text"
 msgid "All"
 msgstr "Tot"
 
+#. 0ux_
 #: navipi.src#ST_REMOVE_INDEX.string.text
 msgid "~Remove Index"
 msgstr "Elimina l'índe~x"
 
+#. LrRA
 #: navipi.src#ST_REMOVE_TBL_PROTECTION.string.text
 msgid "~Unprotect"
 msgstr "~Desprotegeix"
 
+#. ykzt
 #: navipi.src#ST_INVISIBLE.string.text
 msgctxt "navipi.src#ST_INVISIBLE.string.text"
 msgid "hidden"
 msgstr "amagat"
 
+#. UNeU
 #: navipi.src#ST_BROKEN_LINK.string.text
 msgid "File not found: "
 msgstr "No es troba el fitxer: "
 
+#. JEqq
 #: navipi.src#ST_RENAME.string.text
 msgid "~Rename"
 msgstr "~Reanomena"
 
+#. U3Js
 #: navipi.src#ST_READONLY_IDX.string.text
 msgid "Read-~only"
 msgstr "Només de le~ctura"
 
+#. sqfo
 #: navipi.src#ST_POSTIT_SHOW.string.text
 msgid "Show All"
 msgstr "Mostra-ho tot"
 
+#. E2SO
 #: navipi.src#ST_POSTIT_HIDE.string.text
 msgid "Hide All"
 msgstr "Amaga-ho tot"
 
+#. oQ1u
 #: navipi.src#ST_POSTIT_DELETE.string.text
 msgid "Delete All"
 msgstr "Suprimeix-ho tot"
 
+#. 90Ch
 #: navipi.src#STR_ACCESS_TL_GLOBAL.string.text
 msgid "Global View"
 msgstr "Visualització global"
 
+#. nqyC
 #: navipi.src#STR_ACCESS_TL_CONTENT.string.text
 msgctxt "navipi.src#STR_ACCESS_TL_CONTENT.string.text"
 msgid "Content View"
 msgstr "Visualització del contingut"
 
+#. gArp
 #: initui.src#RID_SW_SHELLRES.STR_POSTIT_PAGE.string.text
 msgid "Page"
 msgstr "Pàgina"
 
+#. z3kT
 #: initui.src#RID_SW_SHELLRES.STR_POSTIT_LINE.string.text
 msgid "Line"
 msgstr "Línia"
 
+#. Oje#
 #: initui.src#RID_SW_SHELLRES.STR_POSTIT_AUTHOR.string.text
 msgid "Author"
 msgstr "Autor"
 
+#. vaPA
 #: initui.src#RID_SW_SHELLRES.STR_CALC_SYNTAX.string.text
 msgid "** Syntax Error **"
 msgstr "** Error de sintaxi **"
 
+#. xf8h
 #: initui.src#RID_SW_SHELLRES.STR_CALC_ZERODIV.string.text
 msgid "** Division by zero **"
 msgstr "** Divisió per zero **"
 
+#. yS_p
 #: initui.src#RID_SW_SHELLRES.STR_CALC_BRACK.string.text
 msgid "** Wrong use of brackets **"
 msgstr "** Mal ús dels parèntesis **"
 
+#. #aU9
 #: initui.src#RID_SW_SHELLRES.STR_CALC_POW.string.text
 msgid "** Square function overflow **"
 msgstr "** Desbordament en la funció de quadrat **"
 
+#. LQyV
 #: initui.src#RID_SW_SHELLRES.STR_CALC_VARNFND.string.text
 msgid "** Variable not found **"
 msgstr "** No s'ha trobat la variable **"
 
+#. StR3
 #: initui.src#RID_SW_SHELLRES.STR_CALC_OVERFLOW.string.text
 msgid "** Overflow **"
 msgstr "** Desbordament **"
 
+#. rkuy
 #: initui.src#RID_SW_SHELLRES.STR_CALC_WRONGTIME.string.text
 msgid "** Wrong time format **"
 msgstr "** El format de temps no és vàlid **"
 
+#. aSAH
 #: initui.src#RID_SW_SHELLRES.STR_CALC_DEFAULT.string.text
 msgid "** Error **"
 msgstr "** Error **"
 
+#. 0QkW
 #: initui.src#RID_SW_SHELLRES.STR_CALC_ERROR.string.text
 msgid "** Expression is faulty **"
 msgstr "** L'expressió no és vàlida **"
 
+#. bEhM
 #: initui.src#RID_SW_SHELLRES.STR_GETREFFLD_UP.string.text
 msgid "above"
 msgstr "a sobre"
 
+#. 6Cvz
 #: initui.src#RID_SW_SHELLRES.STR_GETREFFLD_DOWN.string.text
 msgid "below"
 msgstr "a sota"
 
+#. _0dq
 #: initui.src#RID_SW_SHELLRES.STR_GETREFFLD_REFITEMNOTFOUND.string.text
 msgid "Error: Reference source not found"
 msgstr "S'ha produït un error: No s'ha trobat la font de referència"
 
+#. pTmy
 #: initui.src#RID_SW_SHELLRES.STR_ALLPAGE_HEADFOOT.string.text
 msgctxt "initui.src#RID_SW_SHELLRES.STR_ALLPAGE_HEADFOOT.string.text"
 msgid "All"
 msgstr "Tot"
 
+#. I59c
 #: initui.src#RID_SW_SHELLRES.STR_TEMPLATE_NONE.string.text
 msgid "None"
 msgstr "Cap"
 
+#. vkKp
 #: initui.src#RID_SW_SHELLRES.STR_FIELD_FIXED.string.text
 msgid "(fixed)"
 msgstr "(fix)"
 
+#. fGUe
 #: initui.src#RID_SW_SHELLRES.STR_DURATION_FORMAT.string.text
 msgid " Y: %1 M: %2 D: %3 H: %4 M: %5 S: %6"
 msgstr "A: %1 M: %2 D: %3 H: %4 M: %5 S: %6"
 
+#. B5nB
 #: initui.src#RID_SW_SHELLRES.STR_TOI.string.text
 msgid "Alphabetical Index"
 msgstr "Índex alfabètic"
 
+#. #yWH
 #: initui.src#RID_SW_SHELLRES.STR_TOU.string.text
 msgid "User-Defined"
 msgstr "Definit per l'usuari"
 
+#. hUMp
 #: initui.src#RID_SW_SHELLRES.STR_TOC.string.text
 msgid "Table of Contents"
 msgstr "Índex de continguts"
 
+#. JZsN
 #: initui.src#RID_SW_SHELLRES.STR_TOX_AUTH.string.text
 msgid "Bibliography"
 msgstr "Bibliografia"
 
+#. OyYx
 #: initui.src#RID_SW_SHELLRES.STR_TOX_TBL.string.text
 msgid "Index of Tables"
 msgstr "Índex de taules"
 
+#. l2TM
 #: initui.src#RID_SW_SHELLRES.STR_TOX_OBJ.string.text
 msgid "Table of Objects"
 msgstr "Taula d'objectes"
 
+#. Uur4
 #: initui.src#RID_SW_SHELLRES.STR_TOX_ILL.string.text
 msgid "Illustration Index"
 msgstr "Índex d'il·lustracions"
 
+#. dDUu
 #: initui.src#RID_SW_SHELLRES.STR_HYPERLINK_CLICK.string.text
 msgid "%s-click to open hyperlink"
 msgstr "%s-clic per obrir l'enllaç"
 
+#. jEOQ
 #: initui.src#RID_SW_SHELLRES.FLD_DOCINFO_TITEL.string.text
 msgctxt "initui.src#RID_SW_SHELLRES.FLD_DOCINFO_TITEL.string.text"
 msgid "Title"
 msgstr "Títol"
 
+#. dxl8
 #: initui.src#RID_SW_SHELLRES.FLD_DOCINFO_THEMA.string.text
 msgid "Subject"
 msgstr "Assumpte"
 
+#. QU52
 #: initui.src#RID_SW_SHELLRES.FLD_DOCINFO_KEYS.string.text
 msgid "Keywords"
 msgstr "Paraules clau"
 
+#. fSEj
 #: initui.src#RID_SW_SHELLRES.FLD_DOCINFO_COMMENT.string.text
 msgctxt "initui.src#RID_SW_SHELLRES.FLD_DOCINFO_COMMENT.string.text"
 msgid "Comments"
 msgstr "Comentaris"
 
+#. OaYh
 #: initui.src#RID_SW_SHELLRES.FLD_DOCINFO_CREATE.string.text
 msgid "Created"
 msgstr "Creat"
 
+#. LAq4
 #: initui.src#RID_SW_SHELLRES.FLD_DOCINFO_CHANGE.string.text
 msgid "Modified"
 msgstr "Modificat"
 
+#. 6iho
 #: initui.src#RID_SW_SHELLRES.FLD_DOCINFO_PRINT.string.text
 msgid "Last printed"
 msgstr "Última impressió"
 
+#. yDq9
 #: initui.src#RID_SW_SHELLRES.FLD_DOCINFO_DOCNO.string.text
 msgid "Revision number"
 msgstr "Número de revisió"
 
+#. uOIZ
 #: initui.src#RID_SW_SHELLRES.FLD_DOCINFO_EDIT.string.text
 msgid "Total editing time"
 msgstr "Temps total d'edició"
 
+#. jsk6
 #: initui.src#RID_SW_SHELLRES.STR_PAGEDESC_NAME.string.text
 msgid "Convert $(ARG1)"
 msgstr "Converteix $(ARG1)"
 
+#. uB_m
 #: initui.src#RID_SW_SHELLRES.STR_PAGEDESC_FIRSTNAME.string.text
 msgid "First convert $(ARG1)"
 msgstr "Primera conversió $(ARG1)"
 
+#. Ywl1
 #: initui.src#RID_SW_SHELLRES.STR_PAGEDESC_FOLLOWNAME.string.text
 msgid "Next convert $(ARG1)"
 msgstr "Conversió següent $(ARG1)"
 
+#. ZWqv
 #: initui.src#STR_AUTH_TYPE_ARTICLE.string.text
 msgid "Article"
 msgstr "Article"
 
+#. CH5c
 #: initui.src#STR_AUTH_TYPE_BOOK.string.text
 msgid "Book"
 msgstr "Llibre"
 
+#. XVmt
 #: initui.src#STR_AUTH_TYPE_BOOKLET.string.text
 msgid "Brochures"
 msgstr "Fullets"
 
+#. KTqh
 #: initui.src#STR_AUTH_TYPE_CONFERENCE.string.text
 msgctxt "initui.src#STR_AUTH_TYPE_CONFERENCE.string.text"
 msgid "Conference proceedings"
 msgstr "Acta de conferència"
 
+#. SxTC
 #: initui.src#STR_AUTH_TYPE_INBOOK.string.text
 msgid "Book excerpt"
 msgstr "Extracte de llibre"
 
+#. #BKM
 #: initui.src#STR_AUTH_TYPE_INCOLLECTION.string.text
 msgid "Book excerpt with title"
 msgstr "Extracte de llibre amb títol"
 
+#. zS5Y
 #: initui.src#STR_AUTH_TYPE_INPROCEEDINGS.string.text
 msgctxt "initui.src#STR_AUTH_TYPE_INPROCEEDINGS.string.text"
 msgid "Conference proceedings"
 msgstr "Acta de conferència"
 
+#. 4TNe
 #: initui.src#STR_AUTH_TYPE_JOURNAL.string.text
 msgctxt "initui.src#STR_AUTH_TYPE_JOURNAL.string.text"
 msgid "Journal"
 msgstr "Diari"
 
+#. EKFE
 #: initui.src#STR_AUTH_TYPE_MANUAL.string.text
 msgid "Techn. documentation"
 msgstr "Documentació tècnica"
 
+#. rz#Q
 #: initui.src#STR_AUTH_TYPE_MASTERSTHESIS.string.text
 msgid "Thesis"
 msgstr "Tesi"
 
+#. Z5Fe
 #: initui.src#STR_AUTH_TYPE_MISC.string.text
 msgid "Miscellaneous"
 msgstr "Miscel·lània"
 
+#. I75t
 #: initui.src#STR_AUTH_TYPE_PHDTHESIS.string.text
 msgid "Dissertation"
 msgstr "Dissertació"
 
+#. u2t3
 #: initui.src#STR_AUTH_TYPE_PROCEEDINGS.string.text
 msgctxt "initui.src#STR_AUTH_TYPE_PROCEEDINGS.string.text"
 msgid "Conference proceedings"
 msgstr "Acta de conferència"
 
+#. pKbK
 #: initui.src#STR_AUTH_TYPE_TECHREPORT.string.text
 msgid "Research report"
 msgstr "Informe de recerca"
 
+#. #V1i
 #: initui.src#STR_AUTH_TYPE_UNPUBLISHED.string.text
 msgid "Unpublished"
 msgstr "No publicat"
 
+#. q1Ur
 #: initui.src#STR_AUTH_TYPE_EMAIL.string.text
 msgid "e-mail"
 msgstr "correu electrònic"
 
+#. bSt4
 #: initui.src#STR_AUTH_TYPE_WWW.string.text
 msgid "WWW document"
 msgstr "Document WWW"
 
+#. Hn47
 #: initui.src#STR_AUTH_TYPE_CUSTOM1.string.text
 msgctxt "initui.src#STR_AUTH_TYPE_CUSTOM1.string.text"
 msgid "User-defined1"
 msgstr "Definit-per-l'usuari1"
 
+#. e4Mi
 #: initui.src#STR_AUTH_TYPE_CUSTOM2.string.text
 msgctxt "initui.src#STR_AUTH_TYPE_CUSTOM2.string.text"
 msgid "User-defined2"
 msgstr "Definit-per-l'usuari2"
 
+#. _NOr
 #: initui.src#STR_AUTH_TYPE_CUSTOM3.string.text
 msgctxt "initui.src#STR_AUTH_TYPE_CUSTOM3.string.text"
 msgid "User-defined3"
 msgstr "Definit-per-l'usuari3"
 
+#. XSNR
 #: initui.src#STR_AUTH_TYPE_CUSTOM4.string.text
 msgctxt "initui.src#STR_AUTH_TYPE_CUSTOM4.string.text"
 msgid "User-defined4"
 msgstr "Definit-per-l'usuari4"
 
+#. sFP2
 #: initui.src#STR_AUTH_TYPE_CUSTOM5.string.text
 msgctxt "initui.src#STR_AUTH_TYPE_CUSTOM5.string.text"
 msgid "User-defined5"
 msgstr "Definit-per-l'usuari5"
 
+#. _R4N
 #: initui.src#STR_AUTH_FIELD_IDENTIFIER.string.text
 msgid "Short name"
 msgstr "Nom curt"
 
+#. Zs9M
 #: initui.src#STR_AUTH_FIELD_AUTHORITY_TYPE.string.text
 msgid "Type"
 msgstr "Tipus"
 
+#. S9bi
 #: initui.src#STR_AUTH_FIELD_ADDRESS.string.text
 msgid "Address"
 msgstr "Adreça"
 
+#. w#UZ
 #: initui.src#STR_AUTH_FIELD_ANNOTE.string.text
 msgid "Annotation"
 msgstr "Notes"
 
+#. 08_1
 #: initui.src#STR_AUTH_FIELD_AUTHOR.string.text
 msgid "Author(s)"
 msgstr "Autor(s)"
 
+#. BGGt
 #: initui.src#STR_AUTH_FIELD_BOOKTITLE.string.text
 msgid "Book title"
 msgstr "Títol del llibre"
 
+#. 2pug
 #: initui.src#STR_AUTH_FIELD_CHAPTER.string.text
 msgid "Chapter"
 msgstr "Capítol"
 
+#. 8DCY
 #: initui.src#STR_AUTH_FIELD_EDITION.string.text
 msgid "Edition"
 msgstr "Edició"
 
+#. uR1y
 #: initui.src#STR_AUTH_FIELD_EDITOR.string.text
 msgid "Editor"
 msgstr "Editor"
 
+#. zkh2
 #: initui.src#STR_AUTH_FIELD_HOWPUBLISHED.string.text
 msgid "Publication type"
 msgstr "Tipus de publicació"
 
+#. F6qc
 #: initui.src#STR_AUTH_FIELD_INSTITUTION.string.text
 msgid "Institution"
 msgstr "Institució"
 
+#. #zoA
 #: initui.src#STR_AUTH_FIELD_JOURNAL.string.text
 msgctxt "initui.src#STR_AUTH_FIELD_JOURNAL.string.text"
 msgid "Journal"
 msgstr "Diari"
 
+#. F0s7
 #: initui.src#STR_AUTH_FIELD_MONTH.string.text
 msgid "Month"
 msgstr "Mes"
 
+#. k6ak
 #: initui.src#STR_AUTH_FIELD_NOTE.string.text
 msgid "Note"
 msgstr "Nota"
 
+#. 596z
 #: initui.src#STR_AUTH_FIELD_NUMBER.string.text
 msgid "Number"
 msgstr "Número"
 
+#. lSzK
 #: initui.src#STR_AUTH_FIELD_ORGANIZATIONS.string.text
 msgid "Organization"
 msgstr "Organització"
 
+#. T5Bz
 #: initui.src#STR_AUTH_FIELD_PAGES.string.text
 msgid "Page(s)"
 msgstr "Pàgines"
 
+#. bZBA
 #: initui.src#STR_AUTH_FIELD_PUBLISHER.string.text
 msgid "Publisher"
 msgstr "Editor"
 
+#. MXq#
 #: initui.src#STR_AUTH_FIELD_SCHOOL.string.text
 msgid "University"
 msgstr "Universitat"
 
+#. 1qlH
 #: initui.src#STR_AUTH_FIELD_SERIES.string.text
 msgid "Series"
 msgstr "Nom de la sèrie"
 
+#. s4Wd
 #: initui.src#STR_AUTH_FIELD_TITLE.string.text
 msgctxt "initui.src#STR_AUTH_FIELD_TITLE.string.text"
 msgid "Title"
 msgstr "Títol"
 
+#. Ku0T
 #: initui.src#STR_AUTH_FIELD_TYPE.string.text
 msgid "Type of report"
 msgstr "Tipus d'informe"
 
+#. ltQn
 #: initui.src#STR_AUTH_FIELD_VOLUME.string.text
 msgid "Volume"
 msgstr "Número de volum"
 
+#. b5pY
 #: initui.src#STR_AUTH_FIELD_YEAR.string.text
 msgid "Year"
 msgstr "Any"
 
+#. snEi
 #: initui.src#STR_AUTH_FIELD_URL.string.text
 msgid "URL"
 msgstr "URL"
 
+#. hHXb
 #: initui.src#STR_AUTH_FIELD_CUSTOM1.string.text
 msgctxt "initui.src#STR_AUTH_FIELD_CUSTOM1.string.text"
 msgid "User-defined1"
 msgstr "Definit-per-l'usuari1"
 
+#. IapE
 #: initui.src#STR_AUTH_FIELD_CUSTOM2.string.text
 msgctxt "initui.src#STR_AUTH_FIELD_CUSTOM2.string.text"
 msgid "User-defined2"
 msgstr "Definit-per-l'usuari2"
 
+#. 5tzN
 #: initui.src#STR_AUTH_FIELD_CUSTOM3.string.text
 msgctxt "initui.src#STR_AUTH_FIELD_CUSTOM3.string.text"
 msgid "User-defined3"
 msgstr "Definit-per-l'usuari3"
 
+#. Ryov
 #: initui.src#STR_AUTH_FIELD_CUSTOM4.string.text
 msgctxt "initui.src#STR_AUTH_FIELD_CUSTOM4.string.text"
 msgid "User-defined4"
 msgstr "Definit-per-l'usuari4"
 
+#. ClyW
 #: initui.src#STR_AUTH_FIELD_CUSTOM5.string.text
 msgctxt "initui.src#STR_AUTH_FIELD_CUSTOM5.string.text"
 msgid "User-defined5"
 msgstr "Definit-per-l'usuari5"
 
+#. 0x2K
 #: initui.src#STR_AUTH_FIELD_ISBN.string.text
 msgid "ISBN"
 msgstr "ISBN"
 
+#. pmSu
 #: attrdesc.src#STR_DROP_OVER.string.text
 msgid "Drop Caps over"
 msgstr "Inicials destacades a sobre"
 
+#. 7Wa3
 #: attrdesc.src#STR_DROP_LINES.string.text
 msgid "rows"
 msgstr "files"
 
+#. EGi0
 #: attrdesc.src#STR_NO_DROP_LINES.string.text
 msgid "No Drop Caps"
 msgstr "Sense inicials destacades"
 
+#. 15qS
 #: attrdesc.src#STR_NO_PAGEDESC.string.text
 msgid "No page break"
 msgstr "Sense salt de pàgina"
 
+#. S30O
 #: attrdesc.src#STR_NO_MIRROR.string.text
 msgid "Don't mirror"
 msgstr "No reflectisques"
 
+#. LIP1
 #: attrdesc.src#STR_VERT_MIRROR.string.text
 msgid "Flip vertically"
 msgstr "Inverteix verticalment"
 
+#. RrW5
 #: attrdesc.src#STR_HORI_MIRROR.string.text
 msgid "Flip horizontal"
 msgstr "Inverteix horitzontalment"
 
+#. 8ADa
 #: attrdesc.src#STR_BOTH_MIRROR.string.text
 msgid "Horizontal and Vertical Flip"
 msgstr "Inverteix horitzontalment i vertical"
 
+#. CgyG
 #: attrdesc.src#STR_MIRROR_TOGGLE.string.text
 msgid "+ mirror horizontal on even pages"
 msgstr "+ reflecteix horitzontalment a les pàgines parelles"
 
+#. LudV
 #: attrdesc.src#STR_CHARFMT.string.text
 msgid "Character Style"
 msgstr "Estil de caràcter"
 
+#. 96zn
 #: attrdesc.src#STR_NO_CHARFMT.string.text
 msgid "No Character Style"
 msgstr "No hi ha cap estil de caràcter"
 
+#. eNWK
 #: attrdesc.src#STR_FOOTER.string.text
 msgctxt "attrdesc.src#STR_FOOTER.string.text"
 msgid "Footer"
 msgstr "Peu de pàgina"
 
+#. 5ALB
 #: attrdesc.src#STR_NO_FOOTER.string.text
 msgid "No footer"
 msgstr "Sense peu de pàgina"
 
+#. 2UKl
 #: attrdesc.src#STR_HEADER.string.text
 msgctxt "attrdesc.src#STR_HEADER.string.text"
 msgid "Header"
 msgstr "Capçalera"
 
+#. l3Xm
 #: attrdesc.src#STR_NO_HEADER.string.text
 msgid "No header"
 msgstr "Sense capçalera"
 
+#. 0M42
 #: attrdesc.src#STR_SURROUND_IDEAL.string.text
 msgid "Optimal wrap"
 msgstr "Ajustament òptim"
 
+#. f28P
 #: attrdesc.src#STR_SURROUND_NONE.string.text
 msgid "No wrap"
 msgstr "Sense ajustament"
 
+#. Wn1i
 #: attrdesc.src#STR_SURROUND_THROUGHT.string.text
 msgid "Through"
 msgstr "Continu"
 
+#. 5gHj
 #: attrdesc.src#STR_SURROUND_PARALLEL.string.text
 msgid "Parallel wrap"
 msgstr "Ajustament paral·lel"
 
+#. nXux
 #: attrdesc.src#STR_SURROUND_COLUMN.string.text
 msgid "Column Wrap"
 msgstr "Ajustament a columna"
 
+#. wkaI
 #: attrdesc.src#STR_SURROUND_LEFT.string.text
 msgid "Left wrap"
 msgstr "Ajustament esquerre"
 
+#. D8n0
 #: attrdesc.src#STR_SURROUND_RIGHT.string.text
 msgid "Right wrap"
 msgstr "Ajustament dret"
 
+#. ruoB
 #: attrdesc.src#STR_SURROUND_INSIDE.string.text
 msgid "Inner wrap"
 msgstr "Ajustament interior"
 
+#. zjmn
 #: attrdesc.src#STR_SURROUND_OUTSIDE.string.text
 msgid "Outer wrap"
 msgstr "Ajustament exterior"
 
+#. 1KFX
 #: attrdesc.src#STR_SURROUND_ANCHORONLY.string.text
 msgid "(Anchor only)"
 msgstr "(Només àncora)"
 
+#. 3P1p
 #: attrdesc.src#STR_FRM_WIDTH.string.text
 msgid "Width:"
 msgstr "Amplada:"
 
+#. uvYt
 #: attrdesc.src#STR_FRM_FIXEDHEIGHT.string.text
 msgid "Fixed height:"
 msgstr "Alçada fixa:"
 
+#. uDjf
 #: attrdesc.src#STR_FRM_MINHEIGHT.string.text
 msgid "Min. height:"
 msgstr "Alçada mínima:"
 
+#. ulor
 #: attrdesc.src#STR_FLY_AT_PARA.string.text
 msgid "to paragraph"
 msgstr "al paràgraf"
 
+#. cnbw
 #: attrdesc.src#STR_FLY_AS_CHAR.string.text
 msgid "to character"
 msgstr "al caràcter"
 
+#. Qfla
 #: attrdesc.src#STR_FLY_AT_PAGE.string.text
 msgid "to page"
 msgstr "a la pàgina"
 
+#. dHT4
 #: attrdesc.src#STR_POS_X.string.text
 msgid "X Coordinate:"
 msgstr "Coordenada X:"
 
+#. m2JT
 #: attrdesc.src#STR_POS_Y.string.text
 msgid "Y Coordinate:"
 msgstr "Coordenada Y:"
 
+#. yTfi
 #: attrdesc.src#STR_VERT_TOP.string.text
 msgid "at top"
 msgstr "a la part superior"
 
+#. 5ljy
 #: attrdesc.src#STR_VERT_CENTER.string.text
 msgid "Centered vertically"
 msgstr "Centrat verticalment"
 
+#. w_X9
 #: attrdesc.src#STR_VERT_BOTTOM.string.text
 msgid "at bottom"
 msgstr "a la part inferior"
 
+#. d0As
 #: attrdesc.src#STR_LINE_TOP.string.text
 msgid "Top of line"
 msgstr "A dalt de la línia"
 
+#. g2wn
 #: attrdesc.src#STR_LINE_CENTER.string.text
 msgid "Line centered"
 msgstr "Centrat verticalment a la línia"
 
+#. LIs4
 #: attrdesc.src#STR_LINE_BOTTOM.string.text
 msgid "Bottom of line"
 msgstr "A sota de la línia"
 
+#. SxfQ
 #: attrdesc.src#STR_REGISTER_ON.string.text
 msgid "Register-true"
 msgstr "Conforme al registre"
 
+#. Z2Tv
 #: attrdesc.src#STR_REGISTER_OFF.string.text
 msgid "Not register-true"
 msgstr "No conforme al registre"
 
+#. hXyo
 #: attrdesc.src#STR_HORI_RIGHT.string.text
 msgid "at the right"
 msgstr "a la dreta"
 
+#. B8Ku
 #: attrdesc.src#STR_HORI_CENTER.string.text
 msgid "Centered horizontally"
 msgstr "Centrat horitzontalment"
 
+#. gVvm
 #: attrdesc.src#STR_HORI_LEFT.string.text
 msgid "at the left"
 msgstr "a l'esquerra"
 
+#. wrYV
 #: attrdesc.src#STR_HORI_INSIDE.string.text
 msgid "inside"
 msgstr "dins"
 
+#. TNkd
 #: attrdesc.src#STR_HORI_OUTSIDE.string.text
 msgid "outside"
 msgstr "fora"
 
+#. #Tsm
 #: attrdesc.src#STR_HORI_FULL.string.text
 msgid "Full width"
 msgstr "Amplada completa"
 
+#. rkPo
 #: attrdesc.src#STR_COLUMNS.string.text
 msgid "Columns"
 msgstr "Columnes"
 
+#. Eg34
 #: attrdesc.src#STR_LINE_WIDTH.string.text
 msgid "Separator Width:"
 msgstr "Amplada del separador:"
 
+#. YDsF
 #: attrdesc.src#STR_MAX_FTN_HEIGHT.string.text
 msgid "Max. footnote area:"
 msgstr "Àrea màx. de la nota al peu:"
 
+#. FFPv
 #: attrdesc.src#STR_EDIT_IN_READONLY.string.text
 msgid "Editable in read-only document"
 msgstr "Es pot editar en documents només de lectura"
 
+#. eOcN
 #: attrdesc.src#STR_LAYOUT_SPLIT.string.text
 msgid "Split"
 msgstr "Divideix"
 
+#. P1uK
 #: attrdesc.src#STR_NUMRULE_ON.string.text
 msgid "Numbering"
 msgstr "Numeració"
 
+#. 1SG5
 #: attrdesc.src#STR_NUMRULE_OFF.string.text
 msgid "no numbering"
 msgstr "sense numeració"
 
+#. QBGA
 #: attrdesc.src#STR_CONNECT1.string.text
 msgid "linked to "
 msgstr "enllaçat a "
 
+#. Z#2X
 #: attrdesc.src#STR_CONNECT2.string.text
 msgid "and "
 msgstr "i "
 
+#. 1qeV
 #: attrdesc.src#STR_LINECOUNT.string.text
 msgid "Count lines"
 msgstr "Compta les línies"
 
+#. fUKU
 #: attrdesc.src#STR_DONTLINECOUNT.string.text
 msgid "don't count lines"
 msgstr "no comptis les línies"
 
+#. tmAa
 #: attrdesc.src#STR_LINCOUNT_START.string.text
 msgid "restart line count with: "
 msgstr "inicia de nou el recompte de línies amb: "
 
+#. FJBx
 #: attrdesc.src#STR_LUMINANCE.string.text
 msgid "Brightness: "
 msgstr "Lluminositat: "
 
+#. C6od
 #: attrdesc.src#STR_CHANNELR.string.text
 msgid "Red: "
 msgstr "Roig: "
 
+#. WHMk
 #: attrdesc.src#STR_CHANNELG.string.text
 msgid "Green: "
 msgstr "Verd: "
 
+#. Gy5o
 #: attrdesc.src#STR_CHANNELB.string.text
 msgid "Blue: "
 msgstr "Blau: "
 
+#. PdZk
 #: attrdesc.src#STR_CONTRAST.string.text
 msgid "Contrast: "
 msgstr "Contrast: "
 
+#. S7iI
 #: attrdesc.src#STR_GAMMA.string.text
 msgid "Gamma: "
 msgstr "Gamma: "
 
+#. 35j6
 #: attrdesc.src#STR_TRANSPARENCY.string.text
 msgid "Transparency: "
 msgstr "Transparència: "
 
+#. q95d
 #: attrdesc.src#STR_INVERT.string.text
 msgid "Invert"
 msgstr "Inverteix"
 
+#. 8ONk
 #: attrdesc.src#STR_INVERT_NOT.string.text
 msgid "do not invert"
 msgstr "no invertisques"
 
+#. Z5w5
 #: attrdesc.src#STR_DRAWMODE.string.text
 msgid "Graphics mode: "
 msgstr "Mode gràfic: "
 
+#. 1mYP
 #: attrdesc.src#STR_DRAWMODE_STD.string.text
 msgid "Standard"
 msgstr "Estàndard"
 
+#. ddvi
 #: attrdesc.src#STR_DRAWMODE_GREY.string.text
 msgid "Grayscales"
 msgstr "Escala de grisos"
 
+#. yg_e
 #: attrdesc.src#STR_DRAWMODE_BLACKWHITE.string.text
 msgid "Black & White"
 msgstr "Blanc i negre"
 
+#. P2zn
 #: attrdesc.src#STR_DRAWMODE_WATERMARK.string.text
 msgctxt "attrdesc.src#STR_DRAWMODE_WATERMARK.string.text"
 msgid "Watermark"
 msgstr "Filigrana"
 
+#. MsFm
 #: attrdesc.src#STR_ROTATION.string.text
 msgid "Rotation"
 msgstr "Gir"
 
+#. dGLV
 #: attrdesc.src#STR_GRID_NONE.string.text
 msgid "No grid"
 msgstr "Sense graella"
 
+#. EMMo
 #: attrdesc.src#STR_GRID_LINES_ONLY.string.text
 msgid "Grid (lines only)"
 msgstr "Graella (només línies)"
 
+#. y2g6
 #: attrdesc.src#STR_GRID_LINES_CHARS.string.text
 msgid "Grid (lines and characters)"
 msgstr "Graella (línies i caràcters)"
 
+#. wwDA
 #: attrdesc.src#STR_FOLLOW_TEXT_FLOW.string.text
 msgid "Follow text flow"
 msgstr "Segueix el flux del text"
 
+#. kXb5
 #: attrdesc.src#STR_DONT_FOLLOW_TEXT_FLOW.string.text
 msgid "Do not follow text flow"
 msgstr "No seguisques el flux del text"
 
+#. Rq1D
 #: attrdesc.src#STR_CONNECT_BORDER_ON.string.text
 msgid "Merge borders"
 msgstr "Fusiona les vores"
 
+#. jWa0
 #: attrdesc.src#STR_CONNECT_BORDER_OFF.string.text
 msgid "Do not merge borders"
 msgstr "No fusionis les vores"
 
+#. rN3v
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_DEL_EMPTY_PARA_1.string.text
 msgid "Remove empty paragraphs"
 msgstr "Elimina els paràgrafs buits"
 
+#. i8d4
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_USE_REPLACE_1.string.text
 msgid "Use replacement table"
 msgstr "Utilitza la taula de reemplaçament"
 
+#. WNdv
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_CPTL_STT_WORD_1.string.text
 msgid "Correct TWo INitial CApitals"
 msgstr "Corregeix DUes MAjúscules al COmençament de PAraula"
 
+#. jZ8k
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_CPTL_STT_SENT_1.string.text
 msgid "Capitalize first letter of sentences"
 msgstr "Escriu en majúscula la primera lletra de cada frase"
 
+#. sxub
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_TYPO_1.string.text
 msgid "Replace \"standard\" quotes with %1 \\bcustom%2 quotes"
-msgstr "Reemplaça les cometes \"estàndard\" per cometes %1 \\bpersonalitzades%2"
+msgstr ""
+"Reemplaça les cometes \"estàndard\" per cometes %1 \\bpersonalitzades%2"
 
+#. 2yxX
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_USER_STYLE_1.string.text
 msgid "Replace Custom Styles"
 msgstr "Reemplaça els estils personalitzats"
 
+#. B_P#
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_BULLET_1.string.text
 msgid "Bullets replaced"
 msgstr "S'han reemplaçat els pics"
 
+#. T5wn
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_UNDER_1.string.text
 msgid "Automatic _underline_"
 msgstr "_Subratllat_ automàtic"
 
+#. LfMR
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_BOLD_1.string.text
 msgid "Automatic *bold*"
 msgstr "*Negreta* automàtica"
 
+#. p4tG
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_FRACTION_1.string.text
 msgid "Replace 1/2 ... with ½ ..."
 msgstr "Reemplaça 1/2... per ½..."
 
+#. GNYE
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_DETECT_URL_1.string.text
 msgid "URL recognition"
 msgstr "Reconeixement d'URL"
 
+#. Nebh
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_DASH_1.string.text
 msgid "Replace dashes"
 msgstr "Reemplaça els guions"
 
+#. Gjy9
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_ORDINAL_1.string.text
 msgid "Replace 1st... with 1^st..."
 msgstr "Converteix els ordinals en superíndexs"
 
+#. HJca
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_RIGHT_MARGIN_1.string.text
 msgid "Combine single line paragraphs"
 msgstr "Combina els paràgrafs d'una sola línia"
 
+#. U5uY
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_SET_TMPL_TEXT__1.string.text
 msgid "Set \"Text body\" Style"
 msgstr "Defineix l'estil \"Cos del text\""
 
+#. IdaI
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_SET_TMPL_INDENT___1.string.text
-msgctxt "utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_SET_TMPL_INDENT___1.string.text"
+msgctxt ""
+"utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_SET_TMPL_INDENT___1."
+"string.text"
 msgid "Set \"Text body indent\" Style"
 msgstr "Estableix l'estil \"Sagnat del cos de text\""
 
+#. hm07
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_SET_TMPL_NEG_INDENT___1.string.text
 msgid "Set \"Hanging indent\" Style"
 msgstr "Defineix l'estil \"Sagnat negatiu\""
 
+#. l299
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_SET_TMPL_TEXT_INDENT__1.string.text
-msgctxt "utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_SET_TMPL_TEXT_INDENT__1.string.text"
+msgctxt ""
+"utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_SET_TMPL_TEXT_INDENT__1."
+"string.text"
 msgid "Set \"Text body indent\" Style"
 msgstr "Estableix l'estil \"Sagnat del cos de text\""
 
+#. uvQW
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_SET_TMPL_HEADLINE__1.string.text
 msgid "Set \"Heading $(ARG1)\" Style"
 msgstr "Defineix l'estil \"Encapçalament $(ARG1)\""
 
+#. zSKs
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_SET_NUMBULET__1.string.text
 msgid "Set \"Bullet\" or \"Numbering\" Style"
 msgstr "Defineix l'estil \"Pics\" o \"Numeració\""
 
+#. 2hm0
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_DEL_MORELINES__1.string.text
 msgid "Combine paragraphs"
 msgstr "Combina els paràgrafs"
 
+#. 93iu
 #: utlui.src#RID_SHELLRES_AUTOFMTSTRS.STR_AUTOFMTREDL_NON_BREAK_SPACE__1.string.text
 msgid "Add non breaking space"
 msgstr "Afig un espai no separable"
 
+#. #4vg
 #: utlui.src#STR_EVENT_OBJECT_SELECT.string.text
 msgid "Click object"
 msgstr "Feu clic a l'objecte"
 
+#. 6Apa
 #: utlui.src#STR_EVENT_START_INS_GLOSSARY.string.text
 msgid "Before inserting AutoText"
 msgstr "Abans d'inserir el text automàtic"
 
+#. fzv6
 #: utlui.src#STR_EVENT_END_INS_GLOSSARY.string.text
 msgid "After inserting AutoText"
 msgstr "Després d'inserir el text automàtic"
 
+#. HSN6
 #: utlui.src#STR_EVENT_MOUSEOVER_OBJECT.string.text
 msgid "Mouse over object"
 msgstr "Ratolí sobre l'objecte"
 
+#. KIKp
 #: utlui.src#STR_EVENT_MOUSECLICK_OBJECT.string.text
 msgid "Trigger hyperlink"
 msgstr "Activa l'enllaç"
 
+#. GYTq
 #: utlui.src#STR_EVENT_MOUSEOUT_OBJECT.string.text
 msgid "Mouse leaves object"
 msgstr "El ratolí deixa l'objecte"
 
+#. Ka34
 #: utlui.src#STR_EVENT_IMAGE_LOAD.string.text
 msgid "Graphics load successful"
 msgstr "Els gràfics s'han carregat correctament."
 
+#. WusA
 #: utlui.src#STR_EVENT_IMAGE_ABORT.string.text
 msgid "Graphics load terminated"
 msgstr "S'ha interromput la càrrega dels gràfics."
 
+#. Bctg
 #: utlui.src#STR_EVENT_IMAGE_ERROR.string.text
 msgid "Graphics load faulty"
 msgstr "Els gràfics s'han carregat malament."
 
+#. Q3Nl
 #: utlui.src#STR_EVENT_FRM_KEYINPUT_A.string.text
 msgid "Input of alphanumeric characters"
 msgstr "Entrada de caràcters alfanumèrics"
 
+#. Q9bV
 #: utlui.src#STR_EVENT_FRM_KEYINPUT_NOA.string.text
 msgid "Input of non-alphanumeric characters"
 msgstr "Entrada de caràcters no alfanumèrics"
 
+#. 3g59
 #: utlui.src#STR_EVENT_FRM_RESIZE.string.text
 msgid "Resize frame"
 msgstr "Canvia la mida del marc"
 
+#. kucD
 #: utlui.src#STR_EVENT_FRM_MOVE.string.text
 msgid "Move frame"
 msgstr "Mou el marc"
 
+#. pIms
 #: utlui.src#STR_CONTENT_TYPE_OUTLINE.string.text
 msgid "Headings"
 msgstr "Encapçalaments"
 
+#. RCjC
 #: utlui.src#STR_CONTENT_TYPE_TABLE.string.text
 msgid "Tables"
 msgstr "Taules"
 
+#. V7wX
 #: utlui.src#STR_CONTENT_TYPE_FRAME.string.text
 msgid "Text frames"
 msgstr "Marcs de text"
 
+#. xeFE
 #: utlui.src#STR_CONTENT_TYPE_GRAPHIC.string.text
 msgctxt "utlui.src#STR_CONTENT_TYPE_GRAPHIC.string.text"
 msgid "Graphics"
 msgstr "Gràfics"
 
+#. Jjkf
 #: utlui.src#STR_CONTENT_TYPE_OLE.string.text
 msgid "OLE objects"
 msgstr "Objectes OLE"
 
+#. bieh
 #: utlui.src#STR_CONTENT_TYPE_BOOKMARK.string.text
 msgid "Bookmarks"
 msgstr "Adreces d'interés"
 
+#. bmM7
 #: utlui.src#STR_CONTENT_TYPE_REGION.string.text
 msgid "Sections"
 msgstr "Seccions"
 
+#. TJbB
 #: utlui.src#STR_CONTENT_TYPE_URLFIELD.string.text
 msgid "Hyperlinks"
 msgstr "Enllaços"
 
+#. WI4#
 #: utlui.src#STR_CONTENT_TYPE_REFERENCE.string.text
 msgid "References"
 msgstr "Referències"
 
+#. Uhnu
 #: utlui.src#STR_CONTENT_TYPE_INDEX.string.text
 msgctxt "utlui.src#STR_CONTENT_TYPE_INDEX.string.text"
 msgid "Indexes"
 msgstr "Índexs"
 
+#. u4ZP
 #: utlui.src#STR_CONTENT_TYPE_DRAWOBJECT.string.text
 msgid "Draw objects"
 msgstr "Objectes de dibuix"
 
+#. dLKH
 #: utlui.src#STR_CONTENT_TYPE_POSTIT.string.text
 msgctxt "utlui.src#STR_CONTENT_TYPE_POSTIT.string.text"
 msgid "Comments"
 msgstr "Comentaris"
 
+#. RUWU
 #: utlui.src#STR_CONTENT_TYPE_SINGLE_OUTLINE.string.text
 msgctxt "utlui.src#STR_CONTENT_TYPE_SINGLE_OUTLINE.string.text"
 msgid "Heading"
 msgstr "Encapçalament"
 
+#. CMHv
 #: utlui.src#STR_CONTENT_TYPE_SINGLE_TABLE.string.text
 msgctxt "utlui.src#STR_CONTENT_TYPE_SINGLE_TABLE.string.text"
 msgid "Table"
 msgstr "Taula"
 
+#. 8T6K
 #: utlui.src#STR_CONTENT_TYPE_SINGLE_FRAME.string.text
 msgid "Text frame"
 msgstr "Marc de text"
 
+#. JaVc
 #: utlui.src#STR_CONTENT_TYPE_SINGLE_GRAPHIC.string.text
 msgctxt "utlui.src#STR_CONTENT_TYPE_SINGLE_GRAPHIC.string.text"
 msgid "Graphics"
 msgstr "Gràfics"
 
+#. bNj5
 #: utlui.src#STR_CONTENT_TYPE_SINGLE_OLE.string.text
 msgid "OLE object"
 msgstr "Objecte OLE"
 
+#. Jc75
 #: utlui.src#STR_CONTENT_TYPE_SINGLE_BOOKMARK.string.text
 msgid "Bookmark"
 msgstr "Adreça d'interés"
 
+#. Dxog
 #: utlui.src#STR_CONTENT_TYPE_SINGLE_REGION.string.text
 msgid "Section"
 msgstr "Secció"
 
+#. hPAb
 #: utlui.src#STR_CONTENT_TYPE_SINGLE_URLFIELD.string.text
 msgid "Hyperlink"
 msgstr "Enllaç"
 
+#. Gvts
 #: utlui.src#STR_CONTENT_TYPE_SINGLE_REFERENCE.string.text
 msgid "Reference"
 msgstr "Referència"
 
+#. 9nDD
 #: utlui.src#STR_CONTENT_TYPE_SINGLE_INDEX.string.text
 msgctxt "utlui.src#STR_CONTENT_TYPE_SINGLE_INDEX.string.text"
 msgid "Index"
 msgstr "Índex"
 
+#. FUmy
 #: utlui.src#STR_CONTENT_TYPE_SINGLE_POSTIT.string.text
 msgid "Comment"
 msgstr "Comentaris"
 
+#. da8N
 #: utlui.src#STR_CONTENT_TYPE_SINGLE_DRAWOBJECT.string.text
 msgid "Draw object"
 msgstr "Objecte de dibuix"
 
+#. PTMr
 #: utlui.src#STR_DEFINE_NUMBERFORMAT.string.text
 msgid "Additional formats..."
 msgstr "Formats addicionals..."
 
+#. LjMy
 #: utlui.src#RID_STR_SYSTEM.string.text
 msgid "[System]"
 msgstr "[Sistema]"
 
+#. S5Zo
 #: utlui.src#STR_MULT_INTERACT_SPELL_WARN.string.text
 msgid ""
 "The interactive spellcheck is already active\n"
@@ -1247,6 +1549,7 @@ msgstr ""
 "El verificador ortogràfic interactiu ja és actiu\n"
 "en un altre document"
 
+#. COMP
 #: utlui.src#STR_MULT_INTERACT_HYPH_WARN.string.text
 msgid ""
 "The interactive hyphenation is already active\n"
@@ -1255,812 +1558,1035 @@ msgstr ""
 "La partició de mots interactiva ja és activa\n"
 "en un altre document"
 
+#. WZk9
 #: utlui.src#STR_SPELL_TITLE.string.text
 msgid "Spellcheck"
 msgstr "Verificació ortogràfica"
 
+#. xKMJ
 #: utlui.src#STR_HYPH_TITLE.string.text
 msgid "Hyphenation"
 msgstr "Partició de mots"
 
+#. iQZz
 #: utlui.src#STR_HYPERCTRL_SEL.string.text
 msgid "SEL"
 msgstr "SEL"
 
+#. Uk0s
 #: utlui.src#STR_HYPERCTRL_HYP.string.text
 msgid "HYP"
 msgstr "ENLL"
 
+#. iIzi
 #: gloslst.src#DLG_GLOSSARY_DECIDE_DLG.FL_GLOSS.fixedline.text
 msgid "AutoText - Group"
 msgstr "Text automàtic - Grup"
 
+#. hbZx
 #: gloslst.src#DLG_GLOSSARY_DECIDE_DLG.modaldialog.text
 msgid "Select AutoText:"
 msgstr "Selecciona el text automàtic:"
 
+#. JDZ2
 #: poolfmt.src#STR_POOLCHR_FOOTNOTE.string.text
 msgid "Footnote Characters"
 msgstr "Caràcters de nota al peu"
 
+#. h28E
 #: poolfmt.src#STR_POOLCHR_PAGENO.string.text
 msgid "Page Number"
 msgstr "Número de pàgina"
 
+#. sXv3
 #: poolfmt.src#STR_POOLCHR_LABEL.string.text
 msgid "Caption Characters"
 msgstr "Caràcters de llegenda"
 
+#. umGw
 #: poolfmt.src#STR_POOLCHR_DROPCAPS.string.text
 msgid "Drop Caps"
 msgstr "Inicials destacades"
 
+#. ZZ2p
 #: poolfmt.src#STR_POOLCHR_NUM_LEVEL.string.text
 msgid "Numbering Symbols"
 msgstr "Símbols de numeració"
 
+#. zIYS
 #: poolfmt.src#STR_POOLCHR_BUL_LEVEL.string.text
 msgid "Bullets"
 msgstr "Pics"
 
+#. 13gi
 #: poolfmt.src#STR_POOLCHR_INET_NORMAL.string.text
 msgid "Internet Link"
 msgstr "Enllaç d'Internet"
 
+#. xJ3b
 #: poolfmt.src#STR_POOLCHR_INET_VISIT.string.text
 msgid "Visited Internet Link"
 msgstr "Enllaç d'Internet visitat"
 
+#. TSeX
 #: poolfmt.src#STR_POOLCHR_JUMPEDIT.string.text
 msgid "Placeholder"
 msgstr "Espai reservat"
 
+#. N30l
 #: poolfmt.src#STR_POOLCHR_TOXJUMP.string.text
 msgid "Index Link"
 msgstr "Enllaç de l'índex"
 
+#. tmJW
 #: poolfmt.src#STR_POOLCHR_ENDNOTE.string.text
 msgid "Endnote Characters"
 msgstr "Caràcters de nota final"
 
+#. JQUM
 #: poolfmt.src#STR_POOLPAGE_LANDSCAPE.string.text
 msgid "Landscape"
 msgstr "Horitzontal"
 
+#. 3xYQ
 #: poolfmt.src#STR_POOLCHR_LINENUM.string.text
 msgid "Line numbering"
 msgstr "Numeració de línies"
 
+#. HuEc
 #: poolfmt.src#STR_POOLCHR_IDX_MAIN_ENTRY.string.text
 msgid "Main index entry"
 msgstr "Entrada principal de l'índex"
 
+#. FuzQ
 #: poolfmt.src#STR_POOLCHR_FOOTNOTE_ANCHOR.string.text
 msgid "Footnote anchor"
 msgstr "Àncora de nota al peu"
 
+#. 62cv
 #: poolfmt.src#STR_POOLCHR_ENDNOTE_ANCHOR.string.text
 msgid "Endnote anchor"
 msgstr "Àncora de nota final"
 
+#. dWkY
 #: poolfmt.src#STR_POOLCHR_HTML_EMPHASIS.string.text
 msgid "Emphasis"
 msgstr "Èmfasi"
 
+#. 0rHF
 #: poolfmt.src#STR_POOLCHR_HTML_CITIATION.string.text
 msgid "Quotation"
 msgstr "Citació"
 
+#. _80S
 #: poolfmt.src#STR_POOLCHR_HTML_STRONG.string.text
 msgid "Strong Emphasis"
 msgstr "Èmfasi fort"
 
+#. 4nxD
 #: poolfmt.src#STR_POOLCHR_HTML_CODE.string.text
 msgid "Source Text"
 msgstr "Text font"
 
+#. NjBa
 #: poolfmt.src#STR_POOLCHR_HTML_SAMPLE.string.text
 msgid "Example"
 msgstr "Exemple"
 
+#. TLl3
 #: poolfmt.src#STR_POOLCHR_HTML_KEYBOARD.string.text
 msgid "User Entry"
 msgstr "Entrada d'usuari"
 
+#. S#SU
 #: poolfmt.src#STR_POOLCHR_HTML_VARIABLE.string.text
 msgid "Variable"
 msgstr "Variable"
 
+#. mkVw
 #: poolfmt.src#STR_POOLCHR_HTML_DEFINSTANCE.string.text
 msgid "Definition"
 msgstr "Definició"
 
+#. eYVH
 #: poolfmt.src#STR_POOLCHR_HTML_TELETYPE.string.text
 msgid "Teletype"
 msgstr "Teletip"
 
+#. DZ#Z
 #: poolfmt.src#STR_POOLFRM_FRAME.string.text
 msgid "Frame"
 msgstr "Marc"
 
+#. TU7B
 #: poolfmt.src#STR_POOLFRM_GRAPHIC.string.text
 msgctxt "poolfmt.src#STR_POOLFRM_GRAPHIC.string.text"
 msgid "Graphics"
 msgstr "Gràfics"
 
+#. dvmN
 #: poolfmt.src#STR_POOLFRM_OLE.string.text
 msgid "OLE"
 msgstr "OLE"
 
+#. ry2W
 #: poolfmt.src#STR_POOLFRM_FORMEL.string.text
 msgid "Formula"
 msgstr "Fórmula"
 
+#. 31pb
 #: poolfmt.src#STR_POOLFRM_MARGINAL.string.text
 msgctxt "poolfmt.src#STR_POOLFRM_MARGINAL.string.text"
 msgid "Marginalia"
 msgstr "Nota al marge"
 
+#. R_QV
 #: poolfmt.src#STR_POOLFRM_WATERSIGN.string.text
 msgctxt "poolfmt.src#STR_POOLFRM_WATERSIGN.string.text"
 msgid "Watermark"
 msgstr "Filigrana"
 
+#. W_CJ
 #: poolfmt.src#STR_POOLFRM_LABEL.string.text
 msgid "Labels"
 msgstr "Etiquetes"
 
+#. dPSt
 #: poolfmt.src#STR_POOLCOLL_STANDARD.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_STANDARD.string.text"
 msgid "Default"
 msgstr "Per defecte"
 
+#. Miex
 #: poolfmt.src#STR_POOLCOLL_TEXT.string.text
 msgid "Text body"
 msgstr "Cos del text"
 
+#. t3ua
 #: poolfmt.src#STR_POOLCOLL_TEXT_IDENT.string.text
 msgid "First line indent"
 msgstr "Sagnat de primera línia"
 
+#. 4R9Y
 #: poolfmt.src#STR_POOLCOLL_TEXT_NEGIDENT.string.text
 msgid "Hanging indent"
 msgstr "Sagnat negatiu"
 
+#. 6sAn
 #: poolfmt.src#STR_POOLCOLL_TEXT_MOVE.string.text
 msgid "Text body indent"
 msgstr "Sagnat del cos del text"
 
+#. iqEE
 #: poolfmt.src#STR_POOLCOLL_GREETING.string.text
 msgid "Complimentary close"
 msgstr "Tancament complementari"
 
+#. g5uP
 #: poolfmt.src#STR_POOLCOLL_SIGNATURE.string.text
 msgid "Signature"
 msgstr "Signatura"
 
+#. T6m9
 #: poolfmt.src#STR_POOLCOLL_HEADLINE_BASE.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_HEADLINE_BASE.string.text"
 msgid "Heading"
 msgstr "Encapçalament"
 
+#. T9RE
 #: poolfmt.src#STR_POOLCOLL_NUMBUL_BASE.string.text
 msgid "List"
 msgstr "Llista"
 
+#. u#ys
 #: poolfmt.src#STR_POOLCOLL_REGISTER_BASE.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_REGISTER_BASE.string.text"
 msgid "Index"
 msgstr "Índex"
 
+#. nW1q
 #: poolfmt.src#STR_POOLCOLL_CONFRONTATION.string.text
 msgid "List Indent"
 msgstr "Sagnat de la llista"
 
+#. 0Hp5
 #: poolfmt.src#STR_POOLCOLL_MARGINAL.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_MARGINAL.string.text"
 msgid "Marginalia"
 msgstr "Nota al marge"
 
+#. 6FTm
 #: poolfmt.src#STR_POOLCOLL_HEADLINE1.string.text
 msgid "Heading 1"
 msgstr "Encapçalament 1"
 
+#. _wFR
 #: poolfmt.src#STR_POOLCOLL_HEADLINE2.string.text
 msgid "Heading 2"
 msgstr "Encapçalament 2"
 
+#. ef12
 #: poolfmt.src#STR_POOLCOLL_HEADLINE3.string.text
 msgid "Heading 3"
 msgstr "Encapçalament 3"
 
+#. sYEi
 #: poolfmt.src#STR_POOLCOLL_HEADLINE4.string.text
 msgid "Heading 4"
 msgstr "Encapçalament 4"
 
+#. Xn0r
 #: poolfmt.src#STR_POOLCOLL_HEADLINE5.string.text
 msgid "Heading 5"
 msgstr "Encapçalament 5"
 
+#. O4IU
 #: poolfmt.src#STR_POOLCOLL_HEADLINE6.string.text
 msgid "Heading 6"
 msgstr "Encapçalament 6"
 
+#. FNS7
 #: poolfmt.src#STR_POOLCOLL_HEADLINE7.string.text
 msgid "Heading 7"
 msgstr "Encapçalament 7"
 
+#. VXeZ
 #: poolfmt.src#STR_POOLCOLL_HEADLINE8.string.text
 msgid "Heading 8"
 msgstr "Encapçalament 8"
 
+#. 8ocw
 #: poolfmt.src#STR_POOLCOLL_HEADLINE9.string.text
 msgid "Heading 9"
 msgstr "Encapçalament 9"
 
+#. X0ks
 #: poolfmt.src#STR_POOLCOLL_HEADLINE10.string.text
 msgid "Heading 10"
 msgstr "Encapçalament 10"
 
+#. Hkn#
 #: poolfmt.src#STR_POOLCOLL_NUM_LEVEL1S.string.text
 msgid "Numbering 1 Start"
 msgstr "Inici de la numeració 1"
 
+#. kPFz
 #: poolfmt.src#STR_POOLCOLL_NUM_LEVEL1.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_NUM_LEVEL1.string.text"
 msgid "Numbering 1"
 msgstr "Numeració 1"
 
+#. 4C7S
 #: poolfmt.src#STR_POOLCOLL_NUM_LEVEL1E.string.text
 msgid "Numbering 1 End"
 msgstr "Final de la numeració 1"
 
+#. Q1Dy
 #: poolfmt.src#STR_POOLCOLL_NUM_NONUM1.string.text
 msgid "Numbering 1 Cont."
 msgstr "Continuació de la numeració 1"
 
+#. __TN
 #: poolfmt.src#STR_POOLCOLL_NUM_LEVEL2S.string.text
 msgid "Numbering 2 Start"
 msgstr "Inici de la numeració 2"
 
+#. NiTM
 #: poolfmt.src#STR_POOLCOLL_NUM_LEVEL2.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_NUM_LEVEL2.string.text"
 msgid "Numbering 2"
 msgstr "Numeració 2"
 
+#. gThr
 #: poolfmt.src#STR_POOLCOLL_NUM_LEVEL2E.string.text
 msgid "Numbering 2 End"
 msgstr "Final de la numeració 2"
 
+#. ZqVN
 #: poolfmt.src#STR_POOLCOLL_NUM_NONUM2.string.text
 msgid "Numbering 2 Cont."
 msgstr "Continuació de la numeració 2"
 
+#. bmvF
 #: poolfmt.src#STR_POOLCOLL_NUM_LEVEL3S.string.text
 msgid "Numbering 3 Start"
 msgstr "Inici de la numeració 3"
 
+#. 0_JF
 #: poolfmt.src#STR_POOLCOLL_NUM_LEVEL3.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_NUM_LEVEL3.string.text"
 msgid "Numbering 3"
 msgstr "Numeració 3"
 
+#. mIFj
 #: poolfmt.src#STR_POOLCOLL_NUM_LEVEL3E.string.text
 msgid "Numbering 3 End"
 msgstr "Final de la numeració 3"
 
+#. qdHE
 #: poolfmt.src#STR_POOLCOLL_NUM_NONUM3.string.text
 msgid "Numbering 3 Cont."
 msgstr "Continuació de la numeració 3"
 
+#. OlXb
 #: poolfmt.src#STR_POOLCOLL_NUM_LEVEL4S.string.text
 msgid "Numbering 4 Start"
 msgstr "Inici de la numeració 4"
 
+#. UqSX
 #: poolfmt.src#STR_POOLCOLL_NUM_LEVEL4.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_NUM_LEVEL4.string.text"
 msgid "Numbering 4"
 msgstr "Numeració 4"
 
+#. DDN7
 #: poolfmt.src#STR_POOLCOLL_NUM_LEVEL4E.string.text
 msgid "Numbering 4 End"
 msgstr "Final de la numeració 4"
 
+#. giUW
 #: poolfmt.src#STR_POOLCOLL_NUM_NONUM4.string.text
 msgid "Numbering 4 Cont."
 msgstr "Continuació de la numeració 4"
 
+#. 2W5z
 #: poolfmt.src#STR_POOLCOLL_NUM_LEVEL5S.string.text
 msgid "Numbering 5 Start"
 msgstr "Inici de la numeració 5"
 
+#. 9dIu
 #: poolfmt.src#STR_POOLCOLL_NUM_LEVEL5.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_NUM_LEVEL5.string.text"
 msgid "Numbering 5"
 msgstr "Numeració 5"
 
+#. N2pV
 #: poolfmt.src#STR_POOLCOLL_NUM_LEVEL5E.string.text
 msgid "Numbering 5 End"
 msgstr "Final de la numeració 5"
 
+#. z_Gv
 #: poolfmt.src#STR_POOLCOLL_NUM_NONUM5.string.text
 msgid "Numbering 5 Cont."
 msgstr "Continuació de la numeració 5"
 
+#. MkXR
 #: poolfmt.src#STR_POOLCOLL_BUL_LEVEL1S.string.text
 msgid "List 1 Start"
 msgstr "Inici de la llista 1"
 
+#. _9ik
 #: poolfmt.src#STR_POOLCOLL_BUL_LEVEL1.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_BUL_LEVEL1.string.text"
 msgid "List 1"
 msgstr "Llista 1"
 
+#. 3CNv
 #: poolfmt.src#STR_POOLCOLL_BUL_LEVEL1E.string.text
 msgid "List 1 End"
 msgstr "Fi de la llista 1"
 
+#. BHkl
 #: poolfmt.src#STR_POOLCOLL_BUL_NONUM1.string.text
 msgid "List 1 Cont."
 msgstr "Continuació de l'enumeració 1"
 
+#. u_Do
 #: poolfmt.src#STR_POOLCOLL_BUL_LEVEL2S.string.text
 msgid "List 2 Start"
 msgstr "Inici de la llista 2"
 
+#. 6y#5
 #: poolfmt.src#STR_POOLCOLL_BUL_LEVEL2.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_BUL_LEVEL2.string.text"
 msgid "List 2"
 msgstr "Llista 2"
 
+#. jTxG
 #: poolfmt.src#STR_POOLCOLL_BUL_LEVEL2E.string.text
 msgid "List 2 End"
 msgstr "Fi de la llista 2"
 
+#. oay4
 #: poolfmt.src#STR_POOLCOLL_BUL_NONUM2.string.text
 msgid "List 2 Cont."
 msgstr "Continuació de l'enumeració 2"
 
+#. Ymfg
 #: poolfmt.src#STR_POOLCOLL_BUL_LEVEL3S.string.text
 msgid "List 3 Start"
 msgstr "Inici de la llista 3"
 
+#. HlmS
 #: poolfmt.src#STR_POOLCOLL_BUL_LEVEL3.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_BUL_LEVEL3.string.text"
 msgid "List 3"
 msgstr "Llista 3"
 
+#. tIV8
 #: poolfmt.src#STR_POOLCOLL_BUL_LEVEL3E.string.text
 msgid "List 3 End"
 msgstr "Fi de la llista 3"
 
+#. btoT
 #: poolfmt.src#STR_POOLCOLL_BUL_NONUM3.string.text
 msgid "List 3 Cont."
 msgstr "Continuació de l'enumeració 3"
 
+#. Vln0
 #: poolfmt.src#STR_POOLCOLL_BUL_LEVEL4S.string.text
 msgid "List 4 Start"
 msgstr "Inici de la llista 4"
 
+#. Fa_o
 #: poolfmt.src#STR_POOLCOLL_BUL_LEVEL4.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_BUL_LEVEL4.string.text"
 msgid "List 4"
 msgstr "Llista 4"
 
+#. AD7Y
 #: poolfmt.src#STR_POOLCOLL_BUL_LEVEL4E.string.text
 msgid "List 4 End"
 msgstr "Fi de la llista 4"
 
+#. xyzp
 #: poolfmt.src#STR_POOLCOLL_BUL_NONUM4.string.text
 msgid "List 4 Cont."
 msgstr "Continuació de l'enumeració 4"
 
+#. 5WLO
 #: poolfmt.src#STR_POOLCOLL_BUL_LEVEL5S.string.text
 msgid "List 5 Start"
 msgstr "Inici de la llista 5"
 
+#. Otnh
 #: poolfmt.src#STR_POOLCOLL_BUL_LEVEL5.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_BUL_LEVEL5.string.text"
 msgid "List 5"
 msgstr "Llista 5"
 
+#. G2Zw
 #: poolfmt.src#STR_POOLCOLL_BUL_LEVEL5E.string.text
 msgid "List 5 End"
 msgstr "Fi de la llista 5"
 
+#. ilpg
 #: poolfmt.src#STR_POOLCOLL_BUL_NONUM5.string.text
 msgid "List 5 Cont."
 msgstr "Continuació de l'enumeració 5"
 
+#. EH38
 #: poolfmt.src#STR_POOLCOLL_HEADER.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_HEADER.string.text"
 msgid "Header"
 msgstr "Capçalera"
 
+#. 3IKW
 #: poolfmt.src#STR_POOLCOLL_HEADERL.string.text
 msgid "Header left"
 msgstr "Capçalera esquerra"
 
+#. ODP8
 #: poolfmt.src#STR_POOLCOLL_HEADERR.string.text
 msgid "Header right"
 msgstr "Capçalera dreta"
 
+#. aOtp
 #: poolfmt.src#STR_POOLCOLL_FOOTER.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_FOOTER.string.text"
 msgid "Footer"
 msgstr "Peu de pàgina"
 
+#. oK#s
 #: poolfmt.src#STR_POOLCOLL_FOOTERL.string.text
 msgid "Footer left"
 msgstr "Peu de pàgina esquerre"
 
+#. fBpU
 #: poolfmt.src#STR_POOLCOLL_FOOTERR.string.text
 msgid "Footer right"
 msgstr "Peu de pàgina dret"
 
+#. ANZV
 #: poolfmt.src#STR_POOLCOLL_TABLE.string.text
 msgid "Table Contents"
 msgstr "Contingut de la taula"
 
+#. Uz4z
 #: poolfmt.src#STR_POOLCOLL_TABLE_HDLN.string.text
 msgid "Table Heading"
 msgstr "Encapçalament de la taula"
 
+#. ESqo
 #: poolfmt.src#STR_POOLCOLL_FRAME.string.text
 msgid "Frame contents"
 msgstr "Contingut del marc"
 
+#. UauB
 #: poolfmt.src#STR_POOLCOLL_FOOTNOTE.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_FOOTNOTE.string.text"
 msgid "Footnote"
 msgstr "Nota al peu"
 
+#. ROI8
 #: poolfmt.src#STR_POOLCOLL_ENDNOTE.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_ENDNOTE.string.text"
 msgid "Endnote"
 msgstr "Nota final"
 
+#. Z062
 #: poolfmt.src#STR_POOLCOLL_LABEL.string.text
 msgid "Caption"
 msgstr "Llegenda"
 
+#. eAdp
 #: poolfmt.src#STR_POOLCOLL_LABEL_ABB.string.text
 msgid "Illustration"
 msgstr "Iŀlustració"
 
+#. _PBx
 #: poolfmt.src#STR_POOLCOLL_LABEL_TABLE.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_LABEL_TABLE.string.text"
 msgid "Table"
 msgstr "Taula"
 
+#. xISM
 #: poolfmt.src#STR_POOLCOLL_LABEL_FRAME.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_LABEL_FRAME.string.text"
 msgid "Text"
 msgstr "Text"
 
+#. 96Rl
 #: poolfmt.src#STR_POOLCOLL_LABEL_DRAWING.string.text
 msgid "Drawing"
 msgstr "Dibuix"
 
+#. Fl_c
 #: poolfmt.src#STR_POOLCOLL_JAKETADRESS.string.text
 msgid "Addressee"
 msgstr "Destinatari"
 
+#. iu0m
 #: poolfmt.src#STR_POOLCOLL_SENDADRESS.string.text
 msgid "Sender"
 msgstr "Remitent"
 
+#. WISv
 #: poolfmt.src#STR_POOLCOLL_TOX_IDXH.string.text
 msgid "Index Heading"
 msgstr "Encapçalament de l'índex"
 
+#. MeAY
 #: poolfmt.src#STR_POOLCOLL_TOX_IDX1.string.text
 msgid "Index 1"
 msgstr "Índex 1"
 
+#. lTO9
 #: poolfmt.src#STR_POOLCOLL_TOX_IDX2.string.text
 msgid "Index 2"
 msgstr "Índex 2"
 
+#. uEMG
 #: poolfmt.src#STR_POOLCOLL_TOX_IDX3.string.text
 msgid "Index 3"
 msgstr "Índex 3"
 
+#. dJAc
 #: poolfmt.src#STR_POOLCOLL_TOX_IDXBREAK.string.text
 msgid "Index Separator"
 msgstr "Separador de l'índex"
 
+#. PRvy
 #: poolfmt.src#STR_POOLCOLL_TOX_CNTNTH.string.text
 msgid "Contents Heading"
 msgstr "Encapçalament de continguts"
 
+#. lXld
 #: poolfmt.src#STR_POOLCOLL_TOX_CNTNT1.string.text
 msgid "Contents 1"
 msgstr "Continguts 1"
 
+#. MKzC
 #: poolfmt.src#STR_POOLCOLL_TOX_CNTNT2.string.text
 msgid "Contents 2"
 msgstr "Continguts 2"
 
+#. 17pL
 #: poolfmt.src#STR_POOLCOLL_TOX_CNTNT3.string.text
 msgid "Contents 3"
 msgstr "Continguts 3"
 
+#. VCyx
 #: poolfmt.src#STR_POOLCOLL_TOX_CNTNT4.string.text
 msgid "Contents 4"
 msgstr "Continguts 4"
 
+#. 8VoY
 #: poolfmt.src#STR_POOLCOLL_TOX_CNTNT5.string.text
 msgid "Contents 5"
 msgstr "Continguts 5"
 
+#. ngW9
 #: poolfmt.src#STR_POOLCOLL_TOX_CNTNT6.string.text
 msgid "Contents 6"
 msgstr "Continguts 6"
 
+#. cvkG
 #: poolfmt.src#STR_POOLCOLL_TOX_CNTNT7.string.text
 msgid "Contents 7"
 msgstr "Continguts 7"
 
+#. sFQq
 #: poolfmt.src#STR_POOLCOLL_TOX_CNTNT8.string.text
 msgid "Contents 8"
 msgstr "Continguts 8"
 
+#. XSKj
 #: poolfmt.src#STR_POOLCOLL_TOX_CNTNT9.string.text
 msgid "Contents 9"
 msgstr "Continguts 9"
 
+#. Kfr4
 #: poolfmt.src#STR_POOLCOLL_TOX_CNTNT10.string.text
 msgid "Contents 10"
 msgstr "Continguts 10"
 
+#. O#GX
 #: poolfmt.src#STR_POOLCOLL_TOX_USERH.string.text
 msgid "User Index Heading"
 msgstr "Encapçalament de l'índex d'usuari"
 
+#. k46w
 #: poolfmt.src#STR_POOLCOLL_TOX_USER1.string.text
 msgid "User Index 1"
 msgstr "Índex d'usuari 1"
 
+#. NnKH
 #: poolfmt.src#STR_POOLCOLL_TOX_USER2.string.text
 msgid "User Index 2"
 msgstr "Índex d'usuari 2"
 
+#. 0YQ8
 #: poolfmt.src#STR_POOLCOLL_TOX_USER3.string.text
 msgid "User Index 3"
 msgstr "Índex d'usuari 3"
 
+#. UfLc
 #: poolfmt.src#STR_POOLCOLL_TOX_USER4.string.text
 msgid "User Index 4"
 msgstr "Índex d'usuari 4"
 
+#. 9wR_
 #: poolfmt.src#STR_POOLCOLL_TOX_USER5.string.text
 msgid "User Index 5"
 msgstr "Índex d'usuari 5"
 
+#. mF9K
 #: poolfmt.src#STR_POOLCOLL_TOX_USER6.string.text
 msgid "User Index 6"
 msgstr "Índex d'usuari 6"
 
+#. dS7D
 #: poolfmt.src#STR_POOLCOLL_TOX_USER7.string.text
 msgid "User Index 7"
 msgstr "Índex d'usuari 7"
 
+#. tgpf
 #: poolfmt.src#STR_POOLCOLL_TOX_USER8.string.text
 msgid "User Index 8"
 msgstr "Índex d'usuari 8"
 
+#. Wvzm
 #: poolfmt.src#STR_POOLCOLL_TOX_USER9.string.text
 msgid "User Index 9"
 msgstr "Índex d'usuari 9"
 
+#. AGnG
 #: poolfmt.src#STR_POOLCOLL_TOX_USER10.string.text
 msgid "User Index 10"
 msgstr "Índex d'usuari 10"
 
+#. B0gM
 #: poolfmt.src#STR_POOLCOLL_TOX_ILLUSH.string.text
 msgid "Illustration Index Heading"
 msgstr "Encapçalament de l'índex d'il·lustracions"
 
+#. zwyD
 #: poolfmt.src#STR_POOLCOLL_TOX_ILLUS1.string.text
 msgid "Illustration Index 1"
 msgstr "Índex d'il·lustracions 1"
 
+#. ko63
 #: poolfmt.src#STR_POOLCOLL_TOX_OBJECTH.string.text
 msgid "Object index heading"
 msgstr "Encapçalament de l'índex d'objectes"
 
+#. O8GO
 #: poolfmt.src#STR_POOLCOLL_TOX_OBJECT1.string.text
 msgid "Object index 1"
 msgstr "Índex d'objectes 1"
 
+#. uZhS
 #: poolfmt.src#STR_POOLCOLL_TOX_TABLESH.string.text
 msgid "Table index heading"
 msgstr "Encapçalament de l'índex de taules"
 
+#. EPz7
 #: poolfmt.src#STR_POOLCOLL_TOX_TABLES1.string.text
 msgid "Table index 1"
 msgstr "Índex de taules 1"
 
+#. n84N
 #: poolfmt.src#STR_POOLCOLL_TOX_AUTHORITIESH.string.text
 msgid "Bibliography Heading"
 msgstr "Encapçalament de la bibliografia"
 
+#. 7oIC
 #: poolfmt.src#STR_POOLCOLL_TOX_AUTHORITIES1.string.text
 msgid "Bibliography 1"
 msgstr "Bibliografia 1"
 
+#. IUZt
 #: poolfmt.src#STR_POOLCOLL_DOC_TITEL.string.text
 msgctxt "poolfmt.src#STR_POOLCOLL_DOC_TITEL.string.text"
 msgid "Title"
 msgstr "Títol"
 
+#. Py9g
 #: poolfmt.src#STR_POOLCOLL_DOC_SUBTITEL.string.text
 msgid "Subtitle"
 msgstr "Subtítol"
 
+#. dMAg
 #: poolfmt.src#STR_POOLCOLL_HTML_BLOCKQUOTE.string.text
 msgid "Quotations"
 msgstr "Citacions"
 
+#. v2Eo
 #: poolfmt.src#STR_POOLCOLL_HTML_PRE.string.text
 msgid "Preformatted Text"
 msgstr "Text preformatat"
 
+#. DcIp
 #: poolfmt.src#STR_POOLCOLL_HTML_HR.string.text
 msgid "Horizontal Line"
 msgstr "Línia horitzontal"
 
+#. jMuL
 #: poolfmt.src#STR_POOLCOLL_HTML_DD.string.text
 msgid "List Contents"
 msgstr "Contingut de la llista"
 
+#. niF0
 #: poolfmt.src#STR_POOLCOLL_HTML_DT.string.text
 msgid "List Heading"
 msgstr "Encapçalament de la llista"
 
+#. ENVd
 #: poolfmt.src#STR_POOLPAGE_STANDARD.string.text
 msgctxt "poolfmt.src#STR_POOLPAGE_STANDARD.string.text"
 msgid "Default"
 msgstr "Per defecte"
 
+#. 6ngp
 #: poolfmt.src#STR_POOLPAGE_FIRST.string.text
 msgid "First Page"
 msgstr "Primera pàgina"
 
+#. ydr_
 #: poolfmt.src#STR_POOLPAGE_LEFT.string.text
 msgid "Left Page"
 msgstr "Pàgina esquerra"
 
+#. JRY_
 #: poolfmt.src#STR_POOLPAGE_RIGHT.string.text
 msgid "Right Page"
 msgstr "Pàgina dreta"
 
+#. WzQN
 #: poolfmt.src#STR_POOLPAGE_JAKET.string.text
 msgid "Envelope"
 msgstr "Sobre"
 
+#. SbNm
 #: poolfmt.src#STR_POOLPAGE_REGISTER.string.text
 msgctxt "poolfmt.src#STR_POOLPAGE_REGISTER.string.text"
 msgid "Index"
 msgstr "Índex"
 
+#. 2UMd
 #: poolfmt.src#STR_POOLPAGE_HTML.string.text
 msgid "HTML"
 msgstr "HTML"
 
+#. tgxR
 #: poolfmt.src#STR_POOLPAGE_FOOTNOTE.string.text
 msgctxt "poolfmt.src#STR_POOLPAGE_FOOTNOTE.string.text"
 msgid "Footnote"
 msgstr "Peu de pàgina"
 
+#. w#ze
 #: poolfmt.src#STR_POOLPAGE_ENDNOTE.string.text
 msgctxt "poolfmt.src#STR_POOLPAGE_ENDNOTE.string.text"
 msgid "Endnote"
 msgstr "Nota final"
 
+#. CnZq
 #: poolfmt.src#STR_POOLNUMRULE_NUM1.string.text
 msgctxt "poolfmt.src#STR_POOLNUMRULE_NUM1.string.text"
 msgid "Numbering 1"
 msgstr "Numeració 1"
 
+#. r4nV
 #: poolfmt.src#STR_POOLNUMRULE_NUM2.string.text
 msgctxt "poolfmt.src#STR_POOLNUMRULE_NUM2.string.text"
 msgid "Numbering 2"
 msgstr "Numeració 2"
 
+#. YN_6
 #: poolfmt.src#STR_POOLNUMRULE_NUM3.string.text
 msgctxt "poolfmt.src#STR_POOLNUMRULE_NUM3.string.text"
 msgid "Numbering 3"
 msgstr "Numeració 3"
 
+#. ySme
 #: poolfmt.src#STR_POOLNUMRULE_NUM4.string.text
 msgctxt "poolfmt.src#STR_POOLNUMRULE_NUM4.string.text"
 msgid "Numbering 4"
 msgstr "Numeració 4"
 
+#. hF#n
 #: poolfmt.src#STR_POOLNUMRULE_NUM5.string.text
 msgctxt "poolfmt.src#STR_POOLNUMRULE_NUM5.string.text"
 msgid "Numbering 5"
 msgstr "Numeració 5"
 
+#. bKpg
 #: poolfmt.src#STR_POOLNUMRULE_BUL1.string.text
 msgctxt "poolfmt.src#STR_POOLNUMRULE_BUL1.string.text"
 msgid "List 1"
 msgstr "Llista 1"
 
+#. SXX1
 #: poolfmt.src#STR_POOLNUMRULE_BUL2.string.text
 msgctxt "poolfmt.src#STR_POOLNUMRULE_BUL2.string.text"
 msgid "List 2"
 msgstr "Llista 2"
 
+#. BolO
 #: poolfmt.src#STR_POOLNUMRULE_BUL3.string.text
 msgctxt "poolfmt.src#STR_POOLNUMRULE_BUL3.string.text"
 msgid "List 3"
 msgstr "Llista 3"
 
+#. LvWs
 #: poolfmt.src#STR_POOLNUMRULE_BUL4.string.text
 msgctxt "poolfmt.src#STR_POOLNUMRULE_BUL4.string.text"
 msgid "List 4"
 msgstr "Llista 4"
 
+#. 2gkl
 #: poolfmt.src#STR_POOLNUMRULE_BUL5.string.text
 msgctxt "poolfmt.src#STR_POOLNUMRULE_BUL5.string.text"
 msgid "List 5"
 msgstr "Llista 5"
 
+#. Y5a_
 #: poolfmt.src#STR_POOLCHR_RUBYTEXT.string.text
 msgid "Rubies"
 msgstr "Símbols fonètics"
 
+#. bDlW
 #: poolfmt.src#STR_COLUMN_VALUESET_ITEM0.string.text
 msgid "1 column"
 msgstr "1 columna"
 
+#. oUXv
 #: poolfmt.src#STR_COLUMN_VALUESET_ITEM1.string.text
 msgid "2 columns with equal size"
 msgstr "2 columnes de mida igual"
 
+#. BhpI
 #: poolfmt.src#STR_COLUMN_VALUESET_ITEM2.string.text
 msgid "3 columns with equal size"
 msgstr "3 columnes de mida igual"
 
+#. SuzB
 #: poolfmt.src#STR_COLUMN_VALUESET_ITEM3.string.text
 msgid "2 columns with different size (left > right)"
 msgstr "2 columnes de mides diferents (esquerra > dreta)"
 
+#. 2pob
 #: poolfmt.src#STR_COLUMN_VALUESET_ITEM4.string.text
 msgid "2 columns with different size (left < right)"
 msgstr "2 columnes de mides diferents (esquerra < dreta)"
 
+#. U1vQ
 #: poolfmt.src#STR_POOLCHR_VERT_NUM.string.text
 msgid "Vertical Numbering Symbols"
 msgstr "Símbols de numeració verticals"
 
+#. ohBr
 #: unotools.src#DLG_RENAME_XNAMED.FT_NEW_NAME.fixedtext.text
 msgid "New name"
 msgstr "Nom nou"
 
+#. QwIk
 #: unotools.src#DLG_RENAME_XNAMED.FL_NAME.fixedline.text
 msgid "Change name"
 msgstr "Canvia el nom"
 
+#. EDRR
 #: unotools.src#DLG_RENAME_XNAMED.modaldialog.text
 msgid "Rename object: "
 msgstr "Reanomena l'objecte: "
 
+#. WC2F
 #: unotools.src#STR_SERVICE_UNAVAILABLE.string.text
 msgid "The following service is not available: "
 msgstr "El següent servei no està disponible: "
 
+#. psmo
 #: unotools.src#RES_FRMEX_MENU.1.1.itemlist.text
 msgid "~Zoom"
 msgstr "~Escala"
 
+#. IOSA
 #: unotools.src#RES_FRMEX_MENU.1.2.itemlist.text
 msgid "~Upwards"
 msgstr "~Cap amunt"
 
+#. aiRz
 #: unotools.src#RES_FRMEX_MENU.1.3.itemlist.text
 msgid "Do~wnwards"
 msgstr "Cap ~avall"
+
+#~ msgid "Numbering 1"
+#~ msgstr "Numeració 1"
+
+#~ msgid "Numbering 2"
+#~ msgstr "Numeració 2"
+
+#~ msgid "Numbering 3"
+#~ msgstr "Numeració 3"
+
+#~ msgid "Numbering 4"
+#~ msgstr "Numeració 4"
+
+#~ msgid "Numbering 5"
+#~ msgstr "Numeració 5"
+
+#~ msgid "List 1"
+#~ msgstr "Llista 1"
+
+#~ msgid "List 2"
+#~ msgstr "Llista 2"
+
+#~ msgid "List 3"
+#~ msgstr "Llista 3"
+
+#~ msgid "List 4"
+#~ msgstr "Llista 4"
+
+#~ msgid "List 5"
+#~ msgstr "Llista 5"

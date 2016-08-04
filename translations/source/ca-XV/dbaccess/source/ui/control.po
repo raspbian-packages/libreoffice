@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+dbaccess%2Fsource%2Fui%2Fcontrol.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+dbaccess%2Fsource%2Fui%2Fcontrol.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:43+0200\n"
 "PO-Revision-Date: 2011-04-05 19:11+0200\n"
 "Last-Translator: jmontane <joan@montane.cat>\n"
@@ -15,78 +17,104 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. u9BT
 #: undosqledit.src#STR_QUERY_UNDO_MODIFYSQLEDIT.string.text
 msgid "Modify SQL statement(s)"
 msgstr "Modifica les expressions SQL"
 
+#. 5GkN
 #: TableGrantCtrl.src#STR_TABLE_PRIV_NAME.string.text
 msgid "Table name"
 msgstr "Nom de la taula"
 
+#. QEcQ
 #: TableGrantCtrl.src#STR_TABLE_PRIV_INSERT.string.text
 msgid "Insert data"
 msgstr "Insereix les dades"
 
+#. 8jlL
 #: TableGrantCtrl.src#STR_TABLE_PRIV_DELETE.string.text
 msgid "Delete data"
 msgstr "Suprimeix les dades"
 
+#. aqi5
 #: TableGrantCtrl.src#STR_TABLE_PRIV_UPDATE.string.text
 msgid "Modify data"
 msgstr "Modifica les dades"
 
+#. eBid
 #: TableGrantCtrl.src#STR_TABLE_PRIV_ALTER.string.text
 msgid "Alter structure"
 msgstr "Modifica l'estructura"
 
+#. dyFJ
 #: TableGrantCtrl.src#STR_TABLE_PRIV_SELECT.string.text
 msgid "Read data"
 msgstr "Llig les dades"
 
+#. xYMC
 #: TableGrantCtrl.src#STR_TABLE_PRIV_REFERENCE.string.text
 msgid "Modify references"
 msgstr "Modifica les referències"
 
+#. emD#
 #: TableGrantCtrl.src#STR_TABLE_PRIV_DROP.string.text
 msgid "Drop structure"
 msgstr "Suprimeix l'estructura"
 
+#. 6aKe
 #: tabletree.src#MENU_TABLETREE_POPUP.MID_SORT_ASCENDING.menuitem.text
 msgid "Sort Ascending"
 msgstr "Orde ascendent"
 
+#. VAmF
 #: tabletree.src#MENU_TABLETREE_POPUP.MID_SORT_DECENDING.menuitem.text
 msgid "Sort Descending"
 msgstr "Orde descendent"
 
+#. lj0a
 #: tabletree.src#STR_COULDNOTCREATE_DRIVERMANAGER.string.text
 msgid "Cannot connect to the SDBC driver manager (#servicename#)."
-msgstr "No es pot establir una connexió amb el gestor del controlador SDBC (#servicename#)."
+msgstr ""
+"No es pot establir una connexió amb el gestor del controlador SDBC "
+"(#servicename#)."
 
+#. N1fu
 #: tabletree.src#STR_NOREGISTEREDDRIVER.string.text
 msgid "A driver is not registered for the URL #connurl#."
 msgstr "Hi ha un controlador que no està registrat per a l'URL #connurl#."
 
+#. _j5Z
 #: tabletree.src#STR_COULDNOTCONNECT.string.text
 msgid "No connection could be established for the URL #connurl#."
 msgstr "No s'ha pogut establir una connexió per a l'URL #connurl#."
 
+#. xJU8
 #: tabletree.src#STR_COULDNOTCONNECT_PLEASECHECK.string.text
 msgid "Please check the current settings, for example user name and password."
-msgstr "Comproveu els paràmetres actuals, com ara el nom d'usuari i la contrasenya."
+msgstr ""
+"Comproveu els paràmetres actuals, com ara el nom d'usuari i la contrasenya."
 
+#. bn12
 #: tabletree.src#STR_NOTABLEINFO.string.text
-msgid "Successfully connected, but information about database tables is not available."
-msgstr "S'ha pogut establir la connexió, però la informació sobre les taules de la base de dades no està disponible."
+msgid ""
+"Successfully connected, but information about database tables is not "
+"available."
+msgstr ""
+"S'ha pogut establir la connexió, però la informació sobre les taules de la "
+"base de dades no està disponible."
 
+#. 5NRX
 #: tabletree.src#STR_ALL_TABLES.string.text
 msgid "All tables"
 msgstr "Totes les taules"
 
+#. MHhG
 #: tabletree.src#STR_ALL_VIEWS.string.text
 msgid "All views"
 msgstr "Totes les visualitzacions"
 
+#. SfEI
 #: tabletree.src#STR_ALL_TABLES_AND_VIEWS.string.text
 msgid "All tables and views"
 msgstr "Totes les taules i les visualitzacions"

@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+desktop%2Fsource%2Fdeployment%2Funopkg.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+desktop%2Fsource%2Fdeployment%2Funopkg.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:41+0200\n"
 "PO-Revision-Date: 2011-04-05 19:11+0200\n"
 "Last-Translator: jmontane <joan@montane.cat>\n"
@@ -15,42 +17,62 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. mhC7
 #: unopkg.src#RID_STR_UNOPKG_ACCEPT_LIC_1.string.text
 msgid "Extension Software License Agreement of $NAME:"
 msgstr "Acord de llicència de l'extensió $NAME:"
 
+#. 9UUi
 #: unopkg.src#RID_STR_UNOPKG_ACCEPT_LIC_2.string.text
-msgid "Read the complete License Agreement displayed above. Accept the License Agreement by typing \"yes\" on the console then press the Return key. Type \"no\" to decline and to abort the extension setup."
-msgstr "Llegiu l'acord de llicència complet indicat més amunt. Accepteu-lo escrivint \"sí\" a la consola i prement retorn. Escriviu \"no\" per rebutjar-lo i interrompre la instal·lació de l'extensió."
+msgid ""
+"Read the complete License Agreement displayed above. Accept the License "
+"Agreement by typing \"yes\" on the console then press the Return key. Type "
+"\"no\" to decline and to abort the extension setup."
+msgstr ""
+"Llegiu l'acord de llicència complet indicat més amunt. Accepteu-lo escrivint "
+"\"sí\" a la consola i prement retorn. Escriviu \"no\" per rebutjar-lo i "
+"interrompre la instal·lació de l'extensió."
 
+#. UDGr
 #: unopkg.src#RID_STR_UNOPKG_ACCEPT_LIC_3.string.text
 msgid "[Enter \"yes\" or \"no\"]:"
 msgstr "[Introduïu \"sí\" o \"no\"]:"
 
+#. 06VR
 #: unopkg.src#RID_STR_UNOPKG_ACCEPT_LIC_4.string.text
 msgid "Your input was not correct. Please enter \"yes\" or \"no\":"
 msgstr "No heu introduït una opció correcta. Introduïu \"sí\" o \"no\":"
 
+#. o7pz
 #: unopkg.src#RID_STR_UNOPKG_ACCEPT_LIC_YES.string.text
 msgid "YES"
 msgstr "SÍ"
 
+#. DuZG
 #: unopkg.src#RID_STR_UNOPKG_ACCEPT_LIC_Y.string.text
 msgid "Y"
 msgstr "S"
 
+#. zHGB
 #: unopkg.src#RID_STR_UNOPKG_ACCEPT_LIC_NO.string.text
 msgid "NO"
 msgstr "NO"
 
+#. F9Rh
 #: unopkg.src#RID_STR_UNOPKG_ACCEPT_LIC_N.string.text
 msgid "N"
 msgstr "N"
 
+#. WVL3
 #: unopkg.src#RID_STR_CONCURRENTINSTANCE.string.text
-msgid "unopkg cannot be started. The lock file indicates it as already running. If this does not apply, delete the lock file at:"
-msgstr "L'unopkg no es pot iniciar. El fitxer de bloqueig indica que ja s'està executant. Si no és així, suprimiu el fitxer de bloqueig a:"
+msgid ""
+"unopkg cannot be started. The lock file indicates it as already running. If "
+"this does not apply, delete the lock file at:"
+msgstr ""
+"L'unopkg no es pot iniciar. El fitxer de bloqueig indica que ja s'està "
+"executant. Si no és així, suprimiu el fitxer de bloqueig a:"
 
+#. tgo8
 #: unopkg.src#RID_STR_UNOPKG_ERROR.string.text
 msgid "ERROR: "
 msgstr "ERROR: "

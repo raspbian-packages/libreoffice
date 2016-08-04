@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+sw%2Fsource%2Fui%2Fchrdlg.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+sw%2Fsource%2Fui%2Fchrdlg.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
 "PO-Revision-Date: 2011-11-26 12:16+0200\n"
 "Last-Translator: Jesús <jesus@softcatala.org>\n"
@@ -15,484 +17,611 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. YzST
 #: swbreak.src#DLG_BREAK.RB_LINE.radiobutton.text
 msgid "~Line break"
 msgstr "Salt de ~línia"
 
+#. FM0i
 #: swbreak.src#DLG_BREAK.RB_PAGE.radiobutton.text
 msgid "~Page break"
 msgstr "Salt de ~pàgina"
 
+#. cYKW
 #: swbreak.src#DLG_BREAK.RB_COL.radiobutton.text
 msgid "~Column break"
 msgstr "Salt de ~columna"
 
+#. sbs3
 #: swbreak.src#DLG_BREAK.FL_BREAK.fixedline.text
 msgid "Type"
 msgstr "Tipus"
 
+#. JE0U
 #: swbreak.src#DLG_BREAK.FT_COLL.fixedtext.text
 msgid "~Style"
 msgstr "E~stil"
 
+#. SD76
 #: swbreak.src#DLG_BREAK.LB_COLL.1.stringlist.text
 msgctxt "swbreak.src#DLG_BREAK.LB_COLL.1.stringlist.text"
 msgid "[None]"
 msgstr "[Cap]"
 
+#. i0Xq
 #: swbreak.src#DLG_BREAK.CB_PAGENUM.checkbox.text
 msgid "Change page ~number"
 msgstr "Ca~nvia el número de la pàgina"
 
+#. XZBZ
 #: swbreak.src#DLG_BREAK.modaldialog.text
 msgid "Insert Break"
 msgstr "Insereix un salt"
 
+#. ghsk
 #: chrdlg.src#STR_TEXTCOLL_HEADER.string.text
 msgid "(Paragraph Style: "
 msgstr "(Estil de paràgraf: "
 
+#. f0yL
 #: chrdlg.src#STR_PAGEFMT_HEADER.string.text
 msgid "(Page Style: "
 msgstr "(Estil de pàgina: "
 
+#. rJ#J
 #: chrdlg.src#SW_STR_NONE.string.text
 msgctxt "chrdlg.src#SW_STR_NONE.string.text"
 msgid "[None]"
 msgstr "[Cap]"
 
+#. W3iD
 #: chrdlg.src#MSG_ILLEGAL_PAGENUM.infobox.text
-msgid "Page numbers cannot be applied to the current page. Even numbers can be used on left pages, odd numbers on right pages."
-msgstr "Els números de pàgina no es poden aplicar a la pàgina actual. Els nombres senars es poden utilitzar a les pàgines de l'esquerra i els nombres parells a les pàgines de la dreta."
+msgid ""
+"Page numbers cannot be applied to the current page. Even numbers can be used "
+"on left pages, odd numbers on right pages."
+msgstr ""
+"Els números de pàgina no es poden aplicar a la pàgina actual. Els nombres "
+"senars es poden utilitzar a les pàgines de l'esquerra i els nombres parells "
+"a les pàgines de la dreta."
 
+#. 4u#B
 #: numpara.src#TP_NUMPARA.FL_OUTLINE_START.fixedline.text
 msgid "Outline"
 msgstr "Esquema"
 
+#. OrRC
 #: numpara.src#TP_NUMPARA.FT_OUTLINE_LEVEL.fixedtext.text
 msgid "Outline level"
 msgstr "Nivell d'esquema"
 
+#. dSB#
 #: numpara.src#TP_NUMPARA.LB_OUTLINE_LEVEL.1.stringlist.text
 msgid "Body text"
 msgstr "Text del cos"
 
+#. BWoC
 #: numpara.src#TP_NUMPARA.LB_OUTLINE_LEVEL.2.stringlist.text
 msgid "Level 1"
 msgstr "Nivell 1"
 
+#. 6bvz
 #: numpara.src#TP_NUMPARA.LB_OUTLINE_LEVEL.3.stringlist.text
 msgid "Level 2"
 msgstr "Nivell 2"
 
+#. egb8
 #: numpara.src#TP_NUMPARA.LB_OUTLINE_LEVEL.4.stringlist.text
 msgid "Level 3"
 msgstr "Nivell 3"
 
+#. blkv
 #: numpara.src#TP_NUMPARA.LB_OUTLINE_LEVEL.5.stringlist.text
 msgid "Level 4"
 msgstr "Nivell 4"
 
+#. 9JNB
 #: numpara.src#TP_NUMPARA.LB_OUTLINE_LEVEL.6.stringlist.text
 msgid "Level 5"
 msgstr "Nivell 5"
 
+#. 4MSw
 #: numpara.src#TP_NUMPARA.LB_OUTLINE_LEVEL.7.stringlist.text
 msgid "Level 6"
 msgstr "Nivell 6"
 
+#. k_B0
 #: numpara.src#TP_NUMPARA.LB_OUTLINE_LEVEL.8.stringlist.text
 msgid "Level 7"
 msgstr "Nivell 7"
 
+#. Zw0n
 #: numpara.src#TP_NUMPARA.LB_OUTLINE_LEVEL.9.stringlist.text
 msgid "Level 8"
 msgstr "Nivell 8"
 
+#. m6g3
 #: numpara.src#TP_NUMPARA.LB_OUTLINE_LEVEL.10.stringlist.text
 msgid "Level 9"
 msgstr "Nivell 9"
 
+#. z3Xo
 #: numpara.src#TP_NUMPARA.LB_OUTLINE_LEVEL.11.stringlist.text
 msgid "Level 10"
 msgstr "Nivell 10"
 
+#. ggth
 #: numpara.src#TP_NUMPARA.FL_NEW_START.fixedline.text
 msgid "Numbering"
 msgstr "Numeració"
 
+#. OLPI
 #: numpara.src#TP_NUMPARA.FT_NUMBER_STYLE.fixedtext.text
 msgid "Numbering Style"
 msgstr "Estil de numeració"
 
+#. YVu2
 #: numpara.src#TP_NUMPARA.LB_NUMBER_STYLE.1.stringlist.text
 msgid "None"
 msgstr "Cap"
 
+#. 0VA6
 #: numpara.src#TP_NUMPARA.CB_NEW_START.tristatebox.text
 msgid "R~estart at this paragraph"
 msgstr "R~einicia en este paràgraf"
 
+#. lQNn
 #: numpara.src#TP_NUMPARA.CB_NUMBER_NEW_START.tristatebox.text
 msgid "S~tart with"
 msgstr "~Inicia a"
 
+#. MD4c
 #: numpara.src#TP_NUMPARA.FL_COUNT_PARA.fixedline.text
 msgid "Line numbering"
 msgstr "Numeració de línies"
 
+#. 08yG
 #: numpara.src#TP_NUMPARA.CB_COUNT_PARA.tristatebox.text
 msgid "~Include this paragraph in line numbering"
 msgstr "C~ompta les línies d'este paràgraf"
 
+#. GiFu
 #: numpara.src#TP_NUMPARA.CB_RESTART_PARACOUNT.tristatebox.text
 msgid "Rest~art at this paragraph"
 msgstr "Reinicia en ~este paràgraf"
 
+#. HtH0
 #: numpara.src#TP_NUMPARA.FT_RESTART_NO.fixedtext.text
 msgid "~Start with"
 msgstr "Ini~cia a"
 
+#. 3KAD
 #: ccoll.src#TP_CONDCOLL.FL_CONDITION.fixedline.text
 msgid "Options"
 msgstr "Opcions"
 
+#. 44_4
 #: ccoll.src#TP_CONDCOLL.CB_CONDITION.checkbox.text
 msgid "~Conditional Style"
 msgstr "~Estil condicional"
 
+#. 3cAS
 #: ccoll.src#TP_CONDCOLL.FT_CONTEXT.fixedtext.text
 msgid "Conte~xt"
 msgstr "Conte~xt"
 
+#. R8cL
 #: ccoll.src#TP_CONDCOLL.FT_USED.fixedtext.text
 msgid "Applied Styles"
 msgstr "Estils aplicats"
 
+#. VExA
 #: ccoll.src#TP_CONDCOLL.FT_STYLE.fixedtext.text
 msgid "~Paragraph Styles"
 msgstr "Es~tils de paràgraf"
 
+#. tUfO
 #: ccoll.src#TP_CONDCOLL.PB_REMOVE.pushbutton.text
 msgid "Re~move"
 msgstr "Supri~meix"
 
+#. bRcG
 #: ccoll.src#TP_CONDCOLL.PB_ASSIGN.pushbutton.text
 msgid "~Apply"
 msgstr "~Aplica"
 
+#. fwtd
 #: ccoll.src#TP_CONDCOLL.STR_REGIONS.1.itemlist.text
 msgid "Table Header"
 msgstr "Capçalera de la taula"
 
+#. 8KRV
 #: ccoll.src#TP_CONDCOLL.STR_REGIONS.2.itemlist.text
 msgid "Table"
 msgstr "Taula"
 
+#. #WSe
 #: ccoll.src#TP_CONDCOLL.STR_REGIONS.3.itemlist.text
 msgid "Frame"
 msgstr "Marc"
 
+#. nwcF
 #: ccoll.src#TP_CONDCOLL.STR_REGIONS.4.itemlist.text
 msgid "Section"
 msgstr "Secció"
 
+#. 7EXu
 #: ccoll.src#TP_CONDCOLL.STR_REGIONS.5.itemlist.text
 msgid "Footnote"
 msgstr "Nota al peu"
 
+#. cWD0
 #: ccoll.src#TP_CONDCOLL.STR_REGIONS.6.itemlist.text
 msgid "Endnote"
 msgstr "Nota final"
 
+#. GKAt
 #: ccoll.src#TP_CONDCOLL.STR_REGIONS.7.itemlist.text
 msgid "Header"
 msgstr "Capçalera"
 
+#. 3dTk
 #: ccoll.src#TP_CONDCOLL.STR_REGIONS.8.itemlist.text
 msgid "Footer"
 msgstr "Peu de pàgina"
 
+#. rJQP
 #: ccoll.src#TP_CONDCOLL.STR_REGIONS.9.itemlist.text
 msgid " 1st Outline Level"
 msgstr "1r nivell d'esquema"
 
+#. oqzJ
 #: ccoll.src#TP_CONDCOLL.STR_REGIONS.10.itemlist.text
 msgid " 2nd Outline Level"
 msgstr "2n nivell d'esquema"
 
+#. 40wa
 #: ccoll.src#TP_CONDCOLL.STR_REGIONS.11.itemlist.text
 msgid " 3rd Outline Level"
 msgstr "3r nivell d'esquema"
 
+#. bkMS
 #: ccoll.src#TP_CONDCOLL.STR_REGIONS.12.itemlist.text
 msgid " 4th Outline Level"
 msgstr "4t nivell d'esquema"
 
+#. JQHh
 #: ccoll.src#TP_CONDCOLL.STR_REGIONS.13.itemlist.text
 msgid " 5th Outline Level"
 msgstr "5è nivell d'esquema"
 
+#. S0hC
 #: ccoll.src#TP_CONDCOLL.STR_REGIONS.14.itemlist.text
 msgid " 6th Outline Level"
 msgstr "6è nivell d'esquema"
 
+#. gqix
 #: ccoll.src#TP_CONDCOLL.STR_REGIONS.15.itemlist.text
 msgid " 7th Outline Level"
 msgstr "7è nivell d'esquema"
 
+#. BQ03
 #: ccoll.src#TP_CONDCOLL.STR_REGIONS.16.itemlist.text
 msgid " 8th Outline Level"
 msgstr "8è nivell d'esquema"
 
+#. zk7q
 #: ccoll.src#TP_CONDCOLL.STR_REGIONS.17.itemlist.text
 msgid " 9th Outline Level"
 msgstr "9è nivell d'esquema"
 
+#. kTGj
 #: ccoll.src#TP_CONDCOLL.STR_REGIONS.18.itemlist.text
 msgid "10th Outline Level"
 msgstr "10è nivell d'esquema"
 
+#. OfNQ
 #: ccoll.src#TP_CONDCOLL.STR_REGIONS.19.itemlist.text
 msgid " 1st Numbering Level"
 msgstr "1r nivell de la numeració"
 
+#. Wo9A
 #: ccoll.src#TP_CONDCOLL.STR_REGIONS.20.itemlist.text
 msgid " 2nd Numbering Level"
 msgstr "2n nivell de la numeració"
 
+#. M6Ez
 #: ccoll.src#TP_CONDCOLL.STR_REGIONS.21.itemlist.text
 msgid " 3rd Numbering Level"
 msgstr "3r nivell de la numeració"
 
+#. teY5
 #: ccoll.src#TP_CONDCOLL.STR_REGIONS.22.itemlist.text
 msgid " 4th Numbering Level"
 msgstr "4t nivell de la numeració"
 
+#. 1Sbo
 #: ccoll.src#TP_CONDCOLL.STR_REGIONS.23.itemlist.text
 msgid " 5th Numbering Level"
 msgstr "5è nivell de la numeració"
 
+#. E6VL
 #: ccoll.src#TP_CONDCOLL.STR_REGIONS.24.itemlist.text
 msgid " 6th Numbering Level"
 msgstr "6è nivell de la numeració"
 
+#. uoOY
 #: ccoll.src#TP_CONDCOLL.STR_REGIONS.25.itemlist.text
 msgid " 7th Numbering Level"
 msgstr "7è nivell de la numeració"
 
+#. PSqQ
 #: ccoll.src#TP_CONDCOLL.STR_REGIONS.26.itemlist.text
 msgid " 8th Numbering Level"
 msgstr "8è nivell de la numeració"
 
+#. lepj
 #: ccoll.src#TP_CONDCOLL.STR_REGIONS.27.itemlist.text
 msgid " 9th Numbering Level"
 msgstr "9è nivell de la numeració"
 
+#. yRaq
 #: ccoll.src#TP_CONDCOLL.STR_REGIONS.28.itemlist.text
 msgid "10th Numbering Level"
 msgstr "10è nivell de la numeració"
 
+#. Dc4q
 #: ccoll.src#TP_CONDCOLL.STR_NOTEMPL.string.text
 msgid "<none>"
 msgstr "<cap>"
 
+#. 1vpx
 #: chardlg.src#DLG_CHAR.1.TP_CHAR_STD.pageitem.text
 msgctxt "chardlg.src#DLG_CHAR.1.TP_CHAR_STD.pageitem.text"
 msgid "Font"
 msgstr "Tipus de lletra"
 
+#. Qqux
 #: chardlg.src#DLG_CHAR.1.TP_CHAR_EXT.pageitem.text
 msgid "Font Effects"
 msgstr "Efectes de lletra"
 
+#. LjIc
 #: chardlg.src#DLG_CHAR.1.TP_CHAR_POS.pageitem.text
 msgid "Position"
 msgstr "Posició"
 
+#. Fi#2
 #: chardlg.src#DLG_CHAR.1.TP_CHAR_TWOLN.pageitem.text
 msgid "Asian Layout"
 msgstr "Disposició asiàtica"
 
+#. QMXo
 #: chardlg.src#DLG_CHAR.1.TP_CHAR_URL.pageitem.text
 msgctxt "chardlg.src#DLG_CHAR.1.TP_CHAR_URL.pageitem.text"
 msgid "Hyperlink"
 msgstr "Enllaç"
 
+#. rqHl
 #: chardlg.src#DLG_CHAR.1.TP_BACKGROUND.pageitem.text
 msgctxt "chardlg.src#DLG_CHAR.1.TP_BACKGROUND.pageitem.text"
 msgid "Background"
 msgstr "Fons"
 
+#. y3dX
 #: chardlg.src#DLG_CHAR.tabdialog.text
 msgid "Character"
 msgstr "Caràcter"
 
+#. tbbi
 #: chardlg.src#DLG_DRAWCHAR.1.TP_CHAR_STD.pageitem.text
 msgctxt "chardlg.src#DLG_DRAWCHAR.1.TP_CHAR_STD.pageitem.text"
 msgid "Font"
 msgstr "Tipus de lletra"
 
+#. fvGI
 #: chardlg.src#DLG_DRAWCHAR.tabdialog.text
 msgctxt "chardlg.src#DLG_DRAWCHAR.tabdialog.text"
 msgid "Font"
 msgstr "Tipus de lletra"
 
+#. t5ja
 #: chardlg.src#TP_CHAR_URL.FL_URL.fixedline.text
 msgctxt "chardlg.src#TP_CHAR_URL.FL_URL.fixedline.text"
 msgid "Hyperlink"
 msgstr "Enllaç"
 
+#. c78P
 #: chardlg.src#TP_CHAR_URL.FT_URL.fixedtext.text
 msgid "~URL"
 msgstr "~URL"
 
+#. Z1nq
 #: chardlg.src#TP_CHAR_URL.PB_URL.pushbutton.text
 msgid "~Browse..."
 msgstr "~Navega..."
 
+#. Fuvt
 #: chardlg.src#TP_CHAR_URL.FT_TEXT.fixedtext.text
 msgid "Te~xt"
 msgstr "Te~xt"
 
+#. aoLD
 #: chardlg.src#TP_CHAR_URL.FT_NAME.fixedtext.text
 msgid "~Name"
 msgstr "~Nom"
 
+#. tRiU
 #: chardlg.src#TP_CHAR_URL.FT_TARGET.fixedtext.text
 msgid "~Target frame"
 msgstr "~Marc de destinació"
 
+#. G5n2
 #: chardlg.src#TP_CHAR_URL.PB_EVENT.pushbutton.text
 msgid "~Events..."
 msgstr "~Esdeveniments..."
 
+#. IsnQ
 #: chardlg.src#TP_CHAR_URL.FL_STYLE.fixedline.text
 msgid "Character Styles"
 msgstr "Estils de caràcter"
 
+#. NnIJ
 #: chardlg.src#TP_CHAR_URL.FT_VISITED.fixedtext.text
 msgid "~Visited links"
 msgstr "Enllaços ~visitats"
 
+#. p3JV
 #: chardlg.src#TP_CHAR_URL.FT_NOT_VISITED.fixedtext.text
 msgid "Unvisited ~links"
 msgstr "Enllaços no v~isitats"
 
+#. 6hYP
 #: drpcps.src#DLG_DROPCAPS.1.TP_DROPCAPS.pageitem.text
 msgctxt "drpcps.src#DLG_DROPCAPS.1.TP_DROPCAPS.pageitem.text"
 msgid "Drop Caps"
 msgstr "Inicials destacades"
 
+#. #Ssf
 #: drpcps.src#DLG_DROPCAPS.tabdialog.text
 msgctxt "drpcps.src#DLG_DROPCAPS.tabdialog.text"
 msgid "Drop Caps"
 msgstr "Inicials destacades"
 
+#. UKfx
 #: drpcps.src#TP_DROPCAPS.CB_SWITCH.checkbox.text
 msgid "Display drop caps"
 msgstr "Visualitza les inicials destacades"
 
+#. nyNr
 #: drpcps.src#TP_DROPCAPS.CB_WORD.checkbox.text
 msgid "~Whole word"
 msgstr "~Tota la paraula"
 
+#. eoiy
 #: drpcps.src#TP_DROPCAPS.FT_DROPCAPS.fixedtext.text
 msgid "Number of ~characters:"
 msgstr "~Nombre de caràcters:"
 
+#. ks7I
 #: drpcps.src#TP_DROPCAPS.TXT_LINES.fixedtext.text
 msgid "~Lines"
 msgstr "~Línies"
 
+#. BJBJ
 #: drpcps.src#TP_DROPCAPS.TXT_DISTANCE.fixedtext.text
 msgid "Space to text"
 msgstr "Espai per al text"
 
+#. x2fz
 #: drpcps.src#TP_DROPCAPS.FL_SETTINGS.fixedline.text
 msgid "Settings"
 msgstr "Configuració"
 
+#. zSVx
 #: drpcps.src#TP_DROPCAPS.TXT_TEXT.fixedtext.text
 msgid "~Text"
 msgstr "~Text"
 
+#. m3Lh
 #: drpcps.src#TP_DROPCAPS.TXT_TEMPLATE.fixedtext.text
 msgid "Character St~yle"
 msgstr "E~stil de caràcter"
 
+#. D4R1
 #: drpcps.src#TP_DROPCAPS.FL_CONTENT.fixedline.text
 msgid "Contents"
 msgstr "Contingut"
 
+#. GSPH
 #: paradlg.src#DLG_PARA.1.TP_PARA_STD.pageitem.text
 msgctxt "paradlg.src#DLG_PARA.1.TP_PARA_STD.pageitem.text"
 msgid "Indents & Spacing"
 msgstr "Sagnats i espaiat"
 
+#. aBtR
 #: paradlg.src#DLG_PARA.1.TP_PARA_ALIGN.pageitem.text
 msgctxt "paradlg.src#DLG_PARA.1.TP_PARA_ALIGN.pageitem.text"
 msgid "Alignment"
 msgstr "Alineació"
 
+#. BHIH
 #: paradlg.src#DLG_PARA.1.TP_PARA_EXT.pageitem.text
 msgid "Text Flow"
 msgstr "Flux del text"
 
+#. jhfN
 #: paradlg.src#DLG_PARA.1.TP_PARA_ASIAN.pageitem.text
 msgctxt "paradlg.src#DLG_PARA.1.TP_PARA_ASIAN.pageitem.text"
 msgid "Asian Typography"
 msgstr "Tipografia asiàtica"
 
+#. B5hB
 #: paradlg.src#DLG_PARA.1.TP_NUMPARA.pageitem.text
 msgid "Outline & Numbering"
 msgstr "Esquema i numeració"
 
+#. Un2r
 #: paradlg.src#DLG_PARA.1.TP_TABULATOR.pageitem.text
 msgctxt "paradlg.src#DLG_PARA.1.TP_TABULATOR.pageitem.text"
 msgid "Tabs"
 msgstr "Tabuladors"
 
+#. dd6e
 #: paradlg.src#DLG_PARA.1.TP_DROPCAPS.pageitem.text
 msgctxt "paradlg.src#DLG_PARA.1.TP_DROPCAPS.pageitem.text"
 msgid "Drop Caps"
 msgstr "Inicials destacades"
 
+#. 8#Tn
 #: paradlg.src#DLG_PARA.1.TP_BORDER.pageitem.text
 msgid "Borders"
 msgstr "Vores"
 
+#. E5#5
 #: paradlg.src#DLG_PARA.1.TP_BACKGROUND.pageitem.text
 msgctxt "paradlg.src#DLG_PARA.1.TP_BACKGROUND.pageitem.text"
 msgid "Background"
 msgstr "Fons"
 
+#. JgR0
 #: paradlg.src#DLG_PARA.tabdialog.text
 msgctxt "paradlg.src#DLG_PARA.tabdialog.text"
 msgid "Paragraph"
 msgstr "Paràgraf"
 
+#. VAH_
 #: paradlg.src#DLG_DRAWPARA.1.TP_PARA_STD.pageitem.text
 msgctxt "paradlg.src#DLG_DRAWPARA.1.TP_PARA_STD.pageitem.text"
 msgid "Indents & Spacing"
 msgstr "Sagnats i espaiat"
 
+#. EVfx
 #: paradlg.src#DLG_DRAWPARA.1.TP_PARA_ALIGN.pageitem.text
 msgctxt "paradlg.src#DLG_DRAWPARA.1.TP_PARA_ALIGN.pageitem.text"
 msgid "Alignment"
 msgstr "Alineació"
 
+#. 7_tt
 #: paradlg.src#DLG_DRAWPARA.1.TP_PARA_ASIAN.pageitem.text
 msgctxt "paradlg.src#DLG_DRAWPARA.1.TP_PARA_ASIAN.pageitem.text"
 msgid "Asian Typography"
 msgstr "Tipografia asiàtica"
 
+#. Zgl2
 #: paradlg.src#DLG_DRAWPARA.1.TP_TABULATOR.pageitem.text
 msgctxt "paradlg.src#DLG_DRAWPARA.1.TP_TABULATOR.pageitem.text"
 msgid "Tabs"
 msgstr "Tabuladors"
 
+#. dAGV
 #: paradlg.src#DLG_DRAWPARA.tabdialog.text
 msgctxt "paradlg.src#DLG_DRAWPARA.tabdialog.text"
 msgid "Paragraph"
 msgstr "Paràgraf"
+
+#~ msgid ""
+#~ "Page numbers cannot be applied to the current page.  Even numbers can be "
+#~ "used on left pages, odd numbers on right pages."
+#~ msgstr ""
+#~ "El número de la pàgina no es pot col·locar. A les pàgines esquerres només "
+#~ "es poden utilitzar nombres parells i a les dretes senars."

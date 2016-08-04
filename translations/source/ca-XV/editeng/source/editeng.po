@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+editeng%2Fsource%2Fediteng.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+editeng%2Fsource%2Fediteng.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
 "PO-Revision-Date: 2011-10-29 16:27+0200\n"
 "Last-Translator: Jesús <jesus@softcatala.org>\n"
@@ -15,62 +17,77 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. WQdG
 #: editeng.src#RID_EDITUNDO_DEL.string.text
 msgid "Delete"
 msgstr "Suprimeix"
 
+#. ymhW
 #: editeng.src#RID_EDITUNDO_MOVE.string.text
 msgid "Move"
 msgstr "Mou"
 
+#. EP6t
 #: editeng.src#RID_EDITUNDO_INSERT.string.text
 msgid "Insert"
 msgstr "Insereix"
 
+#. 5kMQ
 #: editeng.src#RID_EDITUNDO_REPLACE.string.text
 msgid "Replace"
 msgstr "Reemplaça"
 
+#. YZ7#
 #: editeng.src#RID_EDITUNDO_SETATTRIBS.string.text
 msgid "Apply attributes"
 msgstr "Aplica els atributs"
 
+#. dHuX
 #: editeng.src#RID_EDITUNDO_RESETATTRIBS.string.text
 msgid "Reset attributes"
 msgstr "Reinicialitza els atributs"
 
+#. mBZk
 #: editeng.src#RID_EDITUNDO_INDENT.string.text
 msgid "Indent"
 msgstr "Sagnat"
 
+#. uV4q
 #: editeng.src#RID_EDITUNDO_SETSTYLE.string.text
 msgid "Apply Styles"
 msgstr "Aplica els estils"
 
+#. sJiF
 #: editeng.src#RID_EDITUNDO_TRANSLITERATE.string.text
 msgid "~Change Case"
 msgstr "~Canvia majúscules/minúscules"
 
+#. Hxpu
 #: editeng.src#RID_MENU_SPELL.MN_SPELLING.menuitem.text
 msgid "~Spellcheck..."
 msgstr "~Verificació ortogràfica..."
 
+#. 3QtX
 #: editeng.src#RID_MENU_SPELL.MN_INSERT.menuitem.text
 msgid "~Add"
 msgstr "~Afig"
 
+#. sZKz
 #: editeng.src#RID_MENU_SPELL.MN_IGNORE.menuitem.text
 msgid "Ignore All"
 msgstr "Ignora'ls tots"
 
+#. FXJW
 #: editeng.src#RID_MENU_SPELL.MN_AUTOCORR.menuitem.text
 msgid "AutoCorrect"
 msgstr "Correcció automàtica"
 
+#. 2WxD
 #: editeng.src#RID_STR_WORD.string.text
 msgid "Word is %x"
 msgstr "La paraula és %x"
 
+#. eD5N
 #: editeng.src#RID_STR_PARAGRAPH.string.text
 msgid "Paragraph is %x"
 msgstr "El paràgraf és %x"

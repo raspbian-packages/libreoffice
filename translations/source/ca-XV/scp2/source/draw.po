@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+scp2%2Fsource%2Fdraw.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+scp2%2Fsource%2Fdraw.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
 "PO-Revision-Date: 2011-11-26 23:47+0200\n"
 "Last-Translator: Jesús <jesus@softcatala.org>\n"
@@ -15,54 +17,70 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. _pHh
 #: folderitem_draw.ulf#STR_FI_NAME_ZEICHNUNG.LngText.text
 msgid "Drawing"
 msgstr "Dibuix"
 
+#. z4vT
 #: folderitem_draw.ulf#STR_FI_TOOLTIP_DRAW.LngText.text
 msgid "Create and edit drawings, flow charts, and logos by using Draw."
 msgstr "Creeu i editeu dibuixos, diagrames de flux i logotips amb el Draw."
 
+#. 5#rH
 #: registryitem_draw.ulf#STR_REG_VAL_NEW.LngText.text
 msgid "&New"
 msgstr "&Nou"
 
+#. 6xMW
 #: registryitem_draw.ulf#STR_REG_VAL_SO60_DRAWING.LngText.text
 msgid "%SXWFORMATNAME %SXWFORMATVERSION Drawing"
 msgstr "Dibuix de l'%SXWFORMATNAME %SXWFORMATVERSION"
 
+#. 8Y9T
 #: registryitem_draw.ulf#STR_REG_VAL_SO60_DRAW_TEMPLATE.LngText.text
 msgid "%SXWFORMATNAME %SXWFORMATVERSION Drawing Template"
 msgstr "Plantilla de dibuix de l'%SXWFORMATNAME %SXWFORMATVERSION"
 
+#. A0h2
 #: registryitem_draw.ulf#STR_REG_VAL_OO_DRAW.LngText.text
 msgid "OpenDocument Drawing"
 msgstr "Dibuix OpenDocument"
 
+#. hRz2
 #: registryitem_draw.ulf#STR_REG_VAL_OO_DRAW_TEMPLATE.LngText.text
 msgid "OpenDocument Drawing Template"
 msgstr "Plantilla de dibuix OpenDocument"
 
+#. rRR6
 #: module_draw.ulf#STR_NAME_MODULE_PRG_DRAW.LngText.text
 msgid "%PRODUCTNAME Draw"
 msgstr "%PRODUCTNAME Draw"
 
+#. pEzi
 #: module_draw.ulf#STR_DESC_MODULE_PRG_DRAW.LngText.text
-msgid "Create and edit drawings, flow charts, and logos by using %PRODUCTNAME Draw."
-msgstr "Creeu i editeu dibuixos, diagrames de flux i logotips amb el %PRODUCTNAME Draw."
+msgid ""
+"Create and edit drawings, flow charts, and logos by using %PRODUCTNAME Draw."
+msgstr ""
+"Creeu i editeu dibuixos, diagrames de flux i logotips amb el %PRODUCTNAME "
+"Draw."
 
+#. C3b5
 #: module_draw.ulf#STR_NAME_MODULE_PRG_DRAW_BIN.LngText.text
 msgid "Program Module"
 msgstr "Mòdul del programa"
 
+#. lSx1
 #: module_draw.ulf#STR_DESC_MODULE_PRG_DRAW_BIN.LngText.text
 msgid "The application %PRODUCTNAME Draw"
 msgstr "L'aplicació %PRODUCTNAME Draw"
 
+#. fra7
 #: module_draw.ulf#STR_NAME_MODULE_PRG_DRAW_HELP.LngText.text
 msgid "%PRODUCTNAME Draw Help"
 msgstr "Ajuda del %PRODUCTNAME Draw"
 
+#. Rmgk
 #: module_draw.ulf#STR_DESC_MODULE_PRG_DRAW_HELP.LngText.text
 msgid "Help about %PRODUCTNAME Draw"
 msgstr "Ajuda sobre el %PRODUCTNAME Draw"

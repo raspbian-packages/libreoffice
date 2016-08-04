@@ -2,7 +2,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+desktop%2Fsource%2Fdeployment%2Fregistry%2Fcomponent.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+desktop%2Fsource%2Fdeployment%2Fregistry%2Fcomponent."
+"oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
 "PO-Revision-Date: 2011-10-26 20:04+0200\n"
 "Last-Translator: Jesús <jesus@softcatala.org>\n"
@@ -15,26 +18,32 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. SG04
 #: dp_component.src#RID_STR_DYN_COMPONENT.string.text
 msgid "UNO Dynamic Library Component"
 msgstr "Component Biblioteca dinàmica UNO"
 
+#. 3k3T
 #: dp_component.src#RID_STR_JAVA_COMPONENT.string.text
 msgid "UNO Java Component"
 msgstr "Component Java UNO"
 
+#. M65a
 #: dp_component.src#RID_STR_PYTHON_COMPONENT.string.text
 msgid "UNO Python Component"
 msgstr "Component Python UNO"
 
+#. vVjA
 #: dp_component.src#RID_STR_COMPONENTS.string.text
 msgid "UNO Components"
 msgstr "Components UNO"
 
+#. n65r
 #: dp_component.src#RID_STR_RDB_TYPELIB.string.text
 msgid "UNO RDB Type Library"
 msgstr "Biblioteca de tipus RDB UNO"
 
+#. YeIo
 #: dp_component.src#RID_STR_JAVA_TYPELIB.string.text
 msgid "UNO Java Type Library"
 msgstr "Biblioteca de tipus Java UNO"

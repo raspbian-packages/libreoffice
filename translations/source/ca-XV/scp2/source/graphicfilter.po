@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+scp2%2Fsource%2Fgraphicfilter.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+scp2%2Fsource%2Fgraphicfilter.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
 "PO-Revision-Date: 2011-04-05 19:14+0200\n"
 "Last-Translator: jmontane <joan@montane.cat>\n"
@@ -15,126 +17,160 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. nUXT
 #: module_graphicfilter.ulf#STR_NAME_MODULE_OPTIONAL_GRFFLT.LngText.text
 msgid "Graphics Filters"
 msgstr "Filtres gràfics"
 
+#. 0DJs
 #: module_graphicfilter.ulf#STR_DESC_MODULE_OPTIONAL_GRFFLT.LngText.text
 msgid "Additional filters required to read alien graphic formats."
 msgstr "Filtres addicionals necessaris per llegir altres formats gràfics."
 
+#. zLyW
 #: module_graphicfilter.ulf#STR_NAME_MODULE_OPTIONAL_GRFFLT_ADOBE.LngText.text
-msgctxt "module_graphicfilter.ulf#STR_NAME_MODULE_OPTIONAL_GRFFLT_ADOBE.LngText.text"
+msgctxt ""
+"module_graphicfilter.ulf#STR_NAME_MODULE_OPTIONAL_GRFFLT_ADOBE.LngText.text"
 msgid "Adobe Photoshop Import Filter"
 msgstr "Filtre d'importació de l'Adobe Photoshop"
 
+#. QMw3
 #: module_graphicfilter.ulf#STR_DESC_MODULE_OPTIONAL_GRFFLT_ADOBE.LngText.text
-msgctxt "module_graphicfilter.ulf#STR_DESC_MODULE_OPTIONAL_GRFFLT_ADOBE.LngText.text"
+msgctxt ""
+"module_graphicfilter.ulf#STR_DESC_MODULE_OPTIONAL_GRFFLT_ADOBE.LngText.text"
 msgid "Adobe Photoshop Import Filter"
 msgstr "Filtre d'importació de l'Adobe Photoshop"
 
+#. FFJo
 #: module_graphicfilter.ulf#STR_NAME_MODULE_OPTIONAL_GRFFLT_TGA.LngText.text
 msgid "TGA Import"
 msgstr "Importa TGA"
 
+#. fx5t
 #: module_graphicfilter.ulf#STR_DESC_MODULE_OPTIONAL_GRFFLT_TGA.LngText.text
 msgid "TGA TrueVision TARGA Import Filter"
 msgstr "Filtre d'importació TGA True Vision TARGA"
 
+#. OcFM
 #: module_graphicfilter.ulf#STR_NAME_MODULE_OPTIONAL_GRFFLT_EPS.LngText.text
 msgid "EPS Import/Export Filter"
 msgstr "Filtre d'importació/exportació EPS"
 
+#. #IPJ
 #: module_graphicfilter.ulf#STR_DESC_MODULE_OPTIONAL_GRFFLT_EPS.LngText.text
 msgid "Encapsulated Postscript Import/Export Filter"
 msgstr "Filtre d'importació/exportació de PostScript encapsulat"
 
+#. 5C#B
 #: module_graphicfilter.ulf#STR_NAME_MODULE_OPTIONAL_GRFFLT_XPM.LngText.text
-msgctxt "module_graphicfilter.ulf#STR_NAME_MODULE_OPTIONAL_GRFFLT_XPM.LngText.text"
+msgctxt ""
+"module_graphicfilter.ulf#STR_NAME_MODULE_OPTIONAL_GRFFLT_XPM.LngText.text"
 msgid "XPM Export Filter"
 msgstr "Filtre d'exportació d'XPM"
 
+#. ZueE
 #: module_graphicfilter.ulf#STR_DESC_MODULE_OPTIONAL_GRFFLT_XPM.LngText.text
-msgctxt "module_graphicfilter.ulf#STR_DESC_MODULE_OPTIONAL_GRFFLT_XPM.LngText.text"
+msgctxt ""
+"module_graphicfilter.ulf#STR_DESC_MODULE_OPTIONAL_GRFFLT_XPM.LngText.text"
 msgid "XPM Export Filter"
 msgstr "Filtre d'exportació d'XPM"
 
+#. _XbY
 #: module_graphicfilter.ulf#STR_NAME_MODULE_OPTIONAL_GRFFLT_PBMP.LngText.text
 msgid "Portable Bitmap Import/Export"
 msgstr "Importa/Exporta Portable Bitmap"
 
+#. ihvD
 #: module_graphicfilter.ulf#STR_DESC_MODULE_OPTIONAL_GRFFLT_PBMP.LngText.text
 msgid "Portable Bitmap Import/Export Filters"
 msgstr "Filtres d'importació/exportació Portable Bitmap"
 
+#. KJWB
 #: module_graphicfilter.ulf#STR_NAME_MODULE_OPTIONAL_GRFFLT_SUNRST.LngText.text
 msgid "SUN Rasterfile Import/Export"
 msgstr "Importa/Exporta SUN Rasterfile"
 
+#. eEyJ
 #: module_graphicfilter.ulf#STR_DESC_MODULE_OPTIONAL_GRFFLT_SUNRST.LngText.text
 msgid "SUN Rasterfile Import/Export Filters"
 msgstr "Filtres d'importació/exportació SUN Rasterfile"
 
+#. mkf8
 #: module_graphicfilter.ulf#STR_NAME_MODULE_OPTIONAL_GRFFLT_ACAD.LngText.text
 msgid "AutoCAD Import"
 msgstr "Importa de l'AutoCAD"
 
+#. Zard
 #: module_graphicfilter.ulf#STR_DESC_MODULE_OPTIONAL_GRFFLT_ACAD.LngText.text
 msgid "AutoCAD Import Filter"
 msgstr "Filtre d'importació de l'AutoCAD"
 
+#. rrZU
 #: module_graphicfilter.ulf#STR_NAME_MODULE_OPTIONAL_GRFFLT_KODAC.LngText.text
 msgid "Kodak Photo-CD Import"
 msgstr "Importa Kodak Photo-CD"
 
+#. Isbz
 #: module_graphicfilter.ulf#STR_DESC_MODULE_OPTIONAL_GRFFLT_KODAC.LngText.text
 msgid "Kodak Photo-CD Import Filter"
 msgstr "Filtre d'importació de Kodak Photo-CD"
 
+#. Qn4R
 #: module_graphicfilter.ulf#STR_NAME_MODULE_OPTIONAL_GRFFLT_MACPICT.LngText.text
 msgid "Mac-Pict Import/Export"
 msgstr "Importa/Exporta Mac-Pict"
 
+#. Qw0E
 #: module_graphicfilter.ulf#STR_DESC_MODULE_OPTIONAL_GRFFLT_MACPICT.LngText.text
 msgid "Mac-Pict Import/Export Filters"
 msgstr "Filtres d'importació/exportació Mac Pict"
 
+#. nYiM
 #: module_graphicfilter.ulf#STR_NAME_MODULE_OPTIONAL_GRFFLT_OS2META.LngText.text
 msgid "OS/2 Metafile Import/Export"
 msgstr "Importa/Exporta OS/2 Metafile"
 
+#. nfe3
 #: module_graphicfilter.ulf#STR_DESC_MODULE_OPTIONAL_GRFFLT_OS2META.LngText.text
 msgid "OS/2 Metafile Import/Export Filters"
 msgstr "Filtres d'importació/exportació OS/2 Metafile"
 
+#. 0tA_
 #: module_graphicfilter.ulf#STR_NAME_MODULE_OPTIONAL_GRFFLT_PCX.LngText.text
 msgid "PCX Import"
 msgstr "Importa PCX"
 
+#. c3Sw
 #: module_graphicfilter.ulf#STR_DESC_MODULE_OPTIONAL_GRFFLT_PCX.LngText.text
 msgid "Z-Soft PCX Import"
 msgstr "Importa Z-Soft PCX"
 
+#. Rs#3
 #: module_graphicfilter.ulf#STR_NAME_MODULE_OPTIONAL_GRFFLT_TIFF.LngText.text
 msgid "TIFF Import/Export"
 msgstr "Importa/Exporta TIFF"
 
+#. 8yYi
 #: module_graphicfilter.ulf#STR_DESC_MODULE_OPTIONAL_GRFFLT_TIFF.LngText.text
 msgid "TIFF Import and Export Filter"
 msgstr "Filtre d'importació/exportació TIFF"
 
+#. Ugmm
 #: module_graphicfilter.ulf#STR_NAME_MODULE_OPTIONAL_GRFFLT_SVG.LngText.text
 msgid "SVG Export"
 msgstr "Exporta SVG"
 
+#. uUcr
 #: module_graphicfilter.ulf#STR_DESC_MODULE_OPTIONAL_GRFFLT_SVG.LngText.text
 msgid "SVG Export Filter"
 msgstr "Filtre d'exportació SVG"
 
+#. 00cX
 #: module_graphicfilter.ulf#STR_NAME_MODULE_OPTIONAL_GRFFLT_FLASH.LngText.text
 msgid "Macromedia Flash (SWF)"
 msgstr "Macromedia Flash (SWF)"
 
+#. d3W2
 #: module_graphicfilter.ulf#STR_DESC_MODULE_OPTIONAL_GRFFLT_FLASH.LngText.text
 msgid "Macromedia Flash (SWF) Export Filter"
 msgstr "Filtre d'exportació Macromedia Flash (SWF)"

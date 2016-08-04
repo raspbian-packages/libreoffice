@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+sc%2Fsource%2Fui%2Fstyleui.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+sc%2Fsource%2Fui%2Fstyleui.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:41+0200\n"
 "PO-Revision-Date: 2011-11-26 20:45+0200\n"
 "Last-Translator: Jesús <jesus@softcatala.org>\n"
@@ -15,102 +17,129 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+# 100%
+#. Hdj9
 #: scstyles.src#DLG_STYLE_DESIGNER.Cell_Styles.sfxstylefamilyitem.text
 msgid "Cell Styles"
 msgstr "Estils de cel·la"
 
+# 81%
+#. A5_Z
 #: scstyles.src#DLG_STYLE_DESIGNER.Cell_Styles.1.filterlist.text
 msgctxt "scstyles.src#DLG_STYLE_DESIGNER.Cell_Styles.1.filterlist.text"
 msgid "All Styles"
 msgstr "Tots els estils"
 
+#. cv6H
 #: scstyles.src#DLG_STYLE_DESIGNER.Cell_Styles.2.filterlist.text
 msgid "Applied Styles"
 msgstr "Estils aplicats"
 
+#. hyDW
 #: scstyles.src#DLG_STYLE_DESIGNER.Cell_Styles.3.filterlist.text
 msgctxt "scstyles.src#DLG_STYLE_DESIGNER.Cell_Styles.3.filterlist.text"
 msgid "Custom Styles"
 msgstr "Estils personalitzats"
 
+# 100%
+#. MBSC
 #: scstyles.src#DLG_STYLE_DESIGNER.Page_Styles.sfxstylefamilyitem.text
 msgid "Page Styles"
 msgstr "Estils de pàgina"
 
+# 81%
+#. kLyZ
 #: scstyles.src#DLG_STYLE_DESIGNER.Page_Styles.1.filterlist.text
 msgctxt "scstyles.src#DLG_STYLE_DESIGNER.Page_Styles.1.filterlist.text"
 msgid "All Styles"
 msgstr "Tots els estils"
 
+#. 2f5H
 #: scstyles.src#DLG_STYLE_DESIGNER.Page_Styles.2.filterlist.text
 msgctxt "scstyles.src#DLG_STYLE_DESIGNER.Page_Styles.2.filterlist.text"
 msgid "Custom Styles"
 msgstr "Estils personalitzats"
 
+#. hEZH
 #: styledlg.src#RID_SCDLG_STYLES_PAR.1.TP_NUMBER.pageitem.text
 msgid "Numbers"
 msgstr "Nombres"
 
+#. _iox
 #: styledlg.src#RID_SCDLG_STYLES_PAR.1.TP_FONT.pageitem.text
 msgid "Font"
 msgstr "Tipus de lletra"
 
+#. JfHy
 #: styledlg.src#RID_SCDLG_STYLES_PAR.1.TP_FONTEFF.pageitem.text
 msgid "Font Effects"
 msgstr "Efectes de lletra"
 
+#. PGlx
 #: styledlg.src#RID_SCDLG_STYLES_PAR.1.TP_ALIGNMENT.pageitem.text
 msgid "Alignment"
 msgstr "Alineació"
 
+#. PoN4
 #: styledlg.src#RID_SCDLG_STYLES_PAR.1.TP_ASIAN.pageitem.text
 msgid "Asian Typography"
 msgstr "Tipografia asiàtica"
 
+#. YscE
 #: styledlg.src#RID_SCDLG_STYLES_PAR.1.TP_BORDER.pageitem.text
 msgctxt "styledlg.src#RID_SCDLG_STYLES_PAR.1.TP_BORDER.pageitem.text"
 msgid "Borders"
 msgstr "Vores"
 
+#. cmGz
 #: styledlg.src#RID_SCDLG_STYLES_PAR.1.TP_BACKGROUND.pageitem.text
 msgctxt "styledlg.src#RID_SCDLG_STYLES_PAR.1.TP_BACKGROUND.pageitem.text"
 msgid "Background"
 msgstr "Fons"
 
+#. uFC1
 #: styledlg.src#RID_SCDLG_STYLES_PAR.1.TP_PROTECTION.pageitem.text
 msgid "Cell Protection"
 msgstr "Protecció de cel·les"
 
+#. RCqd
 #: styledlg.src#RID_SCDLG_STYLES_PAR.tabdialog.text
 msgid "Cell Style"
 msgstr "Estil de la cel·la"
 
+#. JD2g
 #: styledlg.src#RID_SCDLG_STYLES_PAGE.1.TP_PAGE_STD.pageitem.text
 msgid "Page"
 msgstr "Pàgina"
 
+#. XPZT
 #: styledlg.src#RID_SCDLG_STYLES_PAGE.1.TP_BORDER.pageitem.text
 msgctxt "styledlg.src#RID_SCDLG_STYLES_PAGE.1.TP_BORDER.pageitem.text"
 msgid "Borders"
 msgstr "Vores"
 
+#. OGda
 #: styledlg.src#RID_SCDLG_STYLES_PAGE.1.TP_BACKGROUND.pageitem.text
 msgctxt "styledlg.src#RID_SCDLG_STYLES_PAGE.1.TP_BACKGROUND.pageitem.text"
 msgid "Background"
 msgstr "Fons"
 
+#. q3ST
 #: styledlg.src#RID_SCDLG_STYLES_PAGE.1.TP_PAGE_HEADER.pageitem.text
 msgid "Header"
 msgstr "Capçalera"
 
+#. RYy8
 #: styledlg.src#RID_SCDLG_STYLES_PAGE.1.TP_PAGE_FOOTER.pageitem.text
 msgid "Footer"
 msgstr "Peu de pàgina"
 
+#. wt8B
 #: styledlg.src#RID_SCDLG_STYLES_PAGE.1.TP_TABLE.pageitem.text
 msgid "Sheet"
 msgstr "Full"
 
+#. 6v2_
 #: styledlg.src#RID_SCDLG_STYLES_PAGE.tabdialog.text
 msgid "Page Style"
 msgstr "Estil de la pàgina"

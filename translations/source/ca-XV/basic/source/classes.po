@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+basic%2Fsource%2Fclasses.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+basic%2Fsource%2Fclasses.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:41+0200\n"
 "PO-Revision-Date: 2011-04-05 19:10+0200\n"
 "Last-Translator: jmontane <joan@montane.cat>\n"
@@ -15,548 +17,688 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. zcAN
 #: sb.src#RID_BASIC_START.SbERR_SYNTAX___ERRCODE_RES_MASK.string.text
 msgid "Syntax error."
 msgstr "Error de sintaxi."
 
+#. MNmQ
 #: sb.src#RID_BASIC_START.SbERR_NO_GOSUB___ERRCODE_RES_MASK.string.text
 msgid "Return without Gosub."
 msgstr "Return sense Gosub."
 
+#. dp7e
 #: sb.src#RID_BASIC_START.SbERR_REDO_FROM_START___ERRCODE_RES_MASK.string.text
 msgid "Incorrect entry; please retry."
 msgstr "Entrada incorrecta; torneu-ho a provar."
 
+#. 9oKA
 #: sb.src#RID_BASIC_START.SbERR_BAD_ARGUMENT___ERRCODE_RES_MASK.string.text
 msgid "Invalid procedure call."
 msgstr "La crida al procediment no és vàlida."
 
+#. KBv4
 #: sb.src#RID_BASIC_START.SbERR_MATH_OVERFLOW___ERRCODE_RES_MASK.string.text
 msgid "Overflow."
 msgstr "Desbordament."
 
+#. PsR#
 #: sb.src#RID_BASIC_START.SbERR_NO_MEMORY___ERRCODE_RES_MASK.string.text
 msgid "Not enough memory."
 msgstr "Memòria insuficient."
 
+#. BZGi
 #: sb.src#RID_BASIC_START.SbERR_ALREADY_DIM___ERRCODE_RES_MASK.string.text
 msgid "Array already dimensioned."
 msgstr "La matriu ja està dimensionada."
 
+#. QLQt
 #: sb.src#RID_BASIC_START.SbERR_OUT_OF_RANGE___ERRCODE_RES_MASK.string.text
 msgid "Index out of defined range."
 msgstr "L'índex és fora de l'interval definit."
 
+#. KLFh
 #: sb.src#RID_BASIC_START.SbERR_DUPLICATE_DEF___ERRCODE_RES_MASK.string.text
 msgid "Duplicate definition."
 msgstr "Definició duplicada."
 
+#. u#e6
 #: sb.src#RID_BASIC_START.SbERR_ZERODIV___ERRCODE_RES_MASK.string.text
 msgid "Division by zero."
 msgstr "Divisió per zero."
 
+#. H#r_
 #: sb.src#RID_BASIC_START.SbERR_VAR_UNDEFINED___ERRCODE_RES_MASK.string.text
 msgid "Variable not defined."
 msgstr "No s'ha definit la variable."
 
+#. 3U8z
 #: sb.src#RID_BASIC_START.SbERR_CONVERSION___ERRCODE_RES_MASK.string.text
 msgid "Data type mismatch."
 msgstr "Els tipus de dades no coincideixen."
 
+#. c3xi
 #: sb.src#RID_BASIC_START.SbERR_BAD_PARAMETER___ERRCODE_RES_MASK.string.text
 msgid "Invalid parameter."
 msgstr "El paràmetre no és vàlid."
 
+#. f3Lt
 #: sb.src#RID_BASIC_START.SbERR_USER_ABORT___ERRCODE_RES_MASK.string.text
 msgid "Process interrupted by user."
 msgstr "El procés ha estat interromput per l'usuari."
 
+#. XBaj
 #: sb.src#RID_BASIC_START.SbERR_BAD_RESUME___ERRCODE_RES_MASK.string.text
 msgid "Resume without error."
 msgstr "Continua sense error."
 
+#. mWH6
 #: sb.src#RID_BASIC_START.SbERR_STACK_OVERFLOW___ERRCODE_RES_MASK.string.text
 msgid "Not enough stack memory."
 msgstr "No hi ha prou memòria de pila."
 
+#. H4fJ
 #: sb.src#RID_BASIC_START.SbERR_PROC_UNDEFINED___ERRCODE_RES_MASK.string.text
 msgid "Sub-procedure or function procedure not defined."
 msgstr "No s'ha definit el subprocediment o el procediment de la funció."
 
+#. IMS3
 #: sb.src#RID_BASIC_START.SbERR_BAD_DLL_LOAD___ERRCODE_RES_MASK.string.text
 msgid "Error loading DLL file."
 msgstr "S'ha produït un error en carregar el fitxer DLL."
 
+#. n2WC
 #: sb.src#RID_BASIC_START.SbERR_BAD_DLL_CALL___ERRCODE_RES_MASK.string.text
 msgid "Wrong DLL call convention."
 msgstr "Convenció errònia en la crida a la DLL."
 
+#. BC13
 #: sb.src#RID_BASIC_START.SbERR_INTERNAL_ERROR___ERRCODE_RES_MASK.string.text
 msgid "Internal error $(ARG1)."
 msgstr "Error intern $(ARG1)."
 
+#. N5kx
 #: sb.src#RID_BASIC_START.SbERR_BAD_CHANNEL___ERRCODE_RES_MASK.string.text
 msgid "Invalid file name or file number."
 msgstr "El nom o el número del fitxer és incorrecte."
 
+#. U35s
 #: sb.src#RID_BASIC_START.SbERR_FILE_NOT_FOUND___ERRCODE_RES_MASK.string.text
 msgid "File not found."
 msgstr "No s'ha trobat el fitxer."
 
+#. 3p4L
 #: sb.src#RID_BASIC_START.SbERR_BAD_FILE_MODE___ERRCODE_RES_MASK.string.text
 msgid "Incorrect file mode."
 msgstr "Mode incorrecte del fitxer."
 
+#. AIvJ
 #: sb.src#RID_BASIC_START.SbERR_FILE_ALREADY_OPEN___ERRCODE_RES_MASK.string.text
 msgid "File already open."
 msgstr "El fitxer ja és obert."
 
+#. QqvD
 #: sb.src#RID_BASIC_START.SbERR_IO_ERROR___ERRCODE_RES_MASK.string.text
 msgid "Device I/O error."
 msgstr "Error d'E/S del dispositiu."
 
+#. H_v5
 #: sb.src#RID_BASIC_START.SbERR_FILE_EXISTS___ERRCODE_RES_MASK.string.text
 msgid "File already exists."
 msgstr "El fitxer ja existeix."
 
+#. yx_q
 #: sb.src#RID_BASIC_START.SbERR_BAD_RECORD_LENGTH___ERRCODE_RES_MASK.string.text
 msgid "Incorrect record length."
 msgstr "Longitud incorrecta del registre."
 
+#. 8v_Z
 #: sb.src#RID_BASIC_START.SbERR_DISK_FULL___ERRCODE_RES_MASK.string.text
 msgid "Disk or hard drive full."
 msgstr "El disc o el disc dur és ple."
 
+#. BjSv
 #: sb.src#RID_BASIC_START.SbERR_READ_PAST_EOF___ERRCODE_RES_MASK.string.text
 msgid "Reading exceeds EOF."
 msgstr "La lectura ultrapassa l'EOF."
 
+#. _GlV
 #: sb.src#RID_BASIC_START.SbERR_BAD_RECORD_NUMBER___ERRCODE_RES_MASK.string.text
 msgid "Incorrect record number."
 msgstr "Número incorrecte de registre."
 
+#. rio2
 #: sb.src#RID_BASIC_START.SbERR_TOO_MANY_FILES___ERRCODE_RES_MASK.string.text
 msgid "Too many files."
 msgstr "Massa fitxers."
 
+#. 8NDn
 #: sb.src#RID_BASIC_START.SbERR_NO_DEVICE___ERRCODE_RES_MASK.string.text
 msgid "Device not available."
 msgstr "El dispositiu no està disponible."
 
+#. 2s0b
 #: sb.src#RID_BASIC_START.SbERR_ACCESS_DENIED___ERRCODE_RES_MASK.string.text
 msgid "Access denied."
 msgstr "S'ha denegat l'accés."
 
+#. NVTb
 #: sb.src#RID_BASIC_START.SbERR_NOT_READY___ERRCODE_RES_MASK.string.text
 msgid "Disk not ready."
 msgstr "El disc no està preparat."
 
+#. h46D
 #: sb.src#RID_BASIC_START.SbERR_NOT_IMPLEMENTED___ERRCODE_RES_MASK.string.text
 msgid "Not implemented."
 msgstr "No està implementat."
 
+#. M8UA
 #: sb.src#RID_BASIC_START.SbERR_DIFFERENT_DRIVE___ERRCODE_RES_MASK.string.text
 msgid "Renaming on different drives impossible."
 msgstr "No es pot reanomenar en unitats diferents."
 
+#. z7q#
 #: sb.src#RID_BASIC_START.SbERR_ACCESS_ERROR___ERRCODE_RES_MASK.string.text
 msgid "Path/File access error."
 msgstr "Error d'accés al camí/fitxer."
 
+#. FL0y
 #: sb.src#RID_BASIC_START.SbERR_PATH_NOT_FOUND___ERRCODE_RES_MASK.string.text
 msgid "Path not found."
 msgstr "No s'ha trobat el camí."
 
+#. wtpb
 #: sb.src#RID_BASIC_START.SbERR_NO_OBJECT___ERRCODE_RES_MASK.string.text
 msgid "Object variable not set."
 msgstr "La variable d'objecte no està definida."
 
+#. AV0G
 #: sb.src#RID_BASIC_START.SbERR_BAD_PATTERN___ERRCODE_RES_MASK.string.text
 msgid "Invalid string pattern."
 msgstr "El patró de la cadena no és vàlid."
 
+#. zlEZ
 #: sb.src#RID_BASIC_START.SBERR_IS_NULL___ERRCODE_RES_MASK.string.text
 msgid "Use of zero not permitted."
 msgstr "L'ús del zero no és permés."
 
+#. xG5U
 #: sb.src#RID_BASIC_START.SbERR_DDE_ERROR___ERRCODE_RES_MASK.string.text
 msgid "DDE Error."
 msgstr "Error DDE."
 
+#. cNIQ
 #: sb.src#RID_BASIC_START.SbERR_DDE_WAITINGACK___ERRCODE_RES_MASK.string.text
 msgid "Awaiting response to DDE connection."
 msgstr "S'està esperant resposta a la connexió DDE."
 
+#. Lwmx
 #: sb.src#RID_BASIC_START.SbERR_DDE_OUTOFCHANNELS___ERRCODE_RES_MASK.string.text
 msgid "No DDE channels available."
 msgstr "No hi ha canals DDE disponibles."
 
+#. mY03
 #: sb.src#RID_BASIC_START.SbERR_DDE_NO_RESPONSE___ERRCODE_RES_MASK.string.text
 msgid "No application responded to DDE connect initiation."
 msgstr "Cap aplicació no ha respost a la iniciació de la connexió DDE."
 
+#. vWE1
 #: sb.src#RID_BASIC_START.SbERR_DDE_MULT_RESPONSES___ERRCODE_RES_MASK.string.text
 msgid "Too many applications responded to DDE connect initiation."
 msgstr "Massa aplicacions han respost a la iniciació de la connexió DDE."
 
+#. nf7t
 #: sb.src#RID_BASIC_START.SbERR_DDE_CHANNEL_LOCKED___ERRCODE_RES_MASK.string.text
 msgid "DDE channel locked."
 msgstr "Canal DDE blocat."
 
+#. 8JIT
 #: sb.src#RID_BASIC_START.SbERR_DDE_NOTPROCESSED___ERRCODE_RES_MASK.string.text
 msgid "External application cannot execute DDE operation."
 msgstr "L'aplicació externa no pot executar l'operació DDE."
 
+#. _qGm
 #: sb.src#RID_BASIC_START.SbERR_DDE_TIMEOUT___ERRCODE_RES_MASK.string.text
 msgid "Timeout while waiting for DDE response."
 msgstr "S'ha excedit el temps mentre s'esperava la resposta DDE."
 
+#. XsJR
 #: sb.src#RID_BASIC_START.SbERR_DDE_USER_INTERRUPT___ERRCODE_RES_MASK.string.text
 msgid "User pressed ESCAPE during DDE operation."
 msgstr "L'usuari ha premut la tecla d'escapada durant l'operació DDE."
 
+#. maao
 #: sb.src#RID_BASIC_START.SbERR_DDE_BUSY___ERRCODE_RES_MASK.string.text
 msgid "External application busy."
 msgstr "L'aplicació externa està ocupada."
 
+#. fr9X
 #: sb.src#RID_BASIC_START.SbERR_DDE_NO_DATA___ERRCODE_RES_MASK.string.text
 msgid "DDE operation without data."
 msgstr "L'operació DDE no té dades."
 
+#. WAXa
 #: sb.src#RID_BASIC_START.SbERR_DDE_WRONG_DATA_FORMAT___ERRCODE_RES_MASK.string.text
 msgid "Data are in wrong format."
 msgstr "Les dades són en un format erroni."
 
+#. sS_#
 #: sb.src#RID_BASIC_START.SbERR_DDE_PARTNER_QUIT___ERRCODE_RES_MASK.string.text
 msgid "External application has been terminated."
 msgstr "L'aplicació externa ha estat finalitzada."
 
+#. DjmU
 #: sb.src#RID_BASIC_START.SbERR_DDE_CONV_CLOSED___ERRCODE_RES_MASK.string.text
 msgid "DDE connection interrupted or modified."
 msgstr "S'ha interromput o modificat la connexió DDE."
 
+#. 0lJn
 #: sb.src#RID_BASIC_START.SbERR_DDE_NO_CHANNEL___ERRCODE_RES_MASK.string.text
 msgid "DDE method invoked with no channel open."
 msgstr "S'ha demanat el mètode DDE sense cap canal obert."
 
+#. _xq0
 #: sb.src#RID_BASIC_START.SbERR_DDE_INVALID_LINK___ERRCODE_RES_MASK.string.text
 msgid "Invalid DDE link format."
 msgstr "El format de l'enllaç DDE no és vàlid."
 
+#. LAHN
 #: sb.src#RID_BASIC_START.SbERR_DDE_QUEUE_OVERFLOW___ERRCODE_RES_MASK.string.text
 msgid "DDE message has been lost."
 msgstr "S'ha perdut el missatge DDE."
 
+#. qIgK
 #: sb.src#RID_BASIC_START.SbERR_DDE_LINK_ALREADY_EST___ERRCODE_RES_MASK.string.text
 msgid "Paste link already performed."
 msgstr "L'enllaç ja s'ha apegat."
 
+#. 03mC
 #: sb.src#RID_BASIC_START.SbERR_DDE_LINK_INV_TOPIC___ERRCODE_RES_MASK.string.text
 msgid "Link mode cannot be set due to invalid link topic."
-msgstr "No es pot definir el mode d'enllaç perquè el tema de l'enllaç no és vàlid."
+msgstr ""
+"No es pot definir el mode d'enllaç perquè el tema de l'enllaç no és vàlid."
 
+#. RdIQ
 #: sb.src#RID_BASIC_START.SbERR_DDE_DLL_NOT_FOUND___ERRCODE_RES_MASK.string.text
 msgid "DDE requires the DDEML.DLL file."
 msgstr "El DDE necessita el fitxer DDEML.DLL."
 
+#. S6GZ
 #: sb.src#RID_BASIC_START.SbERR_CANNOT_LOAD___ERRCODE_RES_MASK.string.text
 msgid "Module cannot be loaded; invalid format."
 msgstr "No es pot carregar el mòdul; el format no és vàlid."
 
+#. Qey0
 #: sb.src#RID_BASIC_START.SbERR_BAD_INDEX___ERRCODE_RES_MASK.string.text
 msgid "Invalid object index."
 msgstr "L'índex de l'objecte no és vàlid."
 
+#. a5P1
 #: sb.src#RID_BASIC_START.SbERR_NO_ACTIVE_OBJECT___ERRCODE_RES_MASK.string.text
 msgid "Object is not available."
 msgstr "L'objecte no està disponible."
 
+#. pF9h
 #: sb.src#RID_BASIC_START.SbERR_BAD_PROP_VALUE___ERRCODE_RES_MASK.string.text
 msgid "Incorrect property value."
 msgstr "Valor incorrecte de la propietat."
 
+#. Qe13
 #: sb.src#RID_BASIC_START.SbERR_PROP_READONLY___ERRCODE_RES_MASK.string.text
 msgid "This property is read-only."
 msgstr "Esta propietat és només de lectura."
 
+#. L7n6
 #: sb.src#RID_BASIC_START.SbERR_PROP_WRITEONLY___ERRCODE_RES_MASK.string.text
 msgid "This property is write only."
 msgstr "Esta propietat és només d'escriptura."
 
+#. OXfx
 #: sb.src#RID_BASIC_START.SbERR_INVALID_OBJECT___ERRCODE_RES_MASK.string.text
 msgid "Invalid object reference."
 msgstr "La referència de l'objecte no és vàlida."
 
+#. QQYm
 #: sb.src#RID_BASIC_START.SbERR_NO_METHOD___ERRCODE_RES_MASK.string.text
 msgid "Property or method not found: $(ARG1)."
 msgstr "No s'ha trobat la propietat o el mètode: $(ARG1)."
 
+#. b0X5
 #: sb.src#RID_BASIC_START.SbERR_NEEDS_OBJECT___ERRCODE_RES_MASK.string.text
 msgid "Object required."
 msgstr "Es necessita un objecte."
 
+#. n5W8
 #: sb.src#RID_BASIC_START.SbERR_INVALID_USAGE_OBJECT___ERRCODE_RES_MASK.string.text
 msgid "Invalid use of an object."
 msgstr "Ús no vàlid d'un objecte."
 
+#. B4iQ
 #: sb.src#RID_BASIC_START.SbERR_NO_OLE___ERRCODE_RES_MASK.string.text
 msgid "OLE Automation is not supported by this object."
 msgstr "Este objecte no permet l'automatització OLE."
 
+#. VE_D
 #: sb.src#RID_BASIC_START.SbERR_BAD_METHOD___ERRCODE_RES_MASK.string.text
 msgid "This property or method is not supported by the object."
 msgstr "L'objecte no permet esta propietat o mètode."
 
+#. tO0t
 #: sb.src#RID_BASIC_START.SbERR_OLE_ERROR___ERRCODE_RES_MASK.string.text
 msgid "OLE Automation Error."
 msgstr "Error d'automatització OLE."
 
+#. aqjf
 #: sb.src#RID_BASIC_START.SbERR_BAD_ACTION___ERRCODE_RES_MASK.string.text
 msgid "This action is not supported by given object."
 msgstr "L'objecte indicat no permet esta acció."
 
+#. j3du
 #: sb.src#RID_BASIC_START.SbERR_NO_NAMED_ARGS___ERRCODE_RES_MASK.string.text
 msgid "Named arguments are not supported by given object."
 msgstr "L'objecte indicat no permet els arguments anomenats."
 
+#. nqk4
 #: sb.src#RID_BASIC_START.SbERR_BAD_LOCALE___ERRCODE_RES_MASK.string.text
 msgid "The current locale setting is not supported by the given object."
 msgstr "L'objecte indicat no permet la configuració de llengua actual."
 
+#. IEco
 #: sb.src#RID_BASIC_START.SbERR_NAMED_NOT_FOUND___ERRCODE_RES_MASK.string.text
 msgid "Named argument not found."
 msgstr "No s'ha trobat l'objecte anomenat."
 
+#. i4pL
 #: sb.src#RID_BASIC_START.SbERR_NOT_OPTIONAL___ERRCODE_RES_MASK.string.text
 msgid "Argument is not optional."
 msgstr "L'argument no és opcional."
 
+#. Nahd
 #: sb.src#RID_BASIC_START.SbERR_WRONG_ARGS___ERRCODE_RES_MASK.string.text
-msgctxt "sb.src#RID_BASIC_START.SbERR_WRONG_ARGS___ERRCODE_RES_MASK.string.text"
+msgctxt ""
+"sb.src#RID_BASIC_START.SbERR_WRONG_ARGS___ERRCODE_RES_MASK.string.text"
 msgid "Invalid number of arguments."
 msgstr "El nombre d'arguments no és vàlid."
 
+#. c4L4
 #: sb.src#RID_BASIC_START.SbERR_NOT_A_COLL___ERRCODE_RES_MASK.string.text
 msgid "Object is not a list."
 msgstr "L'objecte no és una llista."
 
+#. CVZI
 #: sb.src#RID_BASIC_START.SbERR_BAD_ORDINAL___ERRCODE_RES_MASK.string.text
 msgid "Invalid ordinal number."
 msgstr "El nombre ordinal no és vàlid."
 
+#. nSOW
 #: sb.src#RID_BASIC_START.SbERR_DLLPROC_NOT_FOUND___ERRCODE_RES_MASK.string.text
 msgid "Specified DLL function not found."
 msgstr "No s'ha trobat la funció DLL indicada."
 
+#. NJss
 #: sb.src#RID_BASIC_START.SbERR_BAD_CLIPBD_FORMAT___ERRCODE_RES_MASK.string.text
 msgid "Invalid clipboard format."
 msgstr "El format del porta-retalls no és vàlid."
 
+#. kYPR
 #: sb.src#RID_BASIC_START.SbERR_PROPERTY_NOT_FOUND___ERRCODE_RES_MASK.string.text
 msgid "Object does not have this property."
 msgstr "L'objecte no té esta propietat."
 
+#. sswM
 #: sb.src#RID_BASIC_START.SbERR_METHOD_NOT_FOUND___ERRCODE_RES_MASK.string.text
 msgid "Object does not have this method."
 msgstr "L'objecte no té este mètode."
 
+#. SK90
 #: sb.src#RID_BASIC_START.SbERR_ARG_MISSING___ERRCODE_RES_MASK.string.text
 msgid "Required argument lacking."
 msgstr "Manca un argument necessari."
 
+#. Kku9
 #: sb.src#RID_BASIC_START.SbERR_BAD_NUMBER_OF_ARGS___ERRCODE_RES_MASK.string.text
-msgctxt "sb.src#RID_BASIC_START.SbERR_BAD_NUMBER_OF_ARGS___ERRCODE_RES_MASK.string.text"
+msgctxt ""
+"sb.src#RID_BASIC_START.SbERR_BAD_NUMBER_OF_ARGS___ERRCODE_RES_MASK.string."
+"text"
 msgid "Invalid number of arguments."
 msgstr "El nombre d'arguments no és vàlid."
 
+#. WDqR
 #: sb.src#RID_BASIC_START.SbERR_METHOD_FAILED___ERRCODE_RES_MASK.string.text
 msgid "Error executing a method."
 msgstr "S'ha produït un error en executar un mètode."
 
+#. VIEN
 #: sb.src#RID_BASIC_START.SbERR_SETPROP_FAILED___ERRCODE_RES_MASK.string.text
 msgid "Unable to set property."
 msgstr "No es pot definir la propietat."
 
+#. U4S5
 #: sb.src#RID_BASIC_START.SbERR_GETPROP_FAILED___ERRCODE_RES_MASK.string.text
 msgid "Unable to determine property."
 msgstr "No es pot determinar la propietat."
 
+#. PD_T
 #: sb.src#RID_BASIC_START.SbERR_UNEXPECTED___ERRCODE_RES_MASK.string.text
 msgid "Unexpected symbol: $(ARG1)."
 msgstr "No s'esperava el símbol: $(ARG1)."
 
+#. dyVn
 #: sb.src#RID_BASIC_START.SbERR_EXPECTED___ERRCODE_RES_MASK.string.text
 msgid "Expected: $(ARG1)."
 msgstr "S'esperava: $(ARG1)."
 
+#. IEjb
 #: sb.src#RID_BASIC_START.SbERR_SYMBOL_EXPECTED___ERRCODE_RES_MASK.string.text
 msgid "Symbol expected."
 msgstr "S'esperava un símbol."
 
+#. _mjG
 #: sb.src#RID_BASIC_START.SbERR_VAR_EXPECTED___ERRCODE_RES_MASK.string.text
 msgid "Variable expected."
 msgstr "S'esperava una variable."
 
+#. p2OK
 #: sb.src#RID_BASIC_START.SbERR_LABEL_EXPECTED___ERRCODE_RES_MASK.string.text
 msgid "Label expected."
 msgstr "S'esperava una etiqueta."
 
+#. ufQ9
 #: sb.src#RID_BASIC_START.SbERR_LVALUE_EXPECTED___ERRCODE_RES_MASK.string.text
 msgid "Value cannot be applied."
 msgstr "No es pot aplicar el valor."
 
+#. 7wL#
 #: sb.src#RID_BASIC_START.SbERR_VAR_DEFINED___ERRCODE_RES_MASK.string.text
 msgid "Variable $(ARG1) already defined."
 msgstr "La variable $(ARG1) ja s'ha definit."
 
+#. e4ZV
 #: sb.src#RID_BASIC_START.SbERR_PROC_DEFINED___ERRCODE_RES_MASK.string.text
 msgid "Sub procedure or function procedure $(ARG1) already defined."
 msgstr "El subprocediment o el procediment de funció $(ARG1) ja s'ha definit."
 
+#. trvp
 #: sb.src#RID_BASIC_START.SbERR_LABEL_DEFINED___ERRCODE_RES_MASK.string.text
 msgid "Label $(ARG1) already defined."
 msgstr "L'etiqueta $(ARG1) ja s'ha definit."
 
+#. ut#0
 #: sb.src#RID_BASIC_START.SbERR_UNDEF_VAR___ERRCODE_RES_MASK.string.text
 msgid "Variable $(ARG1) not found."
 msgstr "No s'ha trobat la variable $(ARG1)."
 
+#. A7CV
 #: sb.src#RID_BASIC_START.SbERR_UNDEF_ARRAY___ERRCODE_RES_MASK.string.text
 msgid "Array or procedure $(ARG1) not found."
 msgstr "No s'ha trobat la matriu o el procediment $(ARG1)."
 
+#. TRrt
 #: sb.src#RID_BASIC_START.SbERR_UNDEF_PROC___ERRCODE_RES_MASK.string.text
 msgid "Procedure $(ARG1) not found."
 msgstr "No s'ha trobat el procediment $(ARG1)."
 
+#. nRK9
 #: sb.src#RID_BASIC_START.SbERR_UNDEF_LABEL___ERRCODE_RES_MASK.string.text
 msgid "Label $(ARG1) undefined."
 msgstr "No s'ha definit l'etiqueta $(ARG1)."
 
+#. lNP5
 #: sb.src#RID_BASIC_START.SbERR_UNDEF_TYPE___ERRCODE_RES_MASK.string.text
 msgid "Unknown data type $(ARG1)."
 msgstr "Tipus de dades desconegut $(ARG1)."
 
+#. h00X
 #: sb.src#RID_BASIC_START.SbERR_BAD_EXIT___ERRCODE_RES_MASK.string.text
 msgid "Exit $(ARG1) expected."
 msgstr "S'esperava l'eixida $(ARG1)."
 
+#. k41S
 #: sb.src#RID_BASIC_START.SbERR_BAD_BLOCK___ERRCODE_RES_MASK.string.text
 msgid "Statement block still open: $(ARG1) missing."
 msgstr "El bloc d'expressions encara és obert: falta $(ARG1)."
 
+#. l5R8
 #: sb.src#RID_BASIC_START.SbERR_BAD_BRACKETS___ERRCODE_RES_MASK.string.text
 msgid "Parentheses do not match."
 msgstr "Els parèntesis no concorden."
 
+#. D5Vo
 #: sb.src#RID_BASIC_START.SbERR_BAD_DECLARATION___ERRCODE_RES_MASK.string.text
 msgid "Symbol $(ARG1) already defined differently."
 msgstr "El símbol $(ARG1) ja s'ha definit d'una altra manera."
 
+#. Fj_n
 #: sb.src#RID_BASIC_START.SbERR_BAD_PARAMETERS___ERRCODE_RES_MASK.string.text
 msgid "Parameters do not correspond to procedure."
 msgstr "Els paràmetres no corresponen al procediment."
 
+#. GDx6
 #: sb.src#RID_BASIC_START.SbERR_BAD_CHAR_IN_NUMBER___ERRCODE_RES_MASK.string.text
 msgid "Invalid character in number."
 msgstr "El nombre conté un caràcter no vàlid."
 
+#. eRQ9
 #: sb.src#RID_BASIC_START.SbERR_MUST_HAVE_DIMS___ERRCODE_RES_MASK.string.text
 msgid "Array must be dimensioned."
 msgstr "S'ha de dimensionar la matriu."
 
+#. qYmm
 #: sb.src#RID_BASIC_START.SbERR_NO_IF___ERRCODE_RES_MASK.string.text
 msgid "Else/Endif without If."
 msgstr "Else/Endif sense If."
 
+#. 7sQ6
 #: sb.src#RID_BASIC_START.SbERR_NOT_IN_SUBR___ERRCODE_RES_MASK.string.text
 msgid "$(ARG1) not allowed within a procedure."
 msgstr "$(ARG1) no està permés dins d'un procediment."
 
+#. Gpj1
 #: sb.src#RID_BASIC_START.SbERR_NOT_IN_MAIN___ERRCODE_RES_MASK.string.text
 msgid "$(ARG1) not allowed outside a procedure."
 msgstr "$(ARG1) no està permés fora d'un procediment."
 
+#. C75S
 #: sb.src#RID_BASIC_START.SbERR_WRONG_DIMS___ERRCODE_RES_MASK.string.text
 msgid "Dimension specifications do not match."
 msgstr "Les especificacions de dimensió no coincideixen."
 
+#. nbJb
 #: sb.src#RID_BASIC_START.SbERR_BAD_OPTION___ERRCODE_RES_MASK.string.text
 msgid "Unknown option: $(ARG1)."
 msgstr "Opció desconeguda: $(ARG1)."
 
+#. OxPg
 #: sb.src#RID_BASIC_START.SbERR_CONSTANT_REDECLARED___ERRCODE_RES_MASK.string.text
 msgid "Constant $(ARG1) redefined."
 msgstr "S'ha donat un altre valor a la constant $(ARG1)."
 
+#. uxdy
 #: sb.src#RID_BASIC_START.SbERR_PROG_TOO_LARGE___ERRCODE_RES_MASK.string.text
 msgid "Program too large."
 msgstr "El programa és massa gran."
 
+#. H82X
 #: sb.src#RID_BASIC_START.SbERR_NO_STRINGS_ARRAYS___ERRCODE_RES_MASK.string.text
 msgid "Strings or arrays not permitted."
 msgstr "No es permet l'ús de cadenes ni matrius."
 
+#. NWW8
 #: sb.src#RID_BASIC_START.ERRCODE_BASIC_EXCEPTION___ERRCODE_RES_MASK.string.text
 msgid "An exception occurred $(ARG1)."
 msgstr "S'ha produït una excepció $(ARG1)."
 
+#. zecg
 #: sb.src#RID_BASIC_START.ERRCODE_BASIC_ARRAY_FIX___ERRCODE_RES_MASK.string.text
 msgid "This array is fixed or temporarily locked."
 msgstr "Esta matriu és fixa o està bloquejada temporalment."
 
+#. ToAu
 #: sb.src#RID_BASIC_START.ERRCODE_BASIC_STRING_OVERFLOW___ERRCODE_RES_MASK.string.text
 msgid "Out of string space."
 msgstr "S'ha esgotat l'espai a la cadena."
 
+#. kCtX
 #: sb.src#RID_BASIC_START.ERRCODE_BASIC_EXPR_TOO_COMPLEX___ERRCODE_RES_MASK.string.text
 msgid "Expression Too Complex."
 msgstr "L'expressió és massa complexa."
 
+#. VodY
 #: sb.src#RID_BASIC_START.ERRCODE_BASIC_OPER_NOT_PERFORM___ERRCODE_RES_MASK.string.text
 msgid "Can't perform requested operation."
 msgstr "No es pot executar l'operació sol·licitada."
 
+#. HOtv
 #: sb.src#RID_BASIC_START.ERRCODE_BASIC_TOO_MANY_DLL___ERRCODE_RES_MASK.string.text
 msgid "Too many DLL application clients."
 msgstr "Hi ha massa clients d'aplicació DLL."
 
+#. pI4Z
 #: sb.src#RID_BASIC_START.ERRCODE_BASIC_LOOP_NOT_INIT___ERRCODE_RES_MASK.string.text
 msgid "For loop not initialized."
 msgstr "No s'ha inicialitzat el bucle for."
 
+#. LFYh
 #: sb.src#RID_BASIC_START.ERRCODE_BASIC_COMPAT___ERRCODE_RES_MASK.string.text
 msgid "$(ARG1)"
 msgstr "$(ARG1)"
 
+#. Lq9Z
 #: sb.src#IDS_SBERR_TERMINATED.string.text
 msgid "The macro running has been interrupted"
 msgstr "S'ha interromput la macro activa."
 
+#. 062x
 #: sb.src#IDS_SBERR_STOREREF.string.text
 msgid "Reference will not be saved: "
 msgstr "No s'alçarà la referència: "
 
+#. 1E8q
 #: sb.src#ERRCODE_BASMGR_LIBLOAD___ERRCODE_RES_MASK.string.text
 msgid "Error loading library '$(ARG1)'."
 msgstr "S'ha produït un error en carregar la biblioteca \"$(ARG1)\"."
 
+#. LF3d
 #: sb.src#ERRCODE_BASMGR_LIBSAVE___ERRCODE_RES_MASK.string.text
 msgid "Error saving library: '$(ARG1)'."
 msgstr "S'ha produït un error en alçar la biblioteca: \"$(ARG1)\"."
 
+#. Or#6
 #: sb.src#ERRCODE_BASMGR_MGROPEN___ERRCODE_RES_MASK.string.text
 msgid "The BASIC from the file '$(ARG1)' could not be initialized."
 msgstr "No es pot inicialitzar el BASIC del fitxer \"$(ARG1)\"."
 
+#. eBo6
 #: sb.src#ERRCODE_BASMGR_MGRSAVE___ERRCODE_RES_MASK.string.text
 msgid "Error saving BASIC: '$(ARG1)'."
 msgstr "S'ha produït un error en alçar el BASIC: \"$(ARG1)\"."
 
+#. h3Pl
 #: sb.src#ERRCODE_BASMGR_REMOVELIB___ERRCODE_RES_MASK.string.text
 msgid "Error removing library."
 msgstr "S'ha produït un error en eliminar la biblioteca."
 
+#. qjmG
 #: sb.src#ERRCODE_BASMGR_UNLOADLIB___ERRCODE_RES_MASK.string.text
 msgid "The library could not be removed from memory."
 msgstr "No s'ha pogut eliminar la biblioteca de la memòria."

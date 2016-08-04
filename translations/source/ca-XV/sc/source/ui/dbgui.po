@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+sc%2Fsource%2Fui%2Fdbgui.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+sc%2Fsource%2Fui%2Fdbgui.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:43+0200\n"
 "PO-Revision-Date: 2011-11-26 21:50+0200\n"
 "Last-Translator: Jesús <jesus@softcatala.org>\n"
@@ -15,158 +17,197 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. iSh#
 #: asciiopt.src#RID_SCDLG_ASCII.FL_FIELDOPT.fixedline.text
 msgid "Import"
 msgstr "Importa"
 
+#. nOr8
 #: asciiopt.src#RID_SCDLG_ASCII.FT_CHARSET.fixedtext.text
 msgid "Ch~aracter set"
 msgstr "Joc de c~aràcters"
 
+#. HEj7
 #: asciiopt.src#RID_SCDLG_ASCII.FT_CUSTOMLANG.fixedtext.text
 msgid "Language"
 msgstr "Llengua"
 
+#. JscH
 #: asciiopt.src#RID_SCDLG_ASCII.FT_AT_ROW.fixedtext.text
 msgid "From ro~w"
 msgstr "Des de la f~ila"
 
+#. V9mz
 #: asciiopt.src#RID_SCDLG_ASCII.FL_SEPOPT.fixedline.text
 msgid "Separator options"
 msgstr "Opcions del separador"
 
+#. mVyU
 #: asciiopt.src#RID_SCDLG_ASCII.RB_FIXED.radiobutton.text
 msgid "~Fixed width"
 msgstr "~Amplada fixa"
 
+#. uluK
 #: asciiopt.src#RID_SCDLG_ASCII.RB_SEPARATED.radiobutton.text
 msgid "~Separated by"
 msgstr "~Separat per"
 
+#. 40Kt
 #: asciiopt.src#RID_SCDLG_ASCII.CKB_TAB.checkbox.text
 msgid "~Tab"
 msgstr "~Tabulació"
 
+#. BG9b
 #: asciiopt.src#RID_SCDLG_ASCII.CKB_COMMA.checkbox.text
 msgid "~Comma"
 msgstr "~Coma"
 
+#. uF6I
 #: asciiopt.src#RID_SCDLG_ASCII.CKB_OTHER.checkbox.text
 msgid "~Other"
 msgstr "~Altres"
 
+#. ssHf
 #: asciiopt.src#RID_SCDLG_ASCII.CKB_SEMICOLON.checkbox.text
 msgid "S~emicolon"
 msgstr "P~unt i coma"
 
+#. DOLi
 #: asciiopt.src#RID_SCDLG_ASCII.CKB_SPACE.checkbox.text
 msgid "S~pace"
 msgstr "Es~pai"
 
+#. iY7R
 #: asciiopt.src#RID_SCDLG_ASCII.CB_ASONCE.checkbox.text
 msgid "Merge ~delimiters"
 msgstr "Fusiona els ~delimitadors"
 
+#. TGNK
 #: asciiopt.src#RID_SCDLG_ASCII.FT_TEXTSEP.fixedtext.text
 msgid "Te~xt delimiter"
 msgstr "Delimitador de te~xt"
 
+#. nWUx
 #: asciiopt.src#RID_SCDLG_ASCII.FL_OTHER_OPTIONS.fixedline.text
 msgid "Other options"
 msgstr "Altres opcions"
 
+#. nD85
 #: asciiopt.src#RID_SCDLG_ASCII.CB_QUOTED_AS_TEXT.checkbox.text
 msgid "~Quoted field as text"
 msgstr "~Camp citat com a text"
 
+#. c#Vc
 #: asciiopt.src#RID_SCDLG_ASCII.CB_DETECT_SPECIAL_NUMBER.checkbox.text
 msgid "Detect special numbers"
 msgstr "Detecta els nombres especials"
 
+#. LgOA
 #: asciiopt.src#RID_SCDLG_ASCII.FL_WIDTH.fixedline.text
 msgid "Fields"
 msgstr "Camps"
 
+#. A_oP
 #: asciiopt.src#RID_SCDLG_ASCII.FT_TYPE.fixedtext.text
 msgid "Column t~ype"
 msgstr "T~ipus de columna"
 
+#. lkqM
 #: asciiopt.src#RID_SCDLG_ASCII.STR_TEXTTOCOLUMNS.string.text
 msgid "Text to Columns"
 msgstr "Text a columnes"
 
+#. NAGr
 #: asciiopt.src#RID_SCDLG_ASCII.modaldialog.text
 msgid "Text Import"
 msgstr "Importació de text"
 
+#. 0JiJ
 #: scendlg.src#RID_SCDLG_NEWSCENARIO.CB_SHOWFRAME.checkbox.text
 msgid "~Display border"
 msgstr "~Visualitza la vora"
 
+#. FBwi
 #: scendlg.src#RID_SCDLG_NEWSCENARIO.CB_PRINTFRAME.checkbox.text
 msgid "Print border"
 msgstr "Imprimeix la vora"
 
+#. JWOK
 #: scendlg.src#RID_SCDLG_NEWSCENARIO.CB_TWOWAY.checkbox.text
 msgid "Copy ~back"
 msgstr "Copia ~arrere"
 
+#. tiYa
 #: scendlg.src#RID_SCDLG_NEWSCENARIO.CB_ATTRIB.checkbox.text
 msgid "Attributes"
 msgstr "Atributs"
 
+#. cuoJ
 #: scendlg.src#RID_SCDLG_NEWSCENARIO.CB_VALUE.checkbox.text
 msgid "Copy values only"
 msgstr "Copia només els valors"
 
+#. ANxL
 #: scendlg.src#RID_SCDLG_NEWSCENARIO.CB_COPYALL.checkbox.text
 msgid "Copy ~entire sheet"
 msgstr "Copia tot ~el full"
 
+#. 0zWY
 #: scendlg.src#RID_SCDLG_NEWSCENARIO.CB_PROTECT.checkbox.text
 msgid "~Prevent changes"
 msgstr "E~vita els canvis"
 
+#. KHzz
 #: scendlg.src#RID_SCDLG_NEWSCENARIO.STR_EDIT.string.text
 msgid "Edit Scenario"
 msgstr "Edita l'escenari"
 
+#. FMYx
 #: scendlg.src#RID_SCDLG_NEWSCENARIO.STR_CREATEDBY.string.text
 msgid "Created by"
 msgstr "Creat per"
 
+#. APVX
 #: scendlg.src#RID_SCDLG_NEWSCENARIO.STR_ON.string.text
 msgid "on"
 msgstr "el"
 
+#. _6Ky
 #: scendlg.src#RID_SCDLG_NEWSCENARIO.STR_COLOR.string.text
 msgid "Display border in"
 msgstr "Visualitza la vora a"
 
+#. XfAh
 #: scendlg.src#RID_SCDLG_NEWSCENARIO.FL_NAME.fixedline.text
 msgid "~Name of scenario"
 msgstr "~Nom de l'escenari"
 
+#. 6HSb
 #: scendlg.src#RID_SCDLG_NEWSCENARIO.FL_COMMENT.fixedline.text
 msgid "~Comment"
 msgstr "~Comentari"
 
+#. bZ4o
 #: scendlg.src#RID_SCDLG_NEWSCENARIO.FL_OPTIONS.fixedline.text
 msgid "Settings"
 msgstr "Paràmetres"
 
+#. OzTS
 #: scendlg.src#RID_SCDLG_NEWSCENARIO.modaldialog.text
 msgid "Create Scenario"
 msgstr "Crea un escenari"
 
+#. lgx9
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.FT_PAGE.fixedtext.text
 msgid "Page Fields"
 msgstr "Camps de pàgina"
 
+#. iRrr
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.FT_COL.fixedtext.text
 msgid "Column Fields"
 msgstr "Camps de columna"
 
+#. _JZ2
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.FT_ROW.fixedtext.text
 msgid ""
 "Row\n"
@@ -175,954 +216,1186 @@ msgstr ""
 "Camps de\n"
 "fila"
 
+#. DzNS
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.FT_DATA.fixedtext.text
 msgid "Data Fields"
 msgstr "Camps de dades"
 
+#. 07_X
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.STR_SELECT.string.text
 msgid "Selection area"
 msgstr "Àrea de selecció"
 
+#. BcL5
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.FT_INFO.fixedtext.text
 msgid "Drag the fields from the right into the desired position."
 msgstr "Arrossegueu els camps de la dreta fins a la posició desitjada."
 
+#. 9_rC
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.FL_LAYOUT.fixedline.text
 msgid "Layout"
 msgstr "Disseny"
 
+#. fNF5
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.BTN_REMOVE.pushbutton.text
 msgid "Remove"
 msgstr "Suprimeix"
 
+#. trqi
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.BTN_OPTIONS.pushbutton.text
 msgid "Options..."
 msgstr "Opcions..."
 
+#. B4lZ
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.FL_OUTPUT.fixedline.text
 msgid "Result"
 msgstr "Resultat"
 
+#. 4#fd
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.FT_INAREA.fixedtext.text
 msgid "Selection from"
 msgstr "Selecció a partir de"
 
+#. 9KBK
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.RB_INAREA.imagebutton.text
 msgctxt "pivot.src#RID_SCDLG_PIVOT_LAYOUT.RB_INAREA.imagebutton.text"
 msgid "-"
 msgstr "-"
 
+#. JxyG
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.RB_INAREA.imagebutton.quickhelptext
 msgctxt "pivot.src#RID_SCDLG_PIVOT_LAYOUT.RB_INAREA.imagebutton.quickhelptext"
 msgid "Shrink"
 msgstr "Encongeix"
 
+#. K3GW
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.FT_OUTAREA.fixedtext.text
 msgid "Results to"
 msgstr "Resultats a"
 
+#. ESHR
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.RB_OUTAREA.imagebutton.text
 msgctxt "pivot.src#RID_SCDLG_PIVOT_LAYOUT.RB_OUTAREA.imagebutton.text"
 msgid "-"
 msgstr "-"
 
+#. SWgu
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.RB_OUTAREA.imagebutton.quickhelptext
 msgctxt "pivot.src#RID_SCDLG_PIVOT_LAYOUT.RB_OUTAREA.imagebutton.quickhelptext"
 msgid "Shrink"
 msgstr "Encongeix"
 
+#. PtGA
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.BTN_IGNEMPTYROWS.checkbox.text
 msgid "Ignore ~empty rows"
 msgstr "Ignora les files ~buides"
 
+#. Wwj8
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.BTN_DETECTCAT.checkbox.text
 msgid "~Identify categories"
 msgstr "~Identifica les categories"
 
+#. p#lC
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.BTN_TOTALCOL.checkbox.text
 msgid "Total columns"
 msgstr "Total de ~columnes"
 
+#. 8HDv
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.BTN_TOTALROW.checkbox.text
 msgid "~Total rows"
 msgstr "~Total de files"
 
+#. M57Q
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.BTN_FILTER.checkbox.text
 msgid "~Add filter"
 msgstr "~Afig un filtre"
 
+#. Xbuo
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.BTN_DRILLDOWN.checkbox.text
 msgid "Ena~ble drill to details"
 msgstr "Ha~bilita l'anàlisi dels detalls"
 
+#. AI#K
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.PIVOTSTR_SUM.string.text
 msgid "Sum - "
 msgstr "Suma - "
 
+#. FXae
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.PIVOTSTR_COUNT.string.text
 msgctxt "pivot.src#RID_SCDLG_PIVOT_LAYOUT.PIVOTSTR_COUNT.string.text"
 msgid "Count - "
 msgstr "Compta - "
 
+#. GZXM
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.PIVOTSTR_AVG.string.text
 msgid "Mean - "
 msgstr "Mitjana - "
 
+#. VKHZ
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.PIVOTSTR_MAX.string.text
 msgid "Max - "
 msgstr "Màx. - "
 
+#. igF6
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.PIVOTSTR_MIN.string.text
 msgid "Min - "
 msgstr "Mín. - "
 
+#. Welc
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.PIVOTSTR_PROD.string.text
 msgid "Product - "
 msgstr "Producte - "
 
+#. 2jKa
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.PIVOTSTR_COUNT2.string.text
 msgctxt "pivot.src#RID_SCDLG_PIVOT_LAYOUT.PIVOTSTR_COUNT2.string.text"
 msgid "Count - "
 msgstr "Compta - "
 
+#. XYrK
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.PIVOTSTR_DEV.string.text
 msgid "StDev - "
 msgstr "StDev - "
 
+#. lA9v
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.PIVOTSTR_DEV2.string.text
 msgid "StDevP - "
 msgstr "StDevP - "
 
+#. 1f81
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.PIVOTSTR_VAR.string.text
 msgid "Var - "
 msgstr "Var - "
 
+#. Z3UT
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.PIVOTSTR_VAR2.string.text
 msgid "VarP - "
 msgstr "VarP - "
 
+#. Bhjg
 #: pivot.src#RID_SCDLG_PIVOT_LAYOUT.modelessdialog.text
 msgid "Pivot table"
 msgstr "Taula dinàmica"
 
+#. xl1g
 #: consdlg.src#RID_SCDLG_CONSOLIDATE.LB_FUNC.1.stringlist.text
 msgctxt "consdlg.src#RID_SCDLG_CONSOLIDATE.LB_FUNC.1.stringlist.text"
 msgid "Sum"
 msgstr "Suma"
 
+#. NJuO
 #: consdlg.src#RID_SCDLG_CONSOLIDATE.LB_FUNC.2.stringlist.text
 msgctxt "consdlg.src#RID_SCDLG_CONSOLIDATE.LB_FUNC.2.stringlist.text"
 msgid "Count"
 msgstr "Compta"
 
+#. QMpf
 #: consdlg.src#RID_SCDLG_CONSOLIDATE.LB_FUNC.3.stringlist.text
 msgctxt "consdlg.src#RID_SCDLG_CONSOLIDATE.LB_FUNC.3.stringlist.text"
 msgid "Average"
 msgstr "Mitjana"
 
+#. qPlS
 #: consdlg.src#RID_SCDLG_CONSOLIDATE.LB_FUNC.4.stringlist.text
 msgctxt "consdlg.src#RID_SCDLG_CONSOLIDATE.LB_FUNC.4.stringlist.text"
 msgid "Max"
 msgstr "Màx"
 
+#. vSaj
 #: consdlg.src#RID_SCDLG_CONSOLIDATE.LB_FUNC.5.stringlist.text
 msgctxt "consdlg.src#RID_SCDLG_CONSOLIDATE.LB_FUNC.5.stringlist.text"
 msgid "Min"
 msgstr "Mín"
 
+#. LWTV
 #: consdlg.src#RID_SCDLG_CONSOLIDATE.LB_FUNC.6.stringlist.text
 msgctxt "consdlg.src#RID_SCDLG_CONSOLIDATE.LB_FUNC.6.stringlist.text"
 msgid "Product"
 msgstr "Producte"
 
+#. ObMk
 #: consdlg.src#RID_SCDLG_CONSOLIDATE.LB_FUNC.7.stringlist.text
 msgid "Count (numbers only)"
 msgstr "Compta (només els nombres)"
 
+#. oC1K
 #: consdlg.src#RID_SCDLG_CONSOLIDATE.LB_FUNC.8.stringlist.text
 msgid "StDev (sample)"
 msgstr "StDev (mostra)"
 
+#. _9Ab
 #: consdlg.src#RID_SCDLG_CONSOLIDATE.LB_FUNC.9.stringlist.text
 msgid "StDevP (population)"
 msgstr "StDevP (població)"
 
+#. h3fV
 #: consdlg.src#RID_SCDLG_CONSOLIDATE.LB_FUNC.10.stringlist.text
 msgid "Var (sample)"
 msgstr "Var (mostra)"
 
+#. c6Yk
 #: consdlg.src#RID_SCDLG_CONSOLIDATE.LB_FUNC.11.stringlist.text
 msgid "VarP (population)"
 msgstr "VarP (població)"
 
+#. VZ_h
 #: consdlg.src#RID_SCDLG_CONSOLIDATE.RB_DATA_AREA.imagebutton.text
 msgctxt "consdlg.src#RID_SCDLG_CONSOLIDATE.RB_DATA_AREA.imagebutton.text"
 msgid "-"
 msgstr "-"
 
+#. 5mRO
 #: consdlg.src#RID_SCDLG_CONSOLIDATE.RB_DATA_AREA.imagebutton.quickhelptext
-msgctxt "consdlg.src#RID_SCDLG_CONSOLIDATE.RB_DATA_AREA.imagebutton.quickhelptext"
+msgctxt ""
+"consdlg.src#RID_SCDLG_CONSOLIDATE.RB_DATA_AREA.imagebutton.quickhelptext"
 msgid "Shrink"
 msgstr "Encongeix"
 
+#. T2q4
 #: consdlg.src#RID_SCDLG_CONSOLIDATE.RB_DEST_AREA.imagebutton.text
 msgctxt "consdlg.src#RID_SCDLG_CONSOLIDATE.RB_DEST_AREA.imagebutton.text"
 msgid "-"
 msgstr "-"
 
+#. SVXL
 #: consdlg.src#RID_SCDLG_CONSOLIDATE.RB_DEST_AREA.imagebutton.quickhelptext
-msgctxt "consdlg.src#RID_SCDLG_CONSOLIDATE.RB_DEST_AREA.imagebutton.quickhelptext"
+msgctxt ""
+"consdlg.src#RID_SCDLG_CONSOLIDATE.RB_DEST_AREA.imagebutton.quickhelptext"
 msgid "Shrink"
 msgstr "Encongeix"
 
+#. pMu7
 #: consdlg.src#RID_SCDLG_CONSOLIDATE.FT_FUNC.fixedtext.text
 msgctxt "consdlg.src#RID_SCDLG_CONSOLIDATE.FT_FUNC.fixedtext.text"
 msgid "~Function"
 msgstr "~Funció"
 
+#. SKPf
 #: consdlg.src#RID_SCDLG_CONSOLIDATE.FT_CONSAREAS.fixedtext.text
 msgid "~Consolidation ranges"
 msgstr "Intervals de ~consolidació"
 
+#. 14mK
 #: consdlg.src#RID_SCDLG_CONSOLIDATE.FT_DATA_AREA.fixedtext.text
 msgid "~Source data range"
 msgstr "Interval de ~dades d'origen"
 
+#. BIrT
 #: consdlg.src#RID_SCDLG_CONSOLIDATE.FT_DEST_AREA.fixedtext.text
 msgid "Copy results ~to"
 msgstr "Co~pia els resultats a"
 
+#. sGRO
 #: consdlg.src#RID_SCDLG_CONSOLIDATE.BTN_BYROW.checkbox.text
 msgid "~Row labels"
 msgstr "Eti~quetes de fila"
 
+#. D_vj
 #: consdlg.src#RID_SCDLG_CONSOLIDATE.BTN_BYCOL.checkbox.text
 msgid "C~olumn labels"
 msgstr "Etiquetes de c~olumna"
 
+#. 4WC3
 #: consdlg.src#RID_SCDLG_CONSOLIDATE.FL_CONSBY.fixedline.text
 msgid "Consolidate by"
 msgstr "Consolida segons"
 
+#. YzOc
 #: consdlg.src#RID_SCDLG_CONSOLIDATE.FL_OPTIONS.fixedline.text
 msgctxt "consdlg.src#RID_SCDLG_CONSOLIDATE.FL_OPTIONS.fixedline.text"
 msgid "Options"
 msgstr "Opcions"
 
+#. 3lhj
 #: consdlg.src#RID_SCDLG_CONSOLIDATE.BTN_REFS.checkbox.text
 msgid "~Link to source data"
 msgstr "En~llaça a les dades d'origen"
 
+#. 6rXF
 #: consdlg.src#RID_SCDLG_CONSOLIDATE.BTN_REMOVE.pushbutton.text
 msgid "~Delete"
 msgstr "~Suprimeix"
 
+#. Gxaj
 #: consdlg.src#RID_SCDLG_CONSOLIDATE.BTN_ADD.pushbutton.text
 msgid "~Add"
 msgstr "~Afig"
 
+#. 1SvB
 #: consdlg.src#RID_SCDLG_CONSOLIDATE.modelessdialog.text
 msgid "Consolidate"
 msgstr "Consolida"
 
+#. JZrE
 #: textimportoptions.src#RID_SCDLG_TEXT_IMPORT_OPTIONS.FL_CHOOSE_LANG.fixedline.text
 msgid "Select the language to use for import"
 msgstr "Seleccioneu la llengua que s'utilitzarà per a la importació"
 
+#. WjKd
 #: textimportoptions.src#RID_SCDLG_TEXT_IMPORT_OPTIONS.RB_AUTOMATIC.radiobutton.text
 msgid "Automatic"
 msgstr "Automàtica"
 
+#. JA9y
 #: textimportoptions.src#RID_SCDLG_TEXT_IMPORT_OPTIONS.RB_CUSTOM.radiobutton.text
 msgid "Custom"
 msgstr "Personalitzada"
 
+#. d9gV
 #: textimportoptions.src#RID_SCDLG_TEXT_IMPORT_OPTIONS.FL_OPTION.fixedline.text
-msgctxt "textimportoptions.src#RID_SCDLG_TEXT_IMPORT_OPTIONS.FL_OPTION.fixedline.text"
+msgctxt ""
+"textimportoptions.src#RID_SCDLG_TEXT_IMPORT_OPTIONS.FL_OPTION.fixedline.text"
 msgid "Options"
 msgstr "Opcions"
 
+#. o13z
 #: textimportoptions.src#RID_SCDLG_TEXT_IMPORT_OPTIONS.BTN_CONVERT_DATE.checkbox.text
 msgid "Detect special numbers (such as dates)."
 msgstr "Detecta els nombres especials (com ara dates)."
 
+#. SuCK
 #: textimportoptions.src#RID_SCDLG_TEXT_IMPORT_OPTIONS.modaldialog.text
 msgid "Import Options"
 msgstr "Opcions d'importació"
 
+#. b5UN
 #: validate.src#TAB_DLG_VALIDATION.1.TP_VALIDATION_VALUES.pageitem.text
 msgid "Criteria"
 msgstr "Criteri"
 
+#. vHFP
 #: validate.src#TAB_DLG_VALIDATION.1.TP_VALIDATION_INPUTHELP.pageitem.text
 msgid "Input Help"
 msgstr "Ajuda d'entrada"
 
+#. ZO62
 #: validate.src#TAB_DLG_VALIDATION.1.TP_VALIDATION_ERROR.pageitem.text
 msgctxt "validate.src#TAB_DLG_VALIDATION.1.TP_VALIDATION_ERROR.pageitem.text"
 msgid "Error Alert"
 msgstr "Avís d'error"
 
+#. E0G8
 #: validate.src#TAB_DLG_VALIDATION.tabdialog.text
 msgid "Validity"
 msgstr "Validesa"
 
+#. gDi7
 #: validate.src#TP_VALIDATION_VALUES.FT_ALLOW.fixedtext.text
 msgid "~Allow"
 msgstr "~Permet"
 
+#. h25I
 #: validate.src#TP_VALIDATION_VALUES.LB_ALLOW.1.stringlist.text
 msgid "All values"
 msgstr "Tots els valors"
 
+#. 7#yW
 #: validate.src#TP_VALIDATION_VALUES.LB_ALLOW.2.stringlist.text
 msgid "Whole Numbers"
 msgstr "Nombres complets"
 
+#. AxtH
 #: validate.src#TP_VALIDATION_VALUES.LB_ALLOW.3.stringlist.text
 msgid "Decimal"
 msgstr "Decimal"
 
+#. aqha
 #: validate.src#TP_VALIDATION_VALUES.LB_ALLOW.4.stringlist.text
 msgid "Date"
 msgstr "Data"
 
+#. fnWL
 #: validate.src#TP_VALIDATION_VALUES.LB_ALLOW.5.stringlist.text
 msgid "Time"
 msgstr "Hora"
 
+#. 5DPd
 #: validate.src#TP_VALIDATION_VALUES.LB_ALLOW.6.stringlist.text
 msgid "Cell range"
 msgstr "Interval de cel·les"
 
+#. 88IM
 #: validate.src#TP_VALIDATION_VALUES.LB_ALLOW.7.stringlist.text
 msgid "List"
 msgstr "Llista"
 
+#. YX5i
 #: validate.src#TP_VALIDATION_VALUES.LB_ALLOW.8.stringlist.text
 msgid "Text length"
 msgstr "Longitud del text"
 
+#. RKwd
 #: validate.src#TP_VALIDATION_VALUES.FT_VALUE.fixedtext.text
 msgid "~Data"
 msgstr "~Dades"
 
+#. 4rPz
 #: validate.src#TP_VALIDATION_VALUES.LB_VALUE.1.stringlist.text
 msgid "equal"
 msgstr "igual"
 
+#. e9WF
 #: validate.src#TP_VALIDATION_VALUES.LB_VALUE.2.stringlist.text
 msgid "less than"
 msgstr "més petit que"
 
+#. bCh#
 #: validate.src#TP_VALIDATION_VALUES.LB_VALUE.3.stringlist.text
 msgid "greater than"
 msgstr "més gran que"
 
+#. B3tB
 #: validate.src#TP_VALIDATION_VALUES.LB_VALUE.4.stringlist.text
 msgid "less than or equal"
 msgstr "més petit o igual"
 
+#. 66yw
 #: validate.src#TP_VALIDATION_VALUES.LB_VALUE.5.stringlist.text
 msgid "greater than or equal to"
 msgstr "més gran o igual"
 
+#. gw58
 #: validate.src#TP_VALIDATION_VALUES.LB_VALUE.6.stringlist.text
 msgid "not equal"
 msgstr "diferent"
 
+#. d_Ev
 #: validate.src#TP_VALIDATION_VALUES.LB_VALUE.7.stringlist.text
 msgid "between"
 msgstr "entre"
 
+#. DMP3
 #: validate.src#TP_VALIDATION_VALUES.LB_VALUE.8.stringlist.text
 msgid "not between"
 msgstr "no entre"
 
+#. auFR
 #: validate.src#TP_VALIDATION_VALUES.FT_MIN.fixedtext.text
 msgid "~Minimum"
 msgstr "~Mínim"
 
+#. 0BYk
 #: validate.src#TP_VALIDATION_VALUES.FT_MAX.fixedtext.text
 msgid "Ma~ximum"
 msgstr "Mà~xim"
 
+#. fw0z
 #: validate.src#TP_VALIDATION_VALUES.TSB_ALLOW_BLANKS.checkbox.text
 msgid "Allow ~blank cells"
 msgstr "Permet cel·les en ~blanc"
 
+#. #QMQ
 #: validate.src#TP_VALIDATION_VALUES.CB_SHOWLIST.checkbox.text
 msgid "Show selection ~list"
 msgstr "Mostra la ~llista de seleccions"
 
+#. QIbn
 #: validate.src#TP_VALIDATION_VALUES.CB_SORTLIST.checkbox.text
 msgid "Sor~t entries ascending"
 msgstr "Ordena les en~trades en sentit ascendent"
 
+#. n3E3
 #: validate.src#TP_VALIDATION_VALUES.FT_SOURCEHINT.fixedtext.text
-msgid "A valid source can only consist of a contiguous selection of rows and columns, or a formula that results in an area or array."
-msgstr "Una font vàlida només pot consistir d'una selecció contigua de files i columnes, o bé d'una fórmula que resulta en una àrea o un vector."
+msgid ""
+"A valid source can only consist of a contiguous selection of rows and "
+"columns, or a formula that results in an area or array."
+msgstr ""
+"Una font vàlida només pot consistir d'una selecció contigua de files i "
+"columnes, o bé d'una fórmula que resulta en una àrea o un vector."
 
+#. zu5P
 #: validate.src#TP_VALIDATION_VALUES.RB_VALIDITY_REF.imagebutton.text
 msgctxt "validate.src#TP_VALIDATION_VALUES.RB_VALIDITY_REF.imagebutton.text"
 msgid "-"
 msgstr "-"
 
+#. H8bW
 #: validate.src#TP_VALIDATION_VALUES.RB_VALIDITY_REF.imagebutton.quickhelptext
-msgctxt "validate.src#TP_VALIDATION_VALUES.RB_VALIDITY_REF.imagebutton.quickhelptext"
+msgctxt ""
+"validate.src#TP_VALIDATION_VALUES.RB_VALIDITY_REF.imagebutton.quickhelptext"
 msgid "Shrink"
 msgstr "Redueix"
 
+#. Rxku
 #: validate.src#TP_VALIDATION_VALUES.tabpage.text
 msgid "Values"
 msgstr "Valors"
 
+#. tLdb
 #: validate.src#TP_VALIDATION_INPUTHELP.TSB_HELP.tristatebox.text
 msgid "~Show input help when cell is selected"
 msgstr "Mo~stra l'ajuda d'entrada quan es seleccioni la cel·la"
 
+#. hnbU
 #: validate.src#TP_VALIDATION_INPUTHELP.FL_CONTENT.fixedline.text
 msgctxt "validate.src#TP_VALIDATION_INPUTHELP.FL_CONTENT.fixedline.text"
 msgid "Contents"
 msgstr "Continguts"
 
+#. 4XEc
 #: validate.src#TP_VALIDATION_INPUTHELP.FT_TITLE.fixedtext.text
 msgctxt "validate.src#TP_VALIDATION_INPUTHELP.FT_TITLE.fixedtext.text"
 msgid "~Title"
 msgstr "~Títol"
 
+#. k4Pp
 #: validate.src#TP_VALIDATION_INPUTHELP.FT_INPUTHELP.fixedtext.text
 msgid "~Input help"
 msgstr "~Ajuda d'entrada"
 
+#. qv1g
 #: validate.src#TP_VALIDATION_ERROR.FL_CONTENT.fixedline.text
 msgctxt "validate.src#TP_VALIDATION_ERROR.FL_CONTENT.fixedline.text"
 msgid "Contents"
 msgstr "Continguts"
 
+#. AYew
 #: validate.src#TP_VALIDATION_ERROR.TSB_SHOW.tristatebox.text
 msgid "Show error ~message when invalid values are entered"
 msgstr "Mostra un ~missatge d'error quan s'introdueixen valors no vàlids"
 
+#. oAFn
 #: validate.src#TP_VALIDATION_ERROR.FT_ERROR.fixedtext.text
 msgid "~Error message"
 msgstr "~Missatge d'error"
 
+#. I1Er
 #: validate.src#TP_VALIDATION_ERROR.FT_TITLE.fixedtext.text
 msgctxt "validate.src#TP_VALIDATION_ERROR.FT_TITLE.fixedtext.text"
 msgid "~Title"
 msgstr "~Títol"
 
+#. wEf1
 #: validate.src#TP_VALIDATION_ERROR.FT_ACTION.fixedtext.text
 msgid "~Action"
 msgstr "~Acció"
 
+#. CNky
 #: validate.src#TP_VALIDATION_ERROR.LB_ACTION.1.stringlist.text
 msgid "Stop"
 msgstr "Para"
 
+#. WhNE
 #: validate.src#TP_VALIDATION_ERROR.LB_ACTION.2.stringlist.text
 msgid "Warning"
 msgstr "Avís"
 
+#. jkS_
 #: validate.src#TP_VALIDATION_ERROR.LB_ACTION.3.stringlist.text
 msgid "Information"
 msgstr "Informació"
 
+#. 3X0A
 #: validate.src#TP_VALIDATION_ERROR.LB_ACTION.4.stringlist.text
 msgid "Macro"
 msgstr "Macro"
 
+#. 43kR
 #: validate.src#TP_VALIDATION_ERROR.BTN_SEARCH.pushbutton.text
 msgid "~Browse..."
 msgstr "~Navega..."
 
+#. gkQM
 #: validate.src#TP_VALIDATION_ERROR.tabpage.text
 msgctxt "validate.src#TP_VALIDATION_ERROR.tabpage.text"
 msgid "Error Alert"
 msgstr "Avís d'error"
 
+#. zY5Z
 #: dapitype.src#RID_SCDLG_DAPITYPE.FL_FRAME.fixedline.text
 msgctxt "dapitype.src#RID_SCDLG_DAPITYPE.FL_FRAME.fixedline.text"
 msgid "Selection"
 msgstr "Selecció"
 
+#. W9dS
 #: dapitype.src#RID_SCDLG_DAPITYPE.BTN_SELECTION.radiobutton.text
 msgid "~Current selection"
 msgstr "Sele~cció actual"
 
+#. SOWX
 #: dapitype.src#RID_SCDLG_DAPITYPE.BTN_NAMED_RANGE.radiobutton.text
 msgid "~Named range"
 msgstr "Interval ~nominal"
 
+#. qtUq
 #: dapitype.src#RID_SCDLG_DAPITYPE.BTN_DATABASE.radiobutton.text
 msgid "~Data source registered in %PRODUCTNAME"
 msgstr "F~ont de dades registrada al %PRODUCTNAME"
 
+#. RBeX
 #: dapitype.src#RID_SCDLG_DAPITYPE.BTN_EXTERNAL.radiobutton.text
 msgid "~External source/interface"
 msgstr "Font/interfície ~externa"
 
+#. mT54
 #: dapitype.src#RID_SCDLG_DAPITYPE.modaldialog.text
 msgid "Select Source"
 msgstr "Selecciona la font"
 
+#. yL6b
 #: dapitype.src#RID_SCDLG_DAPISERVICE.FT_SERVICE.fixedtext.text
 msgid "~Service"
 msgstr "~Servei"
 
+#. haUE
 #: dapitype.src#RID_SCDLG_DAPISERVICE.FT_SOURCE.fixedtext.text
 msgid "So~urce"
 msgstr "F~ont"
 
+#. a9ep
 #: dapitype.src#RID_SCDLG_DAPISERVICE.FT_NAME.fixedtext.text
 msgid "~Name"
 msgstr "~Nom"
 
+#. JhgB
 #: dapitype.src#RID_SCDLG_DAPISERVICE.FT_USER.fixedtext.text
 msgid "Us~er"
 msgstr "U~suari"
 
+#. Mw4X
 #: dapitype.src#RID_SCDLG_DAPISERVICE.FT_PASSWD.fixedtext.text
 msgid "~Password"
 msgstr "Con~trasenya"
 
+#. ZoT7
 #: dapitype.src#RID_SCDLG_DAPISERVICE.FL_FRAME.fixedline.text
 msgctxt "dapitype.src#RID_SCDLG_DAPISERVICE.FL_FRAME.fixedline.text"
 msgid "Selection"
 msgstr "Selecció"
 
+#. UIpp
 #: dapitype.src#RID_SCDLG_DAPISERVICE.modaldialog.text
 msgid "External Source"
 msgstr "Font externa"
 
+#. TuHd
 #: dapitype.src#RID_SCDLG_DAPIDATA.FT_DATABASE.fixedtext.text
 msgid "~Database"
 msgstr "~Base de dades"
 
+#. oJlV
 #: dapitype.src#RID_SCDLG_DAPIDATA.FT_OBJECT.fixedtext.text
 msgid "Data so~urce"
 msgstr "~Font de dades"
 
+#. lBoY
 #: dapitype.src#RID_SCDLG_DAPIDATA.FT_OBJTYPE.fixedtext.text
 msgctxt "dapitype.src#RID_SCDLG_DAPIDATA.FT_OBJTYPE.fixedtext.text"
 msgid "~Type"
 msgstr "~Tipus"
 
+#. Dm_2
 #: dapitype.src#RID_SCDLG_DAPIDATA.LB_OBJTYPE.1.stringlist.text
 msgid "Sheet"
 msgstr "Full"
 
+#. XC6m
 #: dapitype.src#RID_SCDLG_DAPIDATA.LB_OBJTYPE.2.stringlist.text
 msgid "Query"
 msgstr "Consulta"
 
+#. i9D1
 #: dapitype.src#RID_SCDLG_DAPIDATA.LB_OBJTYPE.3.stringlist.text
 msgid "Sql"
 msgstr "SQL"
 
+#. 26Hq
 #: dapitype.src#RID_SCDLG_DAPIDATA.LB_OBJTYPE.4.stringlist.text
 msgid "Sql [Native]"
 msgstr "SQL (natiu)"
 
+#. Q#y#
 #: dapitype.src#RID_SCDLG_DAPIDATA.FL_FRAME.fixedline.text
 msgctxt "dapitype.src#RID_SCDLG_DAPIDATA.FL_FRAME.fixedline.text"
 msgid "Selection"
 msgstr "Selecció"
 
+#. BNyE
 #: dapitype.src#RID_SCDLG_DAPIDATA.modaldialog.text
 msgid "Select Data Source"
 msgstr "Seleccioneu la font de dades"
 
+#. hg#L
 #: imoptdlg.src#RID_SCDLG_IMPORTOPT.FT_FIELDSEP.fixedtext.text
 msgid "~Field delimiter"
 msgstr "~Delimitador de camp"
 
+#. l9n7
 #: imoptdlg.src#RID_SCDLG_IMPORTOPT.FT_TEXTSEP.fixedtext.text
 msgid "~Text delimiter"
 msgstr "Delimitador de ~text"
 
+#. kpHg
 #: imoptdlg.src#RID_SCDLG_IMPORTOPT.FT_FONT.fixedtext.text
 msgid "~Character set"
 msgstr "~Joc de caràcters"
 
+#. hGTF
 #: imoptdlg.src#RID_SCDLG_IMPORTOPT.FL_FIELDOPT.fixedline.text
 msgid "Field options"
 msgstr "Opcions de camp"
 
+#. Lw1j
 #: imoptdlg.src#RID_SCDLG_IMPORTOPT.CB_FIXEDWIDTH.checkbox.text
 msgid "Fixed column ~width"
 msgstr "~Amplada fixa de columna"
 
+#. MGLB
 #: imoptdlg.src#RID_SCDLG_IMPORTOPT.CB_SAVESHOWN.checkbox.text
 msgid "Save cell content as ~shown"
 msgstr "Alça els continguts de la cel·la com es mo~stren"
 
+#. Sfty
 #: imoptdlg.src#RID_SCDLG_IMPORTOPT.CB_QUOTEALL.checkbox.text
 msgid "~Quote all text cells"
 msgstr "~Cita tots els textos de cel·les"
 
+#. lmno
 #: imoptdlg.src#RID_SCDLG_IMPORTOPT.modaldialog.text
 msgid "Import File"
 msgstr "Importa el fitxer"
 
+#. v1X8
 #: pvfundlg.src#SCSTR_DPFUNCLISTBOX.1.itemlist.text
 msgctxt "pvfundlg.src#SCSTR_DPFUNCLISTBOX.1.itemlist.text"
 msgid "Sum"
 msgstr "Suma"
 
+#. OlDm
 #: pvfundlg.src#SCSTR_DPFUNCLISTBOX.2.itemlist.text
 msgctxt "pvfundlg.src#SCSTR_DPFUNCLISTBOX.2.itemlist.text"
 msgid "Count"
 msgstr "Compta"
 
+#. kRA7
 #: pvfundlg.src#SCSTR_DPFUNCLISTBOX.3.itemlist.text
 msgctxt "pvfundlg.src#SCSTR_DPFUNCLISTBOX.3.itemlist.text"
 msgid "Average"
 msgstr "Mitjana"
 
+#. X1mW
 #: pvfundlg.src#SCSTR_DPFUNCLISTBOX.4.itemlist.text
 msgctxt "pvfundlg.src#SCSTR_DPFUNCLISTBOX.4.itemlist.text"
 msgid "Max"
 msgstr "Màx"
 
+#. NrtN
 #: pvfundlg.src#SCSTR_DPFUNCLISTBOX.5.itemlist.text
 msgctxt "pvfundlg.src#SCSTR_DPFUNCLISTBOX.5.itemlist.text"
 msgid "Min"
 msgstr "Mín"
 
+#. sRRl
 #: pvfundlg.src#SCSTR_DPFUNCLISTBOX.6.itemlist.text
 msgctxt "pvfundlg.src#SCSTR_DPFUNCLISTBOX.6.itemlist.text"
 msgid "Product"
 msgstr "Producte"
 
+#. 0lSO
 #: pvfundlg.src#SCSTR_DPFUNCLISTBOX.7.itemlist.text
 msgid "Count (Numbers only)"
 msgstr "Compta (Només nombres)"
 
+#. JSB1
 #: pvfundlg.src#SCSTR_DPFUNCLISTBOX.8.itemlist.text
 msgid "StDev (Sample)"
 msgstr "StDev (Mostra)"
 
+#. beCs
 #: pvfundlg.src#SCSTR_DPFUNCLISTBOX.9.itemlist.text
 msgid "StDevP (Population)"
 msgstr "StDevP (Població)"
 
+#. Lx_R
 #: pvfundlg.src#SCSTR_DPFUNCLISTBOX.10.itemlist.text
 msgid "Var (Sample)"
 msgstr "Var (Mostra)"
 
+#. ZFui
 #: pvfundlg.src#SCSTR_DPFUNCLISTBOX.11.itemlist.text
 msgid "VarP (Population)"
 msgstr "VarP (Població)"
 
+#. MoeO
 #: pvfundlg.src#RID_SCDLG_DPDATAFIELD.FL_FUNC.fixedline.text
 msgctxt "pvfundlg.src#RID_SCDLG_DPDATAFIELD.FL_FUNC.fixedline.text"
 msgid "~Function"
 msgstr "~Funció"
 
+#. n0Th
 #: pvfundlg.src#RID_SCDLG_DPDATAFIELD.FT_NAMELABEL.fixedtext.text
 msgctxt "pvfundlg.src#RID_SCDLG_DPDATAFIELD.FT_NAMELABEL.fixedtext.text"
 msgid "Name:"
 msgstr "Nom:"
 
+#. XY4o
 #: pvfundlg.src#RID_SCDLG_DPDATAFIELD.FL_DISPLAY.fixedline.text
 msgid "Displayed value"
 msgstr "Valor mostrat"
 
+#. 27bC
 #: pvfundlg.src#RID_SCDLG_DPDATAFIELD.FT_TYPE.fixedtext.text
 msgctxt "pvfundlg.src#RID_SCDLG_DPDATAFIELD.FT_TYPE.fixedtext.text"
 msgid "~Type"
 msgstr "~Tipus"
 
+#. kbWU
 #: pvfundlg.src#RID_SCDLG_DPDATAFIELD.LB_TYPE.1.stringlist.text
 msgid "Normal"
 msgstr "Normal"
 
+#. 2PPi
 #: pvfundlg.src#RID_SCDLG_DPDATAFIELD.LB_TYPE.2.stringlist.text
 msgid "Difference from"
 msgstr "Diferència de"
 
+#. FSIT
 #: pvfundlg.src#RID_SCDLG_DPDATAFIELD.LB_TYPE.3.stringlist.text
 msgid "% of"
 msgstr "% de"
 
+#. XJEe
 #: pvfundlg.src#RID_SCDLG_DPDATAFIELD.LB_TYPE.4.stringlist.text
 msgid "% difference from"
 msgstr "% de diferència de"
 
+#. iM5P
 #: pvfundlg.src#RID_SCDLG_DPDATAFIELD.LB_TYPE.5.stringlist.text
 msgid "Running total in"
 msgstr "D'un total de"
 
+#. 0gyh
 #: pvfundlg.src#RID_SCDLG_DPDATAFIELD.LB_TYPE.6.stringlist.text
 msgid "% of row"
 msgstr "% de la fila"
 
+#. DltQ
 #: pvfundlg.src#RID_SCDLG_DPDATAFIELD.LB_TYPE.7.stringlist.text
 msgid "% of column"
 msgstr "% de la columna"
 
+#. d6WW
 #: pvfundlg.src#RID_SCDLG_DPDATAFIELD.LB_TYPE.8.stringlist.text
 msgid "% of total"
 msgstr "% del total"
 
+#. g3hH
 #: pvfundlg.src#RID_SCDLG_DPDATAFIELD.LB_TYPE.9.stringlist.text
 msgid "Index"
 msgstr "Índex"
 
+#. biXA
 #: pvfundlg.src#RID_SCDLG_DPDATAFIELD.FT_BASEFIELD.fixedtext.text
 msgid "~Base field"
 msgstr "Camp ~base"
 
+#. 5t8u
 #: pvfundlg.src#RID_SCDLG_DPDATAFIELD.FT_BASEITEM.fixedtext.text
 msgid "Ba~se item"
 msgstr "Element ba~se"
 
+#. vUjh
 #: pvfundlg.src#RID_SCDLG_DPDATAFIELD.LB_BASEITEM.1.stringlist.text
 msgid "- previous item -"
 msgstr "- element anterior -"
 
+#. LYKP
 #: pvfundlg.src#RID_SCDLG_DPDATAFIELD.LB_BASEITEM.2.stringlist.text
 msgid "- next item -"
 msgstr "- element següent -"
 
+#. Xcld
 #: pvfundlg.src#RID_SCDLG_DPDATAFIELD.modaldialog.text
 msgctxt "pvfundlg.src#RID_SCDLG_DPDATAFIELD.modaldialog.text"
 msgid "Data Field"
 msgstr "Camp de dades"
 
+#. 1jQc
 #: pvfundlg.src#RID_SCDLG_PIVOTSUBT.RB_NONE.radiobutton.text
 msgid "~None"
 msgstr "~Cap"
 
+#. 3bVQ
 #: pvfundlg.src#RID_SCDLG_PIVOTSUBT.RB_AUTO.radiobutton.text
 msgid "~Automatic"
 msgstr "~Automàtic"
 
+#. VZl_
 #: pvfundlg.src#RID_SCDLG_PIVOTSUBT.RB_USER.radiobutton.text
 msgid "~User-defined"
 msgstr "Definit per l'~usuari"
 
+#. lchZ
 #: pvfundlg.src#RID_SCDLG_PIVOTSUBT.FL_FUNC.fixedline.text
 msgid "Subtotals"
 msgstr "Subtotals"
 
+#. _#ug
 #: pvfundlg.src#RID_SCDLG_PIVOTSUBT.CB_SHOWALL.checkbox.text
 msgid "Show it~ems without data"
 msgstr "Mostra els ~elements sense dades"
 
+#. SyrL
 #: pvfundlg.src#RID_SCDLG_PIVOTSUBT.FT_NAMELABEL.fixedtext.text
 msgctxt "pvfundlg.src#RID_SCDLG_PIVOTSUBT.FT_NAMELABEL.fixedtext.text"
 msgid "Name:"
 msgstr "Nom:"
 
+#. YD90
 #: pvfundlg.src#RID_SCDLG_PIVOTSUBT.BTN_OPTIONS.pushbutton.text
 msgid "~Options..."
 msgstr "~Opcions..."
 
+#. e195
 #: pvfundlg.src#RID_SCDLG_PIVOTSUBT.modaldialog.text
 msgctxt "pvfundlg.src#RID_SCDLG_PIVOTSUBT.modaldialog.text"
 msgid "Data Field"
 msgstr "Camp de dades"
 
+#. AXLS
 #: pvfundlg.src#RID_SCDLG_DPSUBTOTAL_OPT.FL_SORT_BY.fixedline.text
 msgid "Sort ~by"
 msgstr "Ordena ~per"
 
+#. LAP1
 #: pvfundlg.src#RID_SCDLG_DPSUBTOTAL_OPT.RB_SORT_ASC.radiobutton.text
 msgid "~Ascending"
 msgstr "~Ascendent"
 
+#. fa1h
 #: pvfundlg.src#RID_SCDLG_DPSUBTOTAL_OPT.RB_SORT_DESC.radiobutton.text
 msgid "~Descending"
 msgstr "~Descendent"
 
+#. #Qn4
 #: pvfundlg.src#RID_SCDLG_DPSUBTOTAL_OPT.RB_SORT_MAN.radiobutton.text
 msgid "~Manual"
 msgstr "~Manual"
 
+#. urK8
 #: pvfundlg.src#RID_SCDLG_DPSUBTOTAL_OPT.FL_LAYOUT.fixedline.text
 msgid "Display options"
 msgstr "Opcions de la visualització"
 
+#. EaZt
 #: pvfundlg.src#RID_SCDLG_DPSUBTOTAL_OPT.FT_LAYOUT.fixedtext.text
 msgid "~Layout"
 msgstr "~Format"
 
+#. Hu1m
 #: pvfundlg.src#RID_SCDLG_DPSUBTOTAL_OPT.LB_LAYOUT.1.stringlist.text
 msgid "Tabular layout"
 msgstr "Format dels tabuladors"
 
+#. z4u2
 #: pvfundlg.src#RID_SCDLG_DPSUBTOTAL_OPT.LB_LAYOUT.2.stringlist.text
 msgid "Outline layout with subtotals at the top"
 msgstr "Disseny de ressaltat amb els subtotals a la part superior"
 
+#. m1pp
 #: pvfundlg.src#RID_SCDLG_DPSUBTOTAL_OPT.LB_LAYOUT.3.stringlist.text
 msgid "Outline layout with subtotals at the bottom"
 msgstr "Disseny de ressaltat amb els subtotals a la part inferior"
 
+#. mixj
 #: pvfundlg.src#RID_SCDLG_DPSUBTOTAL_OPT.CB_LAYOUT_EMPTY.checkbox.text
 msgid "~Empty line after each item"
 msgstr "Línia buida després de cada ~element"
 
+#. Q6H5
 #: pvfundlg.src#RID_SCDLG_DPSUBTOTAL_OPT.FL_AUTOSHOW.fixedline.text
 msgid "Show automatically"
 msgstr "Mostra automàticament"
 
+#. BdiW
 #: pvfundlg.src#RID_SCDLG_DPSUBTOTAL_OPT.CB_SHOW.checkbox.text
 msgid "~Show"
 msgstr "Mo~stra"
 
+#. iiR_
 #: pvfundlg.src#RID_SCDLG_DPSUBTOTAL_OPT.FT_SHOW.fixedtext.text
 msgid "items"
 msgstr "elements"
 
+#. xgik
 #: pvfundlg.src#RID_SCDLG_DPSUBTOTAL_OPT.FT_SHOW_FROM.fixedtext.text
 msgid "~From"
 msgstr "~De"
 
+#. Bk5G
 #: pvfundlg.src#RID_SCDLG_DPSUBTOTAL_OPT.LB_SHOW_FROM.1.stringlist.text
 msgid "Top"
 msgstr "Part superior"
 
+#. dIyY
 #: pvfundlg.src#RID_SCDLG_DPSUBTOTAL_OPT.LB_SHOW_FROM.2.stringlist.text
 msgid "Bottom"
 msgstr "Part inferior"
 
+#. E5Pb
 #: pvfundlg.src#RID_SCDLG_DPSUBTOTAL_OPT.FT_SHOW_USING.fixedtext.text
 msgid "~Using field"
 msgstr "~Utilitzant els camps"
 
+#. _AVI
 #: pvfundlg.src#RID_SCDLG_DPSUBTOTAL_OPT.FL_HIDE.fixedline.text
 msgid "Hide i~tems"
 msgstr "Amaga els elemen~ts"
 
+#. 9toD
 #: pvfundlg.src#RID_SCDLG_DPSUBTOTAL_OPT.FT_HIERARCHY.fixedtext.text
 msgid "Hierarch~y"
 msgstr "~Jerarquia"
 
+#. RsC2
 #: pvfundlg.src#RID_SCDLG_DPSUBTOTAL_OPT.modaldialog.text
 msgid "Data Field Options"
 msgstr "Opcions del camp de dades"
 
+#. ClkO
 #: pvfundlg.src#RID_SCDLG_DPSHOWDETAIL.FT_DIMS.fixedtext.text
 msgid "~Choose the field containing the detail you want to show"
 msgstr "Trieu el ~camp que continga el detall que vulgueu mostrar"
 
+#. rqIe
 #: pvfundlg.src#RID_SCDLG_DPSHOWDETAIL.modaldialog.text
 msgid "Show Detail"
 msgstr "Mostra el detall"
 
+#. ZeYR
 #: dpgroupdlg.src#RID_SCDLG_DPNUMGROUP.FL_START.fixedline.text
 msgctxt "dpgroupdlg.src#RID_SCDLG_DPNUMGROUP.FL_START.fixedline.text"
 msgid "Start"
 msgstr "Inicia"
 
+#. #img
 #: dpgroupdlg.src#RID_SCDLG_DPNUMGROUP.RB_AUTOSTART.radiobutton.text
 msgctxt "dpgroupdlg.src#RID_SCDLG_DPNUMGROUP.RB_AUTOSTART.radiobutton.text"
 msgid "~Automatically"
 msgstr "~Automàticament"
 
+#. EmSW
 #: dpgroupdlg.src#RID_SCDLG_DPNUMGROUP.RB_MANSTART.radiobutton.text
 msgctxt "dpgroupdlg.src#RID_SCDLG_DPNUMGROUP.RB_MANSTART.radiobutton.text"
 msgid "~Manually at"
 msgstr "~Manualment a"
 
+#. zHoi
 #: dpgroupdlg.src#RID_SCDLG_DPNUMGROUP.FL_END.fixedline.text
 msgctxt "dpgroupdlg.src#RID_SCDLG_DPNUMGROUP.FL_END.fixedline.text"
 msgid "End"
 msgstr "Fi"
 
+#. x42U
 #: dpgroupdlg.src#RID_SCDLG_DPNUMGROUP.RB_AUTOEND.radiobutton.text
 msgctxt "dpgroupdlg.src#RID_SCDLG_DPNUMGROUP.RB_AUTOEND.radiobutton.text"
 msgid "A~utomatically"
 msgstr "A~utomàticament"
 
+#. 0Xn9
 #: dpgroupdlg.src#RID_SCDLG_DPNUMGROUP.RB_MANEND.radiobutton.text
 msgctxt "dpgroupdlg.src#RID_SCDLG_DPNUMGROUP.RB_MANEND.radiobutton.text"
 msgid "Ma~nually at"
 msgstr "Ma~nualment a"
 
+#. qTOq
 #: dpgroupdlg.src#RID_SCDLG_DPNUMGROUP.FL_BY.fixedline.text
 msgid "~Group by"
 msgstr "A~grupa per"
 
+#. Usva
 #: dpgroupdlg.src#RID_SCDLG_DPNUMGROUP.modaldialog.text
 msgctxt "dpgroupdlg.src#RID_SCDLG_DPNUMGROUP.modaldialog.text"
 msgid "Grouping"
 msgstr "Agrupacions"
 
+#. hH#3
 #: dpgroupdlg.src#RID_SCDLG_DPDATEGROUP.FL_START.fixedline.text
 msgctxt "dpgroupdlg.src#RID_SCDLG_DPDATEGROUP.FL_START.fixedline.text"
 msgid "Start"
 msgstr "Inicia"
 
+#. Y06g
 #: dpgroupdlg.src#RID_SCDLG_DPDATEGROUP.RB_AUTOSTART.radiobutton.text
 msgctxt "dpgroupdlg.src#RID_SCDLG_DPDATEGROUP.RB_AUTOSTART.radiobutton.text"
 msgid "~Automatically"
 msgstr "~Automàticament"
 
+#. QVGF
 #: dpgroupdlg.src#RID_SCDLG_DPDATEGROUP.RB_MANSTART.radiobutton.text
 msgctxt "dpgroupdlg.src#RID_SCDLG_DPDATEGROUP.RB_MANSTART.radiobutton.text"
 msgid "~Manually at"
 msgstr "~Manualment a"
 
+#. zq#v
 #: dpgroupdlg.src#RID_SCDLG_DPDATEGROUP.FL_END.fixedline.text
 msgctxt "dpgroupdlg.src#RID_SCDLG_DPDATEGROUP.FL_END.fixedline.text"
 msgid "End"
 msgstr "Fi"
 
+#. 6bLW
 #: dpgroupdlg.src#RID_SCDLG_DPDATEGROUP.RB_AUTOEND.radiobutton.text
 msgctxt "dpgroupdlg.src#RID_SCDLG_DPDATEGROUP.RB_AUTOEND.radiobutton.text"
 msgid "A~utomatically"
 msgstr "A~utomàticament"
 
+#. Sm9N
 #: dpgroupdlg.src#RID_SCDLG_DPDATEGROUP.RB_MANEND.radiobutton.text
 msgctxt "dpgroupdlg.src#RID_SCDLG_DPDATEGROUP.RB_MANEND.radiobutton.text"
 msgid "Ma~nually at"
 msgstr "Ma~nualment a"
 
+#. #RsS
 #: dpgroupdlg.src#RID_SCDLG_DPDATEGROUP.FL_BY.fixedline.text
 msgid "Group by"
 msgstr "Agrupa per"
 
+#. Z1GP
 #: dpgroupdlg.src#RID_SCDLG_DPDATEGROUP.RB_NUMDAYS.radiobutton.text
 msgid "Number of ~days"
 msgstr "Nombre de ~dies"
 
+#. Tkw_
 #: dpgroupdlg.src#RID_SCDLG_DPDATEGROUP.RB_UNITS.radiobutton.text
 msgid "~Intervals"
 msgstr "~Intervals"
 
+#. agsh
 #: dpgroupdlg.src#RID_SCDLG_DPDATEGROUP.STR_UNITS.1.itemlist.text
 msgid "Seconds"
 msgstr "Segons"
 
+#. 54QJ
 #: dpgroupdlg.src#RID_SCDLG_DPDATEGROUP.STR_UNITS.2.itemlist.text
 msgid "Minutes"
 msgstr "Minuts"
 
+#. pmTa
 #: dpgroupdlg.src#RID_SCDLG_DPDATEGROUP.STR_UNITS.3.itemlist.text
 msgid "Hours"
 msgstr "Hores"
 
+#. ygd3
 #: dpgroupdlg.src#RID_SCDLG_DPDATEGROUP.STR_UNITS.4.itemlist.text
 msgid "Days"
 msgstr "Dies"
 
+#. AUWq
 #: dpgroupdlg.src#RID_SCDLG_DPDATEGROUP.STR_UNITS.5.itemlist.text
 msgid "Months"
 msgstr "Mesos"
 
+#. hmCC
 #: dpgroupdlg.src#RID_SCDLG_DPDATEGROUP.STR_UNITS.6.itemlist.text
 msgid "Quarters"
 msgstr "Trimestres"
 
+#. T4Bx
 #: dpgroupdlg.src#RID_SCDLG_DPDATEGROUP.STR_UNITS.7.itemlist.text
 msgid "Years"
 msgstr "Anys"
 
+#. whXC
 #: dpgroupdlg.src#RID_SCDLG_DPDATEGROUP.modaldialog.text
 msgctxt "dpgroupdlg.src#RID_SCDLG_DPDATEGROUP.modaldialog.text"
 msgid "Grouping"
