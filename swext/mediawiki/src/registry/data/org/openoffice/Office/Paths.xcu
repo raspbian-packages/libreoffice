@@ -27,9 +27,9 @@
  ************************************************************************ -->
 <oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="Paths" oor:package="org.openoffice.Office">
     <node oor:name="Paths">
-        <node oor:name="Template" oor:op="fuse">
+        <node oor:name="Template" oor:op="replace">
             <node oor:name="InternalPaths">
-                <node oor:name="%origin%/templates" oor:op="fuse"/>
+                <node oor:name="%origin%/templates" oor:op="replace"/>
             </node>
         </node>
     </node>
