@@ -73,7 +73,11 @@ CC+:=$(CFLAGS_SYSBASE)
 CFLAGS+=-fmessage-length=0 -c
 
 # flags to enable build with symbols
+.IF "$(ENABLE_SYMBOLS)" == "SMALL"
+CFLAGSENABLESYMBOLS=-g1
+.ELSE
 CFLAGSENABLESYMBOLS=-g
+.ENDIF
 
 # flags for the C++ Compiler
 CFLAGSCC= -pipe $(ARCH_FLAGS)
@@ -110,7 +114,11 @@ CFLAGSSLOCUIMT=$(PICSWITCH)
 # Compiler flags for profiling
 CFLAGSPROF=
 # Compiler flags for debugging
+.IF "$(ENABLE_SYMBOLS)"=="SMALL"
+CFLAGSDEBUG=-g1
+.ELSE
 CFLAGSDEBUG=-g
+.ENDIF
 CFLAGSDBGUTIL=
 
 GCCNUMVERSION_CMD=-dumpversion $(PIPEERROR) $(AWK) -v num=true -f $(SOLARENV)/bin/getcompver.awk
