@@ -446,6 +446,13 @@ End
 
 STD_LIB_FILE( gid_File_Lib_Evoab , evoab)
 
+File gid_File_Share_Registry_Evoab_Xcd
+    TXT_FILE_BODY;
+    Styles = (PACKED);
+    Dir = gid_Brand_Dir_Share_Registry;
+    Name = "evoab.xcd";
+End
+
 #endif  // #ifdef ENABLE_EVOAB2
 
 #endif  // #ifdef UNX

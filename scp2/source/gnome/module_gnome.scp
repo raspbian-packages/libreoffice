@@ -42,6 +42,7 @@ Module gid_Module_Optional_Gnome
 #endif
     Files = (
       gid_File_Lib_Evoab,
+      gid_File_Share_Registry_Evoab_Xcd,
       gid_File_Lib_Fps_Gnome,
       gid_File_Lib_Vclplug_Gtk,
 #ifdef ENABLE_GTK3
