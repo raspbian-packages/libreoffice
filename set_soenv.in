@@ -1490,6 +1490,8 @@ ToFile( "GTK_LIBS",          "@GTK_LIBS@",         "e" );
 ToFile( "ENABLE_GTK3",       "@ENABLE_GTK3@",      "e" );
 ToFile( "GTK3_CFLAGS",       "@GTK3_CFLAGS@",      "e" );
 ToFile( "GTK3_LIBS",         "@GTK3_LIBS@",        "e" );
+ToFile( "GMODULE_CFLAGS",    "@GMODULE_CFLAGS@",   "e" );
+ToFile( "GMODULE_LIBS",      "@GMODULE_LIBS@",     "e" );
 ToFile( "GTHREAD_CFLAGS",    "@GTHREAD_CFLAGS@",   "e" );
 ToFile( "GTHREAD_LIBS",      "@GTHREAD_LIBS@",     "e" );
 ToFile( "ENABLE_SYSTRAY_GTK", "@ENABLE_SYSTRAY_GTK@", "e" );
