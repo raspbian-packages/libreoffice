@@ -235,13 +235,13 @@ void ImplPolygon::ImplSetSize( sal_uInt16 nNewSize, sal_Bool bResize )
 
 // -----------------------------------------------------------------------
 
-void ImplPolygon::ImplSplit( sal_uInt16 nPos, sal_uInt16 nSpace, ImplPolygon* pInitPoly )
+sal_Bool ImplPolygon::ImplSplit( sal_uInt16 nPos, sal_uInt16 nSpace, ImplPolygon* pInitPoly )
 {
     const sal_uIntPtr   nSpaceSize = nSpace * sizeof( Point );
 
     //Can't fit this in :-(, throw ?
     if (mnPoints + nSpace > USHRT_MAX)
-        return;
+        return sal_False;
 
     const sal_uInt16    nNewSize = mnPoints + nSpace;
 
@@ -297,6 +297,8 @@ void ImplPolygon::ImplSplit( sal_uInt16 nPos, sal_uInt16 nSpace, ImplPolygon* pI
         mpPointAry = pNewAry;
         mnPoints   = nNewSize;
     }
+
+    return sal_True;
 }
 
 // -----------------------------------------------------------------------
@@ -1561,8 +1563,8 @@ void Polygon::Insert( sal_uInt16 nPos, const Point& rPt, PolyFlags eFlags )
     if( nPos >= mpImplPolygon->mnPoints )
         nPos = mpImplPolygon->mnPoints;
 
-    mpImplPolygon->ImplSplit( nPos, 1 );
-    mpImplPolygon->mpPointAry[ nPos ] = rPt;
+    if (mpImplPolygon->ImplSplit( nPos, 1 ))
+        mpImplPolygon->mpPointAry[ nPos ] = rPt;
 
     if( POLY_NORMAL != eFlags )
     {
