@@ -23,6 +23,9 @@
 #include <sc.hrc>
 #include <scresid.hxx>
 
+#include <svx/svdoole2.hxx>
+#include <vcl/layout.hxx>
+
 #include <sfx2/linkmgr.hxx>
 #include <vcl/msgbox.hxx>
 
@@ -113,22 +116,6 @@ bool DocumentLinkManager::idleCheckLinks()
     return bAnyLeft;
 }
 
-bool DocumentLinkManager::hasDdeLinks() const
-{
-    if (!mpImpl->mpLinkManager)
-        return false;
-
-    const sfx2::SvBaseLinks& rLinks = mpImpl->mpLinkManager->GetLinks();
-    for (size_t i = 0, n = rLinks.size(); i < n; ++i)
-    {
-        sfx2::SvBaseLink* pBase = *rLinks[i];
-        if (dynamic_cast<ScDdeLink*>(pBase))
-            return true;
-    }
-
-    return false;
-}
-
 bool DocumentLinkManager::updateDdeLinks( Window* pWin )
 {
     if (!mpImpl->mpLinkManager)
@@ -203,6 +190,88 @@ bool DocumentLinkManager::updateDdeLink( const OUString& rAppl, const OUString& 
     return bFound;
 }
 
+bool DocumentLinkManager::hasDdeLinks() const
+{
+    return hasDdeOrOleLinks(true, false);
+}
+
+bool DocumentLinkManager::hasDdeOrOleLinks() const
+{
+    return hasDdeOrOleLinks(true, true);
+}
+
+bool DocumentLinkManager::hasDdeOrOleLinks(bool bDde, bool bOle) const
+{
+    if (!mpImpl->mpLinkManager)
+        return false;
+
+    const sfx2::SvBaseLinks& rLinks = mpImpl->mpLinkManager->GetLinks();
+    for (size_t i = 0, n = rLinks.size(); i < n; ++i)
+    {
+        sfx2::SvBaseLink* pBase = *rLinks[i];
+        if (bDde && dynamic_cast<ScDdeLink*>(pBase))
+            return true;
+        if (bOle && dynamic_cast<SdrEmbedObjectLink*>(pBase))
+            return true;
+    }
+
+    return false;
+}
+
+bool DocumentLinkManager::updateDdeOrOleLinks( Window* pWin )
+{
+    if (!mpImpl->mpLinkManager)
+        return false;
+
+    sfx2::LinkManager* pMgr = mpImpl->mpLinkManager.get();
+    const sfx2::SvBaseLinks& rLinks = pMgr->GetLinks();
+
+    // If the update takes longer, reset all values so that nothing
+    // old (wrong) is left behind
+    bool bAny = false;
+    for (size_t i = 0, n = rLinks.size(); i < n; ++i)
+    {
+        sfx2::SvBaseLink* pBase = *rLinks[i];
+
+        SdrEmbedObjectLink* pOleLink = dynamic_cast<SdrEmbedObjectLink*>(pBase);
+        if (pOleLink)
+        {
+            pOleLink->Update();
+            continue;
+        }
+
+        ScDdeLink* pDdeLink = dynamic_cast<ScDdeLink*>(pBase);
+        if (!pDdeLink)
+            continue;
+
+        if (pDdeLink->Update())
+            bAny = true;
+        else
+        {
+            // Update failed.  Notify the user.
+            OUString aFile = pDdeLink->GetTopic();
+            OUString aElem = pDdeLink->GetItem();
+            OUString aType = pDdeLink->GetAppl();
+
+            OUStringBuffer aBuf;
+            aBuf.append(OUString(ScResId(SCSTR_DDEDOC_NOT_LOADED)));
+            aBuf.append("\n\n");
+            aBuf.append("Source : ");
+            aBuf.append(aFile);
+            aBuf.append("\nElement : ");
+            aBuf.append(aElem);
+            aBuf.append("\nType : ");
+            aBuf.append(aType);
+            ErrorBox aBox(pWin, WB_OK | RET_OK, aBuf.makeStringAndClear());
+            aBox.Execute();
+        }
+    }
+
+    pMgr->CloseCachedComps();
+
+    return bAny;
+}
+
 size_t DocumentLinkManager::getDdeLinkCount() const
 {
     if (!mpImpl->mpLinkManager)
@@ -211,7 +280,7 @@ size_t DocumentLinkManager::getDdeLinkCount() const
     size_t nDdeCount = 0;
     const sfx2::SvBaseLinks& rLinks = mpImpl->mpLinkManager->GetLinks();
     for (size_t i = 0, n = rLinks.size(); i < n; ++i)
-    {
+    {   
         ::sfx2::SvBaseLink* pBase = *rLinks[i];
         ScDdeLink* pDdeLink = dynamic_cast<ScDdeLink*>(pBase);
         if (!pDdeLink)
