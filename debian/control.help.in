@@ -1,0 +1,16 @@
+Package: libreoffice-help-@LCODE@
+Architecture: all
+Section: doc
+Recommends: libreoffice-core (>> ${base-version}) | language-support-translations-@CCODE@
+Depends: libreoffice-l10n-@LCODE@,
+         libreoffice-style-default,
+         libreoffice-writer | language-support-translations-@CCODE@,
+         ${misc:Depends}
+Provides: libreoffice-help-${help-l10n-virtual-version}
+Description: office productivity suite -- @LNAME@ help
+ LibreOffice is a full-featured office productivity suite that provides
+ a near drop-in replacement for Microsoft(R) Office.
+ .
+ This package contains the help of LibreOffice in
+ @LNAME@.
+

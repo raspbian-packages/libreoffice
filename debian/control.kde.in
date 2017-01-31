@@ -1,0 +1,21 @@
+Package: libreoffice-kde
+Architecture: %OOO_ARCHS%
+Depends: libreoffice-core (= ${binary:Version}),
+         ${misc:Depends},
+         ${shlibs:Depends}
+Recommends: ${kde-iconset-dep}
+Suggests: kmail, konqueror, libreoffice-kab
+Section: kde
+Enhances: libreoffice
+Replaces: libreoffice-core (= 1:3.5.0~beta2-1), openoffice.org-kde (<< 1:3.3.0~), libreoffice-core (= 1:4.3.0~beta1-1)
+Description: office productivity suite -- KDE integration
+ LibreOffice is a full-featured office productivity suite that provides
+ a near drop-in replacement for Microsoft(R) Office.
+ .
+ This package contains the KDE plugin for drawing OOo's widgets with
+ KDE/Qt and a KDEish File Picker when running under KDE.
+ You can extend the functionality of this by installing these packages:
+ .
+  * konqueror / kmail
+  * libreoffice-kab: KDE Addressbook support
+

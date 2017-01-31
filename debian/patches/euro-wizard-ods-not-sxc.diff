@@ -1,0 +1,37 @@
+From babff1023a9dbfb35069b332b456f4d22986518a Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?Caol=C3=A1n=20McNamara?= <caolanm@redhat.com>
+Date: Fri, 7 Nov 2014 09:56:01 +0000
+Subject: default to ods instead of sxc
+
+Change-Id: I66e6905237307f177fadfef2ffc13f04ffc43921
+
+diff --git a/wizards/source/euro/AutoPilotRun.xba b/wizards/source/euro/AutoPilotRun.xba
+index fe2bed7..b35cc05 100644
+--- a/wizards/source/euro/AutoPilotRun.xba
++++ b/wizards/source/euro/AutoPilotRun.xba
+@@ -391,14 +391,14 @@ Sub CallFilePicker()
+ 		Else
+ 			ReDim FilterNames(3,1) as String
+ 		End If
+-		FilterNames(0,0) = oTypes.GetByName(&quot;calc_StarOffice_XML_Calc&quot;).UIName
+-		Filternames(0,1) = &quot;*.sxc&quot;
+-		FilterNames(1,0) = oTypes.GetByName(&quot;calc_StarOffice_XML_Calc_Template&quot;).UIName
+-		Filternames(1,1) = &quot;*.stc&quot;
+-		FilterNames(2,0) = oTypes.GetByName(&quot;calc8&quot;).UIName
+-		Filternames(2,1) = &quot;*.ods&quot;
+-		FilterNames(3,0) = oTypes.GetByName(&quot;calc8_template&quot;).UIName
+-		Filternames(3,1) = &quot;*.ots&quot;
++		FilterNames(0,0) = oTypes.GetByName(&quot;calc8&quot;).UIName
++		Filternames(0,1) = &quot;*.ods&quot;
++		FilterNames(1,0) = oTypes.GetByName(&quot;calc8_template&quot;).UIName
++		Filternames(1,1) = &quot;*.ots&quot;
++		FilterNames(2,0) = oTypes.GetByName(&quot;calc_StarOffice_XML_Calc&quot;).UIName
++		Filternames(2,1) = &quot;*.sxc&quot;
++		FilterNames(3,0) = oTypes.GetByName(&quot;calc_StarOffice_XML_Calc_Template&quot;).UIName
++		Filternames(3,1) = &quot;*.stc&quot;
+ 		GetFileName(DialogModel.txtSource, Filternames())
+ 	Else
+ 		GetFolderName(DialogModel.txtSource)
+-- 
+cgit v0.10.2
+

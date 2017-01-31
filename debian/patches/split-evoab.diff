@@ -1,0 +1,60 @@
+diff --git a/scp2/source/gnome/file_gnome.scp b/scp2/source/gnome/file_gnome.scp
+index 68f413f..96baa6f 100644
+--- a/scp2/source/gnome/file_gnome.scp
++++ b/scp2/source/gnome/file_gnome.scp
+@@ -34,3 +34,13 @@ File gid_File_Share_Registry_Gnome_Xcd
+     Name = "gnome.xcd";
+ End
+ #endif
++
++#ifdef ENABLE_EVOAB2
++File gid_File_Share_Registry_Evoab_Xcd
++    TXT_FILE_BODY;
++    Styles = (PACKED);
++    Dir = gid_Brand_Dir_Share_Registry;
++    Name = "evoab.xcd";
++End
++#endif
++
+diff --git a/scp2/source/gnome/module_gnome.scp b/scp2/source/gnome/module_gnome.scp
+index 9f4d0b8..da58fe2 100644
+--- a/scp2/source/gnome/module_gnome.scp
++++ b/scp2/source/gnome/module_gnome.scp
+@@ -42,6 +42,9 @@ Module gid_Module_Optional_Gnome
+ #if (defined ENABLE_GNOMEVFS && defined ENABLE_LOCKDOWN) || defined ENABLE_GIO
+       gid_File_Share_Registry_Gnome_Xcd,
+ #endif
++#ifdef ENABLE_EVOAB2
++     gid_File_Share_Registry_Evoab_Xcd,
++#endif
+       gid_File_Bin_Gnome_Open_Url,
+       gid_File_Bin_Gnome_Open_Url_Bin,
+       gid_File_Bin_XidFullscreen
+diff --git a/postprocess/CustomTarget_registry.mk b/postprocess/CustomTarget_registry.mk
+index 181c782..33f4640 100644
+--- a/postprocess/CustomTarget_registry.mk
++++ b/postprocess/CustomTarget_registry.mk
+@@ -333,8 +333,9 @@ ifeq ($(DISABLE_NEON),$(false))
+ postprocess_FILES_main += $(postprocess_MOD)/org/openoffice/ucb/Configuration-neon.xcu
+ endif
+ ifeq ($(ENABLE_EVOAB2),TRUE)
++postprocess_XCDS += evoab.xcd
+-postprocess_FILES_main += $(call gb_XcuModuleTarget_get_target,connectivity/registry/evoab2)/org/openoffice/Office/DataAccess/Drivers-evoab2.xcu
+-postprocess_FILES_main += $(postprocess_MOD)/org/openoffice/Office/DataAccess-evoab2.xcu
++postprocess_FILES_evoab += $(call gb_XcuModuleTarget_get_target,connectivity/registry/evoab2)/org/openoffice/Office/DataAccess/Drivers-evoab2.xcu
++postprocess_FILES_evoab += $(postprocess_MOD)/org/openoffice/Office/DataAccess-evoab2.xcu
+ postprocess_DRIVERS += evoab
+ endif
+ ifeq ($(ENABLE_JAVA),TRUE)
+diff --git a/scp2/InstallModule_gnome.mk b/scp2/InstallModule_gnome.mk
+index 3e2fa77..4cb7235 100644
+--- a/scp2/InstallModule_gnome.mk
++++ b/scp2/InstallModule_gnome.mk
+@@ -15,6 +15,7 @@ $(eval $(call gb_InstallModule_define_if_set,scp2/gnome,\
+ 	ENABLE_GIO \
+ 	ENABLE_GNOMEVFS \
+ 	ENABLE_LOCKDOWN \
++        ENABLE_EVOAB2 \
+         ENABLE_GTK \
+ ))
+ 
