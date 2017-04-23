@@ -1,0 +1,13 @@
+#!/bin/bash
+
+set -e
+
+#INCLUDE_SHELL_LIB#
+
+if [ "$1" = "upgrade" ]; then
+	rm -rf /usr/lib/libreoffice/share/extensions/script-provider-for-javascript
+	sync_extensions
+fi
+
+#DEBHELPER#
+

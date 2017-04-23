@@ -1,0 +1,35 @@
+From da329b8bb04f5d6a5c89afb7f083c7de679d5691 Mon Sep 17 00:00:00 2001
+From: Stephan Bergmann <sbergman@redhat.com>
+Date: Thu, 06 Sep 2012 10:43:54 +0000
+Subject: deb#681185: wait for InternalIPC::ProcessingDone in oosplash
+
+Change-Id: I9606ec34ad0d8d24dca71d060bf5e1d37152903c
+(cherry picked from commit 5c804dce946a928adcaf97533f5345b33e688ff5)
+Reviewed-on: https://gerrit.libreoffice.org/569
+Reviewed-by: Michael Meeks <michael.meeks@suse.com>
+Tested-by: Michael Meeks <michael.meeks@suse.com>
+---
+diff --git a/desktop/unx/source/start.c b/desktop/unx/source/start.c
+index d1a09a7..8fe4774 100644
+--- a/desktop/unx/source/start.c
++++ b/desktop/unx/source/start.c
+@@ -512,6 +512,17 @@ send_args( int fd, rtl_uString *pCwdPath )
+     nLen = rtl_string_getLength( pOut ) + 1;
+     bResult = ( write( fd, rtl_string_getStr( pOut ), nLen ) == (ssize_t) nLen );
+ 
++    if ( bResult )
++    {
++        char resp[ strlen( "InternalIPC::ProcessingDone" ) ];
++        ssize_t n = read( fd, resp, SAL_N_ELEMENTS( resp ) );
++        bResult = n == (ssize_t) SAL_N_ELEMENTS( resp )
++            && (memcmp(
++                    resp, "InternalIPC::ProcessingDone",
++                    SAL_N_ELEMENTS( resp ) )
++                == 0);
++    }
++
+     /* cleanup */
+     rtl_uString_release( pEscapedCwdPath );
+     rtl_uString_release( pBuffer );
+--
+cgit v0.9.0.2-2-gbebe

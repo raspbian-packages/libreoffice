@@ -1,0 +1,13 @@
+diff --git a/desktop/scripts/soffice.sh b/desktop/scripts/soffice.sh
+index 7727206..0c3ab6d 100755
+--- a/desktop/scripts/soffice.sh.in
++++ b/desktop/scripts/soffice.sh.in
+@@ -154,7 +154,7 @@
+ # valgrind --log-file=valgrind.log does not work well with --trace-children=yes
+ if [ -n "$VALGRINDCHECK" ] ; then
+     echo "redirecting the standard and the error output to valgrind.log"
+-    exec &>valgrind.log
++    exec > valgrind.log 2>&1
+ fi
+ 
+ # do not pass the request for command line help to oosplash
