@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+desktop%2Fsource%2Fdeployment%2Fmanager.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+desktop%2Fsource%2Fdeployment%2Fmanager.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
 "PO-Revision-Date: 2011-04-05 19:11+0200\n"
 "Last-Translator: jmontane <joan@montane.cat>\n"
@@ -15,26 +17,32 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. oJ64
 #: dp_manager.src#RID_STR_COPYING_PACKAGE.string.text
 msgid "Copying: "
 msgstr "S'està copiant el paquet: "
 
+#. 89sb
 #: dp_manager.src#RID_STR_ERROR_WHILE_ADDING.string.text
 msgid "Error while adding: "
 msgstr "S'ha produït un error en afegir el paquet: "
 
+#. gkRO
 #: dp_manager.src#RID_STR_ERROR_WHILE_REMOVING.string.text
 msgid "Error while removing: "
 msgstr "S'ha produït un error en suprimir el paquet: "
 
+#. WZ5y
 #: dp_manager.src#RID_STR_PACKAGE_ALREADY_ADDED.string.text
 msgid "Extension has already been added: "
 msgstr "L'extensió ja ha estat afegida: "
 
+#. UOCd
 #: dp_manager.src#RID_STR_NO_SUCH_PACKAGE.string.text
 msgid "There is no such extension deployed: "
 msgstr "Esta extensió no ha estat instal·lada: "
 
+#. c##1
 #: dp_manager.src#RID_STR_SYNCHRONIZING_REPOSITORY.string.text
 msgid "Synchronizing repository for %NAME extensions"
 msgstr "S'està sincronitzant el dipòsit per a les extensions %NAME"

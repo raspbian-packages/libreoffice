@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+wizards%2Fsource%2Fschedule.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment="
+"&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%"
+"3A+wizards%2Fsource%2Fschedule.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:41+0200\n"
 "PO-Revision-Date: 2012-02-29 23:30+0200\n"
 "Last-Translator: Joan <joan@montane.cat>\n"
@@ -15,199 +17,246 @@ msgstr ""
 "X-Generator: Pootle 2.1.6\n"
 "X-Accelerator-Marker: ~\n"
 
+#. GCxk
 #: schedule.src#dlgCalTitle.string.text
 msgid "%PRODUCTNAME Calendar"
 msgstr "Calendari del %PRODUCTNAME"
 
+#. m_#i
 #: schedule.src#dlgCalTitleBack.string.text
 msgid "Back"
 msgstr "Arrere"
 
+#. FfgU
 #: schedule.src#dlgCalTitleOwnData.string.text
 msgctxt "schedule.src#dlgCalTitleOwnData.string.text"
 msgid "Personal Data"
 msgstr "Dades personals"
 
+#. yiF2
 #: schedule.src#dlgSchdlTitle.string.text
 msgid "Add Holidays to Calendar"
 msgstr "Afig les vacances al calendari"
 
+#. rgwB
 #: schedule.src#dlgOK.string.text
 msgid "Create"
 msgstr "Crea"
 
+#. sD6L
 #: schedule.src#dlgCancel.string.text
 msgid "Cancel"
 msgstr "Cancel·la"
 
+#. YGdw
 #: schedule.src#dlgCalFrameOption.string.text
 msgctxt "schedule.src#dlgCalFrameOption.string.text"
 msgid "Calendar"
 msgstr "Calendari"
 
+#. ZGoH
 #: schedule.src#dlgCalOptionYear.string.text
 msgid "~Year Overview"
 msgstr "~Resum de l'any"
 
+#. PY5l
 #: schedule.src#dlgCalOptionMonth.string.text
 msgid "~Month"
 msgstr "~Mes"
 
+#. uF#U
 #: schedule.src#dlgSchdlDescription.string.text
 msgid "Add holidays for"
 msgstr "Afig les vacances per"
 
+#. QGuA
 #: schedule.src#dlgSchdlCountry.string.text
 msgid "USA"
 msgstr "Països Catalans"
 
+#. #1u0
 #: schedule.src#dlgTime.string.text
 msgid "Time Frame"
 msgstr "Marc d'hora"
 
+#. lvSm
 #: schedule.src#dlgYear.string.text
 msgctxt "schedule.src#dlgYear.string.text"
 msgid "Year"
 msgstr "Any"
 
+#. f8jE
 #: schedule.src#dlgCalMonth.string.text
 msgctxt "schedule.src#dlgCalMonth.string.text"
 msgid "Month"
 msgstr "Mes"
 
+#. kvee
 #: schedule.src#dlgSpecificBankholidays.string.text
 msgid "-"
 msgstr "-"
 
+#. Vikx
 #: schedule.src#dlgCalOwnData.string.text
 msgctxt "schedule.src#dlgCalOwnData.string.text"
 msgid "Personal Data"
 msgstr "Dades personals"
 
+#. #QLQ
 #: schedule.src#dlgCalInsert.string.text
 msgid "~Insert"
 msgstr "~Insereix"
 
+#. ivSL
 #: schedule.src#dlgCalDelete.string.text
 msgid "~Delete"
 msgstr "~Suprimeix"
 
+#. t2Hp
 #: schedule.src#dlgCalNewEvent.string.text
 msgid "New Event"
 msgstr "Esdeveniment nou"
 
+#. wIW1
 #: schedule.src#dlgCalEvent.string.text
 msgid "Event"
 msgstr "Esdeveniment"
 
+#. FALf
 #: schedule.src#dlgCalEventOnce.string.text
 msgid "One-Time"
 msgstr "Un cop"
 
+#. GZJQ
 #: schedule.src#dlgCalEventDay.string.text
 msgid "Day"
 msgstr "Dia"
 
+#. sWHq
 #: schedule.src#dlgCalEventMonth.string.text
 msgctxt "schedule.src#dlgCalEventMonth.string.text"
 msgid "Month"
 msgstr "Mes"
 
+#. at2V
 #: schedule.src#dlgCalEventYear.string.text
 msgctxt "schedule.src#dlgCalEventYear.string.text"
 msgid "Year"
 msgstr "Any"
 
+#. VqOG
 #: schedule.src#dlgBitmapFile.string.text
 msgid "usa.bmp"
 msgstr "usa.bmp"
 
+#. dJlH
 #: schedule.src#dlgState.string.text
 msgid "Public holidays"
 msgstr "Festius"
 
+#. H36V
 #: schedule.src#dlgMonth.string.text
 msgid "January"
 msgstr "Gener"
 
+#. sVoR
 #: schedule.src#dlgMonth_1.string.text
 msgid "February"
 msgstr "Febrer"
 
+#. FgWm
 #: schedule.src#dlgMonth_2.string.text
 msgid "March"
 msgstr "Març"
 
+#. Ovkf
 #: schedule.src#dlgMonth_3.string.text
 msgid "April"
 msgstr "Abril"
 
+#. 6oX7
 #: schedule.src#dlgMonth_4.string.text
 msgid "May"
 msgstr "Maig"
 
+#. HXlU
 #: schedule.src#dlgMonth_5.string.text
 msgid "June"
 msgstr "Juny"
 
+#. eKzr
 #: schedule.src#dlgMonth_6.string.text
 msgid "July"
 msgstr "Juliol"
 
+#. _7pi
 #: schedule.src#dlgMonth_7.string.text
 msgid "August"
 msgstr "Agost"
 
+#. ln78
 #: schedule.src#dlgMonth_8.string.text
 msgid "September"
 msgstr "Setembre"
 
+#. uY9H
 #: schedule.src#dlgMonth_9.string.text
 msgid "October"
 msgstr "Octubre"
 
+#. vIVg
 #: schedule.src#dlgMonth_10.string.text
 msgid "November"
 msgstr "Novembre"
 
+#. k1Hp
 #: schedule.src#dlgMonth_11.string.text
 msgid "December"
 msgstr "Desembre"
 
+#. 58KD
 #: schedule.src#msgCalErrorTitle.string.text
 msgid "Yearly / Monthly Calendar"
 msgstr "Calendari anual / mensual"
 
+#. Kc2J
 #: schedule.src#msgCalError.string.text
 msgid "An error occurred while creating the calendar."
 msgstr "S'ha produït un error en crear el calendari."
 
+#. IZHB
 #: schedule.src#msgCalRemoveTitle.string.text
 msgid "Delete event entries"
 msgstr "Suprimeix les entrades de l'esdeveniment"
 
+#. 4H27
 #: schedule.src#msgCalRemove.string.text
 msgid "Delete the selected entries?"
 msgstr "Voleu suprimir les entrades seleccionades?"
 
+#. 85Oa
 #: schedule.src#stlWorkday.string.text
 msgid "Workweek"
 msgstr "Setmana laboral"
 
+#. tLL2
 #: schedule.src#stlWeekend.string.text
 msgid "Weekend"
 msgstr "Cap de setmana"
 
+#. 4cVa
 #: schedule.src#nameCalYear.string.text
 msgctxt "schedule.src#nameCalYear.string.text"
 msgid "Calendar"
 msgstr "Calendari"
 
+#. AQsb
 #: schedule.src#nameCalMonth.string.text
 msgctxt "schedule.src#nameCalMonth.string.text"
 msgid "Month"
 msgstr "Mes"
 
+#. SXKO
 #: schedule.src#sProgress.string.text
 msgid "Progress:"
 msgstr "Progrés:"

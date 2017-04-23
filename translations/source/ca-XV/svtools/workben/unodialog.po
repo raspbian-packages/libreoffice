@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+svtools%2Fworkben%2Funodialog.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+svtools%2Fworkben%2Funodialog.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:41+0200\n"
 "PO-Revision-Date: 2011-04-05 19:15+0200\n"
 "Last-Translator: jmontane <joan@montane.cat>\n"
@@ -15,22 +17,27 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. HVXi
 #: roadmapskeleton.src#DLG_ROADMAP_SKELETON.STR_STATE_WELCOME.string.text
 msgid "Welcome"
 msgstr "Vos donem la benvinguda"
 
+#. BUnX
 #: roadmapskeleton.src#DLG_ROADMAP_SKELETON.STR_STATE_PREPARE.string.text
 msgid "Prepare"
 msgstr "Prepara"
 
+#. hNxW
 #: roadmapskeleton.src#DLG_ROADMAP_SKELETON.STR_STATE_SETUP.string.text
 msgid "Setup"
 msgstr "Configura"
 
+#. kZl2
 #: roadmapskeleton.src#DLG_ROADMAP_SKELETON.STR_STATE_FINISH.string.text
 msgid "Finish"
 msgstr "Finalitza"
 
+#. NG6G
 #: roadmapskeleton.src#DLG_ROADMAP_SKELETON.modaldialog.text
 msgid "Roadmap Skeleton Demo"
 msgstr "Demostració d'esquelet d'un full de ruta"

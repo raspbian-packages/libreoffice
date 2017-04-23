@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+sd%2Fsource%2Fui%2Faccessibility.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+sd%2Fsource%2Fui%2Faccessibility.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
 "PO-Revision-Date: 2011-04-05 19:14+0200\n"
 "Last-Translator: jmontane <joan@montane.cat>\n"
@@ -15,52 +17,64 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. KvOU
 #: accessibility.src#SID_SD_A11Y_D_DRAWVIEW_N.string.text
 msgctxt "accessibility.src#SID_SD_A11Y_D_DRAWVIEW_N.string.text"
 msgid "Drawing View"
 msgstr "Vista del dibuix"
 
+#. qY_c
 #: accessibility.src#SID_SD_A11Y_D_DRAWVIEW_D.string.text
 msgid "This is where you create and edit drawings."
 msgstr "Ací es creen i s'editen els dibuixos."
 
+#. 6tJP
 #: accessibility.src#SID_SD_A11Y_I_DRAWVIEW_N.string.text
 msgctxt "accessibility.src#SID_SD_A11Y_I_DRAWVIEW_N.string.text"
 msgid "Drawing View"
 msgstr "Vista del dibuix"
 
+#. ciqX
 #: accessibility.src#SID_SD_A11Y_I_DRAWVIEW_D.string.text
 msgid "This is where you create and edit slides."
 msgstr "Ací es creen i s'editen les diapositives."
 
+#. 14eh
 #: accessibility.src#SID_SD_A11Y_I_OUTLINEVIEW_N.string.text
 msgid "Outline View"
 msgstr "Vista d'esquema"
 
+#. XVFJ
 #: accessibility.src#SID_SD_A11Y_I_OUTLINEVIEW_D.string.text
 msgid "This is where you enter or edit text in list form."
 msgstr "Ací s'introdueixen o s'editen els textos."
 
+#. yhev
 #: accessibility.src#SID_SD_A11Y_I_SLIDEVIEW_N.string.text
 msgid "Slides View"
 msgstr "Vista de les diapositives"
 
+#. SmF1
 #: accessibility.src#SID_SD_A11Y_I_SLIDEVIEW_D.string.text
 msgid "This is where you sort slides."
 msgstr "Ací s'ordenen les diapositives."
 
+#. #aoy
 #: accessibility.src#SID_SD_A11Y_I_NOTESVIEW_N.string.text
 msgid "Notes View"
 msgstr "Vista de les notes"
 
+#. U_L4
 #: accessibility.src#SID_SD_A11Y_I_NOTESVIEW_D.string.text
 msgid "This is where you enter and view notes."
 msgstr "Ací s'introdueixen i es visualitzen les notes."
 
+#. QFnt
 #: accessibility.src#SID_SD_A11Y_I_HANDOUTVIEW_N.string.text
 msgid "Handout View"
 msgstr "Vista del prospecte"
 
+#. wKMF
 #: accessibility.src#SID_SD_A11Y_I_HANDOUTVIEW_D.string.text
 msgid "This is where you decide on the layout for handouts."
 msgstr "Ací es decideix el format dels prospectes."

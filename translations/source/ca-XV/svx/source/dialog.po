@@ -2,12 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+svx%2Fsource%2Fdialog.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment="
+"&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%"
+"3A+svx%2Fsource%2Fdialog.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
-"PO-Revision-Date: 2012-03-10 10:23+0200\n"
-"Last-Translator: PauGNU <pau@somgnu.cat>\n"
+"PO-Revision-Date: 2012-02-28 00:43+0200\n"
+"Last-Translator: Joan <joan@montane.cat>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ca_XV\n"
+"Language: ca-XV\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -15,91 +17,132 @@ msgstr ""
 "X-Generator: Pootle 2.1.6\n"
 "X-Accelerator-Marker: ~\n"
 
+#. wrQg
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_SAVE.FT_SAVE_TITLE.fixedtext.text
-msgctxt "docrecovery.src#RID_SVXPAGE_DOCRECOVERY_SAVE.FT_SAVE_TITLE.fixedtext.text"
+msgctxt ""
+"docrecovery.src#RID_SVXPAGE_DOCRECOVERY_SAVE.FT_SAVE_TITLE.fixedtext.text"
 msgid "%PRODUCTNAME Document Recovery"
 msgstr "Recuperació de documents del %PRODUCTNAME"
 
+#. ctiG
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_SAVE.FT_SAVE_DESCR.fixedtext.text
-msgid "Due to an unexpected error, %PRODUCTNAME crashed. All the files you were working on will now be saved. The next time %PRODUCTNAME is launched, your files will be recovered automatically."
-msgstr "A causa d'un error inesperat, el %PRODUCTNAME ha fallat. Tots els fitxers amb què estàveu treballant s'alçaran ara. La propera vegada que inicieu el %PRODUCTNAME, els fitxers es recuperaran automàticament."
+msgid ""
+"Due to an unexpected error, %PRODUCTNAME crashed. All the files you were "
+"working on will now be saved. The next time %PRODUCTNAME is launched, your "
+"files will be recovered automatically."
+msgstr ""
+"A causa d'un error inesperat, el %PRODUCTNAME ha fallat. Tots els fitxers "
+"amb què estàveu treballant s'alçaran ara. La propera vegada que inicieu el "
+"%PRODUCTNAME, els fitxers es recuperaran automàticament."
 
+#. Yjnb
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_SAVE.FT_SAVE_FILELIST.fixedtext.text
 msgid "The following files will be recovered:"
 msgstr "Es recuperaran els següents fitxers:"
 
+#. glG1
 #: docrecovery.src#RID_SVX_MDLG_DOCRECOVERY_PROGR.FT_SAVEPROGR_HINT.fixedtext.text
 msgid "Documents are being saved."
 msgstr "S'estan alçant els documents."
 
+#. yeBU
 #: docrecovery.src#RID_SVX_MDLG_DOCRECOVERY_PROGR.FT_SAVEPROGR_PROGR.fixedtext.text
 msgid "Progress of saving: "
 msgstr "Progrés en alçar: "
 
+#. mJ6S
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.FT_RECOV_TITLE.fixedtext.text
-msgctxt "docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.FT_RECOV_TITLE.fixedtext.text"
+msgctxt ""
+"docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.FT_RECOV_TITLE.fixedtext.text"
 msgid "%PRODUCTNAME Document Recovery"
 msgstr "Recuperació de documents del %PRODUCTNAME"
 
+#. iHmc
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.FT_RECOV_DESCR.fixedtext.text
 msgid ""
-"Press 'Start Recovery' to start the recovery process of the documents listed below.\n"
+"Press 'Start Recovery' to start the recovery process of the documents listed "
+"below.\n"
 "\n"
 "The 'Status' column shows whether the document could be recovered."
 msgstr ""
-"Premeu 'Comença la recuperació' per començar el procés de recuperació dels documents llistats a sota.\n"
+"Premeu 'Comença la recuperació' per començar el procés de recuperació dels "
+"documents llistats a sota.\n"
 "\n"
 "La columna 'Estat' indica si el document es pot recuperar o no."
 
+#. XnSk
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.FT_RECOV_PROGR.fixedtext.text
 msgid "Recovering document:"
 msgstr "S'està recuperant el document:"
 
+#. MgeN
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.FT_RECOV_FILELIST.fixedtext.text
 msgid "Status of recovered documents:"
 msgstr "Estat dels documents recuperats:"
 
+#. 5GR6
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_HEADERBAR.string.text
 msgid "Document Name\tStatus"
 msgstr "Nom del document\tEstat"
 
+#. ODlG
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.BTN_RECOV_NEXT.pushbutton.text
 msgid "~Start Recovery >"
 msgstr "~Comença la recuperació >"
 
+#. ErKo
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVERY_NEXT.string.text
-msgctxt "docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVERY_NEXT.string.text"
+msgctxt ""
+"docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVERY_NEXT.string.text"
 msgid "~Next >"
 msgstr "~Següent >"
 
+#. ewlG
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_SUCCESSRECOV.string.text
 msgid "Successfully recovered"
 msgstr "S'ha recuperat correctament"
 
+#. 6PkZ
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_ORIGDOCRECOV.string.text
 msgid "Original document recovered"
 msgstr "S'ha recuperat el document original"
 
+#. h3v8
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVFAILED.string.text
 msgid "Recovery failed"
 msgstr "Ha fallat la recuperació"
 
+#. e6e1
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVINPROGR.string.text
 msgid "Recovery in progress"
 msgstr "S'està recuperant"
 
+#. 2qwD
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_NOTRECOVYET.string.text
 msgid "Not recovered yet"
 msgstr "Encara no s'ha recuperat"
 
+#. f9jc
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVERY_INPROGRESS.string.text
-msgid "%PRODUCTNAME %PRODUCTVERSION will start to recover your documents. Depending on the size of the documents this process can take some time."
-msgstr "El %PRODUCTNAME %PRODUCTVERSION començarà a recuperar els documents. Segons la mida dels documents, este procés pot trigar una estona."
+msgid ""
+"%PRODUCTNAME %PRODUCTVERSION will start to recover your documents. Depending "
+"on the size of the documents this process can take some time."
+msgstr ""
+"El %PRODUCTNAME %PRODUCTVERSION començarà a recuperar els documents. Segons "
+"la mida dels documents, este procés pot trigar una estona."
 
+#. funo
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVERY_REPORT.string.text
-msgid "A report of the crash was created to help us identify the reason why %PRODUCTNAME crashed. Click 'Next' to get to the Error Report Tool or press 'Cancel' to skip this step."
-msgstr "S'ha creat un informe d'error per ajudar-nos a identificar el motiu pel qual el %PRODUCTNAME ha fallat. Feu clic a 'Següent' per obrir l'eina d'informe d'errors o premeu 'Cancel·la' per saltar-vos este pas."
+msgid ""
+"A report of the crash was created to help us identify the reason why %"
+"PRODUCTNAME crashed. Click 'Next' to get to the Error Report Tool or press "
+"'Cancel' to skip this step."
+msgstr ""
+"S'ha creat un informe d'error per ajudar-nos a identificar el motiu pel qual "
+"el %PRODUCTNAME ha fallat. Feu clic a 'Següent' per obrir l'eina d'informe "
+"d'errors o premeu 'Cancel·la' per saltar-vos este pas."
 
+#. #4rZ
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVERYONLY_FINISH_DESCR.string.text
 msgid ""
 "Recovery of your documents was finished.\n"
@@ -108,277 +151,382 @@ msgstr ""
 "La recuperació dels documents ha finalitzat.\n"
 "Feu clic a 'Finalitza' per veure els documents."
 
+#. Hcba
 #: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVERYONLY_FINISH.string.text
 msgid "~Finish"
 msgstr "~Finalitza"
 
+#. Q6Pu
 #: docrecovery.src#RID_SVXQB_EXIT_RECOVERY.querybox.text
 msgid "Are you sure you want to cancel the %PRODUCTNAME document recovery?"
-msgstr "Esteu segur que voleu cancel·lar la recuperació de documents del %PRODUCTNAME?"
+msgstr ""
+"Esteu segur que voleu cancel·lar la recuperació de documents del %"
+"PRODUCTNAME?"
 
+#. bXFx
 #: docrecovery.src#RID_SVX_MDLG_DOCRECOVERY_BROKEN.FT_BROKEN_DESCR.fixedtext.text
 msgid ""
 "The automatic recovery process was interrupted.\n"
 "\n"
-"The documents listed below will be saved in the folder noted below if you click 'Save'. Click 'Cancel' to close the wizard without saving the documents."
+"The documents listed below will be saved in the folder noted below if you "
+"click 'Save'. Click 'Cancel' to close the wizard without saving the "
+"documents."
 msgstr ""
 "El procés automàtic de recuperació s'ha interromput.\n"
 "\n"
-"Els documents llistats a sota s'alçaran en la carpeta indicada si feu clic a 'Alça'. Feu clic a 'Cancel·la' per tancar l'auxiliar sense alçar els documents."
+"Els documents llistats a sota s'alçaran en la carpeta indicada si feu clic "
+"a 'Alça'. Feu clic a 'Cancel·la' per tancar l'auxiliar sense alçar els "
+"documents."
 
+#. AUWS
 #: docrecovery.src#RID_SVX_MDLG_DOCRECOVERY_BROKEN.FT_BROKEN_FILELIST.fixedtext.text
 msgid "Documents"
 msgstr "Documents"
 
+#. eY27
 #: docrecovery.src#RID_SVX_MDLG_DOCRECOVERY_BROKEN.FT_BROKEN_SAVEDIR.fixedtext.text
 msgid "~Save to"
 msgstr "~Alça a"
 
+#. tPUl
 #: docrecovery.src#RID_SVX_MDLG_DOCRECOVERY_BROKEN.BTN_BROKEN_SAVEDIR.pushbutton.text
 msgid "Chan~ge..."
 msgstr "Can~via..."
 
+#. uzff
 #: docrecovery.src#RID_SVX_MDLG_DOCRECOVERY_BROKEN.BTN_BROKEN_OK.okbutton.text
 msgid "~Save"
 msgstr "~Alça"
 
+#. 1ThY
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_WELCOME.FT_RECOV_TITLE.fixedtext.text
 msgid "Welcome to the %PRODUCTNAME %PRODUCTVERSION Error Report"
-msgstr "Vos donem la benvinguda a l'informe d'errors del %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+"Vos donem la benvinguda a l'informe d'errors del %PRODUCTNAME %PRODUCTVERSION"
 
+#. TVTO
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_WELCOME.FT_RECOV_DESCR.fixedtext.text
 msgid ""
-"This error report tool gathers information about how %PRODUCTNAME is working and sends it to Oracle to help improve future versions.\n"
+"This error report tool gathers information about how %PRODUCTNAME is working "
+"and sends it to Oracle to help improve future versions.\n"
 "\n"
-"It's easy - just send the report without any further effort on your part by clicking 'Send' in the next dialog, or you can briefly describe how the error occurred and then click 'Send'. If you want to see the report, click the 'Show Report' button. No data will be sent if you click 'Do Not Send'.\n"
+"It's easy - just send the report without any further effort on your part by "
+"clicking 'Send' in the next dialog, or you can briefly describe how the "
+"error occurred and then click 'Send'. If you want to see the report, click "
+"the 'Show Report' button. No data will be sent if you click 'Do Not Send'.\n"
 "\n"
 "Customer Privacy\n"
-"The information gathered is limited to data concerning the state of %PRODUCTNAME %PRODUCTVERSION when the error occurred. Other information about passwords or document contents is not collected.\n"
+"The information gathered is limited to data concerning the state of %"
+"PRODUCTNAME %PRODUCTVERSION when the error occurred. Other information about "
+"passwords or document contents is not collected.\n"
 "\n"
-"The information will only be used to improve the quality of %PRODUCTNAME and will not be shared with third parties.\n"
+"The information will only be used to improve the quality of %PRODUCTNAME and "
+"will not be shared with third parties.\n"
 "For more information on Oracle's privacy policy, visit\n"
 "www.oracle.com/html/services-privacy-policy.html"
 msgstr ""
-"Esta eina d'informe d'errors obté informació sobre com funciona el %PRODUCTNAME i l'envia a Oracle per ajudar a millorar les versions futures.\n"
+"Esta eina d'informe d'errors obté informació sobre com funciona el %"
+"PRODUCTNAME i l'envia a Oracle per ajudar a millorar les versions futures.\n"
 "\n"
-"És fàcil: simplement envieu l'informe fent clic a 'Envia' al quadre de diàleg següent, o bé també podeu explicar què fèieu quan s'ha produït l'error, llavors fer clic a 'Envia'. Si voleu veure l'informe, feu clic a 'Mostra l'informe'. Si feu clic a 'No l'envies', no s'enviarà res.\n"
+"És fàcil: simplement envieu l'informe fent clic a 'Envia' al quadre de "
+"diàleg següent, o bé també podeu explicar què fèieu quan s'ha produït "
+"l'error, llavors fer clic a 'Envia'. Si voleu veure l'informe, feu clic a "
+"'Mostra l'informe'. Si feu clic a 'No l'envies', no s'enviarà res.\n"
 "\n"
 "Política de privadesa\n"
-"La informació obtinguda es limita a les dades que es refereixen a l'estat del %PRODUCTNAME %PRODUCTVERSION en el moment en el qual s'ha produït l'error. No s'obté cap mena d'informació sobre continguts dels documents o contrasenyes.\n"
+"La informació obtinguda es limita a les dades que es refereixen a l'estat "
+"del %PRODUCTNAME %PRODUCTVERSION en el moment en el qual s'ha produït "
+"l'error. No s'obté cap mena d'informació sobre continguts dels documents o "
+"contrasenyes.\n"
 "\n"
-"Esta informació només s'utilitzarà per millorar la qualitat del %PRODUCTNAME i no es compartirà amb tercers.\n"
+"Esta informació només s'utilitzarà per millorar la qualitat del %"
+"PRODUCTNAME i no es compartirà amb tercers.\n"
 "Si voleu més informació quant a la política de privadesa d'Oracle, visiteu\n"
 "www.oracle.com/html/services-privacy-policy.html"
 
+#. Tox8
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_WELCOME.BTN_RECOV_PREV.pushbutton.text
-msgctxt "docrecovery.src#RID_SVXPAGE_ERR_REP_WELCOME.BTN_RECOV_PREV.pushbutton.text"
+msgctxt ""
+"docrecovery.src#RID_SVXPAGE_ERR_REP_WELCOME.BTN_RECOV_PREV.pushbutton.text"
 msgid "< ~Back"
 msgstr "< ~Arrere"
 
+#. H99G
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_WELCOME.BTN_RECOV_NEXT.okbutton.text
-msgctxt "docrecovery.src#RID_SVXPAGE_ERR_REP_WELCOME.BTN_RECOV_NEXT.okbutton.text"
+msgctxt ""
+"docrecovery.src#RID_SVXPAGE_ERR_REP_WELCOME.BTN_RECOV_NEXT.okbutton.text"
 msgid "~Next >"
 msgstr "~Següent >"
 
+#. IlLm
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.FT_RECOV_TITLE.fixedtext.text
 msgid "Sending the Error Report"
 msgstr "S'està enviant l'informe d'errors"
 
+#. EjZA
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.FT_RECOV_DESCR.fixedtext.text
-msgid "In the spaces below, you can enter a title for your error report and describe the action you were trying to carry out when the error occurred. Then click 'Send'."
-msgstr "En els espais de sota, podeu introduir un títol per a l'informe d'errors i descriure l'acció que intentàveu realitzar quan s'ha produït l'error. Després feu clic a 'Envia'."
+msgid ""
+"In the spaces below, you can enter a title for your error report and "
+"describe the action you were trying to carry out when the error occurred. "
+"Then click 'Send'."
+msgstr ""
+"En els espais de sota, podeu introduir un títol per a l'informe d'errors i "
+"descriure l'acció que intentàveu realitzar quan s'ha produït l'error. "
+"Després feu clic a 'Envia'."
 
+#. r5o0
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.FT_ERRSEND_DOCTYPE.fixedtext.text
-msgid "~Which type of document (e.g. presentation) were you using when the error occurred?"
-msgstr "~Quin tipus de document (p.e. una presentació) estàveu fent servir quan s'ha produït l'error?"
+msgid ""
+"~Which type of document (e.g. presentation) were you using when the error "
+"occurred?"
+msgstr ""
+"~Quin tipus de document (p.e. una presentació) estàveu fent servir quan s'ha "
+"produït l'error?"
 
+#. 82Ae
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.FT_ERRSEND_USING.fixedtext.text
 msgid "~How were you using %PRODUCTNAME when the error occurred? (optional)"
-msgstr "~Com estàveu fent servir el %PRODUCTNAME quan s'ha produït l'error? (opcional)"
+msgstr ""
+"~Com estàveu fent servir el %PRODUCTNAME quan s'ha produït l'error? "
+"(opcional)"
 
+#. joID
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.BTN_ERRSEND_SHOWREP.pushbutton.text
 msgid "Show ~Report"
 msgstr "Mostra l'~informe"
 
+#. PB#M
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.BTN_ERRSEND_OPT.pushbutton.text
 msgid "~Options..."
 msgstr "~Opcions..."
 
+#. BZLs
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.CB_ERRSEND_CONTACT.checkbox.text
 msgid "~I allow Oracle to contact me regarding this report."
-msgstr "~Permeto a Oracle posar-se en contacte amb mi en relació amb este informe."
+msgstr ""
+"~Permeto a Oracle posar-se en contacte amb mi en relació amb este informe."
 
+#. tMtI
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.FT_ERRSEND_EMAILADDR.fixedtext.text
 msgid "~Please enter your e-mail address"
 msgstr "~Introduïu la vostra adreça electrònica"
 
+#. 0IvU
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.BTN_RECOV_PREV.pushbutton.text
-msgctxt "docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.BTN_RECOV_PREV.pushbutton.text"
+msgctxt ""
+"docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.BTN_RECOV_PREV.pushbutton.text"
 msgid "< ~Back"
 msgstr "< ~Arrere"
 
+#. PbGL
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.BTN_RECOV_NEXT.okbutton.text
 msgid "S~end"
 msgstr "En~via"
 
+#. n0Nn
 #: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.BTN_RECOV_CANCEL.cancelbutton.text
 msgid "Do ~Not Send"
 msgstr "~No envies"
 
+#. KBCk
 #: docrecovery.src#RID_SVX_MDLG_ERR_REP_OPTIONS.FL_ERROPT_PROXY.fixedline.text
 msgid "Proxy settings"
 msgstr "Configuració del servidor intermediari"
 
+#. 7v_V
 #: docrecovery.src#RID_SVX_MDLG_ERR_REP_OPTIONS.BTN_ERROPT_SYSTEM.radiobutton.text
 msgid "Use ~system settings"
 msgstr "Utilitza la configuració del ~sistema"
 
+#. SK__
 #: docrecovery.src#RID_SVX_MDLG_ERR_REP_OPTIONS.BTN_ERROPT_DIRECT.radiobutton.text
 msgid "Use ~direct connection to the Internet"
 msgstr "Utilitza la connexió ~directa a Internet"
 
+#. Wzur
 #: docrecovery.src#RID_SVX_MDLG_ERR_REP_OPTIONS.BTN_ERROPT_MANUAL.radiobutton.text
 msgid "Use ~manual settings"
 msgstr "Utilitza la configuració ~manual"
 
+#. 9_Ez
 #: docrecovery.src#RID_SVX_MDLG_ERR_REP_OPTIONS.FT_ERROPT_PROXYSERVER.fixedtext.text
 msgid "HT~TP Proxy"
 msgstr "Servidor intermediari HT~TP"
 
+#. cgxh
 #: docrecovery.src#RID_SVX_MDLG_ERR_REP_OPTIONS.FT_ERROPT_PROXYPORT.fixedtext.text
 msgid "~Port"
 msgstr "~Port"
 
+#. wg9x
 #: docrecovery.src#RID_SVX_MDLG_ERR_REP_OPTIONS.FT_ERROPT_DESCRIPTION.fixedtext.text
 msgid ""
-"The %PRODUCTNAME Error Report tool needs to be connected to the Internet to be able to send error reports.\n"
-"Companies often use proxy servers in conjunction with a firewall to protect the network.\n"
-"If this applies to your situation, you have to specify the address and port for the server."
+"The %PRODUCTNAME Error Report tool needs to be connected to the Internet to "
+"be able to send error reports.\n"
+"Companies often use proxy servers in conjunction with a firewall to protect "
+"the network.\n"
+"If this applies to your situation, you have to specify the address and port "
+"for the server."
 msgstr ""
-"Per poder enviar els informes d'error, l'eina Informe d'errors del %PRODUCTNAME ha d'estar connectada a Internet.\n"
-"Les empreses sovint utilitzen servidors intermediaris i tallafocs per tal de protegir la xarxa.\n"
+"Per poder enviar els informes d'error, l'eina Informe d'errors del %"
+"PRODUCTNAME ha d'estar connectada a Internet.\n"
+"Les empreses sovint utilitzen servidors intermediaris i tallafocs per tal de "
+"protegir la xarxa.\n"
 "Si és el cas, especifiqueu l'adreça i el port del servidor."
 
+#. 1n8_
 #: docrecovery.src#RID_SVX_MDLG_ERR_REP_OPTIONS.modaldialog.text
 msgid "Options"
 msgstr "Opcions"
 
+#. 2bva
 #: docrecovery.src#RID_SVX_MDLG_ERR_REP_PREVIEW.modaldialog.text
 msgid "Error Report"
 msgstr "Informe d'errors"
 
+#. pOxJ
 #: linkwarn.src#RID_SVXDLG_LINK_WARNING.FT_INFOTEXT.fixedtext.text
-msgid "The file %FILENAME will not be stored along with your document, but only referenced as a link. This is dangerous if you move and/or rename the files. Do you want to embed the graphic instead?"
-msgstr "El fitxer %FILENAME no s'emmagatzemarà amb el vostre document, només es farà una referència com a enllaç. Això pot ser perillós si moveu o canvieu de nom els fixers. Voleu, en comptes d'això, incrustar el gràfic?"
+msgid ""
+"The file %FILENAME will not be stored along with your document, but only "
+"referenced as a link. This is dangerous if you move and/or rename the files. "
+"Do you want to embed the graphic instead?"
+msgstr ""
+"El fitxer %FILENAME no s'emmagatzemarà amb el vostre document, només es farà "
+"una referència com a enllaç. Això pot ser perillós si moveu o canvieu de nom "
+"els fixers. Voleu, en comptes d'això, incrustar el gràfic?"
 
+#. oGeg
 #: linkwarn.src#RID_SVXDLG_LINK_WARNING.PB_OK.okbutton.text
 msgid "~Keep Link"
 msgstr "~Manté l'enllaç"
 
+#. HEqd
 #: linkwarn.src#RID_SVXDLG_LINK_WARNING.PB_NO.cancelbutton.text
 msgid "~Embed Graphic"
 msgstr "~Incrusta el gràfic"
 
+#. SRaQ
 #: linkwarn.src#RID_SVXDLG_LINK_WARNING.CB_WARNING_OFF.checkbox.text
 msgid "~Ask when linking a graphic"
 msgstr "Pregunta quan enll~acis un gràfic"
 
+#. JP1s
 #: hdft.src#_TEXT_FT_LMARGIN.#define.text
 msgid "~Left margin"
 msgstr "Marge ~esquerre"
 
+#. nit6
 #: hdft.src#_TEXT_FT_RMARGIN.#define.text
 msgid "R~ight margin"
 msgstr "Marge ~dret"
 
+#. Ziur
 #: hdft.src#RID_SVXPAGE_HEADER.CB_TURNON.checkbox.text
 msgid "Hea~der on"
 msgstr "Activa la ~capçalera"
 
+#. 9jlM
 #: hdft.src#RID_SVXPAGE_HEADER.CB_SHARED.checkbox.text
 msgctxt "hdft.src#RID_SVXPAGE_HEADER.CB_SHARED.checkbox.text"
 msgid "Same ~content left/right"
 msgstr "El mateix ~contingut esquerra/dreta"
 
+#. z8bp
 #: hdft.src#RID_SVXPAGE_HEADER.FT_DIST.fixedtext.text
 msgctxt "hdft.src#RID_SVXPAGE_HEADER.FT_DIST.fixedtext.text"
 msgid "~Spacing"
 msgstr "E~spaiat"
 
+#. 8Qfg
 #: hdft.src#RID_SVXPAGE_HEADER.CB_DYNSPACING.checkbox.text
 msgctxt "hdft.src#RID_SVXPAGE_HEADER.CB_DYNSPACING.checkbox.text"
 msgid "Use d~ynamic spacing"
 msgstr "Utilitza l'espaiat d~inàmic"
 
+#. bReV
 #: hdft.src#RID_SVXPAGE_HEADER.FT_HEIGHT.fixedtext.text
 msgctxt "hdft.src#RID_SVXPAGE_HEADER.FT_HEIGHT.fixedtext.text"
 msgid "~Height"
 msgstr "A~lçada"
 
+#. YI3b
 #: hdft.src#RID_SVXPAGE_HEADER.CB_HEIGHT_DYN.checkbox.text
 msgctxt "hdft.src#RID_SVXPAGE_HEADER.CB_HEIGHT_DYN.checkbox.text"
 msgid "~AutoFit height"
 msgstr "~Ajusta automàticament l'alçada"
 
+#. TbOA
 #: hdft.src#RID_SVXPAGE_HEADER.FL_FRAME.fixedline.text
 msgctxt "hdft.src#RID_SVXPAGE_HEADER.FL_FRAME.fixedline.text"
 msgid "Header"
 msgstr "Capçalera"
 
+#. AEi9
 #: hdft.src#RID_SVXPAGE_HEADER.BTN_EXTRAS.pushbutton.text
 msgctxt "hdft.src#RID_SVXPAGE_HEADER.BTN_EXTRAS.pushbutton.text"
 msgid "~More..."
 msgstr "~Més..."
 
+#. PBk8
 #: hdft.src#RID_SVXPAGE_HEADER.tabpage.text
 msgctxt "hdft.src#RID_SVXPAGE_HEADER.tabpage.text"
 msgid "Header"
 msgstr "Capçalera"
 
+#. J3fe
 #: hdft.src#RID_SVXPAGE_FOOTER.CB_TURNON.checkbox.text
 msgid "~Footer on"
 msgstr "~Activa el peu de pàgina"
 
+#. v2#B
 #: hdft.src#RID_SVXPAGE_FOOTER.CB_SHARED.checkbox.text
 msgctxt "hdft.src#RID_SVXPAGE_FOOTER.CB_SHARED.checkbox.text"
 msgid "Same ~content left/right"
 msgstr "El mateix ~contingut esquerra/dreta"
 
+#. gQFT
 #: hdft.src#RID_SVXPAGE_FOOTER.FT_DIST.fixedtext.text
 msgctxt "hdft.src#RID_SVXPAGE_FOOTER.FT_DIST.fixedtext.text"
 msgid "~Spacing"
 msgstr "E~spaiat"
 
+#. mYeZ
 #: hdft.src#RID_SVXPAGE_FOOTER.CB_DYNSPACING.checkbox.text
 msgctxt "hdft.src#RID_SVXPAGE_FOOTER.CB_DYNSPACING.checkbox.text"
 msgid "Use d~ynamic spacing"
 msgstr "Utilitza l'espaiat d~inàmic"
 
+#. D1Ee
 #: hdft.src#RID_SVXPAGE_FOOTER.FT_HEIGHT.fixedtext.text
 msgctxt "hdft.src#RID_SVXPAGE_FOOTER.FT_HEIGHT.fixedtext.text"
 msgid "~Height"
 msgstr "A~lçada"
 
+#. Qg2i
 #: hdft.src#RID_SVXPAGE_FOOTER.CB_HEIGHT_DYN.checkbox.text
 msgctxt "hdft.src#RID_SVXPAGE_FOOTER.CB_HEIGHT_DYN.checkbox.text"
 msgid "~AutoFit height"
 msgstr "~Ajusta automàticament l'alçada"
 
+#. jA9N
 #: hdft.src#RID_SVXPAGE_FOOTER.FL_FRAME.fixedline.text
 msgctxt "hdft.src#RID_SVXPAGE_FOOTER.FL_FRAME.fixedline.text"
 msgid "Footer"
 msgstr "Peu de pàgina"
 
+#. HeJs
 #: hdft.src#RID_SVXPAGE_FOOTER.BTN_EXTRAS.pushbutton.text
 msgctxt "hdft.src#RID_SVXPAGE_FOOTER.BTN_EXTRAS.pushbutton.text"
 msgid "~More..."
 msgstr "~Més..."
 
+#. eD4U
 #: hdft.src#RID_SVXPAGE_FOOTER.tabpage.text
 msgctxt "hdft.src#RID_SVXPAGE_FOOTER.tabpage.text"
 msgid "Footer"
 msgstr "Peu de pàgina"
 
+#. VjgQ
 #: hdft.src#RID_SVXQBX_DELETE_HEADFOOT.querybox.text
 msgid ""
 "Removing headers or footers deletes the contents.\n"
@@ -387,60 +535,3988 @@ msgstr ""
 "En suprimir les capçaleres o els peus de pàgina se'n perd el contingut.\n"
 "Voleu suprimir este text?"
 
+#. 6csU
 #: srchdlg.src#RID_SVXSTR_SEARCH_STYLES.string.text
 msgid "Including Styles"
 msgstr "Estils inclosos"
 
+#. RFJt
 #: srchdlg.src#RID_SVXSTR_SEARCH.string.text
 msgid "(Search)"
 msgstr "(Cerca)"
 
+#. Et#i
 #: srchdlg.src#RID_SVXSTR_REPLACE.string.text
 msgid "(Replace)"
 msgstr "(Reemplaça)"
 
+#. Z1JM
 #: srchdlg.src#RID_SVXDLG_SEARCH.FT_SEARCH.fixedtext.text
 msgid "~Search for"
 msgstr "~Cerca"
 
+#. ii63
 #: srchdlg.src#RID_SVXDLG_SEARCH.FT_REPLACE.fixedtext.text
 msgid "Re~place with"
 msgstr "Reemplaça ~per"
 
+#. ZKlt
 #: srchdlg.src#RID_SVXDLG_SEARCH.BTN_SEARCH.pushbutton.text
 msgid "~Find"
 msgstr "~Cerca"
 
+#. rK0x
 #: srchdlg.src#RID_SVXDLG_SEARCH.BTN_SEARCH_ALL.pushbutton.text
 msgid "Find ~All"
 msgstr "Cerca-ho ~tot"
 
+#. uMXf
 #: srchdlg.src#RID_SVXDLG_SEARCH.BTN_REPLACE.pushbutton.text
 msgctxt "srchdlg.src#RID_SVXDLG_SEARCH.BTN_REPLACE.pushbutton.text"
 msgid "~Replace"
 msgstr "~Reemplaça"
 
+#. whQI
 #: srchdlg.src#RID_SVXDLG_SEARCH.BTN_REPLACE_ALL.pushbutton.text
 msgid "Replace A~ll"
 msgstr "Reemplaça-ho t~ot"
 
+#. CacJ
 #: srchdlg.src#RID_SVXDLG_SEARCH.CB_MATCH_CASE.checkbox.text
 msgid "Ma~tch case"
 msgstr "Distingeix ~majúscules/minúscules"
 
+#. gGSH
 #: srchdlg.src#RID_SVXDLG_SEARCH.CB_WHOLE_WORDS.checkbox.text
 msgid "Whole wor~ds only"
 msgstr "Només pa~raules completes"
 
+#. lP2B
 #: srchdlg.src#RID_SVXDLG_SEARCH.BTN_CLOSE.cancelbutton.text
 msgctxt "srchdlg.src#RID_SVXDLG_SEARCH.BTN_CLOSE.cancelbutton.text"
 msgid "~Close"
 msgstr "Tan~ca"
 
+#. _8GZ
 #: srchdlg.src#RID_SVXDLG_SEARCH.CB_SELECTIONS.checkbox.text
 msgid "C~urrent selection only"
 msgstr "Només e~n la selecció"
 
+#. 556Z
 #: srchdlg.src#RID_SVXDLG_SEARCH.CB_BACKWARDS.checkbox.text
 msgid "Bac~kwards"
 msgstr "A~rrere"
+
+#. pEZa
+#: srchdlg.src#RID_SVXDLG_SEARCH.CB_REGEXP.checkbox.text
+msgid "Regular e~xpressions"
+msgstr "E~xpressions regulars"
+
+#. clcJ
+#: srchdlg.src#RID_SVXDLG_SEARCH.CB_SIMILARITY.checkbox.text
+msgid "S~imilarity search"
+msgstr "Cerca per s~imilitud"
+
+#. KHtw
+#: srchdlg.src#RID_SVXDLG_SEARCH.CB_LAYOUTS.checkbox.text
+msgid "Search for St~yles"
+msgstr "Cerca es~tils"
+
+#. 9Mfk
+#: srchdlg.src#RID_SVXDLG_SEARCH.CB_COMMENTS.checkbox.text
+msgid "Comments"
+msgstr "Comentaris"
+
+#. XuR_
+#: srchdlg.src#RID_SVXDLG_SEARCH.CB_JAP_MATCH_FULL_HALF_WIDTH.checkbox.text
+msgid "Match character width"
+msgstr "Concorda amb l'amplada del caràcter"
+
+#. vZl#
+#: srchdlg.src#RID_SVXDLG_SEARCH.CB_JAP_SOUNDS_LIKE.checkbox.text
+msgid "Sounds like (Japanese)"
+msgstr "Semblança fonètica (Japonés)"
+
+#. APDa
+#: srchdlg.src#RID_SVXDLG_SEARCH.BTN_ATTRIBUTE.pushbutton.text
+msgid "Attri~butes..."
+msgstr "Atri~buts..."
+
+#. 9Vdq
+#: srchdlg.src#RID_SVXDLG_SEARCH.BTN_FORMAT.pushbutton.text
+msgid "For~mat..."
+msgstr "~Format..."
+
+#. f7_n
+#: srchdlg.src#RID_SVXDLG_SEARCH.BTN_NOFORMAT.pushbutton.text
+msgid "~No Format"
+msgstr "~Sense format"
+
+#. nsNf
+#: srchdlg.src#RID_SVXDLG_SEARCH.FT_CALC_SEARCHIN.fixedtext.text
+msgid "Search i~n"
+msgstr "~Cerca a"
+
+#. MObD
+#: srchdlg.src#RID_SVXDLG_SEARCH.LB_CALC_SEARCHIN.1.stringlist.text
+msgid "Formulas"
+msgstr "Fórmules"
+
+#. waS_
+#: srchdlg.src#RID_SVXDLG_SEARCH.LB_CALC_SEARCHIN.2.stringlist.text
+msgid "Values"
+msgstr "Valors"
+
+#. tXNE
+#: srchdlg.src#RID_SVXDLG_SEARCH.LB_CALC_SEARCHIN.3.stringlist.text
+msgid "Notes"
+msgstr "Notes"
+
+#. T9mo
+#: srchdlg.src#RID_SVXDLG_SEARCH.FT_CALC_SEARCHDIR.fixedtext.text
+msgid "Search ~direction"
+msgstr "~Direcció de cerca"
+
+#. aj8Q
+#: srchdlg.src#RID_SVXDLG_SEARCH.RB_CALC_ROWS.radiobutton.text
+msgid "Ro~ws"
+msgstr "Fi~les"
+
+#. rQ0b
+#: srchdlg.src#RID_SVXDLG_SEARCH.RB_CALC_COLUMNS.radiobutton.text
+msgid "Colu~mns"
+msgstr "Colu~mnes"
+
+#. DSpB
+#: srchdlg.src#RID_SVXDLG_SEARCH.CB_ALL_SHEETS.checkbox.text
+msgid "Search in all sheets"
+msgstr "Cerca en tots els fulls"
+
+#. w585
+#: srchdlg.src#RID_SVXDLG_SEARCH.STR_WORDCALC.string.text
+msgid "~Entire cells"
+msgstr "Cel·l~es completes"
+
+#. ojn7
+#: srchdlg.src#RID_SVXDLG_SEARCH.STR_MORE_BTN.string.text
+msgid "More ~Options"
+msgstr "Més ~opcions"
+
+#. ILaG
+#: srchdlg.src#RID_SVXDLG_SEARCH.STR_LESS_BTN.string.text
+msgid "Fewer ~Options"
+msgstr "Menys ~opcions"
+
+#. Ica0
+#: srchdlg.src#RID_SVXDLG_SEARCH.modelessdialog.text
+msgid "Find & Replace"
+msgstr "Cerca i reemplaça"
+
+#. 5DQO
+#: fontwork.src#RID_SVXDLG_FONTWORK.TBX_STYLE.TBI_STYLE_OFF.toolboxitem.text
+msgid "Off"
+msgstr "Inhabilitat"
+
+#. _lXP
+#: fontwork.src#RID_SVXDLG_FONTWORK.TBX_STYLE.TBI_STYLE_ROTATE.toolboxitem.text
+msgid "Rotate"
+msgstr "Gira"
+
+#. RGHl
+#: fontwork.src#RID_SVXDLG_FONTWORK.TBX_STYLE.TBI_STYLE_UPRIGHT.toolboxitem.text
+msgid "Upright"
+msgstr "Dret"
+
+#. OO_F
+#: fontwork.src#RID_SVXDLG_FONTWORK.TBX_STYLE.TBI_STYLE_SLANTX.toolboxitem.text
+msgid "Slant Horizontal"
+msgstr "Inclinació horitzontal"
+
+#. FcxD
+#: fontwork.src#RID_SVXDLG_FONTWORK.TBX_STYLE.TBI_STYLE_SLANTY.toolboxitem.text
+msgid "Slant Vertical"
+msgstr "Inclinació vertical"
+
+#. Hai7
+#: fontwork.src#RID_SVXDLG_FONTWORK.TBX_ADJUST.TBI_ADJUST_MIRROR.toolboxitem.text
+msgid "Orientation"
+msgstr "Orientació"
+
+#. pzWQ
+#: fontwork.src#RID_SVXDLG_FONTWORK.TBX_ADJUST.TBI_ADJUST_LEFT.toolboxitem.text
+msgid "Align Left"
+msgstr "Alinea a l'esquerra"
+
+#. aBmJ
+#: fontwork.src#RID_SVXDLG_FONTWORK.TBX_ADJUST.TBI_ADJUST_CENTER.toolboxitem.text
+msgctxt ""
+"fontwork.src#RID_SVXDLG_FONTWORK.TBX_ADJUST.TBI_ADJUST_CENTER.toolboxitem."
+"text"
+msgid "Center"
+msgstr "Centre"
+
+#. iCrl
+#: fontwork.src#RID_SVXDLG_FONTWORK.TBX_ADJUST.TBI_ADJUST_RIGHT.toolboxitem.text
+msgid "Align Right"
+msgstr "Alinea a la dreta"
+
+#. j1j_
+#: fontwork.src#RID_SVXDLG_FONTWORK.TBX_ADJUST.TBI_ADJUST_AUTOSIZE.toolboxitem.text
+msgid "AutoSize Text"
+msgstr "Text de mida automàtica"
+
+#. pgh0
+#: fontwork.src#RID_SVXDLG_FONTWORK.MTR_FLD_DISTANCE.metricfield.text
+msgctxt "fontwork.src#RID_SVXDLG_FONTWORK.MTR_FLD_DISTANCE.metricfield.text"
+msgid "-"
+msgstr "-"
+
+#. tWCn
+#: fontwork.src#RID_SVXDLG_FONTWORK.MTR_FLD_DISTANCE.metricfield.quickhelptext
+msgid "Distance"
+msgstr "Distància"
+
+#. gd3M
+#: fontwork.src#RID_SVXDLG_FONTWORK.MTR_FLD_TEXTSTART.metricfield.text
+msgctxt "fontwork.src#RID_SVXDLG_FONTWORK.MTR_FLD_TEXTSTART.metricfield.text"
+msgid "-"
+msgstr "-"
+
+#. xNku
+#: fontwork.src#RID_SVXDLG_FONTWORK.MTR_FLD_TEXTSTART.metricfield.quickhelptext
+msgid "Indent"
+msgstr "Sagnat"
+
+#. UL3#
+#: fontwork.src#RID_SVXDLG_FONTWORK.TBX_SHADOW.TBI_SHOWFORM.toolboxitem.text
+msgid "Contour"
+msgstr "Vora"
+
+#. 0E_B
+#: fontwork.src#RID_SVXDLG_FONTWORK.TBX_SHADOW.TBI_OUTLINE.toolboxitem.text
+msgid "Text Contour"
+msgstr "Vora del text"
+
+#. ajw5
+#: fontwork.src#RID_SVXDLG_FONTWORK.TBX_SHADOW.TBI_SHADOW_OFF.toolboxitem.text
+msgid "No Shadow"
+msgstr "Sense ombra"
+
+#. TZiw
+#: fontwork.src#RID_SVXDLG_FONTWORK.TBX_SHADOW.TBI_SHADOW_NORMAL.toolboxitem.text
+msgctxt ""
+"fontwork.src#RID_SVXDLG_FONTWORK.TBX_SHADOW.TBI_SHADOW_NORMAL.toolboxitem."
+"text"
+msgid "Vertical"
+msgstr "Vertical"
+
+#. mt3_
+#: fontwork.src#RID_SVXDLG_FONTWORK.TBX_SHADOW.TBI_SHADOW_SLANT.toolboxitem.text
+msgid "Slant"
+msgstr "Inclina"
+
+#. dcHZ
+#: fontwork.src#RID_SVXDLG_FONTWORK.MTR_FLD_SHADOW_X.metricfield.text
+msgctxt "fontwork.src#RID_SVXDLG_FONTWORK.MTR_FLD_SHADOW_X.metricfield.text"
+msgid " degrees"
+msgstr " graus"
+
+#. u6yV
+#: fontwork.src#RID_SVXDLG_FONTWORK.MTR_FLD_SHADOW_X.metricfield.quickhelptext
+msgid "Distance X"
+msgstr "Distància X"
+
+#. mOLX
+#: fontwork.src#RID_SVXDLG_FONTWORK.MTR_FLD_SHADOW_Y.metricfield.text
+msgctxt "fontwork.src#RID_SVXDLG_FONTWORK.MTR_FLD_SHADOW_Y.metricfield.text"
+msgid "%"
+msgstr "%"
+
+#. R90x
+#: fontwork.src#RID_SVXDLG_FONTWORK.MTR_FLD_SHADOW_Y.metricfield.quickhelptext
+msgid "Distance Y"
+msgstr "Distància Y"
+
+#. 2zZ4
+#: fontwork.src#RID_SVXDLG_FONTWORK.CLB_SHADOW_COLOR.listbox.text
+msgctxt "fontwork.src#RID_SVXDLG_FONTWORK.CLB_SHADOW_COLOR.listbox.text"
+msgid "-"
+msgstr "-"
+
+#. ebF#
+#: fontwork.src#RID_SVXDLG_FONTWORK.CLB_SHADOW_COLOR.listbox.quickhelptext
+msgid "Shadow Color"
+msgstr "Color de l'ombra"
+
+#. sj7d
+#: fontwork.src#RID_SVXDLG_FONTWORK.dockingwindow.text
+msgid "Fontwork"
+msgstr "Fontwork"
+
+#. dbB7
+#: fontwork.src#RID_SVXSTR_FONTWORK_FORM1.string.text
+msgid "Upper Semicircle"
+msgstr "Semicercle superior"
+
+#. UGPi
+#: fontwork.src#RID_SVXSTR_FONTWORK_FORM2.string.text
+msgid "Lower Semicircle"
+msgstr "Semicercle inferior"
+
+#. 93Nr
+#: fontwork.src#RID_SVXSTR_FONTWORK_FORM3.string.text
+msgid "Left Semicircle"
+msgstr "Semicercle esquerre"
+
+#. N8OR
+#: fontwork.src#RID_SVXSTR_FONTWORK_FORM4.string.text
+msgid "Right Semicircle"
+msgstr "Semicercle dret"
+
+#. 0RM2
+#: fontwork.src#RID_SVXSTR_FONTWORK_FORM5.string.text
+msgid "Upper Arc"
+msgstr "Arc superior"
+
+#. vk4f
+#: fontwork.src#RID_SVXSTR_FONTWORK_FORM6.string.text
+msgid "Lower Arc"
+msgstr "Arc inferior"
+
+#. kzAm
+#: fontwork.src#RID_SVXSTR_FONTWORK_FORM7.string.text
+msgid "Left Arc"
+msgstr "Arc esquerre"
+
+#. #B#K
+#: fontwork.src#RID_SVXSTR_FONTWORK_FORM8.string.text
+msgid "Right Arc"
+msgstr "Arc dret"
+
+#. fOmD
+#: fontwork.src#RID_SVXSTR_FONTWORK_FORM9.string.text
+msgid "Open Circle"
+msgstr "Cercle obert"
+
+#. z3yw
+#: fontwork.src#RID_SVXSTR_FONTWORK_FORM10.string.text
+msgid "Closed Circle"
+msgstr "Cercle tancat"
+
+#. gGoZ
+#: fontwork.src#RID_SVXSTR_FONTWORK_FORM11.string.text
+msgid "Closed Circle II"
+msgstr "Cercle tancat II"
+
+#. JbW8
+#: fontwork.src#RID_SVXSTR_FONTWORK_FORM12.string.text
+msgid "Open Circle Vertical"
+msgstr "Cercle obert vertical"
+
+#. l1Ox
+#: fontwork.src#RID_SVXSTR_FONTWORK_UNDOCREATE.string.text
+msgid "Create Fontwork object"
+msgstr "Crea un objecte Fontwork"
+
+#. lyis
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_MS_1252.pairedlist.text
+msgid "Western Europe (Windows-1252/WinLatin 1)"
+msgstr "Europeu occidental (Windows-1252/WinLatin 1)"
+
+#. jTIz
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_APPLE_ROMAN.pairedlist.text
+msgid "Western Europe (Apple Macintosh)"
+msgstr "Europeu occidental (Apple Macintosh)"
+
+#. Z12k
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_IBM_850.pairedlist.text
+msgid "Western Europe (DOS/OS2-850/International)"
+msgstr "Europeu occidental (DOS/OS2-850/Internacional)"
+
+#. oqq1
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_IBM_437.pairedlist.text
+msgid "Western Europe (DOS/OS2-437/US)"
+msgstr "Europeu occidental (DOS/OS2-437/US)"
+
+#. Q3Fe
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_IBM_860.pairedlist.text
+msgid "Western Europe (DOS/OS2-860/Portuguese)"
+msgstr "Europeu occidental (DOS/OS2-860/Portugués)"
+
+#. N64P
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_IBM_861.pairedlist.text
+msgid "Western Europe (DOS/OS2-861/Icelandic)"
+msgstr "Europeu occidental (DOS/OS2-861/Islandés)"
+
+#. s_sQ
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_IBM_863.pairedlist.text
+msgid "Western Europe (DOS/OS2-863/French (Can.))"
+msgstr "Europeu occidental (DOS/OS2-863/Francés (Can.))"
+
+#. LrXU
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_IBM_865.pairedlist.text
+msgid "Western Europe (DOS/OS2-865/Nordic)"
+msgstr "Europeu occidental (DOS/OS2-865/Nòrdic)"
+
+#. rEQ_
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_ASCII_US.pairedlist.text
+msgid "Western Europe (ASCII/US)"
+msgstr "Europeu occidental (ASCII/US)"
+
+#. RCWg
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_ISO_8859_1.pairedlist.text
+msgid "Western Europe (ISO-8859-1)"
+msgstr "Europeu occidental (ISO-8859-1)"
+
+#. tmPO
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_ISO_8859_2.pairedlist.text
+msgid "Eastern Europe (ISO-8859-2)"
+msgstr "Europeu oriental (ISO-8859-2)"
+
+#. wrIf
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_ISO_8859_3.pairedlist.text
+msgid "Latin 3 (ISO-8859-3)"
+msgstr "Llatí 3 (ISO-8859-3)"
+
+#. KwES
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_ISO_8859_4.pairedlist.text
+msgid "Baltic (ISO-8859-4)"
+msgstr "Bàltic (ISO-8859-4)"
+
+#. P_5j
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_ISO_8859_5.pairedlist.text
+msgid "Cyrillic (ISO-8859-5)"
+msgstr "Ciríl·lic (ISO-8859-5)"
+
+#. r3yV
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_ISO_8859_6.pairedlist.text
+msgid "Arabic (ISO-8859-6)"
+msgstr "Àrab (ISO-8859-6)"
+
+#. u6tk
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_ISO_8859_7.pairedlist.text
+msgid "Greek (ISO-8859-7)"
+msgstr "Grec (ISO-8859-7)"
+
+#. IlWK
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_ISO_8859_8.pairedlist.text
+msgid "Hebrew (ISO-8859-8)"
+msgstr "Hebreu (ISO-8859-8)"
+
+#. Vghb
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_ISO_8859_9.pairedlist.text
+msgid "Turkish (ISO-8859-9)"
+msgstr "Turc (ISO-8859-9)"
+
+#. 0KLm
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_ISO_8859_14.pairedlist.text
+msgid "Western Europe (ISO-8859-14)"
+msgstr "Europeu occidental (ISO-8859-14)"
+
+#. DHU1
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_ISO_8859_15.pairedlist.text
+msgid "Western Europe (ISO-8859-15/EURO)"
+msgstr "Europeu occidental (ISO-8859-15/EURO)"
+
+#. 2kpi
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_IBM_737.pairedlist.text
+msgid "Greek (DOS/OS2-737)"
+msgstr "Grec (DOS/OS2-737)"
+
+#. _kId
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_IBM_775.pairedlist.text
+msgid "Baltic (DOS/OS2-775)"
+msgstr "Bàltic (DOS/OS2-775)"
+
+#. 2umj
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_IBM_852.pairedlist.text
+msgid "Eastern Europe (DOS/OS2-852)"
+msgstr "Europeu oriental (DOS/OS2-852)"
+
+#. itiO
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_IBM_855.pairedlist.text
+msgid "Cyrillic (DOS/OS2-855)"
+msgstr "Ciríl·lic (DOS/OS2-855)"
+
+#. DEUR
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_IBM_857.pairedlist.text
+msgid "Turkish (DOS/OS2-857)"
+msgstr "Turc (DOS/OS2-857)"
+
+#. xwzh
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_IBM_862.pairedlist.text
+msgid "Hebrew (DOS/OS2-862)"
+msgstr "Hebreu (DOS/OS2-862)"
+
+#. Omgl
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_IBM_864.pairedlist.text
+msgid "Arabic (DOS/OS2-864)"
+msgstr "Àrab (DOS/OS2-864)"
+
+#. v9Oi
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_IBM_866.pairedlist.text
+msgid "Cyrillic (DOS/OS2-866/Russian)"
+msgstr "Ciríl·lic (DOS/OS2-866/Rus)"
+
+#. JWFM
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_IBM_869.pairedlist.text
+msgid "Greek (DOS/OS2-869/Modern)"
+msgstr "Grec (DOS/OS2-869/Modern)"
+
+#. E5Ur
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_MS_1250.pairedlist.text
+msgid "Eastern Europe (Windows-1250/WinLatin 2)"
+msgstr "Europeu oriental (Windows-1250/WinLatin 2)"
+
+#. 30L4
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_MS_1251.pairedlist.text
+msgid "Cyrillic (Windows-1251)"
+msgstr "Ciríl·lic (Windows-1251)"
+
+#. Yvd7
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_MS_1253.pairedlist.text
+msgid "Greek (Windows-1253)"
+msgstr "Grec (Windows-1253)"
+
+#. Csxo
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_MS_1254.pairedlist.text
+msgid "Turkish (Windows-1254)"
+msgstr "Turc (Windows-1254)"
+
+#. 1pm3
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_MS_1255.pairedlist.text
+msgid "Hebrew (Windows-1255)"
+msgstr "Hebreu (Windows-1255)"
+
+#. jF9n
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_MS_1256.pairedlist.text
+msgid "Arabic (Windows-1256)"
+msgstr "Àrab (Windows-1256)"
+
+#. WA20
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_MS_1257.pairedlist.text
+msgid "Baltic (Windows-1257)"
+msgstr "Bàltic (Windows-1257)"
+
+#. m9kZ
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_APPLE_CENTEURO.pairedlist.text
+msgid "Eastern Europe (Apple Macintosh)"
+msgstr "Europeu oriental (Apple Macintosh)"
+
+#. agMk
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_APPLE_CROATIAN.pairedlist.text
+msgid "Eastern Europe (Apple Macintosh/Croatian)"
+msgstr "Europa oriental (Apple Macintosh/Croat)"
+
+#. i2B7
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_APPLE_CYRILLIC.pairedlist.text
+msgid "Cyrillic (Apple Macintosh)"
+msgstr "Ciríl·lic (Apple Macintosh)"
+
+#. IiNu
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_APPLE_GREEK.pairedlist.text
+msgid "Greek (Apple Macintosh)"
+msgstr "Grec (Apple Macintosh)"
+
+#. Yh4T
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_APPLE_ICELAND.pairedlist.text
+msgid "Western Europe (Apple Macintosh/Icelandic)"
+msgstr "Europeu occidental (Apple Macintosh/Islandés)"
+
+#. MIVU
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_APPLE_ROMANIAN.pairedlist.text
+msgid "Eastern Europe (Apple Macintosh/Rumanian)"
+msgstr "Europeu oriental (Apple Macintosh/Romanés)"
+
+#. W8v3
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_APPLE_TURKISH.pairedlist.text
+msgid "Turkish (Apple Macintosh)"
+msgstr "Turc (Apple Macintosh)"
+
+#. _wUK
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_APPLE_UKRAINIAN.pairedlist.text
+msgid "Cyrillic (Apple Macintosh/Ukrainian)"
+msgstr "Ciríl·lic (Apple Macintosh/Ucraïnés)"
+
+#. YA__
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_APPLE_CHINSIMP.pairedlist.text
+msgid "Chinese simplified (Apple Macintosh)"
+msgstr "Xinés simplificat (Apple Macintosh)"
+
+#. cIbJ
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_APPLE_CHINTRAD.pairedlist.text
+msgid "Chinese traditional (Apple Macintosh)"
+msgstr "Xinés tradicional (Apple Macintosh)"
+
+#. Seb5
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_APPLE_JAPANESE.pairedlist.text
+msgid "Japanese (Apple Macintosh)"
+msgstr "Japonés (Apple Macintosh)"
+
+#. 85Ku
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_APPLE_KOREAN.pairedlist.text
+msgid "Korean (Apple Macintosh)"
+msgstr "Coreà (Apple Macintosh)"
+
+#. vlfh
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_MS_932.pairedlist.text
+msgid "Japanese (Windows-932)"
+msgstr "Japonés (Windows-932)"
+
+#. xSCi
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_MS_936.pairedlist.text
+msgid "Chinese simplified (Windows-936)"
+msgstr "Xinés simplificat (Windows-936)"
+
+#. qE5O
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_MS_949.pairedlist.text
+msgid "Korean (Windows-949)"
+msgstr "Coreà (Windows-949)"
+
+#. gJ1a
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_MS_950.pairedlist.text
+msgid "Chinese traditional (Windows-950)"
+msgstr "Xinés tradicional (Windows-950)"
+
+#. FdIh
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_SHIFT_JIS.pairedlist.text
+msgid "Japanese (Shift-JIS)"
+msgstr "Japonés (Shift-JIS)"
+
+#. MDgq
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_GB_2312.pairedlist.text
+msgid "Chinese simplified (GB-2312)"
+msgstr "Xinés simplificat (GB-2312)"
+
+#. K_AL
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_GB_18030.pairedlist.text
+msgid "Chinese simplified (GB-18030)"
+msgstr "Xinés simplificat (GB-18030)"
+
+#. R_SF
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_GBT_12345.pairedlist.text
+msgid "Chinese traditional (GBT-12345)"
+msgstr "Xinés tradicional (GBT-12345)"
+
+#. f9X0
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_GBK.pairedlist.text
+msgid "Chinese simplified (GBK/GB-2312-80)"
+msgstr "Xinés simplificat (GBK/GB-2312-80)"
+
+#. Tdka
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_BIG5.pairedlist.text
+msgid "Chinese traditional (Big5)"
+msgstr "Xinés tradicional (Big5)"
+
+#. nUzz
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_BIG5_HKSCS.pairedlist.text
+msgid "Chinese traditional (BIG5-HKSCS)"
+msgstr "Xinés tradicional (BIG5-HKSCS)"
+
+#. rZnR
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_EUC_JP.pairedlist.text
+msgid "Japanese (EUC-JP)"
+msgstr "Japonés (EUC-JP)"
+
+#. rFPS
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_EUC_CN.pairedlist.text
+msgid "Chinese simplified (EUC-CN)"
+msgstr "Xinés simplificat (EUC-CN)"
+
+#. X#VJ
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_EUC_TW.pairedlist.text
+msgid "Chinese traditional (EUC-TW)"
+msgstr "Xinés tradicional (EUC-TW)"
+
+#. i2Jw
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_ISO_2022_JP.pairedlist.text
+msgid "Japanese (ISO-2022-JP)"
+msgstr "Japonés (ISO-2022-JP)"
+
+#. ikxz
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_ISO_2022_CN.pairedlist.text
+msgid "Chinese simplified (ISO-2022-CN)"
+msgstr "Xinés simplificat (ISO-2022-CN)"
+
+#. 0ip0
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_KOI8_R.pairedlist.text
+msgid "Cyrillic (KOI8-R)"
+msgstr "Ciríl·lic (KOI8-R)"
+
+#. 3S8v
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_UTF7.pairedlist.text
+msgid "Unicode (UTF-7)"
+msgstr "Unicode (UTF-7)"
+
+#. frV3
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_UTF8.pairedlist.text
+msgid "Unicode (UTF-8)"
+msgstr "Unicode (UTF-8)"
+
+#. 2dmt
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_ISO_8859_10.pairedlist.text
+msgid "Eastern Europe (ISO-8859-10)"
+msgstr "Europeu oriental (ISO-8859-10)"
+
+#. kR95
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_ISO_8859_13.pairedlist.text
+msgid "Eastern Europe (ISO-8859-13)"
+msgstr "Europeu oriental (ISO-8859-13)"
+
+#. 3a7Q
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_EUC_KR.pairedlist.text
+msgid "Korean (EUC-KR)"
+msgstr "Coreà (EUC-KR)"
+
+#. Q5bx
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_ISO_2022_KR.pairedlist.text
+msgid "Korean (ISO-2022-KR)"
+msgstr "Coreà (ISO-2022-KR)"
+
+#. 3Qvv
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_MS_1361.pairedlist.text
+msgid "Korean (Windows-Johab-1361)"
+msgstr "Coreà (Windows-Johab-1361)"
+
+#. GJeo
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_UCS2.pairedlist.text
+msgid "Unicode"
+msgstr "Unicode"
+
+#. XgwM
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_TIS_620.pairedlist.text
+msgid "Thai (ISO-8859-11/TIS-620)"
+msgstr "Tai (ISO-8859-11/TIS-620)"
+
+#. _4CS
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_MS_874.pairedlist.text
+msgid "Thai (Windows-874)"
+msgstr "Tai (Windows-874)"
+
+#. kZlr
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_KOI8_U.pairedlist.text
+msgid "Cyrillic (KOI8-U)"
+msgstr "Ciríl·lic (KOI8-U)"
+
+#. 21RO
+#: txenctab.src#RID_SVXSTR_TEXTENCODING_TABLE.RTL_TEXTENCODING_PT154.pairedlist.text
+msgid "Cyrillic (PT154)"
+msgstr "Ciríl·lic (PT154)"
+
+#. ZggY
+#: prtqry.src#RID_SVXSTR_QRY_PRINT_TITLE.string.text
+msgid "Printing selection"
+msgstr "Impressió de la selecció"
+
+#. qDXU
+#: prtqry.src#RID_SVXSTR_QRY_PRINT_MSG.string.text
+msgid "Do you want to print the selection or the entire document?"
+msgstr "Voleu imprimir la selecció o bé tot el document?"
+
+#. cYJy
+#: prtqry.src#RID_SVXSTR_QRY_PRINT_ALL.string.text
+msgid "~All"
+msgstr "~Tot"
+
+#. hHA1
+#: prtqry.src#RID_SVXSTR_QRY_PRINT_SELECTION.string.text
+msgid "~Selection"
+msgstr "~Selecció"
+
+#. zFU7
+#: ctredlin.src#SID_REDLIN_FILTER_PAGE.STR_FILTER.string.text
+msgid "Filter"
+msgstr "Filtre"
+
+#. 1zN2
+#: ctredlin.src#SID_REDLIN_FILTER_PAGE.CB_DATE.checkbox.text
+msgid "~Date"
+msgstr "~Data"
+
+#. hxTj
+#: ctredlin.src#SID_REDLIN_FILTER_PAGE.LB_DATE.1.stringlist.text
+msgid "earlier than"
+msgstr "abans de"
+
+#. 77aV
+#: ctredlin.src#SID_REDLIN_FILTER_PAGE.LB_DATE.2.stringlist.text
+msgid "since"
+msgstr "des de"
+
+#. A2lk
+#: ctredlin.src#SID_REDLIN_FILTER_PAGE.LB_DATE.3.stringlist.text
+msgid "equal to "
+msgstr "igual que"
+
+#. aDpR
+#: ctredlin.src#SID_REDLIN_FILTER_PAGE.LB_DATE.4.stringlist.text
+msgid "not equal to"
+msgstr "diferent de"
+
+#. f8ug
+#: ctredlin.src#SID_REDLIN_FILTER_PAGE.LB_DATE.5.stringlist.text
+msgid "between"
+msgstr "entre"
+
+#. 5q1O
+#: ctredlin.src#SID_REDLIN_FILTER_PAGE.LB_DATE.6.stringlist.text
+msgid "since saving"
+msgstr "des que es va alçar"
+
+#. T2qC
+#: ctredlin.src#SID_REDLIN_FILTER_PAGE.IB_CLOCK.imagebutton.text
+msgctxt "ctredlin.src#SID_REDLIN_FILTER_PAGE.IB_CLOCK.imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#. xRc0
+#: ctredlin.src#SID_REDLIN_FILTER_PAGE.IB_CLOCK.imagebutton.quickhelptext
+msgid "Set Start Date/Time"
+msgstr "Estableix la data/hora d'inci"
+
+#. gF5R
+#: ctredlin.src#SID_REDLIN_FILTER_PAGE.FT_DATE2.fixedtext.text
+msgid "and"
+msgstr "i"
+
+#. TucM
+#: ctredlin.src#SID_REDLIN_FILTER_PAGE.IB_CLOCK2.imagebutton.text
+msgctxt "ctredlin.src#SID_REDLIN_FILTER_PAGE.IB_CLOCK2.imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#. _1Ua
+#: ctredlin.src#SID_REDLIN_FILTER_PAGE.IB_CLOCK2.imagebutton.quickhelptext
+msgid "Set End Date/Time"
+msgstr "Estableix la data/hora del final"
+
+#. u233
+#: ctredlin.src#SID_REDLIN_FILTER_PAGE.CB_AUTOR.checkbox.text
+msgid "~Author"
+msgstr "~Autor"
+
+#. Yb9y
+#: ctredlin.src#SID_REDLIN_FILTER_PAGE.CB_RANGE.checkbox.text
+msgid "~Range"
+msgstr "Inte~rval"
+
+#. xDYk
+#: ctredlin.src#SID_REDLIN_FILTER_PAGE.STR_ACTION.string.text
+msgid "A~ction"
+msgstr "~Acció"
+
+#. iJu2
+#: ctredlin.src#SID_REDLIN_FILTER_PAGE.BTN_REF.pushbutton.text
+msgid "..."
+msgstr "..."
+
+#. ovLR
+#: ctredlin.src#SID_REDLIN_FILTER_PAGE.BTN_REF.pushbutton.quickhelptext
+msgid "Set Reference"
+msgstr "Defineix la referència"
+
+#. ON0Z
+#: ctredlin.src#SID_REDLIN_FILTER_PAGE.CB_COMMENT.checkbox.text
+msgctxt "ctredlin.src#SID_REDLIN_FILTER_PAGE.CB_COMMENT.checkbox.text"
+msgid "Comment"
+msgstr "Comentari"
+
+#. 2L9F
+#: ctredlin.src#SID_REDLIN_FILTER_PAGE.STR_DATE_COMBOX.string.text
+msgid "Date Condition"
+msgstr "Condició de data"
+
+#. KyL5
+#: ctredlin.src#SID_REDLIN_FILTER_PAGE.STR_DATE_SPIN.string.text
+msgid "Start Date"
+msgstr "Data d'inici"
+
+#. ehfJ
+#: ctredlin.src#SID_REDLIN_FILTER_PAGE.STR_DATE_SPIN1.string.text
+msgid "End Date"
+msgstr "Data final"
+
+#. H3C9
+#: ctredlin.src#SID_REDLIN_FILTER_PAGE.STR_DATE_TIME_SPIN.string.text
+msgid "Start Time"
+msgstr "Temps d'inci"
+
+#. pned
+#: ctredlin.src#SID_REDLIN_FILTER_PAGE.STR_DATE_TIME_SPIN1.string.text
+msgid "End Time"
+msgstr "Temps final"
+
+#. WvIc
+#: ctredlin.src#SID_REDLIN_FILTER_PAGE.STR_TREE.string.text
+msgid "Changes"
+msgstr "Canvis"
+
+#. 65iB
+#: ctredlin.src#SID_REDLIN_VIEW_PAGE.STR_VIEW.string.text
+msgid "List"
+msgstr "Llista"
+
+#. 5Bof
+#: ctredlin.src#SID_REDLIN_VIEW_PAGE.PB_ACCEPT.pushbutton.text
+msgid "~Accept"
+msgstr "~Accepta"
+
+#. E3HK
+#: ctredlin.src#SID_REDLIN_VIEW_PAGE.PB_REJECT.pushbutton.text
+msgid "~Reject"
+msgstr "~Rebutja"
+
+#. F36#
+#: ctredlin.src#SID_REDLIN_VIEW_PAGE.PB_ACCEPTALL.pushbutton.text
+msgid "A~ccept All"
+msgstr "A~ccepta-ho tot"
+
+#. 0g4x
+#: ctredlin.src#SID_REDLIN_VIEW_PAGE.PB_REJECTALL.pushbutton.text
+msgid "R~eject All"
+msgstr "R~ebutja-ho tot"
+
+#. LFqd
+#: ctredlin.src#SID_REDLIN_VIEW_PAGE.PB_UNDO.pushbutton.text
+msgid "Undo"
+msgstr "Desfés"
+
+#. Q31f
+#: ctredlin.src#SID_REDLIN_VIEW_PAGE.STR_TITLE1.string.text
+msgid "Action"
+msgstr "Acció"
+
+#. ZsJ2
+#: ctredlin.src#SID_REDLIN_VIEW_PAGE.STR_TITLE2.string.text
+msgctxt "ctredlin.src#SID_REDLIN_VIEW_PAGE.STR_TITLE2.string.text"
+msgid "Position"
+msgstr "Posició"
+
+#. qbTR
+#: ctredlin.src#SID_REDLIN_VIEW_PAGE.STR_TITLE3.string.text
+msgid "Author"
+msgstr "Autor"
+
+#. gkIr
+#: ctredlin.src#SID_REDLIN_VIEW_PAGE.STR_TITLE4.string.text
+msgid "Date"
+msgstr "Data"
+
+#. zzSi
+#: ctredlin.src#SID_REDLIN_VIEW_PAGE.STR_TITLE5.string.text
+msgctxt "ctredlin.src#SID_REDLIN_VIEW_PAGE.STR_TITLE5.string.text"
+msgid "Comment"
+msgstr "Comentari"
+
+#. 9pUe
+#: ruler.src#RID_SVXMN_RULER.ID_MM.menuitem.text
+msgctxt "ruler.src#RID_SVXMN_RULER.ID_MM.menuitem.text"
+msgid "Millimeter"
+msgstr "Mil·límetre"
+
+#. FpHV
+#: ruler.src#RID_SVXMN_RULER.ID_CM.menuitem.text
+msgctxt "ruler.src#RID_SVXMN_RULER.ID_CM.menuitem.text"
+msgid "Centimeter"
+msgstr "Centímetre"
+
+#. zD2t
+#: ruler.src#RID_SVXMN_RULER.ID_M.menuitem.text
+msgctxt "ruler.src#RID_SVXMN_RULER.ID_M.menuitem.text"
+msgid "Meter"
+msgstr "Metre"
+
+#. j_sR
+#: ruler.src#RID_SVXMN_RULER.ID_KM.menuitem.text
+msgctxt "ruler.src#RID_SVXMN_RULER.ID_KM.menuitem.text"
+msgid "Kilometer"
+msgstr "Quilòmetre"
+
+#. q61h
+#: ruler.src#RID_SVXMN_RULER.ID_INCH.menuitem.text
+msgctxt "ruler.src#RID_SVXMN_RULER.ID_INCH.menuitem.text"
+msgid "Inch"
+msgstr "Polzada"
+
+#. cS3_
+#: ruler.src#RID_SVXMN_RULER.ID_FOOT.menuitem.text
+msgctxt "ruler.src#RID_SVXMN_RULER.ID_FOOT.menuitem.text"
+msgid "Foot"
+msgstr "Peu"
+
+#. ZroV
+#: ruler.src#RID_SVXMN_RULER.ID_MILE.menuitem.text
+msgctxt "ruler.src#RID_SVXMN_RULER.ID_MILE.menuitem.text"
+msgid "Miles"
+msgstr "Milles"
+
+#. dInk
+#: ruler.src#RID_SVXMN_RULER.ID_POINT.menuitem.text
+msgctxt "ruler.src#RID_SVXMN_RULER.ID_POINT.menuitem.text"
+msgid "Point"
+msgstr "Punt"
+
+#. lzRa
+#: ruler.src#RID_SVXMN_RULER.ID_PICA.menuitem.text
+msgctxt "ruler.src#RID_SVXMN_RULER.ID_PICA.menuitem.text"
+msgid "Pica"
+msgstr "Pica"
+
+#. ywwd
+#: ruler.src#RID_SVXMN_RULER.ID_CHAR.menuitem.text
+msgctxt "ruler.src#RID_SVXMN_RULER.ID_CHAR.menuitem.text"
+msgid "Char"
+msgstr "Caràcter"
+
+#. 1XDi
+#: ruler.src#RID_SVXMN_RULER.ID_LINE.menuitem.text
+msgctxt "ruler.src#RID_SVXMN_RULER.ID_LINE.menuitem.text"
+msgid "Line"
+msgstr "Línia"
+
+#. fCrN
+#: ruler.src#RID_SVXSTR_RULER_TAB_LEFT.string.text
+msgctxt "ruler.src#RID_SVXSTR_RULER_TAB_LEFT.string.text"
+msgid "Left"
+msgstr "Esquerra"
+
+#. UMso
+#: ruler.src#RID_SVXSTR_RULER_TAB_RIGHT.string.text
+msgctxt "ruler.src#RID_SVXSTR_RULER_TAB_RIGHT.string.text"
+msgid "Right"
+msgstr "Dreta"
+
+#. d1RF
+#: ruler.src#RID_SVXSTR_RULER_TAB_DECIMAL.string.text
+msgid "Decimal"
+msgstr "Decimal"
+
+#. BSBJ
+#: ruler.src#RID_SVXSTR_RULER_TAB_CENTER.string.text
+msgctxt "ruler.src#RID_SVXSTR_RULER_TAB_CENTER.string.text"
+msgid "Center"
+msgstr "Centre"
+
+#. Z589
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_BASIC_LATIN.string.text
+msgid "Basic Latin"
+msgstr "Llatí bàsic"
+
+#. 6_gA
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_LATIN_1.string.text
+msgid "Latin-1"
+msgstr "Llatí-1"
+
+#. jn#l
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_LATIN_EXTENDED_A.string.text
+msgid "Latin Extended-A"
+msgstr "Llatí ampliat A"
+
+#. K4i4
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_LATIN_EXTENDED_B.string.text
+msgid "Latin Extended-B"
+msgstr "Llatí ampliat B"
+
+#. IPbO
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_IPA_EXTENSIONS.string.text
+msgid "IPA Extensions"
+msgstr "Extensions de l'IPA"
+
+#. zExI
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_SPACING_MODIFIERS.string.text
+msgid "Spacing Modifier Letters"
+msgstr "Lletres modificadores d'espaiat"
+
+#. YZJ8
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_COMB_DIACRITICAL.string.text
+msgid "Combining Diacritical Marks"
+msgstr "Combinació de caràcters diacrítics"
+
+#. jgtN
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_BASIC_GREEK.string.text
+msgid "Basic Greek"
+msgstr "Grec bàsic"
+
+#. VS0G
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_GREEK_SYMS_COPTIC.string.text
+msgid "Greek Symbols And Coptic"
+msgstr "Símbols grecs i coptes"
+
+#. hZ_l
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_CYRILLIC.string.text
+msgid "Cyrillic"
+msgstr "Ciríl·lic"
+
+#. jF8I
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_CYRILLIC_SUPPL.string.text
+msgid "Cyrillic Supplementary"
+msgstr "Ciríl·lic suplementari"
+
+#. rS5Z
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_ARMENIAN.string.text
+msgid "Armenian"
+msgstr "Armeni"
+
+#. 1xCS
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_BASIC_HEBREW.string.text
+msgid "Basic Hebrew"
+msgstr "Hebreu bàsic"
+
+#. FtFL
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_HEBREW_EXTENDED.string.text
+msgid "Hebrew Extended"
+msgstr "Hebreu ampliat"
+
+#. N5Pq
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_BASIC_ARABIC.string.text
+msgid "Basic Arabic"
+msgstr "Àrab bàsic"
+
+#. 5DEc
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_ARABIC_EXTENDED.string.text
+msgid "Arabic Extended"
+msgstr "Àrab ampliat"
+
+#. y5#G
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_DEVANAGARI.string.text
+msgid "Devanagari"
+msgstr "Devanagari"
+
+#. bQzQ
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_BENGALI.string.text
+msgid "Bengali"
+msgstr "Bengalí"
+
+#. rets
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_GURMUKHI.string.text
+msgid "Gurmukhi"
+msgstr "Gurmukhi"
+
+#. AISk
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_GUJARATI.string.text
+msgid "Gujarati"
+msgstr "Gujarati"
+
+#. 1kPv
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_ORIYA.string.text
+msgid "Oriya"
+msgstr "Oriya"
+
+#. hweC
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_TAMIL.string.text
+msgid "Tamil"
+msgstr "Tàmil"
+
+#. UIhd
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_TELUGU.string.text
+msgid "Telugu"
+msgstr "Telugu"
+
+#. o18p
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_KANNADA.string.text
+msgid "Kannada"
+msgstr "Kannada"
+
+#. ae_S
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_MALAYALAM.string.text
+msgid "Malayalam"
+msgstr "Malaiàlam"
+
+#. mUGe
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_THAI.string.text
+msgid "Thai"
+msgstr "Tai"
+
+#. cSr7
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_LAO.string.text
+msgid "Lao"
+msgstr "Laosià"
+
+#. WmbW
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_BASIC_GEORGIAN.string.text
+msgid "Basic Georgian"
+msgstr "Georgià bàsic"
+
+#. XPD6
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_GEORGIAN_EXTENDED.string.text
+msgid "Georgian Extended"
+msgstr "Georgià ampliat"
+
+#. q7uG
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_HANGUL_JAMO.string.text
+msgid "Hangul Jamo"
+msgstr "Hangul Jamo"
+
+#. 5c2V
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_LATIN_EXTENDED_ADDS.string.text
+msgid "Latin Extended Additionals"
+msgstr "Llatí ampliat addicional"
+
+#. #4UW
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_GREEK_EXTENDED.string.text
+msgid "Greek Extended"
+msgstr "Grec ampliat"
+
+#. 3M2I
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_GENERAL_PUNCTUATION.string.text
+msgid "General punctuation"
+msgstr "Puntuació general"
+
+#. serf
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_SUB_SUPER_SCRIPTS.string.text
+msgid "Superscripts and Subscripts"
+msgstr "Superíndexs i subíndexs"
+
+#. 70lU
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_CURRENCY_SYMBOLS.string.text
+msgid "Currency Symbols"
+msgstr "Símbols de monedes"
+
+#. fj6W
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_COMB_DIACRITIC_SYMS.string.text
+msgid "Combining Diacritical Symbols"
+msgstr "Combinació de símbols diacrítics"
+
+#. xiOC
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_LETTERLIKE_SYMBOLS.string.text
+msgid "Letterlike Symbols"
+msgstr "Símbols tipus carta"
+
+#. feN7
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_NUMBER_FORMS.string.text
+msgid "Number Forms"
+msgstr "Símbols numèrics"
+
+#. CPHC
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_ARROWS.string.text
+msgid "Arrows"
+msgstr "Fletxes"
+
+#. fXK2
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_MATH_OPERATORS.string.text
+msgid "Mathematical Operators"
+msgstr "Operadors matemàtics"
+
+#. De4W
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_MISC_TECHNICAL.string.text
+msgid "Miscellaneous Technical"
+msgstr "Caràcters tècnics diversos"
+
+#. pHux
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_CONTROL_PICTURES.string.text
+msgid "Control Pictures"
+msgstr "Imatges de control"
+
+#. p69x
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_OPTICAL_CHAR_REC.string.text
+msgid "Optical Character Recognition"
+msgstr "Reconeixement òptic de caràcters"
+
+#. k#ms
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_ENCLOSED_ALPHANUM.string.text
+msgid "Enclosed Alphanumerics"
+msgstr "Alfanumèrics inclosos"
+
+#. V0xA
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_BOX_DRAWING.string.text
+msgid "Box Drawing"
+msgstr "Dibuix de quadres"
+
+#. pHnv
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_BLOCK_ELEMENTS.string.text
+msgid "Block Elements"
+msgstr "Elements de bloc"
+
+#. rVu1
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_GEOMETRIC_SHAPES.string.text
+msgid "Geometric Shapes"
+msgstr "Formes geomètriques"
+
+#. #8kP
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_MISC_DINGBATS.string.text
+msgid "Miscellaneous Symbols"
+msgstr "Símbols diversos"
+
+#. WRJ1
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_DINGBATS.string.text
+msgid "Dingbats"
+msgstr "Caràcters decoratius"
+
+#. kwOR
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_CJK_SYMS_PUNCTUATION.string.text
+msgid "CJK Symbols And Punctuation"
+msgstr "Símbols i puntuació CJK"
+
+#. PmRN
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_HIRAGANA.string.text
+msgid "Hiragana"
+msgstr "Hiragana"
+
+#. YSnX
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_KATAKANA.string.text
+msgid "Katakana"
+msgstr "Katakana"
+
+#. 6jeI
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_BOPOMOFO.string.text
+msgid "Bopomofo"
+msgstr "Bopomofo"
+
+#. tnY#
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_HANGUL_COMPAT_JAMO.string.text
+msgid "Hangul Compatibility Jamo"
+msgstr "Jamo amb compatibilitat Hangul"
+
+#. B4d4
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_CJK_MISC.string.text
+msgid "CJK Miscellaneous"
+msgstr "CJK: diversos"
+
+#. Vj3z
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_ENCLOSED_CJK_LETTERS.string.text
+msgid "Enclosed CJK Letters And Months"
+msgstr "Caràcters i mesos inclosos en CJK"
+
+#. NqC0
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_CJK_COMPATIBILITY.string.text
+msgid "CJK Compatibility"
+msgstr "Compatibilitat amb CJK"
+
+#. Kj03
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_HANGUL.string.text
+msgid "Hangul"
+msgstr "Hangul"
+
+#. cQBN
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_CJK_UNIFIED_IDGRAPH.string.text
+msgid "CJK Unified Ideographs"
+msgstr "Ideogrames unificats CJK"
+
+#. UgcY
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_CJK_EXT_A_UNIFIED_IDGRAPH.string.text
+msgid "CJK Unified Ideographs Extension-A"
+msgstr "Ideogrames unificats CJK extensió A"
+
+#. Q2ZM
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_PRIVATE_USE_AREA.string.text
+msgid "Private Use Area"
+msgstr "Àrea d'ús privat"
+
+#. iLzL
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_CJK_COMPAT_IDGRAPHS.string.text
+msgid "CJK Compatibility Ideographs"
+msgstr "Ideogrames de compatibilitat amb CJK"
+
+#. KwKS
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_ALPHA_PRESENTATION.string.text
+msgid "Alphabetic Presentation Forms"
+msgstr "Formes de presentació alfabètiques"
+
+#. QoAm
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_ARABIC_PRESENT_A.string.text
+msgid "Arabic Presentation Forms-A"
+msgstr "Formes de presentació de l'àrab (A)"
+
+#. OJbT
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_COMBINING_HALF_MARKS.string.text
+msgid "Combining Half Marks"
+msgstr "Marques mitjanes de combinació"
+
+#. BHJP
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_CJK_COMPAT_FORMS.string.text
+msgid "CJK Compatibility Forms"
+msgstr "Formes de compatibilitat amb CJK"
+
+#. at09
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_SMALL_FORM_VARIANTS.string.text
+msgid "Small Form Variants"
+msgstr "Variants de petites formes"
+
+#. Z7OR
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_ARABIC_PRESENT_B.string.text
+msgid "Arabic Presentation Forms-B"
+msgstr "Formes de presentació de l'àrab (B)"
+
+#. irh_
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_HALFW_FULLW_FORMS.string.text
+msgid "Half-width and Full-width Forms"
+msgstr "Formes d'amplada mitjana i d'amplada completa"
+
+#. 3Fhq
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_SPECIALS.string.text
+msgid "Specials"
+msgstr "Especials"
+
+#. 8RqU
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_HANGUL_GA.string.text
+msgid "Hangul Ga"
+msgstr "Hangul Ga"
+
+#. q8u1
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_HANGUL_NA.string.text
+msgid "Hangul Na"
+msgstr "Hangul Na"
+
+#. cAOt
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_HANGUL_DA.string.text
+msgid "Hangul Da"
+msgstr "Hangul Da"
+
+#. DZqA
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_HANGUL_RA.string.text
+msgid "Hangul Ra"
+msgstr "Hangul Ra"
+
+#. QPKe
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_HANGUL_MA.string.text
+msgid "Hangul Ma"
+msgstr "Hangul Ma"
+
+#. 1Qa5
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_HANGUL_BA.string.text
+msgid "Hangul Ba"
+msgstr "Hangul Ba"
+
+#. NiGI
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_HANGUL_SA.string.text
+msgid "Hangul Sa"
+msgstr "Hangul Sa"
+
+#. sbz_
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_HANGUL_AH.string.text
+msgid "Hangul Ah"
+msgstr "Hangul Ah"
+
+#. d6C2
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_HANGUL_JA.string.text
+msgid "Hangul Ja"
+msgstr "Hangul Ja"
+
+#. xhHs
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_HANGUL_CHA.string.text
+msgid "Hangul Cha"
+msgstr "Hangul Cha"
+
+#. z9eQ
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_HANGUL_KA.string.text
+msgid "Hangul Ka"
+msgstr "Hangul Ka"
+
+#. gp8u
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_HANGUL_TA.string.text
+msgid "Hangul Ta"
+msgstr "Hangul Ta"
+
+#. vzyx
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_HANGUL_PA.string.text
+msgid "Hangul Pa"
+msgstr "Hangul Pa"
+
+#. JO4p
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_HANGUL_HA.string.text
+msgid "Hangul Ha"
+msgstr "Hangul Ha"
+
+#. wskX
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_YI.string.text
+msgid "Yi"
+msgstr "Yi"
+
+#. ITEw
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_SINHALA.string.text
+msgid "Sinhala"
+msgstr "Singalés"
+
+#. 6QoG
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_TIBETAN.string.text
+msgid "Tibetan"
+msgstr "Tibetà"
+
+#. LgJ7
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_MYANMAR.string.text
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#. YoHe
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_KHMER.string.text
+msgid "Khmer"
+msgstr "Khmer"
+
+#. 6lIg
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_OGHAM.string.text
+msgid "Ogham"
+msgstr "Ogàmic"
+
+#. iNwV
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_RUNIC.string.text
+msgid "Runic"
+msgstr "Rúnic"
+
+#. qd3i
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_SYRIAC.string.text
+msgid "Syriac"
+msgstr "Siríac"
+
+#. h6wy
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_THAANA.string.text
+msgid "Thaana"
+msgstr "Thaana"
+
+#. GaES
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_ETHIOPIC.string.text
+msgid "Ethiopic"
+msgstr "Etíop"
+
+#. 3Wa3
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_CHEROKEE.string.text
+msgid "Cherokee"
+msgstr "Xerokee"
+
+#. HREV
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_CANADIAN_ABORIGINAL.string.text
+msgid "Canadan Aboriginal Syllables"
+msgstr "Síl·labes aborígens canadenques"
+
+#. wvhB
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_MONGOLIAN.string.text
+msgid "Mongolian"
+msgstr "Mongol"
+
+#. LEEZ
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_MISC_MATH_SYMS_A.string.text
+msgid "Miscellaneous Mathematical Symbols-A"
+msgstr "Símbols matemàtics diversos - A"
+
+#. KwNr
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_SUPPL_ARROWS_A.string.text
+msgid "Supplemental Arrows-A"
+msgstr "Fletxes suplementàries - A"
+
+#. iZXa
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_BRAILLE_PATTERNS.string.text
+msgid "Braille Patterns"
+msgstr "Plantilles Braille"
+
+#. jF5U
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_SUPPL_ARROWS_B.string.text
+msgid "Supplemental Arrows-B"
+msgstr "Fletxes suplementàries - B"
+
+#. ixS8
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_MISC_MATH_SYMS_B.string.text
+msgid "Miscellaneous Mathematical Symbols-B"
+msgstr "Símbols matemàtics diversos - B"
+
+#. qVqc
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_CJK_RADICAL_SUPPL.string.text
+msgid "CJK Radical Supplement"
+msgstr "Suplement radical CJK"
+
+# 93%
+#. sPRF
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_KANGXI_RADICALS.string.text
+msgid "Kangxi Radicals"
+msgstr "Radicals kanxi"
+
+#. YgH8
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_IDEO_DESC_CHARS.string.text
+msgid "Ideographic Description Characters"
+msgstr "Caràcters de descripció ideogràfica"
+
+#. dIRm
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_TAGALOG.string.text
+msgid "Tagalog"
+msgstr "Tagàlog"
+
+#. gJx0
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_HANUNOO.string.text
+msgid "Hanunoo"
+msgstr "Hanunoo"
+
+#. RqWQ
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_TAGBANWA.string.text
+msgid "Tagbanwa"
+msgstr "Tagbanwa"
+
+#. 3#V_
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_BUHID.string.text
+msgid "Buhid"
+msgstr "Buhid"
+
+#. R90V
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_KANBUN.string.text
+msgid "Kanbun"
+msgstr "Kanbun"
+
+#. #baP
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_BOPOMOFO_EXTENDED.string.text
+msgid "Bopomofo Extended"
+msgstr "Bopomofo ampliat"
+
+#. NsA7
+#: ucsubset.src#RID_SUBSETMAP.RID_SUBSETSTR_KATAKANA_PHONETIC.string.text
+msgid "Katakana Phonetics"
+msgstr "Fonètica katakana"
+
+#. 8p#o
+#: sdstring.src#RID_SVXSTR_SOLID.string.text
+msgid "Continuous"
+msgstr "Continu"
+
+#. HqSp
+#: sdstring.src#RID_SVXSTR_GRADIENT.string.text
+msgctxt "sdstring.src#RID_SVXSTR_GRADIENT.string.text"
+msgid "Gradient"
+msgstr "Degradat"
+
+#. ZtC0
+#: sdstring.src#RID_SVXSTR_BITMAP.string.text
+msgctxt "sdstring.src#RID_SVXSTR_BITMAP.string.text"
+msgid "Bitmap"
+msgstr "Mapa de bits"
+
+#. TJmD
+#: sdstring.src#RID_SVXSTR_LINESTYLE.string.text
+msgctxt "sdstring.src#RID_SVXSTR_LINESTYLE.string.text"
+msgid "Line Style"
+msgstr "Estil de línia"
+
+#. ai_F
+#: sdstring.src#RID_SVXSTR_INVISIBLE.string.text
+msgid "Invisible"
+msgstr "Invisible"
+
+#. oDZy
+#: sdstring.src#RID_SVXSTR_COLOR.string.text
+msgid "Color"
+msgstr "Color"
+
+#. Ai0z
+#: sdstring.src#RID_SVXSTR_HATCH.string.text
+msgctxt "sdstring.src#RID_SVXSTR_HATCH.string.text"
+msgid "Hatching"
+msgstr "Ombreig"
+
+#. C_ra
+#: sdstring.src#RID_SVXSTR_LINEEND.string.text
+msgid "Arrowheads"
+msgstr "Extrems de fletxa"
+
+#. w_Fj
+#: sdstring.src#RID_SVXSTR_CLOSE.string.text
+msgid "Close"
+msgstr "Tanca"
+
+#. PX#0
+#: sdstring.src#RID_SVXSTR_BLACK.string.text
+msgid "Black"
+msgstr "Negre"
+
+#. Wmp7
+#: sdstring.src#RID_SVXSTR_BLUE.string.text
+msgctxt "sdstring.src#RID_SVXSTR_BLUE.string.text"
+msgid "Blue"
+msgstr "Blau"
+
+#. j7ev
+#: sdstring.src#RID_SVXSTR_GREEN.string.text
+msgctxt "sdstring.src#RID_SVXSTR_GREEN.string.text"
+msgid "Green"
+msgstr "Verd"
+
+#. q2Vs
+#: sdstring.src#RID_SVXSTR_CYAN.string.text
+msgctxt "sdstring.src#RID_SVXSTR_CYAN.string.text"
+msgid "Turquoise"
+msgstr "Turquesa"
+
+#. lhoY
+#: sdstring.src#RID_SVXSTR_RED.string.text
+msgctxt "sdstring.src#RID_SVXSTR_RED.string.text"
+msgid "Red"
+msgstr "Roig"
+
+#. NdHI
+#: sdstring.src#RID_SVXSTR_MAGENTA.string.text
+msgid "Magenta"
+msgstr "Magenta"
+
+#. HbO0
+#: sdstring.src#RID_SVXSTR_BROWN.string.text
+msgctxt "sdstring.src#RID_SVXSTR_BROWN.string.text"
+msgid "Brown"
+msgstr "Marró"
+
+#. 9S1A
+#: sdstring.src#RID_SVXSTR_GREY.string.text
+msgctxt "sdstring.src#RID_SVXSTR_GREY.string.text"
+msgid "Gray"
+msgstr "Gris"
+
+#. 4udn
+#: sdstring.src#RID_SVXSTR_LIGHTGREY.string.text
+msgid "Light gray"
+msgstr "Gris clar"
+
+#. jKLy
+#: sdstring.src#RID_SVXSTR_LIGHTBLUE.string.text
+msgid "Light blue"
+msgstr "Blau clar"
+
+#. dkG4
+#: sdstring.src#RID_SVXSTR_LIGHTGREEN.string.text
+msgid "Light green"
+msgstr "Verd clar"
+
+#. vcvD
+#: sdstring.src#RID_SVXSTR_LIGHTCYAN.string.text
+msgid "Light cyan"
+msgstr "Cian clar"
+
+#. JvKY
+#: sdstring.src#RID_SVXSTR_LIGHTRED.string.text
+msgid "Light red"
+msgstr "Roig clar"
+
+#. j0L_
+#: sdstring.src#RID_SVXSTR_LIGHTMAGENTA.string.text
+msgid "Light magenta"
+msgstr "Magenta clar"
+
+#. RHoU
+#: sdstring.src#RID_SVXSTR_YELLOW.string.text
+msgctxt "sdstring.src#RID_SVXSTR_YELLOW.string.text"
+msgid "Yellow"
+msgstr "Groc"
+
+#. bNBC
+#: sdstring.src#RID_SVXSTR_WHITE.string.text
+msgid "White"
+msgstr "Blanc"
+
+#. Ywl1
+#: sdstring.src#RID_SVXSTR_BLUEGREY.string.text
+msgid "Blue gray"
+msgstr "Gris blavós"
+
+#. ek_P
+#: sdstring.src#RID_SVXSTR_ORANGE.string.text
+msgctxt "sdstring.src#RID_SVXSTR_ORANGE.string.text"
+msgid "Orange"
+msgstr "Taronja"
+
+#. LWOs
+#: sdstring.src#RID_SVXSTR_ARROW.string.text
+msgctxt "sdstring.src#RID_SVXSTR_ARROW.string.text"
+msgid "Arrow"
+msgstr "Fletxa"
+
+#. J8tK
+#: sdstring.src#RID_SVXSTR_SQUARE.string.text
+msgctxt "sdstring.src#RID_SVXSTR_SQUARE.string.text"
+msgid "Square"
+msgstr "Quadrat"
+
+#. s8iA
+#: sdstring.src#RID_SVXSTR_CIRCLE.string.text
+msgctxt "sdstring.src#RID_SVXSTR_CIRCLE.string.text"
+msgid "Circle"
+msgstr "Cercle"
+
+#. s0_O
+#: sdstring.src#RID_SVXSTR_NONE.string.text
+msgid "- none -"
+msgstr "- cap -"
+
+#. BIBT
+#: sdstring.src#RID_SVXSTR_TRANSPARENCE.string.text
+msgctxt "sdstring.src#RID_SVXSTR_TRANSPARENCE.string.text"
+msgid "Transparency"
+msgstr "Transparència"
+
+#. jya9
+#: sdstring.src#RID_SVXSTR_CENTERED.string.text
+msgid "Centered"
+msgstr "Centrat"
+
+#. ECbY
+#: sdstring.src#RID_SVXSTR_NOTCENTERED.string.text
+msgid "Not centered"
+msgstr "Sense centrar"
+
+#. npxI
+#: sdstring.src#RID_SVXSTR_GRAFMODE_STANDARD.string.text
+msgid "Default"
+msgstr "Per defecte"
+
+#. JqGB
+#: sdstring.src#RID_SVXSTR_GRAFMODE_GREYS.string.text
+msgid "Grayscale"
+msgstr "Escala de grisos"
+
+#. xAMa
+#: sdstring.src#RID_SVXSTR_GRAFMODE_MONO.string.text
+msgid "Black/White"
+msgstr "Negre/blanc"
+
+#. LxB_
+#: sdstring.src#RID_SVXSTR_GRAFMODE_WATERMARK.string.text
+msgid "Watermark"
+msgstr "Filigrana"
+
+#. 2Rqo
+#: sdstring.src#STR_INSERT_VIDEO_EXTFILTER_IVF.string.text
+msgid "Intel Indeo Video (*.ivf)"
+msgstr "Intel Indeo Video (*.ivf)"
+
+#. E4je
+#: sdstring.src#STR_INSERT_VIDEO_EXTFILTER_AVI.string.text
+msgid "Video for Windows (*.avi)"
+msgstr "Vídeo per a Windows (*.avi)"
+
+#. 0_9e
+#: sdstring.src#STR_INSERT_VIDEO_EXTFILTER_MOV.string.text
+msgid "QuickTime Movie (*.mov)"
+msgstr "Pel·lícula QuickTime (*.mov)"
+
+#. Y6b4
+#: sdstring.src#STR_INSERT_VIDEO_EXTFILTER_MPEG.string.text
+msgid "MPEG - Motion Pictures Experts Group (*.mpe;*.mpeg;*.mpg)"
+msgstr "MPEG - Motion Pictures Experts Group (*.mpe;*.mpeg;*.mpg)"
+
+#. xRCG
+#: sdstring.src#STR_EXTFILTER_ALL.string.text
+msgid "<All>"
+msgstr "<Tots>"
+
+#. 4KcM
+#: sdstring.src#STR_INSERT_SOUND_TITLE.string.text
+msgid "Insert sound"
+msgstr "Insereix un so"
+
+#. vVpj
+#: sdstring.src#STR_INSERT_VIDEO_TITLE.string.text
+msgid "Insert video"
+msgstr "Insereix un vídeo"
+
+#. vyZC
+#: sdstring.src#RID_SVXSTR_VIOLET.string.text
+msgid "Violet"
+msgstr "Violeta"
+
+#. sHBG
+#: sdstring.src#RID_SVXSTR_BORDEAUX.string.text
+msgid "Bordeaux"
+msgstr "Bordeus"
+
+#. T3FB
+#: sdstring.src#RID_SVXSTR_PALE_YELLOW.string.text
+msgid "Pale yellow"
+msgstr "Groc pastel"
+
+#. Hr2d
+#: sdstring.src#RID_SVXSTR_PALE_GREEN.string.text
+msgid "Pale green"
+msgstr "Verd pastel"
+
+#. FuMW
+#: sdstring.src#RID_SVXSTR_DKVIOLET.string.text
+msgid "Dark violet"
+msgstr "Violeta fosc"
+
+#. yCyy
+#: sdstring.src#RID_SVXSTR_SALMON.string.text
+msgid "Salmon"
+msgstr "Salmó"
+
+#. 0dh1
+#: sdstring.src#RID_SVXSTR_SEABLUE.string.text
+msgid "Sea blue"
+msgstr "Blau marí"
+
+#. vFwb
+#: sdstring.src#RID_SVXSTR_COLOR_SUN.string.text
+msgid "Sun"
+msgstr "Sun"
+
+#. wgl9
+#: sdstring.src#RID_SVXSTR_COLOR_CHART.string.text
+msgid "Chart"
+msgstr "Diagrama"
+
+#. OCT0
+#: sdstring.src#RID_SVXSTR_TBLAFMT_3D.string.text
+msgid "3D"
+msgstr "3D"
+
+#. A6OS
+#: sdstring.src#RID_SVXSTR_TBLAFMT_BLACK1.string.text
+msgid "Black 1"
+msgstr "Negre 1"
+
+#. ppAt
+#: sdstring.src#RID_SVXSTR_TBLAFMT_BLACK2.string.text
+msgid "Black 2"
+msgstr "Negre 2"
+
+#. Zk1Y
+#: sdstring.src#RID_SVXSTR_TBLAFMT_BLUE.string.text
+msgctxt "sdstring.src#RID_SVXSTR_TBLAFMT_BLUE.string.text"
+msgid "Blue"
+msgstr "Blau"
+
+#. hntJ
+#: sdstring.src#RID_SVXSTR_TBLAFMT_BROWN.string.text
+msgctxt "sdstring.src#RID_SVXSTR_TBLAFMT_BROWN.string.text"
+msgid "Brown"
+msgstr "Marró"
+
+#. nWGC
+#: sdstring.src#RID_SVXSTR_TBLAFMT_CURRENCY.string.text
+msgid "Currency"
+msgstr "Moneda"
+
+#. 9Vcf
+#: sdstring.src#RID_SVXSTR_TBLAFMT_CURRENCY_3D.string.text
+msgid "Currency 3D"
+msgstr "Moneda 3D"
+
+#. n5et
+#: sdstring.src#RID_SVXSTR_TBLAFMT_CURRENCY_GRAY.string.text
+msgid "Currency Gray"
+msgstr "Gris moneda"
+
+#. UHjM
+#: sdstring.src#RID_SVXSTR_TBLAFMT_CURRENCY_LAVENDER.string.text
+msgid "Currency Lavender"
+msgstr "Lavanda moneda"
+
+#. ez8#
+#: sdstring.src#RID_SVXSTR_TBLAFMT_CURRENCY_TURQUOISE.string.text
+msgid "Currency Turquoise"
+msgstr "Turquesa moneda"
+
+#. PC7i
+#: sdstring.src#RID_SVXSTR_TBLAFMT_GRAY.string.text
+msgctxt "sdstring.src#RID_SVXSTR_TBLAFMT_GRAY.string.text"
+msgid "Gray"
+msgstr "Gris"
+
+#. NJ7g
+#: sdstring.src#RID_SVXSTR_TBLAFMT_GREEN.string.text
+msgctxt "sdstring.src#RID_SVXSTR_TBLAFMT_GREEN.string.text"
+msgid "Green"
+msgstr "Verd"
+
+#. 6W2p
+#: sdstring.src#RID_SVXSTR_TBLAFMT_LAVENDER.string.text
+msgid "Lavender"
+msgstr "Lavanda"
+
+#. 2Drr
+#: sdstring.src#RID_SVXSTR_TBLAFMT_RED.string.text
+msgctxt "sdstring.src#RID_SVXSTR_TBLAFMT_RED.string.text"
+msgid "Red"
+msgstr "Roig"
+
+#. fs#w
+#: sdstring.src#RID_SVXSTR_TBLAFMT_TURQUOISE.string.text
+msgctxt "sdstring.src#RID_SVXSTR_TBLAFMT_TURQUOISE.string.text"
+msgid "Turquoise"
+msgstr "Turquesa"
+
+#. SzmB
+#: sdstring.src#RID_SVXSTR_TBLAFMT_YELLOW.string.text
+msgctxt "sdstring.src#RID_SVXSTR_TBLAFMT_YELLOW.string.text"
+msgid "Yellow"
+msgstr "Groc"
+
+#. t9lN
+#: sdstring.src#RID_SVXSTR_LINEJOINT_MIDDLE.string.text
+msgid "Line joint averaged"
+msgstr "Mitjana de juntes de línia"
+
+#. #ezp
+#: sdstring.src#RID_SVXSTR_LINEJOINT_BEVEL.string.text
+msgid "Line joint bevel"
+msgstr "Junta de línies unida"
+
+#. hkue
+#: sdstring.src#RID_SVXSTR_LINEJOINT_MITER.string.text
+msgid "Line joint miter"
+msgstr "Junta de línies tallada"
+
+#. 6Sb4
+#: sdstring.src#RID_SVXSTR_LINEJOINT_ROUND.string.text
+msgid "Line joint round"
+msgstr "Junta de línies rodona"
+
+#. bq2i
+#: sdstring.src#RID_SVXSTR_GRDT0.string.text
+msgctxt "sdstring.src#RID_SVXSTR_GRDT0.string.text"
+msgid "Gradient"
+msgstr "Degradat"
+
+#. odCr
+#: sdstring.src#RID_SVXSTR_GRDT1.string.text
+msgid "Linear blue/white"
+msgstr "Blau/blanc lineal"
+
+#. BIUU
+#: sdstring.src#RID_SVXSTR_GRDT2.string.text
+msgid "Linear magenta/green"
+msgstr "Magenta/verd lineal"
+
+#. S1G7
+#: sdstring.src#RID_SVXSTR_GRDT3.string.text
+msgid "Linear yellow/brown"
+msgstr "Marró/groc lineal"
+
+#. 2AVf
+#: sdstring.src#RID_SVXSTR_GRDT4.string.text
+msgid "Radial green/black"
+msgstr "Radial verd/negre"
+
+#. LPHm
+#: sdstring.src#RID_SVXSTR_GRDT5.string.text
+msgid "Radial red/yellow"
+msgstr "Radial roig/groc"
+
+#. ii3R
+#: sdstring.src#RID_SVXSTR_GRDT6.string.text
+msgid "Rectangular red/white"
+msgstr "Rectangular roig/blanc"
+
+#. x_D2
+#: sdstring.src#RID_SVXSTR_GRDT7.string.text
+msgid "Square yellow/white"
+msgstr "Quadrat groc/blanc"
+
+#. h9vc
+#: sdstring.src#RID_SVXSTR_GRDT8.string.text
+msgid "Ellipsoid blue gray/light blue"
+msgstr "El·lipsoide gris blavós/blau clar"
+
+#. yQt_
+#: sdstring.src#RID_SVXSTR_GRDT9.string.text
+msgid "Axial light red/white"
+msgstr "Llum axial roja/blanca"
+
+#. o234
+#: sdstring.src#RID_SVXSTR_GRDT10.string.text
+msgid "Diagonal 1l"
+msgstr "Diagonal 1l"
+
+#. bHDT
+#: sdstring.src#RID_SVXSTR_GRDT11.string.text
+msgid "Diagonal 1r"
+msgstr "Diagonal 1r"
+
+#. SaVs
+#: sdstring.src#RID_SVXSTR_GRDT12.string.text
+msgid "Diagonal 2l"
+msgstr "Diagonal 2l"
+
+#. BtHl
+#: sdstring.src#RID_SVXSTR_GRDT13.string.text
+msgid "Diagonal 2r"
+msgstr "Diagonal 2r"
+
+#. LyU1
+#: sdstring.src#RID_SVXSTR_GRDT14.string.text
+msgid "Diagonal 3l"
+msgstr "Diagonal 3l"
+
+#. 2lGO
+#: sdstring.src#RID_SVXSTR_GRDT15.string.text
+msgid "Diagonal 3r"
+msgstr "Diagonal 3r"
+
+#. xQ2p
+#: sdstring.src#RID_SVXSTR_GRDT16.string.text
+msgid "Diagonal 4l"
+msgstr "Diagonal 4l"
+
+#. i9Cg
+#: sdstring.src#RID_SVXSTR_GRDT17.string.text
+msgid "Diagonal 4r"
+msgstr "Diagonal 4r"
+
+#. y_uE
+#: sdstring.src#RID_SVXSTR_GRDT18.string.text
+msgid "Diagonal Blue"
+msgstr "Diagonal blava"
+
+#. hisN
+#: sdstring.src#RID_SVXSTR_GRDT19.string.text
+msgid "Diagonal Green"
+msgstr "Diagonal verda"
+
+#. SJlj
+#: sdstring.src#RID_SVXSTR_GRDT20.string.text
+msgid "Diagonal Orange"
+msgstr "Diagonal taronja"
+
+#. B0Xq
+#: sdstring.src#RID_SVXSTR_GRDT21.string.text
+msgid "Diagonal Red"
+msgstr "Diagonal roja"
+
+#. orpV
+#: sdstring.src#RID_SVXSTR_GRDT22.string.text
+msgid "Diagonal Turquoise"
+msgstr "Diagonal turquesa"
+
+#. bcz6
+#: sdstring.src#RID_SVXSTR_GRDT23.string.text
+msgid "Diagonal Violet"
+msgstr "Diagonal violeta"
+
+#. xjoe
+#: sdstring.src#RID_SVXSTR_GRDT24.string.text
+msgid "From a Corner"
+msgstr "Des d'una cantonada"
+
+#. i#yn
+#: sdstring.src#RID_SVXSTR_GRDT25.string.text
+msgid "From a Corner, Blue"
+msgstr "Des d'una cantonada, blava"
+
+#. LBkQ
+#: sdstring.src#RID_SVXSTR_GRDT26.string.text
+msgid "From a Corner, Green"
+msgstr "Des d'una cantonada, verda"
+
+#. 2OW3
+#: sdstring.src#RID_SVXSTR_GRDT27.string.text
+msgid "From a Corner, Orange"
+msgstr "Des d'una cantonada, taronja"
+
+#. IkKd
+#: sdstring.src#RID_SVXSTR_GRDT28.string.text
+msgid "From a Corner, Red"
+msgstr "Des d'una cantonada, roja"
+
+#. 5zQ#
+#: sdstring.src#RID_SVXSTR_GRDT29.string.text
+msgid "From a Corner, Turquoise"
+msgstr "Des d'una cantonada, turquesa"
+
+#. 6SBr
+#: sdstring.src#RID_SVXSTR_GRDT30.string.text
+msgid "From a Corner, Violet"
+msgstr "Des d'una cantonada, violeta"
+
+#. HF5i
+#: sdstring.src#RID_SVXSTR_GRDT31.string.text
+msgid "From the Middle"
+msgstr "Des del mig"
+
+# 75%
+# 80%
+#. ewN7
+#: sdstring.src#RID_SVXSTR_GRDT32.string.text
+msgid "From the Middle, Blue"
+msgstr "Des del mig, blava"
+
+# 75%
+# 81%
+#. _fPU
+#: sdstring.src#RID_SVXSTR_GRDT33.string.text
+msgid "From the Middle, Green"
+msgstr "Des del mig, verda"
+
+# 75%
+# 80%
+# 78%
+#. XYMm
+#: sdstring.src#RID_SVXSTR_GRDT34.string.text
+msgid "From the Middle, Orange"
+msgstr "Des del mig, taronja"
+
+# 75%
+#. snOf
+#: sdstring.src#RID_SVXSTR_GRDT35.string.text
+msgid "From the Middle, Red"
+msgstr "Des del mig, roja"
+
+#. F4A2
+#: sdstring.src#RID_SVXSTR_GRDT36.string.text
+msgid "From the Middle, Turquoise"
+msgstr "Des del mig, turquesa"
+
+# 75%
+# 78%
+#. ON4R
+#: sdstring.src#RID_SVXSTR_GRDT37.string.text
+msgid "From the Middle, Violet"
+msgstr "Des del mig, violeta"
+
+#. 8Xm_
+#: sdstring.src#RID_SVXSTR_GRDT38.string.text
+msgid "Horizontal"
+msgstr "Horitzontal"
+
+#. Vo#c
+#: sdstring.src#RID_SVXSTR_GRDT39.string.text
+msgid "Horizontal Blue"
+msgstr "Horitzontal blava"
+
+#. x3JV
+#: sdstring.src#RID_SVXSTR_GRDT40.string.text
+msgid "Horizontal Green"
+msgstr "Horitzontal verda"
+
+#. iGT6
+#: sdstring.src#RID_SVXSTR_GRDT41.string.text
+msgid "Horizontal Orange"
+msgstr "Horitzontal taronja"
+
+#. LbFj
+#: sdstring.src#RID_SVXSTR_GRDT42.string.text
+msgid "Horizontal Red"
+msgstr "Horitzontal roja"
+
+#. 2s1q
+#: sdstring.src#RID_SVXSTR_GRDT43.string.text
+msgid "Horizontal Turquoise"
+msgstr "Horitzontal turquesa"
+
+#. SzEQ
+#: sdstring.src#RID_SVXSTR_GRDT44.string.text
+msgid "Horizontal Violet"
+msgstr "Horitzontal violeta"
+
+#. Bk03
+#: sdstring.src#RID_SVXSTR_GRDT45.string.text
+msgid "Radial"
+msgstr "Radial"
+
+#. oRIe
+#: sdstring.src#RID_SVXSTR_GRDT46.string.text
+msgid "Radial Blue"
+msgstr "Radial blava"
+
+#. b8Sn
+#: sdstring.src#RID_SVXSTR_GRDT47.string.text
+msgid "Radial Green"
+msgstr "Radial verda"
+
+#. r#eL
+#: sdstring.src#RID_SVXSTR_GRDT48.string.text
+msgid "Radial Orange"
+msgstr "Radial taronja"
+
+#. YjcC
+#: sdstring.src#RID_SVXSTR_GRDT49.string.text
+msgid "Radial Red"
+msgstr "Radial roja"
+
+#. XCt7
+#: sdstring.src#RID_SVXSTR_GRDT50.string.text
+msgid "Radial Turquoise"
+msgstr "Radial turquesa"
+
+#. sVvU
+#: sdstring.src#RID_SVXSTR_GRDT51.string.text
+msgid "Radial Violet"
+msgstr "Radial violeta"
+
+#. Fghr
+#: sdstring.src#RID_SVXSTR_GRDT52.string.text
+msgctxt "sdstring.src#RID_SVXSTR_GRDT52.string.text"
+msgid "Vertical"
+msgstr "Vertical"
+
+#. Ovbi
+#: sdstring.src#RID_SVXSTR_GRDT53.string.text
+msgid "Vertical Blue"
+msgstr "Vertical blava"
+
+#. 6og2
+#: sdstring.src#RID_SVXSTR_GRDT54.string.text
+msgid "Vertical Green"
+msgstr "Vertical verda"
+
+#. HXaR
+#: sdstring.src#RID_SVXSTR_GRDT55.string.text
+msgid "Vertical Orange"
+msgstr "Vertical taronja"
+
+#. eKsm
+#: sdstring.src#RID_SVXSTR_GRDT56.string.text
+msgid "Vertical Red"
+msgstr "Vertical roja"
+
+#. _7uf
+#: sdstring.src#RID_SVXSTR_GRDT57.string.text
+msgid "Vertical Turquoise"
+msgstr "Vertical turquesa"
+
+#. lnCD
+#: sdstring.src#RID_SVXSTR_GRDT58.string.text
+msgid "Vertical Violet"
+msgstr "Vertical violeta"
+
+#. RbXt
+#: sdstring.src#RID_SVXSTR_HATCH0.string.text
+msgid "Black 45 degrees wide"
+msgstr "Negre d'ample 45 graus"
+
+#. Cslk
+#: sdstring.src#RID_SVXSTR_HATCH1.string.text
+msgid "Black 45 degrees"
+msgstr "Negre 45 graus"
+
+#. r3z5
+#: sdstring.src#RID_SVXSTR_HATCH2.string.text
+msgid "Black -45 degrees"
+msgstr "Negre -45 graus"
+
+#. YGpS
+#: sdstring.src#RID_SVXSTR_HATCH3.string.text
+msgid "Black 90 degrees"
+msgstr "Negre 90 graus"
+
+#. yRyo
+#: sdstring.src#RID_SVXSTR_HATCH4.string.text
+msgid "Red crossed 45 degrees"
+msgstr "Roig encreuat 45 graus"
+
+#. h8oh
+#: sdstring.src#RID_SVXSTR_HATCH5.string.text
+msgid "Red crossed 0 degrees"
+msgstr "Roig encreuat 0 graus"
+
+#. IzW0
+#: sdstring.src#RID_SVXSTR_HATCH6.string.text
+msgid "Blue crossed 45 degrees"
+msgstr "Blau encreuat 45 graus"
+
+#. 5kkP
+#: sdstring.src#RID_SVXSTR_HATCH7.string.text
+msgid "Blue crossed 0 degrees"
+msgstr "Blau encreuat 0 graus"
+
+#. LOQz
+#: sdstring.src#RID_SVXSTR_HATCH8.string.text
+msgid "Blue triple 90 degrees"
+msgstr "Blau triple 90 graus"
+
+#. 2BKa
+#: sdstring.src#RID_SVXSTR_HATCH9.string.text
+msgid "Black 0 degrees"
+msgstr "Negre 0 graus"
+
+#. SvOY
+#: sdstring.src#RID_SVXSTR_HATCH10.string.text
+msgctxt "sdstring.src#RID_SVXSTR_HATCH10.string.text"
+msgid "Hatching"
+msgstr "Ombreig"
+
+#. 0yK_
+#: sdstring.src#RID_SVXSTR_BMP0.string.text
+msgid "Blank"
+msgstr "En blanc"
+
+#. NlQc
+#: sdstring.src#RID_SVXSTR_BMP1.string.text
+msgid "Sky"
+msgstr "Cel"
+
+#. kQ8D
+#: sdstring.src#RID_SVXSTR_BMP2.string.text
+msgid "Water"
+msgstr "Aigua"
+
+#. v96K
+#: sdstring.src#RID_SVXSTR_BMP3.string.text
+msgid "Coarse grained"
+msgstr "En gra gruixut"
+
+#. d29w
+#: sdstring.src#RID_SVXSTR_BMP4.string.text
+msgid "Mercury"
+msgstr "Mercuri"
+
+#. mH7Z
+#: sdstring.src#RID_SVXSTR_BMP5.string.text
+msgid "Space"
+msgstr "Espai"
+
+#. 9aL8
+#: sdstring.src#RID_SVXSTR_BMP6.string.text
+msgid "Metal"
+msgstr "Metall"
+
+#. UtRH
+#: sdstring.src#RID_SVXSTR_BMP7.string.text
+msgid "Droplets"
+msgstr "Gotetes"
+
+#. E1lr
+#: sdstring.src#RID_SVXSTR_BMP8.string.text
+msgid "Marble"
+msgstr "Marbre"
+
+#. PIXi
+#: sdstring.src#RID_SVXSTR_BMP9.string.text
+msgid "Linen"
+msgstr "Lli"
+
+#. 3rvt
+#: sdstring.src#RID_SVXSTR_BMP10.string.text
+msgid "Stone"
+msgstr "Pedra"
+
+#. Kctk
+#: sdstring.src#RID_SVXSTR_BMP11.string.text
+msgid "Gravel"
+msgstr "Grava"
+
+#. jJb5
+#: sdstring.src#RID_SVXSTR_BMP12.string.text
+msgid "Wall"
+msgstr "Mur"
+
+#. w0hS
+#: sdstring.src#RID_SVXSTR_BMP13.string.text
+msgid "Brownstone"
+msgstr "Totxo"
+
+#. aBao
+#: sdstring.src#RID_SVXSTR_BMP14.string.text
+msgid "Netting"
+msgstr "Malla"
+
+#. pOgh
+#: sdstring.src#RID_SVXSTR_BMP15.string.text
+msgid "Leaves"
+msgstr "Fulles"
+
+#. Aju0
+#: sdstring.src#RID_SVXSTR_BMP16.string.text
+msgid "Artificial Turf"
+msgstr "Gespa artificial"
+
+#. T#sP
+#: sdstring.src#RID_SVXSTR_BMP17.string.text
+msgid "Daisy"
+msgstr "Margarida"
+
+#. D82z
+#: sdstring.src#RID_SVXSTR_BMP18.string.text
+msgctxt "sdstring.src#RID_SVXSTR_BMP18.string.text"
+msgid "Orange"
+msgstr "Taronja"
+
+#. QRCa
+#: sdstring.src#RID_SVXSTR_BMP19.string.text
+msgid "Fiery"
+msgstr "Fogós"
+
+#. jaLU
+#: sdstring.src#RID_SVXSTR_BMP20.string.text
+msgid "Roses"
+msgstr "Roses"
+
+#. wtR7
+#: sdstring.src#RID_SVXSTR_BMP21.string.text
+msgctxt "sdstring.src#RID_SVXSTR_BMP21.string.text"
+msgid "Bitmap"
+msgstr "Mapa de bits"
+
+#. g78#
+#: sdstring.src#RID_SVXSTR_DASH0.string.text
+msgid "Ultrafine dashed"
+msgstr "Traços molt fins"
+
+#. zK6d
+#: sdstring.src#RID_SVXSTR_DASH1.string.text
+msgid "Fine dashed"
+msgstr "Traços fins"
+
+#. 4XKC
+#: sdstring.src#RID_SVXSTR_DASH2.string.text
+msgid "Ultrafine 2 dots 3 dashes"
+msgstr "Ultrafí 2 punts 3 traços"
+
+#. JoQL
+#: sdstring.src#RID_SVXSTR_DASH3.string.text
+msgid "Fine dotted"
+msgstr "Amb puntejat fi"
+
+#. DvLx
+#: sdstring.src#RID_SVXSTR_DASH4.string.text
+msgid "Line with fine dots"
+msgstr "Traç amb punts fins"
+
+#. QgRY
+#: sdstring.src#RID_SVXSTR_DASH5.string.text
+msgid "Fine dashed (variable)"
+msgstr "Traços fins (variable)"
+
+#. ZV99
+#: sdstring.src#RID_SVXSTR_DASH6.string.text
+msgid "3 dashes 3 dots (variable)"
+msgstr "3 traços 3 punts (variable)"
+
+#. qC7G
+#: sdstring.src#RID_SVXSTR_DASH7.string.text
+msgid "Ultrafine dotted (variable)"
+msgstr "Puntejat molt fi (variable)"
+
+#. awpq
+#: sdstring.src#RID_SVXSTR_DASH8.string.text
+msgid "Line style 9"
+msgstr "Estil de línia 9"
+
+#. pfzj
+#: sdstring.src#RID_SVXSTR_DASH9.string.text
+msgid "2 dots 1 dash"
+msgstr "2 punts 1 traç"
+
+#. PrD1
+#: sdstring.src#RID_SVXSTR_DASH10.string.text
+msgid "Dashed (variable)"
+msgstr "Traços (variable)"
+
+#. Ec3O
+#: sdstring.src#RID_SVXSTR_DASH11.string.text
+msgid "Dashed"
+msgstr "Traçat"
+
+#. tJHp
+#: sdstring.src#RID_SVXSTR_DASH12.string.text
+msgctxt "sdstring.src#RID_SVXSTR_DASH12.string.text"
+msgid "Line Style"
+msgstr "Estil de línia"
+
+#. DTFz
+#: sdstring.src#RID_SVXSTR_LEND0.string.text
+msgid "Arrow concave"
+msgstr "Fletxa còncava"
+
+#. QE1a
+#: sdstring.src#RID_SVXSTR_LEND1.string.text
+msgid "Square 45"
+msgstr "Quadrat 45"
+
+#. ZxJF
+#: sdstring.src#RID_SVXSTR_LEND2.string.text
+msgid "Small arrow"
+msgstr "Fletxa petita"
+
+#. qeTM
+#: sdstring.src#RID_SVXSTR_LEND3.string.text
+msgid "Dimension lines"
+msgstr "Línies de dimensió"
+
+#. gZIu
+#: sdstring.src#RID_SVXSTR_LEND4.string.text
+msgid "Double Arrow"
+msgstr "Fletxa doble"
+
+#. zmSX
+#: sdstring.src#RID_SVXSTR_LEND5.string.text
+msgid "Rounded short arrow"
+msgstr "Fletxa curta arrodonida"
+
+#. 45EA
+#: sdstring.src#RID_SVXSTR_LEND6.string.text
+msgid "Symmetric arrow"
+msgstr "Fletxa simètrica"
+
+#. JM0J
+#: sdstring.src#RID_SVXSTR_LEND7.string.text
+msgid "Line arrow"
+msgstr "Fletxa línia"
+
+#. 3Wqt
+#: sdstring.src#RID_SVXSTR_LEND8.string.text
+msgid "Rounded large arrow"
+msgstr "Fletxa gran arrodonida"
+
+#. Kpwk
+#: sdstring.src#RID_SVXSTR_LEND9.string.text
+msgctxt "sdstring.src#RID_SVXSTR_LEND9.string.text"
+msgid "Circle"
+msgstr "Cercle"
+
+#. 1s1G
+#: sdstring.src#RID_SVXSTR_LEND10.string.text
+msgctxt "sdstring.src#RID_SVXSTR_LEND10.string.text"
+msgid "Square"
+msgstr "Quadrat"
+
+#. MbF9
+#: sdstring.src#RID_SVXSTR_LEND11.string.text
+msgctxt "sdstring.src#RID_SVXSTR_LEND11.string.text"
+msgid "Arrow"
+msgstr "Fletxa"
+
+#. lGTY
+#: sdstring.src#RID_SVXSTR_LEND12.string.text
+msgid "Short line arrow"
+msgstr "Línia curta de fletxa"
+
+#. u3Jx
+#: sdstring.src#RID_SVXSTR_LEND13.string.text
+msgid "Triangle unfilled"
+msgstr "Triangle buit"
+
+#. c8SL
+#: sdstring.src#RID_SVXSTR_LEND14.string.text
+msgid "Diamond unfilled"
+msgstr "Diamant buit"
+
+#. nRIC
+#: sdstring.src#RID_SVXSTR_LEND15.string.text
+msgid "Diamond"
+msgstr "Diamant"
+
+#. 8k0d
+#: sdstring.src#RID_SVXSTR_LEND16.string.text
+msgid "Circle unfilled"
+msgstr "Cercle buit"
+
+#. VzE#
+#: sdstring.src#RID_SVXSTR_LEND17.string.text
+msgid "Square 45 unfilled"
+msgstr "Quadrat 45 buit"
+
+#. FBwQ
+#: sdstring.src#RID_SVXSTR_LEND18.string.text
+msgid "Square unfilled"
+msgstr "Quadrat buit"
+
+#. OOq3
+#: sdstring.src#RID_SVXSTR_LEND19.string.text
+msgid "Half circle unfilled"
+msgstr "Mig cercle buit"
+
+# 90%
+#. ldjv
+#: sdstring.src#RID_SVXSTR_LEND20.string.text
+msgid "Arrowhead"
+msgstr "Cap de fletxa"
+
+#. oO0I
+#: sdstring.src#RID_SVXSTR_TRASNGR0.string.text
+msgctxt "sdstring.src#RID_SVXSTR_TRASNGR0.string.text"
+msgid "Transparency"
+msgstr "Transparència"
+
+#. gaEg
+#: sdstring.src#RID_SVXSTR_FIELDUNIT_TABLE.1.itemlist.text
+msgctxt "sdstring.src#RID_SVXSTR_FIELDUNIT_TABLE.1.itemlist.text"
+msgid "Millimeter"
+msgstr "Mil·límetre"
+
+#. BAYI
+#: sdstring.src#RID_SVXSTR_FIELDUNIT_TABLE.2.itemlist.text
+msgctxt "sdstring.src#RID_SVXSTR_FIELDUNIT_TABLE.2.itemlist.text"
+msgid "Centimeter"
+msgstr "Centímetre"
+
+#. z#bb
+#: sdstring.src#RID_SVXSTR_FIELDUNIT_TABLE.3.itemlist.text
+msgctxt "sdstring.src#RID_SVXSTR_FIELDUNIT_TABLE.3.itemlist.text"
+msgid "Meter"
+msgstr "Metre"
+
+#. oaV2
+#: sdstring.src#RID_SVXSTR_FIELDUNIT_TABLE.4.itemlist.text
+msgctxt "sdstring.src#RID_SVXSTR_FIELDUNIT_TABLE.4.itemlist.text"
+msgid "Kilometer"
+msgstr "Quilòmetre"
+
+#. 4GOr
+#: sdstring.src#RID_SVXSTR_FIELDUNIT_TABLE.5.itemlist.text
+msgctxt "sdstring.src#RID_SVXSTR_FIELDUNIT_TABLE.5.itemlist.text"
+msgid "Inch"
+msgstr "Polzada"
+
+#. b#qD
+#: sdstring.src#RID_SVXSTR_FIELDUNIT_TABLE.6.itemlist.text
+msgctxt "sdstring.src#RID_SVXSTR_FIELDUNIT_TABLE.6.itemlist.text"
+msgid "Foot"
+msgstr "Peu"
+
+#. JApw
+#: sdstring.src#RID_SVXSTR_FIELDUNIT_TABLE.7.itemlist.text
+msgctxt "sdstring.src#RID_SVXSTR_FIELDUNIT_TABLE.7.itemlist.text"
+msgid "Miles"
+msgstr "Milles"
+
+#. 0vaZ
+#: sdstring.src#RID_SVXSTR_FIELDUNIT_TABLE.8.itemlist.text
+msgctxt "sdstring.src#RID_SVXSTR_FIELDUNIT_TABLE.8.itemlist.text"
+msgid "Pica"
+msgstr "Pica"
+
+#. sDZK
+#: sdstring.src#RID_SVXSTR_FIELDUNIT_TABLE.9.itemlist.text
+msgctxt "sdstring.src#RID_SVXSTR_FIELDUNIT_TABLE.9.itemlist.text"
+msgid "Point"
+msgstr "Punt"
+
+#. 5vhZ
+#: sdstring.src#RID_SVXSTR_FIELDUNIT_TABLE.10.itemlist.text
+msgctxt "sdstring.src#RID_SVXSTR_FIELDUNIT_TABLE.10.itemlist.text"
+msgid "Char"
+msgstr "Caràcter"
+
+#. pDiK
+#: sdstring.src#RID_SVXSTR_FIELDUNIT_TABLE.11.itemlist.text
+msgctxt "sdstring.src#RID_SVXSTR_FIELDUNIT_TABLE.11.itemlist.text"
+msgid "Line"
+msgstr "Línia"
+
+#. UXfv
+#: sdstring.src#RID_SVXSTR_COLOR_USER.string.text
+msgid "User"
+msgstr "Usuari"
+
+#. l5D9
+#: sdstring.src#RID_SVXSTR_LIBRE_GREEN_1.string.text
+msgid "Green 1 (LibreOffice Main Color)"
+msgstr "Verd 1 (color principal del LibreOffice)"
+
+#. _EkO
+#: sdstring.src#RID_SVXSTR_LIBRE_GREEN_ACCENT.string.text
+msgid "Green Accent"
+msgstr "Verd accentuat"
+
+#. Ky_5
+#: sdstring.src#RID_SVXSTR_LIBRE_BLUE_ACCENT.string.text
+msgid "Blue Accent"
+msgstr "Blau accentuat"
+
+#. ZR2G
+#: sdstring.src#RID_SVXSTR_LIBRE_ORANGE_ACCENT.string.text
+msgid "Orange Accent"
+msgstr "Taronja accentuat"
+
+#. S#P6
+#: sdstring.src#RID_SVXSTR_LIBRE_PURPLE.string.text
+msgid "Purple"
+msgstr "Porpre"
+
+#. MGBX
+#: sdstring.src#RID_SVXSTR_LIBRE_PURPLE_ACCENT.string.text
+msgid "Purple Accent"
+msgstr "Porpre accentuat"
+
+#. uHlP
+#: sdstring.src#RID_SVXSTR_LIBRE_YELLOW_ACCENT.string.text
+msgid "Yellow Accent"
+msgstr "Groc accentuat"
+
+#. Ewd1
+#: sdstring.src#RID_SVXSTR_TANGO_BUTTER.string.text
+msgid "Tango: Butter"
+msgstr "Tango: mantega"
+
+#. VkGg
+#: sdstring.src#RID_SVXSTR_TANGO_ORANGE.string.text
+msgid "Tango: Orange"
+msgstr "Tango: taronja"
+
+#. 2MTt
+#: sdstring.src#RID_SVXSTR_TANGO_CHOCOLATE.string.text
+msgid "Tango: Chocolate"
+msgstr "Tango: xocolata"
+
+#. qBau
+#: sdstring.src#RID_SVXSTR_TANGO_CHAMELEON.string.text
+msgid "Tango: Chameleon"
+msgstr "Tango: camaleó"
+
+#. 5l1H
+#: sdstring.src#RID_SVXSTR_TANGO_SKY_BLUE.string.text
+msgid "Tango: Sky Blue"
+msgstr "Tango: blau cel"
+
+#. ebme
+#: sdstring.src#RID_SVXSTR_TANGO_PLUM.string.text
+msgid "Tango: Plum"
+msgstr "Tango: pruna"
+
+#. rtJV
+#: sdstring.src#RID_SVXSTR_TANGO_SCARLET_RED.string.text
+msgid "Tango: Scarlet Red"
+msgstr "Tango: roig escarlata"
+
+#. Qogr
+#: sdstring.src#RID_SVXSTR_TANGO_ALUMINIUM.string.text
+msgid "Tango: Aluminium"
+msgstr "Tango: alumini"
+
+#. necF
+#: sdstring.src#RID_SVXSTR_GALLERYPROPS_GALTHEME.string.text
+msgid "Gallery Theme"
+msgstr "Tema de la galeria"
+
+#. wZho
+#: sdstring.src#RID_SVXSTR_GALLERY_THEMEITEMS.string.text
+msgid "Theme Items"
+msgstr "Ítems del tema"
+
+#. Y6lz
+#: sdstring.src#RID_SVXSTR_GALLERY_THEMENAME.string.text
+msgid "Theme Name"
+msgstr "Nom del tema"
+
+#. sVQ3
+#: sdstring.src#RID_SVXSTR_GALLERY_FILESFOUND.string.text
+msgid "Files Found"
+msgstr "Fitxers trobats"
+
+#. dXgK
+#: sdstring.src#RID_SVXSTR_GALLERY_PREVIEW.string.text
+msgid "Preview"
+msgstr "Previsualització"
+
+#. l011
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_LEFT.string.text
+msgctxt "swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_LEFT.string.text"
+msgid "Left"
+msgstr "Esquerra"
+
+#. IuBn
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_MIR_LEFT.string.text
+msgid "Inside"
+msgstr "Dins"
+
+#. AOP#
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_RIGHT.string.text
+msgctxt "swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_RIGHT.string.text"
+msgid "Right"
+msgstr "Dreta"
+
+#. yzKV
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_MIR_RIGHT.string.text
+msgid "Outside"
+msgstr "Fora"
+
+#. 5clP
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_CENTER_VERT.string.text
+msgctxt ""
+"swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_CENTER_VERT.string.text"
+msgid "Center"
+msgstr "Centre"
+
+#. 6Jkb
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_FROMLEFT.string.text
+msgid "From left"
+msgstr "Des de l'esquerra"
+
+#. lKaB
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_MIR_FROMLEFT.string.text
+msgid "From inside"
+msgstr "Des de dins"
+
+#. FoYq
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_FRAME.string.text
+msgid "Paragraph area"
+msgstr "Àrea del paràgraf"
+
+#. OA8j
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_PRTAREA.string.text
+msgctxt ""
+"swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_PRTAREA.string.text"
+msgid "Paragraph text area"
+msgstr "Àrea del text del paràgraf"
+
+#. noiP
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_REL_PG_LEFT.string.text
+msgid "Left page border"
+msgstr "Vora esquerra de la pàgina"
+
+#. wCLn
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_MIR_REL_PG_LEFT.string.text
+msgid "Inner page border"
+msgstr "Vora interior de la pàgina"
+
+#. yygk
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_REL_PG_RIGHT.string.text
+msgid "Right page border"
+msgstr "Vora dreta de la pàgina"
+
+#. 7kY5
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_MIR_REL_PG_RIGHT.string.text
+msgid "Outer page border"
+msgstr "Vora exterior de la pàgina"
+
+#. qNDd
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_REL_FRM_LEFT.string.text
+msgid "Left paragraph border"
+msgstr "Vora esquerra del paràgraf"
+
+#. F55C
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_MIR_REL_FRM_LEFT.string.text
+msgid "Inner paragraph border"
+msgstr "Vora interior del paràgraf"
+
+#. UKyQ
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_REL_FRM_RIGHT.string.text
+msgid "Right paragraph border"
+msgstr "Vora dreta del paràgraf"
+
+#. B#eu
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_MIR_REL_FRM_RIGHT.string.text
+msgid "Outer paragraph border"
+msgstr "Vora exterior del paràgraf"
+
+#. vMHa
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_REL_PG_FRAME.string.text
+msgid "Entire page"
+msgstr "Pàgina sencera"
+
+#. f2XX
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_REL_PG_PRTAREA.string.text
+msgid "Page text area"
+msgstr "Àrea de pàgina de text"
+
+#. G837
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_TOP.string.text
+msgctxt "swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_TOP.string.text"
+msgid "Top"
+msgstr "Part superior"
+
+#. PrAA
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_BOTTOM.string.text
+msgctxt "swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_BOTTOM.string.text"
+msgid "Bottom"
+msgstr "Part inferior"
+
+#. kctL
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_CENTER_HORI.string.text
+msgctxt ""
+"swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_CENTER_HORI.string.text"
+msgid "Center"
+msgstr "Centre"
+
+#. rmAF
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_FROMTOP.string.text
+msgid "From top"
+msgstr "Des de la part superior"
+
+#. 4lqZ
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_FROMBOTTOM.string.text
+msgid "From bottom"
+msgstr "Des de baix"
+
+#. 8JnX
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_BELOW.string.text
+msgid "Below"
+msgstr "A sota"
+
+#. gCQS
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_FROMRIGHT.string.text
+msgid "From right"
+msgstr "De la dreta"
+
+#. zhm2
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_REL_PG_TOP.string.text
+msgid "Top page border"
+msgstr "Vora superior de la pàgina"
+
+#. z5A1
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_REL_PG_BOTTOM.string.text
+msgid "Bottom page border"
+msgstr "Vora inferior de la pàgina"
+
+#. 51rZ
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_REL_FRM_TOP.string.text
+msgid "Top paragraph border"
+msgstr "Vora superior del paràgraf"
+
+#. vLs1
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_REL_FRM_BOTTOM.string.text
+msgid "Bottom paragraph border"
+msgstr "Vora inferior del paràgraf"
+
+#. CN5U
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_REL_BORDER.string.text
+msgid "Margin"
+msgstr "Marge"
+
+#. unmw
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_REL_PRTAREA.string.text
+msgctxt ""
+"swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_REL_PRTAREA.string.text"
+msgid "Paragraph text area"
+msgstr "Àrea del text del paràgraf"
+
+#. f7EZ
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_FLY_REL_PG_LEFT.string.text
+msgid "Left frame border"
+msgstr "Vora esquerra del marc"
+
+#. RouF
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_FLY_MIR_REL_PG_LEFT.string.text
+msgid "Inner frame border"
+msgstr "Vora interior del marc"
+
+#. NQfc
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_FLY_REL_PG_RIGHT.string.text
+msgid "Right frame border"
+msgstr "Vora dreta del marc"
+
+#. bMQ0
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_FLY_MIR_REL_PG_RIGHT.string.text
+msgid "Outer frame border"
+msgstr "Vora exterior del marc"
+
+#. ImIi
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_FLY_REL_PG_FRAME.string.text
+msgid "Entire frame"
+msgstr "Tot el marc"
+
+#. JpC8
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_FLY_REL_PG_PRTAREA.string.text
+msgid "Frame text area"
+msgstr "Àrea de text del marc"
+
+#. hyKu
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_REL_BASE.string.text
+msgid "Base line"
+msgstr "Línia base"
+
+#. SRHS
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_REL_CHAR.string.text
+msgid "Character"
+msgstr "Caràcter"
+
+#. D5ql
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_REL_ROW.string.text
+msgid "Row"
+msgstr "Fila"
+
+#. InUY
+#: swframeposstrings.src#RID_SVXSW_FRAMEPOSITIONS.STR_REL_LINE.string.text
+msgid "Line of text"
+msgstr "Línia de text"
+
+#. AkVn
+#: svxbmpnumvalueset.src#RID_SVXSTR_BULLET_DESCRIPTION_0.string.text
+msgid "Solid small circular bullets"
+msgstr "Pics circulars, petits i plens"
+
+#. TzHe
+#: svxbmpnumvalueset.src#RID_SVXSTR_BULLET_DESCRIPTION_1.string.text
+msgid "Solid large circular bullets"
+msgstr "Pics circulars, grans i plens"
+
+#. a833
+#: svxbmpnumvalueset.src#RID_SVXSTR_BULLET_DESCRIPTION_2.string.text
+msgid "Solid diamond bullets"
+msgstr "Pics en diamant i plens"
+
+#. pRDQ
+#: svxbmpnumvalueset.src#RID_SVXSTR_BULLET_DESCRIPTION_3.string.text
+msgid "Solid large square bullets"
+msgstr "Pics quadrats, grans i plens"
+
+#. jG2q
+#: svxbmpnumvalueset.src#RID_SVXSTR_BULLET_DESCRIPTION_4.string.text
+msgid "Right pointing arrow bullets filled out"
+msgstr "Pics en fletxa cap a la dreta, plens"
+
+#. w3Cj
+#: svxbmpnumvalueset.src#RID_SVXSTR_BULLET_DESCRIPTION_5.string.text
+msgid "Right pointing arrow bullets"
+msgstr "Pics en fletxa cap a la dreta"
+
+#. 3sU6
+#: svxbmpnumvalueset.src#RID_SVXSTR_BULLET_DESCRIPTION_6.string.text
+msgid "Check mark bullets"
+msgstr "Pics en creu de verificació"
+
+#. KbGV
+#: svxbmpnumvalueset.src#RID_SVXSTR_BULLET_DESCRIPTION_7.string.text
+msgid "Tick mark bullets"
+msgstr "Pics en marca de verificació"
+
+#. PlUg
+#: svxbmpnumvalueset.src#RID_SVXSTR_SINGLENUM_DESCRIPTION_0.string.text
+msgid "Number 1) 2) 3)"
+msgstr "Número 1) 2) 3)"
+
+#. EyGp
+#: svxbmpnumvalueset.src#RID_SVXSTR_SINGLENUM_DESCRIPTION_1.string.text
+msgid "Number 1. 2. 3."
+msgstr "Número 1. 2. 3."
+
+#. t92O
+#: svxbmpnumvalueset.src#RID_SVXSTR_SINGLENUM_DESCRIPTION_2.string.text
+msgid "Number (1) (2) (3)"
+msgstr "Número (1) (2) (3)"
+
+#. WQC1
+#: svxbmpnumvalueset.src#RID_SVXSTR_SINGLENUM_DESCRIPTION_3.string.text
+msgid "Uppercase Roman number I. II. III."
+msgstr "Xifra romana en majúscula I. II. III."
+
+#. #H3l
+#: svxbmpnumvalueset.src#RID_SVXSTR_SINGLENUM_DESCRIPTION_4.string.text
+msgid "Uppercase letter A) B) C)"
+msgstr "Lletra majúscula A) B) C)"
+
+#. f2Ds
+#: svxbmpnumvalueset.src#RID_SVXSTR_SINGLENUM_DESCRIPTION_5.string.text
+msgid "Lowercase letter a) b) c)"
+msgstr "Lletra minúscula a) b) c)"
+
+#. GtVT
+#: svxbmpnumvalueset.src#RID_SVXSTR_SINGLENUM_DESCRIPTION_6.string.text
+msgid "Lowercase letter (a) (b) (c)"
+msgstr "Lletra minúscula (a) (b) (c)"
+
+#. 7aH4
+#: svxbmpnumvalueset.src#RID_SVXSTR_SINGLENUM_DESCRIPTION_7.string.text
+msgid "Lowercase Roman number i. ii. iii."
+msgstr "Xifra romana en minúscula i. ii. iii."
+
+#. Qiz3
+#: svxbmpnumvalueset.src#RID_SVXSTR_OUTLINENUM_DESCRIPTION_0.string.text
+msgid "Numeric, numeric, lowercase letters, solid small circular bullet"
+msgstr "Numèric; numèric; lletres minúscules; pic circular, petit i ple"
+
+#. D_pQ
+#: svxbmpnumvalueset.src#RID_SVXSTR_OUTLINENUM_DESCRIPTION_1.string.text
+msgid "Numeric, lowercase letters, solid small circular bullet"
+msgstr "Numèric; lletres minúscules; pic circular, petit i ple"
+
+#. qAXn
+#: svxbmpnumvalueset.src#RID_SVXSTR_OUTLINENUM_DESCRIPTION_2.string.text
+msgid ""
+"Numeric, lowercase letters, lowercase Roman, uppercase letters, solid small "
+"circular bullet"
+msgstr ""
+"Numèric; lletres minúscules; xifres romanes en minúscula; lletres "
+"majúscules; pic circular, petit i ple"
+
+#. ZPle
+#: svxbmpnumvalueset.src#RID_SVXSTR_OUTLINENUM_DESCRIPTION_3.string.text
+msgid "Numeric"
+msgstr "Numèric"
+
+#. zIW6
+#: svxbmpnumvalueset.src#RID_SVXSTR_OUTLINENUM_DESCRIPTION_4.string.text
+msgid ""
+"Uppercase Roman, uppercase letters, lowercase Roman, lowercase letters, "
+"solid small circular bullet"
+msgstr ""
+"Xifres romanes en majúscula; lletres majúscules; xifres romanes en "
+"minúscula; lletres minúscules; pic circular, petit i ple"
+
+#. g1kV
+#: svxbmpnumvalueset.src#RID_SVXSTR_OUTLINENUM_DESCRIPTION_5.string.text
+msgid ""
+"Uppercase letters, uppercase Roman, lowercase letters, lowercase Roman, "
+"solid small circular bullet"
+msgstr ""
+"Lletres majúscules; xifres romanes en majúscula; lletres minúscules; xifres "
+"romanes en minúscula; pic circular, petit i ple"
+
+#. Jqyq
+#: svxbmpnumvalueset.src#RID_SVXSTR_OUTLINENUM_DESCRIPTION_6.string.text
+msgid "Numeric with all sublevels"
+msgstr "Numèric amb tots els subnivells"
+
+#. 4doj
+#: svxbmpnumvalueset.src#RID_SVXSTR_OUTLINENUM_DESCRIPTION_7.string.text
+msgid ""
+"Right pointing bullet, right pointing arrow bullet, solid diamond bullet, "
+"solid small circular bullet"
+msgstr ""
+"Pic en fletxa cap a la dreta; pic en fletxa cap a la dreta plena; pic en "
+"diamant ple; pics circulars, petits i plens"
+
+#. f3yo
+#: bmpmask.src#RID_SVXDLG_BMPMASK.GRP_Q.fixedline.text
+msgid "Colors"
+msgstr "Colors"
+
+#. HAN_
+#: bmpmask.src#RID_SVXDLG_BMPMASK.FT_1.fixedtext.text
+msgid "Source color"
+msgstr "Color font"
+
+#. 3CZc
+#: bmpmask.src#RID_SVXDLG_BMPMASK.FT_2.fixedtext.text
+msgctxt "bmpmask.src#RID_SVXDLG_BMPMASK.FT_2.fixedtext.text"
+msgid "Tolerance"
+msgstr "Tolerància"
+
+#. aWiE
+#: bmpmask.src#RID_SVXDLG_BMPMASK.FT_3.fixedtext.text
+msgid "Replace with..."
+msgstr "Reemplaça per..."
+
+#. A#IA
+#: bmpmask.src#RID_SVXDLG_BMPMASK.CBX_TRANS.checkbox.text
+msgid "Tr~ansparency"
+msgstr "Tr~ansparència"
+
+#. Ut7I
+#: bmpmask.src#RID_SVXDLG_BMPMASK.BTN_EXEC.pushbutton.text
+msgctxt "bmpmask.src#RID_SVXDLG_BMPMASK.BTN_EXEC.pushbutton.text"
+msgid "~Replace"
+msgstr "~Reemplaça"
+
+#. U1BC
+#: bmpmask.src#RID_SVXDLG_BMPMASK.TBX_PIPETTE.TBI_PIPETTE.toolboxitem.text
+msgctxt ""
+"bmpmask.src#RID_SVXDLG_BMPMASK.TBX_PIPETTE.TBI_PIPETTE.toolboxitem.text"
+msgid "Pipette"
+msgstr "Pipeta"
+
+#. 7TKQ
+#: bmpmask.src#RID_SVXDLG_BMPMASK.dockingwindow.text
+msgid "Color Replacer"
+msgstr "Reemplaçador del color"
+
+#. c71a
+#: bmpmask.src#RID_SVXDLG_BMPMASK_STR_TRANSP.string.text
+msgid "Transparent"
+msgstr "Transparent"
+
+#. wUQM
+#: bmpmask.src#RID_SVXDLG_BMPMASK_STR_SOURCECOLOR.string.text
+msgid "Source Color"
+msgstr "Color font"
+
+#. YIWE
+#: bmpmask.src#RID_SVXDLG_BMPMASK_STR_PALETTE.string.text
+msgid "Color Palette"
+msgstr "Paleta de colors"
+
+#. #1jp
+#: bmpmask.src#RID_SVXDLG_BMPMASK_STR_TOLERANCE.string.text
+msgctxt "bmpmask.src#RID_SVXDLG_BMPMASK_STR_TOLERANCE.string.text"
+msgid "Tolerance"
+msgstr "Tolerància"
+
+#. jADv
+#: bmpmask.src#RID_SVXDLG_BMPMASK_STR_REPLACEWITH.string.text
+msgid "Replace with"
+msgstr "Reemplaça per"
+
+#. #g0t
+#: optgrid.src#RID_SVXPAGE_GRID.GRP_DRAWGRID.fixedline.text
+msgid "Grid"
+msgstr "Graella"
+
+#. eA5j
+#: optgrid.src#RID_SVXPAGE_GRID.CBX_USE_GRIDSNAP.checkbox.text
+msgid "Sn~ap to grid"
+msgstr "Ajust~a a la graella"
+
+#. Qnc6
+#: optgrid.src#RID_SVXPAGE_GRID.CBX_GRID_VISIBLE.checkbox.text
+msgid "V~isible grid"
+msgstr "Graella v~isible"
+
+#. RzXR
+#: optgrid.src#RID_SVXPAGE_GRID.FL_RESOLUTION.fixedline.text
+msgid "Resolution"
+msgstr "Resolució"
+
+#. R4wW
+#: optgrid.src#RID_SVXPAGE_GRID.FT_DRAW_X.fixedtext.text
+msgid "H~orizontal"
+msgstr "H~oritzontal"
+
+#. yer8
+#: optgrid.src#RID_SVXPAGE_GRID.FT_DRAW_Y.fixedtext.text
+msgid "~Vertical"
+msgstr "~Vertical"
+
+#. UJv8
+#: optgrid.src#RID_SVXPAGE_GRID.FL_DIVISION.fixedline.text
+msgid "Subdivision"
+msgstr "Subdivisió"
+
+#. SKTz
+#: optgrid.src#RID_SVXPAGE_GRID.FT_DIVISION_X.fixedtext.text
+msgid "Horizont~al"
+msgstr "Horitzont~al"
+
+#. xuIL
+#: optgrid.src#RID_SVXPAGE_GRID.FT_DIVISION_Y.fixedtext.text
+msgid "V~ertical"
+msgstr "V~ertical"
+
+#. u_qY
+#: optgrid.src#RID_SVXPAGE_GRID.FT_HORZ_POINTS.fixedtext.text
+msgid "space(s)"
+msgstr "espai(s)"
+
+#. diHQ
+#: optgrid.src#RID_SVXPAGE_GRID.CBX_SYNCHRONIZE.checkbox.text
+msgid "Synchronize a~xes"
+msgstr "Sincronitza els ei~xos"
+
+#. 4s9H
+#: optgrid.src#RID_SVXPAGE_GRID.GRP_SNAP.fixedline.text
+msgid "Snap"
+msgstr "Ajusta"
+
+#. f0vW
+#: optgrid.src#RID_SVXPAGE_GRID.CBX_SNAP_HELPLINES.checkbox.text
+msgid "To snap lines"
+msgstr "A les línies de captura"
+
+#. 6wHt
+#: optgrid.src#RID_SVXPAGE_GRID.CBX_SNAP_BORDER.checkbox.text
+msgid "To the ~page margins"
+msgstr "Als marges de la ~pàgina"
+
+#. 5qid
+#: optgrid.src#RID_SVXPAGE_GRID.CBX_SNAP_FRAME.checkbox.text
+msgid "To object ~frame"
+msgstr "Al ~marc de l'objecte"
+
+#. ncUr
+#: optgrid.src#RID_SVXPAGE_GRID.CBX_SNAP_POINTS.checkbox.text
+msgid "To obje~ct points"
+msgstr "Als punts de l'obje~cte"
+
+#. Vse_
+#: optgrid.src#RID_SVXPAGE_GRID.FT_SNAP_AREA.fixedtext.text
+msgid "~Snap range"
+msgstr "I~nterval del desplaçament"
+
+#. skJB
+#: optgrid.src#RID_SVXPAGE_GRID.MTR_FLD_SNAP_AREA.metricfield.text
+msgid " Pixels"
+msgstr " Píxels"
+
+#. BfD5
+#: optgrid.src#RID_SVXPAGE_GRID.GRP_ORTHO.fixedline.text
+msgid "Snap position"
+msgstr "Ajusta la posició"
+
+#. GxpE
+#: optgrid.src#RID_SVXPAGE_GRID.CBX_ORTHO.checkbox.text
+msgid "~When creating or moving objects"
+msgstr "~En crear o moure objectes"
+
+#. AENE
+#: optgrid.src#RID_SVXPAGE_GRID.CBX_BIGORTHO.checkbox.text
+msgid "~Extend edges"
+msgstr "~Amplia les vores"
+
+#. 2jPK
+#: optgrid.src#RID_SVXPAGE_GRID.CBX_ROTATE.checkbox.text
+msgid "When ro~tating"
+msgstr "En gi~rar"
+
+#. Vzmp
+#: optgrid.src#RID_SVXPAGE_GRID.MTR_FLD_ANGLE.metricfield.text
+msgctxt "optgrid.src#RID_SVXPAGE_GRID.MTR_FLD_ANGLE.metricfield.text"
+msgid " degrees"
+msgstr " graus"
+
+#. jDwG
+#: optgrid.src#RID_SVXPAGE_GRID.FT_BEZ_ANGLE.fixedtext.text
+msgid "Point reducti~on"
+msgstr "Redu~cció de punts"
+
+#. DwQE
+#: optgrid.src#RID_SVXPAGE_GRID.MTR_FLD_BEZ_ANGLE.metricfield.text
+msgctxt "optgrid.src#RID_SVXPAGE_GRID.MTR_FLD_BEZ_ANGLE.metricfield.text"
+msgid " degrees"
+msgstr " graus"
+
+#. #c4Q
+#: dlgctrl.src#STR_SWITCH.string.text
+msgid "Switch"
+msgstr "Canvi"
+
+#. pDeY
+#: contdlg.src#RID_SVXDLG_CONTOUR.TBX1.TBI_APPLY.toolboxitem.text
+msgctxt "contdlg.src#RID_SVXDLG_CONTOUR.TBX1.TBI_APPLY.toolboxitem.text"
+msgid "Apply"
+msgstr "Aplica"
+
+#. HIcZ
+#: contdlg.src#RID_SVXDLG_CONTOUR.TBX1.TBI_WORKPLACE.toolboxitem.text
+msgid "Workspace"
+msgstr "Àrea de treball"
+
+#. c9ng
+#: contdlg.src#RID_SVXDLG_CONTOUR.TBX1.TBI_SELECT.toolboxitem.text
+msgctxt "contdlg.src#RID_SVXDLG_CONTOUR.TBX1.TBI_SELECT.toolboxitem.text"
+msgid "Select"
+msgstr "Selecciona"
+
+#. hsm9
+#: contdlg.src#RID_SVXDLG_CONTOUR.TBX1.TBI_RECT.toolboxitem.text
+msgctxt "contdlg.src#RID_SVXDLG_CONTOUR.TBX1.TBI_RECT.toolboxitem.text"
+msgid "Rectangle"
+msgstr "Rectangle"
+
+#. dB3t
+#: contdlg.src#RID_SVXDLG_CONTOUR.TBX1.TBI_CIRCLE.toolboxitem.text
+msgctxt "contdlg.src#RID_SVXDLG_CONTOUR.TBX1.TBI_CIRCLE.toolboxitem.text"
+msgid "Ellipse"
+msgstr "El·lipse"
+
+#. 1Hqk
+#: contdlg.src#RID_SVXDLG_CONTOUR.TBX1.TBI_POLY.toolboxitem.text
+msgctxt "contdlg.src#RID_SVXDLG_CONTOUR.TBX1.TBI_POLY.toolboxitem.text"
+msgid "Polygon"
+msgstr "Polígon"
+
+#. 8gXb
+#: contdlg.src#RID_SVXDLG_CONTOUR.TBX1.TBI_POLYEDIT.toolboxitem.text
+msgctxt "contdlg.src#RID_SVXDLG_CONTOUR.TBX1.TBI_POLYEDIT.toolboxitem.text"
+msgid "Edit Points"
+msgstr "Edita els punts"
+
+#. GRxX
+#: contdlg.src#RID_SVXDLG_CONTOUR.TBX1.TBI_POLYMOVE.toolboxitem.text
+msgctxt "contdlg.src#RID_SVXDLG_CONTOUR.TBX1.TBI_POLYMOVE.toolboxitem.text"
+msgid "Move Points"
+msgstr "Mou els punts"
+
+#. 2ktI
+#: contdlg.src#RID_SVXDLG_CONTOUR.TBX1.TBI_POLYINSERT.toolboxitem.text
+msgctxt "contdlg.src#RID_SVXDLG_CONTOUR.TBX1.TBI_POLYINSERT.toolboxitem.text"
+msgid "Insert Points"
+msgstr "Insereix punts"
+
+#. As8U
+#: contdlg.src#RID_SVXDLG_CONTOUR.TBX1.TBI_POLYDELETE.toolboxitem.text
+msgctxt "contdlg.src#RID_SVXDLG_CONTOUR.TBX1.TBI_POLYDELETE.toolboxitem.text"
+msgid "Delete Points"
+msgstr "Suprimeix els punts"
+
+#. G9aT
+#: contdlg.src#RID_SVXDLG_CONTOUR.TBX1.TBI_AUTOCONTOUR.toolboxitem.text
+msgid "AutoContour"
+msgstr "Esquema automàtic"
+
+#. _8zz
+#: contdlg.src#RID_SVXDLG_CONTOUR.TBX1.TBI_UNDO.toolboxitem.text
+msgctxt "contdlg.src#RID_SVXDLG_CONTOUR.TBX1.TBI_UNDO.toolboxitem.text"
+msgid "Undo "
+msgstr "Desfés "
+
+#. uzU#
+#: contdlg.src#RID_SVXDLG_CONTOUR.TBX1.TBI_REDO.toolboxitem.text
+msgid "Redo "
+msgstr "Restaura "
+
+#. 5RJI
+#: contdlg.src#RID_SVXDLG_CONTOUR.TBX1.TBI_PIPETTE.toolboxitem.text
+msgctxt "contdlg.src#RID_SVXDLG_CONTOUR.TBX1.TBI_PIPETTE.toolboxitem.text"
+msgid "Pipette"
+msgstr "Pipeta"
+
+#. jI0K
+#: contdlg.src#RID_SVXDLG_CONTOUR.MTF_TOLERANCE.metricfield.text
+msgctxt "contdlg.src#RID_SVXDLG_CONTOUR.MTF_TOLERANCE.metricfield.text"
+msgid "%"
+msgstr "%"
+
+#. Lm1m
+#: contdlg.src#RID_SVXDLG_CONTOUR.MTF_TOLERANCE.metricfield.quickhelptext
+msgid "Color Tolerance"
+msgstr "Tolerància del color"
+
+#. tcp9
+#: contdlg.src#RID_SVXDLG_CONTOUR.floatingwindow.text
+msgid "Contour Editor"
+msgstr "Editor de la vora"
+
+#. VzhY
+#: contdlg.src#STR_CONTOURDLG_MODIFY.string.text
+msgid ""
+"The contour has been modified.\n"
+"Do you want to save the changes?"
+msgstr ""
+"S'ha modificat la vora.\n"
+"Voleu alçar els canvis?"
+
+#. iAo6
+#: contdlg.src#STR_CONTOURDLG_NEWPIPETTE.string.text
+msgid "Do you want to create a new contour?"
+msgstr "Voleu crear una vora nova?"
+
+#. S#Eh
+#: contdlg.src#STR_CONTOURDLG_WORKPLACE.string.text
+msgid ""
+"Setting a new workspace will\n"
+"cause the contour to be deleted.\n"
+"Are you sure you want to continue?"
+msgstr ""
+"En definir una nova àrea de treball,\n"
+"la vora se suprimirà.\n"
+"Esteu segur que voleu continuar?"
+
+#. dEyq
+#: contdlg.src#STR_CONTOURDLG_LINKED.string.text
+msgid ""
+"This graphic object is linked to the document. Do you want to unlink the "
+"graphics in order to edit it?"
+msgstr ""
+"Este objecte gràfic està enllaçat al document. Voleu desfer l'enllaç per "
+"editar el gràfic?"
+
+#. eJtL
+#: rubydialog.src#RID_SVXDLG_RUBY.CB_AUTO_DETECT.checkbox.text
+msgid "Automatic detection"
+msgstr "Reconeixement automàtic"
+
+#. cFnS
+#: rubydialog.src#RID_SVXDLG_RUBY.FT_LEFT.fixedtext.text
+msgid "Base text"
+msgstr "Text base"
+
+#. 1g3w
+#: rubydialog.src#RID_SVXDLG_RUBY.FT_RIGHT.fixedtext.text
+msgid "Ruby text"
+msgstr "Text ruby"
+
+#. eQz7
+#: rubydialog.src#RID_SVXDLG_RUBY.FT_ADJUST.fixedtext.text
+msgid "Alignment"
+msgstr "Alineació"
+
+#. Nns7
+#: rubydialog.src#RID_SVXDLG_RUBY.LB_ADJUST.1.stringlist.text
+msgctxt "rubydialog.src#RID_SVXDLG_RUBY.LB_ADJUST.1.stringlist.text"
+msgid "Left"
+msgstr "Esquerra"
+
+#. xDFr
+#: rubydialog.src#RID_SVXDLG_RUBY.LB_ADJUST.2.stringlist.text
+msgctxt "rubydialog.src#RID_SVXDLG_RUBY.LB_ADJUST.2.stringlist.text"
+msgid "Center"
+msgstr "Centre"
+
+#. s844
+#: rubydialog.src#RID_SVXDLG_RUBY.LB_ADJUST.3.stringlist.text
+msgctxt "rubydialog.src#RID_SVXDLG_RUBY.LB_ADJUST.3.stringlist.text"
+msgid "Right"
+msgstr "Dreta"
+
+#. O7On
+#: rubydialog.src#RID_SVXDLG_RUBY.LB_ADJUST.4.stringlist.text
+msgid "0 1 0"
+msgstr "0 1 0"
+
+#. L2J0
+#: rubydialog.src#RID_SVXDLG_RUBY.LB_ADJUST.5.stringlist.text
+msgid "1 2 1"
+msgstr "1 2 1"
+
+#. Bhp#
+#: rubydialog.src#RID_SVXDLG_RUBY.FT_POSITION.fixedtext.text
+msgctxt "rubydialog.src#RID_SVXDLG_RUBY.FT_POSITION.fixedtext.text"
+msgid "Position"
+msgstr "Posició"
+
+#. Vp8g
+#: rubydialog.src#RID_SVXDLG_RUBY.LB_POSITION.1.stringlist.text
+msgctxt "rubydialog.src#RID_SVXDLG_RUBY.LB_POSITION.1.stringlist.text"
+msgid "Top"
+msgstr "Part superior"
+
+#. pFnO
+#: rubydialog.src#RID_SVXDLG_RUBY.LB_POSITION.2.stringlist.text
+msgctxt "rubydialog.src#RID_SVXDLG_RUBY.LB_POSITION.2.stringlist.text"
+msgid "Bottom"
+msgstr "Part inferior"
+
+#. KFfV
+#: rubydialog.src#RID_SVXDLG_RUBY.FT_CHAR_STYLE.fixedtext.text
+msgid "Character Style for ruby text"
+msgstr "Estil de caràcter per al text ruby"
+
+#. 0kXJ
+#: rubydialog.src#RID_SVXDLG_RUBY.PB_STYLIST.pushbutton.text
+msgid "Styles"
+msgstr "Estils"
+
+#. PH3Z
+#: rubydialog.src#RID_SVXDLG_RUBY.FT_PREVIEW.fixedtext.text
+msgid "Preview:"
+msgstr "Previsualització:"
+
+#. dXKL
+#: rubydialog.src#RID_SVXDLG_RUBY.PB_APPLY.okbutton.text
+msgid "~Apply"
+msgstr "~Aplica"
+
+#. Yixl
+#: rubydialog.src#RID_SVXDLG_RUBY.PB_CLOSE.pushbutton.text
+msgctxt "rubydialog.src#RID_SVXDLG_RUBY.PB_CLOSE.pushbutton.text"
+msgid "~Close"
+msgstr "~Tanca"
+
+#. dmeV
+#: rubydialog.src#RID_SVXDLG_RUBY.modelessdialog.text
+msgid "Asian Phonetic Guide"
+msgstr "Guia fonètica asiàtica"
+
+#. mI0i
+#: frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS.1.itemlist.text
+msgctxt "frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS.1.itemlist.text"
+msgid "Border setting"
+msgstr "Opcions de la vora"
+
+#. HyiK
+#: frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS.2.itemlist.text
+msgctxt "frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS.2.itemlist.text"
+msgid "Left border line"
+msgstr "Línia de vora esquerra"
+
+#. d8hZ
+#: frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS.3.itemlist.text
+msgctxt "frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS.3.itemlist.text"
+msgid "Right border line"
+msgstr "Línia de vora dreta"
+
+#. eIH4
+#: frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS.4.itemlist.text
+msgctxt "frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS.4.itemlist.text"
+msgid "Top border line"
+msgstr "Línia de vora superior"
+
+#. UcMp
+#: frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS.5.itemlist.text
+msgctxt "frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS.5.itemlist.text"
+msgid "Bottom border line"
+msgstr "Línia de vora inferior"
+
+#. _8wB
+#: frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS.6.itemlist.text
+msgctxt "frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS.6.itemlist.text"
+msgid "Horizontal border line"
+msgstr "Línia de vora horitzontal"
+
+#. 9yzy
+#: frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS.7.itemlist.text
+msgctxt "frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS.7.itemlist.text"
+msgid "Vertical border line"
+msgstr "Línia de vora vertical"
+
+#. QFgb
+#: frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS.8.itemlist.text
+msgctxt "frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS.8.itemlist.text"
+msgid "Diagonal border line from top left to bottom right"
+msgstr ""
+"Línia diagonal de vora des de la part superior esquerra a la part inferior "
+"dreta"
+
+#. ixjI
+#: frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS.9.itemlist.text
+msgctxt "frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_TEXTS.9.itemlist.text"
+msgid "Diagonal border line from bottom left to top right"
+msgstr ""
+"Línia diagonal de vora des de la part inferior esquerra a la part superior "
+"dreta"
+
+#. Q1Gu
+#: frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS.1.itemlist.text
+msgctxt "frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS.1.itemlist.text"
+msgid "Border setting"
+msgstr "Opcions de la vora"
+
+#. xly0
+#: frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS.2.itemlist.text
+msgctxt "frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS.2.itemlist.text"
+msgid "Left border line"
+msgstr "Línia de vora esquerra"
+
+#. DRxt
+#: frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS.3.itemlist.text
+msgctxt "frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS.3.itemlist.text"
+msgid "Right border line"
+msgstr "Línia de vora dreta"
+
+#. 211G
+#: frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS.4.itemlist.text
+msgctxt "frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS.4.itemlist.text"
+msgid "Top border line"
+msgstr "Línia de vora superior"
+
+#. qr6d
+#: frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS.5.itemlist.text
+msgctxt "frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS.5.itemlist.text"
+msgid "Bottom border line"
+msgstr "Línia de vora inferior"
+
+#. LRgV
+#: frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS.6.itemlist.text
+msgctxt "frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS.6.itemlist.text"
+msgid "Horizontal border line"
+msgstr "Línia de vora horitzontal"
+
+#. Zlje
+#: frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS.7.itemlist.text
+msgctxt "frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS.7.itemlist.text"
+msgid "Vertical border line"
+msgstr "Línia de vora vertical"
+
+#. mSwn
+#: frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS.8.itemlist.text
+msgctxt "frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS.8.itemlist.text"
+msgid "Diagonal border line from top left to bottom right"
+msgstr ""
+"Línia diagonal de vora des de la part superior esquerra a la part inferior "
+"dreta"
+
+#. 6ez6
+#: frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS.9.itemlist.text
+msgctxt "frmsel.src#RID_SVXSTR_BORDER_CONTROL.ARR_DESCRIPTIONS.9.itemlist.text"
+msgid "Diagonal border line from bottom left to top right"
+msgstr ""
+"Línia diagonal de vora des de la part inferior esquerra a la part superior "
+"dreta"
+
+#. MCyd
+#: language.src#RID_SVXSTR_LANGUAGE_ALL.string.text
+msgid "[All]"
+msgstr "[Tots]"
+
+#. jDEc
+#: passwd.src#RID_SVXDLG_PASSWORD.FT_OLD_PASSWD.fixedtext.text
+msgid "~Password"
+msgstr "~Contrasenya"
+
+#. VZCX
+#: passwd.src#RID_SVXDLG_PASSWORD.FL_OLD_PASSWD.fixedline.text
+msgid "Old password"
+msgstr "Anterior"
+
+#. q5Dx
+#: passwd.src#RID_SVXDLG_PASSWORD.FT_NEW_PASSWD.fixedtext.text
+msgid "Pa~ssword"
+msgstr "Co~ntrasenya"
+
+#. oulp
+#: passwd.src#RID_SVXDLG_PASSWORD.FT_REPEAT_PASSWD.fixedtext.text
+msgid "Confi~rm"
+msgstr "~Repeteix"
+
+#. 6hFy
+#: passwd.src#RID_SVXDLG_PASSWORD.FL_NEW_PASSWD.fixedline.text
+msgid "New password"
+msgstr "Nova"
+
+#. NpNh
+#: passwd.src#RID_SVXDLG_PASSWORD.STR_ERR_OLD_PASSWD.string.text
+msgid "Invalid password"
+msgstr "La contrasenya no és correcta"
+
+#. gCvg
+#: passwd.src#RID_SVXDLG_PASSWORD.STR_ERR_REPEAT_PASSWD.string.text
+msgid "Passwords do not match"
+msgstr "Les contrasenyes no coincideixen"
+
+#. gI6p
+#: passwd.src#RID_SVXDLG_PASSWORD.modaldialog.text
+msgid "Change Password"
+msgstr "Canvia la contrasenya"
+
+#. rrzU
+#: imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_APPLY.toolboxitem.text
+msgctxt "imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_APPLY.toolboxitem.text"
+msgid "Apply"
+msgstr "Aplica"
+
+#. CTka
+#: imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_OPEN.toolboxitem.text
+msgid "Open..."
+msgstr "Obri..."
+
+#. QdFI
+#: imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_SAVEAS.toolboxitem.text
+msgid "Save..."
+msgstr "Alça..."
+
+#. BE2a
+#: imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_SELECT.toolboxitem.text
+msgctxt "imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_SELECT.toolboxitem.text"
+msgid "Select"
+msgstr "Selecciona"
+
+#. W7Yd
+#: imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_RECT.toolboxitem.text
+msgctxt "imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_RECT.toolboxitem.text"
+msgid "Rectangle"
+msgstr "Rectangle"
+
+#. ACmv
+#: imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_CIRCLE.toolboxitem.text
+msgctxt "imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_CIRCLE.toolboxitem.text"
+msgid "Ellipse"
+msgstr "El·lipse"
+
+#. AWc0
+#: imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_POLY.toolboxitem.text
+msgctxt "imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_POLY.toolboxitem.text"
+msgid "Polygon"
+msgstr "Polígon"
+
+#. 8C7K
+#: imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_FREEPOLY.toolboxitem.text
+msgid "Freeform Polygon"
+msgstr "Polígon de forma lliure"
+
+#. 9BVD
+#: imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_POLYEDIT.toolboxitem.text
+msgctxt ""
+"imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_POLYEDIT.toolboxitem.text"
+msgid "Edit Points"
+msgstr "Edita els punts"
+
+#. Hw59
+#: imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_POLYMOVE.toolboxitem.text
+msgctxt ""
+"imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_POLYMOVE.toolboxitem.text"
+msgid "Move Points"
+msgstr "Mou els punts"
+
+#. oAtH
+#: imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_POLYINSERT.toolboxitem.text
+msgctxt ""
+"imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_POLYINSERT.toolboxitem.text"
+msgid "Insert Points"
+msgstr "Insereix punts"
+
+#. wI8T
+#: imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_POLYDELETE.toolboxitem.text
+msgctxt ""
+"imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_POLYDELETE.toolboxitem.text"
+msgid "Delete Points"
+msgstr "Suprimeix els punts"
+
+#. qvlJ
+#: imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_UNDO.toolboxitem.text
+msgctxt "imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_UNDO.toolboxitem.text"
+msgid "Undo "
+msgstr "Desfés "
+
+#. pCCG
+#: imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_REDO.toolboxitem.text
+msgid "Redo"
+msgstr "Restaura"
+
+#. GCUS
+#: imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_ACTIVE.toolboxitem.text
+msgctxt "imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_ACTIVE.toolboxitem.text"
+msgid "Active"
+msgstr "Actiu"
+
+#. Hhy2
+#: imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_MACRO.toolboxitem.text
+msgid "Macro..."
+msgstr "Macro..."
+
+#. Jy48
+#: imapdlg.src#RID_SVXDLG_IMAP.TBX_IMAPDLG1.TBI_PROPERTY.toolboxitem.text
+msgid "Properties..."
+msgstr "Propietats..."
+
+#. rCjO
+#: imapdlg.src#RID_SVXDLG_IMAP.FT_URL.fixedtext.text
+msgid "Address:"
+msgstr "Adreça:"
+
+#. Zx7b
+#: imapdlg.src#RID_SVXDLG_IMAP.FT_TEXT.fixedtext.text
+msgid "Text:"
+msgstr "Text:"
+
+#. Cfia
+#: imapdlg.src#RID_SVXDLG_IMAP.RID_SVXCTL_FT_TARGET.fixedtext.text
+msgid "Frame:"
+msgstr "Marc:"
+
+#. WIa8
+#: imapdlg.src#RID_SVXDLG_IMAP.modelessdialog.text
+msgid "ImageMap Editor"
+msgstr "Editor del mapa d'imatge"
+
+#. DZt4
+#: imapdlg.src#RID_SVXMN_IMAP.MN_URL.menuitem.text
+msgid "Description..."
+msgstr "Descripció..."
+
+#. lrb8
+#: imapdlg.src#RID_SVXMN_IMAP.MN_MACRO.menuitem.text
+msgid "~Macro..."
+msgstr "~Macro..."
+
+#. tHpe
+#: imapdlg.src#RID_SVXMN_IMAP.MN_ACTIVATE.menuitem.text
+msgctxt "imapdlg.src#RID_SVXMN_IMAP.MN_ACTIVATE.menuitem.text"
+msgid "Active"
+msgstr "Actiu"
+
+#. Nt8s
+#: imapdlg.src#RID_SVXMN_IMAP.MN_POSITION.MN_FRAME_TO_TOP.menuitem.text
+msgid "Bring to Front"
+msgstr "Porta al davant"
+
+#. 0kWL
+#: imapdlg.src#RID_SVXMN_IMAP.MN_POSITION.MN_MOREFRONT.menuitem.text
+msgid "Bring ~Forward"
+msgstr "Porta ~cap avant"
+
+#. 92Sn
+#: imapdlg.src#RID_SVXMN_IMAP.MN_POSITION.MN_MOREBACK.menuitem.text
+msgid "Send Back~ward"
+msgstr "Envia cap ~arrere"
+
+#. wQqK
+#: imapdlg.src#RID_SVXMN_IMAP.MN_POSITION.MN_FRAME_TO_BOTTOM.menuitem.text
+msgid "~Send to Back"
+msgstr "~Envia al fons"
+
+#. TzE7
+#: imapdlg.src#RID_SVXMN_IMAP.MN_POSITION.menuitem.text
+msgid "Arrange"
+msgstr "Organitza"
+
+#. shz0
+#: imapdlg.src#RID_SVXMN_IMAP.MN_MARK_ALL.menuitem.text
+msgid "Select ~All"
+msgstr "Selecciona'ls ~tots"
+
+#. gKYE
+#: imapdlg.src#RID_SVXMN_IMAP.MN_DELETE1.menuitem.text
+msgid "~Delete"
+msgstr "~Suprimeix"
+
+#. mxDm
+#: imapdlg.src#STR_IMAPDLG_SAVE.string.text
+msgctxt "imapdlg.src#STR_IMAPDLG_SAVE.string.text"
+msgid ""
+"The ImageMap has been modified.\n"
+"Do you want to save the changes?"
+msgstr ""
+"S'ha modificat el mapa d'imatge.\n"
+"Voleu alçar-ne els canvis?"
+
+#. xxGc
+#: imapdlg.src#STR_IMAPDLG_MODIFY.string.text
+msgctxt "imapdlg.src#STR_IMAPDLG_MODIFY.string.text"
+msgid ""
+"The ImageMap has been modified.\n"
+"Do you want to save the changes?"
+msgstr ""
+"S'ha modificat el mapa d'imatge.\n"
+"Voleu alçar-ne els canvis?"
+
+#~ msgid "Kanxi Radicals"
+#~ msgstr "Radicals kanxi"

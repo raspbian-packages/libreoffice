@@ -2,7 +2,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+filter%2Fsource%2Fconfig%2Ffragments%2Finternalgraphicfilters.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+filter%2Fsource%2Fconfig%2Ffragments%2Finternalgraphicfilters."
+"oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
 "PO-Revision-Date: 2011-04-05 19:11+0200\n"
 "Last-Translator: jmontane <joan@montane.cat>\n"
@@ -15,211 +18,255 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. QEJ9
 #: xpm_Import.xcu#xpm_Import.UIName.value.text
 msgctxt "xpm_Import.xcu#xpm_Import.UIName.value.text"
 msgid "XPM - X PixMap"
 msgstr "XPM - Mapa de píxels X"
 
+#. _aVr
 #: wmf_Import.xcu#wmf_Import.UIName.value.text
 msgctxt "wmf_Import.xcu#wmf_Import.UIName.value.text"
 msgid "WMF - Windows Metafile"
 msgstr "WMF - Metafitxer de Windows"
 
+#. 2ouw
 #: eps_Import.xcu#eps_Import.UIName.value.text
 msgctxt "eps_Import.xcu#eps_Import.UIName.value.text"
 msgid "EPS - Encapsulated PostScript"
 msgstr "EPS - PostScript encapsulat"
 
+#. 8O_a
 #: tga_Import.xcu#tga_Import.UIName.value.text
 msgid "TGA - Truevision Targa"
 msgstr "TGA - Truevision Targa"
 
+#. LOys
 #: met_Import.xcu#met_Import.UIName.value.text
 msgctxt "met_Import.xcu#met_Import.UIName.value.text"
 msgid "MET - OS/2 Metafile"
 msgstr "MET - Metafitxer OS/2"
 
+#. rfjC
 #: bmp_Import.xcu#bmp_Import.UIName.value.text
 msgctxt "bmp_Import.xcu#bmp_Import.UIName.value.text"
 msgid "BMP - Windows Bitmap"
 msgstr "BMP - Mapa de bits del Windows"
 
+#. cAlP
 #: emf_Import.xcu#emf_Import.UIName.value.text
 msgctxt "emf_Import.xcu#emf_Import.UIName.value.text"
 msgid "EMF - Enhanced Metafile"
 msgstr "EMF - Metafitxer millorat"
 
+#. LFmT
 #: ras_Import.xcu#ras_Import.UIName.value.text
 msgctxt "ras_Import.xcu#ras_Import.UIName.value.text"
 msgid "RAS - Sun Raster Image"
 msgstr "RAS - Imatge d'escombratge de Sun (raster)"
 
+#. cD7m
 #: dxf_Import.xcu#dxf_Import.UIName.value.text
 msgid "DXF - AutoCAD Interchange Format"
 msgstr "DXF - Format AutoCAD Interchange"
 
+#. 26IA
 #: pcd_Import_Base4.xcu#pcd_Import_Base4.UIName.value.text
 msgid "PCD - Kodak Photo CD (384x256)"
 msgstr "PCD - Kodak Photo CD (384x256)"
 
+#. dXiX
 #: ppm_Export.xcu#ppm_Export.UIName.value.text
 msgctxt "ppm_Export.xcu#ppm_Export.UIName.value.text"
 msgid "PPM - Portable Pixelmap"
 msgstr "PPM - Mapa de píxels portable"
 
+#. zpvT
 #: eps_Export.xcu#eps_Export.UIName.value.text
 msgctxt "eps_Export.xcu#eps_Export.UIName.value.text"
 msgid "EPS - Encapsulated PostScript"
 msgstr "EPS - PostScript encapsulat"
 
+#. CMg8
 #: pcx_Import.xcu#pcx_Import.UIName.value.text
 msgid "PCX - Zsoft Paintbrush"
 msgstr "PCX - Zsoft Paintbrush"
 
+#. uWXu
 #: svg_Export.xcu#svg_Export.UIName.value.text
 msgctxt "svg_Export.xcu#svg_Export.UIName.value.text"
 msgid "SVG - Scalable Vector Graphics"
 msgstr "SVG - Gràfics vectorials escalables"
 
+#. 2VJy
 #: png_Export.xcu#png_Export.UIName.value.text
 msgctxt "png_Export.xcu#png_Export.UIName.value.text"
 msgid "PNG - Portable Network Graphic"
 msgstr "PNG - Gràfic de xarxa portable"
 
+#. B_qB
 #: pcd_Import_Base16.xcu#pcd_Import_Base16.UIName.value.text
 msgid "PCD - Kodak Photo CD (192x128)"
 msgstr "PCD - Kodak Photo CD (192x128)"
 
+#. _RN4
 #: pcd_Import_Base.xcu#pcd_Import_Base.UIName.value.text
 msgid "PCD - Kodak Photo CD (768x512)"
 msgstr "PCD - Kodak Photo CD (768x512)"
 
+#. Xqej
 #: tif_Export.xcu#tif_Export.UIName.value.text
 msgctxt "tif_Export.xcu#tif_Export.UIName.value.text"
 msgid "TIFF - Tagged Image File Format"
 msgstr "TIFF - Format de fitxer d'imatge amb marques"
 
+#. Z9UR
 #: svm_Import.xcu#svm_Import.UIName.value.text
 msgctxt "svm_Import.xcu#svm_Import.UIName.value.text"
 msgid "SVM - StarView Metafile"
 msgstr "SVM - Metafitxer StarView"
 
+#. UrfA
 #: tif_Import.xcu#tif_Import.UIName.value.text
 msgctxt "tif_Import.xcu#tif_Import.UIName.value.text"
 msgid "TIFF - Tagged Image File Format"
 msgstr "TIFF - Format de fitxer d'imatge amb marques"
 
+#. p0vG
 #: pbm_Import.xcu#pbm_Import.UIName.value.text
 msgctxt "pbm_Import.xcu#pbm_Import.UIName.value.text"
 msgid "PBM - Portable Bitmap"
 msgstr "PBM - Mapa de bits portable"
 
+#. zUIR
 #: png_Import.xcu#png_Import.UIName.value.text
 msgctxt "png_Import.xcu#png_Import.UIName.value.text"
 msgid "PNG - Portable Network Graphic"
 msgstr "PNG - Gràfic de xarxa portable"
 
+#. bFIk
 #: xpm_Export.xcu#xpm_Export.UIName.value.text
 msgctxt "xpm_Export.xcu#xpm_Export.UIName.value.text"
 msgid "XPM - X PixMap"
 msgstr "XPM - Mapa de píxels X"
 
+#. Bd_e
 #: pct_Export.xcu#pct_Export.UIName.value.text
 msgctxt "pct_Export.xcu#pct_Export.UIName.value.text"
 msgid "PCT - Mac Pict"
 msgstr "PCT - Dibuix de Mac"
 
+#. 0bUI
 #: wmf_Export.xcu#wmf_Export.UIName.value.text
 msgctxt "wmf_Export.xcu#wmf_Export.UIName.value.text"
 msgid "WMF - Windows Metafile"
 msgstr "WMF - Metafitxer de Windows"
 
+#. 7XWV
 #: svg_Import.xcu#svg_Import.UIName.value.text
 msgctxt "svg_Import.xcu#svg_Import.UIName.value.text"
 msgid "SVG - Scalable Vector Graphics"
 msgstr "SVG - Scalable Vector Graphics"
 
+#. X0Hn
 #: sgv_Import.xcu#sgv_Import.UIName.value.text
 msgid "SGV - StarDraw 2.0"
 msgstr "SGV - StarDraw 2.0"
 
+#. PBk#
 #: emf_Export.xcu#emf_Export.UIName.value.text
 msgctxt "emf_Export.xcu#emf_Export.UIName.value.text"
 msgid "EMF - Enhanced Metafile"
 msgstr "EMF - Metafitxer millorat"
 
+#. gPzH
 #: met_Export.xcu#met_Export.UIName.value.text
 msgctxt "met_Export.xcu#met_Export.UIName.value.text"
 msgid "MET - OS/2 Metafile"
 msgstr "MET - Metafitxer OS/2"
 
+#. b0Xm
 #: psd_Import.xcu#psd_Import.UIName.value.text
 msgid "PSD - Adobe Photoshop"
 msgstr "PSD - Adobe Photoshop"
 
+#. d8TX
 #: jpg_Import.xcu#jpg_Import.UIName.value.text
 msgctxt "jpg_Import.xcu#jpg_Import.UIName.value.text"
 msgid "JPEG - Joint Photographic Experts Group"
 msgstr "JPEG - Grup combinat d'experts fotogràfics"
 
+#. qc#F
 #: pct_Import.xcu#pct_Import.UIName.value.text
 msgctxt "pct_Import.xcu#pct_Import.UIName.value.text"
 msgid "PCT - Mac Pict"
 msgstr "PCT - Dibuix de Mac"
 
+#. OWj6
 #: ppm_Import.xcu#ppm_Import.UIName.value.text
 msgctxt "ppm_Import.xcu#ppm_Import.UIName.value.text"
 msgid "PPM - Portable Pixelmap"
 msgstr "PPM - Mapa de píxels portable"
 
+#. gEnw
 #: ras_Export.xcu#ras_Export.UIName.value.text
 msgctxt "ras_Export.xcu#ras_Export.UIName.value.text"
 msgid "RAS - Sun Raster Image"
 msgstr "RAS - Imatge d'escombratge de Sun (raster)"
 
+#. E#L3
 #: pgm_Export.xcu#pgm_Export.UIName.value.text
 msgctxt "pgm_Export.xcu#pgm_Export.UIName.value.text"
 msgid "PGM - Portable Graymap"
 msgstr "PGM - Mapa de grisos portable"
 
+#. O9S6
 #: jpg_Export.xcu#jpg_Export.UIName.value.text
 msgctxt "jpg_Export.xcu#jpg_Export.UIName.value.text"
 msgid "JPEG - Joint Photographic Experts Group"
 msgstr "JPEG - Grup combinat d'experts fotogràfics"
 
+#. 1#Vw
 #: sgf_Import.xcu#sgf_Import.UIName.value.text
 msgid "SGF - StarWriter Graphics Format"
 msgstr "SGF - Format de gràfics StarWriter"
 
+#. Aeih
 #: bmp_Export.xcu#bmp_Export.UIName.value.text
 msgctxt "bmp_Export.xcu#bmp_Export.UIName.value.text"
 msgid "BMP - Windows Bitmap"
 msgstr "BMP - Mapa de bits del Windows"
 
+#. S8Vy
 #: svm_Export.xcu#svm_Export.UIName.value.text
 msgctxt "svm_Export.xcu#svm_Export.UIName.value.text"
 msgid "SVM - StarView Metafile"
 msgstr "SVM - Metafitxer StarView"
 
+#. nk7V
 #: xbm_Import.xcu#xbm_Import.UIName.value.text
 msgid "XBM - X Bitmap"
 msgstr "XBM - Mapa de bits X"
 
+#. BwCe
 #: gif_Export.xcu#gif_Export.UIName.value.text
 msgctxt "gif_Export.xcu#gif_Export.UIName.value.text"
 msgid "GIF - Graphics Interchange Format"
 msgstr "GIF - Format d'intercanvi de gràfics"
 
+#. n_Ka
 #: pgm_Import.xcu#pgm_Import.UIName.value.text
 msgctxt "pgm_Import.xcu#pgm_Import.UIName.value.text"
 msgid "PGM - Portable Graymap"
 msgstr "PGM - Mapa de grisos portable"
 
+#. C1ut
 #: pbm_Export.xcu#pbm_Export.UIName.value.text
 msgctxt "pbm_Export.xcu#pbm_Export.UIName.value.text"
 msgid "PBM - Portable Bitmap"
 msgstr "PBM - Mapa de bits portable"
 
+#. qxDF
 #: gif_Import.xcu#gif_Import.UIName.value.text
 msgctxt "gif_Import.xcu#gif_Import.UIName.value.text"
 msgid "GIF - Graphics Interchange Format"

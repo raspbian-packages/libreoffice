@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+scp2%2Fsource%2Fooo.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment="
+"&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%"
+"3A+scp2%2Fsource%2Fooo.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:43+0200\n"
 "PO-Revision-Date: 2012-02-28 00:14+0200\n"
 "Last-Translator: Joan <joan@montane.cat>\n"
@@ -15,2500 +17,3484 @@ msgstr ""
 "X-Generator: Pootle 2.1.6\n"
 "X-Accelerator-Marker: ~\n"
 
+#. u_p#
 #: module_systemint.ulf#STR_NAME_MODULE_OPTIONAL_SYSTEMINTEGRATION.LngText.text
 msgid "Desktop integration"
 msgstr "Integració amb l'escriptori"
 
+#. avDX
 #: module_systemint.ulf#STR_DESC_MODULE_OPTIONAL_SYSTEMINTEGRATION.LngText.text
 msgid "Desktop integration of %PRODUCTNAME %PRODUCTVERSION."
 msgstr "Integració amb l'escriptori del %PRODUCTNAME %PRODUCTVERSION."
 
+#. 8bDT
 #: module_helppack.ulf#STR_NAME_MODULE_ROOT_HELPPACK.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_ROOT_HELPPACK.LngText.text"
 msgid "Additional help packs"
 msgstr "Paquets d'ajuda addicionals"
 
+#. wW3q
 #: module_helppack.ulf#STR_DESC_MODULE_ROOT_HELPPACK.LngText.text
 msgctxt "module_helppack.ulf#STR_DESC_MODULE_ROOT_HELPPACK.LngText.text"
 msgid "Additional help packs"
 msgstr "Paquets d'ajuda addicionals"
 
+#. #UCM
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_EN_US.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_EN_US.LngText.text"
 msgid "English"
 msgstr "Anglés"
 
+#. IKS5
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_EN_US.LngText.text
 msgid "Installs English help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en anglés al %PRODUCTNAME %PRODUCTVERSION"
 
+#. uczQ
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_DE.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_DE.LngText.text"
 msgid "German"
 msgstr "Alemany"
 
+#. Az#1
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_DE.LngText.text
 msgid "Installs German help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en alemany al %PRODUCTNAME %PRODUCTVERSION"
 
+#. UQUm
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_FR.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_FR.LngText.text"
 msgid "French"
 msgstr "Francés"
 
+#. i1Th
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_FR.LngText.text
 msgid "Installs French help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en francés al %PRODUCTNAME %PRODUCTVERSION"
 
+#. gvrR
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_IT.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_IT.LngText.text"
 msgid "Italian"
 msgstr "Italià"
 
+#. OYs0
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_IT.LngText.text
 msgid "Installs Italian help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en italià al %PRODUCTNAME %PRODUCTVERSION"
 
+#. bxMG
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_ES.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_ES.LngText.text"
 msgid "Spanish"
 msgstr "Castellà"
 
+#. NWLB
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_ES.LngText.text
 msgid "Installs Spanish help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en espanyol al %PRODUCTNAME %PRODUCTVERSION"
 
+#. Mr47
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SV.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SV.LngText.text"
 msgid "Swedish"
 msgstr "Suec"
 
+#. ak7S
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_SV.LngText.text
 msgid "Installs Swedish help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en suec al %PRODUCTNAME %PRODUCTVERSION"
 
+#. 35WE
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_PT.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_PT.LngText.text"
 msgid "Portuguese"
 msgstr "Portugués"
 
+#. nUZL
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_PT.LngText.text
 msgctxt "module_helppack.ulf#STR_DESC_MODULE_HELPPACK_PT.LngText.text"
 msgid "Installs Portuguese help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en portugués al %PRODUCTNAME %PRODUCTVERSION"
 
+#. #RRC
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_PT_BR.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_PT_BR.LngText.text"
 msgid "Portuguese (Brazil)"
 msgstr "Portugués (Brasil)"
 
+#. IHBV
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_PT_BR.LngText.text
 msgctxt "module_helppack.ulf#STR_DESC_MODULE_HELPPACK_PT_BR.LngText.text"
 msgid "Installs Portuguese help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en portugués al %PRODUCTNAME %PRODUCTVERSION"
 
+#. ElPt
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_JA.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_JA.LngText.text"
 msgid "Japanese"
 msgstr "Japonés"
 
+#. yqQi
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_JA.LngText.text
 msgid "Installs Japanese help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en japonés al %PRODUCTNAME %PRODUCTVERSION"
 
+#. vNAr
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_KO.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_KO.LngText.text"
 msgid "Korean"
 msgstr "Coreà"
 
+#. BC9k
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_KO.LngText.text
 msgid "Installs Korean help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en coreà al %PRODUCTNAME %PRODUCTVERSION"
 
+#. fJ7o
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_ZH_CN.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_ZH_CN.LngText.text"
 msgid "Chinese (simplified)"
 msgstr "Xinés (simplificat)"
 
+#. 5PNX
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_ZH_CN.LngText.text
 msgid "Installs Chinese (simplified) help in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "Instal·la l'ajuda en xinés (simplificat) al %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+"Instal·la l'ajuda en xinés (simplificat) al %PRODUCTNAME %PRODUCTVERSION"
 
+#. L2UP
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_ZH_TW.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_ZH_TW.LngText.text"
 msgid "Chinese (traditional)"
 msgstr "Xinés (tradicional)"
 
+#. v8EA
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_ZH_TW.LngText.text
 msgid "Installs Chinese (traditional) help in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "Instal·la l'ajuda en xinés (tradicional) al %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+"Instal·la l'ajuda en xinés (tradicional) al %PRODUCTNAME %PRODUCTVERSION"
 
+#. F6tq
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_NL.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_NL.LngText.text"
 msgid "Dutch"
 msgstr "Neerlandés"
 
+#. zTql
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_NL.LngText.text
 msgid "Installs Dutch help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en neerlandés al %PRODUCTNAME %PRODUCTVERSION"
 
+#. 62Mq
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_HU.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_HU.LngText.text"
 msgid "Hungarian"
 msgstr "Hongarés"
 
+#. qPLl
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_HU.LngText.text
 msgid "Installs Hungarian help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en hongarés al %PRODUCTNAME %PRODUCTVERSION"
 
+#. fWO6
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_PL.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_PL.LngText.text"
 msgid "Polish"
 msgstr "Polonés"
 
+#. RxRT
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_PL.LngText.text
 msgid "Installs Polish help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en polonés al %PRODUCTNAME %PRODUCTVERSION"
 
+#. EGlP
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_RU.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_RU.LngText.text"
 msgid "Russian"
 msgstr "Rus"
 
+#. yBi2
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_RU.LngText.text
 msgid "Installs Russian help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en rus al %PRODUCTNAME %PRODUCTVERSION"
 
+#. AXAZ
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_TR.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_TR.LngText.text"
 msgid "Turkish"
 msgstr "Turc"
 
+#. uw9u
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_TR.LngText.text
 msgid "Installs Turkish help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en turc al %PRODUCTNAME %PRODUCTVERSION"
 
+#. o1so
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_EL.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_EL.LngText.text"
 msgid "Greek"
 msgstr "Grec"
 
+#. 0Qrf
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_EL.LngText.text
 msgid "Installs Greek help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en grec al %PRODUCTNAME %PRODUCTVERSION"
 
+#. KQwQ
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_TH.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_TH.LngText.text"
 msgid "Thai"
 msgstr "Thai"
 
+#. c1v1
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_TH.LngText.text
 msgid "Installs Thai help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en thai al %PRODUCTNAME %PRODUCTVERSION"
 
+#. SLh0
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_CS.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_CS.LngText.text"
 msgid "Czech"
 msgstr "Txec"
 
+#. kEeR
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_CS.LngText.text
 msgid "Installs Czech help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en txec al %PRODUCTNAME %PRODUCTVERSION"
 
+#. rHiK
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SK.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SK.LngText.text"
 msgid "Slovak"
 msgstr "Eslovac"
 
+#. 7AlF
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_SK.LngText.text
 msgid "Installs Slovak help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en eslovac al %PRODUCTNAME %PRODUCTVERSION"
 
+#. xTEU
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_HR.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_HR.LngText.text"
 msgid "Croatian"
 msgstr "Croat"
 
+#. 96D5
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_HR.LngText.text
 msgid "Installs Croatian help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en croat al %PRODUCTNAME %PRODUCTVERSION"
 
+#. OaEw
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_ET.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_ET.LngText.text"
 msgid "Estonian"
 msgstr "Estoni"
 
+#. g_DX
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_ET.LngText.text
 msgid "Installs Estonian help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en estonià al %PRODUCTNAME %PRODUCTVERSION"
 
+#. PFrD
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_VI.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_VI.LngText.text"
 msgid "Vietnamese"
 msgstr "Vietnamita"
 
+#. hKsM
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_VI.LngText.text
 msgid "Installs Vietnamese help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en vietnamita al %PRODUCTNAME %PRODUCTVERSION"
 
+#. rM8x
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_BG.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_BG.LngText.text"
 msgid "Bulgarian"
 msgstr "Búlgar"
 
+#. 7DBW
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_BG.LngText.text
 msgid "Installs Bulgarian help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en búlgar al %PRODUCTNAME %PRODUCTVERSION"
 
+#. D924
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_KM.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_KM.LngText.text"
 msgid "Khmer"
 msgstr "Khmer"
 
+#. _I1V
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_KM.LngText.text
 msgid "Installs Khmer help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en khmer al %PRODUCTNAME %PRODUCTVERSION"
 
+#. zDlf
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_PA_IN.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_PA_IN.LngText.text"
 msgid "Punjabi"
 msgstr "Panjabi"
 
+#. H7_w
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_PA_IN.LngText.text
 msgid "Installs Punjabi help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en panjabi al %PRODUCTNAME %PRODUCTVERSION"
 
+#. e9s5
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_TA.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_TA.LngText.text"
 msgid "Tamil"
 msgstr "Tàmil"
 
+#. QIrU
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_TA.LngText.text
 msgid "Installs Tamil help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en tamil al %PRODUCTNAME %PRODUCTVERSION"
 
+#. _fQ_
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_HI.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_HI.LngText.text"
 msgid "Hindi"
 msgstr "Hindi"
 
+#. DoPa
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_HI.LngText.text
 msgid "Installs Hindi help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en hindi al %PRODUCTNAME %PRODUCTVERSION"
 
+#. YhCs
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_ST.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_ST.LngText.text"
 msgid "Southern Sotho (Sutu)"
 msgstr "Sotho del sud (sutu)"
 
+#. GmFj
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_ST.LngText.text
 msgid "Installs Southern Sotho (Sutu) help in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "Instal·la l'ajuda en sotho del sud (sutu) al %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+"Instal·la l'ajuda en sotho del sud (sutu) al %PRODUCTNAME %PRODUCTVERSION"
 
+#. pA6e
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_TN.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_TN.LngText.text"
 msgid "Tswana"
 msgstr "Tswana"
 
+#. 1H5p
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_TN.LngText.text
 msgid "Installs Tswana help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en tswana al %PRODUCTNAME %PRODUCTVERSION"
 
+#. c71x
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_XH.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_XH.LngText.text"
 msgid "Xhosa"
 msgstr "Xhosa"
 
+#. KS2W
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_XH.LngText.text
 msgid "Installs Xhosa help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en xhosa al %PRODUCTNAME %PRODUCTVERSION"
 
+#. Iv2d
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_ZU.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_ZU.LngText.text"
 msgid "Zulu"
 msgstr "Zulu"
 
+#. WY1y
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_ZU.LngText.text
 msgid "Installs Zulu help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en zulu al %PRODUCTNAME %PRODUCTVERSION"
 
+#. Et0R
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_AF.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_AF.LngText.text"
 msgid "Afrikaans"
 msgstr "Afrikaans"
 
+#. yi30
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_AF.LngText.text
 msgid "Installs Afrikaans help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en afrikaans al %PRODUCTNAME %PRODUCTVERSION"
 
+#. ts5p
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SW_TZ.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SW_TZ.LngText.text"
 msgid "Swahili"
 msgstr "Suahili"
 
+#. RyLW
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_SW_TZ.LngText.text
 msgid "Installs Swahili help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en suahili al %PRODUCTNAME %PRODUCTVERSION"
 
+#. sDmI
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_LO.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_LO.LngText.text"
 msgid "Lao"
 msgstr "Lao"
 
+#. 4Mp9
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_LO.LngText.text
 msgid "Installs Lao help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en lao al %PRODUCTNAME %PRODUCTVERSION"
 
+# 100%
+#. 37gY
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_NSO.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_NSO.LngText.text"
 msgid "Northern Sotho"
 msgstr "Sotho del nord"
 
+# 100%
+#. WOqc
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_NSO.LngText.text
 msgid "Installs Northern Sotho help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en sotho del nord al %PRODUCTNAME %PRODUCTVERSION"
 
+#. 954a
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_BN.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_BN.LngText.text"
 msgid "Bengali"
 msgstr "Bengalí"
 
+#. xU7_
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_BN.LngText.text
 msgid "Installs Bengali help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en bengalí al %PRODUCTNAME %PRODUCTVERSION"
 
+#. q7qv
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_OR.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_OR.LngText.text"
 msgid "Oriya"
 msgstr "Oriya"
 
+#. 6StY
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_OR.LngText.text
 msgid "Installs Oriya help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en oriya al %PRODUCTNAME %PRODUCTVERSION"
 
+#. ZTVs
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_MR.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_MR.LngText.text"
 msgid "Marathi"
 msgstr "Marathi"
 
+#. H6Sj
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_MR.LngText.text
 msgid "Installs Marathi help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en marathi al %PRODUCTNAME %PRODUCTVERSION"
 
+#. pLxh
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_NE.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_NE.LngText.text"
 msgid "Nepali"
 msgstr "Nepalí"
 
+#. 1Eum
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_NE.LngText.text
 msgid "Installs Nepali help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en nepalés al %PRODUCTNAME %PRODUCTVERSION"
 
+#. H0aN
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_AR.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_AR.LngText.text"
 msgid "Arabic"
 msgstr "Aràbic"
 
+#. ZRdC
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_AR.LngText.text
 msgid "Installs Arabic help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en aràbic al %PRODUCTNAME %PRODUCTVERSION"
 
+#. aop#
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_CA.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_CA.LngText.text"
 msgid "Catalan"
 msgstr "Català"
 
+#. Mfmb
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_CA.LngText.text
 msgid "Installs Catalan help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en català al %PRODUCTNAME %PRODUCTVERSION"
 
+#. hQjj
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_CA_XV.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_CA_XV.LngText.text"
 msgid "Catalan (Valencian)"
 msgstr "Català (valencià)"
 
+#. 7Gz#
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_CA_XV.LngText.text
 msgid "Installs Catalan (Valencian) help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en català (valencià) al %PRODUCTNAME %PRODUCTVERSION"
 
+#. he9P
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_DA.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_DA.LngText.text"
 msgid "Danish"
 msgstr "Danés"
 
+#. PpA2
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_DA.LngText.text
 msgid "Installs Danish help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en danés al %PRODUCTNAME %PRODUCTVERSION"
 
+#. QkAH
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_FI.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_FI.LngText.text"
 msgid "Finnish"
 msgstr "Finés"
 
+#. er9A
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_FI.LngText.text
 msgid "Installs Finnish help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en finés al %PRODUCTNAME %PRODUCTVERSION"
 
+#. Ax6x
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_HE.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_HE.LngText.text"
 msgid "Hebrew"
 msgstr "Hebreu"
 
+#. uW5W
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_HE.LngText.text
 msgid "Installs Hebrew help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en hebreu al %PRODUCTNAME %PRODUCTVERSION"
 
+#. Ncjn
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_IS.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_IS.LngText.text"
 msgid "Icelandic"
 msgstr "Islàndic"
 
+#. bzkg
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_IS.LngText.text
 msgid "Installs Icelandic help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en islandés al %PRODUCTNAME %PRODUCTVERSION"
 
+#. EAZ1
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_NB.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_NB.LngText.text"
 msgid "Norwegian (Bokmål)"
 msgstr "Noruec (Bokmål)"
 
+#. yHWQ
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_NB.LngText.text
 msgid "Installs Norwegian (Bokmål) help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en noruec (bokmål) al %PRODUCTNAME %PRODUCTVERSION"
 
+#. xO_5
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_NN.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_NN.LngText.text"
 msgid "Norwegian (Nynorsk)"
 msgstr "Noruec (Nynorsk)"
 
+#. 93yU
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_NN.LngText.text
 msgid "Installs Norwegian (Nynorsk) help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en noruec (nynorsk) al %PRODUCTNAME %PRODUCTVERSION"
 
+#. GhVW
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_RO.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_RO.LngText.text"
 msgid "Romanian"
 msgstr "Romanés"
 
+#. YmSx
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_RO.LngText.text
 msgid "Installs Romanian help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en romanés al %PRODUCTNAME %PRODUCTVERSION"
 
+#. hgSj
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SQ.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SQ.LngText.text"
 msgid "Albanian"
 msgstr "Albanés"
 
+#. PnVs
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_SQ.LngText.text
 msgid "Installs Albanian help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en albanés al %PRODUCTNAME %PRODUCTVERSION"
 
+#. c0bK
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_ID.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_ID.LngText.text"
 msgid "Indonesian"
 msgstr "Indonesi"
 
+#. KRcF
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_ID.LngText.text
 msgid "Installs Indonesian help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en indonesi al %PRODUCTNAME %PRODUCTVERSION"
 
+#. C_H4
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_UK.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_UK.LngText.text"
 msgid "Ukrainian"
 msgstr "Ucraïnés"
 
+#. #aIV
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_UK.LngText.text
 msgid "Installs Ukrainian help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en ucraïnés al %PRODUCTNAME %PRODUCTVERSION"
 
+# 100%
+#. 180A
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_BE.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_BE.LngText.text"
 msgid "Belarusian"
 msgstr "Bielorús"
 
+# 100%
+#. pJ3H
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_BE.LngText.text
 msgid "Installs Belarusian help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en bielorús al %PRODUCTNAME %PRODUCTVERSION"
 
+#. 8Eq#
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SL.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SL.LngText.text"
 msgid "Slovenian"
 msgstr "Eslovè"
 
+#. wLtb
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_SL.LngText.text
 msgid "Installs Slovenian help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en eslovè al %PRODUCTNAME %PRODUCTVERSION"
 
+#. 6di2
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_LV.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_LV.LngText.text"
 msgid "Latvian"
 msgstr "Lletó"
 
+#. qylP
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_LV.LngText.text
 msgid "Installs Latvian help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en letó al %PRODUCTNAME %PRODUCTVERSION"
 
+#. ovap
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_LT.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_LT.LngText.text"
 msgid "Lithuanian"
 msgstr "Lituà"
 
+#. 0Yde
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_LT.LngText.text
 msgid "Installs Lithuanian help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en lituà al %PRODUCTNAME %PRODUCTVERSION"
 
+#. 2hgY
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_EU.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_EU.LngText.text"
 msgid "Basque"
 msgstr "Basc"
 
+#. mmfv
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_EU.LngText.text
 msgid "Installs Basque help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en basc al %PRODUCTNAME %PRODUCTVERSION"
 
+#. Jt3c
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_MK.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_MK.LngText.text"
 msgid "Macedonian"
 msgstr "Macedoni"
 
+#. Xi0z
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_MK.LngText.text
 msgid "Installs Macedonian help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en macedoni al %PRODUCTNAME %PRODUCTVERSION"
 
+#. ENBs
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_CY.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_CY.LngText.text"
 msgid "Welsh"
 msgstr "Gal·lès"
 
+#. yC8j
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_CY.LngText.text
 msgid "Installs Welsh help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en gal·lès al %PRODUCTNAME %PRODUCTVERSION"
 
+#. bRTz
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_GL.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_GL.LngText.text"
 msgid "Galician"
 msgstr "Gallec"
 
+#. N0Uc
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_GL.LngText.text
 msgid "Installs Galician help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en gallec al %PRODUCTNAME %PRODUCTVERSION"
 
+#. R00z
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SH.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SH.LngText.text"
 msgid "Serbian (Latin)"
 msgstr "Serbi (llatí)"
 
+#. fR3c
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_SH.LngText.text
 msgid "Installs Serbian (Latin) help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en serbi (llatí) al %PRODUCTNAME %PRODUCTVERSION"
 
+#. A6bX
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_GA.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_GA.LngText.text"
 msgid "Irish"
 msgstr "Irlandés"
 
+#. uTcw
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_GA.LngText.text
 msgid "Installs Irish help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en irlandés al %PRODUCTNAME %PRODUCTVERSION"
 
+#. 5xm4
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SR.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SR.LngText.text"
 msgid "Serbian (Cyrillic)"
 msgstr "Serbi (ciríl·lic)"
 
+#. tWpV
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_SR.LngText.text
 msgid "Installs Serbian (Cyrillic) help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en serbi (ciríl·lic) al %PRODUCTNAME %PRODUCTVERSION"
 
+#. gXit
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_BS.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_BS.LngText.text"
 msgid "Bosnian"
 msgstr "Bosnià"
 
+#. Owli
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_BS.LngText.text
 msgid "Installs Bosnian help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en bosnià al %PRODUCTNAME %PRODUCTVERSION"
 
+#. cV#S
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_AST.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_AST.LngText.text"
 msgid "Asturian"
 msgstr "Asturià"
 
+#. 50WO
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_AST.LngText.text
 msgid "Installs Asturian help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en asturià al %PRODUCTNAME %PRODUCTVERSION"
 
+#. wEde
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_RW.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_RW.LngText.text"
 msgid "Kinyarwanda"
 msgstr "Kinyarwanda"
 
+#. 8Lap
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_RW.LngText.text
 msgid "Installs Kinyarwanda help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en kinyarwanda al %PRODUCTNAME %PRODUCTVERSION"
 
+#. yoYM
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_FA.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_FA.LngText.text"
 msgid "Farsi"
 msgstr "Persa"
 
+#. EfXD
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_FA.LngText.text
 msgid "Installs Farsi help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en persa al %PRODUCTNAME %PRODUCTVERSION"
 
+#. jnsH
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_TT.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_TT.LngText.text"
 msgid "Tatar"
 msgstr "Tàrtar"
 
+#. VgrA
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_TT.LngText.text
 msgid "Installs Tatar help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en tatar al %PRODUCTNAME %PRODUCTVERSION"
 
+#. Gkkx
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_TS.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_TS.LngText.text"
 msgid "Tsonga"
 msgstr "Tsonga"
 
+#. YrjW
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_TS.LngText.text
 msgid "Installs Tsonga help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en tsonga al %PRODUCTNAME %PRODUCTVERSION"
 
+#. mk8l
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_BR.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_BR.LngText.text"
 msgid "Breton"
 msgstr "Bretó"
 
+#. 2rBq
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_BR.LngText.text
 msgid "Installs Breton help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en bretó al %PRODUCTNAME %PRODUCTVERSION"
 
+#. 2ppE
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_NR.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_NR.LngText.text"
 msgid "Ndebele South"
 msgstr "Ndebele del sud"
 
+#. memL
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_NR.LngText.text
 msgid "Installs Ndebele South help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en ndebele del sud al %PRODUCTNAME %PRODUCTVERSION"
 
+#. VqKS
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SS.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SS.LngText.text"
 msgid "Swazi"
 msgstr "Swazi"
 
+#. jlN7
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_SS.LngText.text
 msgid "Installs Swazi help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en swazi al %PRODUCTNAME %PRODUCTVERSION"
 
+#. iTf9
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_VE.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_VE.LngText.text"
 msgid "Venda"
 msgstr "Venda"
 
+#. U6gI
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_VE.LngText.text
 msgid "Installs Venda help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en venda al %PRODUCTNAME %PRODUCTVERSION"
 
+#. ZOkj
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_KN.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_KN.LngText.text"
 msgid "Kannada"
 msgstr "Kannada"
 
+#. H3js
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_KN.LngText.text
 msgid "Installs Kannada help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en kannada al %PRODUCTNAME %PRODUCTVERSION"
 
+#. FPAt
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_TG.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_TG.LngText.text"
 msgid "Tajik"
 msgstr "Tajik"
 
+#. z29i
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_TG.LngText.text
 msgid "Installs Tajik help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en tajik al %PRODUCTNAME %PRODUCTVERSION"
 
+#. diwC
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_KU.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_KU.LngText.text"
 msgid "Kurdish"
 msgstr "Curd"
 
+#. LtvN
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_KU.LngText.text
 msgid "Installs Kurdish help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en kurd al %PRODUCTNAME %PRODUCTVERSION"
 
+#. lSTu
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_DZ.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_DZ.LngText.text"
 msgid "Dzongkha"
 msgstr "Dzongkha"
 
+#. T7UZ
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_DZ.LngText.text
 msgid "Installs Dzongkha help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en dzongkha al %PRODUCTNAME %PRODUCTVERSION"
 
+#. uRU0
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_KA.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_KA.LngText.text"
 msgid "Georgian"
 msgstr "Georgià"
 
+#. A0TR
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_KA.LngText.text
 msgid "Installs Georgian help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en georgià al %PRODUCTNAME %PRODUCTVERSION"
 
+#. SGQR
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_EO.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_EO.LngText.text"
 msgid "Esperanto"
 msgstr "Esperanto"
 
+#. kBP0
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_EO.LngText.text
 msgid "Installs Esperanto help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en esperanto al %PRODUCTNAME %PRODUCTVERSION"
 
+#. Ln1j
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_GU.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_GU.LngText.text"
 msgid "Gujarati"
 msgstr "Gujarati"
 
+#. dg2s
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_GU.LngText.text
 msgid "Installs Gujarati help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en gujarati al %PRODUCTNAME %PRODUCTVERSION"
 
+#. LA3n
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_EN_ZA.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_EN_ZA.LngText.text"
 msgid "English (South Africa)"
 msgstr "Anglés (Sudafrica)"
 
+#. v0JY
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_EN_ZA.LngText.text
 msgid "Installs English (South Africa) help in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "Instal·la l'ajuda en anglés (Sud-àfrica) al %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+"Instal·la l'ajuda en anglés (Sud-àfrica) al %PRODUCTNAME %PRODUCTVERSION"
 
+#. yJiI
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_EN_GB.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_EN_GB.LngText.text"
 msgid "English (United Kingdom)"
 msgstr "Anglés (Regne Unit)"
 
+#. GPy1
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_EN_GB.LngText.text
 msgid "Installs English (United Kingdom) help in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "Instal·la l'ajuda en anglés (Regne Unit) al %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+"Instal·la l'ajuda en anglés (Regne Unit) al %PRODUCTNAME %PRODUCTVERSION"
 
+#. Q9bJ
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_UZ.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_UZ.LngText.text"
 msgid "Uzbek"
 msgstr "Uzbek"
 
+#. eIc8
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_UZ.LngText.text
 msgid "Installs Uzbek help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en uzbek al %PRODUCTNAME %PRODUCTVERSION"
 
+#. QsJz
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_MN.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_MN.LngText.text"
 msgid "Mongolian"
 msgstr "Mongòl"
 
+#. ejGc
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_MN.LngText.text
 msgid "Installs Mongolian help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en mongol al %PRODUCTNAME %PRODUCTVERSION"
 
+#. hGRO
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_MY.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_MY.LngText.text"
 msgid "Burmese"
 msgstr "Birmà"
 
+#. PBO3
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_MY.LngText.text
 msgid "Installs Burmese (Myanmar) help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en birmà (Myanmar) al %PRODUCTNAME %PRODUCTVERSION"
 
+#. JAWy
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_BO.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_BO.LngText.text"
 msgid "Tibetan"
 msgstr "Tibetà"
 
+#. XHZd
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_BO.LngText.text
 msgid "Installs Tibetan help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en tibetà al %PRODUCTNAME %PRODUCTVERSION"
 
+#. Yn0k
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_OC.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_OC.LngText.text"
 msgid "Occitan"
 msgstr "Occità"
 
+#. Gg3r
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_OC.LngText.text
 msgid "Installs Occitan help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en occità al %PRODUCTNAME %PRODUCTVERSION"
 
+#. ZzKR
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_OM.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_OM.LngText.text"
 msgid "Oromo"
 msgstr "Oromo"
 
+#. HcN0
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_OM.LngText.text
 msgid "Installs Oromo help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en oromo al %PRODUCTNAME %PRODUCTVERSION"
 
+#. 1Fab
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SI.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SI.LngText.text"
 msgid "Sinhala"
 msgstr "Sinhala"
 
+#. pKd#
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_SI.LngText.text
 msgid "Installs Sinhala help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en sinhala al %PRODUCTNAME %PRODUCTVERSION"
 
+#. vjD0
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_UG.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_UG.LngText.text"
 msgid "Uyghur"
 msgstr "Uyghur"
 
+#. BsER
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_UG.LngText.text
 msgid "Installs Uyghur help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en uyghur al %PRODUCTNAME %PRODUCTVERSION"
 
+#. BF0F
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_AS.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_AS.LngText.text"
 msgid "Assamese"
 msgstr "Assamese"
 
+#. vK3K
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_AS.LngText.text
 msgid "Installs Assamese help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en assamese al %PRODUCTNAME %PRODUCTVERSION"
 
+#. t_Hs
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_BRX.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_BRX.LngText.text"
 msgid "Bodo"
 msgstr "Bodo"
 
+#. KWFo
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_BRX.LngText.text
 msgid "Installs Bodo help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en bodo al %PRODUCTNAME %PRODUCTVERSION"
 
+#. vqVK
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_DGO.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_DGO.LngText.text"
 msgid "Dogri"
 msgstr "Dogri"
 
+#. Qh1G
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_DGO.LngText.text
 msgid "Installs Dogri help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en dogri al %PRODUCTNAME %PRODUCTVERSION"
 
+#. 37rw
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_GD.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_GD.LngText.text"
 msgid "Scottish Gaelic"
 msgstr "Gal·lès d'escòcia"
 
+#. nSsX
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_GD.LngText.text
 msgid "Installs Scottish Gaelic help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en gaèlic al %PRODUCTNAME %PRODUCTVERSION"
 
+#. gP#s
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_KK.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_KK.LngText.text"
 msgid "Kazakh"
 msgstr "Kazakh"
 
+#. O2zj
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_KK.LngText.text
 msgid "Installs Kazakh help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en kazakh al %PRODUCTNAME %PRODUCTVERSION"
 
+#. N_6s
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_KOK.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_KOK.LngText.text"
 msgid "Konkani"
 msgstr "Konkani"
 
+#. qWOo
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_KOK.LngText.text
 msgid "Installs Konkani help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en konkani al %PRODUCTNAME %PRODUCTVERSION"
 
+#. 0y6#
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_KS.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_KS.LngText.text"
 msgid "Kashmiri"
 msgstr "Caixmiri"
 
+#. od5b
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_KS.LngText.text
 msgid "Installs Kashmiri help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en caixmiri al %PRODUCTNAME %PRODUCTVERSION"
 
+#. YgsQ
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_MAI.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_MAI.LngText.text"
 msgid "Maithili"
 msgstr "Maithili"
 
+#. 1reU
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_MAI.LngText.text
 msgid "Installs Maithili help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en maithili al %PRODUCTNAME %PRODUCTVERSION"
 
+#. keRC
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_ML.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_ML.LngText.text"
 msgid "Malayalam"
 msgstr "Malaiàlam"
 
+#. SpON
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_ML.LngText.text
 msgid "Installs Malayalam help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en malaiàlam al %PRODUCTNAME %PRODUCTVERSION"
 
+#. nPX3
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_MNI.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_MNI.LngText.text"
 msgid "Manipuri"
 msgstr "Manipuri"
 
+#. I6_7
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_MNI.LngText.text
 msgid "Installs Manipuri help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en manipuri al %PRODUCTNAME %PRODUCTVERSION"
 
+#. 4FYl
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SA_IN.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SA_IN.LngText.text"
 msgid "Sanskrit (India)"
 msgstr "Sànskrit (Índia)"
 
+#. e5oy
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_SA_IN.LngText.text
 msgid "Installs Sanskrit help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en sànscrit al %PRODUCTNAME %PRODUCTVERSION"
 
+#. 3NVt
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SAT.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SAT.LngText.text"
 msgid "Santali"
 msgstr "Santalí"
 
+#. W81p
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_SAT.LngText.text
 msgid "Installs Santali help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en santali al %PRODUCTNAME %PRODUCTVERSION"
 
+#. kISv
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SD.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SD.LngText.text"
 msgid "Sindhi"
 msgstr "Sindhi"
 
+#. S9VY
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_SD.LngText.text
 msgid "Installs Sindhi help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en sindhi al %PRODUCTNAME %PRODUCTVERSION"
 
+#. x726
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_TE.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_TE.LngText.text"
 msgid "Telugu"
 msgstr "Telugu"
 
+#. 9S1T
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_TE.LngText.text
 msgid "Installs Telugu help in %PRODUCTNAME %PRODUCTVERSION"
 msgstr "Instal·la l'ajuda en telugu al %PRODUCTNAME %PRODUCTVERSION"
 
+#. iGU7
 #: module_helppack.ulf#STR_NAME_MODULE_HELPPACK_QTZ.LngText.text
 msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_QTZ.LngText.text"
 msgid "KeyID"
 msgstr "KeyID"
 
+#. FF03
 #: module_helppack.ulf#STR_DESC_MODULE_HELPPACK_QTZ.LngText.text
-msgid "Installs English help in %PRODUCTNAME %PRODUCTVERSION with a key ID before each paragraph"
-msgstr "Instal·la l'ajuda en anglés del %PRODUCTNAME %PRODUCTVERSION amb el key ID abans de cada paràgraf"
+msgid ""
+"Installs English help in %PRODUCTNAME %PRODUCTVERSION with a key ID before "
+"each paragraph"
+msgstr ""
+"Instal·la l'ajuda en anglés del %PRODUCTNAME %PRODUCTVERSION amb el key ID "
+"abans de cada paràgraf"
 
+#. 5veD
 #: directory_ooo.ulf#STR_DIR_INFO.LngText.text
 msgid "Information"
 msgstr "Informació"
 
+#. W#A6
 #: directory_ooo.ulf#STR_DIR_INTERNET.LngText.text
 msgid "Internet"
 msgstr "Internet"
 
+#. A4w9
 #: directory_ooo.ulf#STR_DIR_JAVA.LngText.text
 msgid "Java"
 msgstr "Java"
 
+#. pIyS
 #: directory_ooo.ulf#STR_DIR_FREIZEIT.LngText.text
 msgid "Fun&More"
 msgstr "Entreteniment i més"
 
+#. C4bF
 #: directory_ooo.ulf#STR_DIR_STARONE.LngText.text
 msgid "%PRODUCTNAME API"
 msgstr "API del %PRODUCTNAME"
 
+#. mx1O
 #: directory_ooo.ulf#STR_DIR_TOURISMUS.LngText.text
 msgid "Travel"
 msgstr "Viatge"
 
+#. uJiz
 #: directory_ooo.ulf#STR_DIR_KAPITEL.LngText.text
 msgid "Chapters"
 msgstr "Capítols"
 
+#. tatp
 #: directory_ooo.ulf#STR_DIR_DATEIEN.LngText.text
 msgid "Files"
 msgstr "Fitxers"
 
+#. 99et
 #: module_ooo.ulf#STR_NAME_MODULE_ROOT_OSL.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_ROOT_OSL.LngText.text"
 msgid "%PRODUCTNAME %PRODUCTVERSION"
 msgstr "%PRODUCTNAME %PRODUCTVERSION"
 
+#. FSET
 #: module_ooo.ulf#STR_DESC_MODULE_ROOT_OSL.LngText.text
 msgctxt "module_ooo.ulf#STR_DESC_MODULE_ROOT_OSL.LngText.text"
 msgid "%PRODUCTNAME %PRODUCTVERSION"
 msgstr "%PRODUCTNAME %PRODUCTVERSION"
 
+#. ab6n
 #: module_ooo.ulf#STR_NAME_MODULE_PRG.LngText.text
 msgid "%PRODUCTNAME Program Modules"
 msgstr "Mòduls de programa del %PRODUCTNAME"
 
+#. b9k0
 #: module_ooo.ulf#STR_DESC_MODULE_PRG.LngText.text
 msgid "List of all installable %PRODUCTNAME modules."
 msgstr "Llista de tots els mòduls instal·lables del %PRODUCTNAME."
 
+#. K2eq
 #: module_ooo.ulf#STR_NAME_MODULE_OPTIONAL.LngText.text
 msgid "Optional Components"
 msgstr "Components opcionals"
 
+#. INEU
 #: module_ooo.ulf#STR_DESC_MODULE_OPTIONAL.LngText.text
-msgid "Common components and additional programs shared by all %PRODUCTNAME programs."
-msgstr "Components comuns i programes addicionals compartits per tots els programes del %PRODUCTNAME."
+msgid ""
+"Common components and additional programs shared by all %PRODUCTNAME "
+"programs."
+msgstr ""
+"Components comuns i programes addicionals compartits per tots els programes "
+"del %PRODUCTNAME."
 
+#. 9q3y
 #: module_ooo.ulf#STR_NAME_MODULE_DICTIONARIES.LngText.text
 msgid "Dictionaries"
 msgstr "Diccionaris"
 
+# 80%
+#. ghTu
 #: module_ooo.ulf#STR_DESC_MODULE_DICTIONARIES.LngText.text
 msgid "Spelling dictionaries, hyphenation rules, and thesauri."
 msgstr "Corrector ortogràfic, partició de mots i tesaurus."
 
+#. k63y
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_AF.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_AF.LngText.text"
 msgid "Afrikaans"
 msgstr "Afrikaans"
 
+# 86%
+#. kD7f
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_AF.LngText.text
 msgid "Afrikaans spelling dictionary, and hyphenation rules"
 msgstr "Afrikaans: corrector ortogràfic i partició de mots"
 
+#. 8Qhx
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_AN.LngText.text
 msgid "Aragonese"
 msgstr "Aragonés"
 
+# 79%
+#. 8Hlk
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_AN.LngText.text
 msgid "Aragonese spelling dictionary"
 msgstr "Aragonés: corrector ortogràfic"
 
+#. nndm
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_AR.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_AR.LngText.text"
 msgid "Arabic"
 msgstr "Àrab"
 
+#. nwZb
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_AR.LngText.text
 msgid "Arabic spelling dictionary, and thesaurus"
 msgstr "Àrab: corrector ortogràfic i tesaurus (sinònims i termes relacionats)"
 
+# 100%
+#. Xv3j
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_BE.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_BE.LngText.text"
 msgid "Belarusian"
 msgstr "Bielorús"
 
+# 80%
+#. Xo7u
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_BE.LngText.text
 msgid "Belarusian spelling dictionary"
 msgstr "Bielorús: corrector ortogràfic"
 
+#. LdBS
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_BG.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_BG.LngText.text"
 msgid "Bulgarian"
 msgstr "Búlgar"
 
+#. LiF9
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_BG.LngText.text
 msgid "Bulgarian spelling dictionary, hyphenation rules, and thesaurus"
-msgstr "Búlgar: corrector ortogràfic, partició de mots i tesaurus (sinònims i termes relacionats)"
+msgstr ""
+"Búlgar: corrector ortogràfic, partició de mots i tesaurus (sinònims i termes "
+"relacionats)"
 
+#. fq73
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_BN.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_BN.LngText.text"
 msgid "Bengali"
 msgstr "Bengalí"
 
+#. f_3M
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_BN.LngText.text
 msgid "Bengali spelling dictionary"
 msgstr "Bengalí: corrector ortogràfic"
 
+#. GVB8
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_BR.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_BR.LngText.text"
 msgid "Breton"
 msgstr "Bretó"
 
+#. GKFT
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_BR.LngText.text
 msgid "Breton spelling dictionary"
 msgstr "Bretó: corrector ortogràfic"
 
+#. 43mP
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_CA.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_CA.LngText.text"
 msgid "Catalan"
 msgstr "Català"
 
+#. 48qC
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_CA.LngText.text
 msgid "Catalan spelling dictionary, hyphenation rules, and thesaurus"
-msgstr "Català: corrector ortogràfic, partició de mots i tesaurus (sinònims i termes relacionats)"
+msgstr ""
+"Català: corrector ortogràfic, partició de mots i tesaurus (sinònims i termes "
+"relacionats)"
 
+#. yaed
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_CS.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_CS.LngText.text"
 msgid "Czech"
 msgstr "Txec"
 
+#. ylio
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_CS.LngText.text
 msgid "Czech spelling dictionary, hyphenation rules, and thesaurus"
-msgstr "Txec: corrector ortogràfic, partició de mots i tesaurus (sinònims i termes relacionats)"
+msgstr ""
+"Txec: corrector ortogràfic, partició de mots i tesaurus (sinònims i termes "
+"relacionats)"
 
+#. BPA#
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_DA.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_DA.LngText.text"
 msgid "Danish"
 msgstr "Danés"
 
+#. BIEh
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_DA.LngText.text
 msgid "Danish spelling dictionary, hyphenation rules, and thesaurus"
-msgstr "Danés: corrector ortogràfic, partició de mots i tesaurus (sinònims i termes relacionats)"
+msgstr ""
+"Danés: corrector ortogràfic, partició de mots i tesaurus (sinònims i termes "
+"relacionats)"
 
+#. ON#z
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_DE.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_DE.LngText.text"
 msgid "German"
 msgstr "Alemany"
 
+#. OSwe
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_DE.LngText.text
-msgid "German (Austria, Germany, Switzerland) spelling dictionaries, hyphenation rules, and thesauri"
-msgstr "Alemany (Àustria, Alemanya, Suïssa): corrector ortogràfic, partició de mots i tesaurus (sinònims i termes relacionats)"
+msgid ""
+"German (Austria, Germany, Switzerland) spelling dictionaries, hyphenation "
+"rules, and thesauri"
+msgstr ""
+"Alemany (Àustria, Alemanya, Suïssa): corrector ortogràfic, partició de mots "
+"i tesaurus (sinònims i termes relacionats)"
 
+#. ckza
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_EN.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_EN.LngText.text"
 msgid "English"
 msgstr "Anglés"
 
+#. cbvn
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_EN.LngText.text
-msgid "English spelling dictionaries, hyphenation rules, thesaurus, and grammar checker"
-msgstr "Anglés: corrector ortogràfic i gramatical, partició de mots i tesaurus (sinònims i termes relacionats)"
+msgid ""
+"English spelling dictionaries, hyphenation rules, thesaurus, and grammar "
+"checker"
+msgstr ""
+"Anglés: corrector ortogràfic i gramatical, partició de mots i tesaurus "
+"(sinònims i termes relacionats)"
 
+# 100%
+#. ImrL
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_EL.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_EL.LngText.text"
 msgid "Greek"
 msgstr "Grec"
 
+# 86%
+#. Ixn0
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_EL.LngText.text
 msgid "Greek spelling dictionary, and hyphenation rules"
 msgstr "Grec: corrector ortogràfic i partició de mots"
 
+#. 5ALt
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_ES.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_ES.LngText.text"
 msgid "Spanish"
 msgstr "Espanyol"
 
+#. 51HY
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_ES.LngText.text
 msgid "Spanish spelling dictionary"
 msgstr "Espanyol: corrector ortogràfic"
 
+#. uLDT
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_ET.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_ET.LngText.text"
 msgid "Estonian"
 msgstr "Estonià"
 
+#. uU98
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_ET.LngText.text
 msgid "Estonian spelling dictionary, and hyphenation rules"
 msgstr "Estonià: corrector ortogràfic i partició de mots"
 
+#. #hTN
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_FR.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_FR.LngText.text"
 msgid "French"
 msgstr "Francés"
 
+#. #WP2
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_FR.LngText.text
 msgid "French spelling dictionary, hyphenation rules, and thesaurus"
-msgstr "Francés: corrector ortogràfic, partició de mots i tesaurus (sinònims i termes relacionats)"
+msgstr ""
+"Francés: corrector ortogràfic, partició de mots i tesaurus (sinònims i "
+"termes relacionats)"
 
+# 100%
+#. ZssT
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_GD.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_GD.LngText.text"
 msgid "Scottish Gaelic"
 msgstr "Gal·lès d'escòcia"
 
+#. Zzo8
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_GD.LngText.text
 msgid "Scottish Gaelic spelling dictionary"
 msgstr "Gaèlic escocés: corrector ortogràfic"
 
+#. 5gUQ
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_GL.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_GL.LngText.text"
 msgid "Galician"
 msgstr "Gallec"
 
+#. 5XQF
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_GL.LngText.text
 msgid "Galician spelling dictionary"
 msgstr "Gallec: corrector ortogràfic"
 
+#. r02A
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_GU.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_GU.LngText.text"
 msgid "Gujarati"
 msgstr "Gujarati"
 
+#. rB6V
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_GU.LngText.text
 msgid "Gujarati spelling dictionary"
 msgstr "Gujarati: corrector ortogràfic"
 
+#. gA5S
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_HE.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_HE.LngText.text"
 msgid "Hebrew"
 msgstr "Hebreu"
 
+#. g119
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_HE.LngText.text
 msgid "Hebrew spelling dictionary"
 msgstr "Hebreu: corrector ortogràfic"
 
+#. VOPO
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_HI.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_HI.LngText.text"
 msgid "Hindi"
 msgstr "Hindi"
 
+#. VJTD
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_HI.LngText.text
 msgid "Hindi spelling dictionary"
 msgstr "Hindi: corrector ortogràfic"
 
+#. cpLJ
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_HU.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_HU.LngText.text"
 msgid "Hungarian"
 msgstr "Hongarés"
 
+# 78%
+#. cuH6
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_HU.LngText.text
-msgid "Hungarian spelling dictionary, hyphenation rules, thesaurus, and grammar checker"
-msgstr "Hongarés: corrector ortogràfic i gramatical, partició de mots i tesaurus (sinònims i termes relacionats)"
+msgid ""
+"Hungarian spelling dictionary, hyphenation rules, thesaurus, and grammar "
+"checker"
+msgstr ""
+"Hongarés: corrector ortogràfic i gramatical, partició de mots i tesaurus "
+"(sinònims i termes relacionats)"
 
+#. RiDv
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_HR.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_HR.LngText.text"
 msgid "Croatian"
 msgstr "Croat"
 
+#. Rd9i
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_HR.LngText.text
 msgid "Croatian spelling dictionary, and hyphenation rules"
 msgstr "Croat: corrector ortogràfic i partició de mots"
 
+#. A8sy
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_IT.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_IT.LngText.text"
 msgid "Italian"
 msgstr "Italià"
 
+#. A3of
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_IT.LngText.text
 msgid "Italian spelling dictionary, hyphenation rules, and thesaurus"
-msgstr "Italià: corrector ortogràfic, partició de mots i tesaurus (sinònims i termes relacionats)"
+msgstr ""
+"Italià: corrector ortogràfic, partició de mots i tesaurus (sinònims i termes "
+"relacionats)"
 
+#. oevF
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_KU_TR.LngText.text
 msgid "Kurdish (Turkey)"
 msgstr "Kurd (Turquia)"
 
+#. kk7G
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_KU_TR.LngText.text
 msgid "Kurdish (Turkey) spelling dictionary"
 msgstr "Kurd (Turquia): corrector ortogràfic"
 
+#. I8dK
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_LT.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_LT.LngText.text"
 msgid "Lithuanian"
 msgstr "Lituà"
 
+#. I3Z1
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_LT.LngText.text
 msgid "Lithuanian spelling dictionary, and hyphenation rules"
 msgstr "Lituà: corrector ortogràfic i partició de mots"
 
+#. cMlb
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_LV.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_LV.LngText.text"
 msgid "Latvian"
 msgstr "Letó"
 
+#. cThm
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_LV.LngText.text
 msgid "Latvian spelling dictionary, and hyphenation rules"
 msgstr "Letó: corrector ortogràfic i partició de mots"
 
+#. JauC
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_NE.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_NE.LngText.text"
 msgid "Nepali"
 msgstr "Nepalés"
 
+#. JlyP
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_NE.LngText.text
 msgid "Nepali spelling dictionary, and thesaurus"
-msgstr "Nepalés: corrector ortogràfic i tesaurus (sinònims i termes relacionats)"
+msgstr ""
+"Nepalés: corrector ortogràfic i tesaurus (sinònims i termes relacionats)"
 
+#. ltqJ
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_NL.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_NL.LngText.text"
 msgid "Dutch"
 msgstr "Holandés"
 
+# 88%
+#. lym6
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_NL.LngText.text
 msgid "Dutch spelling dictionary, and hyphenation rules"
 msgstr "Neerlandés: corrector ortogràfic i partició de mots"
 
+#. 1cOw
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_NO.LngText.text
 msgid "Norwegian"
 msgstr "Noruec"
 
+#. 1jSl
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_NO.LngText.text
-msgid "Norwegian (Nynorsk and Bokmal) spelling dictionary, hyphenation rules, and thesaurus"
-msgstr "Noruec (nynorsk i bokmal): corrector ortogràfic, partició de mots i tesaurus (sinònims i termes relacionats)"
+msgid ""
+"Norwegian (Nynorsk and Bokmal) spelling dictionary, hyphenation rules, and "
+"thesaurus"
+msgstr ""
+"Noruec (nynorsk i bokmal): corrector ortogràfic, partició de mots i tesaurus "
+"(sinònims i termes relacionats)"
 
+#. 2039
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_OC.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_OC.LngText.text"
 msgid "Occitan"
 msgstr "Occità"
 
+#. 2B7S
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_OC.LngText.text
 msgid "Occitan spelling dictionary"
 msgstr "Occità: corrector ortogràfic"
 
+#. 9HRX
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_PL.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_PL.LngText.text"
 msgid "Polish"
 msgstr "Polonés"
 
+#. 9QVq
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_PL.LngText.text
 msgid "Polish spelling dictionary, hyphenation rules, and thesaurus"
-msgstr "Polonés: corrector ortogràfic, partició de mots i tesaurus (sinònims i termes relacionats)"
+msgstr ""
+"Polonés: corrector ortogràfic, partició de mots i tesaurus (sinònims i "
+"termes relacionats)"
 
+#. ZqZf
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_PT.LngText.text
 msgid "Brazilian Portuguese"
 msgstr "Portugués (Brasil)"
 
+#. Z_dy
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_PT.LngText.text
-msgid "Brazilian Portuguese spelling Dictionary (1990 Spelling Agreement), and hyphenation rules"
-msgstr "Portugués (Brasil): corrector ortogràfic (normes ortogràfiques de 1990) i partició de mots"
+msgid ""
+"Brazilian Portuguese spelling Dictionary (1990 Spelling Agreement), and "
+"hyphenation rules"
+msgstr ""
+"Portugués (Brasil): corrector ortogràfic (normes ortogràfiques de 1990) i "
+"partició de mots"
 
+#. 7Sza
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_PT_PT.LngText.text
-msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_PT_PT.LngText.text"
+msgctxt ""
+"module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_PT_PT.LngText.text"
 msgid "Portuguese"
 msgstr "Portugués"
 
+#. RQ3x
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_PT_PT.LngText.text
-msgid "European Portuguese spelling dictionary, hyphenation rules, and thesaurus"
-msgstr "Portugués (Portugal): corrector ortogràfic, partició de mots i tesaurus (sinònims i termes relacionats)"
+msgid ""
+"European Portuguese spelling dictionary, hyphenation rules, and thesaurus"
+msgstr ""
+"Portugués (Portugal): corrector ortogràfic, partició de mots i tesaurus "
+"(sinònims i termes relacionats)"
 
+#. mQS7
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_RO.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_RO.LngText.text"
 msgid "Romanian"
 msgstr "Romanés"
 
+#. mHOI
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_RO.LngText.text
 msgid "Romanian spelling dictionary, hyphenation rules, and thesaurus"
-msgstr "Romanés: corrector ortogràfic, partició de mots i tesaurus (sinònims i termes relacionats)"
+msgstr ""
+"Romanés: corrector ortogràfic, partició de mots i tesaurus (sinònims i "
+"termes relacionats)"
 
+#. kXi#
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_RU.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_RU.LngText.text"
 msgid "Russian"
 msgstr "Rus"
 
+#. kgeh
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_RU.LngText.text
 msgid "Russian spelling dictionary, hyphenation rules, and thesaurus"
-msgstr "Rus: corrector ortogràfic, partició de mots i tesaurus (sinònims i termes relacionats)"
+msgstr ""
+"Rus: corrector ortogràfic, partició de mots i tesaurus (sinònims i termes "
+"relacionats)"
 
+# 100%
+#. X#d2
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_SI.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_SI.LngText.text"
 msgid "Sinhala"
 msgstr "Sinhala"
 
+# 85%
+#. XrZN
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_SI.LngText.text
 msgid "Sinhala spelling dictionary"
 msgstr "Sinhala: corrector ortogràfic"
 
+#. LWlp
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_SK.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_SK.LngText.text"
 msgid "Slovak"
 msgstr "Eslovac"
 
+#. Lhhc
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_SK.LngText.text
 msgid "Slovak spelling dictionary, hyphenation rules, and thesaurus"
-msgstr "Eslovac: corrector ortogràfic, partició de mots i tesaurus (sinònims i termes relacionats)"
+msgstr ""
+"Eslovac: corrector ortogràfic, partició de mots i tesaurus (sinònims i "
+"termes relacionats)"
 
+#. e_tP
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_SL.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_SL.LngText.text"
 msgid "Slovenian"
 msgstr "Eslovè"
 
+#. eqpC
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_SL.LngText.text
 msgid "Slovenian spelling dictionary, hyphenation rules, and thesaurus"
-msgstr "Eslovè: corrector ortogràfic, partició de mots i tesaurus (sinònims i termes relacionats)"
+msgstr ""
+"Eslovè: corrector ortogràfic, partició de mots i tesaurus (sinònims i termes "
+"relacionats)"
 
+#. bApZ
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_SR.LngText.text
 msgid "Serbian"
 msgstr "Serbi"
 
+#. b1ts
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_SR.LngText.text
 msgid "Serbian (Cyrillic and Latin) spelling dictionary, and hyphenation rules"
 msgstr "Serbi (ciríl·lic i llatí): corrector ortogràfic i partició de mots"
 
+#. s47W
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_SV.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_SV.LngText.text"
 msgid "Swedish"
 msgstr "Suec"
 
+#. sF3r
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_SV.LngText.text
 msgid "Swedish spelling dictionary, and thesaurus"
 msgstr "Suec: corrector ortogràfic i tesaurus (sinònims i termes relacionats)"
 
+#. iBZu
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_SW.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_SW.LngText.text"
 msgid "Swahili"
 msgstr "Suahili"
 
+#. i0dj
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_SW.LngText.text
 msgid "Swahili spelling dictionary"
 msgstr "Suahili: corrector ortogràfic"
 
+# 100%
+#. Rs1X
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_TE.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_TE.LngText.text"
 msgid "Telugu"
 msgstr "Telugu"
 
+# 86%
+#. Rz5q
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_TE.LngText.text
 msgid "Telugu spelling dictionary, and hyphenation rules"
 msgstr "Telugu: corrector ortogràfic i partició de mots"
 
+#. qhvz
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_TH.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_TH.LngText.text"
 msgid "Thai"
 msgstr "Tai"
 
+#. qWze
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_TH.LngText.text
 msgid "Thai spelling dictionary"
 msgstr "Tai: corrector ortogràfic"
 
+#. iEIZ
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_UK.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_UK.LngText.text"
 msgid "Ukrainian"
 msgstr "Ucraïnés"
 
+#. i5Ms
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_UK.LngText.text
 msgid "Ukrainian spelling dictionary, hyphenation rules, and thesaurus"
-msgstr "Ucraïnés: corrector ortogràfic, partició de mots i tesaurus (sinònims i termes relacionats)"
+msgstr ""
+"Ucraïnés: corrector ortogràfic, partició de mots i tesaurus (sinònims i "
+"termes relacionats)"
 
+#. v#sg
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_VI.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_VI.LngText.text"
 msgid "Vietnamese"
 msgstr "Vietnamita"
 
+#. vro_
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_VI.LngText.text
 msgid "Vietnamese spelling dictionary"
 msgstr "Vietnamita: corrector ortogràfic"
 
+#. o810
 #: module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_ZU.LngText.text
 msgctxt "module_ooo.ulf#STR_NAME_MODULE_EXTENSION_DICTIONARY_ZU.LngText.text"
 msgid "Zulu"
 msgstr "Zulu"
 
+#. o35L
 #: module_ooo.ulf#STR_DESC_MODULE_EXTENSION_DICTIONARY_ZU.LngText.text
 msgid "Zulu hyphenation rules"
 msgstr "Regles de separació de síl·labes per al zulu"
 
+#. nwZX
 #: module_java.ulf#STR_NAME_MODULE_OPTIONAL_JAVA.LngText.text
 msgid "Java Runtime Environment (%JAVAVERSION)"
 msgstr "Entorn d'execució Java (%JAVAVERSION)"
 
+#. 3_j8
 #: module_java.ulf#STR_DESC_MODULE_OPTIONAL_JAVA.LngText.text
 msgid "Component for setting up the Java Environment"
 msgstr "Component per a la configuració de l'entorn Java"
 
+#. 86aR
 #: registryitem_ooo.ulf#STR_REG_VAL_NEW.LngText.text
 msgid "&New"
 msgstr "&Nou"
 
+#. dchs
 #: registryitem_ooo.ulf#STR_REG_VAL_INSTALL.LngText.text
 msgid "&Install"
 msgstr "&Instal·la"
 
+#. v_1f
 #: registryitem_ooo.ulf#STR_REG_VAL_SO60_CONFIGFILE.LngText.text
 msgid "%SXWFORMATNAME %SXWFORMATVERSION Configuration File"
 msgstr "Fitxer de configuració de l'%SXWFORMATNAME %SXWFORMATVERSION"
 
+#. AHto
 #: registryitem_ooo.ulf#STR_REG_VAL_SO50_TEMPLATE_OOO.LngText.text
 msgid "StarOffice 5.0 Template"
 msgstr "Plantilla d'StarOffice 5.0"
 
+#. gWr6
 #: registryitem_ooo.ulf#STR_REG_VAL_APPCAPABILITY_DESCRIPTION_OOO.LngText.text
 msgid "LibreOffice"
 msgstr "LibreOffice"
 
+#. iGR3
 #: module_headless.ulf#STR_NAME_MODULE_OPTIONAL_HEADLESS.LngText.text
 msgid "Headless application support"
 msgstr "Implementació d'aplicacions sense pantalla"
 
+#. VpQZ
 #: module_headless.ulf#STR_DESC_MODULE_OPTIONAL_HEADLESS.LngText.text
 msgid "Component for enabling use %PRODUCTNAME without a display"
 msgstr "Component que permet l'ús del %PRODUCTNAME sense pantalla"
 
+#. hmDr
 #: folderitem_ooo.ulf#STR_FI_NAME_FROMTEMPLATE.LngText.text
 msgid "From Template"
 msgstr "Des d'una plantilla"
 
+#. gIxV
 #: folderitem_ooo.ulf#STR_FI_NAME_OPENDOCUMENT.LngText.text
 msgid "Open Document"
 msgstr "Obri un document"
 
+#. _2R4
 #: folderitem_ooo.ulf#STR_FI_TOOLTIP_SOFFICE.LngText.text
-msgid "LibreOffice, the office productivity suite provided by The Document Foundation. See http://www.documentfoundation.org"
-msgstr "LibreOffice, el programari ofimàtic produït per The Document Foundation. Visiteu http://www.documentfoundation.org"
+msgid ""
+"LibreOffice, the office productivity suite provided by The Document "
+"Foundation. See http://www.documentfoundation.org"
+msgstr ""
+"LibreOffice, el programari ofimàtic produït per The Document Foundation. "
+"Visiteu http://www.documentfoundation.org"
 
+#. Zgkl
 #: module_langpack.ulf#STR_NAME_MODULE_ROOT_LANGPACK.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_ROOT_LANGPACK.LngText.text"
 msgid "Additional user interface languages"
 msgstr "Idiomes d'inferfície d'usuari addicionals"
 
+#. HlW6
 #: module_langpack.ulf#STR_DESC_MODULE_ROOT_LANGPACK.LngText.text
 msgctxt "module_langpack.ulf#STR_DESC_MODULE_ROOT_LANGPACK.LngText.text"
 msgid "Additional user interface languages"
 msgstr "Idiomes d'inferfície d'usuari addicionals"
 
+#. 4L69
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_EN_US.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_EN_US.LngText.text"
 msgid "English"
 msgstr "Anglés"
 
+#. eVMQ
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_EN_US.LngText.text
 msgid "Installs the English user interface"
 msgstr "Instal·la la interfície d'usuari en anglés"
 
+#. hmZE
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_DE.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_DE.LngText.text"
 msgid "German"
 msgstr "Alemany"
 
+#. PhWL
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_DE.LngText.text
 msgid "Installs the German user interface"
 msgstr "Instal·la la interfície d'usuari en alemany"
 
+#. DC0a
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_FR.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_FR.LngText.text"
 msgid "French"
 msgstr "Francés"
 
+#. _N3_
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_FR.LngText.text
 msgid "Installs the French user interface"
 msgstr "Instal·la la interfície d'usuari en francés"
 
+#. vlhF
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_IT.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_IT.LngText.text"
 msgid "Italian"
 msgstr "Italià"
 
+#. BqeK
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_IT.LngText.text
 msgid "Installs the Italian user interface"
 msgstr "Instal·la la interfície d'usuari en italià"
 
+#. sj84
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ES.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ES.LngText.text"
 msgid "Spanish"
 msgstr "Espanyol"
 
+#. 4sBV
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_ES.LngText.text
 msgid "Installs the Spanish user interface"
 msgstr "Instal·la la interfície d'usuari en espanyol"
 
+#. 5ZQJ
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SV.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SV.LngText.text"
 msgid "Swedish"
 msgstr "Suec"
 
+#. tuP8
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_SV.LngText.text
 msgid "Installs the Swedish user interface"
 msgstr "Instal·la la interfície d'usuari en suec"
 
+#. GJ#Q
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_PT.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_PT.LngText.text"
 msgid "Portuguese"
 msgstr "Portugués"
 
+#. Y8z1
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_PT.LngText.text
 msgctxt "module_langpack.ulf#STR_DESC_MODULE_LANGPACK_PT.LngText.text"
 msgid "Installs the Portuguese user interface"
 msgstr "Instal·la la interfície d'usuari en portugués"
 
+#. 4GHJ
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_PT_BR.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_PT_BR.LngText.text"
 msgid "Portuguese (Brazil)"
 msgstr "Portugués (Brasil)"
 
+#. eQ10
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_PT_BR.LngText.text
 msgctxt "module_langpack.ulf#STR_DESC_MODULE_LANGPACK_PT_BR.LngText.text"
 msgid "Installs the Portuguese user interface"
 msgstr "Instal·la la interfície d'usuari en portugués"
 
+#. Tv7Z
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_JA.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_JA.LngText.text"
 msgid "Japanese"
 msgstr "Japonés"
 
+#. lY4u
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_JA.LngText.text
 msgid "Installs the Japanese user interface"
 msgstr "Instal·la la interfície d'usuari en japonés"
 
+#. g1KX
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_KO.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_KO.LngText.text"
 msgid "Korean"
 msgstr "Coreà"
 
+#. OQNw
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_KO.LngText.text
 msgid "Installs the Korean user interface"
 msgstr "Instal·la la interfície d'usuari en coreà"
 
+#. JODj
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ZH_CN.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ZH_CN.LngText.text"
 msgid "Chinese (simplified)"
 msgstr "Xinés (simplificat)"
 
+#. _IT#
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_ZH_CN.LngText.text
 msgid "Installs the Chinese (simplified) user interface"
 msgstr "Instal·la la interfície d'usuari en xinés (simplificat)"
 
+#. l9K6
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ZH_TW.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ZH_TW.LngText.text"
 msgid "Chinese (traditional)"
 msgstr "Xinés (tradicional)"
 
+#. 334L
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_ZH_TW.LngText.text
 msgid "Installs the Chinese (traditional) user interface"
 msgstr "Instal·la la interfície d'usuari en xinés (tradicional)"
 
+#. SGfW
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_NL.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_NL.LngText.text"
 msgid "Dutch"
 msgstr "Holandés"
 
+#. kBgx
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_NL.LngText.text
 msgid "Installs the Dutch user interface"
 msgstr "Instal·la la interfície d'usuari en holandés"
 
+#. LK8W
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_HU.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_HU.LngText.text"
 msgid "Hungarian"
 msgstr "Hongarés"
 
+#. dFBx
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_HU.LngText.text
 msgid "Installs the Hungarian user interface"
 msgstr "Instal·la la interfície d'usuari en hongarés"
 
+#. ws6I
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_PL.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_PL.LngText.text"
 msgid "Polish"
 msgstr "Polonés"
 
+#. 8j59
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_PL.LngText.text
 msgid "Installs the Polish user interface"
 msgstr "Instal·la la interfície d'usuari en polonés"
 
+#. T6nD
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_RU.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_RU.LngText.text"
 msgid "Russian"
 msgstr "Rus"
 
+#. lToM
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_RU.LngText.text
 msgid "Installs the Russian user interface"
 msgstr "Instal·la la interfície d'usuari en rus"
 
+#. PtKt
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TR.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TR.LngText.text"
 msgid "Turkish"
 msgstr "Turc"
 
+#. hiNi
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_TR.LngText.text
 msgid "Installs the Turkish user interface"
 msgstr "Instal·la la interfície d'usuari en turc"
 
+#. XNec
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_EL.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_EL.LngText.text"
 msgid "Greek"
 msgstr "Grec"
 
+#. JChz
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_EL.LngText.text
 msgid "Installs the Greek user interface"
 msgstr "Instal·la la interfície d'usuari en grec"
 
+#. 7CaE
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TH.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TH.LngText.text"
 msgid "Thai"
 msgstr "Tai"
 
+#. rNdL
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_TH.LngText.text
 msgid "Installs the Thai user interface"
 msgstr "Instal·la la interfície d'usuari en tai"
 
+#. F3rK
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_CS.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_CS.LngText.text"
 msgid "Czech"
 msgstr "Txec"
 
+#. zOsF
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_CS.LngText.text
 msgid "Installs the Czech user interface"
 msgstr "Instal·la la interfície d'usuari en txec"
 
+#. c7o0
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SK.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SK.LngText.text"
 msgid "Slovak"
 msgstr "Eslovac"
 
+#. KSnR
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_SK.LngText.text
 msgid "Installs the Slovak user interface"
 msgstr "Instal·la la interfície d'usuari en eslovac"
 
+#. eBGA
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_HR.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_HR.LngText.text"
 msgid "Croatian"
 msgstr "Croat"
 
+#. QGJH
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_HR.LngText.text
 msgid "Installs the Croatian user interface"
 msgstr "Instal·la la interfície d'usuari en croat"
 
+#. BoGk
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ET.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ET.LngText.text"
 msgid "Estonian"
 msgstr "Estonià"
 
+#. vfJr
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_ET.LngText.text
 msgid "Installs the Estonian user interface"
 msgstr "Instal·la la interfície d'usuari en estonià"
 
+#. APhP
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_VI.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_VI.LngText.text"
 msgid "Vietnamese"
 msgstr "Vietnamita"
 
+#. u2e2
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_VI.LngText.text
 msgid "Installs the Vietnamese user interface"
 msgstr "Instal·la la interfície d'usuari en vietnamita"
 
+#. c0Ml
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_BG.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_BG.LngText.text"
 msgid "Bulgarian"
 msgstr "Búlgar"
 
+#. KRLq
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_BG.LngText.text
 msgid "Installs the Bulgarian user interface"
 msgstr "Instal·la la interfície d'usuari en búlgar"
 
+#. UVSG
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_KM.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_KM.LngText.text"
 msgid "Khmer"
 msgstr "Khmer"
 
+#. i4VB
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_KM.LngText.text
 msgid "Installs the Khmer user interface"
 msgstr "Instal·la la interfície d'usuari en khmer"
 
+#. 76bs
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_PA_IN.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_PA_IN.LngText.text"
 msgid "Punjabi"
 msgstr "Panjabi"
 
+#. hCrb
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_PA_IN.LngText.text
 msgid "Installs the Punjabi user interface"
 msgstr "Instal·la la interfície d'usuari en panjabi"
 
+#. xVeH
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TA.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TA.LngText.text"
 msgid "Tamil"
 msgstr "Tàmil"
 
+#. 94hA
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_TA.LngText.text
 msgid "Installs the Tamil user interface"
 msgstr "Instal·la la interfície d'usuari en tàmil"
 
+#. i_4h
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_HI.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_HI.LngText.text"
 msgid "Hindi"
 msgstr "Hindi"
 
+#. Ua7m
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_HI.LngText.text
 msgid "Installs the Hindi user interface"
 msgstr "Instal·la la interfície d'usuari en hindi"
 
+#. nzIY
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ST.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ST.LngText.text"
 msgid "Southern Sotho (Sutu)"
 msgstr "Sotho del sud (Sutu)"
 
+#. 3cHv
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_ST.LngText.text
 msgid "Installs the Southern Sotho (Sutu) user interface"
 msgstr "Instal·la la interfície d'usuari en sotho del sud (sutu)"
 
+#. WSOy
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TN.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TN.LngText.text"
 msgid "Tswana"
 msgstr "Tswana"
 
+#. I7Rd
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_TN.LngText.text
 msgid "Installs the Tswana user interface"
 msgstr "Instal·la la interfície d'usuari en tswana"
 
+#. rHVl
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_XH.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_XH.LngText.text"
 msgid "Xhosa"
 msgstr "Xhosa"
 
+#. 7ASq
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_XH.LngText.text
 msgid "Installs the Xhosa user interface"
 msgstr "Instal·la la interfície d'usuari en xhosa"
 
+#. 1lSp
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ZU.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ZU.LngText.text"
 msgid "Zulu"
 msgstr "Zulu"
 
+#. pqVe
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_ZU.LngText.text
 msgid "Installs the Zulu user interface"
 msgstr "Instal·la la interfície d'usuari en zulu"
 
+#. TXUF
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_AF.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_AF.LngText.text"
 msgid "Afrikaans"
 msgstr "Afrikaans"
 
+#. lwTK
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_AF.LngText.text
 msgid "Installs the Afrikaans user interface"
 msgstr "Instal·la la interfície d'usuari en afrikaans"
 
+#. DzFi
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SW_TZ.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SW_TZ.LngText.text"
 msgid "Swahili"
 msgstr "Suahili"
 
+#. XtV_
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_SW_TZ.LngText.text
 msgid "Installs the Swahili user interface"
 msgstr "Instal·la la interfície d'usuari en suahili"
 
+#. bRk6
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_LO.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_LO.LngText.text"
 msgid "Lao"
 msgstr "Laosià"
 
+#. N0jT
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_LO.LngText.text
 msgid "Installs the Lao user interface"
 msgstr "Instal·la la interfície d'usuari en laosià"
 
+# 100%
+#. u65C
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_MY.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_MY.LngText.text"
 msgid "Burmese"
 msgstr "Birmà"
 
+#. AT6N
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_MY.LngText.text
 msgid "Installs the Burmese (Myanmar) user interface"
 msgstr "Instal·la la interfície d'usuari en birmà (myanmar)"
 
+# 100%
+#. ZDPD
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_NSO.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_NSO.LngText.text"
 msgid "Northern Sotho"
 msgstr "Sotho del nord"
 
+#. 0I79
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_NSO.LngText.text
 msgid "Installs the Northern Sotho user interface"
 msgstr "Instal·la la interfície d'usuari en sotho del nord"
 
+#. QJQm
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_BN.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_BN.LngText.text"
 msgid "Bengali"
 msgstr "Bengalí"
 
+#. e8Ph
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_BN.LngText.text
 msgid "Installs the Bengali user interface"
 msgstr "Instal·la la interfície d'usuari en bengalí"
 
+#. dHgj
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_OR.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_OR.LngText.text"
 msgid "Oriya"
 msgstr "Oriya"
 
+#. LAfs
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_OR.LngText.text
 msgid "Installs the Oriya user interface"
 msgstr "Instal·la la interfície d'usuari en oriya"
 
+#. mB1Y
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_MR.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_MR.LngText.text"
 msgid "Marathi"
 msgstr "Marathi"
 
+#. 2G2v
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_MR.LngText.text
 msgid "Installs the Marathi user interface"
 msgstr "Instal·la la interfície d'usuari en marathí"
 
+#. W3b_
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_NE.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_NE.LngText.text"
 msgid "Nepali"
 msgstr "Nepalés"
 
+#. IOca
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_NE.LngText.text
 msgid "Installs the Nepali user interface"
 msgstr "Instal·la la interfície d'usuari en nepalés"
 
+#. 2Mw3
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_AR.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_AR.LngText.text"
 msgid "Arabic"
 msgstr "Àrab"
 
+#. mDvO
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_AR.LngText.text
 msgid "Installs the Arabic user interface"
 msgstr "Instal·la la interfície d'usuari en àrab"
 
+#. tajg
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_CA.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_CA.LngText.text"
 msgid "Catalan"
 msgstr "Català"
 
+#. 5_kn
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_CA.LngText.text
 msgid "Installs the Catalan user interface"
 msgstr "Instal·la la interfície d'usuari en català"
 
+#. HHdo
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_CA_XV.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_CA_XV.LngText.text"
 msgid "Catalan (Valencian)"
 msgstr "Català (valencià)"
 
+#. zRtX
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_CA_XV.LngText.text
 msgid "Installs the Catalan (Valencian) user interface"
 msgstr "Instal·la la interfície d'usuari en català (valencià)"
 
+#. u#ND
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_DA.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_DA.LngText.text"
 msgid "Danish"
 msgstr "Danés"
 
+#. AbKM
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_DA.LngText.text
 msgid "Installs the Danish user interface"
 msgstr "Instal·la la interfície d'usuari en danés"
 
+#. 9uK5
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_FI.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_FI.LngText.text"
 msgid "Finnish"
 msgstr "Finés"
 
+#. xZNU
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_FI.LngText.text
 msgid "Installs the Finnish user interface"
 msgstr "Instal·la la interfície d'usuari en finés"
 
+#. PjOl
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_HE.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_HE.LngText.text"
 msgid "Hebrew"
 msgstr "Hebreu"
 
+#. hsRq
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_HE.LngText.text
 msgid "Installs the Hebrew user interface"
 msgstr "Instal·la la interfície d'usuari en hebreu"
 
+#. 4mpb
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_IS.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_IS.LngText.text"
 msgid "Icelandic"
 msgstr "Islandés"
 
+#. shm#
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_IS.LngText.text
 msgid "Installs the Icelandic user interface"
 msgstr "Instal·la la interfície d'usuari en islandés"
 
+#. TSzL
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_NB.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_NB.LngText.text"
 msgid "Norwegian (Bokmål)"
 msgstr "Noruec (Bokmål)"
 
+#. l7#E
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_NB.LngText.text
 msgid "Installs the Norwegian (Bokmål) user interface"
 msgstr "Instal·la la interfície d'usuari en noruec (bokmal)"
 
+#. eEXH
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_NN.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_NN.LngText.text"
 msgid "Norwegian (Nynorsk)"
 msgstr "Noruec (Nynorsk)"
 
+#. QLYA
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_NN.LngText.text
 msgid "Installs the Norwegian (Nynorsk) user interface"
 msgstr "Instal·la la interfície d'usuari en noruec (nynorsk)"
 
+#. 3z1q
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_RO.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_RO.LngText.text"
 msgid "Romanian"
 msgstr "Romanés"
 
+#. nc2l
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_RO.LngText.text
 msgid "Installs the Romanian user interface"
 msgstr "Instal·la la interfície d'usuari en romanés"
 
+#. uy2v
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SQ.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SQ.LngText.text"
 msgid "Albanian"
 msgstr "Albanés"
 
+#. Ad1Y
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_SQ.LngText.text
 msgid "Installs the Albanian user interface"
 msgstr "Instal·la la interfície d'usuari en albanés"
 
+#. rMx0
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ID.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ID.LngText.text"
 msgid "Indonesian"
 msgstr "Indonesi"
 
+#. 7DuR
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_ID.LngText.text
 msgid "Installs the Indonesian user interface"
 msgstr "Instal·la la interfície d'usuari en indonesi"
 
+#. VfFG
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_UK.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_UK.LngText.text"
 msgid "Ukrainian"
 msgstr "Ucraïnés"
 
+#. joCB
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_UK.LngText.text
 msgid "Installs the Ukrainian user interface"
 msgstr "Instal·la la interfície d'usuari en ucraïnés"
 
+# 100%
+#. IUUU
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_BE.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_BE.LngText.text"
 msgid "Belarusian"
 msgstr "Bielorús"
 
+#. W5T5
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_BE.LngText.text
 msgid "Installs the Belarusian user interface"
 msgstr "Instal·la la interfície d'usuari en bielorús"
 
+#. ROgg
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SL.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SL.LngText.text"
 msgid "Slovenian"
 msgstr "Eslovè"
 
+#. f3fn
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_SL.LngText.text
 msgid "Installs the Slovenian user interface"
 msgstr "Instal·la la interfície d'usuari en eslovè"
 
+#. LnoM
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_LV.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_LV.LngText.text"
 msgid "Latvian"
 msgstr "Letó"
 
+#. dgnD
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_LV.LngText.text
 msgid "Installs the Latvian user interface"
 msgstr "Instal·la la interfície d'usuari en letó"
 
+#. Xlwd
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_LT.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_LT.LngText.text"
 msgid "Lithuanian"
 msgstr "Lituà"
 
+#. Jqvy
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_LT.LngText.text
 msgid "Installs the Lithuanian user interface"
 msgstr "Instal·la la interfície d'usuari en lituà"
 
+#. Hzqs
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_EU.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_EU.LngText.text"
 msgid "Basque"
 msgstr "Basc"
 
+#. Zctj
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_EU.LngText.text
 msgid "Installs the Basque user interface"
 msgstr "Instal·la la interfície d'usuari en basc"
 
+#. 0XTo
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_MK.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_MK.LngText.text"
 msgid "Macedonian"
 msgstr "Macedoni"
 
+#. owUf
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_MK.LngText.text
 msgid "Installs the Macedonian user interface"
 msgstr "Instal·la la interfície d'usuari en macedoni"
 
+#. T1LY
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_CY.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_CY.LngText.text"
 msgid "Welsh"
 msgstr "Gal·lès"
 
+#. lQMv
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_CY.LngText.text
 msgid "Installs the Welsh user interface"
 msgstr "Instal·la la interfície d'usuari en gal·lès"
 
+#. sD3f
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_GL.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_GL.LngText.text"
 msgid "Galician"
 msgstr "Gallec"
 
+#. 4M0o
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_GL.LngText.text
 msgid "Installs the Galician user interface"
 msgstr "Instal·la la interfície d'usuari en gallec"
 
+#. 8MUf
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SH.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SH.LngText.text"
 msgid "Serbian (Latin)"
 msgstr "Serbi (llatí)"
 
+#. wDTo
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_SH.LngText.text
 msgid "Installs the Serbian (Latin) user interface"
 msgstr "Instal·la la interfície d'usuari en serbi (llatí)"
 
+#. PGxr
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_GA.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_GA.LngText.text"
 msgid "Irish"
 msgstr "Irlandés"
 
+#. hBuk
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_GA.LngText.text
 msgid "Installs the Irish user interface"
 msgstr "Instal·la la interfície d'usuari en irlandés"
 
+#. MjkG
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SR.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SR.LngText.text"
 msgid "Serbian (Cyrillic)"
 msgstr "Serbi (ciríl·lic)"
 
+#. asjB
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_SR.LngText.text
 msgid "Installs the Serbian (Cyrillic) user interface"
 msgstr "Instal·la la interfície d'usuari en serbi (ciríl·lic)"
 
+#. vtoZ
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_BS.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_BS.LngText.text"
 msgid "Bosnian"
 msgstr "Bosnià"
 
+#. Binu
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_BS.LngText.text
 msgid "Installs the Bosnian user interface"
 msgstr "Instal·la la interfície d'usuari en bosnià"
 
+#. 6LDp
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_AST.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_AST.LngText.text"
 msgid "Asturian"
 msgstr "Asturià"
 
+#. bAJt
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_AST.LngText.text
 msgid "Installs the Asturian user interface"
 msgstr "Instal·la la interfície d'usuari en asturià"
 
+#. fOvy
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_RW.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_RW.LngText.text"
 msgid "Kinyarwanda"
 msgstr "Kinyarwanda"
 
+#. R3wd
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_RW.LngText.text
 msgid "Installs the Kinyarwanda user interface"
 msgstr "Instal·la la interfície d'usuari en kinyarwanda"
 
+#. lay2
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_FA.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_FA.LngText.text"
 msgid "Farsi"
 msgstr "Persa"
 
+#. T__P
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_FA.LngText.text
 msgid "Installs the Farsi user interface"
 msgstr "Instal·la la interfície d'usuari en persa"
 
+#. #de5
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TT.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TT.LngText.text"
 msgid "Tatar"
 msgstr "Tàrtar"
 
+#. CyhU
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_TT.LngText.text
 msgid "Installs the Tatar user interface"
 msgstr "Instal·la la interfície d'usuari en tatar"
 
+#. 3uml
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TS.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TS.LngText.text"
 msgid "Tsonga"
 msgstr "Tsonga"
 
+#. nZpq
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_TS.LngText.text
 msgid "Installs the Tsonga user interface"
 msgstr "Instal·la la interfície d'usuari en tsonga"
 
+#. ZuMx
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_BR.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_BR.LngText.text"
 msgid "Breton"
 msgstr "Bretó"
 
+#. HZLW
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_BR.LngText.text
 msgid "Installs the Breton user interface"
 msgstr "Instal·la la interfície d'usuari en bretó"
 
+#. HbjQ
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_NR.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_NR.LngText.text"
 msgid "Ndebele South"
 msgstr "Ndebele del sud"
 
+#. Z#k1
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_NR.LngText.text
 msgid "Installs the Ndebele South user interface"
 msgstr "Instal·la la interfície d'usuari en ndebele del sud"
 
+#. CYA8
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SS.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SS.LngText.text"
 msgid "Swazi"
 msgstr "Swazi"
 
+#. #v9J
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_SS.LngText.text
 msgid "Installs the Swazi user interface"
 msgstr "Instal·la la interfície d'usuari en swazi"
 
+#. _BtT
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_VE.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_VE.LngText.text"
 msgid "Venda"
 msgstr "Venda"
 
+#. DGq6
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_VE.LngText.text
 msgid "Installs the Venda user interface"
 msgstr "Instal·la la interfície d'usuari en venda"
 
+#. mEmv
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_KN.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_KN.LngText.text"
 msgid "Kannada"
 msgstr "Kannada"
 
+#. 2LpY
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_KN.LngText.text
 msgid "Installs the Kannada user interface"
 msgstr "Instal·la la interfície d'usuari en kannada"
 
+#. SFKZ
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TG.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TG.LngText.text"
 msgid "Tajik"
 msgstr "Tajik"
 
+#. kKNu
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_TG.LngText.text
 msgid "Installs the Tajik user interface"
 msgstr "Instal·la la interfície d'usuari en tajik"
 
+#. qwaO
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_KU.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_KU.LngText.text"
 msgid "Kurdish"
 msgstr "Kurd"
 
+#. 6Xd3
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_KU.LngText.text
 msgid "Installs the Kurdish user interface"
 msgstr "Instal·la la interfície d'usuari en kurd"
 
+#. yA3i
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_DZ.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_DZ.LngText.text"
 msgid "Dzongkha"
 msgstr "Dzongkha"
 
+#. EH0t
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_DZ.LngText.text
 msgid "Installs the Dzongkha user interface"
 msgstr "Instal·la la interfície d'usuari en dzongkha"
 
+#. hD0K
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_KA.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_KA.LngText.text"
 msgid "Georgian"
 msgstr "Georgià"
 
+#. PM3F
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_KA.LngText.text
 msgid "Installs the Georgian user interface"
 msgstr "Instal·la la interfície d'usuari en georgià"
 
+#. F64F
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_EO.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_EO.LngText.text"
 msgid "Esperanto"
 msgstr "Esperanto"
 
+#. zT7K
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_EO.LngText.text
 msgid "Installs the Esperanto user interface"
 msgstr "Instal·la la interfície d'usuari en esperanto"
 
+#. 6dVv
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_GU.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_GU.LngText.text"
 msgid "Gujarati"
 msgstr "Gujarati"
 
+#. qySY
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_GU.LngText.text
 msgid "Installs the Gujarati user interface"
 msgstr "Instal·la la interfície d'usuari en guajarati"
 
+#. l19k
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_EN_ZA.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_EN_ZA.LngText.text"
 msgid "English (South Africa)"
 msgstr "Anglés (Sud-àfrica)"
 
+#. 3BPz
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_EN_ZA.LngText.text
 msgid "Installs the English (South Africa) user interface"
 msgstr "Instal·la la interfície d'usuari en anglés (sud-àfrica)"
 
+#. 6OcD
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_EN_GB.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_EN_GB.LngText.text"
 msgid "English (United Kingdom)"
 msgstr "Anglés (Regne Unit)"
 
+#. gIsU
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_EN_GB.LngText.text
 msgid "Installs the English (United Kingdom) user interface"
 msgstr "Instal·la la interfície d'usuari en anglés (Regne Unit)"
 
+#. 9Vx7
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_UZ.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_UZ.LngText.text"
 msgid "Uzbek"
 msgstr "Uzbek"
 
+#. x4uS
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_UZ.LngText.text
 msgid "Installs the Uzbek user interface"
 msgstr "Instal·la la interfície d'usuari en uzbek"
 
+#. 9WDf
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_MN.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_MN.LngText.text"
 msgid "Mongolian"
 msgstr "Mongol"
 
+#. xxEo
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_MN.LngText.text
 msgid "Installs the Mongolian user interface"
 msgstr "Instal·la la interfície d'usuari en mongol"
 
+#. 0S#e
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_BO.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_BO.LngText.text"
 msgid "Tibetan"
 msgstr "Tibetà"
 
+#. o7zp
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_BO.LngText.text
 msgid "Installs the Tibetan user interface"
 msgstr "Instal·la la interfície d'usuari en tibetà"
 
+#. ndUw
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_OC.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_OC.LngText.text"
 msgid "Occitan"
 msgstr "Occità"
 
+#. 3yTX
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_OC.LngText.text
 msgid "Installs the Occitan user interface"
 msgstr "Instal·la la interfície d'usuari en occità"
 
+#. mhAF
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_OM.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_OM.LngText.text"
 msgid "Oromo"
 msgstr "Oromo"
 
+#. 2m9K
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_OM.LngText.text
 msgid "Installs the Oromo user interface"
 msgstr "Instal·la la interfície d'usuari en oromo"
 
+#. IPwn
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SI.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SI.LngText.text"
 msgid "Sinhala"
 msgstr "Sinhala"
 
+#. W2vg
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_SI.LngText.text
 msgid "Installs the Sinhala user interface"
 msgstr "Instal·la la interfície d'usuari en sinhala"
 
+#. gxJK
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_UG.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_UG.LngText.text"
 msgid "Uyghur"
 msgstr "Uyghur"
 
+#. OWGF
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_UG.LngText.text
 msgid "Installs the Uyghur user interface"
 msgstr "Instal·la la interfície d'usuari en uyghur"
 
+#. OPUR
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_AS.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_AS.LngText.text"
 msgid "Assamese"
 msgstr "Assamese"
 
+#. g2T0
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_AS.LngText.text
 msgid "Installs the Assamese user interface"
 msgstr "Instal·la la interfície d'usuari en assamese"
 
+#. NrYP
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_BRX.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_BRX.LngText.text"
 msgid "Bodo"
 msgstr "Bodo"
 
+#. qgyT
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_BRX.LngText.text
 msgid "Installs the Bodo user interface"
 msgstr "Instal·la la interfície d'usuari en bodo"
 
+#. P#ix
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_DGO.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_DGO.LngText.text"
 msgid "Dogri"
 msgstr "Dogri"
 
+#. wXo_
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_DGO.LngText.text
 msgid "Installs the Dogri user interface"
 msgstr "Instal·la la interfície d'usuari en dogri"
 
+#. GHhk
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_GD.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_GD.LngText.text"
 msgid "Scottish Gaelic"
 msgstr "Gaèl·lic escocés"
 
+#. YAer
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_GD.LngText.text
 msgid "Installs the Scottish Gaelic user interface"
 msgstr "Instal·la la interfície d'usuari en gaèl·lic escocés"
 
+#. vFWY
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_KK.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_KK.LngText.text"
 msgid "Kazakh"
 msgstr "Kazakh"
 
+#. BKZv
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_KK.LngText.text
 msgid "Installs the Kazakh user interface"
 msgstr "Instal·la la interfície d'usuari en kazakh"
 
+#. trrP
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_KOK.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_KOK.LngText.text"
 msgid "Konkani"
 msgstr "Konkani"
 
+#. KghT
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_KOK.LngText.text
 msgid "Installs the Konkani user interface"
 msgstr "Instal·la la interfície d'usuari en konkani"
 
+#. JgOg
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_KS.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_KS.LngText.text"
 msgid "Kashmiri"
 msgstr "Caixmiri"
 
+#. XnRn
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_KS.LngText.text
 msgid "Installs the Kashmiri user interface"
 msgstr "Instal·la la interfície d'usuari en caixmiri"
 
+#. 2W5r
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_MAI.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_MAI.LngText.text"
 msgid "Maithili"
 msgstr "Maithili"
 
+#. X_Rn
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_MAI.LngText.text
 msgid "Installs the Maithili user interface"
 msgstr "Instal·la la interfície d'usuari en maithili"
 
+#. z#5O
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ML.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ML.LngText.text"
 msgid "Malayalam"
 msgstr "Malaiàlam"
 
+#. Fb63
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_ML.LngText.text
 msgid "Installs the Malayalam user interface"
 msgstr "Instal·la la interfície d'usuari en malaiàlam"
 
+#. HJIi
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_MNI.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_MNI.LngText.text"
 msgid "Manipuri"
 msgstr "Manipuri"
 
+#. oCCe
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_MNI.LngText.text
 msgid "Installs the Manipuri user interface"
 msgstr "Instal·la la interfície d'usuari en manipuri"
 
+#. #4em
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SA_IN.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SA_IN.LngText.text"
 msgid "Sanskrit (India)"
 msgstr "Sànscrit (Índia)"
 
+#. IEuZ
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_SA_IN.LngText.text
 msgid "Installs the Sanskrit user interface"
 msgstr "Instal·la la interfície d'usuari en sànscrit"
 
+#. ZTiO
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SAT.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SAT.LngText.text"
 msgid "Santali"
 msgstr "Santali"
 
+#. 02oS
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_SAT.LngText.text
 msgid "Installs the Santali user interface"
 msgstr "Instal·la la interfície d'usuari en santalí"
 
+#. z42j
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SD.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SD.LngText.text"
 msgid "Sindhi"
 msgstr "Sindhi"
 
+#. FV1s
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_SD.LngText.text
 msgid "Installs the Sindhi user interface"
 msgstr "Instal·la la interfície d'usuari en sindhi"
 
+#. eHSI
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TE.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TE.LngText.text"
 msgid "Telugu"
 msgstr "Tigrinya"
 
+#. QAV9
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_TE.LngText.text
 msgid "Installs the Telugu user interface"
 msgstr "Instal·la la interfície d'usuari en telugu"
 
+#. A6MQ
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_LB.LngText.text
 msgid "Luxembourgish"
 msgstr "Luxemburgués"
 
+#. uTL1
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_LB.LngText.text
 msgid "Installs the Luxembourgish user interface"
 msgstr "Instal·la la interfície d'usuari en luxemburgués"
 
+#. CQje
 #: module_langpack.ulf#STR_NAME_MODULE_LANGPACK_QTZ.LngText.text
 msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_QTZ.LngText.text"
 msgid "KeyID"
 msgstr "KeyID"
 
+#. l5pi
 #: module_langpack.ulf#STR_DESC_MODULE_LANGPACK_QTZ.LngText.text
-msgid "Installs the English user interface with a key ID before each UI element"
-msgstr "Instal·la la interfície d'usuari en anglés amb el key ID abans de cada element del UI"
+msgid ""
+"Installs the English user interface with a key ID before each UI element"
+msgstr ""
+"Instal·la la interfície d'usuari en anglés amb el key ID abans de cada "
+"element del UI"
+
+#~ msgid ""
+#~ "English (Australia, Canada, South Africa, UK, USA) spelling dictionaries, "
+#~ "hyphenation rules, and thesaurus"
+#~ msgstr ""
+#~ "Diccionari ortogràfic anglès (Austràlia, Canadà, Sudàfrica, UK, USA), "
+#~ "regles de partició de mots, i tesaurus"
+
+#~ msgid "Hungarian spelling dictionary, hyphenation rules, and thesaurus"
+#~ msgstr ""
+#~ "Diccionari ortogràfic, de partició de mots i tesaurus per a l'hongarès"
+
+#~ msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_TA_IN.LngText.text"
+#~ msgid "Tamil"
+#~ msgstr "Tàmil"
+
+#~ msgctxt "module_helppack.ulf#STR_DESC_MODULE_HELPPACK_TA_IN.LngText.text"
+#~ msgid "Installs Tamil help in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la l'ajuda en tamil al %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_HI_IN.LngText.text"
+#~ msgid "Hindi"
+#~ msgstr "Hindi"
+
+#~ msgctxt "module_helppack.ulf#STR_DESC_MODULE_HELPPACK_HI_IN.LngText.text"
+#~ msgid "Installs Hindi help in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la l'ajuda en hindi al %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt "module_helppack.ulf#STR_DESC_MODULE_HELPPACK_SW_TZ.LngText.text"
+#~ msgid "Installs Swahili help in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la l'ajuda en suahili al %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_BN_BD.LngText.text"
+#~ msgid "Bengali (Bangladesh)"
+#~ msgstr "Bengalí (Bangladesh)"
+
+#~ msgid "Installs Bengali (Bangladesh) help in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la l'ajuda en bengalí (Bangladesh) al %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_BN_IN.LngText.text"
+#~ msgid "Bengali (India)"
+#~ msgstr "Bengalí (India)"
+
+#~ msgid "Installs Bengali (India) help in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la l'ajuda en bengalí (Índia) al %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_OR_IN.LngText.text"
+#~ msgid "Oriya"
+#~ msgstr "Oriya"
+
+#~ msgctxt "module_helppack.ulf#STR_DESC_MODULE_HELPPACK_OR_IN.LngText.text"
+#~ msgid "Installs Oriya help in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la l'ajuda en oriya al %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_MR_IN.LngText.text"
+#~ msgid "Marathi"
+#~ msgstr "Marathi"
+
+#~ msgctxt "module_helppack.ulf#STR_DESC_MODULE_HELPPACK_MR_IN.LngText.text"
+#~ msgid "Installs Marathi help in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la l'ajuda en marathi al %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_AR_SA.LngText.text"
+#~ msgid "Arabic"
+#~ msgstr "Aràbic"
+
+#~ msgctxt "module_helppack.ulf#STR_DESC_MODULE_HELPPACK_AR_SA.LngText.text"
+#~ msgid "Installs Arabic help in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la l'ajuda en aràbic al %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_RM.LngText.text"
+#~ msgid "Rhaeto-Romance"
+#~ msgstr "Rhaeto romanç"
+
+#~ msgid "Installs Rhaeto-Romance help in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la l'ajuda en retoromànic al %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_UR.LngText.text"
+#~ msgid "Urdu"
+#~ msgstr "Urdú"
+
+#~ msgctxt "module_helppack.ulf#STR_DESC_MODULE_HELPPACK_UR.LngText.text"
+#~ msgid "Installs Urdu help in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la l'ajuda en urdu al %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_HY.LngText.text"
+#~ msgid "Armenian"
+#~ msgstr "Armeni"
+
+#~ msgid "Installs Armenian help in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la l'ajuda en armeni al %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_MT.LngText.text"
+#~ msgid "Maltese"
+#~ msgstr "Maltès"
+
+#~ msgid "Installs Maltese help in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la l'ajuda en maltès al %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt "module_helppack.ulf#STR_DESC_MODULE_HELPPACK_SH.LngText.text"
+#~ msgid "Installs Serbian (Latin) help in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la l'ajuda en serbi (llatí) al %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt "module_helppack.ulf#STR_DESC_MODULE_HELPPACK_SR.LngText.text"
+#~ msgid "Installs Serbian (Cyrillic) help in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la l'ajuda en serbi (ciríl·lic) al %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SA.LngText.text"
+#~ msgid "Sanskrit"
+#~ msgstr "Sànskrit"
+
+#~ msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_FO.LngText.text"
+#~ msgid "Faroese"
+#~ msgstr "Faroès"
+
+#~ msgid "Installs Faroese help in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la l'ajuda en feroès al %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SB.LngText.text"
+#~ msgid "Sorbian"
+#~ msgstr "Sorbi"
+
+#~ msgid "Installs Sorbian help in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la l'ajuda en sorbi al %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_YI.LngText.text"
+#~ msgid "Yiddish"
+#~ msgstr "Jiddisch"
+
+#~ msgid "Installs Yiddish help in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la l'ajuda en yiddish al %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_MS.LngText.text"
+#~ msgid "Malay (Malaysian)"
+#~ msgstr "Malai (Malàsia)"
+
+#~ msgid "Installs Malay (Malaysian) help in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la l'ajuda en malai (Malàisia) al %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt "module_helppack.ulf#STR_DESC_MODULE_HELPPACK_GU.LngText.text"
+#~ msgid "Installs Gujarati help in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la l'ajuda en gujarati al %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_UR_IN.LngText.text"
+#~ msgid "Urdu"
+#~ msgstr "Urdú"
+
+#~ msgctxt "module_helppack.ulf#STR_DESC_MODULE_HELPPACK_UR_IN.LngText.text"
+#~ msgid "Installs Urdu help in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la l'ajuda en urdu al %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_TI_ER.LngText.text"
+#~ msgid "Tigrinya"
+#~ msgstr "Tigrinya"
+
+#~ msgctxt "module_helppack.ulf#STR_DESC_MODULE_HELPPACK_TI_ER.LngText.text"
+#~ msgid "Installs Tigrinya help in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la l'ajuda en tigrinya al %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt "module_helppack.ulf#STR_DESC_MODULE_HELPPACK_AS.LngText.text"
+#~ msgid "Installs Assamese help in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la l'ajuda en assamese al %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_KY.LngText.text"
+#~ msgid "Kyrgyz"
+#~ msgstr "Kyrgyz"
+
+#~ msgid "Installs Kyrgyz help in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la l'ajuda en kyrgyz al %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt "module_helppack.ulf#STR_DESC_MODULE_HELPPACK_ML.LngText.text"
+#~ msgid "Installs Malayalam help in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la l'ajuda en malaiàlam al %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_PAP.LngText.text"
+#~ msgid "Papiamento"
+#~ msgstr "Papiament"
+
+#~ msgid "Installs Papiamento help in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la l'ajuda en papiament al %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_PS.LngText.text"
+#~ msgid "Pashto"
+#~ msgstr "Pashto"
+
+#~ msgid "Installs Pashto help in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la l'ajuda en pashto al %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt "module_helppack.ulf#STR_DESC_MODULE_HELPPACK_SA_IN.LngText.text"
+#~ msgid "Installs Sanskrit help in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la l'ajuda en sànscrit al %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_SC.LngText.text"
+#~ msgid "Sardinian"
+#~ msgstr "Sard"
+
+#~ msgid "Installs Sardinian help in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la l'ajuda en sard al %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt "module_helppack.ulf#STR_DESC_MODULE_HELPPACK_TE.LngText.text"
+#~ msgid "Installs Telugu help in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la l'ajuda en telugu al %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt "module_helppack.ulf#STR_NAME_MODULE_HELPPACK_TI.LngText.text"
+#~ msgid "Tigrinya"
+#~ msgstr "Tigrinya"
+
+#~ msgctxt "module_helppack.ulf#STR_DESC_MODULE_HELPPACK_TI.LngText.text"
+#~ msgid "Installs Tigrinya help in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la l'ajuda en tigrinya al %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_GU_IN.LngText.text"
+#~ msgid "Gujarati"
+#~ msgstr "Gujarati"
+
+#~ msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TA_IN.LngText.text"
+#~ msgid "Tamil"
+#~ msgstr "Tàmil"
+
+#~ msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_HI_IN.LngText.text"
+#~ msgid "Hindi"
+#~ msgstr "Hindi"
+
+#~ msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SW.LngText.text"
+#~ msgid "Swahili"
+#~ msgstr "Suahili"
+
+#~ msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_BN_BD.LngText.text"
+#~ msgid "Bengali (Bangladesh)"
+#~ msgstr "Bengalí (Bangladesh)"
+
+#~ msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_BN_IN.LngText.text"
+#~ msgid "Bengali (India)"
+#~ msgstr "Bengalí (Índia)"
+
+#~ msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_OR_IN.LngText.text"
+#~ msgid "Oriya"
+#~ msgstr "Oriya"
+
+#~ msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_MR_IN.LngText.text"
+#~ msgid "Marathi"
+#~ msgstr "Marathi"
+
+#~ msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_AR_SA.LngText.text"
+#~ msgid "Arabic"
+#~ msgstr "Àrab"
+
+#~ msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_RM.LngText.text"
+#~ msgid "Rhaeto-Romance"
+#~ msgstr "Retoromànic"
+
+#~ msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_UR.LngText.text"
+#~ msgid "Urdu"
+#~ msgstr "Urdu"
+
+#~ msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_HY.LngText.text"
+#~ msgid "Armenian"
+#~ msgstr "Armeni"
+
+#~ msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_MT.LngText.text"
+#~ msgid "Maltese"
+#~ msgstr "Maltès"
+
+#~ msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SH_YU.LngText.text"
+#~ msgid "Serbian (Latin)"
+#~ msgstr "Serbi (llatí)"
+
+#~ msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SR_CS.LngText.text"
+#~ msgid "Serbian (Cyrillic)"
+#~ msgstr "Serbi (ciríl·lic)"
+
+#, fuzzy
+#~ msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_AS_IN.LngText.text"
+#~ msgid "Assamese"
+#~ msgstr "Assamès"
+
+#~ msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SA.LngText.text"
+#~ msgid "Sanskrit"
+#~ msgstr "Sànscrit"
+
+#~ msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_FO.LngText.text"
+#~ msgid "Faroese"
+#~ msgstr "Feroès"
+
+#~ msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SB.LngText.text"
+#~ msgid "Sorbian"
+#~ msgstr "Sòrab"
+
+#~ msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_YI.LngText.text"
+#~ msgid "Yiddish"
+#~ msgstr "Jiddisch"
+
+#~ msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_MS.LngText.text"
+#~ msgid "Malay (Malaysian)"
+#~ msgstr "Malai (malaisi)"
+
+#~ msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_UR_IN.LngText.text"
+#~ msgid "Urdu"
+#~ msgstr "Urdu"
+
+#~ msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_ML_IN.LngText.text"
+#~ msgid "Malayalam"
+#~ msgstr "Malaiàlam"
+
+#, fuzzy
+#~ msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TE_IN.LngText.text"
+#~ msgid "Telugu"
+#~ msgstr "Telugu"
+
+#~ msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TI_ER.LngText.text"
+#~ msgid "Tigrinya"
+#~ msgstr "Tigrinya"
+
+#~ msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_KY.LngText.text"
+#~ msgid "Kyrgyz"
+#~ msgstr "Kyrgyz"
+
+#~ msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_PAP.LngText.text"
+#~ msgid "Papiamento"
+#~ msgstr "Papiament"
+
+#~ msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_PS.LngText.text"
+#~ msgid "Pashto"
+#~ msgstr "Pashto"
+
+#~ msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_SC.LngText.text"
+#~ msgid "Sardinian"
+#~ msgstr "Sard"
+
+#~ msgctxt "module_langpack.ulf#STR_NAME_MODULE_LANGPACK_TI.LngText.text"
+#~ msgid "Tigrinya"
+#~ msgstr "Tigrinya"

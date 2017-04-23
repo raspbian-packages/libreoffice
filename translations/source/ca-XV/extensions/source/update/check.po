@@ -2,10 +2,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+extensions%2Fsource%2Fupdate%2Fcheck.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment="
+"&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%"
+"3A+extensions%2Fsource%2Fupdate%2Fcheck.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
-"PO-Revision-Date: 2012-02-26 22:51+0200\n"
-"Last-Translator: Joan <joan@montane.cat>\n"
+"PO-Revision-Date: 2012-03-10 12:16+0200\n"
+"Last-Translator: Jesús <jesus@softcatala.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ca-XV\n"
 "MIME-Version: 1.0\n"
@@ -15,220 +17,292 @@ msgstr ""
 "X-Generator: Pootle 2.1.6\n"
 "X-Accelerator-Marker: ~\n"
 
+#. HMjh
 #: updatehdl.src#RID_UPDATE_STR_CHECKING.string.text
 msgid "Checking..."
 msgstr "S'està comprovant..."
 
+#. jpzB
 #: updatehdl.src#RID_UPDATE_STR_CHECKING_ERR.string.text
 msgid "Checking for an update failed."
 msgstr "Ha fallat la comprovació d'actualitzacions."
 
+#. 4shc
 #: updatehdl.src#RID_UPDATE_STR_NO_UPD_FOUND.string.text
 msgid "%PRODUCTNAME %PRODUCTVERSION is up to date."
 msgstr "El %PRODUCTNAME %PRODUCTVERSION ja està actualitzat."
 
+#. 73ye
 #: updatehdl.src#RID_UPDATE_STR_UPD_FOUND.string.text
 msgid ""
 "%PRODUCTNAME %NEXTVERSION is available.\n"
 "\n"
 "The installed version is %PRODUCTNAME %PRODUCTVERSION.\n"
 "\n"
-"Note: Before downloading an update, please ensure that you have sufficient access rights to install it.\n"
+"Note: Before downloading an update, please ensure that you have sufficient "
+"access rights to install it.\n"
 "A password, usually the administrator's or root password, may be required."
 msgstr ""
 "Hi ha disponible el %PRODUCTNAME %NEXTVERSION.\n"
 "\n"
 "La versió instal·lada és el %PRODUCTNAME %PRODUCTVERSION.\n"
 "\n"
-"Nota: abans de baixar-vos una actualització heu de comprovar que teniu els permisos necessaris per instal·lar-la.\n"
-"És possible que es requerisca una contrasenya, normalment la de l'administrador o superusuari."
+"Nota: abans de baixar-vos una actualització heu de comprovar que teniu els "
+"permisos necessaris per instal·lar-la.\n"
+"És possible que es requerisca una contrasenya, normalment la de "
+"l'administrador o superusuari."
 
+#. YiRw
 #: updatehdl.src#RID_UPDATE_STR_DLG_TITLE.string.text
 msgid "Check for Updates"
 msgstr "Comprova si hi ha actualitzacions"
 
+#. wR#D
 #: updatehdl.src#RID_UPDATE_STR_DOWNLOAD_PAUSE.string.text
 msgid "Downloading %PRODUCTNAME %NEXTVERSION paused at..."
 msgstr "Baixada del %PRODUCTNAME %NEXTVERSION en pausa a..."
 
+#. eGVj
 #: updatehdl.src#RID_UPDATE_STR_DOWNLOAD_ERR.string.text
 msgid "Downloading %PRODUCTNAME %NEXTVERSION stalled at"
 msgstr "Baixada del %PRODUCTNAME %NEXTVERSION encallada a..."
 
+#. 9SI6
 #: updatehdl.src#RID_UPDATE_STR_DOWNLOAD_WARN.string.text
 msgid ""
 "The download location is: %DOWNLOAD_PATH.\n"
 "\n"
-"Under Tools – Options... - %PRODUCTNAME – Online Update you can change the download location."
+"Under Tools – Options... - %PRODUCTNAME – Online Update you can change the "
+"download location."
 msgstr ""
 "La ubicació de baixada és: %DOWNLOAD_PATH.\n"
 "\n"
-"Podeu canviar-la a Eines – Opcions... - %PRODUCTNAME – Actualització en línia."
+"Podeu canviar-la a Eines – Opcions... - %PRODUCTNAME – Actualització en "
+"línia."
 
+#. MaAo
 #: updatehdl.src#RID_UPDATE_STR_DOWNLOAD_DESCR.string.text
 msgid "%FILE_NAME has been downloaded to %DOWNLOAD_PATH."
 msgstr "El fitxer %FILE_NAME s'ha baixat a %DOWNLOAD_PATH."
 
+#. 5xCe
 #: updatehdl.src#RID_UPDATE_STR_DOWNLOAD_UNAVAIL.string.text
 msgid ""
 "The automatic download of the update is currently not available.\n"
 "\n"
-"Click 'Download...' to download %PRODUCTNAME %NEXTVERSION manually from the web site."
+"Click 'Download...' to download %PRODUCTNAME %NEXTVERSION manually from the "
+"web site."
 msgstr ""
 "La baixada automàtica de l'actualització no està disponible ara mateix.\n"
 "\n"
-"Feu clic a 'Baixa...' per baixar el %PRODUCTNAME %NEXTVERSION manualment des de la pàgina web."
+"Feu clic a 'Baixa...' per baixar el %PRODUCTNAME %NEXTVERSION manualment des "
+"de la pàgina web."
 
+#. 6Atz
 #: updatehdl.src#RID_UPDATE_STR_DOWNLOADING.string.text
 msgid "Downloading %PRODUCTNAME %NEXTVERSION..."
 msgstr "S'està baixant el %PRODUCTNAME %NEXTVERSION..."
 
+#. HspZ
 #: updatehdl.src#RID_UPDATE_STR_READY_INSTALL.string.text
-msgid "Download of %PRODUCTNAME %NEXTVERSION completed. Ready for installation."
-msgstr "S'ha completat la baixada del %PRODUCTNAME %NEXTVERSION. La instal·lació està a punt."
+msgid ""
+"Download of %PRODUCTNAME %NEXTVERSION completed. Ready for installation."
+msgstr ""
+"S'ha completat la baixada del %PRODUCTNAME %NEXTVERSION. La instal·lació "
+"està a punt."
 
+#. ILBF
 #: updatehdl.src#RID_UPDATE_STR_CANCEL_TITLE.string.text
 msgid "%PRODUCTNAME %PRODUCTVERSION"
 msgstr "%PRODUCTNAME %PRODUCTVERSION"
 
+#. Gyi1
 #: updatehdl.src#RID_UPDATE_STR_CANCEL_DOWNLOAD.string.text
 msgid "Do you really want to cancel the download?"
 msgstr "Esteu segur que voleu cancel·lar la baixada?"
 
+#. gDE5
 #: updatehdl.src#RID_UPDATE_STR_BEGIN_INSTALL.string.text
-msgid "To install the update, %PRODUCTNAME %PRODUCTVERSION needs to be closed. Do you want to install the update now?"
-msgstr "Heu de tancar el %PRODUCTNAME %PRODUCTVERSION per instal·lar l'actualització. Voleu instal·lar-la ara?"
+msgid ""
+"To install the update, %PRODUCTNAME %PRODUCTVERSION needs to be closed. Do "
+"you want to install the update now?"
+msgstr ""
+"Heu de tancar el %PRODUCTNAME %PRODUCTVERSION per instal·lar "
+"l'actualització. Voleu instal·lar-la ara?"
 
+#. iYap
 #: updatehdl.src#RID_UPDATE_STR_INSTALL_NOW.string.text
 msgid "Install ~now"
 msgstr "Instal·la ~ara"
 
+#. 6zFR
 #: updatehdl.src#RID_UPDATE_STR_INSTALL_LATER.string.text
 msgid "Install ~later"
 msgstr "Instal·la ~més tard"
 
+#. ojeJ
 #: updatehdl.src#RID_UPDATE_STR_INSTALL_ERROR.string.text
-msgid "Could not run the installer application, please run %FILE_NAME in %DOWNLOAD_PATH manually."
-msgstr "No s'ha pogut executar l'aplicació d'instal·lació. Hauríeu d'executar %FILE_NAME a %DOWNLOAD_PATH manualment."
+msgid ""
+"Could not run the installer application, please run %FILE_NAME in %"
+"DOWNLOAD_PATH manually."
+msgstr ""
+"No s'ha pogut executar l'aplicació d'instal·lació. Hauríeu d'executar %"
+"FILE_NAME a %DOWNLOAD_PATH manualment."
 
+#. 0hJb
 #: updatehdl.src#RID_UPDATE_STR_OVERWRITE_WARNING.string.text
-msgid "A file with that name already exists! Do you want to overwrite the existing file?"
-msgstr "Ja hi ha un fitxer amb este nom. Voleu sobreescriure el fitxer existent?"
+msgid ""
+"A file with that name already exists! Do you want to overwrite the existing "
+"file?"
+msgstr ""
+"Ja hi ha un fitxer amb este nom. Voleu sobreescriure el fitxer existent?"
 
+#. _Lge
 #: updatehdl.src#RID_UPDATE_STR_RELOAD_WARNING.string.text
-msgid "A file with the name '%FILENAME' already exists in '%DOWNLOAD_PATH'! Do you want to continue with the download or delete and reload the file?"
-msgstr "Ja existeix un fitxer amb el nom '%FILENAME' a '%DOWNLOAD_PATH'. Voleu continuar la baixada o bé suprimir i tornar a carregar el fitxer?"
+msgid ""
+"A file with the name '%FILENAME' already exists in '%DOWNLOAD_PATH'! Do you "
+"want to continue with the download or delete and reload the file?"
+msgstr ""
+"Ja existeix un fitxer amb el nom '%FILENAME' a '%DOWNLOAD_PATH'. Voleu "
+"continuar la baixada o bé suprimir i tornar a carregar el fitxer?"
 
+#. u9U5
 #: updatehdl.src#RID_UPDATE_STR_RELOAD_RELOAD.string.text
 msgid "Reload File"
 msgstr "Torna a carregar el fitxer"
 
+#. ApKC
 #: updatehdl.src#RID_UPDATE_STR_RELOAD_CONTINUE.string.text
 msgid "Continue"
 msgstr "Continua"
 
+#. t1s6
 #: updatehdl.src#RID_UPDATE_STR_PERCENT.string.text
 msgid "%PERCENT%"
 msgstr "%PERCENT%"
 
+#. bdno
 #: updatehdl.src#RID_UPDATE_FT_STATUS.string.text
 msgid "Status"
 msgstr "Estat"
 
+#. JpIc
 #: updatehdl.src#RID_UPDATE_FT_DESCRIPTION.string.text
 msgid "Description"
 msgstr "Descripció"
 
+#. tfUa
 #: updatehdl.src#RID_UPDATE_BTN_CLOSE.string.text
 msgid "Close"
 msgstr "Tanca"
 
+#. Fx46
 #: updatehdl.src#RID_UPDATE_BTN_DOWNLOAD.string.text
 msgid "~Download"
 msgstr "~Baixa"
 
+#. krPl
 #: updatehdl.src#RID_UPDATE_BTN_INSTALL.string.text
 msgid "~Install"
 msgstr "~Instal·la"
 
+#. FDoB
 #: updatehdl.src#RID_UPDATE_BTN_PAUSE.string.text
 msgid "~Pause"
 msgstr "En ~pausa"
 
+#. ZnlU
 #: updatehdl.src#RID_UPDATE_BTN_RESUME.string.text
 msgid "~Resume"
 msgstr "~Reprén"
 
+#. Jxh5
 #: updatehdl.src#RID_UPDATE_BTN_CANCEL.string.text
 msgid "Cancel"
 msgstr "Cancel·la"
 
+#. zI6W
 #: updatehdl.src#RID_UPDATE_BUBBLE_T_UPDATE_AVAIL.string.text
 msgctxt "updatehdl.src#RID_UPDATE_BUBBLE_T_UPDATE_AVAIL.string.text"
 msgid "%PRODUCTNAME update available"
 msgstr "Hi ha una actualització del %PRODUCTNAME disponible"
 
+#. El9q
 #: updatehdl.src#RID_UPDATE_BUBBLE_UPDATE_AVAIL.string.text
 msgid "Click here to start the download."
 msgstr "Feu clic ací per començar-la a baixar."
 
+#. oUcP
 #: updatehdl.src#RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN.string.text
 msgctxt "updatehdl.src#RID_UPDATE_BUBBLE_T_UPDATE_NO_DOWN.string.text"
 msgid "%PRODUCTNAME update available"
 msgstr "Hi ha una actualització del %PRODUCTNAME disponible"
 
+#. jI7#
 #: updatehdl.src#RID_UPDATE_BUBBLE_UPDATE_NO_DOWN.string.text
 msgctxt "updatehdl.src#RID_UPDATE_BUBBLE_UPDATE_NO_DOWN.string.text"
 msgid "Click here for more information."
 msgstr "Feu clic ací per a més informació."
 
+#. MUDD
 #: updatehdl.src#RID_UPDATE_BUBBLE_T_AUTO_START.string.text
 msgctxt "updatehdl.src#RID_UPDATE_BUBBLE_T_AUTO_START.string.text"
 msgid "%PRODUCTNAME update available"
-msgstr "Hi ha una actualització disponible per al %PRODUCTNAME"
+msgstr "Hi ha una actualització del %PRODUCTNAME disponible"
 
+#. 6DGN
 #: updatehdl.src#RID_UPDATE_BUBBLE_AUTO_START.string.text
 msgid "Download of update begins."
 msgstr "Inici de la baixada de l'actualització."
 
+#. 3l#c
 #: updatehdl.src#RID_UPDATE_BUBBLE_T_DOWNLOADING.string.text
 msgid "Download of update in progress"
 msgstr "Baixada de l'actualització en progrés."
 
+#. 9toc
 #: updatehdl.src#RID_UPDATE_BUBBLE_T_DOWNLOAD_PAUSED.string.text
 msgid "Download of update paused"
 msgstr "Baixada de l'actualització en pausa."
 
+#. naen
 #: updatehdl.src#RID_UPDATE_BUBBLE_DOWNLOAD_PAUSED.string.text
 msgid "Click here to resume."
 msgstr "Feu clic ací per reprendre la baixada."
 
+#. wR2x
 #: updatehdl.src#RID_UPDATE_BUBBLE_T_ERROR_DOWNLOADING.string.text
 msgid "Download of update stalled"
 msgstr "Baixada de l'actualització encallada."
 
+#. Krjo
 #: updatehdl.src#RID_UPDATE_BUBBLE_ERROR_DOWNLOADING.string.text
 msgctxt "updatehdl.src#RID_UPDATE_BUBBLE_ERROR_DOWNLOADING.string.text"
 msgid "Click here for more information."
 msgstr "Feu clic ací per obtindre més informació."
 
+#. M1Fe
 #: updatehdl.src#RID_UPDATE_BUBBLE_T_DOWNLOAD_AVAIL.string.text
 msgid "Download of update completed"
 msgstr "Baixada de l'actualització completada."
 
+#. 9DkF
 #: updatehdl.src#RID_UPDATE_BUBBLE_DOWNLOAD_AVAIL.string.text
 msgid "Click here to start the installation."
 msgstr "Feu clic ací per iniciar la instal·lació."
 
+#. fr8b
 #: updatehdl.src#RID_UPDATE_BUBBLE_T_EXT_UPD_AVAIL.string.text
 msgid "Updates for extensions available"
 msgstr "Hi ha actualitzacions per a les extensions disponibles"
 
+#. oCnj
 #: updatehdl.src#RID_UPDATE_BUBBLE_EXT_UPD_AVAIL.string.text
 msgctxt "updatehdl.src#RID_UPDATE_BUBBLE_EXT_UPD_AVAIL.string.text"
 msgid "Click here for more information."
 msgstr "Feu clic ací per obtindre més informació."
 
+#. wmSg
 #: Addons.xcu#.Addons.AddonUI.OfficeHelp.UpdateCheckJob.Title.value.text
 msgid "Check for ~Updates..."
 msgstr "Comprova si ~hi ha actualitzacions..."

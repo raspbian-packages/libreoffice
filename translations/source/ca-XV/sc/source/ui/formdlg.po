@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+sc%2Fsource%2Fui%2Fformdlg.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+sc%2Fsource%2Fui%2Fformdlg.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
 "PO-Revision-Date: 2011-04-05 19:13+0200\n"
 "Last-Translator: jmontane <joan@montane.cat>\n"
@@ -15,66 +17,82 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. 9mBu
 #: dwfunctr.src#FID_FUNCTION_BOX.CB_CAT.1.stringlist.text
 msgid "Last Used"
 msgstr "Utilitzades darrerament"
 
+#. bCoA
 #: dwfunctr.src#FID_FUNCTION_BOX.CB_CAT.2.stringlist.text
 msgid "All"
 msgstr "Totes"
 
+#. e9vx
 #: dwfunctr.src#FID_FUNCTION_BOX.CB_CAT.3.stringlist.text
 msgid "Database"
 msgstr "Base de dades"
 
+#. 66bE
 #: dwfunctr.src#FID_FUNCTION_BOX.CB_CAT.4.stringlist.text
 msgid "Date&Time"
 msgstr "Data i hora"
 
+#. B3k_
 #: dwfunctr.src#FID_FUNCTION_BOX.CB_CAT.5.stringlist.text
 msgid "Financial"
 msgstr "Finances"
 
+#. d_ND
 #: dwfunctr.src#FID_FUNCTION_BOX.CB_CAT.6.stringlist.text
 msgid "Information"
 msgstr "Informació"
 
+#. gwSy
 #: dwfunctr.src#FID_FUNCTION_BOX.CB_CAT.7.stringlist.text
 msgid "Logical"
 msgstr "Lògica"
 
+#. 0JB6
 #: dwfunctr.src#FID_FUNCTION_BOX.CB_CAT.8.stringlist.text
 msgid "Mathematical"
 msgstr "Matemàtiques"
 
+#. DM0t
 #: dwfunctr.src#FID_FUNCTION_BOX.CB_CAT.9.stringlist.text
 msgid "Array"
 msgstr "Matrius"
 
+#. 00KO
 #: dwfunctr.src#FID_FUNCTION_BOX.CB_CAT.10.stringlist.text
 msgid "Statistical"
 msgstr "Estadística"
 
+#. D5Vf
 #: dwfunctr.src#FID_FUNCTION_BOX.CB_CAT.11.stringlist.text
 msgid "Spreadsheet"
 msgstr "Full de càlcul"
 
+#. XvcR
 #: dwfunctr.src#FID_FUNCTION_BOX.CB_CAT.12.stringlist.text
 msgid "Text"
 msgstr "Text"
 
+#. iyjg
 #: dwfunctr.src#FID_FUNCTION_BOX.CB_CAT.13.stringlist.text
 msgid "Add-in"
 msgstr "Complement"
 
+#. iq5l
 #: dwfunctr.src#FID_FUNCTION_BOX.IMB_INSERT.imagebutton.text
 msgid "-"
 msgstr "-"
 
+#. Ha#T
 #: dwfunctr.src#FID_FUNCTION_BOX.IMB_INSERT.imagebutton.quickhelptext
 msgid "Insert Function into calculation sheet"
 msgstr "Insereix la funció en el full de càlcul"
 
+#. uykl
 #: dwfunctr.src#FID_FUNCTION_BOX.dockingwindow.text
 msgid "Functions"
 msgstr "Funcions"

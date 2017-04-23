@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+editeng%2Fsource%2Fitems.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+editeng%2Fsource%2Fitems.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:43+0200\n"
 "PO-Revision-Date: 2012-01-26 17:19+0200\n"
 "Last-Translator: Jesús <jesus@softcatala.org>\n"
@@ -15,957 +17,1194 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. gP1o
 #: svxitems.src#RID_SVXITEMS_TRUE.string.text
 msgid "True"
 msgstr "Cert"
 
+#. 11U_
 #: svxitems.src#RID_SVXITEMS_FALSE.string.text
 msgid "False"
 msgstr "Fals"
 
+#. TYBH
 #: svxitems.src#RID_SVXITEMS_BREAK_NONE.string.text
 msgid "No break"
 msgstr "Sense salt"
 
+#. qrX6
 #: svxitems.src#RID_SVXITEMS_BREAK_COLUMN_BEFORE.string.text
 msgid "Break before new column"
 msgstr "Salt abans de columna nova"
 
+#. 9ilj
 #: svxitems.src#RID_SVXITEMS_BREAK_COLUMN_AFTER.string.text
 msgid "Break after new column"
 msgstr "Salt després de columna nova"
 
+#. 9Rp9
 #: svxitems.src#RID_SVXITEMS_BREAK_COLUMN_BOTH.string.text
 msgid "Break before and after new column"
 msgstr "Salt abans i després de columna nova"
 
+#. wEpH
 #: svxitems.src#RID_SVXITEMS_BREAK_PAGE_BEFORE.string.text
 msgid "Break before new page"
 msgstr "Salt abans de pàgina nova"
 
+#. xSdI
 #: svxitems.src#RID_SVXITEMS_BREAK_PAGE_AFTER.string.text
 msgid "Break after new page"
 msgstr "Salt després de pàgina nova"
 
+#. 4m3b
 #: svxitems.src#RID_SVXITEMS_BREAK_PAGE_BOTH.string.text
 msgid "Break before and after new page"
 msgstr "Salt abans i després de pàgina nova"
 
+#. whLp
 #: svxitems.src#RID_SVXITEMS_SHADOW_NONE.string.text
 msgid "No Shadow"
 msgstr "Sense ombra"
 
+#. l_G1
 #: svxitems.src#RID_SVXITEMS_SHADOW_TOPLEFT.string.text
 msgid "Shadow top left"
 msgstr "Ombra superior esquerra"
 
+#. nh1O
 #: svxitems.src#RID_SVXITEMS_SHADOW_TOPRIGHT.string.text
 msgid "Shadow top right"
 msgstr "Ombra superior dreta"
 
+#. 0zMQ
 #: svxitems.src#RID_SVXITEMS_SHADOW_BOTTOMLEFT.string.text
 msgid "Shadow bottom left"
 msgstr "Ombra inferior esquerra"
 
+#. I0w9
 #: svxitems.src#RID_SVXITEMS_SHADOW_BOTTOMRIGHT.string.text
 msgid "Shadow bottom right"
 msgstr "Ombra inferior dreta"
 
+#. pjBE
 #: svxitems.src#RID_SVXITEMS_COLOR.string.text
 msgid "Color "
 msgstr "Color "
 
+#. Dut1
 #: svxitems.src#RID_SVXITEMS_COLOR_BLACK.string.text
 msgid "Black"
 msgstr "Negre"
 
+#. zfT9
 #: svxitems.src#RID_SVXITEMS_COLOR_BLUE.string.text
 msgid "Blue"
 msgstr "Blau"
 
+#. vUXu
 #: svxitems.src#RID_SVXITEMS_COLOR_GREEN.string.text
 msgid "Green"
 msgstr "Verd"
 
+#. fRnu
 #: svxitems.src#RID_SVXITEMS_COLOR_CYAN.string.text
 msgid "Cyan"
 msgstr "Cian"
 
+#. n7XO
 #: svxitems.src#RID_SVXITEMS_COLOR_RED.string.text
 msgid "Red"
 msgstr "Roig"
 
+#. DBbx
 #: svxitems.src#RID_SVXITEMS_COLOR_MAGENTA.string.text
 msgid "Magenta"
 msgstr "Magenta"
 
+#. 5yH1
 #: svxitems.src#RID_SVXITEMS_COLOR_BROWN.string.text
 msgid "Brown"
 msgstr "Marró"
 
+#. 7BR7
 #: svxitems.src#RID_SVXITEMS_COLOR_GRAY.string.text
 msgid "Gray"
 msgstr "Gris"
 
+#. 7hKi
 #: svxitems.src#RID_SVXITEMS_COLOR_LIGHTGRAY.string.text
 msgid "Light Gray"
 msgstr "Gris clar"
 
+#. z9IY
 #: svxitems.src#RID_SVXITEMS_COLOR_LIGHTBLUE.string.text
 msgid "Light Blue"
 msgstr "Blau clar"
 
+#. iO#5
 #: svxitems.src#RID_SVXITEMS_COLOR_LIGHTGREEN.string.text
 msgid "Light Green"
 msgstr "Verd clar"
 
+#. fx#J
 #: svxitems.src#RID_SVXITEMS_COLOR_LIGHTCYAN.string.text
 msgid "Light Cyan"
 msgstr "Cian clar"
 
+#. 9qhO
 #: svxitems.src#RID_SVXITEMS_COLOR_LIGHTRED.string.text
 msgid "Light Red"
 msgstr "Roig clar"
 
+#. Q7ID
 #: svxitems.src#RID_SVXITEMS_COLOR_LIGHTMAGENTA.string.text
 msgid "Light Magenta"
 msgstr "Magenta clar"
 
+#. wQfV
 #: svxitems.src#RID_SVXITEMS_COLOR_YELLOW.string.text
 msgid "Yellow"
 msgstr "Groc"
 
+#. nE2D
 #: svxitems.src#RID_SVXITEMS_COLOR_WHITE.string.text
 msgid "White"
 msgstr "Blanc"
 
+#. bKYM
 #: svxitems.src#RID_SVXITEMS_ITALIC_NONE.string.text
 msgid "Not Italic"
 msgstr "Sense cursiva"
 
+#. YdWk
 #: svxitems.src#RID_SVXITEMS_ITALIC_OBLIQUE.string.text
 msgid "Oblique italic"
 msgstr "Cursiva obliqua"
 
+#. QL4y
 #: svxitems.src#RID_SVXITEMS_ITALIC_NORMAL.string.text
 msgid "Italic"
 msgstr "Cursiva"
 
+#. qdnz
 #: svxitems.src#RID_SVXITEMS_WEIGHT_THIN.string.text
 msgid "thin"
 msgstr "fi"
 
+#. g1zO
 #: svxitems.src#RID_SVXITEMS_WEIGHT_ULTRALIGHT.string.text
 msgid "ultra thin"
 msgstr "ultrafí"
 
+#. GxnD
 #: svxitems.src#RID_SVXITEMS_WEIGHT_LIGHT.string.text
 msgid "light"
 msgstr "clar"
 
+#. ul#M
 #: svxitems.src#RID_SVXITEMS_WEIGHT_SEMILIGHT.string.text
 msgid "semi light"
 msgstr "semiclar"
 
+#. _n3Z
 #: svxitems.src#RID_SVXITEMS_WEIGHT_NORMAL.string.text
 msgid "normal"
 msgstr "normal"
 
+#. bfjP
 #: svxitems.src#RID_SVXITEMS_WEIGHT_MEDIUM.string.text
 msgid "medium"
 msgstr "mitjà"
 
+#. iEok
 #: svxitems.src#RID_SVXITEMS_WEIGHT_SEMIBOLD.string.text
 msgid "semi bold"
 msgstr "seminegreta"
 
+#. ooQ3
 #: svxitems.src#RID_SVXITEMS_WEIGHT_BOLD.string.text
 msgid "bold"
 msgstr "negreta"
 
+#. tTRM
 #: svxitems.src#RID_SVXITEMS_WEIGHT_ULTRABOLD.string.text
 msgid "ultra bold"
 msgstr "ultranegreta"
 
+#. yoBZ
 #: svxitems.src#RID_SVXITEMS_WEIGHT_BLACK.string.text
 msgid "black"
 msgstr "negre"
 
+#. hSvB
 #: svxitems.src#RID_SVXITEMS_UL_NONE.string.text
 msgid "No underline"
 msgstr "Sense subratllat"
 
+#. LIZ7
 #: svxitems.src#RID_SVXITEMS_UL_SINGLE.string.text
 msgid "Single underline"
 msgstr "Subratllat simple"
 
+#. FLfG
 #: svxitems.src#RID_SVXITEMS_UL_DOUBLE.string.text
 msgid "Double underline"
 msgstr "Subratllat doble"
 
+#. vsco
 #: svxitems.src#RID_SVXITEMS_UL_DOTTED.string.text
 msgid "Dotted underline"
 msgstr "Subratllat (punts)"
 
+#. Xr5A
 #: svxitems.src#RID_SVXITEMS_UL_DONTKNOW.string.text
 msgid "Underline"
 msgstr "Subratllat"
 
+#. 49rL
 #: svxitems.src#RID_SVXITEMS_UL_DASH.string.text
 msgid "Underline (dashes)"
 msgstr "Subratllat (traços curts)"
 
+#. plIl
 #: svxitems.src#RID_SVXITEMS_UL_LONGDASH.string.text
 msgid "Underline (long dashes)"
 msgstr "Subratllat (traços llargs)"
 
+#. Nz9L
 #: svxitems.src#RID_SVXITEMS_UL_DASHDOT.string.text
 msgid "Underline (dot dash)"
 msgstr "Subratllat (punt traç)"
 
+#. I1_7
 #: svxitems.src#RID_SVXITEMS_UL_DASHDOTDOT.string.text
 msgid "Underline (dot dot dash)"
 msgstr "Subratllat (punt punt traç)"
 
+#. dbIf
 #: svxitems.src#RID_SVXITEMS_UL_SMALLWAVE.string.text
 msgid "Underline (small wave)"
 msgstr "Subratllat (ona petita)"
 
+#. b7t8
 #: svxitems.src#RID_SVXITEMS_UL_WAVE.string.text
 msgid "Underline (Wave)"
 msgstr "Subratllat (ona)"
 
+#. _iQM
 #: svxitems.src#RID_SVXITEMS_UL_DOUBLEWAVE.string.text
 msgid "Underline (Double wave)"
 msgstr "Subratllat (ona doble)"
 
+#. xxBb
 #: svxitems.src#RID_SVXITEMS_UL_BOLD.string.text
 msgid "Underlined (Bold)"
 msgstr "Subratllat (negreta)"
 
+#. thCM
 #: svxitems.src#RID_SVXITEMS_UL_BOLDDOTTED.string.text
 msgid "Dotted underline (Bold)"
 msgstr "Subratllat (punts en negreta)"
 
+#. ACoZ
 #: svxitems.src#RID_SVXITEMS_UL_BOLDDASH.string.text
 msgid "Underline (Dash bold)"
 msgstr "Subratllat (traços curts en negreta)"
 
+#. 3dRR
 #: svxitems.src#RID_SVXITEMS_UL_BOLDLONGDASH.string.text
 msgid "Underline (long dash, bold)"
 msgstr "Subratllat (traços llargs en negreta)"
 
+#. trmZ
 #: svxitems.src#RID_SVXITEMS_UL_BOLDDASHDOT.string.text
 msgid "Underline (dot dash, bold)"
 msgstr "Subratllat (punt traç en negreta)"
 
+#. 3ZHu
 #: svxitems.src#RID_SVXITEMS_UL_BOLDDASHDOTDOT.string.text
 msgid "Underline (dot dot dash, bold)"
 msgstr "Subratllat (punt punt traç en negreta)"
 
+#. h2m#
 #: svxitems.src#RID_SVXITEMS_UL_BOLDWAVE.string.text
 msgid "Underline (wave, bold)"
 msgstr "Subratllat (ona en negreta)"
 
+#. uW#m
 #: svxitems.src#RID_SVXITEMS_OL_NONE.string.text
 msgid "No overline"
 msgstr "Sense sobreratllat"
 
+#. Xbnv
 #: svxitems.src#RID_SVXITEMS_OL_SINGLE.string.text
 msgid "Single overline"
 msgstr "Sobreratllat simple"
 
+#. xYxk
 #: svxitems.src#RID_SVXITEMS_OL_DOUBLE.string.text
 msgid "Double overline"
 msgstr "Sobreratllat doble"
 
+#. D1qC
 #: svxitems.src#RID_SVXITEMS_OL_DOTTED.string.text
 msgid "Dotted overline"
 msgstr "Sobreratllat (punts)"
 
+#. y4tQ
 #: svxitems.src#RID_SVXITEMS_OL_DONTKNOW.string.text
 msgid "Overline"
 msgstr "Sobreratllat"
 
+#. Nrok
 #: svxitems.src#RID_SVXITEMS_OL_DASH.string.text
 msgid "Overline (dashes)"
 msgstr "Sobreratllat (traços curts)"
 
+#. kUW_
 #: svxitems.src#RID_SVXITEMS_OL_LONGDASH.string.text
 msgid "Overline (long dashes)"
 msgstr "Sobreratllat (traços llargs)"
 
+#. 3sTl
 #: svxitems.src#RID_SVXITEMS_OL_DASHDOT.string.text
 msgid "Overline (dot dash)"
 msgstr "Sobreratllat (punt traç)"
 
+#. mReb
 #: svxitems.src#RID_SVXITEMS_OL_DASHDOTDOT.string.text
 msgid "Overline (dot dot dash)"
 msgstr "Sobreratllat (punt punt traç)"
 
+#. 3v4d
 #: svxitems.src#RID_SVXITEMS_OL_SMALLWAVE.string.text
 msgid "Overline (small wave)"
 msgstr "Sobreratllat (ona petita)"
 
+#. sxmp
 #: svxitems.src#RID_SVXITEMS_OL_WAVE.string.text
 msgid "Overline (Wave)"
 msgstr "Sobreratllat (ona)"
 
+#. TsDq
 #: svxitems.src#RID_SVXITEMS_OL_DOUBLEWAVE.string.text
 msgid "Overline (Double wave)"
 msgstr "Sobreratllat (ona doble)"
 
+#. e7CU
 #: svxitems.src#RID_SVXITEMS_OL_BOLD.string.text
 msgid "Overlined (Bold)"
 msgstr "Sobreratllat (negreta)"
 
+#. LnRq
 #: svxitems.src#RID_SVXITEMS_OL_BOLDDOTTED.string.text
 msgid "Dotted overline (Bold)"
 msgstr "Sobreratllat (punts en negreta)"
 
+#. Nz0p
 #: svxitems.src#RID_SVXITEMS_OL_BOLDDASH.string.text
 msgid "Overline (Dash bold)"
 msgstr "Sobreratllat (traços curts en negreta)"
 
+#. rZds
 #: svxitems.src#RID_SVXITEMS_OL_BOLDLONGDASH.string.text
 msgid "Overline (long dash, bold)"
 msgstr "Sobreratllat (traços llargs en negreta)"
 
+#. HKIx
 #: svxitems.src#RID_SVXITEMS_OL_BOLDDASHDOT.string.text
 msgid "Overline (dot dash, bold)"
 msgstr "Sobreratllat (punt traç en negreta)"
 
+#. ljBt
 #: svxitems.src#RID_SVXITEMS_OL_BOLDDASHDOTDOT.string.text
 msgid "Overline (dot dot dash, bold)"
 msgstr "Sobreratllat (punt punt traç en negreta)"
 
+#. sp2k
 #: svxitems.src#RID_SVXITEMS_OL_BOLDWAVE.string.text
 msgid "Overline (wave, bold)"
 msgstr "Sobreratllat (ona en negreta)"
 
+#. Ljv5
 #: svxitems.src#RID_SVXITEMS_STRIKEOUT_NONE.string.text
 msgid "No strikethrough"
 msgstr "Sense ratllat"
 
+#. FbF#
 #: svxitems.src#RID_SVXITEMS_STRIKEOUT_SINGLE.string.text
 msgid "Single strikethrough"
 msgstr "Ratllat simple"
 
+#. LY5f
 #: svxitems.src#RID_SVXITEMS_STRIKEOUT_DOUBLE.string.text
 msgid "Double strikethrough"
 msgstr "Ratllat doble"
 
+#. 5ABh
 #: svxitems.src#RID_SVXITEMS_STRIKEOUT_BOLD.string.text
 msgid "Bold strikethrough"
 msgstr "Ratllat en negreta"
 
+#. w1h1
 #: svxitems.src#RID_SVXITEMS_STRIKEOUT_SLASH.string.text
 msgid "Strike through with slash"
 msgstr "Ratllat amb barres"
 
+#. Wh2T
 #: svxitems.src#RID_SVXITEMS_STRIKEOUT_X.string.text
 msgid "Strike through with Xes"
 msgstr "Ratllat amb ics"
 
+#. WsN6
 #: svxitems.src#RID_SVXITEMS_CASEMAP_NONE.string.text
 msgid "None"
 msgstr "Cap"
 
+#. bogn
 #: svxitems.src#RID_SVXITEMS_CASEMAP_VERSALIEN.string.text
 msgid "Caps"
 msgstr "Majúscules"
 
+#. vUDN
 #: svxitems.src#RID_SVXITEMS_CASEMAP_GEMEINE.string.text
 msgid "Lowercase"
 msgstr "Minúscules"
 
+#. WjG5
 #: svxitems.src#RID_SVXITEMS_CASEMAP_TITEL.string.text
 msgid "Title"
 msgstr "Títol"
 
+#. sytd
 #: svxitems.src#RID_SVXITEMS_CASEMAP_KAPITAELCHEN.string.text
 msgid "Small caps"
 msgstr "Versaletes"
 
+#. wyl3
 #: svxitems.src#RID_SVXITEMS_ESCAPEMENT_OFF.string.text
 msgid "Normal position"
 msgstr "Posició normal"
 
+#. ipQH
 #: svxitems.src#RID_SVXITEMS_ESCAPEMENT_SUPER.string.text
 msgid "Superscript "
 msgstr "Superíndex"
 
+#. EMAT
 #: svxitems.src#RID_SVXITEMS_ESCAPEMENT_SUB.string.text
 msgid "Subscript "
 msgstr "Subíndex"
 
+#. QJpv
 #: svxitems.src#RID_SVXITEMS_ESCAPEMENT_AUTO.string.text
 msgid "automatic"
 msgstr "automàtic"
 
+#. ypc6
 #: svxitems.src#RID_SVXITEMS_ADJUST_LEFT.string.text
 msgctxt "svxitems.src#RID_SVXITEMS_ADJUST_LEFT.string.text"
 msgid "Align left"
 msgstr "Alinea a l'esquerra"
 
+#. MbB#
 #: svxitems.src#RID_SVXITEMS_ADJUST_RIGHT.string.text
 msgctxt "svxitems.src#RID_SVXITEMS_ADJUST_RIGHT.string.text"
 msgid "Align right"
 msgstr "Alinea a la dreta"
 
+#. mBgh
 #: svxitems.src#RID_SVXITEMS_ADJUST_BLOCK.string.text
 msgctxt "svxitems.src#RID_SVXITEMS_ADJUST_BLOCK.string.text"
 msgid "Justify"
 msgstr "Justifica"
 
+#. TcNL
 #: svxitems.src#RID_SVXITEMS_ADJUST_CENTER.string.text
 msgctxt "svxitems.src#RID_SVXITEMS_ADJUST_CENTER.string.text"
 msgid "Centered"
 msgstr "Centrat"
 
+#. pBha
 #: svxitems.src#RID_SVXITEMS_ADJUST_BLOCKLINE.string.text
 msgctxt "svxitems.src#RID_SVXITEMS_ADJUST_BLOCKLINE.string.text"
 msgid "Justify"
 msgstr "Justifica"
 
+#. 4odF
 #: svxitems.src#RID_SVXITEMS_TAB_DECIMAL_CHAR.string.text
 msgid "Decimal Symbol:"
 msgstr "Caràcter decimal:"
 
+#. 6GhQ
 #: svxitems.src#RID_SVXITEMS_TAB_FILL_CHAR.string.text
 msgid "Fill character:"
 msgstr "Caràcter de farciment:"
 
+#. O68q
 #: svxitems.src#RID_SVXITEMS_TAB_ADJUST_LEFT.string.text
 msgid "Left"
 msgstr "Esquerra"
 
+#. Kq65
 #: svxitems.src#RID_SVXITEMS_TAB_ADJUST_RIGHT.string.text
 msgid "Right"
 msgstr "Dreta"
 
+#. QPmA
 #: svxitems.src#RID_SVXITEMS_TAB_ADJUST_DECIMAL.string.text
 msgid "Decimal"
 msgstr "Decimal"
 
+#. QdMb
 #: svxitems.src#RID_SVXITEMS_TAB_ADJUST_CENTER.string.text
 msgctxt "svxitems.src#RID_SVXITEMS_TAB_ADJUST_CENTER.string.text"
 msgid "Centered"
 msgstr "Centrat"
 
+#. LnVP
 #: svxitems.src#RID_SVXITEMS_TAB_ADJUST_DEFAULT.string.text
 msgid "Default"
 msgstr "Per defecte"
 
+#. zDyN
 #: svxitems.src#RID_SOLID.string.text
 msgid "Single, solid"
 msgstr "Simple, sòlida"
 
+#. _blS
 #: svxitems.src#RID_DOTTED.string.text
 msgid "Single, dotted"
 msgstr "Simple, amb puntejat"
 
+#. gLGn
 #: svxitems.src#RID_DASHED.string.text
 msgid "Single, dashed"
 msgstr "Simple, discontinua"
 
+#. 96W#
 #: svxitems.src#RID_DOUBLE.string.text
 msgid "Double"
 msgstr "Doble"
 
+#. LK2m
 #: svxitems.src#RID_THINTHICK_SMALLGAP.string.text
 msgid "Double, inside: fine, outside: thick, spacing: small"
 msgstr "Doble, interior: gruixut, exterior: fi, espaiat: petit"
 
+#. 1tRU
 #: svxitems.src#RID_THINTHICK_MEDIUMGAP.string.text
 msgid "Double, inside: fine, outside: thick, spacing: medium"
 msgstr "Doble, interior: fi, exterior: gruixut, espaiat: mitjà"
 
+#. KwN2
 #: svxitems.src#RID_THINTHICK_LARGEGAP.string.text
 msgid "Double, inside: fine, outside: thick, spacing: large"
 msgstr "Doble, interior: fi, exterior: gruixut, espaiat: llarg"
 
+#. KTa6
 #: svxitems.src#RID_THICKTHIN_SMALLGAP.string.text
 msgid "Double, inside: thick, outside: fine, spacing: small"
 msgstr "Doble, interior: gruixut, exterior: fi, espaiat: petit"
 
+#. A8mt
 #: svxitems.src#RID_THICKTHIN_MEDIUMGAP.string.text
 msgid "Double, inside: thick, outside: fine, spacing: medium"
 msgstr "Doble, interior: gruixut, exterior: fi, espaiat: mitjà"
 
+#. Lpnq
 #: svxitems.src#RID_THICKTHIN_LARGEGAP.string.text
 msgid "Double, inside: thick, outside: fine, spacing: large"
 msgstr "Doble, interior: fi, exterior: gruixut, espaiat: llarg"
 
+#. eUee
 #: svxitems.src#RID_EMBOSSED.string.text
 msgid "3D embossed"
 msgstr "Estampat en 3D"
 
+#. viku
 #: svxitems.src#RID_ENGRAVED.string.text
 msgid "3D engraved"
 msgstr "Gravat en 3D"
 
+#. E8Uv
 #: svxitems.src#RID_INSET.string.text
 msgid "Inset"
 msgstr "Dins"
 
+#. 0ccg
 #: svxitems.src#RID_OUTSET.string.text
 msgid "Outset"
 msgstr "Fora"
 
+#. 793o
 #: svxitems.src#RID_SVXITEMS_METRIC_MM.string.text
 msgid "mm"
 msgstr "mm"
 
+#. 65N7
 #: svxitems.src#RID_SVXITEMS_METRIC_CM.string.text
 msgid "cm"
 msgstr "cm"
 
+#. cCT2
 #: svxitems.src#RID_SVXITEMS_METRIC_INCH.string.text
 msgid "inch"
 msgstr "polzades"
 
+#. mbz7
 #: svxitems.src#RID_SVXITEMS_METRIC_POINT.string.text
 msgid "pt"
 msgstr "pt"
 
+#. VgHP
 #: svxitems.src#RID_SVXITEMS_METRIC_TWIP.string.text
 msgid "twip"
 msgstr "twip"
 
+#. xsbk
 #: svxitems.src#RID_SVXITEMS_METRIC_PIXEL.string.text
 msgid "pixel"
 msgstr "píxel"
 
+#. 0n_v
 #: svxitems.src#RID_SVXITEMS_SHADOWED_TRUE.string.text
 msgid "Shadowed"
 msgstr "Ombrejat"
 
+#. 6MU9
 #: svxitems.src#RID_SVXITEMS_SHADOWED_FALSE.string.text
 msgid "Not Shadowed"
 msgstr "Sense ombra"
 
+#. aOhm
 #: svxitems.src#RID_SVXITEMS_BLINK_TRUE.string.text
 msgid "Blinking"
 msgstr "Parpelleig"
 
+#. rflT
 #: svxitems.src#RID_SVXITEMS_BLINK_FALSE.string.text
 msgid "Not Blinking"
 msgstr "Sense parpelleig"
 
+#. jBjx
 #: svxitems.src#RID_SVXITEMS_AUTOKERN_TRUE.string.text
 msgid "Pair Kerning"
 msgstr "Interlletratge parell"
 
+#. 4L8B
 #: svxitems.src#RID_SVXITEMS_AUTOKERN_FALSE.string.text
 msgid "No pair kerning"
 msgstr "Sense interlletratge parell"
 
+#. oreu
 #: svxitems.src#RID_SVXITEMS_WORDLINE_TRUE.string.text
 msgid "Individual words"
 msgstr "Paraules individuals"
 
+#. SsNG
 #: svxitems.src#RID_SVXITEMS_WORDLINE_FALSE.string.text
 msgid "Not Words Only"
 msgstr "No només paraules"
 
+#. RsVj
 #: svxitems.src#RID_SVXITEMS_CONTOUR_TRUE.string.text
 msgid "Outline"
 msgstr "Contorn"
 
+#. GRWS
 #: svxitems.src#RID_SVXITEMS_CONTOUR_FALSE.string.text
 msgid "No Outline"
 msgstr "Sense contorn"
 
+#. FFt6
 #: svxitems.src#RID_SVXITEMS_PRINT_TRUE.string.text
 msgid "Print"
 msgstr "Imprimeix"
 
+#. 8PtU
 #: svxitems.src#RID_SVXITEMS_PRINT_FALSE.string.text
 msgid "Don't print"
 msgstr "No ho imprimisques"
 
+#. CRrz
 #: svxitems.src#RID_SVXITEMS_OPAQUE_TRUE.string.text
 msgid "Opaque"
 msgstr "Opac"
 
+#. FSYI
 #: svxitems.src#RID_SVXITEMS_OPAQUE_FALSE.string.text
 msgid "Not Opaque"
 msgstr "No opac"
 
+#. ArhU
 #: svxitems.src#RID_SVXITEMS_FMTKEEP_TRUE.string.text
 msgid "Keep with next paragraph"
 msgstr "Mantén els paràgrafs junts"
 
+#. 8si9
 #: svxitems.src#RID_SVXITEMS_FMTKEEP_FALSE.string.text
 msgid "Don't Keep Paragraphs Together"
 msgstr "No mantinguis els paràgrafs junts"
 
+#. Qe5e
 #: svxitems.src#RID_SVXITEMS_FMTSPLIT_TRUE.string.text
 msgid "Split paragraph"
 msgstr "Divideix el paràgraf"
 
+#. 3DM1
 #: svxitems.src#RID_SVXITEMS_FMTSPLIT_FALSE.string.text
 msgid "Don't split paragraph"
 msgstr "No dividisques el paràgraf"
 
+#. ySri
 #: svxitems.src#RID_SVXITEMS_PROT_CONTENT_TRUE.string.text
 msgid "Contents protected"
 msgstr "Contingut protegit"
 
+#. y8Pm
 #: svxitems.src#RID_SVXITEMS_PROT_CONTENT_FALSE.string.text
 msgid "Contents not protected"
 msgstr "Contingut no protegit"
 
+#. GcBj
 #: svxitems.src#RID_SVXITEMS_PROT_SIZE_TRUE.string.text
 msgid "Size protected"
 msgstr "Mida protegida"
 
+#. h44i
 #: svxitems.src#RID_SVXITEMS_PROT_SIZE_FALSE.string.text
 msgid "Size not protected"
 msgstr "Mida no protegida"
 
+#. 5jgb
 #: svxitems.src#RID_SVXITEMS_PROT_POS_TRUE.string.text
 msgid "Position protected"
 msgstr "Posició protegida"
 
+#. F399
 #: svxitems.src#RID_SVXITEMS_PROT_POS_FALSE.string.text
 msgid "Position not protected"
 msgstr "Posició no protegida"
 
+#. zr#t
 #: svxitems.src#RID_SVXITEMS_TRANSPARENT_TRUE.string.text
 msgid "Transparent"
 msgstr "Transparent"
 
+#. VRCN
 #: svxitems.src#RID_SVXITEMS_TRANSPARENT_FALSE.string.text
 msgid "Not Transparent"
 msgstr "No transparent"
 
+#. DQrt
 #: svxitems.src#RID_SVXITEMS_HYPHEN_TRUE.string.text
 msgid "Hyphenation"
 msgstr "Partició de mots"
 
+#. VRpv
 #: svxitems.src#RID_SVXITEMS_HYPHEN_FALSE.string.text
 msgid "No hyphenation"
 msgstr "Sense partició de mots"
 
+#. fIeD
 #: svxitems.src#RID_SVXITEMS_PAGE_END_TRUE.string.text
 msgid "Page End"
 msgstr "Final de pàgina"
 
+#. 2gED
 #: svxitems.src#RID_SVXITEMS_PAGE_END_FALSE.string.text
 msgid "No Page End"
 msgstr "Sense final de pàgina"
 
+#. MQH0
 #: svxitems.src#RID_SVXITEMS_SIZE_WIDTH.string.text
 msgid "Width: "
 msgstr "Amplada: "
 
+#. Unie
 #: svxitems.src#RID_SVXITEMS_SIZE_HEIGHT.string.text
 msgid "Height: "
 msgstr "Alçada: "
 
+#. Aroh
 #: svxitems.src#RID_SVXITEMS_LRSPACE_LEFT.string.text
 msgid "Indent left "
 msgstr "Sagnat esquerre "
 
+#. zzSs
 #: svxitems.src#RID_SVXITEMS_LRSPACE_FLINE.string.text
 msgid "First Line "
 msgstr "Primera línia "
 
+#. 8sdL
 #: svxitems.src#RID_SVXITEMS_LRSPACE_RIGHT.string.text
 msgid "Indent right "
 msgstr "Sagnat dret "
 
+#. PEIb
 #: svxitems.src#RID_SVXITEMS_SHADOW_COMPLETE.string.text
 msgid "Shadow: "
 msgstr "Ombra: "
 
+#. 49YY
 #: svxitems.src#RID_SVXITEMS_BORDER_COMPLETE.string.text
 msgid "Borders "
 msgstr "Vores "
 
+#. _uHY
 #: svxitems.src#RID_SVXITEMS_BORDER_NONE.string.text
 msgid "No border"
 msgstr "Sense vores"
 
+#. YarW
 #: svxitems.src#RID_SVXITEMS_BORDER_TOP.string.text
 msgid "top "
 msgstr "part superior "
 
+#. Zwbt
 #: svxitems.src#RID_SVXITEMS_BORDER_BOTTOM.string.text
 msgid "bottom "
 msgstr "part inferior "
 
+#. iKzf
 #: svxitems.src#RID_SVXITEMS_BORDER_LEFT.string.text
 msgid "left "
 msgstr "esquerra "
 
+#. ngv3
 #: svxitems.src#RID_SVXITEMS_BORDER_RIGHT.string.text
 msgid "right "
 msgstr "dreta "
 
+#. _1N3
 #: svxitems.src#RID_SVXITEMS_BORDER_DISTANCE.string.text
 msgid "Spacing "
 msgstr "Espaiat "
 
+#. 8bTO
 #: svxitems.src#RID_SVXITEMS_ULSPACE_UPPER.string.text
 msgid "From top "
 msgstr "Des de dalt "
 
+#. Zb#9
 #: svxitems.src#RID_SVXITEMS_ULSPACE_LOWER.string.text
 msgid "From bottom "
 msgstr "Des de baix "
 
+#. l3nd
 #: svxitems.src#RID_SVXITEMS_LINES.string.text
 msgid "%1 Lines"
 msgstr "%1 línies"
 
+#. X_Au
 #: svxitems.src#RID_SVXITEMS_WIDOWS_COMPLETE.string.text
 msgid "Widow control"
 msgstr "Control de línies vídues"
 
+#. #Pik
 #: svxitems.src#RID_SVXITEMS_ORPHANS_COMPLETE.string.text
 msgid "Orphan control"
 msgstr "Control de línies òrfenes"
 
+#. KeQC
 #: svxitems.src#RID_SVXITEMS_HYPHEN_MINLEAD.string.text
 msgid "Characters at end of line"
 msgstr "Caràcters a la fi de la línia"
 
+#. LzC8
 #: svxitems.src#RID_SVXITEMS_HYPHEN_MINTRAIL.string.text
 msgid "Characters at beginning of line"
 msgstr "Caràcters a l'inici de la línia"
 
+#. mq8S
 #: svxitems.src#RID_SVXITEMS_HYPHEN_MAX.string.text
 msgid "Hyphens"
 msgstr "Guionets"
 
+#. 5_IG
 #: svxitems.src#RID_SVXITEMS_PAGEMODEL_COMPLETE.string.text
 msgid "Page Style: "
 msgstr "Estil de la pàgina: "
 
+#. u5dB
 #: svxitems.src#RID_SVXITEMS_KERNING_COMPLETE.string.text
 msgid "Kerning "
 msgstr "Interlletratge "
 
+#. HDbE
 #: svxitems.src#RID_SVXITEMS_KERNING_EXPANDED.string.text
 msgid "locked "
 msgstr "blocat "
 
+#. o95L
 #: svxitems.src#RID_SVXITEMS_KERNING_CONDENSED.string.text
 msgid "Condensed "
 msgstr "Condensat "
 
+#. BjPd
 #: svxitems.src#RID_SVXITEMS_GRAPHIC.string.text
 msgid "Graphic"
 msgstr "Gràfic"
 
+#. W3kb
 #: svxitems.src#RID_SVXITEMS_EMPHASIS_NONE_STYLE.string.text
 msgid "none"
 msgstr "cap"
 
+#. u2yN
 #: svxitems.src#RID_SVXITEMS_EMPHASIS_DOT_STYLE.string.text
 msgid "Dots "
 msgstr "Punts "
 
+#. VKyt
 #: svxitems.src#RID_SVXITEMS_EMPHASIS_CIRCLE_STYLE.string.text
 msgid "Circle "
 msgstr "Cercle "
 
+#. v1MA
 #: svxitems.src#RID_SVXITEMS_EMPHASIS_DISC_STYLE.string.text
 msgid "Filled circle "
 msgstr "Cercle ple "
 
+#. JfgL
 #: svxitems.src#RID_SVXITEMS_EMPHASIS_ACCENT_STYLE.string.text
 msgid "Accent "
 msgstr "Accent "
 
+#. 0ePQ
 #: svxitems.src#RID_SVXITEMS_EMPHASIS_ABOVE_POS.string.text
 msgid "Above"
 msgstr "A sobre"
 
+#. Xmqf
 #: svxitems.src#RID_SVXITEMS_EMPHASIS_BELOW_POS.string.text
 msgid "Below"
 msgstr "A sota"
 
+#. 2DWl
 #: svxitems.src#RID_SVXITEMS_TWOLINES_OFF.string.text
 msgid "Double-lined off"
 msgstr "Línies dobles desactivades"
 
+#. q_s5
 #: svxitems.src#RID_SVXITEMS_TWOLINES.string.text
 msgid "Double-lined"
 msgstr "Línies dobles activades"
 
+#. Arlc
 #: svxitems.src#RID_SVXITEMS_SCRPTSPC_OFF.string.text
 msgctxt "svxitems.src#RID_SVXITEMS_SCRPTSPC_OFF.string.text"
 msgid "No automatic character spacing"
 msgstr "Sense espaiat entre caràcters automàtic"
 
+#. WqkI
 #: svxitems.src#RID_SVXITEMS_SCRPTSPC_ON.string.text
 msgctxt "svxitems.src#RID_SVXITEMS_SCRPTSPC_ON.string.text"
 msgid "No automatic character spacing"
 msgstr "Sense espaiat entre caràcters automàtic"
 
+#. Djmb
 #: svxitems.src#RID_SVXITEMS_HNGPNCT_OFF.string.text
 msgid "No hanging punctuation at line end"
 msgstr "Sense puntuació eixint a fi de línia"
 
+#. 7741
 #: svxitems.src#RID_SVXITEMS_HNGPNCT_ON.string.text
 msgid "Hanging punctuation at line end"
 msgstr "Puntuació eixint a fi de línia"
 
+#. 6TAk
 #: svxitems.src#RID_SVXITEMS_FORBIDDEN_RULE_OFF.string.text
 msgid "Apply list of forbidden characters to beginning and end of lines"
 msgstr "Aplica la llista de caràcters prohibits a l'inici i a fi de línia"
 
+#. hcpl
 #: svxitems.src#RID_SVXITEMS_FORBIDDEN_RULE_ON.string.text
 msgid "Don't apply list of forbidden characters to beginning and end of lines"
 msgstr "No apliquis la llista de caràcters prohibits a l'inici i a fi de línia"
 
+#. yJCs
 #: svxitems.src#RID_SVXITEMS_CHARROTATE_OFF.string.text
 msgid "No rotated characters"
 msgstr "Sense gir de caràcters"
 
+#. tmgK
 #: svxitems.src#RID_SVXITEMS_CHARROTATE.string.text
 msgid "Character rotated by $(ARG1)°"
 msgstr "Gir de caràcters de $(ARG1)°"
 
+#. zS1u
 #: svxitems.src#RID_SVXITEMS_CHARROTATE_FITLINE.string.text
 msgid "Fit to line"
 msgstr "Ajusta a la línia"
 
+#. r1L_
 #: svxitems.src#RID_SVXITEMS_CHARSCALE.string.text
 msgid "Characters scaled $(ARG1)%"
 msgstr "Ampliació de caràcters del $(ARG1)%"
 
+#. mUSk
 #: svxitems.src#RID_SVXITEMS_CHARSCALE_OFF.string.text
 msgid "No scaled characters"
 msgstr "Sense ampliació de caràcters"
 
+#. C_SK
 #: svxitems.src#RID_SVXITEMS_RELIEF_NONE.string.text
 msgid "No relief"
 msgstr "Sense relleu"
 
+#. HQhQ
 #: svxitems.src#RID_SVXITEMS_RELIEF_EMBOSSED.string.text
 msgid "Relief"
 msgstr "Relleu"
 
+#. 0ejA
 #: svxitems.src#RID_SVXITEMS_RELIEF_ENGRAVED.string.text
 msgid "Engraved"
 msgstr "Gravat"
 
+#. X3Uq
 #: svxitems.src#RID_SVXITEMS_PARAVERTALIGN_AUTO.string.text
 msgid "Automatic text alignment"
 msgstr "Alineació automàtica del text"
 
+#. LJR1
 #: svxitems.src#RID_SVXITEMS_PARAVERTALIGN_BASELINE.string.text
 msgid "Text aligned to base line"
 msgstr "Text alineat a la línia de base"
 
+#. Bbfy
 #: svxitems.src#RID_SVXITEMS_PARAVERTALIGN_TOP.string.text
 msgid "Text aligned top"
 msgstr "Text alineat a la part superior"
 
+#. cDnW
 #: svxitems.src#RID_SVXITEMS_PARAVERTALIGN_CENTER.string.text
 msgid "Text aligned middle"
 msgstr "Text alineat al mig"
 
+#. PTzL
 #: svxitems.src#RID_SVXITEMS_PARAVERTALIGN_BOTTOM.string.text
 msgid "Text aligned bottom"
 msgstr "Text alineat a la part inferior"
 
+#. BhHS
 #: svxitems.src#RID_SVXITEMS_FRMDIR_HORI_LEFT_TOP.string.text
 msgid "Text direction left-to-right (horizontal)"
 msgstr "Direcció del text d'esquerra a dreta (horitzontal)"
 
+#. UVmm
 #: svxitems.src#RID_SVXITEMS_FRMDIR_HORI_RIGHT_TOP.string.text
 msgid "Text direction right-to-left (horizontal)"
 msgstr "Direcció del text de dreta a esquerra (horitzontal)"
 
+#. _Y2Y
 #: svxitems.src#RID_SVXITEMS_FRMDIR_VERT_TOP_RIGHT.string.text
 msgid "Text direction right-to-left (vertical)"
 msgstr "Direcció del text de dreta a esquerra (vertical)"
 
+#. y2XE
 #: svxitems.src#RID_SVXITEMS_FRMDIR_VERT_TOP_LEFT.string.text
 msgid "Text direction left-to-right (vertical)"
 msgstr "Direcció del text d'esquerra a dreta (vertical)"
 
+#. 6q82
 #: svxitems.src#RID_SVXITEMS_FRMDIR_ENVIRONMENT.string.text
 msgid "Use superordinate object text direction setting"
-msgstr "Utilitza la configuració de la direcció del text per a objectes superordinats"
+msgstr ""
+"Utilitza la configuració de la direcció del text per a objectes superordinats"
 
+#. eUnm
 #: svxitems.src#RID_SVXITEMS_PARASNAPTOGRID_ON.string.text
 msgid "Paragraph snaps to text grid (if active)"
 msgstr "El paràgraf s'ajusta a la graella del text (si està activa)"
 
+#. iyFT
 #: svxitems.src#RID_SVXITEMS_PARASNAPTOGRID_OFF.string.text
 msgid "Paragraph does not snap to text grid"
 msgstr "El paràgraf no s'ajusta a la graella del text"
 
+#. GykQ
 #: svxitems.src#RID_SVXITEMS_CHARHIDDEN_FALSE.string.text
 msgid "Not hidden"
 msgstr "No amagat"
 
+#. CP7r
 #: svxitems.src#RID_SVXITEMS_CHARHIDDEN_TRUE.string.text
 msgid "Hidden"
 msgstr "Amagat"
 
+#. LMbK
 #: svxitems.src#RID_SVXITEMS_HORJUST_STANDARD.string.text
 msgid "Horizontal alignment default"
 msgstr "Alineament horitzontal per defecte"
 
+#. ZtMH
 #: svxitems.src#RID_SVXITEMS_HORJUST_LEFT.string.text
 msgctxt "svxitems.src#RID_SVXITEMS_HORJUST_LEFT.string.text"
 msgid "Align left"
 msgstr "Alineació a l'esquerra"
 
+#. q3wS
 #: svxitems.src#RID_SVXITEMS_HORJUST_CENTER.string.text
 msgid "Centered horizontally"
 msgstr "Centrat horitzontalment"
 
+#. ZKx6
 #: svxitems.src#RID_SVXITEMS_HORJUST_RIGHT.string.text
 msgctxt "svxitems.src#RID_SVXITEMS_HORJUST_RIGHT.string.text"
 msgid "Align right"
 msgstr "Alineació a la dreta"
 
+#. 5wQJ
 #: svxitems.src#RID_SVXITEMS_HORJUST_BLOCK.string.text
 msgctxt "svxitems.src#RID_SVXITEMS_HORJUST_BLOCK.string.text"
 msgid "Justify"
 msgstr "Justifica"
 
+#. #2zU
 #: svxitems.src#RID_SVXITEMS_HORJUST_REPEAT.string.text
 msgid "Repeat alignment"
 msgstr "Repeteix l'alineació"
 
+#. kdpl
 #: svxitems.src#RID_SVXITEMS_VERJUST_STANDARD.string.text
 msgid "Vertical alignment default"
 msgstr "Alineament vertical per defecte"
 
+#. BmsH
 #: svxitems.src#RID_SVXITEMS_VERJUST_TOP.string.text
 msgid "Align to top"
 msgstr "Alineament a dalt"
 
+#. 1Dcc
 #: svxitems.src#RID_SVXITEMS_VERJUST_CENTER.string.text
 msgid "Centered vertically"
 msgstr "Centrat verticalment"
 
+#. #TgJ
 #: svxitems.src#RID_SVXITEMS_VERJUST_BOTTOM.string.text
 msgid "Align to bottom"
 msgstr "Alineament a baix"
 
+#. Y4KB
 #: svxitems.src#RID_SVXITEMS_JUSTMETHOD_AUTO.string.text
 msgid "Automatic"
 msgstr "Automàtic"
 
+#. ERlT
 #: svxitems.src#RID_SVXITEMS_JUSTMETHOD_DISTRIBUTE.string.text
 msgid "Distributed"
 msgstr "Distribuït"
 
+#. JrNi
 #: page.src#RID_SVXSTR_PAPERBIN.string.text
 msgid "Paper tray"
 msgstr "Safata de paper"
 
+#. TQ_i
 #: page.src#RID_SVXSTR_PAPERBIN_SETTINGS.string.text
 msgid "[From printer settings]"
 msgstr "[De la configuració d'impressora]"

@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+sysui%2Fdesktop%2Fshare.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment="
+"&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%"
+"3A+sysui%2Fdesktop%2Fshare.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:43+0200\n"
 "PO-Revision-Date: 2012-02-28 00:57+0200\n"
 "Last-Translator: Joan <joan@montane.cat>\n"
@@ -15,242 +17,333 @@ msgstr ""
 "X-Generator: Pootle 2.1.6\n"
 "X-Accelerator-Marker: ~\n"
 
+#. seqx
 #: launcher_comment.ulf#writer.LngText.text
-msgid "Create and edit text and graphics in letters, reports, documents and Web pages by using Writer."
-msgstr "Creeu i editeu textos i gràfics en cartes, informes, documents i pàgines web amb el Writer."
+msgid ""
+"Create and edit text and graphics in letters, reports, documents and Web "
+"pages by using Writer."
+msgstr ""
+"Creeu i editeu textos i gràfics en cartes, informes, documents i pàgines web "
+"amb el Writer."
 
+#. Q8BV
 #: launcher_comment.ulf#impress.LngText.text
-msgid "Create and edit presentations for slideshows, meeting and Web pages by using Impress."
-msgstr "Creeu i editeu presentacions per a diapositives, pàgines web i conferències amb l'Impress."
+msgid ""
+"Create and edit presentations for slideshows, meeting and Web pages by using "
+"Impress."
+msgstr ""
+"Creeu i editeu presentacions per a diapositives, pàgines web i conferències "
+"amb l'Impress."
 
+#. s1nI
 #: launcher_comment.ulf#draw.LngText.text
 msgid "Create and edit drawings, flow charts, and logos by using Draw."
 msgstr "Creeu i editeu dibuixos, diagrames de flux i logotips amb el Draw."
 
+#. LFFj
 #: launcher_comment.ulf#calc.LngText.text
-msgid "Perform calculations, analyze information and manage lists in spreadsheets by using Calc."
-msgstr "Feu càlculs, analitzeu informació i gestioneu llistes en fulls de càlcul amb el Calc."
+msgid ""
+"Perform calculations, analyze information and manage lists in spreadsheets "
+"by using Calc."
+msgstr ""
+"Feu càlculs, analitzeu informació i gestioneu llistes en fulls de càlcul amb "
+"el Calc."
 
+#. bc5g
 #: launcher_comment.ulf#math.LngText.text
 msgid "Create and edit scientific formulas and equations by using Math."
 msgstr "Creeu i editeu fórmules científiques i equacions amb el Math."
 
+#. l8Gh
 #: launcher_comment.ulf#base.LngText.text
-msgid "Manage databases, create queries and reports to track and manage your information by using Base."
-msgstr "Gestioneu bases de dades i creeu consultes i informes per fer el seguiment i gestionar informació amb el Base."
+msgid ""
+"Manage databases, create queries and reports to track and manage your "
+"information by using Base."
+msgstr ""
+"Gestioneu bases de dades i creeu consultes i informes per fer el seguiment i "
+"gestionar informació amb el Base."
 
+#. 8PL0
 #: launcher_comment.ulf#startcenter.LngText.text
-msgid "The office productivity suite compatible to the open and standardized ODF document format. Supported by The Document Foundation."
-msgstr "El programari ofimàtic compatible amb el format obert i estàndard ODF. Recolzat per The Document Foundation."
+msgid ""
+"The office productivity suite compatible to the open and standardized ODF "
+"document format. Supported by The Document Foundation."
+msgstr ""
+"El programari ofimàtic compatible amb el format obert i estàndard ODF. "
+"Recolzat per The Document Foundation."
 
+#. hqyP
 #: launcher_name.ulf#printeradmin.LngText.text
 msgid "%PRODUCTNAME Printer Administration"
 msgstr "Administració d'impressió del %PRODUCTNAME"
 
+#. Qgym
 #: launcher_genericname.ulf#writer.LngText.text
 msgid "Word Processor"
 msgstr "Processador de textos"
 
+#. hWgm
 #: launcher_genericname.ulf#impress.LngText.text
 msgid "Presentation"
 msgstr "Presentació"
 
+#. PRe3
 #: launcher_genericname.ulf#calc.LngText.text
 msgid "Spreadsheet"
 msgstr "Full de càlcul"
 
+#. ZSt5
 #: launcher_genericname.ulf#base.LngText.text
 msgid "Database Development"
 msgstr "Desenvolupament de bases de dades"
 
+#. foY4
 #: launcher_genericname.ulf#math.LngText.text
 msgid "Formula Editor"
 msgstr "Editor de fórmules"
 
+#. wLMy
 #: launcher_genericname.ulf#draw.LngText.text
 msgid "Drawing Program"
 msgstr "Programa de dibuix"
 
+#. A1QD
 #: launcher_genericname.ulf#startcenter.LngText.text
 msgid "Office"
 msgstr "Oficina"
 
+#. QlBw
 #: launcher_genericname.ulf#javafilter.LngText.text
 msgid "Small Device Format Importer"
 msgstr "Importador de formats de dispositius petits"
 
+#. N1lU
 #: documents.ulf#text.LngText.text
 msgid "%PRODUCTNAME Text Document"
 msgstr "Document de text del %PRODUCTNAME"
 
+#. qkMZ
 #: documents.ulf#text_template.LngText.text
 msgid "%PRODUCTNAME Text Document Template"
 msgstr "Plantilla de document de text del %PRODUCTNAME"
 
+#. h1b2
 #: documents.ulf#master_document.LngText.text
 msgid "%PRODUCTNAME Master Document"
 msgstr "Document mestre del %PRODUCTNAME"
 
+#. lwiP
 #: documents.ulf#formula.LngText.text
 msgid "%PRODUCTNAME Formula"
 msgstr "Fórmula del %PRODUCTNAME"
 
+#. pZ0j
 #: documents.ulf#presentation.LngText.text
 msgid "%PRODUCTNAME Presentation"
 msgstr "Presentació del %PRODUCTNAME"
 
+#. AjVV
 #: documents.ulf#presentation_template.LngText.text
 msgid "%PRODUCTNAME Presentation Template"
 msgstr "Plantilla de presentació del %PRODUCTNAME"
 
+#. IKI0
 #: documents.ulf#drawing.LngText.text
 msgid "%PRODUCTNAME Drawing"
 msgstr "Dibuix del %PRODUCTNAME"
 
+#. ybhv
 #: documents.ulf#drawing_template.LngText.text
 msgid "%PRODUCTNAME Drawing Template"
 msgstr "Plantilla de dibuix del %PRODUCTNAME"
 
+#. b6tH
 #: documents.ulf#spreadsheet.LngText.text
 msgid "%PRODUCTNAME Spreadsheet"
 msgstr "Full de càlcul del %PRODUCTNAME"
 
+#. lwR0
 #: documents.ulf#spreadsheet_template.LngText.text
 msgid "%PRODUCTNAME Spreadsheet Template"
 msgstr "Plantilla de full de càlcul del %PRODUCTNAME"
 
+#. hv3b
 #: documents.ulf#oasis_text.LngText.text
 msgid "OpenDocument Text"
 msgstr "Text OpenDocument"
 
+#. ddKU
 #: documents.ulf#oasis_text_template.LngText.text
 msgid "OpenDocument Text Template"
 msgstr "Plantilla de text OpenDocument"
 
+#. zyfa
 #: documents.ulf#oasis_master_document.LngText.text
 msgid "OpenDocument Master Document"
 msgstr "Document mestre OpenDocument"
 
+#. 3YvI
 #: documents.ulf#oasis_formula.LngText.text
 msgid "OpenDocument Formula"
 msgstr "Fórmula OpenDocument"
 
+#. ByBm
 #: documents.ulf#oasis_presentation.LngText.text
 msgid "OpenDocument Presentation"
 msgstr "Presentació OpenDocument"
 
+#. gz_#
 #: documents.ulf#oasis_presentation_template.LngText.text
 msgid "OpenDocument Presentation Template"
 msgstr "Plantilla de presentació OpenDocument"
 
+#. #C7B
 #: documents.ulf#oasis_drawing.LngText.text
 msgid "OpenDocument Drawing"
 msgstr "Dibuix OpenDocument"
 
+#. eTcV
 #: documents.ulf#oasis_drawing_template.LngText.text
 msgid "OpenDocument Drawing Template"
 msgstr "Plantilla de dibuix OpenDocument"
 
+#. fkKs
 #: documents.ulf#oasis_spreadsheet.LngText.text
 msgid "OpenDocument Spreadsheet"
 msgstr "Full de càlcul OpenDocument"
 
+#. tHqa
 #: documents.ulf#oasis_spreadsheet_template.LngText.text
 msgid "OpenDocument Spreadsheet Template"
 msgstr "Plantilla de full de càlcul OpenDocument"
 
+#. L1Gv
 #: documents.ulf#oasis_database.LngText.text
 msgid "OpenDocument Database"
 msgstr "Base de dades OpenDocument"
 
+#. EdMi
 #: documents.ulf#oasis_web_template.LngText.text
 msgid "HTML Document Template"
 msgstr "Plantilla de document HTML"
 
+#. oyqn
 #: documents.ulf#extension.LngText.text
 msgid "%PRODUCTNAME Extension"
 msgstr "Extensió del %PRODUCTNAME"
 
+# 100%
+#. rjWE
 #: documents.ulf#ms_excel_sheet.LngText.text
 msgctxt "documents.ulf#ms_excel_sheet.LngText.text"
 msgid "Microsoft Excel Worksheet"
 msgstr "Full del Microsoft Excel"
 
+# 100%
+#. yxoA
 #: documents.ulf#ms_powerpoint_presentation.LngText.text
 msgctxt "documents.ulf#ms_powerpoint_presentation.LngText.text"
 msgid "Microsoft PowerPoint Presentation"
 msgstr "Presentació del Microsoft PowerPoint"
 
+# 100%
+#. 5N5u
 #: documents.ulf#ms_word_document.LngText.text
 msgctxt "documents.ulf#ms_word_document.LngText.text"
 msgid "Microsoft Word Document"
 msgstr "Document del Microsoft Word"
 
+# 100%
+#. ELSl
 #: documents.ulf#ms_word_document2.LngText.text
 msgctxt "documents.ulf#ms_word_document2.LngText.text"
 msgid "Microsoft Word Document"
 msgstr "Document del Microsoft Word"
 
+#. lnQf
 #: documents.ulf#ms_excel_sheet_12.LngText.text
 msgctxt "documents.ulf#ms_excel_sheet_12.LngText.text"
 msgid "Microsoft Excel Worksheet"
 msgstr "Full del Microsoft Excel"
 
+#. FYch
 #: documents.ulf#ms_excel_template_12.LngText.text
 msgctxt "documents.ulf#ms_excel_template_12.LngText.text"
 msgid "Microsoft Excel Worksheet Template"
 msgstr "Plantilla de full del Microsoft Excel"
 
+#. SFaE
 #: documents.ulf#ms_powerpoint_presentation_12.LngText.text
 msgctxt "documents.ulf#ms_powerpoint_presentation_12.LngText.text"
 msgid "Microsoft PowerPoint Presentation"
 msgstr "Presentació del Microsoft PowerPoint"
 
+#. x7RA
 #: documents.ulf#ms_powerpoint_template_12.LngText.text
 msgctxt "documents.ulf#ms_powerpoint_template_12.LngText.text"
 msgid "Microsoft PowerPoint Presentation Template"
 msgstr "Plantilla de presentació del Microsoft PowerPoint"
 
+#. qMIo
 #: documents.ulf#ms_word_document_12.LngText.text
 msgctxt "documents.ulf#ms_word_document_12.LngText.text"
 msgid "Microsoft Word Document"
 msgstr "Document del Microsoft Word"
 
+#. IaSW
 #: documents.ulf#ms_word_template_12.LngText.text
 msgctxt "documents.ulf#ms_word_template_12.LngText.text"
 msgid "Microsoft Word Document Template"
 msgstr "Plantilla de document del Microsoft Word"
 
+#. 3NND
 #: documents.ulf#openxmlformats_officedocument_presentationml_presentation.LngText.text
-msgctxt "documents.ulf#openxmlformats_officedocument_presentationml_presentation.LngText.text"
+msgctxt ""
+"documents.ulf#openxmlformats_officedocument_presentationml_presentation."
+"LngText.text"
 msgid "Microsoft PowerPoint Presentation"
 msgstr "Presentació del Microsoft PowerPoint"
 
+#. DMPp
 #: documents.ulf#openxmlformats_officedocument_presentationml_template.LngText.text
-msgctxt "documents.ulf#openxmlformats_officedocument_presentationml_template.LngText.text"
+msgctxt ""
+"documents.ulf#openxmlformats_officedocument_presentationml_template.LngText."
+"text"
 msgid "Microsoft PowerPoint Presentation Template"
 msgstr "Plantilla de presentació del Microsoft PowerPoint"
 
+#. jcbf
 #: documents.ulf#openxmlformats_officedocument_spreadsheetml_sheet.LngText.text
-msgctxt "documents.ulf#openxmlformats_officedocument_spreadsheetml_sheet.LngText.text"
+msgctxt ""
+"documents.ulf#openxmlformats_officedocument_spreadsheetml_sheet.LngText.text"
 msgid "Microsoft Excel Worksheet"
 msgstr "Full del Microsoft Excel"
 
+#. tUZd
 #: documents.ulf#openxmlformats_officedocument_spreadsheetml_template.LngText.text
-msgctxt "documents.ulf#openxmlformats_officedocument_spreadsheetml_template.LngText.text"
+msgctxt ""
+"documents.ulf#openxmlformats_officedocument_spreadsheetml_template.LngText."
+"text"
 msgid "Microsoft Excel Worksheet Template"
 msgstr "Plantilla de full del Microsoft Excel"
 
+#. H2sF
 #: documents.ulf#openxmlformats_officedocument_wordprocessingml_document.LngText.text
-msgctxt "documents.ulf#openxmlformats_officedocument_wordprocessingml_document.LngText.text"
+msgctxt ""
+"documents.ulf#openxmlformats_officedocument_wordprocessingml_document."
+"LngText.text"
 msgid "Microsoft Word Document"
 msgstr "Document del Microsoft Word"
 
+#. VVHC
 #: documents.ulf#openxmlformats_officedocument_wordprocessingml_template.LngText.text
-msgctxt "documents.ulf#openxmlformats_officedocument_wordprocessingml_template.LngText.text"
+msgctxt ""
+"documents.ulf#openxmlformats_officedocument_wordprocessingml_template."
+"LngText.text"
 msgid "Microsoft Word Document Template"
 msgstr "Plantilla de document del Microsoft Word"
 
+#. c5vn
 #: documents.ulf#ms_excel_sheet_binary_12.LngText.text
 msgctxt "documents.ulf#ms_excel_sheet_binary_12.LngText.text"
 msgid "Microsoft Excel Worksheet"

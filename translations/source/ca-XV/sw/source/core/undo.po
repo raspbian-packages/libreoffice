@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+sw%2Fsource%2Fcore%2Fundo.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment="
+"&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%"
+"3A+sw%2Fsource%2Fcore%2Fundo.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:43+0200\n"
 "PO-Revision-Date: 2012-02-28 00:44+0200\n"
 "Last-Translator: Joan <joan@montane.cat>\n"
@@ -15,638 +17,794 @@ msgstr ""
 "X-Generator: Pootle 2.1.6\n"
 "X-Accelerator-Marker: ~\n"
 
+#. IzgK
 #: undo.src#STR_CANT_UNDO.string.text
 msgid "not possible"
 msgstr "no és possible"
 
+#. Cna9
 #: undo.src#STR_DELETE_UNDO.string.text
 msgctxt "undo.src#STR_DELETE_UNDO.string.text"
 msgid "Delete $1"
 msgstr "Suprimeix $1"
 
+#. 4fR5
 #: undo.src#STR_INSERT_UNDO.string.text
 msgctxt "undo.src#STR_INSERT_UNDO.string.text"
 msgid "Insert $1"
 msgstr "Insereix $1"
 
+#. TxFW
 #: undo.src#STR_OVR_UNDO.string.text
 msgid "Overwrite: $1"
 msgstr "Sobreescriu: $1"
 
+#. F895
 #: undo.src#STR_SPLITNODE_UNDO.string.text
 msgid "New Paragraph"
 msgstr "Paràgraf nou"
 
+#. 9s0Y
 #: undo.src#STR_MOVE_UNDO.string.text
 msgid "Move"
 msgstr "Mou"
 
+#. VbXX
 #: undo.src#STR_INSATTR_UNDO.string.text
 msgid "Apply attributes"
 msgstr "Aplica els atributs"
 
+#. ViFh
 #: undo.src#STR_SETFMTCOLL_UNDO.string.text
 msgid "Apply Styles: $1"
 msgstr "Aplica els estils: $1"
 
+#. AHia
 #: undo.src#STR_RESET_ATTR_UNDO.string.text
 msgid "Reset attributes"
 msgstr "Reinicialitza els atributs"
 
+#. XSnX
 #: undo.src#STR_INSFMT_ATTR_UNDO.string.text
 msgid "Change style: $1"
 msgstr "Canvia l'estil: $1"
 
+#. 0KO3
 #: undo.src#STR_INSERT_DOC_UNDO.string.text
 msgid "Insert file"
 msgstr "Insereix el fitxer"
 
+#. #SOC
 #: undo.src#STR_INSERT_GLOSSARY.string.text
 msgid "Insert AutoText"
 msgstr "Insereix text automàtic"
 
+#. 3Th5
 #: undo.src#STR_DELBOOKMARK.string.text
 msgid "Delete bookmark: $1"
 msgstr "Suprimeix el marcador: $1"
 
+#. tOrH
 #: undo.src#STR_INSBOOKMARK.string.text
 msgid "Insert bookmark: $1"
 msgstr "Insereix el marcador: $1"
 
+#. QYpV
 #: undo.src#STR_SORT_TBL.string.text
 msgid "Sort table"
 msgstr "Ordena la taula"
 
+#. MUFv
 #: undo.src#STR_SORT_TXT.string.text
 msgid "Sort text"
 msgstr "Ordena el text"
 
+#. kVJ0
 #: undo.src#STR_INSTABLE_UNDO.string.text
 msgid "Insert table: $1$2$3"
 msgstr "Insereix la taula: $1$2$3"
 
+#. 9Z3m
 #: undo.src#STR_TEXTTOTABLE_UNDO.string.text
 msgid "Convert text -> table"
 msgstr "Converteix text -> taula"
 
+#. LLW3
 #: undo.src#STR_TABLETOTEXT_UNDO.string.text
 msgid "Convert table -> text"
 msgstr "Converteix taula -> text"
 
+#. RJ1Y
 #: undo.src#STR_COPY_UNDO.string.text
 msgctxt "undo.src#STR_COPY_UNDO.string.text"
 msgid "Copy: $1"
 msgstr "Copia: $1"
 
+#. dKXZ
 #: undo.src#STR_REPLACE_UNDO.string.text
 msgid "Replace $1 $2 $3"
 msgstr "Reemplaça $1 $2 $3"
 
+#. #zGO
 #: undo.src#STR_INSERT_PAGE_BREAK_UNDO.string.text
 msgid "Insert page break"
 msgstr "Insereix un salt de pàgina"
 
+#. #s#n
 #: undo.src#STR_INSERT_COLUMN_BREAK_UNDO.string.text
 msgid "Insert column break"
 msgstr "Insereix un salt de columna"
 
+#. IRW#
 #: undo.src#STR_PLAY_MACRO_UNDO.string.text
 msgid "Run macro"
 msgstr "Executa la macro"
 
+#. 8Ngn
 #: undo.src#STR_INSERT_ENV_UNDO.string.text
 msgid "Insert Envelope"
 msgstr "Insereix un sobre"
 
+#. GhY4
 #: undo.src#STR_DRAG_AND_COPY.string.text
 msgctxt "undo.src#STR_DRAG_AND_COPY.string.text"
 msgid "Copy: $1"
 msgstr "Copia: $1"
 
+#. 420R
 #: undo.src#STR_DRAG_AND_MOVE.string.text
 msgid "Move: $1"
 msgstr "Mou: $1"
 
+#. s7sr
 #: undo.src#STR_INSERT_RULER.string.text
 msgid "Insert horizontal rule"
 msgstr "Insereix una línia horitzontal"
 
+#. V6gv
 #: undo.src#STR_INSERT_CHART.string.text
 msgid "Insert %PRODUCTNAME Chart"
 msgstr "Insereix un diagrama del %PRODUCTNAME"
 
+#. VnSm
 #: undo.src#STR_INSERTFLY.string.text
 msgid "Insert frame"
 msgstr "Insereix un marc"
 
+#. 9VmL
 #: undo.src#STR_DELETEFLY.string.text
 msgid "Delete frame"
 msgstr "Suprimeix un marc"
 
+#. Tgm3
 #: undo.src#STR_AUTOFORMAT.string.text
 msgid "AutoFormat"
 msgstr "Formatació automàtica"
 
+#. LtrR
 #: undo.src#STR_TABLEHEADLINE.string.text
 msgid "Table heading"
 msgstr "Encapçalament de la taula"
 
+#. EiTs
 #: undo.src#STR_REPLACE.string.text
 msgid "Replace: $1 $2 $3"
 msgstr "Reemplaça: $1 $2 $3"
 
+#. eF84
 #: undo.src#STR_INSERTSECTION.string.text
 msgid "Insert section"
 msgstr "Insereix una secció"
 
+#. #Dns
 #: undo.src#STR_DELETESECTION.string.text
 msgid "Delete section"
 msgstr "Suprimeix una secció"
 
+#. UJPF
 #: undo.src#STR_CHANGESECTION.string.text
 msgid "Modify section"
 msgstr "Modifica una secció"
 
+#. 6Oe7
 #: undo.src#STR_CHANGESECTPASSWD.string.text
 msgid "Change password protection"
 msgstr "Canvia la protecció amb contrasenya"
 
+#. oerz
 #: undo.src#STR_CHANGEDEFATTR.string.text
 msgid "Modify default values"
 msgstr "Modifica els valors per defecte"
 
+#. Rcl1
 #: undo.src#STR_REPLACE_STYLE.string.text
 msgid "Replace style: $1 $2 $3"
 msgstr "Reemplaça l'estil: $1 $2 $3"
 
+#. fD2K
 #: undo.src#STR_DELETE_PAGE_BREAK.string.text
 msgid "Delete page break"
 msgstr "Elimina el salt de pàgina"
 
+#. Au8Y
 #: undo.src#STR_OUTLINE_LR.string.text
 msgid "Promote/demote outline"
 msgstr "Augmenta/disminueix l'esquema"
 
+#. lmYG
 #: undo.src#STR_OUTLINE_UD.string.text
 msgid "Move outline"
 msgstr "Mou l'esquema"
 
+#. 6HH3
 #: undo.src#STR_INSNUM.string.text
 msgid "Insert numbering"
 msgstr "Insereix una numeració"
 
+#. lwyk
 #: undo.src#STR_NUMUP.string.text
 msgid "Promote level"
 msgstr "Un nivell cap amunt"
 
+#. QRtt
 #: undo.src#STR_NUMDOWN.string.text
 msgid "Demote level"
 msgstr "Un nivell cap avall"
 
+#. mFc9
 #: undo.src#STR_MOVENUM.string.text
 msgid "Move paragraphs"
 msgstr "Mou els paràgrafs"
 
+#. reW9
 #: undo.src#STR_INSERTDRAW.string.text
 msgid "Insert drawing object: $1"
 msgstr "Insereix l'objecte de dibuix: $1"
 
+#. 6p_s
 #: undo.src#STR_NUMORNONUM.string.text
 msgid "Number On/Off"
 msgstr "Número activat/desactivat"
 
+#. #P#d
 #: undo.src#STR_INC_LEFTMARGIN.string.text
 msgid "Increase Indent"
 msgstr "Augmenta el sagnat"
 
+#. Ch9W
 #: undo.src#STR_DEC_LEFTMARGIN.string.text
 msgid "Decrease indent"
 msgstr "Redueix el sagnat"
 
+#. a1bm
 #: undo.src#STR_INSERTLABEL.string.text
 msgid "Insert caption: $1"
 msgstr "Insereix la llegenda: $1"
 
+#. Rf4Z
 #: undo.src#STR_SETNUMRULESTART.string.text
 msgid "Restart numbering"
 msgstr "Reinicia la numeració"
 
+#. zetz
 #: undo.src#STR_CHANGEFTN.string.text
 msgid "Modify footnote"
 msgstr "Modifica la nota al peu"
 
+#. J9Wk
 #: undo.src#STR_ACCEPT_REDLINE.string.text
 msgid "Accept change: $1"
 msgstr "Accepta el canvi: $1"
 
+#. xKkn
 #: undo.src#STR_REJECT_REDLINE.string.text
 msgid "Reject change: $1"
 msgstr "Rebutja el canvi: $1"
 
+#. UJRy
 #: undo.src#STR_SPLIT_TABLE.string.text
 msgid "Split Table"
 msgstr "Divideix la taula"
 
+#. ZuqU
 #: undo.src#STR_DONTEXPAND.string.text
 msgid "Stop attribute"
 msgstr "Para l'atribut"
 
+#. 7Tg6
 #: undo.src#STR_AUTOCORRECT.string.text
 msgctxt "undo.src#STR_AUTOCORRECT.string.text"
 msgid "AutoCorrect"
 msgstr "Correcció automàtica"
 
+#. yvWC
 #: undo.src#STR_MERGE_TABLE.string.text
 msgid "Merge table"
 msgstr "Fusiona la taula"
 
+#. 7TO8
 #: undo.src#STR_TRANSLITERATE.string.text
 msgid "~Change Case"
 msgstr "~Canvia el cas"
 
+#. uBTo
 #: undo.src#STR_DELNUM.string.text
 msgid "Delete numbering"
 msgstr "Suprimeix la numeració"
 
+#. MKJN
 #: undo.src#STR_DRAWUNDO.string.text
 msgid "Drawing objects: $1"
 msgstr "Objectes de dibuix: $1"
 
+#. Ql_E
 #: undo.src#STR_DRAWGROUP.string.text
 msgid "Group draw objects"
 msgstr "Agrupa els objectes de dibuix"
 
+#. bVce
 #: undo.src#STR_DRAWUNGROUP.string.text
 msgid "Ungroup drawing objects"
 msgstr "Desagrupa els objectes de dibuix"
 
+#. 1Tan
 #: undo.src#STR_DRAWDELETE.string.text
 msgid "Delete drawing objects"
 msgstr "Suprimeix els objectes de dibuix"
 
+#. 3iPu
 #: undo.src#STR_REREAD.string.text
 msgid "Replace graphics"
 msgstr "Reemplaça els gràfics"
 
+#. O16m
 #: undo.src#STR_DELGRF.string.text
 msgid "Delete graphics"
 msgstr "Suprimeix els gràfics"
 
+#. mezV
 #: undo.src#STR_DELOLE.string.text
 msgid "Delete object"
 msgstr "Suprimeix l'objecte"
 
+#. o4fs
 #: undo.src#STR_TABLE_ATTR.string.text
 msgid "Apply table attributes"
 msgstr "Aplica els atributs de la taula"
 
+#. UmO3
 #: undo.src#STR_TABLE_AUTOFMT.string.text
 msgid "AutoFormat Table"
 msgstr "Taula de formatació automàtica"
 
+#. WbOr
 #: undo.src#STR_TABLE_INSCOL.string.text
 msgid "Insert Column"
 msgstr "Insereix una columna"
 
+#. #2#g
 #: undo.src#STR_TABLE_INSROW.string.text
 msgid "Insert Row"
 msgstr "Insereix una fila"
 
+#. JFvZ
 #: undo.src#STR_TABLE_DELBOX.string.text
 msgid "Delete row/column"
 msgstr "Suprimeix una fila/columna"
 
+#. WSb#
 #: undo.src#STR_UNDO_COL_DELETE.string.text
 msgid "Delete column"
 msgstr "Suprimeix una columna"
 
+#. 3Z29
 #: undo.src#STR_UNDO_ROW_DELETE.string.text
 msgid "Delete row"
 msgstr "Suprimeix una fila"
 
+#. Gszu
 #: undo.src#STR_TABLE_SPLIT.string.text
 msgid "Split Cells"
 msgstr "Divideix les cel·les"
 
+#. X6c5
 #: undo.src#STR_TABLE_MERGE.string.text
 msgid "Merge Cells"
 msgstr "Fusiona les cel·les"
 
+#. 11zB
 #: undo.src#STR_TABLE_NUMFORMAT.string.text
 msgid "Format cell"
 msgstr "Formata la cel·la"
 
+#. flWS
 #: undo.src#STR_INSERT_TOX.string.text
 msgid "Insert index/table"
 msgstr "Insereix un índex o una taula"
 
+#. u3RB
 #: undo.src#STR_CLEAR_TOX_RANGE.string.text
 msgid "Remove index/table"
 msgstr "Elimina un índex o una taula"
 
+#. PoZv
 #: undo.src#STR_TABLE_TBLCPYTBL.string.text
 msgctxt "undo.src#STR_TABLE_TBLCPYTBL.string.text"
 msgid "Copy table"
 msgstr "Copia la taula"
 
+#. jBSc
 #: undo.src#STR_TABLE_CPYTBL.string.text
 msgctxt "undo.src#STR_TABLE_CPYTBL.string.text"
 msgid "Copy table"
 msgstr "Copia la taula"
 
+#. wINC
 #: undo.src#STR_INS_FROM_SHADOWCRSR.string.text
 msgid "Set cursor"
 msgstr "Defineix el cursor"
 
+#. PI23
 #: undo.src#STR_UNDO_CHAIN.string.text
 msgid "Link text frames"
 msgstr "Enllaça els marcs de text"
 
+#. N3RT
 #: undo.src#STR_UNDO_UNCHAIN.string.text
 msgid "Unlink text frames"
 msgstr "Desenllaça els marcs de text"
 
+#. teZl
 #: undo.src#STR_UNDO_FTNINFO.string.text
 msgid "Modify footnote options"
 msgstr "Modifica les opcions de notes al peu"
 
+#. PkF0
 #: undo.src#STR_UNDO_ENDNOTEINFO.string.text
 msgid "Modify endnote settings"
 msgstr "Modifica la configuració de notes finals"
 
+#. 4y_B
 #: undo.src#STR_UNDO_COMPAREDOC.string.text
 msgid "Compare Document"
 msgstr "Compara el document"
 
+#. cga6
 #: undo.src#STR_UNDO_SETFLYFRMFMT.string.text
 msgid "Apply frame style: $1"
 msgstr "Aplica l'estil de marc: $1"
 
+#. Rq_Q
 #: undo.src#STR_UNDO_SETRUBYATTR.string.text
 msgid "Ruby Setting"
 msgstr "Paràmetre de Ruby"
 
+#. 0DUr
 #: undo.src#STR_UNDO_TMPAUTOCORR.string.text
 msgctxt "undo.src#STR_UNDO_TMPAUTOCORR.string.text"
 msgid "AutoCorrect"
 msgstr "Correcció automàtica"
 
+#. D10N
 #: undo.src#STR_INSERT_FOOTNOTE.string.text
 msgid "Insert footnote"
 msgstr "Insereix una nota al peu"
 
+#. FwNs
 #: undo.src#STR_INSERT_URLBTN.string.text
 msgid "insert URL button"
 msgstr "insereix un botó URL"
 
+#. y6PJ
 #: undo.src#STR_INSERT_URLTXT.string.text
 msgid "Insert Hyperlink"
 msgstr "Insereix un enllaç"
 
+#. Rdwy
 #: undo.src#STR_DELETE_INVISIBLECNTNT.string.text
 msgid "remove invisible content"
 msgstr "elimina el contingut invisible"
 
+#. HPQy
 #: undo.src#STR_TOXCHANGE.string.text
 msgid "Table/index changed"
 msgstr "Taula/índex canviat"
 
+#. KMze
 #: undo.src#STR_START_QUOTE.string.text
 msgctxt "undo.src#STR_START_QUOTE.string.text"
 msgid "'"
 msgstr "'"
 
+#. 7vV6
 #: undo.src#STR_END_QUOTE.string.text
 msgctxt "undo.src#STR_END_QUOTE.string.text"
 msgid "'"
 msgstr "'"
 
+#. PMIm
 #: undo.src#STR_LDOTS.string.text
 msgid "..."
 msgstr "..."
 
+#. jme_
 #: undo.src#STR_CLIPBOARD.string.text
 msgid "clipboard"
 msgstr "porta-retalls"
 
+#. 3fqU
 #: undo.src#STR_MULTISEL.string.text
 msgid "multiple selection"
 msgstr "selecció múltiple"
 
+#. HLTM
 #: undo.src#STR_TYPING_UNDO.string.text
 msgid "Typing: $1"
 msgstr "Tecleja: $1"
 
+#. zst7
 #: undo.src#STR_PASTE_CLIPBOARD_UNDO.string.text
 msgid "Paste clipboard"
 msgstr "Apega el porta-retalls"
 
+#. YTsT
 #: undo.src#STR_YIELDS.string.text
 msgid "->"
 msgstr "->"
 
+#. BEhg
 #: undo.src#STR_OCCURRENCES_OF.string.text
 msgid "occurrences of"
 msgstr "aparicions de"
 
+#. nZeb
 #: undo.src#STR_UNDO_TABS.string.text
 msgid "$1 tab(s)"
 msgstr "$1 pestanyes"
 
+#. ElzC
 #: undo.src#STR_UNDO_NLS.string.text
 msgid "$1 line break(s)"
 msgstr "$1 salts de línia"
 
+#. mahM
 #: undo.src#STR_UNDO_PAGEBREAKS.string.text
 msgid "page break"
 msgstr "salt de pàgina"
 
+#. NAdh
 #: undo.src#STR_UNDO_COLBRKS.string.text
 msgid "column break"
 msgstr "salt de columna"
 
+#. nz5r
 #: undo.src#STR_REDLINE_INSERT.string.text
 msgctxt "undo.src#STR_REDLINE_INSERT.string.text"
 msgid "Insert $1"
 msgstr "Insereix $1"
 
+#. ZUCw
 #: undo.src#STR_REDLINE_DELETE.string.text
 msgctxt "undo.src#STR_REDLINE_DELETE.string.text"
 msgid "Delete $1"
 msgstr "Suprimeix $1"
 
+#. uSfg
 #: undo.src#STR_REDLINE_FORMAT.string.text
 msgid "Attributes changed"
 msgstr "S'han canviat els atributs"
 
+#. X2OR
 #: undo.src#STR_REDLINE_TABLE.string.text
 msgid "Table changed"
 msgstr "S'ha canviat la taula"
 
+#. NGRV
 #: undo.src#STR_REDLINE_FMTCOLL.string.text
 msgid "Style changed"
 msgstr "S'ha canviat l'estil"
 
+#. NnV2
 #: undo.src#STR_REDLINE_MULTIPLE.string.text
 msgid "multiple changes"
 msgstr "canvis múltiples"
 
+#. 1nvT
 #: undo.src#STR_N_REDLINES.string.text
 msgid "$1 changes"
 msgstr "$1 canvis"
 
+#. mhwD
 #: undo.src#STR_UNDO_PAGEDESC.string.text
 msgid "Change page style: $1"
 msgstr "Canvia l'estil de pàgina: $1"
 
+#. brcR
 #: undo.src#STR_UNDO_PAGEDESC_CREATE.string.text
 msgid "Create page style: $1"
 msgstr "Crea l'estil de pàgina: $1"
 
+#. DPDD
 #: undo.src#STR_UNDO_PAGEDESC_DELETE.string.text
 msgid "Delete page style: $1"
 msgstr "Suprimeix l'estil de pàgina: $1"
 
+#. aDfU
 #: undo.src#STR_UNDO_PAGEDESC_RENAME.string.text
 msgid "Rename page style: $1 $2 $3"
 msgstr "Reanomena l'estil de pàgina: $1 $2 $3"
 
+#. K4M7
 #: undo.src#STR_UNDO_HEADER_FOOTER.string.text
 msgid "Header/footer changed"
 msgstr "S'ha canviat la capçalera/peu de pàgina"
 
+#. sc2X
 #: undo.src#STR_UNDO_FIELD.string.text
 msgid "Field changed"
 msgstr "S'ha canviat el camp"
 
+#. i0w6
 #: undo.src#STR_UNDO_TXTFMTCOL_CREATE.string.text
 msgid "Create paragraph style: $1"
 msgstr "Crea l'estil de paràgraf: $1"
 
+#. 4iHG
 #: undo.src#STR_UNDO_TXTFMTCOL_DELETE.string.text
 msgid "Delete paragraph style: $1"
 msgstr "Suprimeix l'estil de paràgraf: $1"
 
+#. jur3
 #: undo.src#STR_UNDO_TXTFMTCOL_RENAME.string.text
 msgid "Rename paragraph style: $1 $2 $3"
 msgstr "Reanomena l'estil de paràgraf: $1 $2 $3"
 
+#. yZEx
 #: undo.src#STR_UNDO_CHARFMT_CREATE.string.text
 msgid "Create character style: $1"
 msgstr "Crea l'estil de caràcter: $1"
 
+#. KFbj
 #: undo.src#STR_UNDO_CHARFMT_DELETE.string.text
 msgid "Delete character style: $1"
 msgstr "Suprimeix l'estil de caràcter: $1"
 
+#. zR1#
 #: undo.src#STR_UNDO_CHARFMT_RENAME.string.text
 msgid "Rename character style: $1 $2 $3"
 msgstr "Reanomena l'estil de caràcter: $1 $2 $3"
 
+#. HEdp
 #: undo.src#STR_UNDO_FRMFMT_CREATE.string.text
 msgid "Create frame style: $1"
 msgstr "Crea l'estil de marc: $1"
 
+#. vYCb
 #: undo.src#STR_UNDO_FRMFMT_DELETE.string.text
 msgid "Delete frame style: $1"
 msgstr "Suprimeix l'estil de marc: $1"
 
+#. Gses
 #: undo.src#STR_UNDO_FRMFMT_RENAME.string.text
 msgid "Rename frame style: $1 $2 $3"
 msgstr "Reanomena l'estil de marc: $1 $2 $3"
 
+#. pTmh
 #: undo.src#STR_UNDO_NUMRULE_CREATE.string.text
 msgid "Create numbering style: $1"
 msgstr "Crea l'estil de numeració: $1"
 
+#. RnRz
 #: undo.src#STR_UNDO_NUMRULE_DELETE.string.text
 msgid "Delete numbering style: $1"
 msgstr "Suprimeix l'estil de numeració: $1"
 
+#. ob_k
 #: undo.src#STR_UNDO_NUMRULE_RENAME.string.text
 msgid "Rename numbering style: $1 $2 $3"
 msgstr "Reanomena l'estil de numeració: $1 $2 $3"
 
+#. Cl79
 #: undo.src#STR_UNDO_BOOKMARK_RENAME.string.text
 msgid "Rename bookmark: $1 $2 $3"
 msgstr "Reanomena l'adreça d'interés: $1 $2 $3"
 
+#. Z4GS
 #: undo.src#STR_UNDO_INDEX_ENTRY_INSERT.string.text
 msgid "Insert index entry"
 msgstr "Insereix una entrada d'índex"
 
+#. ndPJ
 #: undo.src#STR_UNDO_INDEX_ENTRY_DELETE.string.text
 msgid "Delete index entry"
 msgstr "Suprimeix una entrada d'índex"
 
+#. BeMG
 #: undo.src#STR_FIELD.string.text
 msgid "field"
 msgstr "camp"
 
+#. po1n
 #: undo.src#STR_PARAGRAPHS.string.text
 msgid "Paragraphs"
 msgstr "Paràgrafs"
 
+#. SJtQ
 #: undo.src#STR_FRAME.string.text
 msgid "frame"
 msgstr "marc"
 
+#. OnBN
 #: undo.src#STR_OLE.string.text
 msgid "OLE-object"
 msgstr "Objecte OLE"
 
+#. piro
 #: undo.src#STR_MATH_FORMULA.string.text
 msgid "formula"
 msgstr "fórmula"
 
+#. S9I#
 #: undo.src#STR_CHART.string.text
 msgid "chart"
 msgstr "diagrama"
 
+#. WzIk
 #: undo.src#STR_NOTE.string.text
 msgid "comment"
 msgstr "comentari"
 
+#. TXYV
 #: undo.src#STR_REFERENCE.string.text
 msgid "cross-reference"
 msgstr "referència creuada"
 
+#. F9oT
 #: undo.src#STR_SCRIPT.string.text
 msgid "script"
 msgstr "script"
 
+#. SPx3
 #: undo.src#STR_AUTHORITY_ENTRY.string.text
 msgid "bibliography entry"
 msgstr "entrada bibliogràfica"
 
+#. Qzyl
 #: undo.src#STR_SPECIALCHAR.string.text
 msgid "special character"
 msgstr "caràcter especial"
 
+#. 0v5p
 #: undo.src#STR_FOOTNOTE.string.text
 msgid "footnote"
 msgstr "nota al peu"
 
+#. sMHn
 #: undo.src#STR_GRAPHIC.string.text
 msgid "picture"
 msgstr "imatge"
 
+#. Qu#e
 #: undo.src#STR_DRAWING_OBJECTS.string.text
 msgid "drawing object(s)"
 msgstr "objectes de dibuix"
 
+#. wIZs
 #: undo.src#STR_TABLE_NAME.string.text
 msgid "table: $1$2$3"
 msgstr "taula: $1$2$3"
 
+#. EA3V
 #: undo.src#STR_PARAGRAPH_UNDO.string.text
 msgid "paragraph"
 msgstr "paràgraf"
 
+#. FsAl
 #: undo.src#STR_UNDO_FLYFRMFMT_TITLE.string.text
 msgid "Change object title of $1"
 msgstr "Canvia el títol de l'objecte $1"
 
+#. Q_7w
 #: undo.src#STR_UNDO_FLYFRMFMT_DESCRITPTION.string.text
 msgid "Change object description of $1"
 msgstr "Canvia la descripció de l'objecte $1"
