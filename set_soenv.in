@@ -1568,6 +1568,7 @@ ToFile( "COM",               $COM,               "e" );
 ToFile( "COMPATH",           $COMPATH,           "e" );
 ToFile( "CPU",               $CPU,               "e" );
 ToFile( "CPUNAME",           $CPUNAME,           "e" );
+ToFile( "CDEFAULTOPT",       "@CDEFAULTOPT@",    "e" );
 ToFile( "GUI",               $GUI,               "e" );
 ToFile( "GUIBASE",           $GUIBASE,           "e" );
 ToFile( "GVER",              $GVER,              "e" );
