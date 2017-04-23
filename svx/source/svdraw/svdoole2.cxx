@@ -594,25 +594,6 @@ void SdrLightEmbeddedClient_Impl::setWindow(const uno::Reference< awt::XWindow >
     m_xWindow = _xWindow;
 }
 
-////////////////////////////////////////////////////////////////////////////////////////////////////
-
-class SdrEmbedObjectLink : public sfx2::SvBaseLink
-{
-    SdrOle2Obj*         pObj;
-
-public:
-                        SdrEmbedObjectLink(SdrOle2Obj* pObj);
-    virtual             ~SdrEmbedObjectLink();
-
-    virtual void        Closed();
-    virtual ::sfx2::SvBaseLink::UpdateResult DataChanged(
-        const String& rMimeType, const ::com::sun::star::uno::Any & rValue );
-
-    sal_Bool            Connect() { return GetRealObject() != NULL; }
-};
-
-// -----------------------------------------------------------------------------
-
 SdrEmbedObjectLink::SdrEmbedObjectLink(SdrOle2Obj* pObject):
     ::sfx2::SvBaseLink( ::sfx2::LINKUPDATE_ONCALL, SOT_FORMATSTR_ID_SVXB ),
     pObj(pObject)
