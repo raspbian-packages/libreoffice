@@ -26,8 +26,12 @@
 # for a copy of the LGPLv3 License.
 #
 #*************************************************************************
+import os
 import sys
 
+sys.path.append('/usr/lib/libreoffice/program')
+if getattr(os.environ, 'URE_BOOTSTRAP', None) is None:
+     os.environ['URE_BOOTSTRAP'] = "vnd.sun.star.pathname:/usr/lib/libreoffice/program/fundamentalrc"
 import pyuno
 
 try:
