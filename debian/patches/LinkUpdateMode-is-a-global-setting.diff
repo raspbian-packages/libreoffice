@@ -1,0 +1,288 @@
+commit 35d4fb9cfc3d2ff8145f28fadfeef1c782ae8483
+Author: Stephan Bergmann <sbergman@redhat.com>
+Date:   Tue Jul 7 12:08:01 2015 +0200
+
+    LinkUpdateMode is a global setting
+    
+      (cherry picked from commit 77cc71476bae2b3655102e2c29d36af40a393201)
+      Conflicts:
+          sw/source/core/doc/DocumentLinksAdministrationManager.cxx
+          sw/source/filter/xml/xmlimp.cxx
+    
+      Reviewed-on: https://gerrit.libreoffice.org/16424
+      Reviewed-by: Miklos Vajna <vmiklos@collabora.co.uk>
+      Reviewed-by: Christian Lohmaier <lohmaier+LibreOffice@googlemail.com>
+      Tested-by: Christian Lohmaier <lohmaier+LibreOffice@googlemail.com>
+    
+      Change-Id: Ida1257337c6e0916f2228fe053d9c9f085183af6
+
+diff --git a/sc/source/filter/xml/xmlimprt.cxx b/sc/source/filter/xml/xmlimprt.cxx
+index 166cef9..7227f82 100644
+--- a/sc/source/filter/xml/xmlimprt.cxx
++++ b/sc/source/filter/xml/xmlimprt.cxx
+@@ -2278,6 +2278,10 @@ void ScXMLImport::SetConfigurationSettings(const uno::Sequence<beans::PropertyVa
+             rtl::OUString sCTName(RTL_CONSTASCII_USTRINGPARAM("TrackedChangesProtectionKey"));
+             rtl::OUString sVBName(RTL_CONSTASCII_USTRINGPARAM("VBACompatibilityMode"));
+             rtl::OUString sSCName(RTL_CONSTASCII_USTRINGPARAM("ScriptConfiguration"));
++            rtl::OUString sLUName(RTL_CONSTASCII_USTRINGPARAM("LinkUpdateMode"));
++            com::sun::star::uno::Sequence<com::sun::star::beans::PropertyValue> aFilteredProps(
++                aConfigProps.getLength());
++            sal_Int32 nFilteredPropsLen = 0;
+             for (sal_Int32 i = nCount - 1; i >= 0; --i)
+             {
+                 if (aConfigProps[i].Name == sCTName)
+@@ -2312,11 +2316,16 @@ void ScXMLImport::SetConfigurationSettings(const uno::Sequence<beans::PropertyVa
+                             xImportInfo->setPropertyValue( aConfigProps[i].Name, aConfigProps[i].Value );
+                     }
+                 }
++                if (aConfigProps[i].Name != sLUName)
++                {
++                    aFilteredProps[nFilteredPropsLen++] = aConfigProps[i];
++                }
+             }
++            aFilteredProps.realloc(nFilteredPropsLen);
+             uno::Reference <uno::XInterface> xInterface = xMultiServiceFactory->createInstance(rtl::OUString(RTL_CONSTASCII_USTRINGPARAM("com.sun.star.comp.SpreadsheetSettings")));
+             uno::Reference <beans::XPropertySet> xProperties(xInterface, uno::UNO_QUERY);
+             if (xProperties.is())
+-                SvXMLUnitConverter::convertPropertySet(xProperties, aConfigProps);
++                SvXMLUnitConverter::convertPropertySet(xProperties, aFilteredProps);
+         }
+     }
+ }
+diff --git a/sc/source/ui/docshell/docsh4.cxx b/sc/source/ui/docshell/docsh4.cxx
+index 93d5c42..7332ed2 100644
+--- a/sc/source/ui/docshell/docsh4.cxx
++++ b/sc/source/ui/docshell/docsh4.cxx
+@@ -118,6 +118,7 @@ using namespace ::com::sun::star;
+ #include "sharedocdlg.hxx"
+ #include "conditio.hxx"
+ #include "sheetevents.hxx"
++#include "unotools/securityoptions.hxx"
+ 
+ //------------------------------------------------------------------
+ 
+@@ -447,11 +448,21 @@ void ScDocShell::Execute( SfxRequest& rReq )
+ 
+                 if (nCanUpdate == com::sun::star::document::UpdateDocMode::NO_UPDATE)
+                     nSet = LM_NEVER;
+-                else if (nCanUpdate == com::sun::star::document::UpdateDocMode::QUIET_UPDATE &&
+-                    nSet == LM_ON_DEMAND)
+-                    nSet = LM_NEVER;
+                 else if (nCanUpdate == com::sun::star::document::UpdateDocMode::FULL_UPDATE)
+                     nSet = LM_ALWAYS;
++                if (nSet == LM_ALWAYS
++                    && !(SvtSecurityOptions()
++                         .isTrustedLocationUriForUpdatingLinks(
++                             rtl::OUString(GetMedium() == nullptr
++                             ? String() : GetMedium()->GetName()))))
++                {
++                    nSet = LM_ON_DEMAND;
++                }
++                if (nCanUpdate == com::sun::star::document::UpdateDocMode::QUIET_UPDATE
++                    && nSet == LM_ON_DEMAND)
++                {
++                    nSet = LM_NEVER;
++                }
+ 
+                 if(nSet==LM_ON_DEMAND)
+                 {
+diff --git a/sw/source/core/doc/docnew.cxx b/sw/source/core/doc/docnew.cxx
+index cdf5def..e40671b 100644
+--- a/sw/source/core/doc/docnew.cxx
++++ b/sw/source/core/doc/docnew.cxx
+@@ -114,6 +114,7 @@
+ 
+ #include <sfx2/Metadatable.hxx>
+ #include <fmtmeta.hxx> // MetaFieldManager
++#include <unotools/securityoptions.hxx>
+ 
+ using namespace ::com::sun::star;
+ using namespace ::com::sun::star::document;
+@@ -924,6 +925,15 @@ void SwDoc::UpdateLinks( sal_Bool bUI )
+                 case document::UpdateDocMode::QUIET_UPDATE:bAskUpdate = sal_False; break;
+                 case document::UpdateDocMode::FULL_UPDATE: bAskUpdate = sal_True; break;
+             }
++            if (nLinkMode == AUTOMATIC && !bAskUpdate)
++            {
++                SfxMedium * medium = GetDocShell()->GetMedium();
++                if (!SvtSecurityOptions().isTrustedLocationUriForUpdatingLinks(
++                        rtl::OUString(medium == nullptr ? String() : medium->GetName())))
++                {
++                    bAskUpdate = true;
++                }
++            }
+             if( bUpdate && (bUI || !bAskUpdate) )
+             {
+                 SfxMedium* pMedium = GetDocShell()->GetMedium();
+diff --git a/sw/source/filter/xml/xmlimp.cxx b/sw/source/filter/xml/xmlimp.cxx
+index ca700d0..36b3fa9 100644
+--- a/sw/source/filter/xml/xmlimp.cxx
++++ b/sw/source/filter/xml/xmlimp.cxx
+@@ -1126,42 +1126,42 @@ void SwXMLImport::SetConfigurationSettings(const Sequence < PropertyValue > & aC
+     if( !xInfo.is() )
+         return;
+ 
+-    boost::unordered_set< String, StringHashRef, StringEqRef > aSet;
+-    aSet.insert(String("ForbiddenCharacters", RTL_TEXTENCODING_ASCII_US));
+-    aSet.insert(String("IsKernAsianPunctuation", RTL_TEXTENCODING_ASCII_US));
+-    aSet.insert(String("CharacterCompressionType", RTL_TEXTENCODING_ASCII_US));
+-    aSet.insert(String("LinkUpdateMode", RTL_TEXTENCODING_ASCII_US));
+-    aSet.insert(String("FieldAutoUpdate", RTL_TEXTENCODING_ASCII_US));
+-    aSet.insert(String("ChartAutoUpdate", RTL_TEXTENCODING_ASCII_US));
+-    aSet.insert(String("AddParaTableSpacing", RTL_TEXTENCODING_ASCII_US));
+-    aSet.insert(String("AddParaTableSpacingAtStart", RTL_TEXTENCODING_ASCII_US));
+-    aSet.insert(String("PrintAnnotationMode", RTL_TEXTENCODING_ASCII_US));
+-    aSet.insert(String("PrintBlackFonts", RTL_TEXTENCODING_ASCII_US));
+-    aSet.insert(String("PrintControls", RTL_TEXTENCODING_ASCII_US));
+-    aSet.insert(String("PrintDrawings", RTL_TEXTENCODING_ASCII_US));
+-    aSet.insert(String("PrintGraphics", RTL_TEXTENCODING_ASCII_US));
+-    aSet.insert(String("PrintLeftPages", RTL_TEXTENCODING_ASCII_US));
+-    aSet.insert(String("PrintPageBackground", RTL_TEXTENCODING_ASCII_US));
+-    aSet.insert(String("PrintProspect", RTL_TEXTENCODING_ASCII_US));
+-    aSet.insert(String("PrintReversed", RTL_TEXTENCODING_ASCII_US));
+-    aSet.insert(String("PrintRightPages", RTL_TEXTENCODING_ASCII_US));
+-    aSet.insert(String("PrintFaxName", RTL_TEXTENCODING_ASCII_US));
+-    aSet.insert(String("PrintPaperFromSetup", RTL_TEXTENCODING_ASCII_US));
+-    aSet.insert(String("PrintTables", RTL_TEXTENCODING_ASCII_US));
+-    aSet.insert(String("PrintSingleJobs", RTL_TEXTENCODING_ASCII_US));
+-    aSet.insert(String("UpdateFromTemplate", RTL_TEXTENCODING_ASCII_US));
+-    aSet.insert(String("PrinterIndependentLayout", RTL_TEXTENCODING_ASCII_US));
+-    aSet.insert(String("PrintEmptyPages", RTL_TEXTENCODING_ASCII_US));
+-    aSet.insert(String("SmallCapsPercentage66", RTL_TEXTENCODING_ASCII_US));
+-    aSet.insert(String("TabOverflow", RTL_TEXTENCODING_ASCII_US));
+-    aSet.insert(String("UnbreakableNumberings", RTL_TEXTENCODING_ASCII_US));
++    boost::unordered_set< String, StringHashRef, StringEqRef > aExcludeAlways;
++    aExcludeAlways.insert(String("LinkUpdateMode", RTL_TEXTENCODING_ASCII_US));
++    boost::unordered_set< String, StringHashRef, StringEqRef > aExcludeWhenNotLoadingUserSettings;
++    aExcludeWhenNotLoadingUserSettings.insert(String("ForbiddenCharacters", RTL_TEXTENCODING_ASCII_US));
++    aExcludeWhenNotLoadingUserSettings.insert(String("IsKernAsianPunctuation", RTL_TEXTENCODING_ASCII_US));
++    aExcludeWhenNotLoadingUserSettings.insert(String("CharacterCompressionType", RTL_TEXTENCODING_ASCII_US));
++    aExcludeWhenNotLoadingUserSettings.insert(String("FieldAutoUpdate", RTL_TEXTENCODING_ASCII_US));
++    aExcludeWhenNotLoadingUserSettings.insert(String("ChartAutoUpdate", RTL_TEXTENCODING_ASCII_US));
++    aExcludeWhenNotLoadingUserSettings.insert(String("AddParaTableSpacing", RTL_TEXTENCODING_ASCII_US));
++    aExcludeWhenNotLoadingUserSettings.insert(String("AddParaTableSpacingAtStart", RTL_TEXTENCODING_ASCII_US));
++    aExcludeWhenNotLoadingUserSettings.insert(String("PrintAnnotationMode", RTL_TEXTENCODING_ASCII_US));
++    aExcludeWhenNotLoadingUserSettings.insert(String("PrintBlackFonts", RTL_TEXTENCODING_ASCII_US));
++    aExcludeWhenNotLoadingUserSettings.insert(String("PrintControls", RTL_TEXTENCODING_ASCII_US));
++    aExcludeWhenNotLoadingUserSettings.insert(String("PrintDrawings", RTL_TEXTENCODING_ASCII_US));
++    aExcludeWhenNotLoadingUserSettings.insert(String("PrintGraphics", RTL_TEXTENCODING_ASCII_US));
++    aExcludeWhenNotLoadingUserSettings.insert(String("PrintLeftPages", RTL_TEXTENCODING_ASCII_US));
++    aExcludeWhenNotLoadingUserSettings.insert(String("PrintPageBackground", RTL_TEXTENCODING_ASCII_US));
++    aExcludeWhenNotLoadingUserSettings.insert(String("PrintProspect", RTL_TEXTENCODING_ASCII_US));
++    aExcludeWhenNotLoadingUserSettings.insert(String("PrintReversed", RTL_TEXTENCODING_ASCII_US));
++    aExcludeWhenNotLoadingUserSettings.insert(String("PrintRightPages", RTL_TEXTENCODING_ASCII_US));
++    aExcludeWhenNotLoadingUserSettings.insert(String("PrintFaxName", RTL_TEXTENCODING_ASCII_US));
++    aExcludeWhenNotLoadingUserSettings.insert(String("PrintPaperFromSetup", RTL_TEXTENCODING_ASCII_US));
++    aExcludeWhenNotLoadingUserSettings.insert(String("PrintTables", RTL_TEXTENCODING_ASCII_US));
++    aExcludeWhenNotLoadingUserSettings.insert(String("PrintSingleJobs", RTL_TEXTENCODING_ASCII_US));
++    aExcludeWhenNotLoadingUserSettings.insert(String("UpdateFromTemplate", RTL_TEXTENCODING_ASCII_US));
++    aExcludeWhenNotLoadingUserSettings.insert(String("PrinterIndependentLayout", RTL_TEXTENCODING_ASCII_US));
++    aExcludeWhenNotLoadingUserSettings.insert(String("PrintEmptyPages", RTL_TEXTENCODING_ASCII_US));
++    aExcludeWhenNotLoadingUserSettings.insert(String("SmallCapsPercentage66", RTL_TEXTENCODING_ASCII_US));
++    aExcludeWhenNotLoadingUserSettings.insert(String("TabOverflow", RTL_TEXTENCODING_ASCII_US));
++    aExcludeWhenNotLoadingUserSettings.insert(String("UnbreakableNumberings", RTL_TEXTENCODING_ASCII_US));
+ 
+     sal_Int32 nCount = aConfigProps.getLength();
+     const PropertyValue* pValues = aConfigProps.getConstArray();
+ 
+     SvtSaveOptions aSaveOpt;
+-    sal_Bool bIsUserSetting = aSaveOpt.IsLoadUserSettings(),
+-         bSet = bIsUserSetting;
++    sal_Bool bIsUserSetting = aSaveOpt.IsLoadUserSettings();
+ 
+     // for some properties we don't want to use the application
+     // default if they're missing. So we watch for them in the loop
+@@ -1198,12 +1198,12 @@ void SwXMLImport::SetConfigurationSettings(const Sequence < PropertyValue > & aC
+ 
+     while( nCount-- )
+     {
+-        if( !bIsUserSetting )
++        bool bSet = aExcludeAlways.find(pValues->Name) == aExcludeAlways.end();
++        if( bSet && !bIsUserSetting
++            && (aExcludeWhenNotLoadingUserSettings.find(pValues->Name)
++                != aExcludeWhenNotLoadingUserSettings.end()) )
+         {
+-            // test over the hash value if the entry is in the table.
+-            String aStr(pValues->Name);
+-
+-            bSet = aSet.find(aStr) == aSet.end();
++            bSet = false;
+         }
+ 
+         if( bSet )
+diff --git a/unotools/inc/unotools/securityoptions.hxx b/unotools/inc/unotools/securityoptions.hxx
+index fd1b7c7..c7b495a 100644
+--- a/unotools/inc/unotools/securityoptions.hxx
++++ b/unotools/inc/unotools/securityoptions.hxx
+@@ -192,6 +192,9 @@ class UNOTOOLS_DLLPUBLIC SvtSecurityOptions: public utl::detail::Options
+         ::com::sun::star::uno::Sequence< ::rtl::OUString >  GetSecureURLs(                                                                      ) const ;
+         void                                                SetSecureURLs( const ::com::sun::star::uno::Sequence< ::rtl::OUString >& seqURLList )       ;
+ 
++        bool isTrustedLocationUri(rtl::OUString const & uri) const;
++        bool isTrustedLocationUriForUpdatingLinks(rtl::OUString const & uri) const;
++
+         /*-****************************************************************************************************//**
+             @short      interface methods to get and set value of config key "org.openoffice.Office.Common/Security/Scripting/StarOfficeBasic"
+             @descr      These value determines how StarOffice Basic scripts should be handled.
+diff --git a/unotools/source/config/securityoptions.cxx b/unotools/source/config/securityoptions.cxx
+index 71ca268..59db9b8 100644
+--- a/unotools/source/config/securityoptions.cxx
++++ b/unotools/source/config/securityoptions.cxx
+@@ -39,6 +39,7 @@
+ #include <tools/wldcrd.hxx>
+ 
+ #include <unotools/pathoptions.hxx>
++#include <unotools/ucbhelper.hxx>
+ 
+ #include <rtl/logfile.hxx>
+ #include "itemholder1.hxx"
+@@ -133,6 +134,7 @@ using namespace ::com::sun::star::uno   ;
+ 
+ class SvtSecurityOptions_Impl : public ConfigItem
+ {
++    friend class SvtSecurityOptions;
+     //-------------------------------------------------------------------------------------------------------------
+     //  public methods
+     //-------------------------------------------------------------------------------------------------------------
+@@ -189,8 +191,10 @@ class SvtSecurityOptions_Impl : public ConfigItem
+ 
+         Sequence< OUString >    GetSecureURLs   (                                                       ) const ;
+         void                    SetSecureURLs   (   const   Sequence< OUString >&   seqURLList          )       ;
++
+         sal_Bool                IsSecureURL     (   const   OUString&               sURL,
+                                                     const   OUString&               sReferer            ) const ;
++
+         inline sal_Int32        GetMacroSecurityLevel   (                                               ) const ;
+         void                    SetMacroSecurityLevel   ( sal_Int32 _nLevel                             )       ;
+ 
+@@ -928,6 +932,30 @@ sal_Bool SvtSecurityOptions_Impl::IsSecureURL(  const   OUString&   sURL    ,
+     return bState;
+ }
+ 
++bool SvtSecurityOptions::isTrustedLocationUri(OUString const & uri) const {
++    MutexGuard g(GetInitMutex());
++    for (sal_Int32 i = 0; i != m_pDataContainer->m_seqSecureURLs.getLength();
++         ++i)
++    {
++        if (utl::UCBContentHelper::IsSubPath(
++                m_pDataContainer->m_seqSecureURLs[i], uri))
++        {
++            return true;
++        }
++    }
++    return false;
++}
++
++bool SvtSecurityOptions::isTrustedLocationUriForUpdatingLinks(
++    OUString const & uri) const
++{
++    const OUString uristart = uri.copy(0, 8);
++    return GetMacroSecurityLevel() == 0 || uri.isEmpty()
++        || uristart.equalsIgnoreAsciiCaseAsciiL("private:", 8)
++        || isTrustedLocationUri(uri);
++}
++
++
+ inline sal_Int32 SvtSecurityOptions_Impl::GetMacroSecurityLevel() const
+ {
+     return m_nSecLevel;

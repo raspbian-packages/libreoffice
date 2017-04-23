@@ -1,0 +1,11 @@
+--- a/odk/pack/gendocu/makefile.mk-old	2013-02-13 18:27:44.906025467 +0100
++++ b/odk/pack/gendocu/makefile.mk	2013-02-13 18:28:14.770024586 +0100
+@@ -77,7 +77,7 @@
+         -p salhelper $(INCOUT) -t salhelper \
+         -p bridges $(INCOUT) -t bridges
+ 
+-JAVADOCPARAMS= -use -splitindex -windowtitle "Java UNO Runtime Reference" -header $(JAVADOCREFNAME) -d $(DESTDIRGENJAVAREF) -sourcepath $(JAVA_SRC_DIR) -classpath $(SOLARBINDIR)$/ridl.jar -linkoffline ../../common/ref ./uno -linkoffline http://java.sun.com/j2se/1.4.1/docs/api ./java $(JAVA_PACKAGES)
++JAVADOCPARAMS= -use -splitindex -windowtitle "Java UNO Runtime Reference" -header $(JAVADOCREFNAME) -d $(DESTDIRGENJAVAREF) -sourcepath $(JAVA_SRC_DIR) -classpath $(SOLARBINDIR)$/ridl.jar -linkoffline ../../common/ref ./uno -linkoffline http://java.sun.com/j2se/1.5/docs/api ./java $(JAVA_PACKAGES)
+ 
+ JAVADOCLOG = $(MISC)$/javadoc_log.txt
+ 

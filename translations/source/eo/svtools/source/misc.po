@@ -1,0 +1,1511 @@
+#. extracted from svtools/source/misc.oo
+msgid ""
+msgstr ""
+"Project-Id-Version: LibreOffice 3.5.x\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+svtools%2Fsource%2Fmisc.oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-02-21 19:41+0200\n"
+"PO-Revision-Date: 2012-02-04 09:10+0200\n"
+"Last-Translator: Donald <donr2648@clear.net.nz>\n"
+"Language-Team: Esperanto <eo@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: eo\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+"X-Accelerator-Marker: ~\n"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_NONE.pairedlist.text
+msgid "[None]"
+msgstr "[Neniu]"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_DONTKNOW.pairedlist.text
+msgid "Unknown"
+msgstr "Nekonata"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SYSTEM.pairedlist.text
+msgid "Default"
+msgstr "Defaŭlto"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_AFRIKAANS.pairedlist.text
+msgid "Afrikaans (South Africa)"
+msgstr "Afrikansa (Sudafrika)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ALBANIAN.pairedlist.text
+msgid "Albanian"
+msgstr "Albana"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ARABIC_PRIMARY_ONLY.pairedlist.text
+msgid "Arabic"
+msgstr "Araba"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ARABIC_ALGERIA.pairedlist.text
+msgid "Arabic (Algeria)"
+msgstr "Araba (Alĝerio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ARABIC_BAHRAIN.pairedlist.text
+msgid "Arabic (Bahrain)"
+msgstr "Araba (Barejno)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_ARABIC_CHAD.pairedlist.text
+msgid "Arabic (Chad)"
+msgstr "Araba (Ĉado)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_ARABIC_COMOROS.pairedlist.text
+msgid "Arabic (Comoros)"
+msgstr "Araba (Komoroj)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_ARABIC_DJIBOUTI.pairedlist.text
+msgid "Arabic (Djibouti)"
+msgstr "Araba (Ĝibutio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ARABIC_EGYPT.pairedlist.text
+msgid "Arabic (Egypt)"
+msgstr "Araba (Egiptio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_ARABIC_ERITREA.pairedlist.text
+msgid "Arabic (Eritrea)"
+msgstr "Araba (Eritreo)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ARABIC_IRAQ.pairedlist.text
+msgid "Arabic (Iraq)"
+msgstr "Araba (Irako)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_ARABIC_ISRAEL.pairedlist.text
+msgid "Arabic (Israel)"
+msgstr "Araba (Israelo)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ARABIC_JORDAN.pairedlist.text
+msgid "Arabic (Jordan)"
+msgstr "Araba (Jordanio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ARABIC_KUWAIT.pairedlist.text
+msgid "Arabic (Kuwait)"
+msgstr "Araba (Kuvajto)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ARABIC_LEBANON.pairedlist.text
+msgid "Arabic (Lebanon)"
+msgstr "Araba (Libano)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ARABIC_LIBYA.pairedlist.text
+msgid "Arabic (Libya)"
+msgstr "Araba (Libio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_ARABIC_MAURITANIA.pairedlist.text
+msgid "Arabic (Mauritania)"
+msgstr "Araba (Maŭritanio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ARABIC_MOROCCO.pairedlist.text
+msgid "Arabic (Morocco)"
+msgstr "Araba (Maroko)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ARABIC_OMAN.pairedlist.text
+msgid "Arabic (Oman)"
+msgstr "Araba (Omano)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_ARABIC_PALESTINE.pairedlist.text
+msgid "Arabic (Palestine)"
+msgstr "Araba (Palestino)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ARABIC_QATAR.pairedlist.text
+msgid "Arabic (Qatar)"
+msgstr "Araba (Kataro)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ARABIC_SAUDI_ARABIA.pairedlist.text
+msgid "Arabic (Saudi Arabia)"
+msgstr "Araba (Saŭda Arabio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_ARABIC_SOMALIA.pairedlist.text
+msgid "Arabic (Somalia)"
+msgstr "Araba (Somalio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_ARABIC_SUDAN.pairedlist.text
+msgid "Arabic (Sudan)"
+msgstr "Araba (Sudano)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ARABIC_SYRIA.pairedlist.text
+msgid "Arabic (Syria)"
+msgstr "Araba (Sirio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ARABIC_TUNISIA.pairedlist.text
+msgid "Arabic (Tunisia)"
+msgstr "Araba (Tunizio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ARABIC_UAE.pairedlist.text
+msgid "Arabic (UAE)"
+msgstr "Araba (UAE)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ARABIC_YEMEN.pairedlist.text
+msgid "Arabic (Yemen)"
+msgstr "Araba (Jemeno)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_ARAGONESE.pairedlist.text
+msgid "Aragonese"
+msgstr "Aragona"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ARMENIAN.pairedlist.text
+msgid "Armenian"
+msgstr "Armena"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ASSAMESE.pairedlist.text
+msgid "Assami"
+msgstr "Asama"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_AZERI_LATIN.pairedlist.text
+msgid "Azerbaijani Latin"
+msgstr "Azerbajĝana latina"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_AZERI_CYRILLIC.pairedlist.text
+msgid "Azerbaijani Cyrillic"
+msgstr "Azerbajĝana cirila"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_BASQUE.pairedlist.text
+msgid "Basque"
+msgstr "Eŭska"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_BENGALI.pairedlist.text
+msgid "Bengali (India)"
+msgstr "Bengala (Barato)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_BULGARIAN.pairedlist.text
+msgid "Bulgarian"
+msgstr "Bulgara"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_BELARUSIAN.pairedlist.text
+msgid "Belarusian"
+msgstr "Belorusa"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_CATALAN.pairedlist.text
+msgid "Catalan"
+msgstr "Kataluna"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_CATALAN_VALENCIAN.pairedlist.text
+msgid "Catalan (Valencian)"
+msgstr "Kataluna (Valencio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_CHINESE_TRADITIONAL.pairedlist.text
+msgid "Chinese (traditional)"
+msgstr "Ĉina (tradicia)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_CHINESE_SIMPLIFIED.pairedlist.text
+msgid "Chinese (simplified)"
+msgstr "Ĉina (simpligita)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_CHINESE_HONGKONG.pairedlist.text
+msgid "Chinese (Hong Kong)"
+msgstr "Ĉina (Honkongo)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_CHINESE_SINGAPORE.pairedlist.text
+msgid "Chinese (Singapore)"
+msgstr "Ĉina (Singapuro)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_CHINESE_MACAU.pairedlist.text
+msgid "Chinese (Macau)"
+msgstr "Ĉina (Makao)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_CROATIAN.pairedlist.text
+msgid "Croatian"
+msgstr "Kroata"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_CZECH.pairedlist.text
+msgid "Czech"
+msgstr "Ĉeĥa"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_DANISH.pairedlist.text
+msgid "Danish"
+msgstr "Dana"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_DUTCH.pairedlist.text
+msgid "Dutch (Netherlands)"
+msgstr "Nederlanda (Nederlando)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_DUTCH_BELGIAN.pairedlist.text
+msgid "Dutch (Belgium)"
+msgstr "Nederlanda (Belgio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ENGLISH_US.pairedlist.text
+msgid "English (USA)"
+msgstr "Angla (Usono)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ENGLISH_UK.pairedlist.text
+msgid "English (UK)"
+msgstr "Angla (Britio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ENGLISH_AUS.pairedlist.text
+msgid "English (Australia)"
+msgstr "Angla (Aŭstralio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ENGLISH_CAN.pairedlist.text
+msgid "English (Canada)"
+msgstr "Angla (Kanado)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ENGLISH_NZ.pairedlist.text
+msgid "English (New Zealand)"
+msgstr "Angla (Nov-Zelando)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ENGLISH_EIRE.pairedlist.text
+msgid "English (Eire)"
+msgstr "Angla (Irlando)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ENGLISH_SAFRICA.pairedlist.text
+msgid "English (South Africa)"
+msgstr "Angla (Sud-Afriko)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ENGLISH_JAMAICA.pairedlist.text
+msgid "English (Jamaica)"
+msgstr "Angla (Jamajko)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ENGLISH_CARRIBEAN.pairedlist.text
+msgid "English (Caribbean)"
+msgstr "Angla (Kariba)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ENGLISH_BELIZE.pairedlist.text
+msgid "English (Belize)"
+msgstr "Angla (Belizo)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ENGLISH_TRINIDAD.pairedlist.text
+msgid "English (Trinidad)"
+msgstr "Angla (Trinidado)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ENGLISH_ZIMBABWE.pairedlist.text
+msgid "English (Zimbabwe)"
+msgstr "Angla (Zimbabvo)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ENGLISH_PHILIPPINES.pairedlist.text
+msgid "English (Philippines)"
+msgstr "Angla (Filipinoj)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ENGLISH_INDIA.pairedlist.text
+msgid "English (India)"
+msgstr "Angla (Barato)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ESTONIAN.pairedlist.text
+msgid "Estonian"
+msgstr "Estona"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_FINNISH.pairedlist.text
+msgid "Finnish"
+msgstr "Finna"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_FAEROESE.pairedlist.text
+msgid "Faroese"
+msgstr "Feroa"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_FARSI.pairedlist.text
+msgid "Farsi"
+msgstr "Persa"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_FRENCH.pairedlist.text
+msgid "French (France)"
+msgstr "Franca (Francio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_FRENCH_BELGIAN.pairedlist.text
+msgid "French (Belgium)"
+msgstr "Franca (Belgio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_FRENCH_CANADIAN.pairedlist.text
+msgid "French (Canada)"
+msgstr "Franca (Kanado)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_FRENCH_SWISS.pairedlist.text
+msgid "French (Switzerland)"
+msgstr "Franca (Svislando)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_FRENCH_LUXEMBOURG.pairedlist.text
+msgid "French (Luxembourg)"
+msgstr "Franca (Luksemburgo)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_FRENCH_MONACO.pairedlist.text
+msgid "French (Monaco)"
+msgstr "Franca (Monako)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_GASCON.pairedlist.text
+msgid "Gascon"
+msgstr "Gaskona"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_GERMAN.pairedlist.text
+msgid "German (Germany)"
+msgstr "Germana (Germanio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_GERMAN_SWISS.pairedlist.text
+msgid "German (Switzerland)"
+msgstr "Germana (Svisio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_GERMAN_AUSTRIAN.pairedlist.text
+msgid "German (Austria)"
+msgstr "Germana (Aŭstrio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_GERMAN_LUXEMBOURG.pairedlist.text
+msgid "German (Luxembourg)"
+msgstr "Germana (Luksemburgo)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_GERMAN_LIECHTENSTEIN.pairedlist.text
+msgid "German (Liechtenstein)"
+msgstr "Germana (Liĥtenŝtejno)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_GREEK.pairedlist.text
+msgid "Greek"
+msgstr "Greka"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_GUJARATI.pairedlist.text
+msgid "Gujarati"
+msgstr "Guĝarata"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_HEBREW.pairedlist.text
+msgid "Hebrew"
+msgstr "Hebrea"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_HINDI.pairedlist.text
+msgid "Hindi"
+msgstr "Hinda"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_HUNGARIAN.pairedlist.text
+msgid "Hungarian"
+msgstr "Hungara"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ICELANDIC.pairedlist.text
+msgid "Icelandic"
+msgstr "Islanda"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_INDONESIAN.pairedlist.text
+msgid "Indonesian"
+msgstr "Indonezia"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ITALIAN.pairedlist.text
+msgid "Italian (Italy)"
+msgstr "Itala (Italio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ITALIAN_SWISS.pairedlist.text
+msgid "Italian (Switzerland)"
+msgstr "Itala (Svislando)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_JAPANESE.pairedlist.text
+msgid "Japanese"
+msgstr "Japana"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_KANNADA.pairedlist.text
+msgid "Kannada"
+msgstr "Kanara"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_KASHMIRI.pairedlist.text
+msgid "Kashmiri (Kashmir)"
+msgstr "Kaŝmira (Kaŝmiro)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_KASHMIRI_INDIA.pairedlist.text
+msgid "Kashmiri (India)"
+msgstr "Kaŝmira (Barato)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_KAZAK.pairedlist.text
+msgid "Kazak"
+msgstr "Kazaĥa"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_KONKANI.pairedlist.text
+msgid "Konkani"
+msgstr "Konkana"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_KOREAN.pairedlist.text
+msgid "Korean (RoK)"
+msgstr "Korea (Sud-Koreio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_LATVIAN.pairedlist.text
+msgid "Latvian"
+msgstr "Latva"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_LITHUANIAN.pairedlist.text
+msgid "Lithuanian"
+msgstr "Litova"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_MACEDONIAN.pairedlist.text
+msgid "Macedonian"
+msgstr "Makedonia"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_MALAY_MALAYSIA.pairedlist.text
+msgid "Malay (Malaysia)"
+msgstr "Malaja (Malajzia)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_MALAY_BRUNEI_DARUSSALAM.pairedlist.text
+msgid "Malay (Brunei Darussalam)"
+msgstr "Malaja (Bruneja)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_MALAYALAM.pairedlist.text
+msgid "Malayalam"
+msgstr "Malajalama"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_MANIPURI.pairedlist.text
+msgid "Manipuri"
+msgstr "Manipura"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_MARATHI.pairedlist.text
+msgid "Marathi"
+msgstr "Marata"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_NEPALI.pairedlist.text
+msgid "Nepali (Nepal)"
+msgstr "Nepala (Barato)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_NEPALI_INDIA.pairedlist.text
+msgid "Nepali (India)"
+msgstr "Nepala (Barato)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_NORWEGIAN_BOKMAL.pairedlist.text
+msgid "Norwegian, Bokmål"
+msgstr "Norvega, Bokmål"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_NORWEGIAN_NYNORSK.pairedlist.text
+msgid "Norwegian, Nynorsk"
+msgstr "Norvega, Nynorsk"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ORIYA.pairedlist.text
+msgid "Oriya"
+msgstr "Orija"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_POLISH.pairedlist.text
+msgid "Polish"
+msgstr "Pola"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_PORTUGUESE_ANGOLA.pairedlist.text
+msgid "Portuguese (Angola)"
+msgstr "Portugala (Angolo)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_PORTUGUESE.pairedlist.text
+msgid "Portuguese (Portugal)"
+msgstr "Portugala (Portugalio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_PORTUGUESE_BRAZILIAN.pairedlist.text
+msgid "Portuguese (Brazil)"
+msgstr "Portugala (Brazilo)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_PUNJABI.pairedlist.text
+msgid "Punjabi"
+msgstr "Panĝaba"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_RHAETO_ROMAN.pairedlist.text
+msgid "Rhaeto-Romance"
+msgstr "Romanĉa"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ROMANIAN.pairedlist.text
+msgid "Romanian"
+msgstr "Rumana"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_RUSSIAN.pairedlist.text
+msgid "Russian"
+msgstr "Rusa"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SANSKRIT.pairedlist.text
+msgid "Sanskrit"
+msgstr "Sanskrito"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SERBIAN_CYRILLIC.pairedlist.text
+msgid "Serbian Cyrillic (Serbia and Montenegro)"
+msgstr "Serba cirila (Serbio kaj Montenegro)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SERBIAN_LATIN.pairedlist.text
+msgid "Serbian Latin (Serbia and Montenegro)"
+msgstr "Serba latina (Serbio kaj Montenegro)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_SERBIAN_CYRILLIC_SERBIA.pairedlist.text
+msgid "Serbian Cyrillic (Serbia)"
+msgstr "Serba cirila (Serbio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_SERBIAN_LATIN_SERBIA.pairedlist.text
+msgid "Serbian Latin (Serbia)"
+msgstr "Serba latina (Serbio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_SERBIAN_CYRILLIC_MONTENEGRO.pairedlist.text
+msgid "Serbian Cyrillic (Montenegro)"
+msgstr "Serba cirila (Montenegro)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_SERBIAN_LATIN_MONTENEGRO.pairedlist.text
+msgid "Serbian Latin (Montenegro)"
+msgstr "Serba latina (Montenegro)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SINDHI.pairedlist.text
+msgid "Sindhi"
+msgstr "Sinda"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SLOVAK.pairedlist.text
+msgid "Slovakian"
+msgstr "Slovakia"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SLOVENIAN.pairedlist.text
+msgid "Slovenian"
+msgstr "Slovena"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SPANISH.pairedlist.text
+msgid "Spanish (Spain)"
+msgstr "Hispana (Hispanio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SPANISH_MEXICAN.pairedlist.text
+msgid "Spanish (Mexico)"
+msgstr "Hispana (Meksiko)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SPANISH_GUATEMALA.pairedlist.text
+msgid "Spanish (Guatemala)"
+msgstr "Hispana (Gvatemalo)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SPANISH_COSTARICA.pairedlist.text
+msgid "Spanish (Costa Rica)"
+msgstr "Hispana (Kostariko)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SPANISH_PANAMA.pairedlist.text
+msgid "Spanish (Panama)"
+msgstr "Hispana (Panamo)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SPANISH_DOMINICAN_REPUBLIC.pairedlist.text
+msgid "Spanish (Dom. Rep.)"
+msgstr "Hispana (Domingo)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SPANISH_VENEZUELA.pairedlist.text
+msgid "Spanish (Venezuela)"
+msgstr "Hispana (Venezuelo)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SPANISH_COLOMBIA.pairedlist.text
+msgid "Spanish (Colombia)"
+msgstr "Hispana (Kolombio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SPANISH_PERU.pairedlist.text
+msgid "Spanish (Peru)"
+msgstr "Hispana (Peruo)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SPANISH_ARGENTINA.pairedlist.text
+msgid "Spanish (Argentina)"
+msgstr "Hispana (Argentino)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SPANISH_ECUADOR.pairedlist.text
+msgid "Spanish (Ecuador)"
+msgstr "Hispana (Ekvadoro)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SPANISH_CHILE.pairedlist.text
+msgid "Spanish (Chile)"
+msgstr "Hispana (Ĉilio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SPANISH_URUGUAY.pairedlist.text
+msgid "Spanish (Uruguay)"
+msgstr "Hispana (Urugvajo)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SPANISH_PARAGUAY.pairedlist.text
+msgid "Spanish (Paraguay)"
+msgstr "Hispana (Paragvajo)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SPANISH_BOLIVIA.pairedlist.text
+msgid "Spanish (Bolivia)"
+msgstr "Hispana (Bolivio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SPANISH_EL_SALVADOR.pairedlist.text
+msgid "Spanish (El Salvador)"
+msgstr "Hispana (Salvadoro)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SPANISH_HONDURAS.pairedlist.text
+msgid "Spanish (Honduras)"
+msgstr "Hispana (Honduro)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SPANISH_NICARAGUA.pairedlist.text
+msgid "Spanish (Nicaragua)"
+msgstr "Hispana (Nikaragvo)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SPANISH_PUERTO_RICO.pairedlist.text
+msgid "Spanish (Puerto Rico)"
+msgstr "Hispana (Puerto-Riko)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SWAHILI.pairedlist.text
+msgid "Swahili (Kenya)"
+msgstr "Svahila (Kenjo)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SWEDISH.pairedlist.text
+msgid "Swedish (Sweden)"
+msgstr "Sveda (Svedio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SWEDISH_FINLAND.pairedlist.text
+msgid "Swedish (Finland)"
+msgstr "Sveda (Finnlando)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_TAJIK.pairedlist.text
+msgid "Tajik"
+msgstr "Taĝika"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_TAMIL.pairedlist.text
+msgid "Tamil"
+msgstr "Tamila"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_TATAR.pairedlist.text
+msgid "Tatar"
+msgstr "Tatara"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_TELUGU.pairedlist.text
+msgid "Telugu"
+msgstr "Telugua"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_THAI.pairedlist.text
+msgid "Thai"
+msgstr "Taja"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_TURKISH.pairedlist.text
+msgid "Turkish"
+msgstr "Turka"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_URDU_PAKISTAN.pairedlist.text
+msgid "Urdu (Pakistan)"
+msgstr "Urduo (Pakistano)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_URDU_INDIA.pairedlist.text
+msgid "Urdu (India)"
+msgstr "Urduo (Barato)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_UKRAINIAN.pairedlist.text
+msgid "Ukrainian"
+msgstr "Ukraina"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_UZBEK_LATIN.pairedlist.text
+msgid "Uzbek Latin"
+msgstr "Uzbeka latina"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_WELSH.pairedlist.text
+msgid "Welsh"
+msgstr "Kimra"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER1.pairedlist.text
+msgid "User 1"
+msgstr "Propra 1"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER2.pairedlist.text
+msgid "User 2"
+msgstr "Propra 2"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER3.pairedlist.text
+msgid "User 3"
+msgstr "Propra 3"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER4.pairedlist.text
+msgid "User 4"
+msgstr "Propra 4"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER5.pairedlist.text
+msgid "User 5"
+msgstr "Propra 5"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER6.pairedlist.text
+msgid "User 6"
+msgstr "Propra 6"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER7.pairedlist.text
+msgid "User 7"
+msgstr "Propra 7"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER8.pairedlist.text
+msgid "User 8"
+msgstr "Propra 8"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER9.pairedlist.text
+msgid "User 9"
+msgstr "Propra 9"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_LATIN.pairedlist.text
+msgid "Latin"
+msgstr "Latino"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_ESPERANTO.pairedlist.text
+msgid "Esperanto"
+msgstr "Esperanto"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_KINYARWANDA.pairedlist.text
+msgid "Kinyarwanda (Rwanda)"
+msgstr "Ruanda (Ruando)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_MAORI_NEW_ZEALAND.pairedlist.text
+msgid "Maori (New Zealand)"
+msgstr "Maoria (Nov-Zelando)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_GALICIAN.pairedlist.text
+msgid "Galician"
+msgstr "Galega"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_DHIVEHI.pairedlist.text
+msgid "Dhivehi"
+msgstr "Diveha"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SEPEDI.pairedlist.text
+msgid "Northern Sotho"
+msgstr "Nordsota"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_GAELIC_SCOTLAND.pairedlist.text
+msgid "Gaelic (Scotland)"
+msgstr "Gaela (Skotlando)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_MONGOLIAN.pairedlist.text
+msgid "Mongolian"
+msgstr "Mongola"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_INTERLINGUA.pairedlist.text
+msgid "Interlingua"
+msgstr "Interlingvao"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_BOSNIAN_BOSNIA_HERZEGOVINA.pairedlist.text
+msgid "Bosnian"
+msgstr "Bosnia"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_BENGALI_BANGLADESH.pairedlist.text
+msgid "Bengali (Bangladesh)"
+msgstr "Bengala (Bangladeŝo)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_OCCITAN.pairedlist.text
+msgid "Occitan"
+msgstr "Okcitana"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_KHMER.pairedlist.text
+msgid "Khmer"
+msgstr "Kmera"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_KURDISH_TURKEY.pairedlist.text
+msgid "Kurdish (Turkey)"
+msgstr "Kurda (Turkio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_KURDISH_SYRIA.pairedlist.text
+msgid "Kurdish (Syria)"
+msgstr "Kurda (Sirio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_KURDISH_IRAQ.pairedlist.text
+msgid "Kurdish (Iraq)"
+msgstr "Kurda (Irako)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_KURDISH_IRAN.pairedlist.text
+msgid "Kurdish (Iran)"
+msgstr "Kurda (Irano)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_SARDINIAN.pairedlist.text
+msgid "Sardinian"
+msgstr "Sarda"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_DZONGKHA.pairedlist.text
+msgid "Dzongkha"
+msgstr "Dzonko"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_SWAHILI_TANZANIA.pairedlist.text
+msgid "Swahili (Tanzania)"
+msgstr "Svahila (Tanzanio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_LAO.pairedlist.text
+msgid "Lao"
+msgstr "Laŭa"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_GAELIC_IRELAND.pairedlist.text
+msgid "Irish"
+msgstr "Irlanda"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_TIBETAN.pairedlist.text
+msgid "Tibetan (PR China)"
+msgstr "Tibeta (PR-Ĉino)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_GEORGIAN.pairedlist.text
+msgid "Georgian"
+msgstr "Kartvela"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_FRISIAN_NETHERLANDS.pairedlist.text
+msgid "Frisian"
+msgstr "Frisa"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_TSWANA.pairedlist.text
+msgid "Tswana (South Africa)"
+msgstr "Cvana (Sudafrika)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_ZULU.pairedlist.text
+msgid "Zulu"
+msgstr "Zulua"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_VIETNAMESE.pairedlist.text
+msgid "Vietnamese"
+msgstr "Vjetnama"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_BRETON.pairedlist.text
+msgid "Breton"
+msgstr "Bretona"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_KALAALLISUT.pairedlist.text
+msgid "Kalaallisut"
+msgstr "Gronlanda"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_NDEBELE_SOUTH.pairedlist.text
+msgid "Ndebele, South"
+msgstr "Lingala, suda"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SESOTHO.pairedlist.text
+msgid "Southern Sotho"
+msgstr "Sudsota"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_SWAZI.pairedlist.text
+msgid "Swazi"
+msgstr "Svazia"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_TSONGA.pairedlist.text
+msgid "Tsonga"
+msgstr "Conga"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_VENDA.pairedlist.text
+msgid "Venda"
+msgstr "Vendaa"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_TSWANA_BOTSWANA.pairedlist.text
+msgid "Tswana (Botswana)"
+msgstr "Cvana (Bocvano)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_XHOSA.pairedlist.text
+msgid "Xhosa"
+msgstr "Kosa"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SINHALESE_SRI_LANKA.pairedlist.text
+msgid "Sinhala"
+msgstr "Sinhala"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_MOORE.pairedlist.text
+msgid "Moore"
+msgstr "Mora"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_BAMBARA.pairedlist.text
+msgid "Bambara"
+msgstr "Bambara"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_AKAN.pairedlist.text
+msgid "Akan"
+msgstr "Akana"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_LUXEMBOURGISH.pairedlist.text
+msgid "Luxembourgish"
+msgstr "Luksemburga"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_FRIULIAN.pairedlist.text
+msgid "Friulian"
+msgstr "Friula"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_FIJIAN.pairedlist.text
+msgid "Fijian"
+msgstr "Fiĝia"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_AFRIKAANS_NAMIBIA.pairedlist.text
+msgid "Afrikaans (Namibia)"
+msgstr "Afrikansa (Namibia)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_ENGLISH_NAMIBIA.pairedlist.text
+msgid "English (Namibia)"
+msgstr "Angla (Namibia)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_WALLOON.pairedlist.text
+msgid "Walloon"
+msgstr "Valona"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_COPTIC.pairedlist.text
+msgid "Coptic"
+msgstr "Kopta"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_TIGRIGNA_ERITREA.pairedlist.text
+msgid "Tigrigna (Eritrea)"
+msgstr "Tigraja (Eritreo)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_TIGRIGNA_ETHIOPIA.pairedlist.text
+msgid "Tigrigna (Ethiopia)"
+msgstr "Tigraja (Etiopio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_AMHARIC_ETHIOPIA.pairedlist.text
+msgid "Amharic"
+msgstr "Amhara"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_KIRGHIZ.pairedlist.text
+msgid "Kirghiz"
+msgstr "Kirgiza"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_GERMAN_BELGIUM.pairedlist.text
+msgid "German (Belgium)"
+msgstr "Germana (Belgio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_CHUVASH.pairedlist.text
+msgid "Chuvash"
+msgstr "Ĉuvaŝa"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_BURMESE.pairedlist.text
+msgid "Burmese"
+msgstr "Birma"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_HAUSA_NIGERIA.pairedlist.text
+msgid "Hausa (Nigeria)"
+msgstr "Haŭsa (Niĝerio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_HAUSA_GHANA.pairedlist.text
+msgid "Hausa (Ghana)"
+msgstr "Haŭsa (Ganao)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_EWE_GHANA.pairedlist.text
+msgid "Éwé"
+msgstr "Evea"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_ENGLISH_GHANA.pairedlist.text
+msgid "English (Ghana)"
+msgstr "Angla (Ganao)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_SANGO.pairedlist.text
+msgid "Sango"
+msgstr "Sangoa"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_TAGALOG.pairedlist.text
+msgid "Tagalog"
+msgstr "Tagalog"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_GANDA.pairedlist.text
+msgid "Ganda"
+msgstr "Ganda"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_LINGALA_DRCONGO.pairedlist.text
+msgid "Lingala"
+msgstr "Lingala"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_LOW_GERMAN.pairedlist.text
+msgid "Low German"
+msgstr "Platgermana"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_HILIGAYNON.pairedlist.text
+msgid "Hiligaynon"
+msgstr "Iloila"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_NYANJA.pairedlist.text
+msgid "Nyanja"
+msgstr "Njanĝa"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_KASHUBIAN.pairedlist.text
+msgid "Kashubian"
+msgstr "Kaŝuba"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_SPANISH_CUBA.pairedlist.text
+msgid "Spanish (Cuba)"
+msgstr "Hispana (Kubo)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_TETUN.pairedlist.text
+msgid "Tetun (Indonesia)"
+msgstr "Tetuna (Indonezio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_QUECHUA_NORTH_BOLIVIA.pairedlist.text
+msgid "Quechua (Bolivia, North)"
+msgstr "Keĉua (Bolivio, Norda)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_QUECHUA_SOUTH_BOLIVIA.pairedlist.text
+msgid "Quechua (Bolivia, South)"
+msgstr "Keĉua (Bolivio, Suda)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SOMALI.pairedlist.text
+msgid "Somali"
+msgstr "Somalia"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SAMI_INARI.pairedlist.text
+msgid "Sami, Inari (Finland)"
+msgstr "Samea, Inari (Finlando)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SAMI_LULE_NORWAY.pairedlist.text
+msgid "Sami, Lule (Norway)"
+msgstr "Samea, Lule (Norvegio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SAMI_LULE_SWEDEN.pairedlist.text
+msgid "Sami, Lule (Sweden)"
+msgstr "Samea, Lule (Svedio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SAMI_NORTHERN_FINLAND.pairedlist.text
+msgid "Sami, Northern (Finland)"
+msgstr "Samea, Norda (Finlando)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SAMI_NORTHERN_NORWAY.pairedlist.text
+msgid "Sami, Northern (Norway)"
+msgstr "Samea, Norda (Norvegio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SAMI_NORTHERN_SWEDEN.pairedlist.text
+msgid "Sami, Northern (Sweden)"
+msgstr "Samea, Norda (Svedio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SAMI_SKOLT.pairedlist.text
+msgid "Sami, Skolt (Finland)"
+msgstr "Samea, Skolt (Finlando)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SAMI_SOUTHERN_NORWAY.pairedlist.text
+msgid "Sami, Southern (Norway)"
+msgstr "Samea, Suda (Norvegio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_SAMI_SOUTHERN_SWEDEN.pairedlist.text
+msgid "Sami, Southern (Sweden)"
+msgstr "Samea, Suda (Svedio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_SAMI_KILDIN_RUSSIA.pairedlist.text
+msgid "Sami, Kildin (Russia)"
+msgstr "Samea, Kildin (Rusio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_GUARANI_PARAGUAY.pairedlist.text
+msgid "Guaraní, Paraguayan"
+msgstr "Gvarania, Paragvaja"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_BODO_INDIA.pairedlist.text
+msgid "Bodo"
+msgstr "Bodoa"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_DOGRI_INDIA.pairedlist.text
+msgid "Dogri"
+msgstr "Dogra"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_MAITHILI_INDIA.pairedlist.text
+msgid "Maithili"
+msgstr "Majtila"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_SANTALI_INDIA.pairedlist.text
+msgid "Santali"
+msgstr "Santala"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_TETUN_TIMOR_LESTE.pairedlist.text
+msgid "Tetun (Timor-Leste)"
+msgstr "Tetuma (Orienta Timoro)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_TURKMEN.pairedlist.text
+msgid "Turkmen"
+msgstr "Turkmena"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_MALTESE.pairedlist.text
+msgid "Maltese"
+msgstr "Malta"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_TOK_PISIN.pairedlist.text
+msgid "Tok Pisin"
+msgstr "Tokpisina"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_SHUSWAP.pairedlist.text
+msgid "Shuswap"
+msgstr "Ŝuŝvapa"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_OROMO.pairedlist.text
+msgid "Oromo"
+msgstr "Oroma"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_ANCIENT_GREEK.pairedlist.text
+msgid "Greek, Ancient"
+msgstr "Greka, antikva"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_YIDDISH.pairedlist.text
+msgid "Yiddish (Israel)"
+msgstr "Jida (Israelo)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_QUECHUA_ECUADOR.pairedlist.text
+msgid "Quechua (Ecuador)"
+msgstr "Keĉua (Ekvadoro)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_UIGHUR_CHINA.pairedlist.text
+msgid "Uyghur"
+msgstr "Ujgura"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_ASTURIAN.pairedlist.text
+msgid "Asturian"
+msgstr "Asturia"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_UPPER_SORBIAN_GERMANY.pairedlist.text
+msgid "Sorbian, Upper"
+msgstr "Soraba, alta"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_LOWER_SORBIAN_GERMANY.pairedlist.text
+msgid "Sorbian, Lower"
+msgstr "Soraba, malalta"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_LATGALIAN.pairedlist.text
+#, fuzzy
+msgid "Latgalian"
+msgstr "Latagala"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_MAORE.pairedlist.text
+msgid "Maore"
+msgstr "Maorea"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_BUSHI.pairedlist.text
+#, fuzzy
+msgid "Bushi"
+msgstr "Buŝia"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_TAHITIAN.pairedlist.text
+msgid "Tahitian"
+msgstr "Tahitia"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_MALAGASY_PLATEAU.pairedlist.text
+msgid "Malagasy, Plateau"
+msgstr "Malagasa, Plataĵo"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_PAPIAMENTU.pairedlist.text
+msgid "Papiamentu (Netherlands Antilles)"
+msgstr "Papiamento (Nederlandaj Antiloj)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_PAPIAMENTU_ARUBA.pairedlist.text
+msgid "Papiamento (Aruba)"
+msgstr "Papiamento (Arubo)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_SARDINIAN_CAMPIDANESE.pairedlist.text
+msgid "Sardinian, Campidanese"
+msgstr "Sarda, Kampidanesa"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_SARDINIAN_GALLURESE.pairedlist.text
+#, fuzzy
+msgid "Sardinian, Gallurese"
+msgstr "Sarda, Galura"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_SARDINIAN_LOGUDORESE.pairedlist.text
+#, fuzzy
+msgid "Sardinian, Logudorese"
+msgstr "Sarda, Logudora"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_SARDINIAN_SASSARESE.pairedlist.text
+#, fuzzy
+msgid "Sardinian, Sassarese"
+msgstr "Sarda, Sasara"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_BAFIA.pairedlist.text
+msgid "Bafia"
+msgstr "Bafia"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_GIKUYU.pairedlist.text
+msgid "Gikuyu"
+msgstr "Kuja"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_YORUBA.pairedlist.text
+msgid "Yoruba"
+msgstr "Joruba"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_RUSYN_UKRAINE.pairedlist.text
+msgid "Rusyn (Ukraine)"
+msgstr "Rusina (Ukraina)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_RUSYN_SLOVAKIA.pairedlist.text
+msgid "Rusyn (Slovakia)"
+msgstr "Rusina (Slovakio)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_TAMAZIGHT_LATIN.pairedlist.text
+msgid "Kabyle Latin"
+msgstr "Labila Latina"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_YIDDISH_US.pairedlist.text
+msgid "Yiddish (USA)"
+msgstr "Jida (Usono)"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_HAWAIIAN_UNITED_STATES.pairedlist.text
+msgid "Hawaiian"
+msgstr "Havaja"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_LIMBU.pairedlist.text
+#, fuzzy
+msgid "Limbu"
+msgstr "Limbua"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_LOJBAN.pairedlist.text
+msgid "Lojban"
+msgstr "Loĵbano"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_HAITIAN.pairedlist.text
+msgid "Haitian"
+msgstr "Haitia"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_BEEMBE.pairedlist.text
+msgid "Beembe"
+msgstr "Bemba"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_BEKWEL.pairedlist.text
+#, fuzzy
+msgid "Bekwel"
+msgstr "Bekvela"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_KITUBA.pairedlist.text
+msgid "Kituba"
+msgstr "Kituba"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_LARI.pairedlist.text
+#, fuzzy
+msgid "Lari"
+msgstr "Laria"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_MBOCHI.pairedlist.text
+#, fuzzy
+msgid "Mbochi"
+msgstr "Mboĉa"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_TEKE_EBOO.pairedlist.text
+#, fuzzy
+msgid "Teke-Eboo"
+msgstr "Teke-centra"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_TEKE_IBALI.pairedlist.text
+#, fuzzy
+msgid "Teke-Ibali"
+msgstr "Teke-Ibala"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_TEKE_TYEE.pairedlist.text
+#, fuzzy
+msgid "Teke-Tyee"
+msgstr "Teke-Tiea"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_VILI.pairedlist.text
+#, fuzzy
+msgid "Vili"
+msgstr "Vilia"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_KEYID.pairedlist.text
+msgid "KeyID"
+msgstr "ŜlosiloID"
+
+#: langtab.src#STR_ARR_SVT_LANGUAGE_TABLE.LANGUAGE_USER_PALI_LATIN.pairedlist.text
+msgid "Pali Latin"
+msgstr "Palia Latina"
+
+#: undo.src#STR_UNDO.string.text
+msgid "Undo: "
+msgstr "Malfari: "
+
+#: undo.src#STR_REDO.string.text
+msgid "Re~do: "
+msgstr "Refari: "
+
+#: undo.src#STR_REPEAT.string.text
+msgid "~Repeat: "
+msgstr "Ripeti: "
+
+#: imagemgr.src#STR_DESCRIPTION_SOURCEFILE.string.text
+msgid "Source code"
+msgstr "Fontkodo"
+
+#: imagemgr.src#STR_DESCRIPTION_BOOKMARKFILE.string.text
+msgid "Bookmark file"
+msgstr "Legosigna dosiero"
+
+#: imagemgr.src#STR_DESCRIPTION_GRAPHIC_DOC.string.text
+msgid "Graphics"
+msgstr "Grafikaĵoj"
+
+#: imagemgr.src#STR_DESCRIPTION_CFGFILE.string.text
+msgid "Configuration file"
+msgstr "Konfigura dosiero"
+
+#: imagemgr.src#STR_DESCRIPTION_APPLICATION.string.text
+msgid "Application"
+msgstr "Aplikaĵo"
+
+#: imagemgr.src#STR_DESCRIPTION_DATABASE_TABLE.string.text
+msgid "Database table"
+msgstr "Datumbaza tabelo"
+
+#: imagemgr.src#STR_DESCRIPTION_SYSFILE.string.text
+msgid "System file"
+msgstr "Sistemdosiero"
+
+#: imagemgr.src#STR_DESCRIPTION_WORD_DOC.string.text
+msgid "MS Word document"
+msgstr "MS Word-dokumento"
+
+#: imagemgr.src#STR_DESCRIPTION_HELP_DOC.string.text
+msgid "Help file"
+msgstr "Helpa dosiero"
+
+#: imagemgr.src#STR_DESCRIPTION_HTMLFILE.string.text
+msgctxt "imagemgr.src#STR_DESCRIPTION_HTMLFILE.string.text"
+msgid "HTML document"
+msgstr "HTML-a dokumento"
+
+#: imagemgr.src#STR_DESCRIPTION_ARCHIVFILE.string.text
+msgid "Archive file"
+msgstr "Arkiva dosiero"
+
+#: imagemgr.src#STR_DESCRIPTION_LOGFILE.string.text
+msgid "Log file"
+msgstr "Protokolo"
+
+#: imagemgr.src#STR_DESCRIPTION_SDATABASE_DOC.string.text
+msgid "StarOffice Database"
+msgstr "Datumbazo de StarOffice"
+
+#: imagemgr.src#STR_DESCRIPTION_GLOBALDOC.string.text
+msgid "StarWriter 4.0 / 5.0 Master Document"
+msgstr "Ĉefa dokumento de StarWriter 4.0 / 5.0"
+
+#: imagemgr.src#STR_DESCRIPTION_SIMAGE_DOC.string.text
+msgid "StarOffice Image"
+msgstr "Bildo de StarOffice"
+
+#: imagemgr.src#STR_DESCRIPTION_TEXTFILE.string.text
+msgid "Text file"
+msgstr "Teksta dosiero"
+
+#: imagemgr.src#STR_DESCRIPTION_LINK.string.text
+msgid "Link"
+msgstr "Ligo"
+
+#: imagemgr.src#STR_DESCRIPTION_SOFFICE_TEMPLATE_DOC.string.text
+msgid "StarOffice 3.0 - 5.0 Template"
+msgstr "Ŝablono de StarOffice 3.0 - 5.0"
+
+#: imagemgr.src#STR_DESCRIPTION_EXCEL_DOC.string.text
+msgid "MS Excel document"
+msgstr "MS Excel -dokumento"
+
+#: imagemgr.src#STR_DESCRIPTION_EXCEL_TEMPLATE_DOC.string.text
+msgid "MS Excel template"
+msgstr "MS Excel -ŝablono"
+
+#: imagemgr.src#STR_DESCRIPTION_BATCHFILE.string.text
+msgid "Batch file"
+msgstr "Skripto"
+
+#: imagemgr.src#STR_DESCRIPTION_FILE.string.text
+msgid "File"
+msgstr "Dosiero"
+
+#: imagemgr.src#STR_DESCRIPTION_FOLDER.string.text
+msgid "Folder"
+msgstr "Dosierujo"
+
+#: imagemgr.src#STR_DESCRIPTION_FACTORY_WRITER.string.text
+msgid "Text Document"
+msgstr "Teksta dokumento"
+
+#: imagemgr.src#STR_DESCRIPTION_FACTORY_CALC.string.text
+msgid "Spreadsheet"
+msgstr "Kalkultabelo"
+
+#: imagemgr.src#STR_DESCRIPTION_FACTORY_IMPRESS.string.text
+msgid "Presentation"
+msgstr "Prezentaĵo"
+
+#: imagemgr.src#STR_DESCRIPTION_FACTORY_DRAW.string.text
+msgid "Drawing"
+msgstr "Desegnaĵo"
+
+#: imagemgr.src#STR_DESCRIPTION_FACTORY_WRITERWEB.string.text
+msgctxt "imagemgr.src#STR_DESCRIPTION_FACTORY_WRITERWEB.string.text"
+msgid "HTML document"
+msgstr "HTML-a dokumento"
+
+#: imagemgr.src#STR_DESCRIPTION_FACTORY_GLOBALDOC.string.text
+msgid "Master document"
+msgstr "Ĉefa dokumento"
+
+#: imagemgr.src#STR_DESCRIPTION_FACTORY_MATH.string.text
+msgid "Formula"
+msgstr "Formulo"
+
+#: imagemgr.src#STR_DESCRIPTION_FACTORY_DATABASE.string.text
+msgid "Database"
+msgstr "Datumbazo"
+
+#: imagemgr.src#STR_DESCRIPTION_CALC_TEMPLATE.string.text
+msgid "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Spreadsheet Template"
+msgstr "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION-kalkultabela ŝablono"
+
+#: imagemgr.src#STR_DESCRIPTION_DRAW_TEMPLATE.string.text
+msgid "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Drawing Template"
+msgstr "%PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION -desegna ŝablono"
+
+#: imagemgr.src#STR_DESCRIPTION_IMPRESS_TEMPLATE.string.text
+msgid "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Presentation Template"
+msgstr "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION-prezentaĵa ŝablono"
+
+#: imagemgr.src#STR_DESCRIPTION_WRITER_TEMPLATE.string.text
+msgid "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Text Document Template"
+msgstr "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION-tekstodokumenta ŝablono"
+
+#: imagemgr.src#STR_DESCRIPTION_LOCALE_VOLUME.string.text
+msgid "Local drive"
+msgstr "Loka diskolegilo"
+
+#: imagemgr.src#STR_DESCRIPTION_FLOPPY_VOLUME.string.text
+msgid "Disk drive"
+msgstr "Diskolegilo"
+
+#: imagemgr.src#STR_DESCRIPTION_CDROM_VOLUME.string.text
+msgid "CD-ROM drive"
+msgstr "KD-legilo"
+
+#: imagemgr.src#STR_DESCRIPTION_REMOTE_VOLUME.string.text
+msgid "Network connection"
+msgstr "Reta konekto"
+
+#: imagemgr.src#STR_DESCRIPTION_POWERPOINT.string.text
+msgid "MS PowerPoint Document"
+msgstr "MS PowerPoint -dokumento"
+
+#: imagemgr.src#STR_DESCRIPTION_POWERPOINT_TEMPLATE.string.text
+msgid "MS PowerPoint Template"
+msgstr "MS PowerPoint -ŝablono"
+
+#: imagemgr.src#STR_DESCRIPTION_POWERPOINT_SHOW.string.text
+msgid "MS PowerPoint Show"
+msgstr "MS PowerPoint -prezentado"
+
+#: imagemgr.src#STR_DESCRIPTION_SXMATH_DOC.string.text
+msgid "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Formula"
+msgstr "Formulo de %PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION"
+
+#: imagemgr.src#STR_DESCRIPTION_SXCHART_DOC.string.text
+msgid "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Chart"
+msgstr "Diagramo de %PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION"
+
+#: imagemgr.src#STR_DESCRIPTION_SXDRAW_DOC.string.text
+msgid "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Drawing"
+msgstr "Desegnaĵo de %PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION "
+
+#: imagemgr.src#STR_DESCRIPTION_SXCALC_DOC.string.text
+msgid "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Spreadsheet"
+msgstr "Kalkultabelo de %PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION"
+
+#: imagemgr.src#STR_DESCRIPTION_SXIMPRESS_DOC.string.text
+msgid "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Presentation"
+msgstr "Diagramo de %PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION"
+
+#: imagemgr.src#STR_DESCRIPTION_SXWRITER_DOC.string.text
+msgid "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Text Document"
+msgstr "Teksta dokumento de %PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION"
+
+#: imagemgr.src#STR_DESCRIPTION_SXGLOBAL_DOC.string.text
+msgid "%PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION Master Document"
+msgstr "Ĉefa dokumento de %PRODUCTXMLFILEFORMATNAME %PRODUCTXMLFILEFORMATVERSION"
+
+#: imagemgr.src#STR_DESCRIPTION_MATHML_DOC.string.text
+msgid "MathML Document"
+msgstr "MathML-dokumento"
+
+#: imagemgr.src#STR_DESCRIPTION_OO_DATABASE_DOC.string.text
+msgid "OpenDocument Database"
+msgstr "Datumbazo de OpenDocument"
+
+#: imagemgr.src#STR_DESCRIPTION_OO_DRAW_DOC.string.text
+msgid "OpenDocument Drawing"
+msgstr "Desegnaĵo de OpenDocument"
+
+#: imagemgr.src#STR_DESCRIPTION_OO_MATH_DOC.string.text
+msgid "OpenDocument Formula"
+msgstr "Formulo de OpenDocument"
+
+#: imagemgr.src#STR_DESCRIPTION_OO_GLOBAL_DOC.string.text
+msgid "OpenDocument Master Document"
+msgstr "Ĉefa dokumento de OpenDocument"
+
+#: imagemgr.src#STR_DESCRIPTION_OO_IMPRESS_DOC.string.text
+msgid "OpenDocument Presentation"
+msgstr "Prezentaĵo de OpenDocument"
+
+#: imagemgr.src#STR_DESCRIPTION_OO_CALC_DOC.string.text
+msgid "OpenDocument Spreadsheet"
+msgstr "Kalkultabelo de OpenDocument"
+
+#: imagemgr.src#STR_DESCRIPTION_OO_WRITER_DOC.string.text
+msgid "OpenDocument Text"
+msgstr "Teksto de OpenDocument"
+
+#: imagemgr.src#STR_DESCRIPTION_OO_CALC_TEMPLATE.string.text
+msgid "OpenDocument Spreadsheet Template"
+msgstr "Kalkultabela ŝablono de OpenDocument"
+
+#: imagemgr.src#STR_DESCRIPTION_OO_DRAW_TEMPLATE.string.text
+msgid "OpenDocument Drawing Template"
+msgstr "Desegnaĵa ŝablono de OpenDocument"
+
+#: imagemgr.src#STR_DESCRIPTION_OO_IMPRESS_TEMPLATE.string.text
+msgid "OpenDocument Presentation Template"
+msgstr "Prezentaĵa ŝablono de OpenDocument"
+
+#: imagemgr.src#STR_DESCRIPTION_OO_WRITER_TEMPLATE.string.text
+msgid "OpenDocument Text Template"
+msgstr "Teksta ŝablono de OpenDocument"
+
+#: imagemgr.src#STR_DESCRIPTION_EXTENSION.string.text
+msgid "%PRODUCTNAME Extension"
+msgstr "Aldonaĵo de %PRODUCTNAME"

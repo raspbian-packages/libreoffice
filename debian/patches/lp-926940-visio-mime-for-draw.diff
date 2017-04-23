@@ -1,0 +1,13 @@
+Index: libreoffice-3.5.2/sysui/desktop/menus/draw.desktop
+===================================================================
+--- libreoffice-3.5.2.orig/sysui/desktop/menus/draw.desktop	2012-04-17 18:27:52.275847121 +0200
++++ libreoffice-3.5.2/sysui/desktop/menus/draw.desktop	2012-04-17 18:38:24.111855749 +0200
+@@ -5,7 +5,7 @@
+ Type=Application
+ Categories=Office;X-Red-Hat-Base;X-SuSE-Core-Office;X-MandrivaLinux-Office-Drawing;
+ Exec=${UNIXBASISROOTNAME} --draw %U
+-MimeType=application/vnd.oasis.opendocument.graphics;application/vnd.oasis.opendocument.graphics-flat-xml;application/vnd.oasis.opendocument.graphics-template;application/vnd.sun.xml.draw;application/vnd.sun.xml.draw.template;
++MimeType=application/vnd.oasis.opendocument.graphics;application/vnd.oasis.opendocument.graphics-flat-xml;application/vnd.oasis.opendocument.graphics-template;application/vnd.sun.xml.draw;application/vnd.sun.xml.draw.template;application/vnd.visio;
+ Name=%PRODUCTNAME Draw
+ GenericName=Drawing Program
+ Comment=Create and edit drawings, flow charts, and logos by using Draw.

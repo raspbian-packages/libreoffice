@@ -1,0 +1,13 @@
+diff --git a/set_soenv.in b/set_soenv.in
+index 5347a84..7afcabb 100755
+--- a/set_soenv.in
++++ b/set_soenv.in
+@@ -559,7 +559,7 @@ elsif ( $platform =~ m/linux/ )
+       $JRETOOLKITDIR  = $JAVA_HOME.$ds."jre".$ds."lib".$ds."alpha".$ds."server";
+       $JRETHREADDIR   = $JAVA_HOME.$ds."jre".$ds."lib".$ds."alpha".$ds."native_threads";
+    }
+-   elsif ($platform =~ m/^arm.*?l-/)
++   elsif ($platform =~ m/^arm.*-gnueabi.*/)
+    {  print "Setting Linux ARM specific values... ";
+       $oldoutfile     = "LinuxARMEnv.Set.sh";
+       $CPU            = "R";
