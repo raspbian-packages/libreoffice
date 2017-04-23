@@ -41,8 +41,8 @@ $(eval $(call gb_Module_add_check_targets,sfx2,\
 
 $(eval $(call gb_Module_add_subsequentcheck_targets,sfx2,\
     JunitTest_sfx2_complex \
-    JunitTest_sfx2_unoapi \
 ))
+#    JunitTest_sfx2_unoapi \
 
 ifneq (,$(filter LINUX DRAGONFLY OPENBSD FREEBSD NETBSD, $(OS)))
 ifeq ($(ENABLE_SYSTRAY_GTK),TRUE)

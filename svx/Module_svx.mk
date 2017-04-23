@@ -42,9 +42,9 @@ $(eval $(call gb_Module_add_targets,svx,\
     Executable_gengal.bin \
 ))
 
-$(eval $(call gb_Module_add_subsequentcheck_targets,svx,\
-    JunitTest_svx_unoapi \
-))
+#$(eval $(call gb_Module_add_subsequentcheck_targets,svx,\
+#    JunitTest_svx_unoapi \
+#))
 
 #todo: noopt for EnhanceCustomShapesFunctionParser.cxx on Solaris Sparc and MacOSX
 #todo: -DBOOST_SPIRIT_USE_OLD_NAMESPACE only in CustomShapes ?
