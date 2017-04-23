@@ -485,6 +485,8 @@ void RTFDocumentImpl::tableBreak()
 
 void RTFDocumentImpl::parBreak()
 {
+    if(m_aStates.empty())
+        return;
     checkFirstRun();
     checkNeedPap();
     // end previous paragraph
