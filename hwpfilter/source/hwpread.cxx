@@ -68,12 +68,12 @@ int SkipData::Read(HWPFile & hwpf)
 // Field code(5)
 int FieldCode::Read(HWPFile & hwpf)
 {
-    ulong size;
+    uint size;
     hchar dummy;
-    ulong len1;       /* hcharÅ¸ÀÔÀÇ ¹®ÀÚ¿­ Å×ÀÌÅÍ #1ÀÇ ±æÀÌ */
-    ulong len2;       /* hcharÅ¸ÀÔÀÇ ¹®ÀÚ¿­ Å×ÀÌÅÍ #2ÀÇ ±æÀÌ */
-    ulong len3;       /* hcharÅ¸ÀÔÀÇ ¹®ÀÚ¿­ Å×ÀÌÅÍ #3ÀÇ ±æÀÌ */
-    ulong binlen;     /* ÀÓÀÇ Çü½ÄÀÇ ¹ÙÀÌ³Ê¸® µ¥ÀÌÅ¸ ±æÀÌ */
+    uint len1;       /* hcharÅ¸ÀÔÀÇ ¹®ÀÚ¿­ Å×ÀÌÅÍ #1ÀÇ ±æÀÌ */
+    uint len2;       /* hcharÅ¸ÀÔÀÇ ¹®ÀÚ¿­ Å×ÀÌÅÍ #2ÀÇ ±æÀÌ */
+    uint len3;       /* hcharÅ¸ÀÔÀÇ ¹®ÀÚ¿­ Å×ÀÌÅÍ #3ÀÇ ±æÀÌ */
+    uint binlen;     /* ÀÓÀÇ Çü½ÄÀÇ ¹ÙÀÌ³Ê¸® µ¥ÀÌÅ¸ ±æÀÌ */
 
     hwpf.Read4b(&size, 1);
     hwpf.Read2b(&dummy, 1);
@@ -118,7 +118,8 @@ int Bookmark::Read(HWPFile & hwpf)
     long len;
 
     hwpf.Read4b(&len, 1);
-    dummy = sal::static_int_cast<hchar>(hwpf.Read2b());
+    if (!hwpf.Read2b(dummy))
+        return false;
 
     if (!(len == 34))// 2 * (BMK_COMMENT_LEN + 1) + 2
      {
@@ -130,7 +131,6 @@ int Bookmark::Read(HWPFile & hwpf)
 
     hwpf.Read2b(id, BMK_COMMENT_LEN + 1);
     hwpf.Read2b(&type, 1);
-//return hwpf.Read2b(&type, 1);
     return 1;
 }
 
@@ -140,7 +140,8 @@ int Bookmark::Read(HWPFile & hwpf)
 int DateFormat::Read(HWPFile & hwpf)
 {
     hwpf.Read2b(format, DATE_SIZE);
-    dummy = sal::static_int_cast<hchar>(hwpf.Read2b());
+    if (!hwpf.Read2b(dummy))
+        return false;
     if (!(hh == dummy && CH_DATE_FORM == dummy)){
         return hwpf.SetState(HWP_InvalidFileFormat);
      }
@@ -154,7 +155,8 @@ int DateCode::Read(HWPFile & hwpf)
 {
     hwpf.Read2b(format, DATE_SIZE);
     hwpf.Read2b(date, 6);
-    dummy = sal::static_int_cast<hchar>(hwpf.Read2b());
+    if (!hwpf.Read2b(dummy))
+        return false;
     if (!(hh == dummy && CH_DATE_CODE == dummy)){
         return hwpf.SetState(HWP_InvalidFileFormat);
      }
@@ -167,9 +169,14 @@ int DateCode::Read(HWPFile & hwpf)
 
 int Tab::Read(HWPFile & hwpf)
 {
-    width = hwpf.Read2b();
-    leader = sal::static_int_cast<unsigned short>(hwpf.Read2b());
-    dummy = sal::static_int_cast<hchar>(hwpf.Read2b());
+    unsigned short tmp16;
+    if (!hwpf.Read2b(tmp16))
+        return false;
+    width = tmp16;
+    if (!hwpf.Read2b(leader))
+        return false;
+    if (!hwpf.Read2b(dummy))
+        return false;
     if (!(hh == dummy && CH_TAB == dummy)){
         return hwpf.SetState(HWP_InvalidFileFormat);
      }
@@ -401,10 +408,19 @@ int Picture::Read(HWPFile & hwpf)
 
     hwpf.Read1b(&pictype, 1);                     /* ±×¸²Á¾·ù */
 
-    skip[0] = (short) hwpf.Read2b();              /* ±×¸²¿¡¼­ ½ÇÁ¦ Ç¥½Ã¸¦ ½ÃÀÛÇÒ À§Ä¡ °¡·Î */
-    skip[1] = (short) hwpf.Read2b();              /* ¼¼·Î */
-    scale[0] = (short) hwpf.Read2b();             /* È®´ëºñÀ² : 0 °íÁ¤, ÀÌ¿Ü ÆÛ¼¾Æ® ´ÜÀ§ °¡·Î */
-    scale[1] = (short) hwpf.Read2b();             /* ¼¼·Î */
+    unsigned short tmp16;
+    if (!hwpf.Read2b(tmp16))                      /* ¿¿¿¿ ¿¿ ¿¿¿ ¿¿>¿ ¿¿ ¿¿ */
+        return false;
+    skip[0] = tmp16;
+    if (!hwpf.Read2b(tmp16))                      /* ¿¿ */
+        return false;
+    skip[1] = tmp16;
+    if (!hwpf.Read2b(tmp16))                      /* ¿¿¿¿ : 0 ¿¿, ¿¿ ¿¿¿ ¿¿ ¿¿ */
+        return false;
+    scale[0] = tmp16;
+    if (!hwpf.Read2b(tmp16))                      /* ¿¿ */
+        return false;
+    scale[1] = tmp16;
 
     hwpf.Read1b(picinfo.picun.path, 256);         /* ±×¸²ÆÄÀÏ ÀÌ¸§ : Á¾·ù°¡ DrawingÀÌ ¾Æ´Ò¶§. */
     hwpf.Read1b(reserved3, 9);                    /* ¹à±â/¸í¾Ï/±×¸²È¿°ú µî */
@@ -577,7 +593,10 @@ int Footnote::Read(HWPFile & hwpf)
     hwpf.Read1b(info, 8);
     hwpf.Read2b(&number, 1);
     hwpf.Read2b(&type, 1);
-    width = (short) hwpf.Read2b();
+    unsigned short tmp16;
+    if (!hwpf.Read2b(tmp16))
+        return false;
+    width = tmp16;
     hwpf.ReadParaList(plist, CH_FOOTNOTE);
 
     return !hwpf.State();
