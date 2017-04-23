@@ -726,13 +726,15 @@ File gid_File_Scripts_Java
     ARCHIVE_TXT_FILE_BODY;
     Name = "ScriptsJava.zip";
 End
-#endif
 
+#ifndef WITHOUT_EXTENSION_SCRIPTING_JAVASCRIPT
 File gid_File_Scripts_Javascript
     Dir = gid_Dir_Share_Scripts;
     ARCHIVE_TXT_FILE_BODY;
     Name = "ScriptsJavaScript.zip";
 End
+#endif
+#endif
 
 // new user interface configuration files
 File gid_File_Share_Config_Sofficecfg_uiconfig_Zip
