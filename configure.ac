@@ -9657,8 +9657,9 @@ if test "$ENABLE_LPSOLVE" = TRUE; then
         # some systems need this. Like Ubuntu....
         AC_CHECK_LIB(m, floor)
         AC_CHECK_LIB(dl, dlopen)
+        AC_CHECK_LIB(colamd, colamd)
         AC_CHECK_LIB([lpsolve55], [make_lp], [:],
-            [ AC_MSG_ERROR(lpsolve library not found or too old.)], [])
+            [ AC_MSG_ERROR(lpsolve library not found or too old.)], [-L/usr/lib/lpsolve])
         LIBS=$save_LIBS
         libo_MINGW_CHECK_DLL([lpsolve55])
     else
