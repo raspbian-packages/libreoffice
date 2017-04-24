@@ -335,8 +335,9 @@ ifneq ($(WITH_WEBDAV),)
 postprocess_FILES_main += $(postprocess_MOD)/org/openoffice/ucb/Configuration-neon.xcu
 endif
 ifeq ($(ENABLE_EVOAB2),TRUE)
-postprocess_FILES_main += $(call gb_XcuModuleTarget_get_target,connectivity/registry/evoab2)/org/openoffice/Office/DataAccess/Drivers-evoab2.xcu
-postprocess_FILES_main += $(postprocess_MOD)/org/openoffice/Office/DataAccess-evoab2.xcu
+postprocess_XCDS += evoab.xcd
+postprocess_FILES_evoab += $(call gb_XcuModuleTarget_get_target,connectivity/registry/evoab2)/org/openoffice/Office/DataAccess/Drivers-evoab2.xcu
+postprocess_FILES_evoab += $(postprocess_MOD)/org/openoffice/Office/DataAccess-evoab2.xcu
 postprocess_DRIVERS += evoab
 endif
 ifeq ($(ENABLE_JAVA),TRUE)
