@@ -1,0 +1,2 @@
+Tests: junit-subsequentcheck
+Depends: libreoffice-subsequentcheckbase, gdb, libreoffice-dbg
