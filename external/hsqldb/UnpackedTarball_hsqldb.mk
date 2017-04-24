@@ -27,6 +27,7 @@ $(eval $(call gb_UnpackedTarball_add_patches,hsqldb,\
 	$(if $(HSQLDB_USE_JDBC_4_1),\
 		external/hsqldb/patches/jdbc-4.1.patch \
 	) \
+	external/hsqldb/patches/use-system-servlet-api.jar.diff \
 ))
 
 # vim: set noet sw=4 ts=4:
