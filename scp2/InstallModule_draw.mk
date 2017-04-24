@@ -9,6 +9,8 @@
 
 $(eval $(call gb_InstallModule_InstallModule,scp2/draw))
 
+$(eval $(call gb_InstallModule_use_auto_install_libs,scp2/draw,draw))
+
 $(eval $(call gb_InstallModule_define_if_set,scp2/draw,\
 	ENABLE_MACOSX_MACLIKE_APP_STRUCTURE \
 	ENABLE_MACOSX_SANDBOX \

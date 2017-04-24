@@ -149,13 +149,28 @@ endif
 
 $(eval $(call gb_Helper_register_libraries_for_install,OOOLIBS,base, \
 	abp \
+	calc \
+	$(call gb_Helper_optional,DBCONNECTIVITY, \
+		dba \
+		dbase \
+		dbaxml) \
 	dbp \
 	dbu \
+       $(if $(filter $(ENABLE_FIREBIRD_SDBC),TRUE),firebird_sdbc) \
+       $(call gb_Helper_optional,DBCONNECTIVITY,flat) \
+       $(if $(ENABLE_JAVA),jdbc) \
+	$(call gb_Helper_optional,DBCONNECTIVITY,mysql) \
+       odbc \
+))
+
+$(eval $(call gb_Helper_register_libraries_for_install,PLAINLIBS_OOO,base, \
+	$(call gb_Helper_optional,DBCONNECTIVITY,dbpool2) \
+       $(if $(ENABLE_JAVA),hsqldb) \
+       sdbc2 \
 ))
 
 $(eval $(call gb_Helper_register_libraries_for_install,OOOLIBS,calc, \
 	analysis \
-	$(call gb_Helper_optional,DBCONNECTIVITY,calc) \
 	date \
 	pricing \
 	sc \
@@ -167,6 +182,13 @@ $(eval $(call gb_Helper_register_libraries_for_install,OOOLIBS,calc, \
 	$(if $(ENABLE_COINMP)$(ENABLE_LPSOLVE),solver) \
 	$(if $(DISABLE_SCRIPTING),,vbaobj) \
 	$(if $(ENABLE_TELEPATHY),tubes) \
+))
+
+$(eval $(call gb_Helper_register_libraries_for_install,OOOLIBS,draw, \
+	sd \
+	sdd \
+	sdfilt \
+	sdui \
 ))
 
 $(eval $(call gb_Helper_register_libraries_for_install,OOOLIBS,graphicfilter, \
@@ -186,6 +208,7 @@ $(eval $(call gb_Helper_register_libraries_for_install,OOOLIBS,impress, \
 	PresenterScreen \
 	PresentationMinimizer \
 	wpftimpress \
+       slideshow \
 ))
 
 $(eval $(call gb_Helper_register_libraries_for_install,OOOLIBS,onlineupdate, \
@@ -239,11 +262,8 @@ $(eval $(call gb_Helper_register_libraries_for_install,OOOLIBS,ooo, \
 	ctl \
 	cui \
 	$(call gb_Helper_optional,DBCONNECTIVITY, \
-		dba \
-		dbase \
 		dbmm \
-		dbtools \
-		dbaxml) \
+		dbtools) \
 	deploymentmisc \
 	$(if $(filter-out MACOSX WNT,$(OS)),desktopbe1) \
 	$(if $(filter unx,$(GUIBASE)),desktop_detector) \
@@ -266,10 +286,8 @@ $(eval $(call gb_Helper_register_libraries_for_install,OOOLIBS,ooo, \
 	exp \
 	expwrap \
 	$(call gb_Helper_optional,DBCONNECTIVITY, \
-		flat \
 		file) \
 	filterconfig \
-	$(if $(filter $(ENABLE_FIREBIRD_SDBC),TRUE),firebird_sdbc) \
 	fps_office \
 	for \
 	forui \
@@ -298,7 +316,6 @@ $(eval $(call gb_Helper_register_libraries_for_install,OOOLIBS,ooo, \
 	ira \
 	itg \
 	iti \
-	$(if $(ENABLE_JAVA),jdbc) \
 	$(if $(ENABLE_KAB),kab1) \
 	$(if $(ENABLE_KAB),kabdrv1) \
 	ldapbe2 \
@@ -313,8 +330,6 @@ $(eval $(call gb_Helper_register_libraries_for_install,OOOLIBS,ooo, \
 	msfilter \
 	$(if $(DISABLE_SCRIPTING),,msforms) \
 	mtfrenderer \
-	$(call gb_Helper_optional,DBCONNECTIVITY,mysql) \
-	odbc \
 	odfflatxml \
 	offacc \
 	oox \
@@ -328,13 +343,8 @@ $(eval $(call gb_Helper_register_libraries_for_install,OOOLIBS,ooo, \
 	sb \
 	$(call gb_Helper_optional,DBCONNECTIVITY,sdbt) \
 	scn \
-	sd \
-	sdd \
-	sdfilt \
-	sdui \
 	sfx \
 	simplecanvas \
-	slideshow \
 	sot \
 	spell \
 	$(if $(ENABLE_HEADLESS),,spl) \
@@ -345,7 +355,6 @@ $(eval $(call gb_Helper_register_libraries_for_install,OOOLIBS,ooo, \
 	svt \
 	svx \
 	svxcore \
-	sw \
 	syssh \
 	$(if $(ENABLE_TDEAB),tdeab1) \
 	$(if $(ENABLE_TDEAB),tdeabdrv1) \
@@ -408,6 +417,7 @@ $(eval $(call gb_Helper_register_libraries_for_install,OOOLIBS,writer, \
 	hwp \
 	$(if $(ENABLE_LWP),lwpft) \
 	msword \
+	sw \
 	swd \
 	swui \
 	t602filter \
@@ -516,13 +526,11 @@ $(eval $(call gb_Helper_register_libraries_for_install,PLAINLIBS_OOO,ooo, \
 	cached1 \
 	collator_data \
 	comphelper \
-	$(call gb_Helper_optional,DBCONNECTIVITY,dbpool2) \
 	deployment \
 	deploymentgui \
 	dict_ja \
 	dict_zh \
 	embobj \
-	$(if $(ENABLE_JAVA),hsqldb) \
 	i18nlangtag \
 	i18nutil \
 	index_data \
@@ -538,7 +546,6 @@ $(eval $(call gb_Helper_register_libraries_for_install,PLAINLIBS_OOO,ooo, \
 	package2 \
 	$(if $(and $(filter unx,$(GUIBASE)),$(filter-out MACOSX,$(OS))),recentfile) \
 	$(if $(DISABLE_SCRIPTING),,scriptframe) \
-	sdbc2 \
 	sofficeapp \
 	srtrs1 \
 	$(if $(filter $(OS),WNT),sysdtrans) \
