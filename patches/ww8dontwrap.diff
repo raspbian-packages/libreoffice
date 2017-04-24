@@ -1,0 +1,35 @@
+From fae8b7dfeb081c050867fb891d9acf0fdd2a6d36 Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?Caol=C3=A1n=20McNamara?= <caolanm@redhat.com>
+Date: Mon, 13 Jul 2015 10:31:30 +0100
+Subject: ww8: make sure we don't wrap around
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Change-Id: I667bb264f92024b72f230c2ddbba3887471345f2
+(cherry picked from commit 755b9320c81948358a1d4104c8875594b5700d39)
+Reviewed-on: https://gerrit.libreoffice.org/16982
+Reviewed-by: David Tardon <dtardon@redhat.com>
+Reviewed-by: Michael Meeks <michael.meeks@collabora.com>
+Tested-by: Michael Meeks <michael.meeks@collabora.com>
+Reviewed-by: Björn Michaelsen <bjoern.michaelsen@canonical.com>
+
+diff --git a/sw/source/filter/ww8/ww8scan.cxx b/sw/source/filter/ww8/ww8scan.cxx
+index 449bef4..8c3d979 100644
+--- a/sw/source/filter/ww8/ww8scan.cxx
++++ b/sw/source/filter/ww8/ww8scan.cxx
+@@ -1540,7 +1540,11 @@ WW8PLCFpcd* WW8ScannerBase::OpenPieceTable( SvStream* pStr, const WW8Fib* pWwF )
+         if( 2 == clxt )                         // PLCFfpcd ?
+             break;                              // PLCFfpcd gefunden
+         if( 1 == clxt )                         // clxtGrpprl ?
++        {
++            if (nGrpprl == SHRT_MAX)
++                return NULL;
+             nGrpprl++;
++        }
+         sal_uInt16 nLen(0);
+         pStr->ReadUInt16( nLen );
+         nLeft -= 2 + nLen;
+-- 
+cgit v0.10.2
+
