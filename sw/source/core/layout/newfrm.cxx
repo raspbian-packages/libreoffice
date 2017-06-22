@@ -563,16 +563,6 @@ SwRootFrm::~SwRootFrm()
 {
     bTurboAllowed = false;
     pTurbo = 0;
-    // fdo#39510 crash on document close with footnotes
-    // Object ownership in writer and esp. in layout are a mess: Before the
-    // document/layout split SwDoc and SwRootFrm were essentially one object
-    // and magically/uncleanly worked around their common destruction by call
-    // to SwDoc::IsInDtor() -- even from the layout. As of now destuction of
-    // the layout proceeds forward through the frames. Since SwTxtFtn::DelFrms
-    // also searches backwards to find the master of footnotes, they must be
-    // considered to be owned by the SwRootFrm and also be destroyed here,
-    // before tearing down the (now footnote free) rest of the layout.
-    RemoveFtns(0, false, true);
 
     if(pBlink)
         pBlink->FrmDelete( this );
@@ -581,8 +571,11 @@ SwRootFrm::~SwRootFrm()
     {
         SwDoc *pDoc = pRegisteredInNonConst->GetDoc();
         pDoc->DelFrmFmt( pRegisteredInNonConst );
+	// do this before calling RemoveFtns because footnotes
+	// can contain anchored objects
         pDoc->ClearSwLayouterEntries();
     }
+
     delete pDestroy;
     pDestroy = 0;
 
@@ -595,6 +588,17 @@ SwRootFrm::~SwRootFrm()
 
     // Some accessible shells are left => problems on second SwFrm::Destroy call
     assert(0 == nAccessibleShells);
+
+    // fdo#39510 crash on document close with footnotes
+    // Object ownership in writer and esp. in layout are a mess: Before the
+    // document/layout split SwDoc and SwRootFrm were essentially one object
+    // and magically/uncleanly worked around their common destruction by call
+    // to SwDoc::IsInDtor() -- even from the layout. As of now destuction of
+    // the layout proceeds forward through the frames. Since SwTxtFtn::DelFrms
+    // also searches backwards to find the master of footnotes, they must be
+    // considered to be owned by the SwRootFrm and also be destroyed here,
+    // before tearing down the (now footnote free) rest of the layout.
+    RemoveFtns(0, false, true);
 
     // manually call base classes Destroy because it could call stuff
     // that accesses members of this
