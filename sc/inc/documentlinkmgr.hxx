@@ -54,13 +54,20 @@ public:
 
     bool hasDdeLinks() const;
 
+    bool hasDdeOrOleLinks() const;
+
     bool updateDdeLinks( Window* pWin );
 
     bool updateDdeLink( const OUString& rAppl, const OUString& rTopic, const OUString& rItem );
 
+    bool updateDdeOrOleLinks(Window* pWin);
+
     size_t getDdeLinkCount() const;
 
     void disconnectDdeLinks();
+
+private:
+    bool hasDdeOrOleLinks(bool bDde, bool bOle) const;
 };
 
 }
