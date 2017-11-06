@@ -1,0 +1,55 @@
+#!/bin/sh
+# autopkgtest check: Run junit base tests against an installed version of LibreOffice
+# (C) 2013 Canonical Ltd.
+# Author: Bjoern Michaelsen <bjoern.michaelsen@canonical.com>
+
+set -e
+
+SRCDIR=`pwd`
+WORKDIR=`mktemp -d`
+
+
+echo "====== checking free disc and memory space ======"
+df -h
+free
+
+trap "rm -rf ${WORKDIR}" 0 INT QUIT ABRT PIPE TERM
+
+# lets get our own copy as we make it dirty
+echo
+echo "====== Copying source from ${SRCDIR} to ${WORKDIR} ======"
+cp -a ${SRCDIR} ${WORKDIR}
+
+echo
+echo "====== Changing to directory `ls ${WORKDIR}/*` ======"
+cd ${WORKDIR}/*
+
+echo
+echo "====== Patching the tree to only build Java-based unittests against an existing installation ======"
+patch -p1 < ./debian/tests/patches/java-subsequentcheck-standalone.diff
+
+echo
+echo "====== Generating configuration ======="
+rm -f config_host.mk
+./debian/rules config_host.mk
+sed -i 's/export ENABLE_REPORTBUILDER=TRUE/export ENABLE_REPORTBUILDER=FALSE/' config_host.mk
+sed -i 's/export OOO_JUNIT_JAR=.*/export OOO_JUNIT_JAR=\/usr\/share\/java\/junit4.jar/' config_host.mk
+
+echo
+echo "====== Cleaning tree ======"
+make clean 2>&1
+
+OOO_TEST_SOFFICE="${1:-path:/usr/lib/libreoffice/program/soffice}"
+
+echo
+echo "====== Enabling core dumps ======"
+# yes, we want core dumps and stack traces
+ulimit -c unlimited
+
+echo
+echo "====== Starting subsequentcheck with ${CHECK_PARALLELISM} job against ${OOO_TEST_SOFFICE} ======"
+
+make -rk \
+    OOO_TEST_SOFFICE=${OOO_TEST_SOFFICE} \
+    bridges_SELECTED_BRIDGE=foo \
+    subsequentcheck 2>&1

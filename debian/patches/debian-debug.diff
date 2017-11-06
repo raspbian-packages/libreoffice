@@ -1,0 +1,59 @@
+diff --git a/configure.ac b/configure.in
+index 3257668..afd36de 100755
+--- libreoffice-3.5.0/configure.ac
++++ libreoffice-3.5.0/configure.ac
+@@ -3361,13 +3361,19 @@ dnl Check for enable symbols option
+ dnl ===================================================================
+ AC_MSG_CHECKING([whether to include symbols while preserve optimization])
+ if test -n "$enable_symbols" -a "$enable_symbols" != "no"; then
+-    ENABLE_SYMBOLS="TRUE"
++    if test "$enable_symbols" = "SMALL" -o "$enable_symbols" = "small"; then
++        ENABLE_SYMBOLS="SMALL"
++        AC_MSG_RESULT([yes, small ones])
++    else
++        ENABLE_SYMBOLS="TRUE"
++        AC_MSG_RESULT([yes])
++    fi
++
+     if test -n "$ENABLE_DBGUTIL"; then
+         AC_MSG_ERROR([--enable-dbgutil cannot be used with --enable-symbols])
+     elif test -n "$ENABLE_DEBUG"; then
+         AC_MSG_ERROR([--enable-debug cannot be used with --enable-symbols])
+     fi
+-    AC_MSG_RESULT([yes])
+ else
+     if test -n "$enable_symbols" -a "$enable_symbols" = "no"; then
+         ENABLE_SYMBOLS="FALSE"
+--- a/solenv/gbuild/platform/com_GCC_defs.mk-old	2012-04-23 22:19:05.806843257 +0200
++++ b/solenv/gbuild/platform/com_GCC_defs.mk	2012-04-23 22:19:52.943076997 +0200
+@@ -131,7 +131,11 @@
+ FNO_DEFAULT_INLINE=-fno-default-inline
+ endif
+ 
++ifeq ($(ENABLE_SYMBOLS),SMALL)
++gb_DEBUG_CFLAGS := -g1 $(FINLINE_LIMIT0) $(FNO_INLINE)
++else
+ gb_DEBUG_CFLAGS := $(GGDB2) $(FINLINE_LIMIT0) $(FNO_INLINE)
++endif
+ gb_DEBUG_CXXFLAGS := $(FNO_DEFAULT_INLINE)
+ 
+ 
+diff --git a/unxgcc.mk-old b/unxgcc.mk
+index b85fbee..07a7012 100644
+--- libreoffice-3.6.1/solenv/gbuild/platform/unxgcc.mk-old
++++ libreoffice-3.6.1/solenv/gbuild/platform/unxgcc.mk
+@@ -192,9 +192,14 @@ gb_LinkTarget_CFLAGS := $(gb_CFLAGS)
+ gb_LinkTarget_CXXFLAGS := $(gb_CXXFLAGS)
+ 
+ ifeq ($(gb_SYMBOL),$(true))
++ifeq ($(ENABLE_SYMBOLS),SMALL)
++gb_LinkTarget_CXXFLAGS += -g1
++gb_LinkTarget_CFLAGS += -g1
++else
+ gb_LinkTarget_CXXFLAGS += $(GGDB2)
+ gb_LinkTarget_CFLAGS += $(GGDB2)
+ endif
++endif
+ 
+ # note that `cat $(extraobjectlist)` is needed to build with older gcc versions, e.g. 4.1.2 on SLED10
+ # we want to use @$(extraobjectlist) in the long run

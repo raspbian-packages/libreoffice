@@ -1,0 +1,95 @@
+From 9051d3b59cf6e5fd590506bb86bfb8929d3024c3 Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?Caol=C3=A1n=20McNamara?= <caolanm@redhat.com>
+Date: Mon, 26 Jan 2015 11:26:41 +0000
+Subject: coverity#1266485 Untrusted value as argument
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Change-Id: I7708ecaf5412535055584ed6c71beaa9cd71c10c
+(cherry picked from commit 0934ed1a40c59c169354b177d7dab4228de66171)
+
+min legal size here is > 4
+
+(cherry picked from commit 3131205c05a3fde4ef1e3322cc48ca23c443f6d3)
+
+Change-Id: I9f68d000b32623db4d949d13284043630f5689f4
+(cherry picked from commit 964000d415bcf491704dad57aee7e0656ea60dab)
+Reviewed-on: https://gerrit.libreoffice.org/16984
+Reviewed-by: David Tardon <dtardon@redhat.com>
+Reviewed-by: Björn Michaelsen <bjoern.michaelsen@canonical.com>
+Reviewed-by: Eike Rathke <erack@redhat.com>
+Reviewed-by: Michael Meeks <michael.meeks@collabora.com>
+Tested-by: Michael Meeks <michael.meeks@collabora.com>
+
+diff --git a/vcl/source/gdi/jobset.cxx b/vcl/source/gdi/jobset.cxx
+index ec1f44f..c67255e 100644
+--- a/vcl/source/gdi/jobset.cxx
++++ b/vcl/source/gdi/jobset.cxx
+@@ -218,19 +218,24 @@ SvStream& ReadJobSetup( SvStream& rIStream, JobSetup& rJobSetup )
+     DBG_ASSERTWARNING( rIStream.GetVersion(), "JobSetup::>> - Solar-Version not set on rOStream" );
+ 
+     {
+-        sal_Size nFirstPos = rIStream.Tell();
+-
+         sal_uInt16 nLen = 0;
+         rIStream.ReadUInt16( nLen );
+-        if ( !nLen )
++        if (nLen <= 4)
+             return rIStream;
+ 
+         sal_uInt16 nSystem = 0;
+         rIStream.ReadUInt16( nSystem );
+-
+-        boost::scoped_array<char> pTempBuf(new char[nLen]);
+-        rIStream.Read( pTempBuf.get(),  nLen - sizeof( nLen ) - sizeof( nSystem ) );
+-        if ( nLen >= sizeof(ImplOldJobSetupData)+4 )
++        const size_t nRead = nLen - sizeof(nLen) - sizeof(nSystem);
++        if (nRead > rIStream.remainingSize())
++        {
++            SAL_WARN("vcl", "Parsing error: " << rIStream.remainingSize() <<
++                     " max possible entries, but " << nRead << " claimed, truncating");
++            return rIStream;
++        }
++        sal_Size nFirstPos = rIStream.Tell();
++        boost::scoped_array<char> pTempBuf(new char[nRead]);
++        rIStream.Read(pTempBuf.get(),  nRead);
++        if (nRead >= sizeof(ImplOldJobSetupData))
+         {
+             ImplOldJobSetupData* pData = (ImplOldJobSetupData*)pTempBuf.get();
+             if ( rJobSetup.mpData )
+@@ -255,7 +260,7 @@ SvStream& ReadJobSetup( SvStream& rIStream, JobSetup& rJobSetup )
+                  nSystem == JOBSET_FILE605_SYSTEM )
+             {
+                 Impl364JobSetupData* pOldJobData    = (Impl364JobSetupData*)(pTempBuf.get() + sizeof( ImplOldJobSetupData ));
+-                sal_uInt16 nOldJobDataSize              = SVBT16ToShort( pOldJobData->nSize );
++                sal_uInt16 nOldJobDataSize          = SVBT16ToShort( pOldJobData->nSize );
+                 pJobData->mnSystem                  = SVBT16ToShort( pOldJobData->nSystem );
+                 pJobData->mnDriverDataLen           = SVBT32ToUInt32( pOldJobData->nDriverDataLen );
+                 pJobData->meOrientation             = (Orientation)SVBT16ToShort( pOldJobData->nOrientation );
+@@ -272,8 +277,8 @@ SvStream& ReadJobSetup( SvStream& rIStream, JobSetup& rJobSetup )
+                 }
+                 if( nSystem == JOBSET_FILE605_SYSTEM )
+                 {
+-                    rIStream.Seek( nFirstPos + sizeof( ImplOldJobSetupData ) + 4 + sizeof( Impl364JobSetupData ) + pJobData->mnDriverDataLen );
+-                    while( rIStream.Tell() < nFirstPos + nLen )
++                    rIStream.Seek( nFirstPos + sizeof( ImplOldJobSetupData ) + sizeof( Impl364JobSetupData ) + pJobData->mnDriverDataLen );
++                    while( rIStream.Tell() < nFirstPos + nRead )
+                     {
+                         OUString aKey = read_uInt16_lenPrefixed_uInt8s_ToOUString(rIStream, RTL_TEXTENCODING_UTF8);
+                         OUString aValue = read_uInt16_lenPrefixed_uInt8s_ToOUString(rIStream, RTL_TEXTENCODING_UTF8);
+@@ -291,9 +296,9 @@ SvStream& ReadJobSetup( SvStream& rIStream, JobSetup& rJobSetup )
+                         else
+                             pJobData->maValueMap[ aKey ] = aValue;
+                     }
+-                    DBG_ASSERT( rIStream.Tell() == nFirstPos+nLen, "corrupted job setup" );
++                    DBG_ASSERT( rIStream.Tell() == nFirstPos+nRead, "corrupted job setup" );
+                     // ensure correct stream position
+-                    rIStream.Seek( nFirstPos + nLen );
++                    rIStream.Seek(nFirstPos + nRead);
+                 }
+             }
+         }
+-- 
+cgit v0.10.2
+

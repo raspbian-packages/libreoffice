@@ -1,0 +1,26 @@
+diff --git a/odk/docs/cpp/Doxyfile b/odk/docs/cpp/Doxyfile
+index 2519f1b..147d59f 100644
+--- a/odk/docs/cpp/Doxyfile
++++ b/odk/docs/cpp/Doxyfile
+@@ -29,6 +29,8 @@ HTML_OUTPUT = .
+ 
+ GENERATE_LATEX = NO
+ 
++HAVE_DOT = NO
++
+ ALIASES = "derive=\par Derive: \n"
+ 
+ MACRO_EXPANSION = YES
+diff --git a/odk/docs/idl/Doxyfile b/odk/docs/idl/Doxyfile
+index c065b33..6b415bf 100644
+--- a/odk/docs/idl/Doxyfile
++++ b/odk/docs/idl/Doxyfile
+@@ -17,6 +17,8 @@ GENERATE_HTML = YES
+ HTML_OUTPUT = .
+ GENERATE_LATEX = NO
+ 
++HAVE_DOT = NO
++
+ QUIET = %
+ WARNINGS = YES
+ WARN_IF_DOC_ERROR = YES
