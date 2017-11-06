@@ -1,0 +1,18 @@
+Package: libreoffice-ogltrans
+Section: graphics
+Priority: extra
+Architecture: %OOO_OGLTRANS_ARCHS%
+Depends: libreoffice-common,
+         libreoffice-core,
+         libreoffice-impress,
+         ${misc:Depends},
+         ${shlibs:Depends}
+Enhances: libreoffice-impress
+Breaks: ure (<< 1.5.1+OOo3.1.1-15)
+Description: LibreOffice Impress extension for slide transitions using OpenGL
+ LibreOffice is a full-featured office productivity suite that provide
+ a near drop-in replacement for Microsoft(R) Office.
+ .
+ This package contains the extension making LibreOffice able to use
+ OpenGL for impress slide transitions.
+
