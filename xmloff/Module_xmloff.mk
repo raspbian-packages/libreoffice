@@ -35,9 +35,9 @@ $(eval $(call gb_Module_add_targets,xmloff,\
     Package_inc \
 ))
 
-$(eval $(call gb_Module_add_subsequentcheck_targets,xmloff,\
-    JunitTest_xmloff_unoapi \
-))
+#$(eval $(call gb_Module_add_subsequentcheck_targets,xmloff,\
+#    JunitTest_xmloff_unoapi \
+#))
 
 #todo: map file
 #todo: xmlkywd.lib - built, but never used?!

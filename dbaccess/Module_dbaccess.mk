@@ -47,7 +47,7 @@ $(eval $(call gb_Module_add_targets,dbaccess,\
 
 $(eval $(call gb_Module_add_subsequentcheck_targets,dbaccess,\
 	JunitTest_dbaccess_complex \
-    JunitTest_dbaccess_unoapi \
 ))
+#    JunitTest_dbaccess_unoapi \
 
 # vim: set noet sw=4 ts=4:

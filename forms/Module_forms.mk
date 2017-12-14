@@ -35,8 +35,8 @@ $(eval $(call gb_Module_add_targets,forms,\
 ))
 
 $(eval $(call gb_Module_add_subsequentcheck_targets,forms,\
-    JunitTest_forms_unoapi \
     JunitTest_forms_complex \
 ))
+#    JunitTest_forms_unoapi \
 
 # vim: set noet sw=4 ts=4:
