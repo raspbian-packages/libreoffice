@@ -157,7 +157,7 @@ fi
 # valgrind --log-file=valgrind.log does not work well with --trace-children=yes
 if [ -n "$VALGRINDCHECK" ] ; then
     echo "redirecting the standard and the error output to valgrind.log"
-    exec &>valgrind.log
+    exec > valgrind.log 2>&1
 fi
 
 # do not pass the request for command line help to oosplash
