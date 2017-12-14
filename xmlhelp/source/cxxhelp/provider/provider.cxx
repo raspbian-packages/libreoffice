@@ -335,7 +335,7 @@ void ContentProvider::init()
         rtl::OUString(RTL_CONSTASCII_USTRINGPARAM( " " )) +
         setupextension );
 
-    uno::Sequence< rtl::OUString > aImagesZipPaths( 2 );
+    uno::Sequence< rtl::OUString > aImagesZipPaths( 3 );
     xHierAccess = getHierAccess( sProvider,  "org.openoffice.Office.Common" );
 
     rtl::OUString aPath( getKey( xHierAccess, "Path/Current/UserConfig" ) );
@@ -344,6 +344,15 @@ void ContentProvider::init()
 
     aPath = rtl::OUString(RTL_CONSTASCII_USTRINGPARAM("$BRAND_BASE_DIR/share/config"));
     rtl::Bootstrap::expandMacros(aPath);
+    aImagesZipPaths[ 2 ] = aPath;
+
+    // try also /usr/share and even before /usr/lib
+    ::rtl::OUString aDataDir = ::rtl::OUString::createFromAscii ( "/usr/share/" ); 
+    ::rtl::OUString aLibDir = ::rtl::OUString::createFromAscii ( "/usr/lib/" ); 
+    sal_Int32 nLibDirPos = aPath.indexOf( aLibDir ); 
+ 
+    if ( nLibDirPos >= 0 ) 
+        aPath = aPath.replaceAt( nLibDirPos, aLibDir.getLength(), aDataDir ); 
     aImagesZipPaths[ 1 ] = aPath;
 
     uno::Reference< uno::XComponentContext > xContext;

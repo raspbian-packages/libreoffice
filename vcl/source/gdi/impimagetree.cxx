@@ -121,7 +121,11 @@ void loadFromStream(
 
 }
 
-ImplImageTree::ImplImageTree() {}
+ImplImageTree::ImplImageTree()
+{
+    m_datadir = ::rtl::OUString::createFromAscii ( "/usr/share/" );
+    m_libdir = ::rtl::OUString::createFromAscii ( "/usr/lib/" ); 
+}
 
 ImplImageTree::~ImplImageTree() {}
 
@@ -259,6 +263,22 @@ void ImplImageTree::setStyle(rtl::OUString const & style) {
     }
 }
 
+void ImplImageTree::addUrlToZips(const rtl::OUString &url) {
+    if ( url.getLength() == 0 ) 
+        return; 
+    m_zips.push_back(
+        std::make_pair(
+        url,
+        css::uno::Reference< css::container::XNameAccess >()));
+    sal_Int32 nLibDirPos = url.indexOf( m_libdir ); 
+    if ( nLibDirPos >= 0 ) {
+    m_zips.push_back(
+            std::make_pair(
+            url.replaceAt( nLibDirPos, m_libdir.getLength(), m_datadir ),
+            css::uno::Reference< css::container::XNameAccess >()));
+    }
+} 
+
 void ImplImageTree::resetZips() {
     m_zips.clear();
     {
@@ -284,19 +304,14 @@ void ImplImageTree::resetZips() {
         b.appendAscii(RTL_CONSTASCII_STRINGPARAM("_brand.zip"));
         bool ok = u.Append(b.makeStringAndClear(), INetURLObject::ENCODE_ALL);
         OSL_ASSERT(ok); (void) ok;
-        m_zips.push_back(
-            std::make_pair(
-                u.GetMainURL(INetURLObject::NO_DECODE),
-                css::uno::Reference< css::container::XNameAccess >()));
+        addUrlToZips(u.GetMainURL(INetURLObject::NO_DECODE));
     }
     {
         rtl::OUString url(
             RTL_CONSTASCII_USTRINGPARAM(
                 "$BRAND_BASE_DIR/share/config/images_brand.zip"));
         rtl::Bootstrap::expandMacros(url);
-        m_zips.push_back(
-            std::make_pair(
-                url, css::uno::Reference< css::container::XNameAccess >()));
+        addUrlToZips(url);
     }
     {
         rtl::OUString url(
@@ -310,10 +325,7 @@ void ImplImageTree::resetZips() {
         b.appendAscii(RTL_CONSTASCII_STRINGPARAM(".zip"));
         bool ok = u.Append(b.makeStringAndClear(), INetURLObject::ENCODE_ALL);
         OSL_ASSERT(ok); (void) ok;
-        m_zips.push_back(
-            std::make_pair(
-                u.GetMainURL(INetURLObject::NO_DECODE),
-                css::uno::Reference< css::container::XNameAccess >()));
+        addUrlToZips(u.GetMainURL(INetURLObject::NO_DECODE));
     }
     if ( m_style.equals(::rtl::OUString(RTL_CONSTASCII_USTRINGPARAM("default"))) )
     {
@@ -321,9 +333,7 @@ void ImplImageTree::resetZips() {
             RTL_CONSTASCII_USTRINGPARAM(
                 "$BRAND_BASE_DIR/share/config/images.zip"));
         rtl::Bootstrap::expandMacros(url);
-        m_zips.push_back(
-            std::make_pair(
-                url, css::uno::Reference< css::container::XNameAccess >()));
+        addUrlToZips(url);
     }
 }
 
