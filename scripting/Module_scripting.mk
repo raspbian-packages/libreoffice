@@ -52,7 +52,8 @@ $(eval $(call gb_Module_add_targets,scripting,\
 	Pyuno_mailmerge \
 	Zip_scriptbindinglib \
 	Zip_ScriptsBeanShell \
-	Zip_ScriptsJavaScript \
+	$(if $(filter $(ENABLE_SCRIPTING_JAVASCRIPT),YES),\
+		Zip_ScriptsJavaScript) \
 	Zip_ScriptsPython \
 ))
 
