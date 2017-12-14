@@ -114,6 +114,7 @@
 
 #include <sfx2/Metadatable.hxx>
 #include <fmtmeta.hxx> // MetaFieldManager
+#include <unotools/securityoptions.hxx>
 
 using namespace ::com::sun::star;
 using namespace ::com::sun::star::document;
@@ -923,6 +924,15 @@ void SwDoc::UpdateLinks( sal_Bool bUI )
                 case document::UpdateDocMode::NO_UPDATE:   bUpdate = sal_False;break;
                 case document::UpdateDocMode::QUIET_UPDATE:bAskUpdate = sal_False; break;
                 case document::UpdateDocMode::FULL_UPDATE: bAskUpdate = sal_True; break;
+            }
+            if (nLinkMode == AUTOMATIC && !bAskUpdate)
+            {
+                SfxMedium * medium = GetDocShell()->GetMedium();
+                if (!SvtSecurityOptions().isTrustedLocationUriForUpdatingLinks(
+                        rtl::OUString(medium == nullptr ? String() : medium->GetName())))
+                {
+                    bAskUpdate = true;
+                }
             }
             if( bUpdate && (bUI || !bAskUpdate) )
             {
