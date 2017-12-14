@@ -59,6 +59,25 @@ if [ "$1" = "--mailclient" ]; then
     shift
 fi
 
+case `basename "$MAILER"` in
+    sensible-lomua)
+        if [ -n "$GNOME_DESKTOP_SESSION_ID" -a -x /usr/bin/evolution ]; then
+            MAILER=/usr/bin/evolution
+        elif [ -n "$KDE_FULL_SESSION" -a -x /usr/bin/kmail ]; then
+            MAILER=/usr/bin/kmail
+        elif [ -x /usr/bin/evolution ]; then
+            # default
+            MAILER=/usr/bin/evolution
+        elif [ -x /usr/bin/icedove ]; then
+            # fallback
+            MAILER=/usr/bin/icedove
+        elif [ -x /usr/bin/thunderbird ]; then
+            # fallback
+            MAILER=/usr/bin/thunderbird
+        fi
+        ;;
+esac
+
 # autodetect mail client from executable name
 case `basename "$MAILER" | sed 's/-.*$//'` in
 
