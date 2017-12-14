@@ -40,6 +40,7 @@ MY_XCDS = \
     $(MISC)/ctl.xcd \
     $(MISC)/ctlseqcheck.xcd \
     $(MISC)/draw.xcd \
+    $(MISC)/evoab.xcd \
     $(MISC)/graphicfilter.xcd \
     $(MISC)/impress.xcd \
     $(MISC)/korea.xcd \
@@ -317,8 +318,8 @@ MY_FILES_main += \
 ERROR : unknown-GUIBASE
 .END
 .IF "$(ENABLE_EVOAB2)" == "TRUE"
-MY_FILES_main += $(MY_MOD)/DataAccess/evoab2.xcu
-MY_FILES_main += $(MY_MOD)/org/openoffice/Office/DataAccess-evoab2.xcu
+MY_FILES_evoab += $(MY_MOD)/DataAccess/evoab2.xcu
+MY_FILES_evoab += $(MY_MOD)/org/openoffice/Office/DataAccess-evoab2.xcu
 .END
 .IF "$(SOLAR_JAVA)" == "TRUE"
 MY_FILES_main += \
