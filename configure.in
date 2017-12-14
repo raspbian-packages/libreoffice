@@ -9663,6 +9663,13 @@ AC_MSG_RESULT([per module:$GMAKE_MODULE_PARALLELISM, for tail_build:$GMAKE_PARAL
 AC_SUBST(GMAKE_PARALLELISM)
 AC_SUBST(GMAKE_MODULE_PARALLELISM)
 
+if test -x /usr/bin/dpkg-buildflags; then
+	CDEFAULTOPT=`dpkg-buildflags --get CFLAGS 2>/dev/null | grep -E -o "\-O[[0-3]]"`
+else
+	CDEFAULTOPT=-O2
+fi
+AC_SUBST(CDEFAULTOPT)
+
 dnl ===================================================================
 dnl Setting up the environment.
 dnl ===================================================================
