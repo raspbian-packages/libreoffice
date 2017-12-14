@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+dictionaries%2Fel_GR.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment="
+"&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%"
+"3A+dictionaries%2Fel_GR.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
 "PO-Revision-Date: 2012-02-23 09:21+0200\n"
 "Last-Translator: Joan <joan@montane.cat>\n"
@@ -15,6 +17,7 @@ msgstr ""
 "X-Generator: Pootle 2.1.6\n"
 "X-Accelerator-Marker: ~\n"
 
+#. Q4w7
 #: description.xml#dispname.dispname.description.text
 msgid "Greek spelling dictionary, and hyphenation rules"
 msgstr "Grec: corrector ortogràfic i partició de mots"

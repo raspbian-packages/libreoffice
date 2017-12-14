@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+connectivity%2Fsource%2Fdrivers%2Fmozab.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+connectivity%2Fsource%2Fdrivers%2Fmozab.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
 "PO-Revision-Date: 2012-01-20 13:36+0200\n"
 "Last-Translator: Jesús <jesus@softcatala.org>\n"
@@ -15,40 +17,74 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. OH2a
 #: mozab2.xcu#.Drivers.Installed.sdbc_address_mozilla_.DriverTypeDisplayName.value.text
-msgctxt "mozab2.xcu#.Drivers.Installed.sdbc_address_mozilla_.DriverTypeDisplayName.value.text"
+msgctxt ""
+"mozab2.xcu#.Drivers.Installed.sdbc_address_mozilla_.DriverTypeDisplayName."
+"value.text"
 msgid "SeaMonkey Address Book"
 msgstr "Llibreta d'adreces del SeaMonkey"
 
+# 75%
+#. oZMZ
 #: mozab2.xcu#.Drivers.Installed.sdbc_address_thunderbird_.DriverTypeDisplayName.value.text
-msgctxt "mozab2.xcu#.Drivers.Installed.sdbc_address_thunderbird_.DriverTypeDisplayName.value.text"
+msgctxt ""
+"mozab2.xcu#.Drivers.Installed.sdbc_address_thunderbird_."
+"DriverTypeDisplayName.value.text"
 msgid "Thunderbird/Icedove Address Book"
 msgstr "Llibreta d'adreces del Thunderbird/Icedove"
 
+#. eoK0
 #: mozab2.xcu#.Drivers.Installed.sdbc_address_ldap__.DriverTypeDisplayName.value.text
-msgctxt "mozab2.xcu#.Drivers.Installed.sdbc_address_ldap__.DriverTypeDisplayName.value.text"
+msgctxt ""
+"mozab2.xcu#.Drivers.Installed.sdbc_address_ldap__.DriverTypeDisplayName."
+"value.text"
 msgid "LDAP Address Book"
 msgstr "Llibreta d'adreces LDAP"
 
+#. d6oX
 #: mozab.xcu#.Drivers.Installed.sdbc_address_outlook.DriverTypeDisplayName.value.text
 msgid "Microsoft Outlook Address Book"
 msgstr "Llibreta d'adreces del Microsoft Outlook"
 
+#. BNZ_
 #: mozab.xcu#.Drivers.Installed.sdbc_address_outlookexp.DriverTypeDisplayName.value.text
 msgid "Microsoft Windows Address Book"
 msgstr "Llibreta d'adreces del Microsoft Windows"
 
+#. r#w#
 #: mozab.xcu#.Drivers.Installed.sdbc_address_mozilla_.DriverTypeDisplayName.value.text
-msgctxt "mozab.xcu#.Drivers.Installed.sdbc_address_mozilla_.DriverTypeDisplayName.value.text"
+msgctxt ""
+"mozab.xcu#.Drivers.Installed.sdbc_address_mozilla_.DriverTypeDisplayName."
+"value.text"
 msgid "SeaMonkey Address Book"
 msgstr "Llibreta d'adreces del SeaMonkey"
 
+# 75%
+#. oae_
 #: mozab.xcu#.Drivers.Installed.sdbc_address_thunderbird_.DriverTypeDisplayName.value.text
-msgctxt "mozab.xcu#.Drivers.Installed.sdbc_address_thunderbird_.DriverTypeDisplayName.value.text"
+msgctxt ""
+"mozab.xcu#.Drivers.Installed.sdbc_address_thunderbird_.DriverTypeDisplayName."
+"value.text"
 msgid "Thunderbird/Icedove Address Book"
 msgstr "Llibreta d'adreces del Thunderbird/Icedove"
 
+#. u#2x
 #: mozab.xcu#.Drivers.Installed.sdbc_address_ldap__.DriverTypeDisplayName.value.text
-msgctxt "mozab.xcu#.Drivers.Installed.sdbc_address_ldap__.DriverTypeDisplayName.value.text"
+msgctxt ""
+"mozab.xcu#.Drivers.Installed.sdbc_address_ldap__.DriverTypeDisplayName.value."
+"text"
 msgid "LDAP Address Book"
 msgstr "Llibreta d'adreces LDAP"
+
+#~ msgctxt ""
+#~ "mozab2.xcu#.Drivers.Installed.sdbc_address_thunderbird_."
+#~ "DriverTypeDisplayName.value.text"
+#~ msgid "Thunderbird Address Book"
+#~ msgstr "Llibreta d'adreces del Thunderbird"
+
+#~ msgctxt ""
+#~ "mozab.xcu#.Drivers.Installed.sdbc_address_thunderbird_."
+#~ "DriverTypeDisplayName.value.text"
+#~ msgid "Thunderbird Address Book"
+#~ msgstr "Llibreta d'adreces del Thunderbird"

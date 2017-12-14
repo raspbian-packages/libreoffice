@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+svx%2Fsource%2Fgallery2.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+svx%2Fsource%2Fgallery2.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
 "PO-Revision-Date: 2011-04-05 19:16+0200\n"
 "Last-Translator: jmontane <joan@montane.cat>\n"
@@ -15,23 +17,28 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. oXCb
 #: gallery.src#RID_SVXDLG_GALLERYBROWSER.dockingwindow.text
 msgid "Gallery"
 msgstr "Galeria"
 
+#. gSAp
 #: gallery.src#RID_SVXSTR_GALLERY_ACTUALIZE_PROGRESS.string.text
 msgctxt "gallery.src#RID_SVXSTR_GALLERY_ACTUALIZE_PROGRESS.string.text"
 msgid "Update"
 msgstr "Actualitza"
 
+#. lkr5
 #: gallery.src#RID_SVXSTR_GALLERY_FOPENERROR.string.text
 msgid "This file cannot be opened"
 msgstr "No es pot obrir este fitxer"
 
+#. m2xo
 #: gallery.src#RID_SVXSTR_GALLERY_NOTHEME.string.text
 msgid "Invalid Theme Name!"
 msgstr "El nom del tema no és vàlid."
 
+#. XA7u
 #: gallery.src#RID_SVXSTR_GALLERY_DELETEOBJ.string.text
 msgid ""
 "Do you really want to\n"
@@ -40,6 +47,7 @@ msgstr ""
 "Esteu segur de voler\n"
 "suprimir este objecte?"
 
+#. nXyT
 #: gallery.src#RID_SVXSTR_GALLERY_DELETETHEME.string.text
 msgid ""
 "Do you really want to\n"
@@ -48,34 +56,42 @@ msgstr ""
 "Esteu segur de voler\n"
 "suprimir este tema?"
 
+#. _1FS
 #: gallery.src#RID_SVXSTR_EXTFORMAT1_UI.string.text
 msgid "Wave - Sound File"
 msgstr "Fitxer de so (wave)"
 
+#. j7x5
 #: gallery.src#RID_SVXSTR_EXTFORMAT2_UI.string.text
 msgid "Audio Interchange File Format"
 msgstr "Format de fitxer d'intercanvi de so (AIFF)"
 
+#. Ahqj
 #: gallery.src#RID_SVXSTR_EXTFORMAT3_UI.string.text
 msgid "AU - Sound File"
 msgstr "Fitxer de so (AU)"
 
+#. 4VAQ
 #: gallery.src#RID_SVXSTR_GALLERY_FILTER.string.text
 msgid "Graphics filter"
 msgstr "Filtre gràfic"
 
+#. fs6f
 #: gallery.src#RID_SVXSTR_GALLERY_LENGTH.string.text
 msgid "Length:"
 msgstr "Longitud:"
 
+#. 2zJK
 #: gallery.src#RID_SVXSTR_GALLERY_SIZE.string.text
 msgid "Size:"
 msgstr "Mida:"
 
+#. pSVR
 #: gallery.src#RID_SVXSTR_GALLERY_DELETEDD.string.text
 msgid "Do you want to delete the linked file?"
 msgstr "Voleu suprimir el fitxer enllaçat?"
 
+#. TVja
 #: gallery.src#RID_SVXSTR_GALLERY_SGIERROR.string.text
 msgid ""
 "This file cannot be opened.\n"
@@ -84,14 +100,17 @@ msgstr ""
 "No s'ha pogut obrir el fitxer.\n"
 "Voleu indicar un camí de cerca diferent?"
 
+#. 5WCQ
 #: gallery.src#RID_SVXSTR_GALLERY_NEWTHEME.string.text
 msgid "New Theme"
 msgstr "Tema nou"
 
+#. biDQ
 #: gallery.src#RID_SVXSTR_GALLERY_BROWSER.string.text
 msgid "~Organizer..."
 msgstr "~Organitzador..."
 
+#. evRV
 #: gallery.src#RID_SVXSTR_GALLERY_THEMEERR.string.text
 msgid ""
 "This theme name already exists.\n"
@@ -100,643 +119,800 @@ msgstr ""
 "El nom d'este tema ja existeix.\n"
 "Trieu-ne un de diferent."
 
+#. ewB8
 #: gallery.src#RID_SVXSTR_GALLERY_IMPORTTHEME.string.text
 msgid "I~mport..."
 msgstr "I~mporta..."
 
+#. WdrY
 #: gallery.src#RID_SVXSTR_GALLERY_CREATETHEME.string.text
 msgid "New Theme..."
 msgstr "Tema nou..."
 
+#. 8XHk
 #: gallery.src#RID_SVXSTR_GALLERY_DIALOGID.string.text
 msgid "Assign ID"
 msgstr "Assigna un identificador"
 
+#. aMsW
 #: gallery.src#RID_SVXSTR_GALLERY_TITLE.string.text
 msgid "Title"
 msgstr "Títol"
 
+#. pEsG
 #: gallery.src#RID_SVXSTR_GALLERY_PATH.string.text
 msgid "Path"
 msgstr "Camí"
 
+#. VkZG
 #: gallery.src#RID_SVXSTR_GALLERY_ICONVIEW.string.text
 msgid "Icon View"
 msgstr "Mostra les icones"
 
+#. VZbU
 #: gallery.src#RID_SVXSTR_GALLERY_LISTVIEW.string.text
 msgid "Detailed View"
 msgstr "Mostra els detalls"
 
+#. Ol7w
 #: gallery.src#RID_SVXMN_GALLERY1.MN_ACTUALIZE.menuitem.text
 msgctxt "gallery.src#RID_SVXMN_GALLERY1.MN_ACTUALIZE.menuitem.text"
 msgid "Update"
 msgstr "Actualitza"
 
+#. 4gNs
 #: gallery.src#RID_SVXMN_GALLERY1.MN_DELETE.menuitem.text
 msgctxt "gallery.src#RID_SVXMN_GALLERY1.MN_DELETE.menuitem.text"
 msgid "~Delete"
 msgstr "~Suprimeix"
 
+#. wxAL
 #: gallery.src#RID_SVXMN_GALLERY1.MN_RENAME.menuitem.text
 msgid "~Rename"
 msgstr "~Reanomena"
 
+#. dyS_
 #: gallery.src#RID_SVXMN_GALLERY1.MN_ASSIGN_ID.menuitem.text
 msgid "Assign ~ID"
 msgstr "Assigna un ~identificador"
 
+#. NsTy
 #: gallery.src#RID_SVXMN_GALLERY1.MN_PROPERTIES.menuitem.text
 msgid "Propert~ies..."
 msgstr "Prop~ietats..."
 
+#. sETS
 #: gallery.src#RID_SVXMN_GALLERY2.MN_ADDMENU.MN_ADD.menuitem.text
 msgctxt "gallery.src#RID_SVXMN_GALLERY2.MN_ADDMENU.MN_ADD.menuitem.text"
 msgid "~Copy"
 msgstr "~Copia"
 
+#. FgmZ
 #: gallery.src#RID_SVXMN_GALLERY2.MN_ADDMENU.MN_ADD_LINK.menuitem.text
 msgid "Link"
 msgstr "Enllaç"
 
+#. GOX6
 #: gallery.src#RID_SVXMN_GALLERY2.MN_ADDMENU.MN_BACKGROUND.menuitem.text
 msgid "Bac~kground"
 msgstr "~Fons"
 
+#. 7AWe
 #: gallery.src#RID_SVXMN_GALLERY2.MN_ADDMENU.menuitem.text
 msgctxt "gallery.src#RID_SVXMN_GALLERY2.MN_ADDMENU.menuitem.text"
 msgid "~Insert"
 msgstr "~Insereix"
 
+#. zaCW
 #: gallery.src#RID_SVXMN_GALLERY2.MN_PREVIEW.menuitem.text
 msgid "~Preview"
 msgstr "~Previsualització"
 
+#. wA_r
 #: gallery.src#RID_SVXMN_GALLERY2.MN_TITLE.menuitem.text
 msgid "~Title"
 msgstr "~Títol"
 
+#. iD1x
 #: gallery.src#RID_SVXMN_GALLERY2.MN_DELETE.menuitem.text
 msgctxt "gallery.src#RID_SVXMN_GALLERY2.MN_DELETE.menuitem.text"
 msgid "~Delete"
 msgstr "~Suprimeix"
 
+#. m4Yf
 #: gallery.src#RID_SVXMN_GALLERY2.MN_COPYCLIPBOARD.menuitem.text
 msgctxt "gallery.src#RID_SVXMN_GALLERY2.MN_COPYCLIPBOARD.menuitem.text"
 msgid "~Copy"
 msgstr "~Copia"
 
+#. 5mI5
 #: gallery.src#RID_SVXMN_GALLERY2.MN_PASTECLIPBOARD.menuitem.text
 msgctxt "gallery.src#RID_SVXMN_GALLERY2.MN_PASTECLIPBOARD.menuitem.text"
 msgid "~Insert"
 msgstr "~Insereix"
 
+#. r4Vk
 #: galtheme.src#RID_GALLERYSTR_THEME_3D.string.text
 msgid "3D Effects"
 msgstr "Efectes 3D"
 
+#. Q0hJ
 #: galtheme.src#RID_GALLERYSTR_THEME_ANIMATIONS.string.text
 msgid "Animations"
 msgstr "Animacions"
 
+#. g#5I
 #: galtheme.src#RID_GALLERYSTR_THEME_BULLETS.string.text
 msgid "Bullets"
 msgstr "Pics"
 
+#. iRJm
 #: galtheme.src#RID_GALLERYSTR_THEME_OFFICE.string.text
 msgid "Office"
 msgstr "Oficina"
 
+#. oss4
 #: galtheme.src#RID_GALLERYSTR_THEME_FLAGS.string.text
 msgctxt "galtheme.src#RID_GALLERYSTR_THEME_FLAGS.string.text"
 msgid "Flags"
 msgstr "Senyaladors"
 
+#. 3ICG
 #: galtheme.src#RID_GALLERYSTR_THEME_FLOWCHARTS.string.text
 msgid "Flow Charts"
 msgstr "Diagrames de flux"
 
+#. l3wM
 #: galtheme.src#RID_GALLERYSTR_THEME_EMOTICONS.string.text
 msgid "Emoticons"
 msgstr "Emoticones"
 
+#. 43u4
 #: galtheme.src#RID_GALLERYSTR_THEME_PHOTOS.string.text
 msgid "Pictures"
 msgstr "Imatges"
 
+#. 2IEE
 #: galtheme.src#RID_GALLERYSTR_THEME_BACKGROUNDS.string.text
 msgid "Backgrounds"
 msgstr "Fons"
 
+#. zNP8
 #: galtheme.src#RID_GALLERYSTR_THEME_HOMEPAGE.string.text
 msgid "Homepage"
 msgstr "Pàgina inicial"
 
+#. vGxI
 #: galtheme.src#RID_GALLERYSTR_THEME_INTERACTION.string.text
 msgid "Interaction"
 msgstr "Interacció"
 
+#. gvho
 #: galtheme.src#RID_GALLERYSTR_THEME_MAPS.string.text
 msgid "Maps"
 msgstr "Mapes"
 
+#. QKHf
 #: galtheme.src#RID_GALLERYSTR_THEME_PEOPLE.string.text
 msgctxt "galtheme.src#RID_GALLERYSTR_THEME_PEOPLE.string.text"
 msgid "People"
 msgstr "Gent"
 
+#. tKwx
 #: galtheme.src#RID_GALLERYSTR_THEME_SURFACES.string.text
 msgid "Surfaces"
 msgstr "Superfícies"
 
+#. jKd6
 #: galtheme.src#RID_GALLERYSTR_THEME_RULERS.string.text
 msgid "Rulers"
 msgstr "Línies"
 
+#. 0k68
 #: galtheme.src#RID_GALLERYSTR_THEME_SOUNDS.string.text
 msgid "Sounds"
 msgstr "Sons"
 
+#. OxtO
 #: galtheme.src#RID_GALLERYSTR_THEME_SYMBOLS.string.text
 msgid "Symbols"
 msgstr "Símbols"
 
+#. BKZG
 #: galtheme.src#RID_GALLERYSTR_THEME_MYTHEME.string.text
 msgid "My Theme"
 msgstr "El meu tema"
 
+#. ANk0
 #: galtheme.src#RID_GALLERYSTR_THEME_ARROWS.string.text
 msgctxt "galtheme.src#RID_GALLERYSTR_THEME_ARROWS.string.text"
 msgid "Arrows"
 msgstr "Fletxes"
 
+#. GdzX
 #: galtheme.src#RID_GALLERYSTR_THEME_BALLOONS.string.text
 msgid "Balloons"
 msgstr "Globus"
 
+#. xRxb
 #: galtheme.src#RID_GALLERYSTR_THEME_KEYBOARD.string.text
 msgid "Keyboard"
 msgstr "Teclat"
 
+#. 1l#O
 #: galtheme.src#RID_GALLERYSTR_THEME_TIME.string.text
 msgid "Time"
 msgstr "Hora"
 
+#. fTnn
 #: galtheme.src#RID_GALLERYSTR_THEME_PRESENTATION.string.text
 msgid "Presentation"
 msgstr "Presentació"
 
+#. 566d
 #: galtheme.src#RID_GALLERYSTR_THEME_CALENDAR.string.text
 msgid "Calendar"
 msgstr "Calendari"
 
+#. tpv8
 #: galtheme.src#RID_GALLERYSTR_THEME_NAVIGATION.string.text
 msgid "Navigation"
 msgstr "Navegació"
 
+#. 2MWr
 #: galtheme.src#RID_GALLERYSTR_THEME_COMMUNICATION.string.text
 msgid "Communication"
 msgstr "Comunicació"
 
+#. IyVg
 #: galtheme.src#RID_GALLERYSTR_THEME_FINANCES.string.text
 msgid "Finances"
 msgstr "Finances"
 
+#. r3x6
 #: galtheme.src#RID_GALLERYSTR_THEME_COMPUTER.string.text
 msgid "Computers"
 msgstr "Ordinadors"
 
+#. 1t#T
 #: galtheme.src#RID_GALLERYSTR_THEME_CLIMA.string.text
 msgid "Climate"
 msgstr "Clima"
 
+#. GUY3
 #: galtheme.src#RID_GALLERYSTR_THEME_EDUCATION.string.text
 msgid "School & University"
 msgstr "Escola i universitat"
 
+#. CU7h
 #: galtheme.src#RID_GALLERYSTR_THEME_TROUBLE.string.text
 msgid "Problem Solving"
 msgstr "Solució de problemes"
 
+#. md2O
 #: galtheme.src#RID_GALLERYSTR_THEME_SCREENBEANS.string.text
 msgid "Screen Beans"
 msgstr "Screen Beans"
 
+#. CmKw
 #: galtheme.src#RID_GALLERYSTR_THEME_SHAPES_POLYGONS.string.text
 msgid "Shapes - polygons"
 msgstr "Formes - polígons"
 
+#. rZWr
 #: galtheme.src#RID_GALLERYSTR_THEME_SHAPES_1.string.text
 msgid "Shapes 1"
 msgstr "Formes 1"
 
+#. CMoU
 #: galtheme.src#RID_GALLERYSTR_THEME_SHAPES_2.string.text
 msgid "Shapes 2"
 msgstr "Formes 2"
 
+#. 7we1
 #: galtheme.src#RID_GALLERYSTR_THEME_ANIMALS.string.text
 msgid "Animals"
 msgstr "Animals"
 
+#. Odiq
 #: galtheme.src#RID_GALLERYSTR_THEME_CARS.string.text
 msgid "Cars"
 msgstr "Cotxes"
 
+#. NcAB
 #: galtheme.src#RID_GALLERYSTR_THEME_BUGS.string.text
 msgid "Bugs"
 msgstr "Insectes"
 
+#. AUc4
 #: galtheme.src#RID_GALLERYSTR_THEME_CISCO_OTHER.string.text
 msgid "Cisco - Other"
 msgstr "Cisco - altres"
 
+#. gINz
 #: galtheme.src#RID_GALLERYSTR_THEME_CISCO_MEDIA.string.text
 msgid "Cisco - Media"
 msgstr "Cisco - mitjans"
 
+#. nqMS
 #: galtheme.src#RID_GALLERYSTR_THEME_CISCO_PRODUCTS.string.text
 msgid "Cisco - Products"
 msgstr "Cisco - productes"
 
+#. As0Y
 #: galtheme.src#RID_GALLERYSTR_THEME_CISCO_WAN_LAN.string.text
 msgid "Cisco - WAN - LAN"
 msgstr "Cisco - WAN - LAN"
 
+#. dm3a
 #: galtheme.src#RID_GALLERYSTR_THEME_DOMINO_USUAL.string.text
 msgid "Domino - usual"
 msgstr "Domino - normal"
 
+#. a8RM
 #: galtheme.src#RID_GALLERYSTR_THEME_DOMINO_NUMBERED.string.text
 msgid "Domino - numbered"
 msgstr "Domino - números"
 
+#. 5lX#
 #: galtheme.src#RID_GALLERYSTR_THEME_ELECTRONICS_PARTS_1.string.text
 msgid "Electronics - parts 1"
 msgstr "Electrònica - parts 1"
 
+#. yQpL
 #: galtheme.src#RID_GALLERYSTR_THEME_ELECTRONICS_PARTS_2.string.text
 msgid "Electronics - parts 2"
 msgstr "Electrònica - parts 2"
 
+#. h9zC
 #: galtheme.src#RID_GALLERYSTR_THEME_ELECTRONICS_PARTS_3.string.text
 msgid "Electronics - parts 3"
 msgstr "Electrònica - parts 3"
 
+#. r2oY
 #: galtheme.src#RID_GALLERYSTR_THEME_ELECTRONICS_PARTS_4.string.text
 msgid "Electronics - parts 4"
 msgstr "Electrònica - parts 4"
 
+#. U_Zh
 #: galtheme.src#RID_GALLERYSTR_THEME_ELECTRONICS_CIRCUIT.string.text
 msgid "Electronics - circuit"
 msgstr "Electrònica - circuits"
 
+#. 7gZE
 #: galtheme.src#RID_GALLERYSTR_THEME_ELECTRONICS_SIGNS.string.text
 msgid "Electronics - signs"
 msgstr "Electrònica - signes"
 
+#. gj#3
 #: galtheme.src#RID_GALLERYSTR_THEME_ELECTRONICS_GAUGES.string.text
 msgid "Electronics - gauges"
 msgstr "Electrònica - mesuradors"
 
+#. HaUZ
 #: galtheme.src#RID_GALLERYSTR_THEME_PEOPLE_1.string.text
 msgctxt "galtheme.src#RID_GALLERYSTR_THEME_PEOPLE_1.string.text"
 msgid "People"
 msgstr "Persones"
 
+#. XCDI
 #: galtheme.src#RID_GALLERYSTR_THEME_ARCHITECTURE_OVERLAY.string.text
 msgid "Architecture - overlay"
 msgstr "Arquitectura - decoració"
 
+#. te5C
 #: galtheme.src#RID_GALLERYSTR_THEME_ARCHITECTURE_FURNITURES.string.text
 msgid "Architecture - furnitures"
 msgstr "Arquitectura - mobles"
 
+#. U8VT
 #: galtheme.src#RID_GALLERYSTR_THEME_ARCHITECTURE_BUILDINGS.string.text
 msgid "Architecture - buildings"
 msgstr "Arquitectura - edificis"
 
+#. Lcnd
 #: galtheme.src#RID_GALLERYSTR_THEME_ARCHITECTURE_BATHROOM_KITCHEN.string.text
 msgid "Architecture - bathroom, kitchen"
 msgstr "Arquitectura - banys, cuines"
 
+#. 7Jmf
 #: galtheme.src#RID_GALLERYSTR_THEME_ARCHITECTURE_KITCHEN.string.text
 msgid "Architecture - kitchen"
 msgstr "Arquitectura - cuina"
 
+#. Gw6z
 #: galtheme.src#RID_GALLERYSTR_THEME_ARCHITECTURE_WINDOWS_DOORS.string.text
 msgid "Architecture - windows, doors"
 msgstr "Arquitectura - finestres, portes"
 
+#. 3ou9
 #: galtheme.src#RID_GALLERYSTR_THEME_FLOWCHARTS_1.string.text
 msgid "Flowcharts"
 msgstr "Diagrames de flux"
 
+#. w7gY
 #: galtheme.src#RID_GALLERYSTR_THEME_FLOWCHARTS_2.string.text
 msgid "Flowcharts 2"
 msgstr "Diagrames de flux 2"
 
+#. Vco3
 #: galtheme.src#RID_GALLERYSTR_THEME_FORALSTUDIOA.string.text
 msgid "Foral-StudioA"
 msgstr "Estudi-FloralA"
 
+#. bFvZ
 #: galtheme.src#RID_GALLERYSTR_THEME_PHOTOS_FAUNA.string.text
 msgid "Photos - Fauna"
 msgstr "Fotos - fauna"
 
+#. qME#
 #: galtheme.src#RID_GALLERYSTR_THEME_PHOTOS_BUILDINGS.string.text
 msgid "Photos - Buildings"
 msgstr "Fotos - edificis"
 
+#. raMp
 #: galtheme.src#RID_GALLERYSTR_THEME_PHOTOS_PLANTS.string.text
 msgid "Photos - Plants"
 msgstr "Fotos - plantes"
 
+#. 5dt8
 #: galtheme.src#RID_GALLERYSTR_THEME_PHOTOS_STATUES.string.text
 msgid "Photos - Statues"
 msgstr "Fotos - estàtues"
 
+#. Bicl
 #: galtheme.src#RID_GALLERYSTR_THEME_PHOTOS_LANDSCAPES.string.text
 msgid "Photos - Landscapes"
 msgstr "Fotos - paisatges"
 
+#. OAcn
 #: galtheme.src#RID_GALLERYSTR_THEME_PHOTOS_CITIES.string.text
 msgid "Photos - Cities"
 msgstr "Fotos - ciutats"
 
+#. a4mI
 #: galtheme.src#RID_GALLERYSTR_THEME_PHOTOS_FLOWERS.string.text
 msgid "Photos - Flowers"
 msgstr "Fotos - flors"
 
+#. SdLx
 #: galtheme.src#RID_GALLERYSTR_THEME_THERAPEUTICS_GENERAL.string.text
 msgid "Therapeutics - general"
 msgstr "Terapèutica - general"
 
+#. SBmV
 #: galtheme.src#RID_GALLERYSTR_THEME_WEATHER.string.text
 msgid "Weather"
 msgstr "Temps"
 
+#. iG9G
 #: galtheme.src#RID_GALLERYSTR_THEME_VECHILES.string.text
 msgid "Vehicles"
 msgstr "Vehicles"
 
+#. 6xY9
 #: galtheme.src#RID_GALLERYSTR_THEME_SIGNS.string.text
 msgid "Signs"
 msgstr "Senyals"
 
+#. OWAf
 #: galtheme.src#RID_GALLERYSTR_THEME_BLUE_MAN.string.text
 msgid "Blue Man"
 msgstr "Home blau"
 
+#. iefu
 #: galtheme.src#RID_GALLERYSTR_THEME_CHEMISTRY_AMINO_ACIDS.string.text
 msgid "Chemistry - Amino acids"
 msgstr "Química - aminoàcids"
 
+#. jTws
 #: galtheme.src#RID_GALLERYSTR_THEME_LOGICAL_SIGNS.string.text
 msgid "Logical signs"
 msgstr "Signes lògics"
 
+#. liuX
 #: galtheme.src#RID_GALLERYSTR_THEME_LOGICAL_GATES.string.text
 msgid "Logical gates"
 msgstr "Portes lògiques"
 
+#. QTk6
 #: galtheme.src#RID_GALLERYSTR_THEME_LOGOS.string.text
 msgid "Logos"
 msgstr "Logos"
 
+#. Rn1J
 #: galtheme.src#RID_GALLERYSTR_THEME_SMILES.string.text
 msgid "Smilies"
 msgstr "Emoticones"
 
+#. Av5Q
 #: galtheme.src#RID_GALLERYSTR_THEME_ARROWS_1.string.text
 msgctxt "galtheme.src#RID_GALLERYSTR_THEME_ARROWS_1.string.text"
 msgid "Arrows"
 msgstr "Fletxes"
 
+#. gKYp
 #: galtheme.src#RID_GALLERYSTR_THEME_CLOCK_01_CLOCK.string.text
 msgid "Clock - 01 clock"
 msgstr "Rellotge - la una en punt"
 
+#. QEbU
 #: galtheme.src#RID_GALLERYSTR_THEME_CLOCK_02_CLOCK.string.text
 msgid "Clock - 02 clock"
 msgstr "Rellotge - les dues en punt"
 
+#. ZM4b
 #: galtheme.src#RID_GALLERYSTR_THEME_CLOCK_03_CLOCK.string.text
 msgid "Clock - 03 clock"
 msgstr "Rellotge - les tres en punt"
 
+#. 18Fb
 #: galtheme.src#RID_GALLERYSTR_THEME_CLOCK_04_CLOCK.string.text
 msgid "Clock - 04 clock"
 msgstr "Rellotge - les quatre en punt"
 
+#. uGkU
 #: galtheme.src#RID_GALLERYSTR_THEME_CLOCK_05_CLOCK.string.text
 msgid "Clock - 05 clock"
 msgstr "Rellotge - les cinc en punt"
 
+#. 8Afp
 #: galtheme.src#RID_GALLERYSTR_THEME_CLOCK_06_CLOCK.string.text
 msgid "Clock - 06 clock"
 msgstr "Rellotge - les sis en punt"
 
+#. nI88
 #: galtheme.src#RID_GALLERYSTR_THEME_CLOCK_07_CLOCK.string.text
 msgid "Clock - 07 clock"
 msgstr "Rellotge - les set en punt"
 
+#. Ct_p
 #: galtheme.src#RID_GALLERYSTR_THEME_CLOCK_08_CLOCK.string.text
 msgid "Clock - 08 clock"
 msgstr "Rellotge - les vuit en punt"
 
+#. rlU8
 #: galtheme.src#RID_GALLERYSTR_THEME_CLOCK_09_CLOCK.string.text
 msgid "Clock - 09 clock"
 msgstr "Rellotge - les nou en punt"
 
+#. Pr8g
 #: galtheme.src#RID_GALLERYSTR_THEME_CLOCK_10_CLOCK.string.text
 msgid "Clock - 10 clock"
 msgstr "Rellotge - les deu en punt"
 
+#. WjfH
 #: galtheme.src#RID_GALLERYSTR_THEME_CLOCK_11_CLOCK.string.text
 msgid "Clock - 11 clock"
 msgstr "Rellotge - les onze en punt"
 
+#. Gtky
 #: galtheme.src#RID_GALLERYSTR_THEME_CLOCK_12_CLOCK.string.text
 msgid "Clock - 12 clock"
 msgstr "Rellotge - les dotze en punt"
 
+#. EVFv
 #: galtheme.src#RID_GALLERYSTR_THEME_PNEUMATIC_PARTS.string.text
 msgid "Pneumatic - parts"
 msgstr "Pneumàtics - parts"
 
+#. rR1X
 #: galtheme.src#RID_GALLERYSTR_THEME_COMPUTER_GENERAL.string.text
 msgid "Computer - general"
 msgstr "Ordinador - general"
 
+#. qpt9
 #: galtheme.src#RID_GALLERYSTR_THEME_COMPUTER_NETWORK.string.text
 msgid "Computer - network"
 msgstr "Ordinador - xarxa"
 
+#. #85C
 #: galtheme.src#RID_GALLERYSTR_THEME_COMPUTER_NETWORK_DEVICES.string.text
 msgid "Computer - network devices"
 msgstr "Ordinador - dispositius de xarxa"
 
+#. 5ZZP
 #: galtheme.src#RID_GALLERYSTR_THEME_COMPUTER_WIFI.string.text
 msgid "Computer - WIFI"
 msgstr "Ordinador - WIFI"
 
+#. BKDm
 #: galtheme.src#RID_GALLERYSTR_THEME_NUMBERS.string.text
 msgid "Numbers"
 msgstr "Números"
 
+#. nNQ2
 #: galtheme.src#RID_GALLERYSTR_THEME_SIGNS_DANGER.string.text
 msgid "Signs - danger"
 msgstr "Senyals - perill"
 
+#. K37e
 #: galtheme.src#RID_GALLERYSTR_THEME_OBJECTS.string.text
 msgid "Objects"
 msgstr "Objectes"
 
+#. 8Nmi
 #: galtheme.src#RID_GALLERYSTR_THEME_MAPS_AFRICA.string.text
 msgid "Maps - Africa"
 msgstr "Mapes - Àfrica"
 
+#. gtRh
 #: galtheme.src#RID_GALLERYSTR_THEME_MAPS_UNITED_STATES_OF_AMERICA.string.text
 msgid "Maps - United States of America"
 msgstr "Mapes - Estats Units d'Amèrica"
 
+#. Z_tk
 #: galtheme.src#RID_GALLERYSTR_THEME_MAPS_AUSTRALIA.string.text
 msgid "Maps - Australia"
 msgstr "Mapes - Austràlia"
 
+#. L939
 #: galtheme.src#RID_GALLERYSTR_THEME_MAPS_ASIA.string.text
 msgid "Maps - Asia"
 msgstr "Mapes - Àsia"
 
+#. 9XOs
 #: galtheme.src#RID_GALLERYSTR_THEME_MAPS_SOUTH_AMERICA.string.text
 msgid "Maps - South America"
 msgstr "Mapes - Amèrica del sud"
 
+#. CcHx
 #: galtheme.src#RID_GALLERYSTR_THEME_MAPS_EUROPE.string.text
 msgid "Maps - Europe"
 msgstr "Mapes - Europa"
 
+#. qm3K
 #: galtheme.src#RID_GALLERYSTR_THEME_MAPS_EUROPE_1.string.text
 msgid "Maps - Europe 1"
 msgstr "Mapes - Europa 1"
 
+#. Pe19
 #: galtheme.src#RID_GALLERYSTR_THEME_MAPS_FRANCE.string.text
 msgid "Maps - France"
 msgstr "Mapes - França"
 
+#. lAj8
 #: galtheme.src#RID_GALLERYSTR_THEME_MAPS_FRANCE_COUNTRIES.string.text
 msgid "Maps - France - countries"
 msgstr "Mapes - França - països"
 
+#. gdVM
 #: galtheme.src#RID_GALLERYSTR_THEME_MAPS_SIGNS.string.text
 msgid "Maps - signs"
 msgstr "Mapes - signes"
 
+#. UXg6
 #: galtheme.src#RID_GALLERYSTR_THEME_MAPS_CANADA.string.text
 msgid "Maps - Canada"
 msgstr "Mapes - Canadà"
 
+#. J31s
 #: galtheme.src#RID_GALLERYSTR_THEME_MAPS_CONTINENTS.string.text
 msgid "Maps - Continents"
 msgstr "Mapes - continents"
 
+#. wM6I
 #: galtheme.src#RID_GALLERYSTR_THEME_MAPS_MIDDLE_EAST.string.text
 msgid "Maps - Middle East"
 msgstr "Mapes - Orient mitjà"
 
+#. 4MAg
 #: galtheme.src#RID_GALLERYSTR_THEME_MAPS_MIDDLE_AMERICA.string.text
 msgid "Maps - Middle America"
 msgstr "Mapes - Amèrica central"
 
+#. dyBJ
 #: galtheme.src#RID_GALLERYSTR_THEME_MAPS_MIDDLE_AGES.string.text
 msgid "Maps - Middle ages"
 msgstr "Mapes - Edat mitjana"
 
+#. GZRE
 #: galtheme.src#RID_GALLERYSTR_THEME_MAPS_MEXICO.string.text
 msgid "Maps - Mexico"
 msgstr "Mapes - Mèxic"
 
+#. tpaY
 #: galtheme.src#RID_GALLERYSTR_THEME_MAPS_ANCIENT_TIMES.string.text
 msgid "Maps - Ancient times"
 msgstr "Mapes - antiguitat"
 
+#. w1xO
 #: galtheme.src#RID_GALLERYSTR_THEME_MAPS_SYMBOLS.string.text
 msgid "Maps - symbols"
 msgstr "Mapes - símbols"
 
+#. R82S
 #: galtheme.src#RID_GALLERYSTR_THEME_MAPS_HISTORY_1900.string.text
 msgid "Maps - history - 1900"
 msgstr "Mapes - història - 1900"
 
+#. XMCS
 #: galtheme.src#RID_GALLERYSTR_THEME_MAPS_WORLD.string.text
 msgid "Maps - World"
 msgstr "Mapes - Món"
 
+#. hu17
 #: galtheme.src#RID_GALLERYSTR_THEME_CROPS.string.text
 msgid "Crops"
 msgstr "Collites"
 
+#. b0ta
 #: galtheme.src#RID_GALLERYSTR_THEME_FRACTIONS.string.text
 msgid "Fractions"
 msgstr "Fraccions"
 
+#. p3Tb
 #: galtheme.src#RID_GALLERYSTR_THEME_FLAGS_1.string.text
 msgctxt "galtheme.src#RID_GALLERYSTR_THEME_FLAGS_1.string.text"
 msgid "Flags"
 msgstr "Banderes"
 
+#. gojl
 #: galtheme.src#RID_GALLERYSTR_THEME_MUSIC_INSTRUMENTS.string.text
 msgid "Music - instruments"
 msgstr "Música - instruments"
 
+#. Mun_
 #: galtheme.src#RID_GALLERYSTR_THEME_MUSIC_SHEET_MUSIC.string.text
 msgid "Music - sheet music"
 msgstr "Música - partitura"
 
+#. efoi
 #: galtheme.src#RID_GALLERYSTR_THEME_SPECIAL_PICTOGRAMM.string.text
 msgid "Special Pictogramms"
 msgstr "Pictogrames especials"
 
+#. i4r1
 #: galtheme.src#RID_GALLERYSTR_THEME_PHOTOS_CELEBRATION.string.text
 msgid "Photos - Celebration"
 msgstr "Fotos - celebracions"
 
+#. 888f
 #: galtheme.src#RID_GALLERYSTR_THEME_PHOTOS_FOODSANDDRINKS.string.text
 msgid "Photos - Foods and Drinks"
 msgstr "Fotos - menjar i beguda"
 
+#. 2#w4
 #: galtheme.src#RID_GALLERYSTR_THEME_PHOTOS_HUMANS.string.text
 msgid "Photos - Humans"
 msgstr "Fotos - persones"
 
+#. ehAY
 #: galtheme.src#RID_GALLERYSTR_THEME_PHOTOS_OBJECTS.string.text
 msgid "Photos - Objects"
 msgstr "Fotos - objectes"
 
+#. asDm
 #: galtheme.src#RID_GALLERYSTR_THEME_PHOTOS_SPACE.string.text
 msgid "Photos - Space"
 msgstr "Fotos - espai"
 
+#. 3Fhg
 #: galtheme.src#RID_GALLERYSTR_THEME_PHOTOS_TRAVEL.string.text
 msgid "Photos - Travel"
 msgstr "Fotos - viatges"
 
+#. jEb7
 #: galtheme.src#RID_GALLERYSTR_THEME_OPENOFFICEORG_LOGOS.string.text
 msgid "OpenOffice.org logos"
 msgstr "Logos de l'OpenOffice.org"
 
+#. t4O_
 #: galtheme.src#RID_GALLERYSTR_THEME_RELIGION.string.text
 msgid "Religion"
 msgstr "Religió"
 
+#. HOts
 #: galtheme.src#RID_GALLERYSTR_THEME_BUILDINGS.string.text
 msgid "Buildings"
 msgstr "Edificis"
 
+#. GSoS
 #: galtheme.src#RID_GALLERYSTR_THEME_HOMEPAGE2.string.text
 msgid "Homepage 2"
 msgstr "Pàgina d'inici 2"
 
+#. NvJt
 #: galtheme.src#RID_GALLERYSTR_THEME_ELEMENTSBULLETS2.string.text
 msgid "Bullets 2"
 msgstr "Pics 2"

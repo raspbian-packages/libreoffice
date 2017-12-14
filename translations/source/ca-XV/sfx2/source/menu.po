@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+sfx2%2Fsource%2Fmenu.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+sfx2%2Fsource%2Fmenu.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
 "PO-Revision-Date: 2011-04-05 19:15+0200\n"
 "Last-Translator: jmontane <joan@montane.cat>\n"
@@ -15,42 +17,52 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. 8Pdl
 #: menu.src#STR_MENU_CFGITEM.string.text
 msgid "Configuration Menu"
 msgstr "Menú de configuració"
 
+#. 8e#o
 #: menu.src#STR_MENU_ADDONS.string.text
 msgid "~Add-Ons"
 msgstr "~Programes afegits"
 
+#. 5H5s
 #: menu.src#MN_CLIPBOARDFUNCS.SID_CUT.menuitem.text
 msgid "Cu~t"
 msgstr "Re~talla"
 
+#. ve72
 #: menu.src#MN_CLIPBOARDFUNCS.SID_COPY.menuitem.text
 msgid "~Copy"
 msgstr "~Copia"
 
+#. Ce6a
 #: menu.src#MN_CLIPBOARDFUNCS.SID_PASTE.menuitem.text
 msgid "~Paste"
 msgstr "~Apega"
 
+#. 3XJ3
 #: menu.src#SID_WIN_FULLSCREEN.string.text
 msgid "Leave Full-Screen Mode"
 msgstr "Ix del mode de pantalla completa"
 
+#. gCgx
 #: menu.src#STR_MENU_ADDONHELP.string.text
 msgid "Add-~On Help"
 msgstr "Ajuda dels programes afegits"
 
+#. uQoY
 #: menu.src#STR_MENU_SYNONYMS.string.text
 msgid "Synonyms"
 msgstr "Sinònims"
 
+#. X9K5
 #: menu.src#STR_MENU_NO_SYNONYM_FOUND.string.text
 msgid "(none)"
 msgstr "(cap)"
 
+#. O2mC
 #: menu.src#STR_MENU_THESAURUS.string.text
 msgid "~Thesaurus..."
 msgstr "~Tesaurus..."

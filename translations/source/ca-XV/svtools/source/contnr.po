@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+svtools%2Fsource%2Fcontnr.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+svtools%2Fsource%2Fcontnr.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
 "PO-Revision-Date: 2011-04-05 19:15+0200\n"
 "Last-Translator: jmontane <joan@montane.cat>\n"
@@ -15,218 +17,272 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. 3obp
 #: fileview.src#STR_SVT_FILEVIEW_COLUMN_TITLE.string.text
 msgctxt "fileview.src#STR_SVT_FILEVIEW_COLUMN_TITLE.string.text"
 msgid "Title"
 msgstr "Títol"
 
+#. s#QZ
 #: fileview.src#STR_SVT_FILEVIEW_COLUMN_SIZE.string.text
 msgctxt "fileview.src#STR_SVT_FILEVIEW_COLUMN_SIZE.string.text"
 msgid "Size"
 msgstr "Mida"
 
+#. iYAw
 #: fileview.src#STR_SVT_FILEVIEW_COLUMN_DATE.string.text
 msgid "Date modified"
 msgstr "Data de modificació"
 
+#. azYI
 #: fileview.src#STR_SVT_FILEVIEW_COLUMN_TYPE.string.text
 msgctxt "fileview.src#STR_SVT_FILEVIEW_COLUMN_TYPE.string.text"
 msgid "Type"
 msgstr "Tipus"
 
+#. tN2x
 #: fileview.src#STR_SVT_FILEVIEW_ERR_MAKEFOLDER.string.text
 msgid "Could not create the folder %1."
 msgstr "No s'ha pogut crear la carpeta %1."
 
+#. XHAi
 #: fileview.src#STR_SVT_BYTES.string.text
 msgid "Bytes"
 msgstr "Bytes"
 
+#. isoo
 #: fileview.src#STR_SVT_KB.string.text
 msgid "KB"
 msgstr "KB"
 
+#. BcE0
 #: fileview.src#STR_SVT_MB.string.text
 msgid "MB"
 msgstr "MB"
 
+#. Paks
 #: fileview.src#STR_SVT_GB.string.text
 msgid "GB"
 msgstr "GB"
 
+#. WPhj
 #: fileview.src#RID_FILEVIEW_CONTEXTMENU.MID_FILEVIEW_DELETE.menuitem.text
-msgctxt "fileview.src#RID_FILEVIEW_CONTEXTMENU.MID_FILEVIEW_DELETE.menuitem.text"
+msgctxt ""
+"fileview.src#RID_FILEVIEW_CONTEXTMENU.MID_FILEVIEW_DELETE.menuitem.text"
 msgid "~Delete"
 msgstr "~Suprimeix"
 
+#. U8sE
 #: fileview.src#RID_FILEVIEW_CONTEXTMENU.MID_FILEVIEW_RENAME.menuitem.text
 msgid "~Rename"
 msgstr "~Canvia el nom"
 
+#. kpuu
 #: fileview.src#DLG_SVT_QUERYDELETE.TXT_ENTRY.fixedtext.text
 msgid "Entry:"
 msgstr "Entrada:"
 
+#. gQaH
 #: fileview.src#DLG_SVT_QUERYDELETE.TXT_QUERYMSG.fixedtext.text
 msgid "Are you sure you want to delete the selected data?"
 msgstr "Segur que voleu suprimir les dades seleccionades?"
 
+#. FxgY
 #: fileview.src#DLG_SVT_QUERYDELETE.BTN_YES.pushbutton.text
 msgctxt "fileview.src#DLG_SVT_QUERYDELETE.BTN_YES.pushbutton.text"
 msgid "~Delete"
 msgstr "~Suprimeix"
 
+#. Oiev
 #: fileview.src#DLG_SVT_QUERYDELETE.BTN_ALL.pushbutton.text
 msgid "Delete ~All"
 msgstr "~Suprimeix-ho tot"
 
+#. Dqf8
 #: fileview.src#DLG_SVT_QUERYDELETE.BTN_NO.pushbutton.text
 msgid "Do ~Not Delete"
 msgstr "~No ho suprimisques"
 
+#. bUer
 #: fileview.src#DLG_SVT_QUERYDELETE.modaldialog.text
 msgid "Confirm Delete"
 msgstr "Confirma la supressió"
 
+#. BOai
 #: svcontnr.src#STR_SVT_ACC_DESC_TABLISTBOX.string.text
 msgid "Row: %1, Column: %2"
 msgstr "Fila: %1, columna: %2"
 
+#. 9Ayb
 #: svcontnr.src#STR_SVT_ACC_DESC_FILEVIEW.string.text
 msgid ", Type: %1, URL: %2"
 msgstr ", tipus: %1, URL: %2"
 
+#. BfXb
 #: svcontnr.src#STR_SVT_ACC_DESC_FOLDER.string.text
 msgid "Folder"
 msgstr "Carpeta"
 
+#. l_ET
 #: svcontnr.src#STR_SVT_ACC_DESC_FILE.string.text
 msgid "File"
 msgstr "Fitxer"
 
+#. AV_#
 #: svcontnr.src#STR_SVT_ACC_EMPTY_FIELD.string.text
 msgid "Empty Field"
 msgstr "Camp buit"
 
+#. We8c
 #: templwin.src#STR_SVT_NEWDOC.string.text
 msgid "New Document"
 msgstr "Document nou"
 
+#. L3in
 #: templwin.src#STR_SVT_MYDOCS.string.text
 msgid "My Documents"
 msgstr "Els meus documents"
 
+#. ThiB
 #: templwin.src#STR_SVT_TEMPLATES.string.text
 msgid "Templates"
 msgstr "Plantilles"
 
+#. X8u8
 #: templwin.src#STR_SVT_SAMPLES.string.text
 msgid "Samples"
 msgstr "Mostres"
 
+#. tJhh
 #: templwin.src#TB_SVT_FILEVIEW.TI_DOCTEMPLATE_BACK.toolboxitem.text
 msgid "Back"
 msgstr "Arrere"
 
+#. qyGW
 #: templwin.src#TB_SVT_FILEVIEW.TI_DOCTEMPLATE_PREV.toolboxitem.text
 msgid "Up One Level"
 msgstr "Puja un nivell"
 
+#. A_LZ
 #: templwin.src#TB_SVT_FILEVIEW.TI_DOCTEMPLATE_PRINT.toolboxitem.text
 msgid "Print"
 msgstr "Imprimeix"
 
+#. FWqs
 #: templwin.src#TB_SVT_FRAMEWIN.TI_DOCTEMPLATE_DOCINFO.toolboxitem.text
 msgid "Document Properties"
 msgstr "Propietats del document"
 
+#. fxwR
 #: templwin.src#TB_SVT_FRAMEWIN.TI_DOCTEMPLATE_PREVIEW.toolboxitem.text
 msgid "Preview"
 msgstr "Previsualitza"
 
+#. hL1M
 #: templwin.src#DLG_DOCTEMPLATE.FT_DOCTEMPLATE_LINK.fixedtext.text
 msgid "~Get more templates online..."
 msgstr "Aconse~guiu més plantilles en línia..."
 
+#. H2Lz
 #: templwin.src#DLG_DOCTEMPLATE.BTN_DOCTEMPLATE_MANAGE.pushbutton.text
 msgid "Organi~ze..."
 msgstr "Organit~za..."
 
+#. Rydc
 #: templwin.src#DLG_DOCTEMPLATE.BTN_DOCTEMPLATE_EDIT.pushbutton.text
 msgid "~Edit"
 msgstr "~Edita"
 
+#. E8Oo
 #: templwin.src#DLG_DOCTEMPLATE.BTN_DOCTEMPLATE_OPEN.okbutton.text
 msgid "~Open"
 msgstr "~Obri"
 
+#. VSh1
 #: templwin.src#DLG_DOCTEMPLATE.modaldialog.text
 msgid "Templates and Documents"
 msgstr "Plantilles i documents"
 
+#. wqh0
 #: templwin.src#STRARY_SVT_DOCINFO.1.itemlist.text
 msgctxt "templwin.src#STRARY_SVT_DOCINFO.1.itemlist.text"
 msgid "Title"
 msgstr "Títol"
 
+#. RQ7u
 #: templwin.src#STRARY_SVT_DOCINFO.2.itemlist.text
 msgid "By"
 msgstr "Per"
 
+#. jk0F
 #: templwin.src#STRARY_SVT_DOCINFO.3.itemlist.text
 msgid "Date"
 msgstr "Data"
 
+#. Yqwe
 #: templwin.src#STRARY_SVT_DOCINFO.4.itemlist.text
 msgid "Keywords"
 msgstr "Paraules clau"
 
+#. K0zV
 #: templwin.src#STRARY_SVT_DOCINFO.5.itemlist.text
 msgid "Description"
 msgstr "Descripció"
 
+#. rkHd
 #: templwin.src#STRARY_SVT_DOCINFO.6.itemlist.text
 msgctxt "templwin.src#STRARY_SVT_DOCINFO.6.itemlist.text"
 msgid "Type"
 msgstr "Tipus"
 
+#. 3QMG
 #: templwin.src#STRARY_SVT_DOCINFO.7.itemlist.text
 msgid "Modified on"
 msgstr "Data de modificació"
 
+#. Gf19
 #: templwin.src#STRARY_SVT_DOCINFO.8.itemlist.text
 msgid "Modified by"
 msgstr "Modificat per"
 
+#. cT6#
 #: templwin.src#STRARY_SVT_DOCINFO.9.itemlist.text
 msgid "Printed on"
 msgstr "Data d'impressió"
 
+#. ymcp
 #: templwin.src#STRARY_SVT_DOCINFO.10.itemlist.text
 msgid "Printed by"
 msgstr "Imprés per"
 
+#. A4X4
 #: templwin.src#STRARY_SVT_DOCINFO.11.itemlist.text
 msgid "Subject"
 msgstr "Tema"
 
+#. hgDy
 #: templwin.src#STRARY_SVT_DOCINFO.12.itemlist.text
 msgctxt "templwin.src#STRARY_SVT_DOCINFO.12.itemlist.text"
 msgid "Size"
 msgstr "Mida"
 
+#. pq1u
 #: templwin.src#STR_SVT_NEWDOC_HELP.string.text
 msgid "Click here to create new documents."
 msgstr "Feu clic ací per crear documents nous."
 
+#. _oPP
 #: templwin.src#STR_SVT_MYDOCS_HELP.string.text
 msgid "Contains your letters, reports and other documents"
 msgstr "Conté cartes, informes i altres documents"
 
+#. CmZG
 #: templwin.src#STR_SVT_TEMPLATES_HELP.string.text
 msgid "Contains templates for creating new documents"
 msgstr "Conté plantilles per crear documents nous"
 
+#. gsuo
 #: templwin.src#STR_SVT_SAMPLES_HELP.string.text
 msgid "Contains a selection of sample letters, reports and other documents"
-msgstr "Conté una selecció de cartes, d'informes i d'altres documents de mostra"
+msgstr ""
+"Conté una selecció de cartes, d'informes i d'altres documents de mostra"

@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+editeng%2Fsource%2Foutliner.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+editeng%2Fsource%2Foutliner.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:43+0200\n"
 "PO-Revision-Date: 2011-04-05 19:11+0200\n"
 "Last-Translator: jmontane <joan@montane.cat>\n"
@@ -15,26 +17,32 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. HNm9
 #: outliner.src#RID_OUTLUNDO_HEIGHT.string.text
 msgid "Move"
 msgstr "Mou"
 
+#. #Zx3
 #: outliner.src#RID_OUTLUNDO_DEPTH.string.text
 msgid "Indent"
 msgstr "Sagna"
 
+#. Y3Yc
 #: outliner.src#RID_OUTLUNDO_EXPAND.string.text
 msgid "Show subpoints"
 msgstr "Mostra els subpunts"
 
+#. fCxX
 #: outliner.src#RID_OUTLUNDO_COLLAPSE.string.text
 msgid "Collapse"
 msgstr "Redueix"
 
+#. WkJa
 #: outliner.src#RID_OUTLUNDO_ATTR.string.text
 msgid "Apply attributes"
 msgstr "Aplica els atributs"
 
+#. qjFy
 #: outliner.src#RID_OUTLUNDO_INSERT.string.text
 msgid "Insert"
 msgstr "Insereix"

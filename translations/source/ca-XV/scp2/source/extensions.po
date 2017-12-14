@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+scp2%2Fsource%2Fextensions.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment="
+"&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%"
+"3A+scp2%2Fsource%2Fextensions.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:43+0200\n"
 "PO-Revision-Date: 2012-02-27 23:56+0200\n"
 "Last-Translator: Joan <joan@montane.cat>\n"
@@ -15,274 +17,2583 @@ msgstr ""
 "X-Generator: Pootle 2.1.6\n"
 "X-Accelerator-Marker: ~\n"
 
+#. V58u
 #: module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_EN_US.LngText.text
 msgid "English"
 msgstr "Anglés"
 
+#. pFOh
 #: module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_EN_US.LngText.text
 msgid "Installs English support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "Instal·la els fitxers per al suport anglés del %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+"Instal·la els fitxers per al suport anglés del %PRODUCTNAME %PRODUCTVERSION"
 
+#. VL8v
 #: module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_DE.LngText.text
 msgid "German"
 msgstr "Alemany"
 
+#. jEBY
 #: module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_DE.LngText.text
 msgid "Installs German support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "Instal·la els fitxers per al suport alemany del %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+"Instal·la els fitxers per al suport alemany del %PRODUCTNAME %PRODUCTVERSION"
 
+#. vfhJ
 #: module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_FR.LngText.text
 msgid "French"
 msgstr "Francés"
 
+#. Boe8
 #: module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_FR.LngText.text
 msgid "Installs French support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "Instal·la els fitxers per al suport francés del %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+"Instal·la els fitxers per al suport francés del %PRODUCTNAME %PRODUCTVERSION"
 
+#. DA0u
 #: module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_IT.LngText.text
 msgid "Italian"
 msgstr "Italià"
 
+#. _H3Z
 #: module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_IT.LngText.text
 msgid "Installs Italian support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "Instal·la els fitxers per al suport italià del %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+"Instal·la els fitxers per al suport italià del %PRODUCTNAME %PRODUCTVERSION"
 
+#. 28Zp
 #: module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_ES.LngText.text
 msgid "Spanish"
 msgstr "Espanyol"
 
+#. mJWe
 #: module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_ES.LngText.text
 msgid "Installs Spanish support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "Instal·la els fitxers per al suport espanyol del %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+"Instal·la els fitxers per al suport espanyol del %PRODUCTNAME %PRODUCTVERSION"
 
+#. XnZN
 #: module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_HU.LngText.text
 msgid "Hungarian"
 msgstr "Hongarés"
 
+#. JgWC
 #: module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_HU.LngText.text
 msgid "Installs Hungarian support in %PRODUCTNAME %PRODUCTVERSION"
-msgstr "Instal·la els fitxers per al suport hongarés del %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+"Instal·la els fitxers per al suport hongarés del %PRODUCTNAME %"
+"PRODUCTVERSION"
 
+#. LO_o
 #: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS.LngText.text
 msgid "Extensions"
 msgstr "Extensions"
 
+#. pift
 #: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS.LngText.text
 msgid "Useful %PRODUCTNAME extensions."
 msgstr "Extensions útils del %PRODUCTNAME."
 
+#. DuGv
 #: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_MINIMIZER.LngText.text
-msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_MINIMIZER.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_MINIMIZER.LngText."
+"text"
 msgid "Presentation Minimizer"
 msgstr "Minimitzador de presentacions"
 
+#. s8ba
 #: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_MINIMIZER.LngText.text
-msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_MINIMIZER.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_MINIMIZER.LngText."
+"text"
 msgid "Presentation Minimizer"
 msgstr "Minimitzador de presentacions"
 
+#. MVsc
 #: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_REPORTDESIGN.LngText.text
-msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_REPORTDESIGN.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_REPORTDESIGN."
+"LngText.text"
 msgid "Report Builder"
 msgstr "Generador d'informes"
 
+#. fpOb
 #: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_REPORTDESIGN.LngText.text
-msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_REPORTDESIGN.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_REPORTDESIGN."
+"LngText.text"
 msgid "Report Builder"
 msgstr "Generador d'informes"
 
+#. 852l
 #: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_MEDIAWIKI.LngText.text
-msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_MEDIAWIKI.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_MEDIAWIKI.LngText."
+"text"
 msgid "MediaWiki Publisher"
 msgstr "Publicador de MediaWiki"
 
+#. prto
 #: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_MEDIAWIKI.LngText.text
-msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_MEDIAWIKI.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_MEDIAWIKI.LngText."
+"text"
 msgid "MediaWiki Publisher"
 msgstr "Publicador de MediaWiki"
 
+#. ynJC
 #: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_PRESENTER_SCREEN.LngText.text
-msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_PRESENTER_SCREEN.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_PRESENTER_SCREEN."
+"LngText.text"
 msgid "Presenter Screen"
 msgstr "Pantalla de Presentador"
 
+#. 8tsL
 #: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_PRESENTER_SCREEN.LngText.text
-msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_PRESENTER_SCREEN.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_PRESENTER_SCREEN."
+"LngText.text"
 msgid "Presenter Screen"
 msgstr "Pantalla de Presentador"
 
+#. hCqd
 #: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_PDFIMPORT.LngText.text
-msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_PDFIMPORT.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_PDFIMPORT.LngText."
+"text"
 msgid "PDF Import"
 msgstr "Importador de PDF"
 
+#. Gy1w
 #: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_PDFIMPORT.LngText.text
-msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_PDFIMPORT.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_PDFIMPORT.LngText."
+"text"
 msgid "PDF Import"
 msgstr "Importador de PDF"
 
+#. r5XT
 #: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_NUMBERTEXT.LngText.text
-msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_NUMBERTEXT.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_NUMBERTEXT.LngText."
+"text"
 msgid "Numbertext"
 msgstr "Numbertext"
 
+#. GdMP
 #: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_NUMBERTEXT.LngText.text
-msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_NUMBERTEXT.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_NUMBERTEXT.LngText."
+"text"
 msgid "Numbertext"
 msgstr "Numbertext"
 
+#. 5WEs
 #: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_HUNART.LngText.text
 msgid "Hungarian cross-reference toolbar"
 msgstr "Barra d'eines de referència creuada de símbols"
 
+#. Pcmf
 #: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_HUNART.LngText.text
-msgid "Toolbar to add cross-references with automatic conditional Hungarian articles (eg. *az* 5. ábra, *a* 6. ábra) to avoid bad article and number combination in cross-references."
-msgstr "Eina per afegir referències creuades amb símbols accentuats automàticament (exemple *az* 5. ábra, *a* 6. ábra) per evitar símbols incorrectes i combinació de nombres a les referències creuades."
+msgid ""
+"Toolbar to add cross-references with automatic conditional Hungarian "
+"articles (eg. *az* 5. ábra, *a* 6. ábra) to avoid bad article and number "
+"combination in cross-references."
+msgstr ""
+"Eina per afegir referències creuades amb símbols accentuats automàticament "
+"(exemple *az* 5. ábra, *a* 6. ábra) per evitar símbols incorrectes i "
+"combinació de nombres a les referències creuades."
 
+#. JDhA
 #: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_TYPO.LngText.text
 msgid "Typography toolbar"
 msgstr "Barra d'eines de tipografia"
 
+#. fZt9
 #: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_TYPO.LngText.text
-msgid "Toolbar for Graphite smart font features: ligatures, small caps, old style numbers, proportional or monospaced numbers, automatic thousand separators, minus sign, real superscript and subscript, German umlaut variants, fractions."
-msgstr "Barra d'eines Graphite amb funcionalitat de tipus de lletra intel·ligent: lligadures, majúscules petites, números amb estil antic, números proporcionals o mono espaiats, separadors de milers automàtics, signe menys, superíndex i subíndex real, variants de dièresi alemanyes, fraccions."
+msgid ""
+"Toolbar for Graphite smart font features: ligatures, small caps, old style "
+"numbers, proportional or monospaced numbers, automatic thousand separators, "
+"minus sign, real superscript and subscript, German umlaut variants, "
+"fractions."
+msgstr ""
+"Barra d'eines Graphite amb funcionalitat de tipus de lletra intel·ligent: "
+"lligadures, majúscules petites, números amb estil antic, números "
+"proporcionals o mono espaiats, separadors de milers automàtics, signe menys, "
+"superíndex i subíndex real, variants de dièresi alemanyes, fraccions."
 
+#. Tenp
 #: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_CT2N.LngText.text
-msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_CT2N.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_CT2N.LngText.text"
 msgid "Convert Text to Number"
 msgstr "Converteix el text a número"
 
+#. d6jm
 #: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_CT2N.LngText.text
-msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_CT2N.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_CT2N.LngText.text"
 msgid "Convert Text to Number"
 msgstr "Converteix el text a número"
 
+#. BBuU
 #: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_WATCH_WINDOW.LngText.text
-msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_WATCH_WINDOW.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_WATCH_WINDOW."
+"LngText.text"
 msgid "Watch Window"
 msgstr "Finestra de vigilància"
 
+#. qdMT
 #: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_WATCH_WINDOW.LngText.text
-msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_WATCH_WINDOW.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_WATCH_WINDOW."
+"LngText.text"
 msgid "Watch Window"
 msgstr "Finestra de vigilància"
 
+#. HwDg
 #: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_DIAGRAM.LngText.text
-msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_DIAGRAM.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_DIAGRAM.LngText."
+"text"
 msgid "Diagram"
 msgstr "Diagrama"
 
+#. D0uf
 #: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_DIAGRAM.LngText.text
-msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_DIAGRAM.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_DIAGRAM.LngText."
+"text"
 msgid "Diagram"
 msgstr "Diagrama"
 
+#. odMf
 #: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_VALIDATOR.LngText.text
-msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_VALIDATOR.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_VALIDATOR.LngText."
+"text"
 msgid "Validator"
 msgstr "Validador"
 
+#. 9NZq
 #: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_VALIDATOR.LngText.text
-msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_VALIDATOR.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_VALIDATOR.LngText."
+"text"
 msgid "Validator"
 msgstr "Validador"
 
+#. Xdhs
 #: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_BARCODE.LngText.text
-msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_BARCODE.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_BARCODE.LngText."
+"text"
 msgid "Barcode"
 msgstr "Codi de barres"
 
+#. zTUr
 #: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_BARCODE.LngText.text
-msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_BARCODE.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_BARCODE.LngText."
+"text"
 msgid "Barcode"
 msgstr "Codi de barres"
 
+#. oqBL
 #: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_GOOGLE_DOCS.LngText.text
-msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_GOOGLE_DOCS.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_GOOGLE_DOCS."
+"LngText.text"
 msgid "Google Docs & Zoho"
 msgstr "Google Docs i Zoho"
 
+#. DzSv
 #: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_GOOGLE_DOCS.LngText.text
-msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_GOOGLE_DOCS.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_GOOGLE_DOCS."
+"LngText.text"
 msgid "Google Docs & Zoho"
 msgstr "Google Docs i Zoho"
 
+#. liQr
 #: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_NLPSOLVER.LngText.text
-msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_NLPSOLVER.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_NLPSOLVER.LngText."
+"text"
 msgid "Solver for Nonlinear Programming"
 msgstr "Solucionador per a programació no lineal."
 
+#. KSle
 #: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_NLPSOLVER.LngText.text
-msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_NLPSOLVER.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_NLPSOLVER.LngText."
+"text"
 msgid "Solver for Nonlinear Programming"
 msgstr "Solucionador per a programació no lineal."
 
+#. nAr7
 #: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_LANGUAGETOOL.LngText.text
-msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_LANGUAGETOOL.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_LANGUAGETOOL."
+"LngText.text"
 msgid "LanguageTool Open Source language checker"
 msgstr "Comprovador de llengua de programari lliure LanguageTool"
 
+#. EcR4
 #: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_LANGUAGETOOL.LngText.text
-msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_LANGUAGETOOL.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_LANGUAGETOOL."
+"LngText.text"
 msgid "LanguageTool Open Source language checker"
 msgstr "Comprovador de llengües de programari lliure LanguageTool"
 
+#. QoC1
 #: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_MYSQLC.LngText.text
-msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_MYSQLC.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_MYSQLC.LngText.text"
 msgid "MySQL Connector"
 msgstr "Connector MySQL"
 
+#. 6qoU
 #: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_MYSQLC.LngText.text
-msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_MYSQLC.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_MYSQLC.LngText.text"
 msgid "MySQL Connector"
 msgstr "Connector MySQL"
 
+#. 6eVv
 #: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_OOOBLOGGER.LngText.text
-msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_OOOBLOGGER.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_OOOBLOGGER.LngText."
+"text"
 msgid "Metaweblog Support"
 msgstr "Suport per a Metaweblog"
 
+#. ZAez
 #: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_OOOBLOGGER.LngText.text
-msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_OOOBLOGGER.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_OOOBLOGGER.LngText."
+"text"
 msgid "Metaweblog Support"
 msgstr "Suport per a Metaweblog"
 
+#. jlDy
 #: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SUN_TEMPLATE_PACK.LngText.text
-msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SUN_TEMPLATE_PACK.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SUN_TEMPLATE_PACK."
+"LngText.text"
 msgid "Sun Professional Template Pack"
 msgstr "Paquet de plantilles professionals de Sun"
 
+#. wuIh
 #: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SUN_TEMPLATE_PACK.LngText.text
-msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SUN_TEMPLATE_PACK.LngText.text"
+msgctxt ""
+"module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SUN_TEMPLATE_PACK."
+"LngText.text"
 msgid "Sun Professional Template Pack"
 msgstr "Paquet de plantilles professionals de Sun"
 
+#. Gs7_
 #: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_BEANSHELL.LngText.text
-msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_BEANSHELL.LngText.text"
+msgctxt ""
+"module_extensions."
+"ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_BEANSHELL."
+"LngText.text"
 msgid "Script provider for BeanShell"
 msgstr "Proveïdor de seqüències pel BeanShell"
 
+#. IjjB
 #: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_BEANSHELL.LngText.text
-msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_BEANSHELL.LngText.text"
+msgctxt ""
+"module_extensions."
+"ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_BEANSHELL."
+"LngText.text"
 msgid "Script provider for BeanShell"
 msgstr "Proveïdor de seqüències pel BeanShell"
 
+#. 3xOU
 #: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_JAVASCRIPT.LngText.text
-msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_JAVASCRIPT.LngText.text"
+msgctxt ""
+"module_extensions."
+"ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_JAVASCRIPT."
+"LngText.text"
 msgid "Script provider for JavaScript"
 msgstr "Proveïdor de seqüències pel JavaScript"
 
+#. nCZk
 #: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_JAVASCRIPT.LngText.text
-msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_JAVASCRIPT.LngText.text"
+msgctxt ""
+"module_extensions."
+"ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_JAVASCRIPT."
+"LngText.text"
 msgid "Script provider for JavaScript"
 msgstr "Proveïdor de seqüències pel JavaScript"
 
+#. q_D0
 #: module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_PYTHON.LngText.text
-msgctxt "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_PYTHON.LngText.text"
+msgctxt ""
+"module_extensions."
+"ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_PYTHON.LngText."
+"text"
 msgid "Script provider for Python"
 msgstr "Proveïdor de seqüències pel Python"
 
+#. 6KI7
 #: module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_PYTHON.LngText.text
-msgctxt "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_PYTHON.LngText.text"
+msgctxt ""
+"module_extensions."
+"ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_SCRIPT_PROVIDER_FOR_PYTHON.LngText."
+"text"
 msgid "Script provider for Python"
 msgstr "Proveïdor de seqüències pel Python"
+
+#~ msgctxt ""
+#~ "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_POSTGRESQL."
+#~ "LngText.text"
+#~ msgid "PostgreSQL Connector"
+#~ msgstr "Connector PostgreSQL"
+
+#~ msgctxt ""
+#~ "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_POSTGRESQL."
+#~ "LngText.text"
+#~ msgid "PostgreSQL Connector"
+#~ msgstr "Connector PostgreSQL"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_EN_US.LngText."
+#~ "text"
+#~ msgid "English"
+#~ msgstr "Anglès"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_EN_US.LngText."
+#~ "text"
+#~ msgid "Installs English support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'anglès del %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_DE.LngText.text"
+#~ msgid "German"
+#~ msgstr "Alemany"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_DE.LngText.text"
+#~ msgid "Installs German support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'alemany del %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_FR.LngText.text"
+#~ msgid "French"
+#~ msgstr "Francès"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_FR.LngText.text"
+#~ msgid "Installs French support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al francès del %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_IT.LngText.text"
+#~ msgid "Italian"
+#~ msgstr "Italià"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_IT.LngText.text"
+#~ msgid "Installs Italian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'italià del %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_ES.LngText.text"
+#~ msgid "Spanish"
+#~ msgstr "Espanyol"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_ES.LngText.text"
+#~ msgid "Installs Spanish support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'espanyol del %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Swedish"
+#~ msgstr "Suec"
+
+#, fuzzy
+#~ msgid "Installs Swedish support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al suec del %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Portuguese"
+#~ msgstr "Portuguès"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_PT.LngText.text"
+#~ msgid "Installs Portuguese support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al portuguès del %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Portuguese (Brazil)"
+#~ msgstr "Portuguès (Brasil)"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_PT_BR.LngText."
+#~ "text"
+#~ msgid "Installs Portuguese support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al portuguès del %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Japanese"
+#~ msgstr "Japonès"
+
+#, fuzzy
+#~ msgid "Installs Japanese support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al japonès del %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Korean"
+#~ msgstr "Coreà"
+
+#, fuzzy
+#~ msgid "Installs Korean support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al coreà de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Chinese (simplified)"
+#~ msgstr "Xinès (simplificat)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Installs Chinese (simplified) support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al xinès (simplificat) de %PRODUCTNAME %"
+#~ "PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Chinese (traditional)"
+#~ msgstr "Xinès (tradicional)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Installs Chinese (traditional) support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al xinès (tradicional) de %PRODUCTNAME %"
+#~ "PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Dutch"
+#~ msgstr "Holandès"
+
+#, fuzzy
+#~ msgid "Installs Dutch support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'holandès de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_HU.LngText.text"
+#~ msgid "Hungarian"
+#~ msgstr "Hongarès"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_HU.LngText.text"
+#~ msgid "Installs Hungarian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'hongarès de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Polish"
+#~ msgstr "Polonès"
+
+#, fuzzy
+#~ msgid "Installs Polish support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al polonès de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Russian"
+#~ msgstr "Rus"
+
+#, fuzzy
+#~ msgid "Installs Russian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al rus de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Turkish"
+#~ msgstr "Turc"
+
+#, fuzzy
+#~ msgid "Installs Turkish support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al turc de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Greek"
+#~ msgstr "Grec"
+
+#, fuzzy
+#~ msgid "Installs Greek support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al grec de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Thai"
+#~ msgstr "Tai"
+
+#, fuzzy
+#~ msgid "Installs Thai support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al tai de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Czech"
+#~ msgstr "Txec"
+
+#, fuzzy
+#~ msgid "Installs Czech support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al txec de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Slovak"
+#~ msgstr "Eslovac"
+
+#, fuzzy
+#~ msgid "Installs Slovak support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'eslovac de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Croatian"
+#~ msgstr "Croat"
+
+#, fuzzy
+#~ msgid "Installs Croatian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al croat de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Estonian"
+#~ msgstr "Estonià"
+
+#, fuzzy
+#~ msgid "Installs Estonian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'estonià de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Vietnamese"
+#~ msgstr "Vietnamita"
+
+#, fuzzy
+#~ msgid "Installs Vietnamese support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al vietnamita de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Bulgarian"
+#~ msgstr "Búlgar"
+
+#, fuzzy
+#~ msgid "Installs Bulgarian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al búlgar de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Khmer"
+#~ msgstr "Khmer"
+
+#, fuzzy
+#~ msgid "Installs Khmer support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al khmer de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Punjabi"
+#~ msgstr "Panjabi"
+
+#, fuzzy
+#~ msgid "Installs Punjabi support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al punjabi de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_GU_IN.LngText."
+#~ "text"
+#~ msgid "Gujarati"
+#~ msgstr "Gujarati"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_GU_IN.LngText."
+#~ "text"
+#~ msgid "Installs Gujarati support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al gujarati de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_TA.LngText.text"
+#~ msgid "Tamil"
+#~ msgstr "Tàmil"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_TA.LngText.text"
+#~ msgid "Installs Tamil support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al tàmil de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_TA_IN.LngText."
+#~ "text"
+#~ msgid "Tamil"
+#~ msgstr "Tàmil"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_TA_IN.LngText."
+#~ "text"
+#~ msgid "Installs Tamil support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al tàmil de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_HI.LngText.text"
+#~ msgid "Hindi"
+#~ msgstr "Hindi"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_HI.LngText.text"
+#~ msgid "Installs Hindi support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per a l'hindi de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_HI_IN.LngText."
+#~ "text"
+#~ msgid "Hindi"
+#~ msgstr "Hindi"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_HI_IN.LngText."
+#~ "text"
+#~ msgid "Installs Hindi support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per a l'hindi de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Southern Sotho (Sutu)"
+#~ msgstr "Sotho del sud (Sutu)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Installs Southern Sotho (Sutu) support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al Sotho del sud de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Tswana"
+#~ msgstr "Tswana"
+
+#, fuzzy
+#~ msgid "Installs Tswana support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al tswana de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Xhosa"
+#~ msgstr "Xhosa"
+
+#, fuzzy
+#~ msgid "Installs Xhosa support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al xhosa de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Zulu"
+#~ msgstr "Zulu"
+
+#, fuzzy
+#~ msgid "Installs Zulu support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al zulu de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Afrikaans"
+#~ msgstr "Afrikaans"
+
+#, fuzzy
+#~ msgid "Installs Afrikaans support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'afrikaans de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_SW.LngText.text"
+#~ msgid "Swahili"
+#~ msgstr "Suahili"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_SW.LngText.text"
+#~ msgid "Installs Swahili support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al suahili de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_SW_TZ.LngText."
+#~ "text"
+#~ msgid "Swahili"
+#~ msgstr "Suahili"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_SW_TZ.LngText."
+#~ "text"
+#~ msgid "Installs Swahili support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al suahili de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Lao"
+#~ msgstr "Laosià"
+
+#, fuzzy
+#~ msgid "Installs Lao support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al laosià de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Burmese"
+#~ msgstr "Birmà"
+
+# 82%
+#, fuzzy
+#~ msgid "Installs Burmese (Myanmar) support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al birmà (Myanmar) de %PRODUCTNAME %"
+#~ "PRODUCTVERSION"
+
+# 100%
+#, fuzzy
+#~ msgid "Northern Sotho"
+#~ msgstr "Sotho del nord"
+
+# 100%
+#, fuzzy
+#~ msgid "Installs Northern Sotho support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al sotho del nord de %PRODUCTNAME %"
+#~ "PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Bengali"
+#~ msgstr "Bengalí"
+
+#, fuzzy
+#~ msgid "Installs Bengali support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al bengalí de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Bengali (Bangladesh)"
+#~ msgstr "Bengalí (Bangladesh)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Installs Bengali (Bangladesh) support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al bengalí (Bangladesh) de %PRODUCTNAME %"
+#~ "PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Bengali (India)"
+#~ msgstr "Bengalí (Índia)"
+
+#, fuzzy
+#~ msgid "Installs Bengali (India) support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al bengalí (Índia) de %PRODUCTNAME %"
+#~ "PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_OR.LngText.text"
+#~ msgid "Oriya"
+#~ msgstr "Oriya"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_OR.LngText.text"
+#~ msgid "Installs Oriya support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per a l'oriya de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_OR_IN.LngText."
+#~ "text"
+#~ msgid "Oriya"
+#~ msgstr "Oriya"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_OR_IN.LngText."
+#~ "text"
+#~ msgid "Installs Oriya support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per a l'oriya de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_MR.LngText.text"
+#~ msgid "Marathi"
+#~ msgstr "Marathi"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_MR.LngText.text"
+#~ msgid "Installs Marathi support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al marathi de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_MR_IN.LngText."
+#~ "text"
+#~ msgid "Marathi"
+#~ msgstr "Marathi"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_MR_IN.LngText."
+#~ "text"
+#~ msgid "Installs Marathi support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al marathi de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Nepali"
+#~ msgstr "Nepalès"
+
+#, fuzzy
+#~ msgid "Installs Nepali support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al nepalès de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_AR.LngText.text"
+#~ msgid "Arabic"
+#~ msgstr "Àrab"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_AR.LngText.text"
+#~ msgid "Installs Arabic support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per a l'àrab de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_AR_SA.LngText."
+#~ "text"
+#~ msgid "Arabic"
+#~ msgstr "Àrab"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_AR_SA.LngText."
+#~ "text"
+#~ msgid "Installs Arabic support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per a l'àrab de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Catalan"
+#~ msgstr "Català"
+
+#, fuzzy
+#~ msgid "Installs Catalan support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al català de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Danish"
+#~ msgstr "Danès"
+
+#, fuzzy
+#~ msgid "Installs Danish support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al danès de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Finnish"
+#~ msgstr "Finès"
+
+#, fuzzy
+#~ msgid "Installs Finnish support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al finès de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Hebrew"
+#~ msgstr "Hebreu"
+
+#, fuzzy
+#~ msgid "Installs Hebrew support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'hebreu de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Icelandic"
+#~ msgstr "Islandès"
+
+#, fuzzy
+#~ msgid "Installs Icelandic support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'islandès de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Norwegian (Bokmal)"
+#~ msgstr "Noruec (Bokmål)"
+
+#, fuzzy
+#~ msgid "Installs Norwegian (Bokmal) support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al noruec (Bokmål) de %PRODUCTNAME %"
+#~ "PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Norwegian (Nynorsk)"
+#~ msgstr "Noruec (Nynorsk)"
+
+#, fuzzy
+#~ msgid "Installs Norwegian (Nynorsk) support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al noruec (Nynorsk) de %PRODUCTNAME %"
+#~ "PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Rhaeto-Romance"
+#~ msgstr "Retoromànic"
+
+#, fuzzy
+#~ msgid "Installs Rhaeto-Romance support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al retoromànic de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Romanian"
+#~ msgstr "Romanès"
+
+#, fuzzy
+#~ msgid "Installs Romanian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al romanès de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Albanian"
+#~ msgstr "Albanès"
+
+#, fuzzy
+#~ msgid "Installs Albanian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'albanès de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_UR.LngText.text"
+#~ msgid "Urdu"
+#~ msgstr "Urdu"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_UR.LngText.text"
+#~ msgid "Installs Urdu support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per a l'urdu de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Indonesian"
+#~ msgstr "Indonesi"
+
+#, fuzzy
+#~ msgid "Installs Indonesian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'indonesi de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Ukrainian"
+#~ msgstr "Ucraïnès"
+
+#, fuzzy
+#~ msgid "Installs Ukrainian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'ucraïnès de %PRODUCTNAME %PRODUCTVERSION"
+
+# 100%
+#, fuzzy
+#~ msgid "Belarusian"
+#~ msgstr "Bielorús"
+
+# 100%
+#, fuzzy
+#~ msgid "Installs Belarusian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al bielorús de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Slovenian"
+#~ msgstr "Eslovè"
+
+#, fuzzy
+#~ msgid "Installs Slovenian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'eslovè de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Latvian"
+#~ msgstr "Letó"
+
+#, fuzzy
+#~ msgid "Installs Latvian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al letó de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Lithuanian"
+#~ msgstr "Lituà"
+
+#, fuzzy
+#~ msgid "Installs Lithuanian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al lituà de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Armenian"
+#~ msgstr "Armeni"
+
+#, fuzzy
+#~ msgid "Installs Armenian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'armeni de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Basque"
+#~ msgstr "Basc"
+
+#, fuzzy
+#~ msgid "Installs Basque support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al basc de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Macedonian"
+#~ msgstr "Macedoni"
+
+#, fuzzy
+#~ msgid "Installs Macedonian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al macedoni de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Maltese"
+#~ msgstr "Maltès"
+
+#, fuzzy
+#~ msgid "Installs Maltese support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al maltès de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Welsh"
+#~ msgstr "Gal·lès"
+
+#, fuzzy
+#~ msgid "Installs Welsh support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al gal·lès de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Galician"
+#~ msgstr "Gallec"
+
+#, fuzzy
+#~ msgid "Installs Galician support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al gallec de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_SH_YU.LngText."
+#~ "text"
+#~ msgid "Serbian (Latin)"
+#~ msgstr "Serbi (llatí)"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_SH_YU.LngText."
+#~ "text"
+#~ msgid "Installs Serbian (Latin) support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al serbi (llatí) de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_SH.LngText.text"
+#~ msgid "Serbian (Latin)"
+#~ msgstr "Serbi (llatí)"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_SH.LngText.text"
+#~ msgid "Installs Serbian (Latin) support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al serbi (llatí) de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Irish"
+#~ msgstr "Irlandès"
+
+#, fuzzy
+#~ msgid "Installs Irish support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'irlandès de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_SR_CS.LngText."
+#~ "text"
+#~ msgid "Serbian (Cyrillic)"
+#~ msgstr "Serbi (ciríl·lic)"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_SR_CS.LngText."
+#~ "text"
+#~ msgid "Installs Serbian (Cyrillic) support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al serbi (ciríl·lic) de %PRODUCTNAME %"
+#~ "PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_SR.LngText.text"
+#~ msgid "Serbian (Cyrillic)"
+#~ msgstr "Serbi (ciríl·lic)"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_SR.LngText.text"
+#~ msgid "Installs Serbian (Cyrillic) support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al serbi (ciríl·lic) de %PRODUCTNAME %"
+#~ "PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Bosnian"
+#~ msgstr "Bosnià"
+
+#, fuzzy
+#~ msgid "Installs Bosnian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al bosnià de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Assamese"
+#~ msgstr "Assamès"
+
+#, fuzzy
+#~ msgid "Installs Assamese support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'assamès de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Kinyarwanda"
+#~ msgstr "Kinyarwanda"
+
+#, fuzzy
+#~ msgid "Installs Kinyarwanda support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al kinyarwanda de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Sanskrit"
+#~ msgstr "Sànscrit"
+
+#, fuzzy
+#~ msgid "Installs Sanskrit support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al sànscrit de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Farsi"
+#~ msgstr "Persa"
+
+#, fuzzy
+#~ msgid "Installs Farsi support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al persa de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Faroese"
+#~ msgstr "Feroès"
+
+#, fuzzy
+#~ msgid "Installs Faroese support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al feroès de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Sorbian"
+#~ msgstr "Sòrab"
+
+#, fuzzy
+#~ msgid "Installs Sorbian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al sòrab de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Tatar"
+#~ msgstr "Tàrtar"
+
+#, fuzzy
+#~ msgid "Installs Tatar support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al tàrtar de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Tsonga"
+#~ msgstr "Tsonga"
+
+#, fuzzy
+#~ msgid "Installs Tsonga support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al tsonga de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Yiddish"
+#~ msgstr "Jiddisch"
+
+#, fuzzy
+#~ msgid "Installs Yiddish support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al jiddisch de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Breton"
+#~ msgstr "Bretó"
+
+#, fuzzy
+#~ msgid "Installs Breton support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al bretó de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Ndebele South"
+#~ msgstr "Ndebele del sud"
+
+#, fuzzy
+#~ msgid "Installs Ndebele South support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'ndebele del sud de %PRODUCTNAME %"
+#~ "PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Swazi"
+#~ msgstr "Swazi"
+
+#, fuzzy
+#~ msgid "Installs Swazi support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al swazi de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Venda"
+#~ msgstr "Venda"
+
+#, fuzzy
+#~ msgid "Installs Venda support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al venda de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Kannada"
+#~ msgstr "Kannada"
+
+#, fuzzy
+#~ msgid "Installs Kannada support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al kannada de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Malay (Malaysian)"
+#~ msgstr "Malai (malaisi)"
+
+#, fuzzy
+#~ msgid "Installs Malay (Malaysian) support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al malai (malaisi) de %PRODUCTNAME %"
+#~ "PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Tajik"
+#~ msgstr "Tajik"
+
+#, fuzzy
+#~ msgid "Installs Tajik support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al tajik de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Kurdish"
+#~ msgstr "Kurd"
+
+#, fuzzy
+#~ msgid "Installs Kurdish support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al kurd de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Dzongkha"
+#~ msgstr "Dzongkha"
+
+#, fuzzy
+#~ msgid "Installs Dzongkha support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al dzongkha de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Georgian"
+#~ msgstr "Georgià"
+
+#, fuzzy
+#~ msgid "Installs Georgian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al georgià de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Esperanto"
+#~ msgstr "Esperanto"
+
+#, fuzzy
+#~ msgid "Installs Esperanto support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'esperanto de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_GU.LngText.text"
+#~ msgid "Gujarati"
+#~ msgstr "Gujarati"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_GU.LngText.text"
+#~ msgid "Installs Gujarati support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al gujarati de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "English (South Africa)"
+#~ msgstr "Anglès (Sud-àfrica)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Installs English (South Africa) support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'anglès (Sud-àfrica) de %PRODUCTNAME %"
+#~ "PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "English (United Kingdom)"
+#~ msgstr "Anglès (Regne Unit)"
+
+#, fuzzy
+#~ msgid ""
+#~ "Installs English (United Kingdom) support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'anglès (Regne Unit) de %PRODUCTNAME %"
+#~ "PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_UR_IN.LngText."
+#~ "text"
+#~ msgid "Urdu"
+#~ msgstr "Urdu"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_UR_IN.LngText."
+#~ "text"
+#~ msgid "Installs Urdu support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per a l'urdu de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Malayalam"
+#~ msgstr "Malaiàlam"
+
+#, fuzzy
+#~ msgid "Installs Malayalam support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al malaiàlam de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Telugu"
+#~ msgstr "Telugu"
+
+#, fuzzy
+#~ msgid "Installs Telugu support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al telugu de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Tigrinya"
+#~ msgstr "Tigrinya"
+
+#, fuzzy
+#~ msgid "Installs Tigrinya support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al tigrinya de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Uzbek"
+#~ msgstr "Uzbek"
+
+#, fuzzy
+#~ msgid "Installs Uzbek support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per a l'uzbek de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Mongolian"
+#~ msgstr "Mongol"
+
+#, fuzzy
+#~ msgid "Installs Mongolian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al mongol de %PRODUCTNAME %PRODUCTVERSION"
+
+#, fuzzy
+#~ msgid "Kazakh"
+#~ msgstr "Kazakh"
+
+#, fuzzy
+#~ msgid "Installs Kazakh support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al kazakh del %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions.ulf#STR_NAME_MODULE_OPTIONAL_EXTENSIONS_LIGHTPROOF."
+#~ "LngText.text"
+#~ msgid "Lightproof"
+#~ msgstr "Lightproof"
+
+#~ msgctxt ""
+#~ "module_extensions.ulf#STR_DESC_MODULE_OPTIONAL_EXTENSIONS_LIGHTPROOF."
+#~ "LngText.text"
+#~ msgid "Lightproof"
+#~ msgstr "Lightproof"
+
+#~ msgctxt ""
+#~ "module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_PT_BR."
+#~ "LngText.text"
+#~ msgid "Installs Portuguese support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al portuguès del %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_TA_IN."
+#~ "LngText.text"
+#~ msgid "Tamil"
+#~ msgstr "Tàmil"
+
+#~ msgctxt ""
+#~ "module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_TA_IN."
+#~ "LngText.text"
+#~ msgid "Installs Tamil support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al tàmil del %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_HI_IN."
+#~ "LngText.text"
+#~ msgid "Hindi"
+#~ msgstr "Hindi"
+
+#~ msgctxt ""
+#~ "module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_HI_IN."
+#~ "LngText.text"
+#~ msgid "Installs Hindi support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'hindi del %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_SW_TZ."
+#~ "LngText.text"
+#~ msgid "Swahili"
+#~ msgstr "Suahili"
+
+#~ msgctxt ""
+#~ "module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_SW_TZ."
+#~ "LngText.text"
+#~ msgid "Installs Swahili support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al suahili del %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_OR_IN."
+#~ "LngText.text"
+#~ msgid "Oriya"
+#~ msgstr "Oriya"
+
+#~ msgctxt ""
+#~ "module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_OR_IN."
+#~ "LngText.text"
+#~ msgid "Installs Oriya support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'oriya del %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_MR_IN."
+#~ "LngText.text"
+#~ msgid "Marathi"
+#~ msgstr "Marathi"
+
+#~ msgctxt ""
+#~ "module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_MR_IN."
+#~ "LngText.text"
+#~ msgid "Installs Marathi support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al marathi del %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_AR_SA."
+#~ "LngText.text"
+#~ msgid "Arabic"
+#~ msgstr "Àrab"
+
+#~ msgctxt ""
+#~ "module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_AR_SA."
+#~ "LngText.text"
+#~ msgid "Installs Arabic support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per a l'àrab del %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_SH.LngText."
+#~ "text"
+#~ msgid "Serbian (Latin)"
+#~ msgstr "Serbi (llatí)"
+
+#~ msgctxt ""
+#~ "module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_SH.LngText."
+#~ "text"
+#~ msgid "Installs Serbian (Latin) support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al serbi (llatí) del %PRODUCTNAME %"
+#~ "PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_SR.LngText."
+#~ "text"
+#~ msgid "Serbian (Cyrillic)"
+#~ msgstr "Serbi (ciríl·lic)"
+
+#~ msgctxt ""
+#~ "module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_SR.LngText."
+#~ "text"
+#~ msgid "Installs Serbian (Cyrillic) support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al serbi (ciríl·lic) del %PRODUCTNAME %"
+#~ "PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_GU.LngText."
+#~ "text"
+#~ msgid "Gujarati"
+#~ msgstr "Gujarati"
+
+#~ msgctxt ""
+#~ "module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_GU.LngText."
+#~ "text"
+#~ msgid "Installs Gujarati support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al gujarati del %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_sun_templates.ulf#STR_NAME_MODULE_LANGPACK_UR_IN."
+#~ "LngText.text"
+#~ msgid "Urdu"
+#~ msgstr "Urdu"
+
+#~ msgctxt ""
+#~ "module_extensions_sun_templates.ulf#STR_DESC_MODULE_LANGPACK_UR_IN."
+#~ "LngText.text"
+#~ msgid "Installs Urdu support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per a l'urdu del %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_SV.LngText.text"
+#~ msgid "Swedish"
+#~ msgstr "Suec"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_SV.LngText.text"
+#~ msgid "Installs Swedish support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al suec del %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_PT.LngText.text"
+#~ msgid "Portuguese"
+#~ msgstr "Portuguès"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_PT_BR.LngText."
+#~ "text"
+#~ msgid "Portuguese (Brazil)"
+#~ msgstr "Portuguès (Brasil)"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_JA.LngText.text"
+#~ msgid "Japanese"
+#~ msgstr "Japonès"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_JA.LngText.text"
+#~ msgid "Installs Japanese support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al japonès del %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_KO.LngText.text"
+#~ msgid "Korean"
+#~ msgstr "Coreà"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_KO.LngText.text"
+#~ msgid "Installs Korean support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al coreà de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_ZH_CN.LngText."
+#~ "text"
+#~ msgid "Chinese (simplified)"
+#~ msgstr "Xinès (simplificat)"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_ZH_CN.LngText."
+#~ "text"
+#~ msgid ""
+#~ "Installs Chinese (simplified) support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al xinès (simplificat) de %PRODUCTNAME %"
+#~ "PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_ZH_TW.LngText."
+#~ "text"
+#~ msgid "Chinese (traditional)"
+#~ msgstr "Xinès (tradicional)"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_ZH_TW.LngText."
+#~ "text"
+#~ msgid ""
+#~ "Installs Chinese (traditional) support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al xinès (tradicional) de %PRODUCTNAME %"
+#~ "PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_NL.LngText.text"
+#~ msgid "Dutch"
+#~ msgstr "Holandès"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_NL.LngText.text"
+#~ msgid "Installs Dutch support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'holandès de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_PL.LngText.text"
+#~ msgid "Polish"
+#~ msgstr "Polonès"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_PL.LngText.text"
+#~ msgid "Installs Polish support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al polonès de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_RU.LngText.text"
+#~ msgid "Russian"
+#~ msgstr "Rus"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_RU.LngText.text"
+#~ msgid "Installs Russian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al rus de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_TR.LngText.text"
+#~ msgid "Turkish"
+#~ msgstr "Turc"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_TR.LngText.text"
+#~ msgid "Installs Turkish support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al turc de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_EL.LngText.text"
+#~ msgid "Greek"
+#~ msgstr "Grec"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_EL.LngText.text"
+#~ msgid "Installs Greek support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al grec de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_TH.LngText.text"
+#~ msgid "Thai"
+#~ msgstr "Tai"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_TH.LngText.text"
+#~ msgid "Installs Thai support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al tai de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_CS.LngText.text"
+#~ msgid "Czech"
+#~ msgstr "Txec"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_CS.LngText.text"
+#~ msgid "Installs Czech support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al txec de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_SK.LngText.text"
+#~ msgid "Slovak"
+#~ msgstr "Eslovac"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_SK.LngText.text"
+#~ msgid "Installs Slovak support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'eslovac de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_HR.LngText.text"
+#~ msgid "Croatian"
+#~ msgstr "Croat"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_HR.LngText.text"
+#~ msgid "Installs Croatian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al croat de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_ET.LngText.text"
+#~ msgid "Estonian"
+#~ msgstr "Estonià"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_ET.LngText.text"
+#~ msgid "Installs Estonian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'estonià de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_VI.LngText.text"
+#~ msgid "Vietnamese"
+#~ msgstr "Vietnamita"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_VI.LngText.text"
+#~ msgid "Installs Vietnamese support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al vietnamita de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_BG.LngText.text"
+#~ msgid "Bulgarian"
+#~ msgstr "Búlgar"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_BG.LngText.text"
+#~ msgid "Installs Bulgarian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al búlgar de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_KM.LngText.text"
+#~ msgid "Khmer"
+#~ msgstr "Khmer"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_KM.LngText.text"
+#~ msgid "Installs Khmer support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al khmer de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_PA_IN.LngText."
+#~ "text"
+#~ msgid "Punjabi"
+#~ msgstr "Panjabi"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_PA_IN.LngText."
+#~ "text"
+#~ msgid "Installs Punjabi support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al punjabi de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_ST.LngText.text"
+#~ msgid "Southern Sotho (Sutu)"
+#~ msgstr "Sotho del sud (Sutu)"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_ST.LngText.text"
+#~ msgid ""
+#~ "Installs Southern Sotho (Sutu) support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al Sotho del sud de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_TN.LngText.text"
+#~ msgid "Tswana"
+#~ msgstr "Tswana"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_TN.LngText.text"
+#~ msgid "Installs Tswana support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al tswana de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_XH.LngText.text"
+#~ msgid "Xhosa"
+#~ msgstr "Xhosa"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_XH.LngText.text"
+#~ msgid "Installs Xhosa support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al xhosa de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_ZU.LngText.text"
+#~ msgid "Zulu"
+#~ msgstr "Zulu"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_ZU.LngText.text"
+#~ msgid "Installs Zulu support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al zulu de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_AF.LngText.text"
+#~ msgid "Afrikaans"
+#~ msgstr "Afrikaans"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_AF.LngText.text"
+#~ msgid "Installs Afrikaans support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'afrikaans de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_LO.LngText.text"
+#~ msgid "Lao"
+#~ msgstr "Laosià"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_LO.LngText.text"
+#~ msgid "Installs Lao support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al laosià de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_MY.LngText.text"
+#~ msgid "Burmese"
+#~ msgstr "Birmà"
+
+# 82%
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_MY.LngText.text"
+#~ msgid "Installs Burmese (Myanmar) support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al birmà (Myanmar) de %PRODUCTNAME %"
+#~ "PRODUCTVERSION"
+
+# 100%
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_NSO.LngText.text"
+#~ msgid "Northern Sotho"
+#~ msgstr "Sotho del nord"
+
+# 100%
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_NSO.LngText.text"
+#~ msgid "Installs Northern Sotho support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al sotho del nord de %PRODUCTNAME %"
+#~ "PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_BN.LngText.text"
+#~ msgid "Bengali"
+#~ msgstr "Bengalí"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_BN.LngText.text"
+#~ msgid "Installs Bengali support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al bengalí de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_BN_BD.LngText."
+#~ "text"
+#~ msgid "Bengali (Bangladesh)"
+#~ msgstr "Bengalí (Bangladesh)"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_BN_BD.LngText."
+#~ "text"
+#~ msgid ""
+#~ "Installs Bengali (Bangladesh) support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al bengalí (Bangladesh) de %PRODUCTNAME %"
+#~ "PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_BN_IN.LngText."
+#~ "text"
+#~ msgid "Bengali (India)"
+#~ msgstr "Bengalí (Índia)"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_BN_IN.LngText."
+#~ "text"
+#~ msgid "Installs Bengali (India) support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al bengalí (Índia) de %PRODUCTNAME %"
+#~ "PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_NE.LngText.text"
+#~ msgid "Nepali"
+#~ msgstr "Nepalès"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_NE.LngText.text"
+#~ msgid "Installs Nepali support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al nepalès de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_CA.LngText.text"
+#~ msgid "Catalan"
+#~ msgstr "Català"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_CA.LngText.text"
+#~ msgid "Installs Catalan support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al català de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_DA.LngText.text"
+#~ msgid "Danish"
+#~ msgstr "Danès"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_DA.LngText.text"
+#~ msgid "Installs Danish support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al danès de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_FI.LngText.text"
+#~ msgid "Finnish"
+#~ msgstr "Finès"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_FI.LngText.text"
+#~ msgid "Installs Finnish support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al finès de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_HE.LngText.text"
+#~ msgid "Hebrew"
+#~ msgstr "Hebreu"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_HE.LngText.text"
+#~ msgid "Installs Hebrew support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'hebreu de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_IS.LngText.text"
+#~ msgid "Icelandic"
+#~ msgstr "Islandès"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_IS.LngText.text"
+#~ msgid "Installs Icelandic support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'islandès de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_NB.LngText.text"
+#~ msgid "Norwegian (Bokmal)"
+#~ msgstr "Noruec (Bokmål)"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_NB.LngText.text"
+#~ msgid "Installs Norwegian (Bokmal) support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al noruec (Bokmål) de %PRODUCTNAME %"
+#~ "PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_NN.LngText.text"
+#~ msgid "Norwegian (Nynorsk)"
+#~ msgstr "Noruec (Nynorsk)"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_NN.LngText.text"
+#~ msgid "Installs Norwegian (Nynorsk) support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al noruec (Nynorsk) de %PRODUCTNAME %"
+#~ "PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_RM.LngText.text"
+#~ msgid "Rhaeto-Romance"
+#~ msgstr "Retoromànic"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_RM.LngText.text"
+#~ msgid "Installs Rhaeto-Romance support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al retoromànic de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_RO.LngText.text"
+#~ msgid "Romanian"
+#~ msgstr "Romanès"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_RO.LngText.text"
+#~ msgid "Installs Romanian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al romanès de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_SQ.LngText.text"
+#~ msgid "Albanian"
+#~ msgstr "Albanès"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_SQ.LngText.text"
+#~ msgid "Installs Albanian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'albanès de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_ID.LngText.text"
+#~ msgid "Indonesian"
+#~ msgstr "Indonesi"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_ID.LngText.text"
+#~ msgid "Installs Indonesian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'indonesi de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_UK.LngText.text"
+#~ msgid "Ukrainian"
+#~ msgstr "Ucraïnès"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_UK.LngText.text"
+#~ msgid "Installs Ukrainian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'ucraïnès de %PRODUCTNAME %PRODUCTVERSION"
+
+# 100%
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_BE.LngText.text"
+#~ msgid "Belarusian"
+#~ msgstr "Bielorús"
+
+# 100%
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_BE.LngText.text"
+#~ msgid "Installs Belarusian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al bielorús de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_SL.LngText.text"
+#~ msgid "Slovenian"
+#~ msgstr "Eslovè"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_SL.LngText.text"
+#~ msgid "Installs Slovenian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'eslovè de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_LV.LngText.text"
+#~ msgid "Latvian"
+#~ msgstr "Letó"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_LV.LngText.text"
+#~ msgid "Installs Latvian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al letó de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_LT.LngText.text"
+#~ msgid "Lithuanian"
+#~ msgstr "Lituà"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_LT.LngText.text"
+#~ msgid "Installs Lithuanian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al lituà de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_HY.LngText.text"
+#~ msgid "Armenian"
+#~ msgstr "Armeni"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_HY.LngText.text"
+#~ msgid "Installs Armenian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'armeni de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_EU.LngText.text"
+#~ msgid "Basque"
+#~ msgstr "Basc"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_EU.LngText.text"
+#~ msgid "Installs Basque support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al basc de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_MK.LngText.text"
+#~ msgid "Macedonian"
+#~ msgstr "Macedoni"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_MK.LngText.text"
+#~ msgid "Installs Macedonian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al macedoni de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_MT.LngText.text"
+#~ msgid "Maltese"
+#~ msgstr "Maltès"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_MT.LngText.text"
+#~ msgid "Installs Maltese support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al maltès de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_CY.LngText.text"
+#~ msgid "Welsh"
+#~ msgstr "Gal·lès"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_CY.LngText.text"
+#~ msgid "Installs Welsh support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al gal·lès de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_GL.LngText.text"
+#~ msgid "Galician"
+#~ msgstr "Gallec"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_GL.LngText.text"
+#~ msgid "Installs Galician support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al gallec de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_GA.LngText.text"
+#~ msgid "Irish"
+#~ msgstr "Irlandès"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_GA.LngText.text"
+#~ msgid "Installs Irish support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'irlandès de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_BS.LngText.text"
+#~ msgid "Bosnian"
+#~ msgstr "Bosnià"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_BS.LngText.text"
+#~ msgid "Installs Bosnian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al bosnià de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_AS_IN.LngText."
+#~ "text"
+#~ msgid "Assamese"
+#~ msgstr "Assamès"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_AS_IN.LngText."
+#~ "text"
+#~ msgid "Installs Assamese support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'assamès de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_RW.LngText.text"
+#~ msgid "Kinyarwanda"
+#~ msgstr "Kinyarwanda"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_RW.LngText.text"
+#~ msgid "Installs Kinyarwanda support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al kinyarwanda de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_SA.LngText.text"
+#~ msgid "Sanskrit"
+#~ msgstr "Sànscrit"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_SA.LngText.text"
+#~ msgid "Installs Sanskrit support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al sànscrit de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_FA.LngText.text"
+#~ msgid "Farsi"
+#~ msgstr "Persa"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_FA.LngText.text"
+#~ msgid "Installs Farsi support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al persa de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_FO.LngText.text"
+#~ msgid "Faroese"
+#~ msgstr "Feroès"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_FO.LngText.text"
+#~ msgid "Installs Faroese support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al feroès de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_SB.LngText.text"
+#~ msgid "Sorbian"
+#~ msgstr "Sòrab"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_SB.LngText.text"
+#~ msgid "Installs Sorbian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al sòrab de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_TT.LngText.text"
+#~ msgid "Tatar"
+#~ msgstr "Tàrtar"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_TT.LngText.text"
+#~ msgid "Installs Tatar support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al tàrtar de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_TS.LngText.text"
+#~ msgid "Tsonga"
+#~ msgstr "Tsonga"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_TS.LngText.text"
+#~ msgid "Installs Tsonga support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al tsonga de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_YI.LngText.text"
+#~ msgid "Yiddish"
+#~ msgstr "Jiddisch"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_YI.LngText.text"
+#~ msgid "Installs Yiddish support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al jiddisch de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_BR.LngText.text"
+#~ msgid "Breton"
+#~ msgstr "Bretó"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_BR.LngText.text"
+#~ msgid "Installs Breton support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al bretó de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_NR.LngText.text"
+#~ msgid "Ndebele South"
+#~ msgstr "Ndebele del sud"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_NR.LngText.text"
+#~ msgid "Installs Ndebele South support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'ndebele del sud de %PRODUCTNAME %"
+#~ "PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_SS.LngText.text"
+#~ msgid "Swazi"
+#~ msgstr "Swazi"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_SS.LngText.text"
+#~ msgid "Installs Swazi support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al swazi de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_VE.LngText.text"
+#~ msgid "Venda"
+#~ msgstr "Venda"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_VE.LngText.text"
+#~ msgid "Installs Venda support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al venda de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_KN.LngText.text"
+#~ msgid "Kannada"
+#~ msgstr "Kannada"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_KN.LngText.text"
+#~ msgid "Installs Kannada support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al kannada de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_MS.LngText.text"
+#~ msgid "Malay (Malaysian)"
+#~ msgstr "Malai (malaisi)"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_MS.LngText.text"
+#~ msgid "Installs Malay (Malaysian) support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al malai (malaisi) de %PRODUCTNAME %"
+#~ "PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_TG.LngText.text"
+#~ msgid "Tajik"
+#~ msgstr "Tajik"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_TG.LngText.text"
+#~ msgid "Installs Tajik support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al tajik de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_KU.LngText.text"
+#~ msgid "Kurdish"
+#~ msgstr "Kurd"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_KU.LngText.text"
+#~ msgid "Installs Kurdish support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al kurd de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_DZ.LngText.text"
+#~ msgid "Dzongkha"
+#~ msgstr "Dzongkha"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_DZ.LngText.text"
+#~ msgid "Installs Dzongkha support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al dzongkha de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_KA.LngText.text"
+#~ msgid "Georgian"
+#~ msgstr "Georgià"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_KA.LngText.text"
+#~ msgid "Installs Georgian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al georgià de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_EO.LngText.text"
+#~ msgid "Esperanto"
+#~ msgstr "Esperanto"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_EO.LngText.text"
+#~ msgid "Installs Esperanto support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'esperanto de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_EN_ZA.LngText."
+#~ "text"
+#~ msgid "English (South Africa)"
+#~ msgstr "Anglès (Sud-àfrica)"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_EN_ZA.LngText."
+#~ "text"
+#~ msgid ""
+#~ "Installs English (South Africa) support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'anglès (Sud-àfrica) de %PRODUCTNAME %"
+#~ "PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_EN_GB.LngText."
+#~ "text"
+#~ msgid "English (United Kingdom)"
+#~ msgstr "Anglès (Regne Unit)"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_EN_GB.LngText."
+#~ "text"
+#~ msgid ""
+#~ "Installs English (United Kingdom) support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per a l'anglès (Regne Unit) de %PRODUCTNAME %"
+#~ "PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_ML_IN.LngText."
+#~ "text"
+#~ msgid "Malayalam"
+#~ msgstr "Malaiàlam"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_ML_IN.LngText."
+#~ "text"
+#~ msgid "Installs Malayalam support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al malaiàlam de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_TE_IN.LngText."
+#~ "text"
+#~ msgid "Telugu"
+#~ msgstr "Telugu"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_TE_IN.LngText."
+#~ "text"
+#~ msgid "Installs Telugu support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al telugu de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_TI_ER.LngText."
+#~ "text"
+#~ msgid "Tigrinya"
+#~ msgstr "Tigrinya"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_TI_ER.LngText."
+#~ "text"
+#~ msgid "Installs Tigrinya support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al tigrinya de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_UZ.LngText.text"
+#~ msgid "Uzbek"
+#~ msgstr "Uzbek"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_UZ.LngText.text"
+#~ msgid "Installs Uzbek support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per a l'uzbek de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_MN.LngText.text"
+#~ msgid "Mongolian"
+#~ msgstr "Mongol"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_MN.LngText.text"
+#~ msgid "Installs Mongolian support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr "Instal·la els fitxers per al mongol de %PRODUCTNAME %PRODUCTVERSION"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_NAME_MODULE_LANGPACK_KK.LngText.text"
+#~ msgid "Kazakh"
+#~ msgstr "Kazakh"
+
+#~ msgctxt ""
+#~ "module_extensions_lightproof.ulf#STR_DESC_MODULE_LANGPACK_KK.LngText.text"
+#~ msgid "Installs Kazakh support in %PRODUCTNAME %PRODUCTVERSION"
+#~ msgstr ""
+#~ "Instal·la els fitxers per al kazakh del %PRODUCTNAME %PRODUCTVERSION"

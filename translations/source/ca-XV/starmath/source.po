@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+starmath%2Fsource.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment="
+"&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%"
+"3A+starmath%2Fsource.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:43+0200\n"
 "PO-Revision-Date: 2012-02-28 14:03+0200\n"
 "Last-Translator: Joan <joan@montane.cat>\n"
@@ -15,461 +17,565 @@ msgstr ""
 "X-Generator: Pootle 2.1.6\n"
 "X-Accelerator-Marker: ~\n"
 
+#. vwIF
 #: smres.src#RID_FONTDIALOG.1.fixedtext.text
 msgctxt "smres.src#RID_FONTDIALOG.1.fixedtext.text"
 msgid "~Font"
 msgstr "~Tipus de lletra"
 
+#. LESf
 #: smres.src#RID_FONTDIALOG.1.checkbox.text
 msgid "~Bold"
 msgstr "~Negreta"
 
+#. qWmH
 #: smres.src#RID_FONTDIALOG.2.checkbox.text
 msgid "~Italic"
 msgstr "~Cursiva"
 
+#. hycM
 #: smres.src#RID_FONTDIALOG.2.fixedtext.text
 msgctxt "smres.src#RID_FONTDIALOG.2.fixedtext.text"
 msgid "Attributes"
 msgstr "Atributs"
 
+#. uOKl
 #: smres.src#RID_FONTDIALOG.modaldialog.text
 msgctxt "smres.src#RID_FONTDIALOG.modaldialog.text"
 msgid "Fonts"
 msgstr "Tipus de lletra"
 
+#. EIjM
 #: smres.src#RID_FONTSIZEDIALOG.1.fixedtext.text
 msgid "Base ~size"
 msgstr "Mida de la ~base"
 
+#. uOny
 #: smres.src#RID_FONTSIZEDIALOG.4.fixedtext.text
 msgctxt "smres.src#RID_FONTSIZEDIALOG.4.fixedtext.text"
 msgid "~Text"
 msgstr "~Text"
 
+#. Vq#K
 #: smres.src#RID_FONTSIZEDIALOG.5.fixedtext.text
 msgid "~Indexes"
 msgstr "Í~ndexs"
 
+#. DoAD
 #: smres.src#RID_FONTSIZEDIALOG.6.fixedtext.text
 msgctxt "smres.src#RID_FONTSIZEDIALOG.6.fixedtext.text"
 msgid "~Functions"
 msgstr "~Funcions"
 
+#. gU5b
 #: smres.src#RID_FONTSIZEDIALOG.7.fixedtext.text
 msgid "~Operators"
 msgstr "~Operadors"
 
+#. Bo5w
 #: smres.src#RID_FONTSIZEDIALOG.8.fixedtext.text
 msgid "~Limits"
 msgstr "~Límits"
 
+#. tKFK
 #: smres.src#RID_FONTSIZEDIALOG.1.fixedline.text
 msgid "Relative sizes"
 msgstr "Mides relatives"
 
+#. AhQS
 #: smres.src#RID_FONTSIZEDIALOG.1.pushbutton.text
 msgctxt "smres.src#RID_FONTSIZEDIALOG.1.pushbutton.text"
 msgid "~Default"
 msgstr "Per ~defecte"
 
+#. Fmhs
 #: smres.src#RID_FONTSIZEDIALOG.modaldialog.text
 msgid "Font Sizes"
 msgstr "Mides de lletra"
 
+#. KsYo
 #: smres.src#RID_FONTTYPEDIALOG.1.fixedline.text
 msgid "Formula fonts"
 msgstr "Tipus de lletra de les fórmules"
 
+#. 6mMh
 #: smres.src#RID_FONTTYPEDIALOG.2.fixedline.text
 msgid "Custom fonts"
 msgstr "Tipus de lletra d'usuari"
 
+#. jm0m
 #: smres.src#RID_FONTTYPEDIALOG.1.fixedtext.text
 msgid "~Variables"
 msgstr "~Variables"
 
+#. _sqf
 #: smres.src#RID_FONTTYPEDIALOG.2.fixedtext.text
 msgctxt "smres.src#RID_FONTTYPEDIALOG.2.fixedtext.text"
 msgid "~Functions"
 msgstr "~Funcions"
 
+#. OQx1
 #: smres.src#RID_FONTTYPEDIALOG.3.fixedtext.text
 msgid "~Numbers"
 msgstr "~Números"
 
+#. RwSQ
 #: smres.src#RID_FONTTYPEDIALOG.4.fixedtext.text
 msgctxt "smres.src#RID_FONTTYPEDIALOG.4.fixedtext.text"
 msgid "~Text"
 msgstr "~Text"
 
+#. yMJo
 #: smres.src#RID_FONTTYPEDIALOG.5.fixedtext.text
 msgid "~Serif"
 msgstr "~Serif"
 
+#. kGdh
 #: smres.src#RID_FONTTYPEDIALOG.6.fixedtext.text
 msgid "S~ans"
 msgstr "S~ans"
 
+#. 9ye3
 #: smres.src#RID_FONTTYPEDIALOG.7.fixedtext.text
 msgid "F~ixed"
 msgstr "Amplada f~ixa"
 
+#. I6NL
 #: smres.src#RID_FONTTYPEDIALOG.1.menubutton.text
 msgctxt "smres.src#RID_FONTTYPEDIALOG.1.menubutton.text"
 msgid "~Modify"
 msgstr "~Modifica"
 
+#. _lyl
 #: smres.src#RID_FONTTYPEDIALOG.2.pushbutton.text
 msgctxt "smres.src#RID_FONTTYPEDIALOG.2.pushbutton.text"
 msgid "~Default"
 msgstr "Per ~defecte"
 
+#. iI6G
 #: smres.src#RID_FONTTYPEDIALOG.modaldialog.text
 msgctxt "smres.src#RID_FONTTYPEDIALOG.modaldialog.text"
 msgid "Fonts"
 msgstr "Tipus de lletra"
 
+#. KLXE
 #: smres.src#RID_DISTANCEDIALOG.1.metricfield.text
 msgctxt "smres.src#RID_DISTANCEDIALOG.1.metricfield.text"
 msgid "%"
 msgstr "%"
 
+#. jNi8
 #: smres.src#RID_DISTANCEDIALOG.2.metricfield.text
 msgctxt "smres.src#RID_DISTANCEDIALOG.2.metricfield.text"
 msgid "%"
 msgstr "%"
 
+#. QT9T
 #: smres.src#RID_DISTANCEDIALOG.1.checkbox.text
 msgid "Scale all brackets"
 msgstr "Dimensiona tots els claudàtors"
 
+#. wfeA
 #: smres.src#RID_DISTANCEDIALOG.3.metricfield.text
 msgctxt "smres.src#RID_DISTANCEDIALOG.3.metricfield.text"
 msgid "%"
 msgstr "%"
 
+#. b2IL
 #: smres.src#RID_DISTANCEDIALOG.1.pushbutton.text
 msgctxt "smres.src#RID_DISTANCEDIALOG.1.pushbutton.text"
 msgid "~Default"
 msgstr "Per ~defecte"
 
+#. aN0T
 #: smres.src#RID_DISTANCEDIALOG.1.menubutton.text
 msgid "~Category"
 msgstr "~Categoria"
 
+#. 4OY2
 #: smres.src#RID_DISTANCEDIALOG.1.fixedline.text
 msgid "Category"
 msgstr "Categoria"
 
+#. 7H79
 #: smres.src#RID_DISTANCEDIALOG.1.1.string.text
 msgctxt "smres.src#RID_DISTANCEDIALOG.1.1.string.text"
 msgid "Spacing"
 msgstr "Espaiat"
 
+#. #aLY
 #: smres.src#RID_DISTANCEDIALOG.1.2.string.text
 msgctxt "smres.src#RID_DISTANCEDIALOG.1.2.string.text"
 msgid "~Spacing"
 msgstr "E~spaiat"
 
+#. ftRx
 #: smres.src#RID_DISTANCEDIALOG.1.3.string.text
 msgctxt "smres.src#RID_DISTANCEDIALOG.1.3.string.text"
 msgid "~Line spacing"
 msgstr "Inter~lineat"
 
+#. tyKL
 #: smres.src#RID_DISTANCEDIALOG.1.4.string.text
 msgid "~Root spacing"
 msgstr "Espaiat de l'a~rrel"
 
+#. c_hn
 #: smres.src#RID_DISTANCEDIALOG.2.1.string.text
 msgctxt "smres.src#RID_DISTANCEDIALOG.2.1.string.text"
 msgid "Indexes"
 msgstr "Índexs"
 
+#. VAvQ
 #: smres.src#RID_DISTANCEDIALOG.2.2.string.text
 msgid "~Superscript"
 msgstr "~Superíndex"
 
+#. 8Pt3
 #: smres.src#RID_DISTANCEDIALOG.2.3.string.text
 msgid "S~ubscript"
 msgstr "S~ubíndex"
 
+#. GBi6
 #: smres.src#RID_DISTANCEDIALOG.3.1.string.text
 msgctxt "smres.src#RID_DISTANCEDIALOG.3.1.string.text"
 msgid "Fractions"
 msgstr "Fraccions"
 
+#. f##j
 #: smres.src#RID_DISTANCEDIALOG.3.2.string.text
 msgid "~Numerator"
 msgstr "~Numerador"
 
+#. #jmq
 #: smres.src#RID_DISTANCEDIALOG.3.3.string.text
 msgid "~Denominator"
 msgstr "~Denominador"
 
+#. VHMX
 #: smres.src#RID_DISTANCEDIALOG.4.1.string.text
 msgid "Fraction bar"
 msgstr "Barra de fraccions"
 
+#. ca4A
 #: smres.src#RID_DISTANCEDIALOG.4.2.string.text
 msgid "~Excess length"
 msgstr "Longitud de l'~excés"
 
+#. ntAJ
 #: smres.src#RID_DISTANCEDIALOG.4.3.string.text
 msgid "~Weight"
 msgstr "~Pes"
 
+#. fbHM
 #: smres.src#RID_DISTANCEDIALOG.5.1.string.text
 msgctxt "smres.src#RID_DISTANCEDIALOG.5.1.string.text"
 msgid "Limits"
 msgstr "Límits"
 
+#. GG3z
 #: smres.src#RID_DISTANCEDIALOG.5.2.string.text
 msgid "~Upper limit"
 msgstr "Límit s~uperior"
 
+#. 73Da
 #: smres.src#RID_DISTANCEDIALOG.5.3.string.text
 msgid "~Lower limit"
 msgstr "~Límit inferior"
 
+#. 8Bzk
 #: smres.src#RID_DISTANCEDIALOG.6.1.string.text
 msgctxt "smres.src#RID_DISTANCEDIALOG.6.1.string.text"
 msgid "Brackets"
 msgstr "Claudàtors"
 
+#. n#l5
 #: smres.src#RID_DISTANCEDIALOG.6.2.string.text
 msgid "~Excess size (left/right)"
 msgstr "Mida de l'~excés (esquerra/dreta)"
 
+#. cjXS
 #: smres.src#RID_DISTANCEDIALOG.6.3.string.text
 msgctxt "smres.src#RID_DISTANCEDIALOG.6.3.string.text"
 msgid "~Spacing"
 msgstr "E~spaiat"
 
+#. lrWh
 #: smres.src#RID_DISTANCEDIALOG.6.5.string.text
 msgctxt "smres.src#RID_DISTANCEDIALOG.6.5.string.text"
 msgid "~Excess size"
 msgstr "Mida de l'~excés"
 
+#. #_wP
 #: smres.src#RID_DISTANCEDIALOG.7.1.string.text
 msgid "Matrix"
 msgstr "Matriu"
 
+#. 7Aeo
 #: smres.src#RID_DISTANCEDIALOG.7.2.string.text
 msgctxt "smres.src#RID_DISTANCEDIALOG.7.2.string.text"
 msgid "~Line spacing"
 msgstr "Inter~lineat"
 
+#. GPch
 #: smres.src#RID_DISTANCEDIALOG.7.3.string.text
 msgid "~Column spacing"
 msgstr "Espaiat de la ~columna"
 
+#. jCj0
 #: smres.src#RID_DISTANCEDIALOG.8.1.string.text
 msgctxt "smres.src#RID_DISTANCEDIALOG.8.1.string.text"
 msgid "Symbols"
 msgstr "Símbols"
 
+#. Kv_h
 #: smres.src#RID_DISTANCEDIALOG.8.2.string.text
 msgid "~Primary height"
 msgstr "Alçada ~primària"
 
+#. 3gno
 #: smres.src#RID_DISTANCEDIALOG.8.3.string.text
 msgid "~Minimum spacing"
 msgstr "Espaiat ~mínim"
 
+#. Rugt
 #: smres.src#RID_DISTANCEDIALOG.9.1.string.text
 msgctxt "smres.src#RID_DISTANCEDIALOG.9.1.string.text"
 msgid "Operators"
 msgstr "Operadors"
 
+#. YDuS
 #: smres.src#RID_DISTANCEDIALOG.9.2.string.text
 msgctxt "smres.src#RID_DISTANCEDIALOG.9.2.string.text"
 msgid "~Excess size"
 msgstr "Mida de l'~excés"
 
+#. rUs5
 #: smres.src#RID_DISTANCEDIALOG.9.3.string.text
 msgctxt "smres.src#RID_DISTANCEDIALOG.9.3.string.text"
 msgid "~Spacing"
 msgstr "E~spaiat"
 
+#. 2rkQ
 #: smres.src#RID_DISTANCEDIALOG.10.1.string.text
 msgctxt "smres.src#RID_DISTANCEDIALOG.10.1.string.text"
 msgid "Borders"
 msgstr "Vores"
 
+#. x0yn
 #: smres.src#RID_DISTANCEDIALOG.10.2.string.text
 msgctxt "smres.src#RID_DISTANCEDIALOG.10.2.string.text"
 msgid "~Left"
 msgstr "~Esquerra"
 
+#. iJoe
 #: smres.src#RID_DISTANCEDIALOG.10.3.string.text
 msgctxt "smres.src#RID_DISTANCEDIALOG.10.3.string.text"
 msgid "~Right"
 msgstr "~Dreta"
 
+#. oOz6
 #: smres.src#RID_DISTANCEDIALOG.10.4.string.text
 msgid "~Top"
 msgstr "~Superior"
 
+#. bBpV
 #: smres.src#RID_DISTANCEDIALOG.10.5.string.text
 msgid "~Bottom"
 msgstr "~Inferior"
 
+#. yy6W
 #: smres.src#RID_DISTANCEDIALOG.modaldialog.text
 msgctxt "smres.src#RID_DISTANCEDIALOG.modaldialog.text"
 msgid "Spacing"
 msgstr "Espaiat"
 
+#. IYbI
 #: smres.src#RID_ALIGNDIALOG.1.radiobutton.text
 msgctxt "smres.src#RID_ALIGNDIALOG.1.radiobutton.text"
 msgid "~Left"
 msgstr "~Esquerra"
 
+#. hWeK
 #: smres.src#RID_ALIGNDIALOG.2.radiobutton.text
 msgid "~Centered"
 msgstr "~Centrat"
 
+#. yUiM
 #: smres.src#RID_ALIGNDIALOG.3.radiobutton.text
 msgctxt "smres.src#RID_ALIGNDIALOG.3.radiobutton.text"
 msgid "~Right"
 msgstr "~Dreta"
 
+#. 4gsX
 #: smres.src#RID_ALIGNDIALOG.1.fixedline.text
 msgid "Horizontal"
 msgstr "Horitzontal"
 
+#. Ymid
 #: smres.src#RID_ALIGNDIALOG.1.pushbutton.text
 msgctxt "smres.src#RID_ALIGNDIALOG.1.pushbutton.text"
 msgid "~Default"
 msgstr "Per ~defecte"
 
+#. yEI3
 #: smres.src#RID_ALIGNDIALOG.modaldialog.text
 msgid "Alignment"
 msgstr "Alineació"
 
+#. ypJK
 #: smres.src#RID_PRINTOPTIONPAGE.FL_PRINTOPTIONS.fixedline.text
 msgid "Print options"
 msgstr "Opcions d'impressió"
 
+#. xaR1
 #: smres.src#RID_PRINTOPTIONPAGE.CB_TITLEROW.checkbox.text
 msgid "~Title row"
 msgstr "~Fila del títol"
 
+#. i9#l
 #: smres.src#RID_PRINTOPTIONPAGE.CB_EQUATION_TEXT.checkbox.text
 msgctxt "smres.src#RID_PRINTOPTIONPAGE.CB_EQUATION_TEXT.checkbox.text"
 msgid "~Formula text"
 msgstr "~Text de la fórmula"
 
+#. ysus
 #: smres.src#RID_PRINTOPTIONPAGE.CB_FRAME.checkbox.text
 msgid "B~order"
 msgstr "V~ora"
 
+#. GlQ0
 #: smres.src#RID_PRINTOPTIONPAGE.FL_PRINT_FORMAT.fixedline.text
 msgid "Print format"
 msgstr "Format d'impressió"
 
+#. yai9
 #: smres.src#RID_PRINTOPTIONPAGE.RB_ORIGINAL_SIZE.radiobutton.text
 msgctxt "smres.src#RID_PRINTOPTIONPAGE.RB_ORIGINAL_SIZE.radiobutton.text"
 msgid "O~riginal size"
 msgstr "Mida o~riginal"
 
+#. zpSK
 #: smres.src#RID_PRINTOPTIONPAGE.RB_FIT_TO_PAGE.radiobutton.text
 msgctxt "smres.src#RID_PRINTOPTIONPAGE.RB_FIT_TO_PAGE.radiobutton.text"
 msgid "Fit to ~page"
 msgstr "Ajusta a la ~pàgina"
 
+#. qxsI
 #: smres.src#RID_PRINTOPTIONPAGE.RB_ZOOM.radiobutton.text
 msgctxt "smres.src#RID_PRINTOPTIONPAGE.RB_ZOOM.radiobutton.text"
 msgid "~Scaling"
 msgstr "Redimen~sionament"
 
+#. B00D
 #: smres.src#RID_PRINTOPTIONPAGE.FL_MISC_OPTIONS.fixedline.text
 msgid "Miscellaneous options"
 msgstr "Altres opcions"
 
+#. 92U7
 #: smres.src#RID_PRINTOPTIONPAGE.CB_IGNORE_SPACING.checkbox.text
 msgid "Ig~nore ~~ and ` at the end of the line"
 msgstr "Ig~nora ~~ i ` a final de línia"
 
+#. 8W5C
 #: smres.src#RID_PRINTOPTIONPAGE.CB_SAVE_ONLY_USED_SYMBOLS.checkbox.text
 msgid "Embed only used symbols (smaller file size)"
 msgstr "Incrusta només els símbols utilitzats (fitxer més petit)"
 
+#. x3av
 #: smres.src#RID_PRINTOPTIONPAGE.tabpage.text
 msgid "Formula Options:Settings"
 msgstr "Opcions de fórmula: Configuració"
 
+#. 4b#d
 #: smres.src#RID_SYMBOLDIALOG.1.fixedtext.text
 msgid "~Symbol set"
 msgstr "Conjunt de ~símbols"
 
+#. MZA#
 #: smres.src#RID_SYMBOLDIALOG.2.fixedtext.text
 msgid "Unknown"
 msgstr "Desconegut"
 
+#. A6Bk
 #: smres.src#RID_SYMBOLDIALOG.2.pushbutton.text
 msgid "~Insert"
 msgstr "~Insereix"
 
+#. 730V
 #: smres.src#RID_SYMBOLDIALOG.3.pushbutton.text
 msgid "~Close"
 msgstr "~Tanca"
 
+#. cwoS
 #: smres.src#RID_SYMBOLDIALOG.1.pushbutton.text
 msgid "~Edit..."
 msgstr "~Edita..."
 
+#. 57u7
 #: smres.src#RID_SYMBOLDIALOG.modaldialog.text
 msgctxt "smres.src#RID_SYMBOLDIALOG.modaldialog.text"
 msgid "Symbols"
 msgstr "Símbols"
 
+#. Gnqk
 #: smres.src#RID_SYMDEFINEDIALOG.1.fixedtext.text
 msgid "~Old symbol"
 msgstr "Símb~ol anterior"
 
+#. 2t0t
 #: smres.src#RID_SYMDEFINEDIALOG.2.fixedtext.text
 msgid "O~ld symbol set"
 msgstr "Conjunt de símbo~ls anterior"
 
+#. ozJg
 #: smres.src#RID_SYMDEFINEDIALOG.9.fixedtext.text
 msgid "~Symbol"
 msgstr "~Símbol"
 
+#. nw39
 #: smres.src#RID_SYMDEFINEDIALOG.10.fixedtext.text
 msgid "Symbol s~et"
 msgstr "Con~junt de símbols"
 
+#. bRFV
 #: smres.src#RID_SYMDEFINEDIALOG.3.fixedtext.text
 msgctxt "smres.src#RID_SYMDEFINEDIALOG.3.fixedtext.text"
 msgid "~Font"
 msgstr "~Tipus de lletra"
 
+#. Lwdh
 #: smres.src#RID_SYMDEFINEDIALOG.FT_FONTS_SUBSET.fixedtext.text
 msgid "~Subset"
 msgstr "~Subconjunt"
 
+#. cxe4
 #: smres.src#RID_SYMDEFINEDIALOG.4.fixedtext.text
 msgid "~Typeface"
 msgstr "T~ipografia"
 
+#. ksGI
 #: smres.src#RID_SYMDEFINEDIALOG.1.pushbutton.text
 msgid "~Add"
 msgstr "~Afig"
 
+#. 2AfW
 #: smres.src#RID_SYMDEFINEDIALOG.2.pushbutton.text
 msgctxt "smres.src#RID_SYMDEFINEDIALOG.2.pushbutton.text"
 msgid "~Modify"
 msgstr "~Modifica"
 
+#. FFYH
 #: smres.src#RID_SYMDEFINEDIALOG.3.pushbutton.text
 msgid "~Delete"
 msgstr "~Suprimeix"
 
+#. HJoE
 #: smres.src#RID_SYMDEFINEDIALOG.modaldialog.text
 msgid "Edit Symbols"
 msgstr "Edita símbols"
 
+#. ZUv0
 #: smres.src#RID_NOMATHTYPEFACEWARNING.warningbox.text
 msgid ""
 "The 'StarMath' font has not been installed.\n"
@@ -477,9 +583,11 @@ msgid ""
 "Please install this font and restart %PRODUCTNAME Math."
 msgstr ""
 "No teniu instal·lat el tipus de lletra \"StarMath\".\n"
-"Sense este tipus de lletra el %PRODUCTNAME Math no funcionarà correctament.\n"
+"Sense este tipus de lletra el %PRODUCTNAME Math no funcionarà "
+"correctament.\n"
 "Instal·leu este tipus de lletra i reinicieu el %PRODUCTNAME Math."
 
+#. 39mt
 #: smres.src#RID_DEFAULTSAVEQUERY.querybox.text
 msgid ""
 "Should the changes be saved as defaults?\n"
@@ -490,1378 +598,1730 @@ msgstr ""
 "\n"
 "Estos canvis tindran efecte en totes les fórmules noves."
 
+#. aQiN
 #: smres.src#RID_FONTREGULAR.string.text
 msgid "Standard"
 msgstr "Estàndard"
 
+#. Ow#C
 #: smres.src#RID_FONTITALIC.string.text
 msgid "Italic"
 msgstr "Cursiva"
 
+#. 96ps
 #: smres.src#RID_FONTBOLD.string.text
 msgid "Bold"
 msgstr "Negreta"
 
+#. mZBO
 #: smres.src#RID_VIEWMENU.SID_VIEW050.menuitem.text
 msgid "~View 50%"
 msgstr "Visualitza ~50%"
 
+#. BiS3
 #: smres.src#RID_VIEWMENU.SID_VIEW100.menuitem.text
 msgid "View ~100%"
 msgstr "Visualitza ~100%"
 
+#. dGbn
 #: smres.src#RID_VIEWMENU.SID_VIEW200.menuitem.text
 msgid "View ~200%"
 msgstr "Visualitza ~200%"
 
+#. 1vV5
 #: smres.src#RID_VIEWMENU.SID_ZOOMIN.menuitem.text
 msgid "~Zoom In"
 msgstr "~Amplia"
 
+#. 300P
 #: smres.src#RID_VIEWMENU.SID_ZOOMOUT.menuitem.text
 msgid "Zoom ~Out"
 msgstr "~Redueix"
 
+#. _axX
 #: smres.src#RID_VIEWMENU.SID_ADJUST.menuitem.text
 msgid "~Display All"
 msgstr "~Mostra-ho tot"
 
+#. HbwU
 #: smres.src#RID_VIEWMENU.SID_DRAW.menuitem.text
 msgid "U~pdate"
 msgstr "Act~ualitza"
 
+#. jGJN
 #: smres.src#RID_DISTANCEMENU.WORKARROUND_1.menuitem.text
 msgctxt "smres.src#RID_DISTANCEMENU.WORKARROUND_1.menuitem.text"
 msgid "Spacing"
 msgstr "Espaiat"
 
+#. QGn3
 #: smres.src#RID_DISTANCEMENU.Indexes.menuitem.text
 msgctxt "smres.src#RID_DISTANCEMENU.Indexes.menuitem.text"
 msgid "Indexes"
 msgstr "Índexs"
 
+#. wAuO
 #: smres.src#RID_DISTANCEMENU.WORKARROUND_3.menuitem.text
 msgctxt "smres.src#RID_DISTANCEMENU.WORKARROUND_3.menuitem.text"
 msgid "Fractions"
 msgstr "Fraccions"
 
+#. sve6
 #: smres.src#RID_DISTANCEMENU.Fraction_Bars.menuitem.text
 msgid "Fraction Bars"
 msgstr "Barres de fracció"
 
+#. QCYc
 #: smres.src#RID_DISTANCEMENU.Limits.menuitem.text
 msgctxt "smres.src#RID_DISTANCEMENU.Limits.menuitem.text"
 msgid "Limits"
 msgstr "Límits"
 
+#. UTXe
 #: smres.src#RID_DISTANCEMENU.Brackets.menuitem.text
 msgctxt "smres.src#RID_DISTANCEMENU.Brackets.menuitem.text"
 msgid "Brackets"
 msgstr "Claudàtors"
 
+#. pM#E
 #: smres.src#RID_DISTANCEMENU.Matrices.menuitem.text
 msgid "Matrices"
 msgstr "Matrius"
 
+#. N2VJ
 #: smres.src#RID_DISTANCEMENU.Symbols.menuitem.text
 msgctxt "smres.src#RID_DISTANCEMENU.Symbols.menuitem.text"
 msgid "Symbols"
 msgstr "Símbols"
 
+#. Ltxr
 #: smres.src#RID_DISTANCEMENU.Operators.menuitem.text
 msgctxt "smres.src#RID_DISTANCEMENU.Operators.menuitem.text"
 msgid "Operators"
 msgstr "Operadors"
 
+#. WZTX
 #: smres.src#RID_DISTANCEMENU.WORKARROUND_10.menuitem.text
 msgctxt "smres.src#RID_DISTANCEMENU.WORKARROUND_10.menuitem.text"
 msgid "Borders"
 msgstr "Vores"
 
+#. mDBK
 #: smres.src#RID_FONTMENU.Variables.menuitem.text
 msgid "Variables"
 msgstr "Variables"
 
+#. x9oZ
 #: smres.src#RID_FONTMENU.Functions.menuitem.text
 msgctxt "smres.src#RID_FONTMENU.Functions.menuitem.text"
 msgid "Functions"
 msgstr "Funcions"
 
+#. xo_K
 #: smres.src#RID_FONTMENU.Numbers.menuitem.text
 msgid "Numbers"
 msgstr "Números"
 
+#. P71I
 #: smres.src#RID_FONTMENU.Text.menuitem.text
 msgid "Text"
 msgstr "Text"
 
+#. f7Jf
 #: smres.src#RID_FONTMENU.Serif.menuitem.text
 msgid "Serif"
 msgstr "Serif"
 
+#. H0c6
 #: smres.src#RID_FONTMENU.Sans.menuitem.text
 msgid "Sans"
 msgstr "Sans"
 
+#. Ywnq
 #: smres.src#RID_FONTMENU.Fixed.menuitem.text
 msgid "Fixed"
 msgstr "Amplada fixa"
 
+#. kpD1
 #: smres.src#CMDBOXWINDOW_TEXT.#define.text
 msgid "Commands"
 msgstr "Ordes"
 
+#. 5R4j
 #: smres.src#RID_DOCUMENTSTR.string.text
 msgid "Formula"
 msgstr "Fórmula"
 
+#. KB_Q
 #: smres.src#STR_STATSTR_READING.string.text
 msgid "Loading document..."
 msgstr "S'està carregant el document..."
 
+#. gs6b
 #: smres.src#STR_STATSTR_WRITING.string.text
 msgid "Saving document..."
 msgstr "S'està alçant el document..."
 
+#. QQAp
 #: smres.src#STR_MATH_DOCUMENT_FULLTYPE_CURRENT.string.text
 msgid "%PRODUCTNAME %PRODUCTVERSION Formula"
 msgstr "Fórmula de %PRODUCTNAME %PRODUCTVERSION"
 
+#. w8Xs
 #: smres.src#RID_SYMBOLFILESSTR.string.text
 msgid "Symbol files (*.sms)"
 msgstr "Fitxers de símbols (*.sms)"
 
+#. HoZ8
 #: smres.src#RID_ALLFILESSTR.string.text
 msgid "All Files (*.*)"
 msgstr "Tots els fitxers (*.*)"
 
+#. 1OPE
 #: smres.src#RID_ERR_IDENT.string.text
 msgid "ERROR : "
 msgstr "ERROR : "
 
+#. 9HYU
 #: smres.src#RID_ERR_UNKOWN.string.text
 msgid "Unknown error occurred"
 msgstr "S'ha produït un error desconegut"
 
+#. 3EBY
 #: smres.src#RID_ERR_UNEXPECTEDCHARACTER.string.text
 msgid "Unexpected character"
 msgstr "Caràcter no esperat"
 
+#. O6ri
 #: smres.src#RID_ERR_OVERFLOW.string.text
 msgid "Formula entry too complex"
 msgstr "La fórmula és massa complexa"
 
+#. hoO5
 #: smres.src#RID_ERR_LGROUPEXPECTED.string.text
 msgid "'{' expected"
 msgstr "S'esperava '{'"
 
+#. kjpG
 #: smres.src#RID_ERR_RGROUPEXPECTED.string.text
 msgid "'}' expected"
 msgstr "S'esperava '}'"
 
+#. Wagj
 #: smres.src#RID_ERR_LBRACEEXPECTED.string.text
 msgid "'(' expected"
 msgstr "S'esperava '('"
 
+#. bx1u
 #: smres.src#RID_ERR_RBRACEEXPECTED.string.text
 msgid "')' expected"
 msgstr "S'esperava ')'"
 
+#. 4hHL
 #: smres.src#RID_ERR_FUNCEXPECTED.string.text
 msgid "Function expected"
 msgstr "S'esperava una funció"
 
+#. oMEC
 #: smres.src#RID_ERR_UNOPEREXPECTED.string.text
 msgid "Unary operator expected"
 msgstr "S'esperava un operador unari"
 
+#. U6#W
 #: smres.src#RID_ERR_BINOPEREXPECTED.string.text
 msgid "Binary operator expected"
 msgstr "S'esperava un operador binari"
 
+#. rxqj
 #: smres.src#RID_ERR_SYMBOLEXPECTED.string.text
 msgid "Symbol expected"
 msgstr "S'esperava un símbol"
 
+#. 49F0
 #: smres.src#RID_ERR_IDENTEXPECTED.string.text
 msgid "Identifier expected"
 msgstr "S'esperava un identificador"
 
+#. 8DER
 #: smres.src#RID_ERR_POUNDEXPECTED.string.text
 msgid "'#' expected"
 msgstr "S'esperava '#'"
 
+#. Mtls
 #: smres.src#RID_ERR_COLOREXPECTED.string.text
 msgid "Color required"
 msgstr "Es necessita un color"
 
+#. K9Qg
 #: smres.src#RID_ERR_LPARENTEXPECTED.string.text
 msgid "Left limit expected"
 msgstr "S'esperava el límit per l'esquerra"
 
+#. Zdxs
 #: smres.src#RID_ERR_RPARENTEXPECTED.string.text
 msgid "Right limit expected"
 msgstr "S'esperava el límit per la dreta"
 
+#. 75Z4
 #: smres.src#RID_ERR_RIGHTEXPECTED.string.text
 msgid "'RIGHT' expected"
 msgstr "S'esperava 'RIGHT'"
 
+#. T_DV
 #: smres.src#RID_MATH_TOOLBOX.string.text
 msgid "Main Toolbar"
 msgstr "Barra d'eines principal"
 
+#. a_89
 #: smres.src#RID_PRINTUIOPTIONS.1.itemlist.text
 msgid "%PRODUCTNAME %s"
 msgstr "%PRODUCTNAME %s"
 
+#. 5Han
 #: smres.src#RID_PRINTUIOPTIONS.2.itemlist.text
 msgid "Contents"
 msgstr "Contingut"
 
+#. pbZ6
 #: smres.src#RID_PRINTUIOPTIONS.3.itemlist.text
 msgid "~Title"
 msgstr "~Títol"
 
+#. y_PX
 #: smres.src#RID_PRINTUIOPTIONS.4.itemlist.text
 msgctxt "smres.src#RID_PRINTUIOPTIONS.4.itemlist.text"
 msgid "~Formula text"
 msgstr "~Text de la fórmula"
 
+#. ABUM
 #: smres.src#RID_PRINTUIOPTIONS.5.itemlist.text
 msgid "B~orders"
 msgstr "V~ores"
 
+#. hbok
 #: smres.src#RID_PRINTUIOPTIONS.6.itemlist.text
 msgid "Size"
 msgstr "Mida"
 
+#. THrP
 #: smres.src#RID_PRINTUIOPTIONS.7.itemlist.text
 msgctxt "smres.src#RID_PRINTUIOPTIONS.7.itemlist.text"
 msgid "O~riginal size"
 msgstr "Mida o~riginal"
 
+#. EYY0
 #: smres.src#RID_PRINTUIOPTIONS.8.itemlist.text
 msgctxt "smres.src#RID_PRINTUIOPTIONS.8.itemlist.text"
 msgid "Fit to ~page"
 msgstr "Ajusta a la ~pàgina"
 
+#. uMbt
 #: smres.src#RID_PRINTUIOPTIONS.9.itemlist.text
 msgctxt "smres.src#RID_PRINTUIOPTIONS.9.itemlist.text"
 msgid "~Scaling"
 msgstr "Redimen~sionament"
 
+#. pwuB
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CATALOG.RID_UNBINOPS_CAT.toolboxitem.text
 msgid "Unary/Binary Operators"
 msgstr "Operadors unaris i binaris"
 
+#. 38O#
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CATALOG.RID_RELATIONS_CAT.toolboxitem.text
 msgid "Relations"
 msgstr "Relacions"
 
+#. etPv
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CATALOG.RID_SETOPERATIONS_CAT.toolboxitem.text
 msgid "Set Operations"
 msgstr "Operacions amb conjunts"
 
+#. SUGV
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CATALOG.RID_FUNCTIONS_CAT.toolboxitem.text
-msgctxt "toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CATALOG.RID_FUNCTIONS_CAT.toolboxitem.text"
+msgctxt ""
+"toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CATALOG.RID_FUNCTIONS_CAT.toolboxitem."
+"text"
 msgid "Functions"
 msgstr "Funcions"
 
+#. Sux#
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CATALOG.RID_OPERATORS_CAT.toolboxitem.text
-msgctxt "toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CATALOG.RID_OPERATORS_CAT.toolboxitem.text"
+msgctxt ""
+"toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CATALOG.RID_OPERATORS_CAT.toolboxitem."
+"text"
 msgid "Operators"
 msgstr "Operadors"
 
+#. k_HI
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CATALOG.RID_ATTRIBUTES_CAT.toolboxitem.text
-msgctxt "toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CATALOG.RID_ATTRIBUTES_CAT.toolboxitem.text"
+msgctxt ""
+"toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CATALOG.RID_ATTRIBUTES_CAT.toolboxitem."
+"text"
 msgid "Attributes"
 msgstr "Atributs"
 
+#. b8iM
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CATALOG.RID_MISC_CAT.toolboxitem.text
 msgid "Others"
 msgstr "Altres"
 
+# Parèntesis? Claudàtors?
+#. MQLS
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CATALOG.RID_BRACKETS_CAT.toolboxitem.text
-msgctxt "toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CATALOG.RID_BRACKETS_CAT.toolboxitem.text"
+msgctxt ""
+"toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CATALOG.RID_BRACKETS_CAT.toolboxitem."
+"text"
 msgid "Brackets"
 msgstr "Claudàtors"
 
+#. b14J
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CATALOG.RID_FORMAT_CAT.toolboxitem.text
 msgid "Formats"
 msgstr "Formats"
 
+#. EW#B
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_A.RID_PLUSX.toolboxitem.text
 msgid "+ Sign"
 msgstr "Signe +"
 
+#. LNwG
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_A.RID_MINUSX.toolboxitem.text
 msgid "- Sign"
 msgstr "Signe -"
 
+#. JrPL
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_A.RID_PLUSMINUSX.toolboxitem.text
 msgid "+- Sign"
 msgstr "Signe +-"
 
+#. R5FD
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_A.RID_MINUSPLUSX.toolboxitem.text
 msgid "-+ Sign"
 msgstr "Signe -+"
 
+#. k2fm
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_A.RID_NEGX.toolboxitem.text
 msgid "Boolean NOT"
 msgstr "NO lògic"
 
+#. OM6l
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_A.RID_XPLUSY.toolboxitem.text
 msgid "Addition +"
 msgstr "Suma +"
 
+#. P4Yw
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_A.RID_XCDOTY.toolboxitem.text
 msgid "Multiplication (Dot )"
 msgstr "Multiplicació (punt)"
 
+#. OEs8
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_A.RID_XTIMESY.toolboxitem.text
 msgid "Multiplication (x)"
 msgstr "Multiplicació (creu)"
 
+#. vySn
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_A.RID_XSYMTIMESY.toolboxitem.text
 msgid "Multiplication (*)"
 msgstr "Multiplicació (asterisc)"
 
+#. RiLP
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_A.RID_XANDY.toolboxitem.text
 msgid "Boolean AND"
 msgstr "I lògic"
 
+#. Wglq
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_A.RID_XMINUSY.toolboxitem.text
 msgid "Subtraction -"
 msgstr "Resta -"
 
+#. Wl2c
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_A.RID_XOVERY.toolboxitem.text
 msgid "Division (Fraction)"
 msgstr "Divisió (fracció)"
 
+#. #O_J
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_A.RID_XDIVY.toolboxitem.text
 msgid "Division (÷)"
 msgstr "Divisió (÷)"
 
+#. sY7i
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_A.RID_XSYMDIVIDEY.toolboxitem.text
 msgid "Division (Slash)"
 msgstr "Divisió (barra inclinada)"
 
+#. QeS8
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_A.RID_XORY.toolboxitem.text
 msgid "Boolean OR"
 msgstr "O lògic"
 
+#. 39p4
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_A.RID_XCIRCY.toolboxitem.text
 msgid "Concatenate"
 msgstr "Concatena"
 
+#. g2fv
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XEQY.toolboxitem.text
 msgid "Is Equal"
 msgstr "És igual"
 
+#. CnTm
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XNEQY.toolboxitem.text
 msgid "Is Not Equal"
 msgstr "No és igual"
 
+#. hChA
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XAPPROXY.toolboxitem.text
 msgid "Is Approximately Equal"
 msgstr "És aproximadament igual"
 
+#. OE2I
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XDIVIDESY.toolboxitem.text
 msgid "Divides"
 msgstr "Divideix"
 
+#. QswD
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XNDIVIDESY.toolboxitem.text
 msgid "Does Not Divide"
 msgstr "No divideix"
 
+#. wrku
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XLTY.toolboxitem.text
 msgid "Is Less Than"
 msgstr "És menor que"
 
+#. kVtA
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XGTY.toolboxitem.text
 msgid "Is Greater Than"
 msgstr "És major que"
 
+#. yL3f
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XSIMEQY.toolboxitem.text
 msgid "Is Similar Or Equal"
 msgstr "És paregut o igual"
 
+#. AKxJ
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XPARALLELY.toolboxitem.text
 msgid "Is Parallel To"
 msgstr "És paral·lel a"
 
+#. 5OZm
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XORTHOY.toolboxitem.text
 msgid "Is Orthogonal To"
 msgstr "És ortogonal a"
 
+#. 6_E5
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XLESLANTY.toolboxitem.text
-msgctxt "toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XLESLANTY.toolboxitem.text"
+msgctxt ""
+"toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XLESLANTY.toolboxitem.text"
 msgid "Is Less Than Or Equal To"
 msgstr "És menor o igual que"
 
+#. 7TeE
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XGESLANTY.toolboxitem.text
-msgctxt "toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XGESLANTY.toolboxitem.text"
+msgctxt ""
+"toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XGESLANTY.toolboxitem.text"
 msgid "Is Greater Than Or Equal To"
 msgstr "És major o igual que"
 
+#. t1xW
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XSIMY.toolboxitem.text
 msgid "Is Similar To"
 msgstr "És paregut a"
 
+#. EOtY
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XEQUIVY.toolboxitem.text
 msgid "Is Congruent To"
 msgstr "És congruent amb"
 
+#. 6eIL
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XLEY.toolboxitem.text
 msgctxt "toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XLEY.toolboxitem.text"
 msgid "Is Less Than Or Equal To"
 msgstr "És menor o igual que"
 
+#. I2Bd
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XGEY.toolboxitem.text
 msgctxt "toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XGEY.toolboxitem.text"
 msgid "Is Greater Than Or Equal To"
 msgstr "És major o igual que"
 
+#. ol92
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XPROPY.toolboxitem.text
 msgid "Is Proportional To"
 msgstr "És proporcional a"
 
+#. gq4d
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XTOWARDY.toolboxitem.text
 msgid "Toward"
 msgstr "Tendeix"
 
+#. Dvl4
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_DLARROW.toolboxitem.text
 msgid "Double Arrow Left"
 msgstr "Fletxa doble esquerra"
 
+#. TJ0g
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_DLRARROW.toolboxitem.text
 msgid "Double Arrow Left And Right"
 msgstr "Fletxa doble esquerra i dreta"
 
+#. Ftsk
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_DRARROW.toolboxitem.text
 msgid "Double Arrow Right"
 msgstr "Fletxa doble dreta"
 
+#. SkIl
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XPRECEDESY.toolboxitem.text
 msgid "Precedes"
 msgstr "Precedeix"
 
+#. pmea
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XNOTPRECEDESY.toolboxitem.text
 msgid "Not precedes"
 msgstr "No precedeix"
 
+#. JoyV
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XSUCCEEDSY.toolboxitem.text
 msgid "Succeeds"
 msgstr "Succeeix"
 
+#. yi6K
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XNOTSUCCEEDSY.toolboxitem.text
 msgid "Not succeeds"
 msgstr "No succeeix"
 
+#. jYpS
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XPRECEDESEQUALY.toolboxitem.text
 msgid "Precedes or equal to"
 msgstr "Precedeix igual a"
 
+#. SvtF
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XSUCCEEDSEQUALY.toolboxitem.text
 msgid "Succeeds or equal to"
 msgstr "Succeeix o igual a"
 
+#. FCLI
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XPRECEDESEQUIVY.toolboxitem.text
 msgid "Precedes or equivalent to"
 msgstr "Precedeix o equivalent a"
 
+#. #NH1
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_B.RID_XSUCCEEDSEQUIVY.toolboxitem.text
 msgid "Succeeds or equivalent to"
 msgstr "Succeeix o equivalent a"
 
+#. bFSl
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_C.RID_XINY.toolboxitem.text
 msgid "Is In"
 msgstr "Contingut a"
 
+#. 4Wop
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_C.RID_XNOTINY.toolboxitem.text
 msgid "Is Not In"
 msgstr "No contingut a"
 
+#. lHdB
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_C.RID_XOWNSY.toolboxitem.text
 msgid "Owns"
 msgstr "Conté"
 
+#. bk22
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_C.RID_EMPTYSET.toolboxitem.text
 msgid "Empty Set"
 msgstr "Conjunt buit"
 
+#. SH1q
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_C.RID_XINTERSECTIONY.toolboxitem.text
 msgid "Intersection"
 msgstr "Intersecció"
 
+#. CN8P
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_C.RID_XUNIONY.toolboxitem.text
 msgid "Union"
 msgstr "Unió"
 
+#. Rtqz
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_C.RID_XSETMINUSY.toolboxitem.text
 msgid "Difference"
 msgstr "Diferència"
 
+#. TseW
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_C.RID_XSLASHY.toolboxitem.text
 msgid "Quotient Set"
 msgstr "Conjunt quocient"
 
+#. FKcU
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_C.RID_ALEPH.toolboxitem.text
 msgid "Aleph"
 msgstr "Àlef"
 
+#. 5BO7
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_C.RID_XSUBSETY.toolboxitem.text
 msgid "Subset"
 msgstr "Subconjunt"
 
+#. MOvJ
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_C.RID_XSUBSETEQY.toolboxitem.text
 msgid "Subset Or Equal To"
 msgstr "Subconjunt o igual a"
 
+#. 3E3S
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_C.RID_XSUPSETY.toolboxitem.text
 msgid "Superset"
 msgstr "Superconjunt"
 
+#. V2Sb
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_C.RID_XSUPSETEQY.toolboxitem.text
 msgid "Superset Or Equal To"
 msgstr "Superconjunt o igual a"
 
+#. Mqt7
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_C.RID_XNSUBSETY.toolboxitem.text
 msgid "Not Subset"
 msgstr "No subconjunt"
 
+#. #s0Z
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_C.RID_XNSUBSETEQY.toolboxitem.text
 msgid "Not Subset Or Equal"
 msgstr "No subconjunt ni igual"
 
+#. GniS
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_C.RID_XNSUPSETY.toolboxitem.text
 msgid "Not Superset"
 msgstr "No superconjunt"
 
+#. tibL
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_C.RID_XNSUPSETEQY.toolboxitem.text
 msgid "Not Superset Or Equal"
 msgstr "No superconjunt ni igual"
 
+#. 3vI1
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_C.RID_SETN.toolboxitem.text
 msgid "Natural Numbers Set"
 msgstr "Conjunt dels nombres naturals"
 
+#. lbEe
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_C.RID_SETZ.toolboxitem.text
 msgid "Integers Set"
 msgstr "Conjunt dels nombres enters"
 
+#. kLa#
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_C.RID_SETQ.toolboxitem.text
 msgid "Set of Rational Numbers"
 msgstr "Conjunt dels nombres racionals"
 
+#. NNfu
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_C.RID_SETR.toolboxitem.text
 msgid "Real Numbers Set"
 msgstr "Conjunt dels nombres reals"
 
+#. mCYR
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_C.RID_SETC.toolboxitem.text
 msgid "Complex Numbers Set"
 msgstr "Conjunt dels nombres complexos"
 
+#. Hff_
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_D.RID_EX.toolboxitem.text
 msgctxt "toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_D.RID_EX.toolboxitem.text"
 msgid "Exponential Function"
 msgstr "Funció exponencial"
 
+#. PU4j
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_D.RID_LNX.toolboxitem.text
 msgid "Natural Logarithm"
 msgstr "Logaritme natural"
 
+#. O7hX
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_D.RID_EXPX.toolboxitem.text
 msgctxt "toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_D.RID_EXPX.toolboxitem.text"
 msgid "Exponential Function"
 msgstr "Funció exponencial"
 
+#. eGBZ
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_D.RID_LOGX.toolboxitem.text
 msgid "Logarithm"
 msgstr "Logaritme"
 
+#. Dkgm
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_D.RID_RSUPX.toolboxitem.text
 msgid "Power"
 msgstr "Potència"
 
+#. PEUr
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_D.RID_SINX.toolboxitem.text
 msgid "Sine"
 msgstr "Sinus"
 
+#. _k2H
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_D.RID_COSX.toolboxitem.text
 msgid "Cosine"
 msgstr "Cosinus"
 
+#. x35n
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_D.RID_TANX.toolboxitem.text
 msgid "Tangent"
 msgstr "Tangent"
 
+#. Tm9H
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_D.RID_COTX.toolboxitem.text
 msgid "Cotangent"
 msgstr "Cotangent"
 
+#. KglA
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_D.RID_SQRTX.toolboxitem.text
 msgid "Square Root"
 msgstr "Arrel quadrada"
 
+#. qUzp
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_D.RID_ARCSINX.toolboxitem.text
 msgid "Arcsine"
 msgstr "Arc sinus"
 
+#. I#XN
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_D.RID_ARCCOSX.toolboxitem.text
 msgid "Arccosine"
 msgstr "Arc cosinus"
 
+#. MJct
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_D.RID_ARCTANX.toolboxitem.text
 msgid "Arctangent"
 msgstr "Arc tangent"
 
+#. mWgN
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_D.RID_ARCCOTX.toolboxitem.text
 msgid "Arccotangent"
 msgstr "Arc cotangent"
 
+#. Xta_
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_D.RID_NROOTXY.toolboxitem.text
 msgid "N-th Root"
 msgstr "Arrel enèsima"
 
+#. Vt4t
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_D.RID_SINHX.toolboxitem.text
 msgid "Hyperbolic Sine"
 msgstr "Sinus hiperbòlic"
 
+#. 9u2P
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_D.RID_COSHX.toolboxitem.text
 msgid "Hyperbolic Cosine"
 msgstr "Cosinus hiperbòlic"
 
+#. js2B
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_D.RID_TANHX.toolboxitem.text
 msgid "Hyperbolic Tangent"
 msgstr "Tangent hiperbòlica"
 
+#. 9muq
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_D.RID_COTHX.toolboxitem.text
 msgid "Hyperbolic Cotangent"
 msgstr "Cotangent hiperbòlica"
 
+#. RHxw
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_D.RID_ABSX.toolboxitem.text
 msgid "Absolute Value"
 msgstr "Valor absolut"
 
+#. 485u
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_D.RID_ARSINHX.toolboxitem.text
 msgid "Area Hyperbolic Sine"
 msgstr "Arc sinus hiperbòlic"
 
+#. I73M
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_D.RID_ARCOSHX.toolboxitem.text
 msgid "Area Hyperbolic Cosine"
 msgstr "Arc cosinus hiperbòlic"
 
+#. s934
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_D.RID_ARTANHX.toolboxitem.text
 msgid "Area Hyperbolic Tangent"
 msgstr "Arc tangent hiperbòlica"
 
+#. IFvx
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_D.RID_ARCOTHX.toolboxitem.text
 msgid "Area Hyperbolic Cotangent"
 msgstr "Arc cotangent hiperbòlica"
 
+#. zISj
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_D.RID_FACTX.toolboxitem.text
 msgid "Factorial"
 msgstr "Factorial"
 
+#. NNSb
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_E.RID_LIMX.toolboxitem.text
 msgid "Limes"
 msgstr "Límits"
 
+#. 7lWf
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_E.RID_SUMX.toolboxitem.text
 msgid "Sum"
 msgstr "Suma"
 
+#. 2zni
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_E.RID_PRODX.toolboxitem.text
 msgid "Product"
 msgstr "Producte"
 
+#. zore
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_E.RID_COPRODX.toolboxitem.text
 msgid "Coproduct"
 msgstr "Coproducte"
 
+#. FbTv
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_E.RID_FROMXTOY.toolboxitem.text
 msgid "Upper And Lower Limit"
 msgstr "Límits superior i inferior"
 
+#. T2Dv
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_E.RID_INTX.toolboxitem.text
 msgid "Integral"
 msgstr "Integral"
 
+#. O9g3
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_E.RID_IINTX.toolboxitem.text
 msgid "Double Integral"
 msgstr "Integral doble"
 
+#. pRGS
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_E.RID_IIINTX.toolboxitem.text
 msgid "Triple Integral"
 msgstr "Integral triple"
 
+#. hyGd
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_E.RID_FROMX.toolboxitem.text
 msgid "Lower Limit"
 msgstr "Límit inferior"
 
+#. W2l_
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_E.RID_LINTX.toolboxitem.text
 msgid "Curve Integral"
 msgstr "Integral de línia"
 
+#. TSDC
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_E.RID_LLINTX.toolboxitem.text
 msgid "Double Curve Integral"
 msgstr "Integral de línia doble"
 
+#. #oJX
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_E.RID_LLLINTX.toolboxitem.text
 msgid "Triple Curve Integral"
 msgstr "Integral de línia triple"
 
+#. UHfo
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_E.RID_TOX.toolboxitem.text
 msgid "Upper Limit"
 msgstr "Límit superior"
 
+#. Xeeg
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_F.RID_ACUTEX.toolboxitem.text
 msgid "Acute Accent"
 msgstr "Accent agut"
 
+#. 49Dh
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_F.RID_GRAVEX.toolboxitem.text
 msgid "Grave Accent"
 msgstr "Accent greu"
 
+#. 9Me5
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_F.RID_CHECKX.toolboxitem.text
 msgid "Reverse Circumflex"
 msgstr "Circumflex invers"
 
+#. cCsh
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_F.RID_BREVEX.toolboxitem.text
 msgid "Breve"
 msgstr "Breu"
 
+#. SJ4M
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_F.RID_CIRCLEX.toolboxitem.text
 msgid "Circle"
 msgstr "Cercle"
 
+#. jSR8
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_F.RID_VECX.toolboxitem.text
 msgid "Vector Arrow"
 msgstr "Fletxa vectorial"
 
+#. yjLV
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_F.RID_TILDEX.toolboxitem.text
 msgid "Tilde"
 msgstr "Titlla"
 
+#. l9#c
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_F.RID_HATX.toolboxitem.text
 msgid "Circumflex"
 msgstr "Circumflex"
 
+#. TBdp
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_F.RID_BARX.toolboxitem.text
 msgid "Line Above"
 msgstr "Línia superior"
 
+#. p3l8
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_F.RID_DOTX.toolboxitem.text
 msgid "Dot"
 msgstr "Punt"
 
+#. FP9_
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_F.RID_WIDEVECX.toolboxitem.text
 msgid "Large Vector Arrow"
 msgstr "Fletxa vectorial llarga"
 
+#. w_UP
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_F.RID_WIDETILDEX.toolboxitem.text
 msgid "Large Tilde"
 msgstr "Titlla gran"
 
+#. DCiH
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_F.RID_WIDEHATX.toolboxitem.text
 msgid "Large Circumflex"
 msgstr "Circumflex gran"
 
+#. l_Rn
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_F.RID_DDOTX.toolboxitem.text
 msgid "Double Dot"
 msgstr "Punt doble"
 
+#. dsM#
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_F.RID_OVERLINEX.toolboxitem.text
 msgid "Line Over"
 msgstr "Línia a sobre"
 
+#. SYcD
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_F.RID_UNDERLINEX.toolboxitem.text
 msgid "Line Below"
 msgstr "Línia a sota"
 
+#. f0h5
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_F.RID_OVERSTRIKEX.toolboxitem.text
 msgid "Line Through"
 msgstr "Línia a través"
 
+#. db#C
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_F.RID_DDDOTX.toolboxitem.text
 msgid "Triple Dot"
 msgstr "Punt triple"
 
+#. sPdD
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_F.RID_PHANTOMX.toolboxitem.text
 msgid "Transparent"
 msgstr "Transparent"
 
+#. hv3j
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_F.RID_BOLDX.toolboxitem.text
 msgid "Bold Font"
 msgstr "Lletra negreta"
 
+#. vK1h
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_F.RID_ITALX.toolboxitem.text
 msgid "Italic Font"
 msgstr "Lletra cursiva"
 
+#. 7ywl
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_F.RID_SIZEXY.toolboxitem.text
 msgid "Resize"
 msgstr "Canvia la mida"
 
+#. nojM
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_F.RID_FONTXY.toolboxitem.text
 msgid "Change Font"
 msgstr "Canvia el tipus de lletra"
 
+#. AXxL
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_G.RID_LRPARENTX.toolboxitem.text
 msgid "Round Brackets"
 msgstr "Parèntesis"
 
+#. Jgkx
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_G.RID_LRBRACKETX.toolboxitem.text
 msgid "Square Brackets"
 msgstr "Claudàtors"
 
+#. sAjP
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_G.RID_LRDBRACKETX.toolboxitem.text
 msgid "Double Square Brackets"
 msgstr "Claudàtors dobles"
 
+#. dIYY
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_G.RID_LRLINEX.toolboxitem.text
 msgid "Single Lines"
 msgstr "Línies simples"
 
+#. aMIu
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_G.RID_LRDLINEX.toolboxitem.text
 msgid "Double Lines"
 msgstr "Línies dobles"
 
+#. vOd0
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_G.RID_LRBRACEX.toolboxitem.text
 msgid "Braces"
 msgstr "Claus"
 
+#. Py8B
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_G.RID_LRANGLEX.toolboxitem.text
 msgid "Angle Brackets"
 msgstr "Parèntesis angulars"
 
+#. ERzz
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_G.RID_LMRANGLEXY.toolboxitem.text
 msgid "Operator Brackets"
 msgstr "Claudàtors d'operador"
 
+#. Fd8h
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_G.RID_LRGROUPX.toolboxitem.text
 msgid "Group Brackets"
 msgstr "Claudàtors d'agrupament"
 
+#. VVE2
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_G.RID_SLRPARENTX.toolboxitem.text
 msgid "Round Brackets (Scalable)"
 msgstr "Parèntesis (dimensionables)"
 
+#. cpsK
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_G.RID_SLRBRACKETX.toolboxitem.text
 msgid "Square Brackets (Scalable)"
 msgstr "Claudàtors (dimensionables)"
 
+#. HHbh
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_G.RID_SLRDBRACKETX.toolboxitem.text
 msgid "Double Square Brackets (Scalable)"
 msgstr "Claudàtors dobles (dimensionables)"
 
+#. s1fH
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_G.RID_SLRLINEX.toolboxitem.text
 msgid "Single Lines (Scalable)"
 msgstr "Línies simples (dimensionables)"
 
+#. ASNJ
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_G.RID_SLRDLINEX.toolboxitem.text
 msgid "Double Lines (Scalable)"
 msgstr "Línies dobles (dimensionables)"
 
+#. NIYh
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_G.RID_SLRBRACEX.toolboxitem.text
 msgid "Braces (Scalable)"
 msgstr "Claus (dimensionables)"
 
+#. tsDW
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_G.RID_SLRANGLEX.toolboxitem.text
 msgid "Angle Brackets (Scalable)"
 msgstr "Parèntesis angulars (dimensionables)"
 
+#. x2bI
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_G.RID_SLMRANGLEXY.toolboxitem.text
 msgid "Operator Brackets (Scalable)"
 msgstr "Claudàtors d'operador (dimensionables)"
 
+#. 9BnG
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_G.RID_XOVERBRACEY.toolboxitem.text
 msgid "Braces Top (Scalable)"
 msgstr "Claus a la part superior (dimensionables)"
 
+#. LELt
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_G.RID_XUNDERBRACEY.toolboxitem.text
 msgid "Braces Bottom (Scalable)"
 msgstr "Claus a la part inferior (dimensionables)"
 
+#. VtOm
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_H.RID_LSUPX.toolboxitem.text
 msgid "Superscript Left"
 msgstr "Superíndex a l'esquerra"
 
+#. iOpL
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_H.RID_CSUPX.toolboxitem.text
 msgid "Superscript Top"
 msgstr "Superíndex a sobre"
 
+#. 2RhQ
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_H.RID_RSUPX.toolboxitem.text
 msgid "Superscript Right"
 msgstr "Superíndex a la dreta"
 
+#. onf5
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_H.RID_BINOMXY.toolboxitem.text
 msgid "Vertical Stack (2 Elements)"
 msgstr "Pila vertical (2 elements)"
 
+#. Qvfo
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_H.RID_NEWLINE.toolboxitem.text
-msgctxt "toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_H.RID_NEWLINE.toolboxitem.text"
+msgctxt ""
+"toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_H.RID_NEWLINE.toolboxitem.text"
 msgid "New Line"
 msgstr "Línia nova"
 
+#. JmZm
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_H.RID_LSUBX.toolboxitem.text
 msgid "Subscript Left"
 msgstr "Subíndex a l'esquerra"
 
+#. WV8L
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_H.RID_CSUBX.toolboxitem.text
 msgid "Subscript Bottom"
 msgstr "Subíndex a sota"
 
+#. ESGQ
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_H.RID_RSUBX.toolboxitem.text
 msgid "Subscript Right"
 msgstr "Subíndex a la dreta"
 
+#. WsFx
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_H.RID_STACK.toolboxitem.text
 msgid "Vertical Stack"
 msgstr "Pila vertical"
 
+#. 0VsT
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_H.RID_SBLANK.toolboxitem.text
-msgctxt "toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_H.RID_SBLANK.toolboxitem.text"
+msgctxt ""
+"toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_H.RID_SBLANK.toolboxitem.text"
 msgid "Small Gap"
 msgstr "Espai petit"
 
+#. FjkU
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_H.RID_ALIGNLX.toolboxitem.text
 msgid "Align Left"
 msgstr "Alineació a l'esquerra"
 
+#. o8Pb
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_H.RID_ALIGNCX.toolboxitem.text
 msgid "Align Center"
 msgstr "Alineació al centre"
 
+#. ELb8
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_H.RID_ALIGNRX.toolboxitem.text
 msgid "Align Right"
 msgstr "Alineació a la dreta"
 
+#. pJuX
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_H.RID_MATRIX.toolboxitem.text
 msgid "Matrix Stack"
 msgstr "Matriu"
 
+#. q15n
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_H.RID_BLANK.toolboxitem.text
-msgctxt "toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_H.RID_BLANK.toolboxitem.text"
+msgctxt ""
+"toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_H.RID_BLANK.toolboxitem.text"
 msgid "Gap"
 msgstr "Espai"
 
+#. tCI2
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_I.RID_INFINITY.toolboxitem.text
-msgctxt "toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_I.RID_INFINITY.toolboxitem.text"
+msgctxt ""
+"toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_I.RID_INFINITY.toolboxitem.text"
 msgid "infinite"
 msgstr "infinit"
 
+#. WHLb
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_I.RID_PARTIAL.toolboxitem.text
 msgid "Partial"
 msgstr "Parcial"
 
+#. rs1y
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_I.RID_EXISTS.toolboxitem.text
 msgid "There Exists"
 msgstr "Existeix"
 
+#. yJAd
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_I.RID_NOTEXISTS.toolboxitem.text
 msgid "There Not Exists"
 msgstr "No existeix"
 
+#. ujJe
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_I.RID_FORALL.toolboxitem.text
 msgid "For All"
 msgstr "Per a tots"
 
+#. K8wB
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_I.RID_HBAR.toolboxitem.text
 msgid "h Bar"
 msgstr "h barrada"
 
+#. 8nrt
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_I.RID_LAMBDABAR.toolboxitem.text
 msgid "Lambda Bar"
 msgstr "Lambda barrada"
 
+#. aFB3
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_I.RID_RE.toolboxitem.text
 msgid "Real Part"
 msgstr "Part real"
 
+#. sPAJ
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_I.RID_IM.toolboxitem.text
 msgid "Imaginary Part"
 msgstr "Part imaginària"
 
+#. qn##
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_I.RID_WP.toolboxitem.text
 msgid "Weierstrass p"
 msgstr "p de Weierstrass"
 
+#. 3xe6
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_I.RID_LEFTARROW.toolboxitem.text
 msgid "Left Arrow"
 msgstr "Fletxa esquerra"
 
+#. jgiY
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_I.RID_RIGHTARROW.toolboxitem.text
 msgid "Right Arrow"
 msgstr "Fletxa dreta"
 
+#. TW_d
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_I.RID_UPARROW.toolboxitem.text
 msgid "Up Arrow"
 msgstr "Fletxa amunt"
 
+#. TglW
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_I.RID_DOWNARROW.toolboxitem.text
 msgid "Down Arrow"
 msgstr "Fletxa avall"
 
+#. q83K
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_I.RID_NABLA.toolboxitem.text
 msgid "Nabla"
 msgstr "Nabla"
 
+#. xo5y
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_I.RID_DOTSLOW.toolboxitem.text
 msgid "Dots At Bottom"
 msgstr "Punts per sota"
 
+#. AO8m
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_I.RID_DOTSAXIS.toolboxitem.text
 msgid "Dots In Middle"
 msgstr "Punts al mig"
 
+#. Ccbe
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_I.RID_DOTSVERT.toolboxitem.text
 msgid "Dots Vertically"
 msgstr "Punts en vertical"
 
+#. bve_
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_I.RID_DOTSUP.toolboxitem.text
 msgid "Dots To Top"
 msgstr "Punts cap amunt"
 
+#. uLBT
 #: toolbox.src#RID_TOOLBOXWINDOW.TOOLBOX_CAT_I.RID_DOTSDOWN.toolboxitem.text
 msgid "Dots to Bottom"
 msgstr "Punts cap avall"
 
+#. ZmnL
 #: toolbox.src#RID_TOOLBOXWINDOW.floatingwindow.text
 msgid "Elements"
 msgstr "Elements"
 
+#. vVar
 #: commands.src#RID_COMMANDMENU.RID_UNBINOPS_MENU.menuitem.text
 msgid "~Unary/Binary Operators"
 msgstr "~Operadors unaris i binaris"
 
+#. w0ai
 #: commands.src#RID_COMMANDMENU.RID_RELATIONS_MENU.menuitem.text
 msgid "~Relations"
 msgstr "~Relacions"
 
+#. zSzU
 #: commands.src#RID_COMMANDMENU.RID_SETOPERATIONS_MENU.menuitem.text
 msgid "~Set Operations"
 msgstr "~Operacions amb conjunts"
 
+#. qWZe
 #: commands.src#RID_COMMANDMENU.RID_FUNCTIONS_MENU.RID_FUNCTIONSOTHER1_MENU.menuitem.text
 msgid "More"
 msgstr "Més"
 
+#. NHig
 #: commands.src#RID_COMMANDMENU.RID_FUNCTIONS_MENU.menuitem.text
 msgctxt "commands.src#RID_COMMANDMENU.RID_FUNCTIONS_MENU.menuitem.text"
 msgid "~Functions"
 msgstr "~Funcions"
 
+#. lql6
 #: commands.src#RID_COMMANDMENU.RID_OPERATORS_MENU.menuitem.text
 msgid "O~perators"
 msgstr "O~peradors"
 
+#. JMYD
 #: commands.src#RID_COMMANDMENU.RID_ATTRIBUTES_MENU.menuitem.text
 msgid "~Attributes"
 msgstr "~Atributs"
 
+#. v4Cd
 #: commands.src#RID_COMMANDMENU.RID_BRACKETS_MENU.menuitem.text
 msgid "~Brackets"
 msgstr "~Claudàtors"
 
+#. 2DuW
 #: commands.src#RID_COMMANDMENU.RID_FORMAT_MENU.RID_NEWLINE.menuitem.text
-msgctxt "commands.src#RID_COMMANDMENU.RID_FORMAT_MENU.RID_NEWLINE.menuitem.text"
+msgctxt ""
+"commands.src#RID_COMMANDMENU.RID_FORMAT_MENU.RID_NEWLINE.menuitem.text"
 msgid "New Line"
 msgstr "Línia nova"
 
+#. DeSa
 #: commands.src#RID_COMMANDMENU.RID_FORMAT_MENU.RID_SBLANK.menuitem.text
 msgctxt "commands.src#RID_COMMANDMENU.RID_FORMAT_MENU.RID_SBLANK.menuitem.text"
 msgid "Small Gap"
 msgstr "Separació petita"
 
+#. WW7M
 #: commands.src#RID_COMMANDMENU.RID_FORMAT_MENU.RID_BLANK.menuitem.text
 msgctxt "commands.src#RID_COMMANDMENU.RID_FORMAT_MENU.RID_BLANK.menuitem.text"
 msgid "Gap"
 msgstr "Separació"
 
+#. AKj5
 #: commands.src#RID_COMMANDMENU.RID_FORMAT_MENU.RID_NOSPACE.menuitem.text
 msgid "nospace {...}"
 msgstr "sense espai {...}"
 
+#. KYsV
 #: commands.src#RID_COMMANDMENU.RID_FORMAT_MENU.menuitem.text
 msgid "For~mats"
 msgstr "For~mats"
 
+#. IQ0K
 #: commands.src#RID_COMMANDMENU.RID_MISC_MENU.menuitem.text
 msgid "~Others"
 msgstr "~Altres"
 
+#. 1UTt
 #: symbol.src#RID_UI_SYMBOLSET_NAMES.1.itemlist.text
 msgid "Greek"
 msgstr "Grec"
 
+#. WmnF
 #: symbol.src#RID_UI_SYMBOLSET_NAMES.2.itemlist.text
 msgid "Special"
 msgstr "Especial"
 
+#. 2yrG
 #: symbol.src#RID_UI_SYMBOL_NAMES.1.itemlist.text
 msgid "alpha"
 msgstr "alfa"
 
+#. ZIPe
 #: symbol.src#RID_UI_SYMBOL_NAMES.2.itemlist.text
 msgid "ALPHA"
 msgstr "ALFA"
 
+#. LcUV
 #: symbol.src#RID_UI_SYMBOL_NAMES.3.itemlist.text
 msgid "beta"
 msgstr "beta"
 
+#. Qyau
 #: symbol.src#RID_UI_SYMBOL_NAMES.4.itemlist.text
 msgid "BETA"
 msgstr "BETA"
 
+#. i8ZF
 #: symbol.src#RID_UI_SYMBOL_NAMES.5.itemlist.text
 msgid "gamma"
 msgstr "gamma"
 
+#. DcFt
 #: symbol.src#RID_UI_SYMBOL_NAMES.6.itemlist.text
 msgid "GAMMA"
 msgstr "GAMMA"
 
+#. xI80
 #: symbol.src#RID_UI_SYMBOL_NAMES.7.itemlist.text
 msgid "delta"
 msgstr "delta"
 
+#. eXVP
 #: symbol.src#RID_UI_SYMBOL_NAMES.8.itemlist.text
 msgid "DELTA"
 msgstr "DELTA"
 
+#. ULOk
 #: symbol.src#RID_UI_SYMBOL_NAMES.9.itemlist.text
 msgid "epsilon"
 msgstr "èpsilon"
 
+#. Lixi
 #: symbol.src#RID_UI_SYMBOL_NAMES.10.itemlist.text
 msgid "EPSILON"
 msgstr "ÈPSILON"
 
+#. ZOyR
 #: symbol.src#RID_UI_SYMBOL_NAMES.11.itemlist.text
 msgid "zeta"
 msgstr "zeta"
 
+#. 2sGZ
 #: symbol.src#RID_UI_SYMBOL_NAMES.12.itemlist.text
 msgid "ZETA"
 msgstr "ZETA"
 
+#. q2NK
 #: symbol.src#RID_UI_SYMBOL_NAMES.13.itemlist.text
 msgid "eta"
 msgstr "eta"
 
+#. xOjp
 #: symbol.src#RID_UI_SYMBOL_NAMES.14.itemlist.text
 msgid "ETA"
 msgstr "ETA"
 
+#. Dig4
 #: symbol.src#RID_UI_SYMBOL_NAMES.15.itemlist.text
 msgid "theta"
 msgstr "theta"
 
+#. i26y
 #: symbol.src#RID_UI_SYMBOL_NAMES.16.itemlist.text
 msgid "THETA"
 msgstr "THETA"
 
+#. Qs1B
 #: symbol.src#RID_UI_SYMBOL_NAMES.17.itemlist.text
 msgid "iota"
 msgstr "iota"
 
+#. 95MI
 #: symbol.src#RID_UI_SYMBOL_NAMES.18.itemlist.text
 msgid "IOTA"
 msgstr "IOTA"
 
+#. _nHb
 #: symbol.src#RID_UI_SYMBOL_NAMES.19.itemlist.text
 msgid "kappa"
 msgstr "kappa"
 
+#. 7gFr
 #: symbol.src#RID_UI_SYMBOL_NAMES.20.itemlist.text
 msgid "KAPPA"
 msgstr "KAPPA"
 
+#. nU82
 #: symbol.src#RID_UI_SYMBOL_NAMES.21.itemlist.text
 msgid "lambda"
 msgstr "lambda"
 
+#. Gmaw
 #: symbol.src#RID_UI_SYMBOL_NAMES.22.itemlist.text
 msgid "LAMBDA"
 msgstr "LAMBDA"
 
+#. c4ZD
 #: symbol.src#RID_UI_SYMBOL_NAMES.23.itemlist.text
 msgid "mu"
 msgstr "mi"
 
+#. fUPg
 #: symbol.src#RID_UI_SYMBOL_NAMES.24.itemlist.text
 msgid "MU"
 msgstr "MI"
 
+#. VgUT
 #: symbol.src#RID_UI_SYMBOL_NAMES.25.itemlist.text
 msgid "nu"
 msgstr "ni"
 
+#. #4ob
 #: symbol.src#RID_UI_SYMBOL_NAMES.26.itemlist.text
 msgid "NU"
 msgstr "NI"
 
+#. 8mrI
 #: symbol.src#RID_UI_SYMBOL_NAMES.27.itemlist.text
 msgid "xi"
 msgstr "xi"
 
+#. R3YB
 #: symbol.src#RID_UI_SYMBOL_NAMES.28.itemlist.text
 msgid "XI"
 msgstr "XI"
 
+#. jtby
 #: symbol.src#RID_UI_SYMBOL_NAMES.29.itemlist.text
 msgid "omicron"
 msgstr "òmicron"
 
+#. W60T
 #: symbol.src#RID_UI_SYMBOL_NAMES.30.itemlist.text
 msgid "OMICRON"
 msgstr "ÒMICRON"
 
+#. Mo7g
 #: symbol.src#RID_UI_SYMBOL_NAMES.31.itemlist.text
 msgid "pi"
 msgstr "pi"
 
+#. tShI
 #: symbol.src#RID_UI_SYMBOL_NAMES.32.itemlist.text
 msgid "PI"
 msgstr "PI"
 
+#. 1eib
 #: symbol.src#RID_UI_SYMBOL_NAMES.33.itemlist.text
 msgid "rho"
 msgstr "rho"
 
+#. EoM2
 #: symbol.src#RID_UI_SYMBOL_NAMES.34.itemlist.text
 msgid "RHO"
 msgstr "RHO"
 
+#. u6Hr
 #: symbol.src#RID_UI_SYMBOL_NAMES.35.itemlist.text
 msgid "sigma"
 msgstr "sigma"
 
+#. PezD
 #: symbol.src#RID_UI_SYMBOL_NAMES.36.itemlist.text
 msgid "SIGMA"
 msgstr "SIGMA"
 
+#. lSww
 #: symbol.src#RID_UI_SYMBOL_NAMES.37.itemlist.text
 msgid "tau"
 msgstr "tau"
 
+#. yljZ
 #: symbol.src#RID_UI_SYMBOL_NAMES.38.itemlist.text
 msgid "TAU"
 msgstr "TAU"
 
+#. ARgK
 #: symbol.src#RID_UI_SYMBOL_NAMES.39.itemlist.text
 msgid "upsilon"
 msgstr "ípsilon"
 
+#. Zcd6
 #: symbol.src#RID_UI_SYMBOL_NAMES.40.itemlist.text
 msgid "UPSILON"
 msgstr "ÍPSILON"
 
+#. LIWn
 #: symbol.src#RID_UI_SYMBOL_NAMES.41.itemlist.text
 msgid "phi"
 msgstr "fi"
 
+#. qyC9
 #: symbol.src#RID_UI_SYMBOL_NAMES.42.itemlist.text
 msgid "PHI"
 msgstr "FI"
 
+#. 28B#
 #: symbol.src#RID_UI_SYMBOL_NAMES.43.itemlist.text
 msgid "chi"
 msgstr "Khi"
 
+#. DInP
 #: symbol.src#RID_UI_SYMBOL_NAMES.44.itemlist.text
 msgid "CHI"
 msgstr "KHI"
 
+#. xcsk
 #: symbol.src#RID_UI_SYMBOL_NAMES.45.itemlist.text
 msgid "psi"
 msgstr "psi"
 
+#. Q8QM
 #: symbol.src#RID_UI_SYMBOL_NAMES.46.itemlist.text
 msgid "PSI"
 msgstr "PSI"
 
+#. iyTX
 #: symbol.src#RID_UI_SYMBOL_NAMES.47.itemlist.text
 msgid "omega"
 msgstr "omega"
 
+#. _FAu
 #: symbol.src#RID_UI_SYMBOL_NAMES.48.itemlist.text
 msgid "OMEGA"
 msgstr "OMEGA"
 
+#. 9xDF
 #: symbol.src#RID_UI_SYMBOL_NAMES.49.itemlist.text
 msgid "varepsilon"
 msgstr "varèpsilon"
 
+#. 4Aek
 #: symbol.src#RID_UI_SYMBOL_NAMES.50.itemlist.text
 msgid "vartheta"
 msgstr "vartheta"
 
+#. o#lP
 #: symbol.src#RID_UI_SYMBOL_NAMES.51.itemlist.text
 msgid "varpi"
 msgstr "varpi"
 
+#. JG3X
 #: symbol.src#RID_UI_SYMBOL_NAMES.52.itemlist.text
 msgid "varrho"
 msgstr "varrho"
 
+#. ba4M
 #: symbol.src#RID_UI_SYMBOL_NAMES.53.itemlist.text
 msgid "varsigma"
 msgstr "varsigma"
 
+#. g##n
 #: symbol.src#RID_UI_SYMBOL_NAMES.54.itemlist.text
 msgid "varphi"
 msgstr "varfi"
 
+#. SAv6
 #: symbol.src#RID_UI_SYMBOL_NAMES.55.itemlist.text
 msgid "element"
 msgstr "Element"
 
+#. zaL#
 #: symbol.src#RID_UI_SYMBOL_NAMES.56.itemlist.text
 msgid "noelement"
 msgstr "No és element"
 
+#. BGI9
 #: symbol.src#RID_UI_SYMBOL_NAMES.57.itemlist.text
 msgid "strictlylessthan"
 msgstr "Estrictament menor que"
 
+#. OZ5G
 #: symbol.src#RID_UI_SYMBOL_NAMES.58.itemlist.text
 msgid "strictlygreaterthan"
 msgstr "Estrictament major que"
 
+#. kN2d
 #: symbol.src#RID_UI_SYMBOL_NAMES.59.itemlist.text
 msgid "notequal"
 msgstr "No és igual"
 
+#. MCSt
 #: symbol.src#RID_UI_SYMBOL_NAMES.60.itemlist.text
 msgid "identical"
 msgstr "Idèntic"
 
+#. WuR0
 #: symbol.src#RID_UI_SYMBOL_NAMES.61.itemlist.text
 msgid "tendto"
 msgstr "Tendeix a"
 
+#. 1Mtu
 #: symbol.src#RID_UI_SYMBOL_NAMES.62.itemlist.text
 msgctxt "symbol.src#RID_UI_SYMBOL_NAMES.62.itemlist.text"
 msgid "infinite"
 msgstr "Infinit"
 
+#. tYmF
 #: symbol.src#RID_UI_SYMBOL_NAMES.63.itemlist.text
 msgid "angle"
 msgstr "Angle"
 
+#. uuAe
 #: symbol.src#RID_UI_SYMBOL_NAMES.64.itemlist.text
 msgid "perthousand"
 msgstr "Per mil"
 
+#. ECDV
 #: symbol.src#RID_UI_SYMBOL_NAMES.65.itemlist.text
 msgid "and"
 msgstr "I"
 
+#. lYXd
 #: symbol.src#RID_UI_SYMBOL_NAMES.66.itemlist.text
 msgid "or"
 msgstr "O"

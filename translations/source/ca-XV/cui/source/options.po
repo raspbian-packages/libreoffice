@@ -2,12 +2,14 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+cui%2Fsource%2Foptions.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment="
+"&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%"
+"3A+cui%2Fsource%2Foptions.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
-"PO-Revision-Date: 2012-03-10 10:22+0200\n"
-"Last-Translator: PauGNU <pau@somgnu.cat>\n"
+"PO-Revision-Date: 2012-04-19 09:43+0200\n"
+"Last-Translator: Joan <joan@montane.cat>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ca_XV\n"
+"Language: ca-XV\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -15,71 +17,95 @@ msgstr ""
 "X-Generator: Pootle 2.1.6\n"
 "X-Accelerator-Marker: ~\n"
 
+#. I4RE
 #: optgenrl.src#RID_SFXPAGE_GENERAL.FT_COMPANY.fixedtext.text
 msgid "~Company"
 msgstr "~Empresa"
 
+#. 9U9z
 #: optgenrl.src#RID_SFXPAGE_GENERAL.FT_NAME.fixedtext.text
 msgid "First/Last ~name/Initials"
 msgstr "~Nom/Cognoms/Inicials"
 
+#. CpZJ
 #: optgenrl.src#RID_SFXPAGE_GENERAL.FT_NAME_RUSS.fixedtext.text
 msgid "Last Name/First name/Father's name/Initials"
 msgstr "Cognoms/~Nom/Nom del pare/Inicials"
 
+#. 6NPm
 #: optgenrl.src#RID_SFXPAGE_GENERAL.FT_NAME_EASTERN.fixedtext.text
 msgid "Last/First ~name/Initials"
 msgstr "Cognoms/~Nom/Inicials"
 
+#. Gd8g
 #: optgenrl.src#RID_SFXPAGE_GENERAL.FT_STREET.fixedtext.text
 msgid "~Street"
 msgstr "~Carrer"
 
+#. M1dp
 #: optgenrl.src#RID_SFXPAGE_GENERAL.FT_STREET_RUSS.fixedtext.text
 msgid "Street/Apartment number"
 msgstr "Carrer/Número"
 
+#. pNIl
 #: optgenrl.src#RID_SFXPAGE_GENERAL.FT_CITY.fixedtext.text
 msgid "Zip/City"
 msgstr "Codi postal/Població"
 
+#. E3sQ
 #: optgenrl.src#RID_SFXPAGE_GENERAL.FT_COUNTRY.fixedtext.text
 msgid "Country/Region"
 msgstr "País/Regió"
 
+#. HGmB
 #: optgenrl.src#RID_SFXPAGE_GENERAL.FT_TITLEPOS.fixedtext.text
 msgid "~Title/Position"
 msgstr "~Títol/Càrrec"
 
+#. bSig
 #: optgenrl.src#RID_SFXPAGE_GENERAL.FT_PHONE.fixedtext.text
 msgid "Tel. (Home/Work)"
 msgstr "Tel. (particular/faena)"
 
+#. iZZV
 #: optgenrl.src#RID_SFXPAGE_GENERAL.FT_FAXMAIL.fixedtext.text
 msgid "Fa~x / E-mail"
 msgstr "Fa~x / Correu electrònic"
 
+#. ldDq
 #: optgenrl.src#RID_SFXPAGE_GENERAL.GB_ADDRESS.fixedline.text
 msgid "Address "
 msgstr "Adreça "
 
+#. oOOX
 #: optgenrl.src#RID_SFXPAGE_GENERAL.CB_USEDATA.checkbox.text
 msgid "Use data for document properties"
 msgstr "Utilitza les dades per a les propietats del document"
 
+#. uzjt
 #: optgenrl.src#RID_SFXPAGE_GENERAL.STR_US_STATE.string.text
 msgid "City/State/Zip"
 msgstr "Població/Estat/Codi postal"
 
+#. zuwW
 #: optgenrl.src#RID_SFXPAGE_GENERAL.STR_QUERY_REG.string.text
-msgid "Note that street, Zip code and city are used to generate the registration key. You will not be able to change the user data again until the registration has been carried out. Do you want to modify the user data now?"
-msgstr "Tingueu en compte que el carrer, el codi postal i la població s'utilitzen per generar la clau de registre. No podreu tornar a canviar les dades de l'usuari fins que el registre s'haja efectuat correctament. Voleu canviar ara les dades de l'usuari?"
+msgid ""
+"Note that street, Zip code and city are used to generate the registration "
+"key. You will not be able to change the user data again until the "
+"registration has been carried out. Do you want to modify the user data now?"
+msgstr ""
+"Tingueu en compte que el carrer, el codi postal i la població s'utilitzen "
+"per generar la clau de registre. No podreu tornar a canviar les dades de "
+"l'usuari fins que el registre s'haja efectuat correctament. Voleu canviar "
+"ara les dades de l'usuari?"
 
+#. DDhs
 #: optgenrl.src#RID_SFXPAGE_GENERAL.tabpage.text
 msgctxt "optgenrl.src#RID_SFXPAGE_GENERAL.tabpage.text"
 msgid "User Data"
 msgstr "Dades de l'usuari"
 
+#. iOxd
 #: optgenrl.src#RID_SVXQB_CHANGEDATA.querybox.text
 msgid ""
 "The User Data have been changed.\n"
@@ -89,346 +115,459 @@ msgid ""
 "Do you really want to change your User Data?"
 msgstr ""
 "Les dades de l'usuari han canviat.\n"
-"Tingueu en compte que, si continueu, la clau de registre quedarà invalidada.\n"
+"Tingueu en compte que, si continueu, la clau de registre quedarà "
+"invalidada.\n"
 "Per tant, cal una nova clau de registre abans de 30 dies.\n"
 "Trobareu el formulari de registre al menú Ajuda - Registre...\n"
 "Segur que voleu canviar les dades de l'usuari?"
 
+#. Njvi
 #: securityoptions.src#RID_SVXDLG_SECURITY_OPTIONS.FL_WARNINGS.fixedline.text
 msgid "Security warnings"
 msgstr "Avisos de seguretat"
 
+#. M3Wv
 #: securityoptions.src#RID_SVXDLG_SECURITY_OPTIONS.FI_WARNINGS.fixedtext.text
-msgid "Warn if document contains recorded changes, versions, hidden information or notes:"
-msgstr "Avisa si el document conté canvis enregistrats, versions, informació oculta o notes:"
+msgid ""
+"Warn if document contains recorded changes, versions, hidden information or "
+"notes:"
+msgstr ""
+"Avisa si el document conté canvis enregistrats, versions, informació oculta "
+"o notes:"
 
+#. _YEl
 #: securityoptions.src#RID_SVXDLG_SECURITY_OPTIONS.CB_SAVESENDDOCS.checkbox.text
 msgid "When saving or sending"
 msgstr "En alçar o enviar"
 
+#. eA0c
 #: securityoptions.src#RID_SVXDLG_SECURITY_OPTIONS.CB_SIGNDOCS.checkbox.text
 msgid "When signing"
 msgstr "En signar"
 
+#. jbMJ
 #: securityoptions.src#RID_SVXDLG_SECURITY_OPTIONS.CB_PRINTDOCS.checkbox.text
 msgid "When printing"
 msgstr "En imprimir"
 
+#. 73p4
 #: securityoptions.src#RID_SVXDLG_SECURITY_OPTIONS.CB_CREATEPDF.checkbox.text
 msgid "When creating PDF files"
 msgstr "En crear fitxers PDF"
 
+#. qxiE
 #: securityoptions.src#RID_SVXDLG_SECURITY_OPTIONS.FL_OPTIONS.fixedline.text
 msgid "Security options"
 msgstr "Opcions de seguretat"
 
+#. pM5v
 #: securityoptions.src#RID_SVXDLG_SECURITY_OPTIONS.CB_REMOVEINFO.checkbox.text
 msgid "Remove personal information on saving"
 msgstr "Suprimeix la informació personal en alçar"
 
+#. U9B8
 #: securityoptions.src#RID_SVXDLG_SECURITY_OPTIONS.CB_RECOMMENDPWD.checkbox.text
 msgid "Recommend password protection on saving"
 msgstr "Recomana la protecció amb contrasenya en alçar"
 
+#. iUyQ
 #: securityoptions.src#RID_SVXDLG_SECURITY_OPTIONS.CB_CTRLHYPERLINK.checkbox.text
 msgid "Ctrl-click required to follow hyperlinks"
 msgstr "Requereix Ctrl+clic per seguir els enllaços"
 
+#. YZKf
 #: securityoptions.src#RID_SVXDLG_SECURITY_OPTIONS.modaldialog.text
 msgctxt "securityoptions.src#RID_SVXDLG_SECURITY_OPTIONS.modaldialog.text"
 msgid "Security options and warnings"
 msgstr "Opcions i avisos de seguretat"
 
+#. cyvJ
 #: optsave.src#TEXT_SAVEPAGE.#define.text
 msgctxt "optsave.src#TEXT_SAVEPAGE.#define.text"
 msgid "Save"
 msgstr "Alça"
 
+#. RbxH
 #: optsave.src#RID_SFXPAGE_SAVE.LB_LOAD.fixedline.text
 msgid "Load"
 msgstr "Carrega"
 
+#. x_9_
 #: optsave.src#RID_SFXPAGE_SAVE.CB_LOAD_SETTINGS.checkbox.text
 msgid "Load user-specific settings with the document"
 msgstr "Carrega els paràmetres específics de l'usuari amb el document"
 
+#. 8SBx
 #: optsave.src#RID_SFXPAGE_SAVE.CB_LOAD_DOCPRINTER.checkbox.text
 msgid "Load printer settings with the document"
 msgstr "Carrega els paràmetres de la impressora amb el document"
 
+#. ILaM
 #: optsave.src#RID_SFXPAGE_SAVE.GB_SAVE.fixedline.text
 msgctxt "optsave.src#RID_SFXPAGE_SAVE.GB_SAVE.fixedline.text"
 msgid "Save"
 msgstr "Alça"
 
+#. HYmY
 #: optsave.src#RID_SFXPAGE_SAVE.BTN_DOCINFO.checkbox.text
 msgid "~Edit document properties before saving"
 msgstr "~Edita les propietats del document abans d'alçar-lo"
 
+#. UO7t
 #: optsave.src#RID_SFXPAGE_SAVE.BTN_BACKUP.checkbox.text
 msgid "Al~ways create backup copy"
 msgstr "Fes sempre una ~còpia de seguretat"
 
+#. lNhq
 #: optsave.src#RID_SFXPAGE_SAVE.BTN_AUTOSAVE.checkbox.text
 msgid "Save ~AutoRecovery information every"
 msgstr "Alça la informació de restabliment automàtic cada"
 
+#. Ytq#
 #: optsave.src#RID_SFXPAGE_SAVE.FT_MINUTE.fixedtext.text
 msgid "Minutes"
 msgstr "minuts"
 
+#. mtLU
 #: optsave.src#RID_SFXPAGE_SAVE.BTN_RELATIVE_FSYS.checkbox.text
 msgid "Save URLs relative to file system"
 msgstr "Alça els URL relatius al sistema de fitxers"
 
+#. MBUF
 #: optsave.src#RID_SFXPAGE_SAVE.BTN_RELATIVE_INET.checkbox.text
 msgid "Save URLs relative to internet"
 msgstr "Alça els URL relatius a Internet"
 
+#. ySlD
 #: optsave.src#RID_SFXPAGE_SAVE.FL_FILTER.fixedline.text
 msgid "Default file format and ODF settings"
 msgstr "Format de fitxer per defecte i paràmetres ODF"
 
+#. zXpq
 #: optsave.src#RID_SFXPAGE_SAVE.FT_ODF_VERSION.fixedtext.text
 msgid "ODF format version"
 msgstr "Versió de format ODF"
 
+#. ZpVi
 #: optsave.src#RID_SFXPAGE_SAVE.LB_ODF_VERSION.1.stringlist.text
 msgid "1.0/1.1"
 msgstr "1.0/1.1"
 
+#. FFcU
 #: optsave.src#RID_SFXPAGE_SAVE.LB_ODF_VERSION.2.stringlist.text
 msgid "1.2"
 msgstr "1.2"
 
+#. 2Ajl
 #: optsave.src#RID_SFXPAGE_SAVE.LB_ODF_VERSION.3.stringlist.text
 msgid "1.2 Extended (recommended)"
 msgstr "1.2 Ampliat (recomanat)"
 
+#. ERmi
 #: optsave.src#RID_SFXPAGE_SAVE.BTN_NOPRETTYPRINTING.checkbox.text
 msgid "Size optimization for ODF format"
 msgstr "Optimització de la mida per al format ODF"
 
+#. 0EjV
 #: optsave.src#RID_SFXPAGE_SAVE.BTN_WARNALIENFORMAT.checkbox.text
 msgid "Warn when not saving in ODF or default format"
 msgstr "Avisa quan no s'alce en ODF o en el format per defecte"
 
+#. u#ll
 #: optsave.src#RID_SFXPAGE_SAVE.FT_APP.fixedtext.text
 msgid "D~ocument type"
 msgstr "Tipus de d~ocument"
 
+#. ADOo
 #: optsave.src#RID_SFXPAGE_SAVE.FT_FILTER.fixedtext.text
 msgid "Always sa~ve as"
-msgstr "Sempreal~ça com a"
+msgstr "Sempre al~ça com a"
 
+#. gl#I
 #: optsave.src#RID_SFXPAGE_SAVE.LB_APP.1.stringlist.text
 msgid "Text document"
 msgstr "Document de text"
 
+#. 6J7W
 #: optsave.src#RID_SFXPAGE_SAVE.LB_APP.2.stringlist.text
 msgid "HTML document"
 msgstr "Document HTML"
 
+#. BMCH
 #: optsave.src#RID_SFXPAGE_SAVE.LB_APP.3.stringlist.text
 msgid "Master document"
 msgstr "Document mestre"
 
+#. bPGa
 #: optsave.src#RID_SFXPAGE_SAVE.LB_APP.4.stringlist.text
 msgctxt "optsave.src#RID_SFXPAGE_SAVE.LB_APP.4.stringlist.text"
 msgid "Spreadsheet"
 msgstr "Full de càlcul"
 
+#. eSRL
 #: optsave.src#RID_SFXPAGE_SAVE.LB_APP.5.stringlist.text
 msgid "Presentation"
 msgstr "Presentació"
 
+#. 4WYd
 #: optsave.src#RID_SFXPAGE_SAVE.LB_APP.6.stringlist.text
 msgid "Drawing"
 msgstr "Dibuix"
 
+#. 9bfM
 #: optsave.src#RID_SFXPAGE_SAVE.LB_APP.7.stringlist.text
 msgctxt "optsave.src#RID_SFXPAGE_SAVE.LB_APP.7.stringlist.text"
 msgid "Formula"
 msgstr "Fórmula"
 
+# 98%
+#. fSDb
 #: optsave.src#RID_SFXPAGE_SAVE.FT_WARN.fixedtext.text
 msgid "Not using ODF 1.2 Extended may cause information to be lost."
-msgstr "El fet de no utilitzar ODF 1.2 Ampliat pot provocar la pèrdua d'informació."
+msgstr ""
+"El fet de no utilitzar ODF 1.2 Ampliat pot provocar la pèrdua d'informació."
 
+#. ILZs
 #: optsave.src#RID_SVXDLG_FILTER_WARNING.FT_FILTER_WARNING.fixedtext.text
 msgid "Using \"%1\" as default file format may cause information loss.\n"
-msgstr "Utilitzar \"%1\" com a format de document per defecte pot causar pèrdua d'informació.\n"
+msgstr ""
+"Utilitzar \"%1\" com a format de document per defecte pot causar pèrdua "
+"d'informació.\n"
 
+#. 1Ohx
 #: readonlyimage.src#RID_SVXSTR_READONLY_CONFIG_TIP.string.text
 msgid "This setting is protected by the Administrator"
 msgstr "Este paràmetre està protegit per l'Administrador"
 
+#. 2Mnd
 #: optinet2.src#RID_SVXPAGE_INET_MOZPLUGIN.GB_MOZPLUGIN.fixedline.text
 msgctxt "optinet2.src#RID_SVXPAGE_INET_MOZPLUGIN.GB_MOZPLUGIN.fixedline.text"
 msgid "Browser Plug-in"
 msgstr "Connector per al navegador"
 
+#. gjCu
 #: optinet2.src#RID_SVXPAGE_INET_MOZPLUGIN.CB_MOZPLUGIN_CODE.checkbox.text
 msgid "~Display documents in browser"
 msgstr "Visualitza els ~documents al navegador"
 
+#. #tV1
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.GB_SETTINGS.fixedline.text
 msgctxt "optinet2.src#RID_SVXPAGE_INET_PROXY.GB_SETTINGS.fixedline.text"
 msgid "Settings"
 msgstr "Paràmetres"
 
+#. PZrA
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.FT_PROXYMODE.fixedtext.text
 msgid "Proxy s~erver"
 msgstr "S~ervidor intermediari"
 
+#. WR9w
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.LB_PROXYMODE.1.stringlist.text
 msgid "None"
 msgstr "Cap"
 
+#. Cdm8
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.LB_PROXYMODE.2.stringlist.text
 msgctxt "optinet2.src#RID_SVXPAGE_INET_PROXY.LB_PROXYMODE.2.stringlist.text"
 msgid "System"
 msgstr "Sistema"
 
+#. 1Yxv
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.LB_PROXYMODE.3.stringlist.text
 msgid "Manual"
 msgstr "Manual"
 
+#. fF8D
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.ST_PROXY_FROM_BROWSER.string.text
 msgid "Use browser settings"
 msgstr "Utilitza els paràmetres del navegador"
 
+#. 5#SA
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.FT_HTTP_PROXY.fixedtext.text
 msgid "HT~TP proxy"
 msgstr "Servidor intermediari HT~TP"
 
+#. TbWK
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.FT_HTTP_PORT.fixedtext.text
 msgid "~Port"
 msgstr "~Port"
 
+#. H6hK
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.FT_HTTPS_PROXY.fixedtext.text
 msgid "HTTP~S proxy"
 msgstr "Servidor intermediari HTTP~S"
 
+#. hMYo
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.FT_HTTPS_PORT.fixedtext.text
 msgctxt "optinet2.src#RID_SVXPAGE_INET_PROXY.FT_HTTPS_PORT.fixedtext.text"
 msgid "P~ort"
 msgstr "P~ort"
 
+#. paVJ
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.FT_FTP_PROXY.fixedtext.text
 msgid "~FTP proxy"
 msgstr "Servidor intermediari ~FTP"
 
+#. nIzy
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.FT_FTP_PORT.fixedtext.text
 msgctxt "optinet2.src#RID_SVXPAGE_INET_PROXY.FT_FTP_PORT.fixedtext.text"
 msgid "P~ort"
 msgstr "P~ort"
 
+#. GDOU
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.FT_SOCKS_PROXY.fixedtext.text
 msgid "~SOCKS proxy"
 msgstr "Servidor intermediari ~SOCKS"
 
+#. Z6EN
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.FT_SOCKS_PORT.fixedtext.text
 msgid "Po~rt"
 msgstr "Po~rt"
 
+#. PF#O
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.FT_NOPROXYFOR.fixedtext.text
 msgid "~No proxy for:"
 msgstr "~Sense servidor intermediari per a:"
 
+#. muoA
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.ED_NOPROXYDESC.fixedtext.text
 msgid "Separator ;"
 msgstr "Separador ;"
 
+#. rQZR
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.GB_DNS.fixedline.text
 msgid "DNS server"
 msgstr "Servidor DNS"
 
+#. y1CS
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.RB_DNS_AUTO.radiobutton.text
 msgid "~Automatic"
 msgstr "~Automàtic"
 
+#. wR_J
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.RB_DNS_MANUAL.radiobutton.text
 msgid "~Manual"
 msgstr "~Manual"
 
+#. Ad97
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.ST_MSG_255_0.string.text
-msgid "is not a valid entry for this field. Please specify a value between 0 and 255."
-msgstr "no és una entrada vàlida per este camp. Escriviu un valor entre 0 i 255."
+msgid ""
+"is not a valid entry for this field. Please specify a value between 0 and "
+"255."
+msgstr ""
+"no és una entrada vàlida per este camp. Escriviu un valor entre 0 i 255."
 
+#. Tq7U
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.ST_MSG_255_1.string.text
-msgid "is not a valid entry for this field. Please specify a value between 1 and 255."
-msgstr "no és una entrada vàlida per este camp. Escriviu un valor entre 1 i 255."
+msgid ""
+"is not a valid entry for this field. Please specify a value between 1 and "
+"255."
+msgstr ""
+"no és una entrada vàlida per este camp. Escriviu un valor entre 1 i 255."
 
+#. lbYS
 #: optinet2.src#RID_SVXPAGE_INET_PROXY.tabpage.text
 msgctxt "optinet2.src#RID_SVXPAGE_INET_PROXY.tabpage.text"
 msgid "Proxy"
 msgstr "Servidor intermediari"
 
+#. L#Fc
 #: optinet2.src#RID_SVXPAGE_INET_SECURITY.FL_SEC_SECURITYOPTIONS.fixedline.text
-msgctxt "optinet2.src#RID_SVXPAGE_INET_SECURITY.FL_SEC_SECURITYOPTIONS.fixedline.text"
+msgctxt ""
+"optinet2.src#RID_SVXPAGE_INET_SECURITY.FL_SEC_SECURITYOPTIONS.fixedline.text"
 msgid "Security options and warnings"
 msgstr "Opcions i avisos de seguretat"
 
+#. jB2F
 #: optinet2.src#RID_SVXPAGE_INET_SECURITY.FI_SEC_SECURITYOPTIONS.fixedtext.text
-msgid "Adjust security related options and define warnings for hidden information in documents."
-msgstr "Ajusteu opcions relacionades amb la seguretat i definiu avisos per a la informació amagada dels documents."
+msgid ""
+"Adjust security related options and define warnings for hidden information "
+"in documents."
+msgstr ""
+"Ajusteu opcions relacionades amb la seguretat i definiu avisos per a la "
+"informació amagada dels documents."
 
+#. Ukar
 #: optinet2.src#RID_SVXPAGE_INET_SECURITY.PB_SEC_SECURITYOPTIONS.pushbutton.text
 msgid "Options..."
 msgstr "Opcions..."
 
+#. m_lN
 #: optinet2.src#RID_SVXPAGE_INET_SECURITY.FL_SEC_PASSWORDS.fixedline.text
 msgid "Passwords for web connections"
 msgstr "Contrasenyes per a connexions web"
 
+#. Dn55
 #: optinet2.src#RID_SVXPAGE_INET_SECURITY.CB_SEC_SAVEPASSWORDS.checkbox.text
 msgid "Persistently save passwords for web connections"
 msgstr "Alça permanentment les contrasenyes de les connexions web"
 
+#. wb8v
 #: optinet2.src#RID_SVXPAGE_INET_SECURITY.PB_SEC_CONNECTIONS.pushbutton.text
 msgid "Connections..."
 msgstr "Connexions..."
 
+#. unIa
 #: optinet2.src#RID_SVXPAGE_INET_SECURITY.CB_SEC_MASTERPASSWORD.checkbox.text
 msgid "Protected by a master password (recommended)"
 msgstr "Protegides amb una contrasenya mestra (recomanat)"
 
+#. PSA8
 #: optinet2.src#RID_SVXPAGE_INET_SECURITY.FI_SEC_MASTERPASSWORD.fixedtext.text
-msgid "Passwords are protected by a master password. You will be asked to enter it once per session, if %PRODUCTNAME retrieves a password from the protected password list."
-msgstr "Les contrasenyes estan protegides amb una contrasenya mestra. Se vos demanarà que la introduïu un cop per sessió, en cas que el %PRODUCTNAME recuperi una contrasenya de la llista de contrasenyes protegides."
+msgid ""
+"Passwords are protected by a master password. You will be asked to enter it "
+"once per session, if %PRODUCTNAME retrieves a password from the protected "
+"password list."
+msgstr ""
+"Les contrasenyes estan protegides amb una contrasenya mestra. Se vos demanarà "
+"que la introduïu un cop per sessió, en cas que el %PRODUCTNAME recuperi una "
+"contrasenya de la llista de contrasenyes protegides."
 
+#. 5OUf
 #: optinet2.src#RID_SVXPAGE_INET_SECURITY.PB_SEC_MASTERPASSWORD.pushbutton.text
 msgid "Master Password..."
 msgstr "Contrasenya mestra..."
 
+#. 7tjV
 #: optinet2.src#RID_SVXPAGE_INET_SECURITY.FL_SEC_MACROSEC.fixedline.text
 msgid "Macro security"
 msgstr "Seguretat de macros"
 
+#. PPO5
 #: optinet2.src#RID_SVXPAGE_INET_SECURITY.FI_SEC_MACROSEC.fixedtext.text
-msgid "Adjust the security level for executing macros and specify trusted macro developers."
-msgstr "Ajusteu el nivell de seguretat per macros en execució i especifiqueu desenvolupadors de macros fiables."
+msgid ""
+"Adjust the security level for executing macros and specify trusted macro "
+"developers."
+msgstr ""
+"Ajusteu el nivell de seguretat per macros en execució i especifiqueu "
+"desenvolupadors de macros fiables."
 
+#. 5jDz
 #: optinet2.src#RID_SVXPAGE_INET_SECURITY.PB_SEC_MACROSEC.pushbutton.text
 msgid "Macro Security..."
 msgstr "Seguretat de macros..."
 
+#. ibV#
 #: optinet2.src#RID_SVXPAGE_INET_SECURITY.STR_SEC_NOPASSWDSAVE.string.text
 msgid ""
-"Disabling the function to persistently store passwords deletes the list of passwords stored and resets the master password.\n"
+"Disabling the function to persistently store passwords deletes the list of "
+"passwords stored and resets the master password.\n"
 "\n"
 "Do you want to delete password list and reset master password?"
 msgstr ""
-"Si inhabiliteu l'emmagatzematge permanent de contrasenyes, se suprimirà la llista de contrasenyes alçades i es reinicialitzarà la contrasenya mestra.\n"
+"Si inhabiliteu l'emmagatzematge permanent de contrasenyes, se suprimirà la "
+"llista de contrasenyes alçades i es reinicialitzarà la contrasenya mestra.\n"
 "\n"
-"Voleu suprimir la llista de contrasenyes i reinicialitzar la contrasenya mestra?"
+"Voleu suprimir la llista de contrasenyes i reinicialitzar la contrasenya "
+"mestra?"
 
+#. ulc_
 #: optinet2.src#RID_SVXPAGE_INET_SECURITY.tabpage.text
 msgctxt "optinet2.src#RID_SVXPAGE_INET_SECURITY.tabpage.text"
 msgid "Security"
 msgstr "Seguretat"
 
+#. lPmD
 #: optinet2.src#RID_SVXERR_OPT_PROXYPORTS.errorbox.text
 msgid ""
 "Invalid value!\n"
@@ -439,6 +578,7 @@ msgstr ""
 "\n"
 "El valor màxim per a un número de port és 65535."
 
+#. H#ql
 #: optinet2.src#RID_SVXDLG_OPT_JAVASCRIPT_DISABLE.FT_JSCPT_WARNING.fixedtext.text
 msgid ""
 "Please note that with Java\n"
@@ -451,140 +591,175 @@ msgstr ""
 "\n"
 "Encara voleu inhabilitar el Java?"
 
+#. YCdF
 #: optinet2.src#RID_SVXDLG_OPT_JAVASCRIPT_DISABLE.CB_JSCPT_DISABLE.checkbox.text
 msgid "~Don't show warning again"
 msgstr "~No tornes a mostrar l'advertiment"
 
+#. jJBx
 #: optinet2.src#RID_SVXPAGE_INET_MAIL.FL_MAIL.fixedline.text
 msgid "Sending documents as e-mail attachments"
 msgstr "S'estan enviant documents com a fitxers adjunts"
 
+#. R_kk
 #: optinet2.src#RID_SVXPAGE_INET_MAIL.FT_MAILERURL.fixedtext.text
 msgid "~E-mail program"
 msgstr "Programa d~e correu"
 
+#. Dj5U
 #: optinet2.src#RID_SVXPAGE_INET_MAIL.STR_DEFAULT_FILENAME.string.text
 msgid "All files (*.*)"
 msgstr "Tots els fitxers (*.*)"
 
+#. VHih
 #: fontsubs.src#RID_SVX_FONT_SUBSTITUTION.CB_USETABLE.checkbox.text
 msgid "~Apply replacement table"
 msgstr "~Aplica la taula de reemplaçament"
 
+#. svkM
 #: fontsubs.src#RID_SVX_FONT_SUBSTITUTION.FT_FONT1.fixedtext.text
 msgid "~Font"
 msgstr "~Tipus de lletra"
 
+#. a_QF
 #: fontsubs.src#RID_SVX_FONT_SUBSTITUTION.FT_FONT2.fixedtext.text
 msgid "Re~place with"
 msgstr "Reemplaça ~per"
 
+#. 2jdx
 #: fontsubs.src#RID_SVX_FONT_SUBSTITUTION.TBX_SUBSTNEWDEL.BT_SUBSTAPPLY.toolboxitem.text
 msgid "Apply"
 msgstr "Aplica"
 
+#. okVe
 #: fontsubs.src#RID_SVX_FONT_SUBSTITUTION.TBX_SUBSTNEWDEL.BT_SUBSTDELETE.toolboxitem.text
-msgctxt "fontsubs.src#RID_SVX_FONT_SUBSTITUTION.TBX_SUBSTNEWDEL.BT_SUBSTDELETE.toolboxitem.text"
+msgctxt ""
+"fontsubs.src#RID_SVX_FONT_SUBSTITUTION.TBX_SUBSTNEWDEL.BT_SUBSTDELETE."
+"toolboxitem.text"
 msgid "Delete"
 msgstr "Suprimeix"
 
+#. _mBe
 #: fontsubs.src#RID_SVX_FONT_SUBSTITUTION.FL_SOURCEVIEW.fixedline.text
 msgid "Font settings for HTML, Basic and SQL sources"
 msgstr "Configuració del tipus de lletra per a codi font en HTML, Basic i SQL"
 
+#. f5QD
 #: fontsubs.src#RID_SVX_FONT_SUBSTITUTION.FT_FONTNAME.fixedtext.text
 msgctxt "fontsubs.src#RID_SVX_FONT_SUBSTITUTION.FT_FONTNAME.fixedtext.text"
 msgid "Fonts"
 msgstr "Tipus de lletra"
 
+#. h34h
 #: fontsubs.src#RID_SVX_FONT_SUBSTITUTION.CB_NONPROP.checkbox.text
 msgid "Non-proportional fonts only"
 msgstr "Només tipus de lletra no proporcionals"
 
+#. y5el
 #: fontsubs.src#RID_SVX_FONT_SUBSTITUTION.FT_FONTHEIGHT.fixedtext.text
 msgid "~Size"
 msgstr "~Mida"
 
+#. uQnN
 #: fontsubs.src#RID_SVX_FONT_SUBSTITUTION.STR_HEADER1.string.text
 msgid "Always"
 msgstr "Sempre"
 
+#. 1lZy
 #: fontsubs.src#RID_SVX_FONT_SUBSTITUTION.STR_HEADER2.string.text
 msgid "Screen only"
 msgstr "Pantalla"
 
+#. Myjb
 #: fontsubs.src#RID_SVX_FONT_SUBSTITUTION.STR_HEADER3.string.text
 msgid "Font"
 msgstr "Tipus de lletra"
 
+#. 8tYB
 #: fontsubs.src#RID_SVX_FONT_SUBSTITUTION.STR_HEADER4.string.text
 msgid "Replace with"
 msgstr "Reemplaça per"
 
+#. 1apL
 #: fontsubs.src#RID_SVX_FONT_SUBSTITUTION.STR_AUTOMATIC.string.text
 msgctxt "fontsubs.src#RID_SVX_FONT_SUBSTITUTION.STR_AUTOMATIC.string.text"
 msgid "Automatic"
 msgstr "Automàtic"
 
+#. fNCf
 #: optdict.src#RID_SFXDLG_NEWDICT.FT_DICTNAME.fixedtext.text
 msgid "~Name"
 msgstr "~Nom"
 
+#. v3ey
 #: optdict.src#RID_SFXDLG_NEWDICT.FT_DICTLANG.fixedtext.text
 msgctxt "optdict.src#RID_SFXDLG_NEWDICT.FT_DICTLANG.fixedtext.text"
 msgid "~Language"
 msgstr "~Llengua"
 
+#. SCeu
 #: optdict.src#RID_SFXDLG_NEWDICT.BTN_EXCEPT.checkbox.text
 msgid "~Exception (-)"
 msgstr "~Excepció (-)"
 
+#. Xsdj
 #: optdict.src#RID_SFXDLG_NEWDICT.GB_NEWDICT.fixedline.text
 msgid "Dictionary"
 msgstr "Diccionari"
 
+#. GaeX
 #: optdict.src#RID_SFXDLG_NEWDICT.modaldialog.text
 msgid "New Dictionary"
 msgstr "Diccionari nou"
 
+#. do2L
 #: optdict.src#RID_SFXDLG_EDITDICT.FT_BOOK.fixedtext.text
 msgid "~Book"
 msgstr "~Llibre"
 
+#. WCTe
 #: optdict.src#RID_SFXDLG_EDITDICT.FT_DICTLANG.fixedtext.text
 msgctxt "optdict.src#RID_SFXDLG_EDITDICT.FT_DICTLANG.fixedtext.text"
 msgid "~Language"
 msgstr "~Llengua"
 
+#. hR0j
 #: optdict.src#RID_SFXDLG_EDITDICT.FT_WORD.fixedtext.text
 msgid "~Word"
 msgstr "~Paraula"
 
+#. xbPQ
 #: optdict.src#RID_SFXDLG_EDITDICT.FT_REPLACE.fixedtext.text
 msgid "Replace ~By:"
 msgstr "Reemplaça ~per:"
 
+#. 7nRO
 #: optdict.src#RID_SFXDLG_EDITDICT.PB_NEW_REPLACE.pushbutton.text
 msgid "~New"
 msgstr "~Nou"
 
+#. BL2d
 #: optdict.src#RID_SFXDLG_EDITDICT.PB_DELETE_REPLACE.pushbutton.text
 msgctxt "optdict.src#RID_SFXDLG_EDITDICT.PB_DELETE_REPLACE.pushbutton.text"
 msgid "~Delete"
 msgstr "~Suprimeix"
 
+#. q4h0
 #: optdict.src#RID_SFXDLG_EDITDICT.STR_MODIFY.string.text
 msgid "~Replace"
 msgstr "~Reemplaça"
 
+#. 9q87
 #: optdict.src#RID_SFXDLG_EDITDICT.BTN_EDITCLOSE.cancelbutton.text
 msgid "~Close"
 msgstr "~Tanca"
 
+#. fehb
 #: optdict.src#RID_SFXDLG_EDITDICT.modaldialog.text
 msgid "Edit Custom Dictionary"
 msgstr "Edita el diccionari personalitzat"
 
+#. PmfL
 #: optdict.src#RID_SVXSTR_OPT_DOUBLE_DICTS.string.text
 msgid ""
 "The specified name already exists.\n"
@@ -593,1009 +768,3035 @@ msgstr ""
 "El nom indicat ja existeix.\n"
 "Introduïu-ne un altre de nou."
 
+#. JfyD
 #: optdict.src#RID_SFXQB_SET_LANGUAGE.querybox.text
 msgid "Do you want to change the '%1' dictionary language?"
 msgstr "Voleu canviar la llengua del diccionari '%1'?"
 
+#. DdDQ
 #: opthtml.src#RID_OFAPAGE_HTMLOPT.FT_SIZE1.fixedtext.text
 msgid "Size ~1"
 msgstr "Mida ~1"
 
+#. VXv3
 #: opthtml.src#RID_OFAPAGE_HTMLOPT.FT_SIZE2.fixedtext.text
 msgid "Size ~2"
 msgstr "Mida ~2"
 
+#. uDsh
 #: opthtml.src#RID_OFAPAGE_HTMLOPT.FT_SIZE3.fixedtext.text
 msgid "Size ~3"
 msgstr "Mida ~3"
 
+#. xjHm
 #: opthtml.src#RID_OFAPAGE_HTMLOPT.FT_SIZE4.fixedtext.text
 msgid "Size ~4"
 msgstr "Mida ~4"
 
+#. S1UO
 #: opthtml.src#RID_OFAPAGE_HTMLOPT.FT_SIZE5.fixedtext.text
 msgid "Size ~5"
 msgstr "Mida ~5"
 
+#. E7g1
 #: opthtml.src#RID_OFAPAGE_HTMLOPT.FT_SIZE6.fixedtext.text
 msgid "Size ~6"
 msgstr "Mida ~6"
 
+#. fhbf
 #: opthtml.src#RID_OFAPAGE_HTMLOPT.FT_SIZE7.fixedtext.text
 msgid "Size ~7"
 msgstr "Mida ~7"
 
+#. KoyB
 #: opthtml.src#RID_OFAPAGE_HTMLOPT.GB_FONTSIZE.fixedline.text
 msgid "Font sizes"
 msgstr "Mides del tipus de lletra"
 
+#. jIFq
 #: opthtml.src#RID_OFAPAGE_HTMLOPT.GB_IMPORT.fixedline.text
 msgid "Import"
 msgstr "Importació"
 
+#. q7_a
 #: opthtml.src#RID_OFAPAGE_HTMLOPT.CB_NUMBERS_ENGLISH_US.checkbox.text
 msgid "~Use '%ENGLISHUSLOCALE' locale for numbers"
 msgstr "~Utilitza la configuració de l'%ENGLISHUSLOCALE per als nombres"
 
+#. AJg6
 #: opthtml.src#RID_OFAPAGE_HTMLOPT.CB_UNKNOWN_TAGS.checkbox.text
 msgid "~Import unknown HTML tags as fields"
 msgstr "~Importa les etiquetes HTML desconegudes com a camps"
 
+#. w7gb
 #: opthtml.src#RID_OFAPAGE_HTMLOPT.CB_IGNORE_FONTNAMES.checkbox.text
 msgid "Ignore ~font settings"
 msgstr "Ignora la con~figuració del tipus de lletra"
 
+#. yaXY
 #: opthtml.src#RID_OFAPAGE_HTMLOPT.GB_EXPORT.fixedline.text
 msgid "Export"
 msgstr "Exportació"
 
+#. 5ZKv
 #: opthtml.src#CB_STARBASIC_WARNING.checkbox.text
 msgid "Display ~warning"
 msgstr "Mostra un a~vís"
 
+#. 1sQP
 #: opthtml.src#CB_PRINT_EXTENSION.checkbox.text
 msgid "~Print layout"
 msgstr "~Format d'impressió"
 
+#. KppY
 #: opthtml.src#CB_LOCAL_GRF.checkbox.text
 msgid "~Copy local graphics to Internet"
 msgstr "~Copia els gràfics locals a Internet"
 
+#. akAD
 #: opthtml.src#FT_CHARSET.fixedtext.text
 msgid "Character set"
 msgstr "Joc de caràcters"
 
+#. 2b4D
 #: internationaloptions.src#RID_OFA_TP_INTERNATIONAL.FL_DEFTXTDIRECTION.fixedline.text
 msgid "Default text direction"
 msgstr "Direcció del text per defecte"
 
+#. ryWR
 #: internationaloptions.src#RID_OFA_TP_INTERNATIONAL.RB_TXTDIR_LEFT2RIGHT.radiobutton.text
 msgid "~Left-to-right"
 msgstr "D'~esquerra a dreta"
 
+#. 01OO
 #: internationaloptions.src#RID_OFA_TP_INTERNATIONAL.RB_TXTDIR_RIGHT2LEFT.radiobutton.text
 msgid "~Right-to-left"
 msgstr "De d~reta a esquerra"
 
+#. _Q3L
 #: internationaloptions.src#RID_OFA_TP_INTERNATIONAL.FL_SHEETVIEW.fixedline.text
 msgid "Sheet view"
 msgstr "Visualització en fulls"
 
+#. CkxW
 #: internationaloptions.src#RID_OFA_TP_INTERNATIONAL.CB_SHTVW_RIGHT2LEFT.checkbox.text
 msgid "Right-~to-left"
 msgstr "De dre~ta a esquerra"
 
+#. Lp##
 #: internationaloptions.src#RID_OFA_TP_INTERNATIONAL.CB_SHTVW_CURRENTDOCONLY.checkbox.text
 msgid "~Current document only"
 msgstr "~Només per a este document"
 
+#. EN7z
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.FL_COLORSCHEME.fixedline.text
 msgid "Color scheme"
 msgstr "Esquema de color"
 
+#. I82A
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.FT_COLORSCHEME.fixedtext.text
 msgid "Scheme"
 msgstr "Esquema"
 
+#. LTUB
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.PB_SAVESCHEME.pushbutton.text
 msgid "Save..."
 msgstr "Alça..."
 
+#. Pa3Z
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.PB_DELETESCHEME.pushbutton.text
 msgctxt "optcolor.src#RID_SVXPAGE_COLORCONFIG.PB_DELETESCHEME.pushbutton.text"
 msgid "Delete"
 msgstr "Suprimeix"
 
+#. i9Ye
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.FL_CUSTOMCOLORS.fixedline.text
 msgid "Custom colors"
 msgstr "Colors personalitzats"
 
+#. 5E22
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.ST_ON.string.text
 msgid "On"
 msgstr "Actiu"
 
+#. qN38
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.ST_UIELEM.string.text
 msgid "User interface elements"
 msgstr "Elements de la interfície de l'usuari"
 
+#. 5R3E
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.ST_COLSET.string.text
 msgid "Color setting"
 msgstr "Configuració de color"
 
+#. r_Ol
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.ST_PREVIEW.string.text
 msgid "Preview"
 msgstr "Previsualització"
 
+#. pz5v
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_GENERAL.fixedtext.text
-msgctxt "optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_GENERAL.fixedtext.text"
+msgctxt ""
+"optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_GENERAL."
+"fixedtext.text"
 msgid "General"
 msgstr "General"
 
+#. dt9J
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_DOCCOLOR.fixedtext.text
 msgid "Document background"
 msgstr "Fons del document"
 
+#. Mmv6
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.CB_DOCBOUND.checkbox.text
 msgid "Text boundaries"
 msgstr "Límits del text"
 
+#. 9MEX
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_APPBACKGROUND.fixedtext.text
 msgid "Application background"
 msgstr "Fons de l'aplicació"
 
+#. lF7Q
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.CB_OBJECTBOUNDARIES.checkbox.text
 msgid "Object boundaries"
 msgstr "Límits de l'objecte"
 
+#. jBGM
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.CB_TABLEBOUNDARIES.checkbox.text
 msgid "Table boundaries"
 msgstr "Marcs de taula"
 
+#. FXhi
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_FONTCOLOR.fixedtext.text
 msgid "Font color"
 msgstr "Color de la lletra"
 
+#. GvWj
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.CB_LINKS.checkbox.text
 msgid "Unvisited links"
 msgstr "Enllaços no visitats"
 
+#. sNuL
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.CB_LINKSVISITED.checkbox.text
 msgid "Visited links"
 msgstr "Enllaços visitats"
 
+#. UzoO
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_SPELL.fixedtext.text
 msgid "AutoSpellcheck"
 msgstr "Verificació ortogràfica automàtica"
 
+#. TsXh
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_SMARTTAGS.fixedtext.text
 msgid "Smart Tags"
 msgstr "Etiquetes intel·ligents"
 
+#. DE6l
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.CB_SHADOWCOLOR.checkbox.text
 msgid "Shadows"
 msgstr "Ombres"
 
+#. DI7L
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_WRITER.fixedtext.text
 msgid "Text Document"
 msgstr "Document de text"
 
+#. k7iS
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_WRITERTEXTGRID.fixedtext.text
-msgctxt "optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_WRITERTEXTGRID.fixedtext.text"
+msgctxt ""
+"optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL."
+"FT_WRITERTEXTGRID.fixedtext.text"
 msgid "Grid"
 msgstr "Graella"
 
+#. ORtr
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.CB_WRITERFIELDSHADINGS.checkbox.text
 msgid "Field shadings"
 msgstr "Ombreigs dels camps"
 
+#. _uWc
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.CB_WRITERIDXSHADINGS.checkbox.text
 msgid "Index and table shadings"
 msgstr "Ombreigs dels 'índexs i taules"
 
+#. H8vs
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_WRITERSCRIPTINDICATOR.fixedtext.text
 msgid "Script indicator"
 msgstr "Indicador d'script"
 
+#. gKjp
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.CB_WRITERSECTIONBOUNDARIES.checkbox.text
 msgid "Section boundaries"
 msgstr "Límits de secció"
 
+#. 4b9x
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_WRITERHEADERFOOTERMARK.fixedtext.text
 msgid "Headers and Footer delimiter"
 msgstr "Delimitador de capçaleres i peus de pàgina"
 
+#. Vjmn
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_WRITERPAGEBREAKS.fixedtext.text
 msgid "Page and column breaks"
 msgstr "Salts de pàgina i columna"
 
+#. sH6w
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_WRITERDIRECTCURSOR.fixedtext.text
 msgid "Direct cursor"
 msgstr "Cursor directe"
 
+#. tOoP
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_HTML.fixedtext.text
 msgid "HTML Document"
 msgstr "Document HTML"
 
+#. UVOQ
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_HTMLSGML.fixedtext.text
 msgid "SGML syntax highlighting"
 msgstr "Realçament de la sintaxi SGML"
 
+#. f51Q
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_HTMLCOMMENT.fixedtext.text
 msgid "Comment highlighting"
 msgstr "Realçament dels comentaris"
 
+#. XR75
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_HTMLKEYWORD.fixedtext.text
 msgid "Keyword highlighting"
 msgstr "Realçament de les paraules clau"
 
+#. 5Wem
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_HTMLUNKNOWN.fixedtext.text
 msgid "Text"
 msgstr "Text"
 
+#. FoQA
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_CALC.fixedtext.text
-msgctxt "optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_CALC.fixedtext.text"
+msgctxt ""
+"optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_CALC."
+"fixedtext.text"
 msgid "Spreadsheet"
 msgstr "Full de càlcul"
 
+#. 7NOg
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_CALCGRID.fixedtext.text
 msgid "Grid lines"
 msgstr "Línies de la graella"
 
+#. Znoa
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_CALCPAGEBREAK.fixedtext.text
 msgid "Page breaks"
 msgstr "Salts de pàgina"
 
+#. 7AC8
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_CALCPAGEBREAKMANUAL.fixedtext.text
 msgid "Manual page breaks"
 msgstr "Salts de pàgina manuals"
 
+#. ueS2
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_CALCPAGEBREAKAUTO.fixedtext.text
 msgid "Automatic page breaks"
 msgstr "Salts de pàgina automàtics"
 
+#. KKO8
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_CALCDETECTIVE.fixedtext.text
 msgid "Detective"
 msgstr "Detectiu"
 
+#. CcQ3
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_CALCDETECTIVEERROR.fixedtext.text
 msgid "Detective error"
 msgstr "Error detectiu"
 
+#. z2xg
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_CALCREFERENCE.fixedtext.text
 msgid "References"
 msgstr "Referències"
 
+#. _wR9
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_CALCNOTESBACKGROUND.fixedtext.text
 msgid "Notes background"
 msgstr "Fons de les notes"
 
+#. wahV
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_DRAW.fixedtext.text
 msgid "Drawing / Presentation"
 msgstr "Dibuix / Presentació"
 
+#. ofpZ
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_DRAWGRID.fixedtext.text
-msgctxt "optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_DRAWGRID.fixedtext.text"
+msgctxt ""
+"optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_DRAWGRID."
+"fixedtext.text"
 msgid "Grid"
 msgstr "Graella"
 
+#. TrOP
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_BASIC.fixedtext.text
 msgid "Basic Syntax Highlighting"
 msgstr "Realçament bàsic de la sintaxi"
 
+#. 6a#k
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_BASICIDENTIFIER.fixedtext.text
-msgctxt "optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_BASICIDENTIFIER.fixedtext.text"
+msgctxt ""
+"optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL."
+"FT_BASICIDENTIFIER.fixedtext.text"
 msgid "Identifier"
 msgstr "Identificador"
 
+#. AYtj
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_BASICCOMMENT.fixedtext.text
-msgctxt "optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_BASICCOMMENT.fixedtext.text"
+msgctxt ""
+"optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL."
+"FT_BASICCOMMENT.fixedtext.text"
 msgid "Comment"
 msgstr "Comentari"
 
+#. iCnM
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_BASICNUMBER.fixedtext.text
-msgctxt "optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_BASICNUMBER.fixedtext.text"
+msgctxt ""
+"optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_BASICNUMBER."
+"fixedtext.text"
 msgid "Number"
 msgstr "Nombre"
 
+#. Y4oU
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_BASICSTRING.fixedtext.text
-msgctxt "optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_BASICSTRING.fixedtext.text"
+msgctxt ""
+"optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_BASICSTRING."
+"fixedtext.text"
 msgid "String"
 msgstr "Cadena"
 
+#. TMes
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_BASICOPERATOR.fixedtext.text
-msgctxt "optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_BASICOPERATOR.fixedtext.text"
+msgctxt ""
+"optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL."
+"FT_BASICOPERATOR.fixedtext.text"
 msgid "Operator"
 msgstr "Operador"
 
+#. 2yno
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_BASICKEYWORD.fixedtext.text
 msgid "Reserved expression"
 msgstr "Expressió reservada"
 
+#. AOSE
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_BASICERROR.fixedtext.text
 msgid "Error"
 msgstr "Error"
 
+#. y2lE
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_SQL_COMMAND.fixedtext.text
 msgid "SQL Syntax Highlighting"
 msgstr "Realçament de la sintaxi SQL"
 
+#. rCv8
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_SQLIDENTIFIER.fixedtext.text
-msgctxt "optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_SQLIDENTIFIER.fixedtext.text"
+msgctxt ""
+"optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL."
+"FT_SQLIDENTIFIER.fixedtext.text"
 msgid "Identifier"
 msgstr "Identificador"
 
+#. B9Ei
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_SQLNUMBER.fixedtext.text
-msgctxt "optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_SQLNUMBER.fixedtext.text"
+msgctxt ""
+"optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_SQLNUMBER."
+"fixedtext.text"
 msgid "Number"
 msgstr "Nombre"
 
+#. 51Da
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_SQLSTRING.fixedtext.text
-msgctxt "optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_SQLSTRING.fixedtext.text"
+msgctxt ""
+"optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_SQLSTRING."
+"fixedtext.text"
 msgid "String"
 msgstr "Cadena"
 
+#. RqxQ
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_SQLOPERATOR.fixedtext.text
-msgctxt "optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_SQLOPERATOR.fixedtext.text"
+msgctxt ""
+"optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_SQLOPERATOR."
+"fixedtext.text"
 msgid "Operator"
 msgstr "Operador"
 
+#. ILLi
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_SQLKEYWORD.fixedtext.text
 msgid "Keyword"
 msgstr "Paraula clau"
 
+#. 0#V3
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_SQLPARAMETER.fixedtext.text
 msgid "Parameter"
 msgstr "Paràmetre"
 
+#. QBJp
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_SQLCOMMENT.fixedtext.text
-msgctxt "optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_SQLCOMMENT.fixedtext.text"
+msgctxt ""
+"optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.FT_SQLCOMMENT."
+"fixedtext.text"
 msgid "Comment"
 msgstr "Comentari"
 
+#. PsgI
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.ST_EXTENSION.string.text
 msgid "Colorsettings of the Extensions"
 msgstr "Configuració de color per a les extensions"
 
+#. fn6#
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.ST_SPELL_CHECK_HIGHLIGHTING.string.text
 msgid "Spell check highlighting"
 msgstr "Realçament de la comprovació ortogràfica"
 
+#. xydo
 #: optcolor.src#RID_SVXPAGE_COLORCONFIG.CT_COLORCONFIG.WN_SCROLL.ST_GRAMMAR_CHECK_HIGHLIGHTING.string.text
 msgid "Grammar check highlighting"
 msgstr "Realçament de la comprovació gramatical"
 
+#. rbbz
 #: optcolor.src#RID_SVXQB_DELETE_COLOR_CONFIG.querybox.text
 msgid "Do you really want to delete the color scheme?"
 msgstr "Esteu segur que voleu suprimir l'esquema de color?"
 
+#. #szX
 #: optcolor.src#RID_SVXSTR_COLOR_CONFIG_DELETE.string.text
 msgid "Color Scheme Deletion"
 msgstr "Supressió de l'esquema de color"
 
+#. tFYj
 #: optcolor.src#RID_SVXSTR_COLOR_CONFIG_SAVE1.string.text
 msgid "Save scheme"
 msgstr "Alça l'esquema"
 
+#. Ewm6
 #: optcolor.src#RID_SVXSTR_COLOR_CONFIG_SAVE2.string.text
 msgid "Name of color scheme"
 msgstr "Nom de l'esquema de color"
 
+#. S0I2
 #: optchart.src#RID_OPTPAGE_CHART_DEFCOLORS.FL_CHART_COLOR_LIST.fixedline.text
 msgid "Chart colors"
 msgstr "Colors del diagrama"
 
+#. CtWv
 #: optchart.src#RID_OPTPAGE_CHART_DEFCOLORS.FL_COLOR_BOX.fixedline.text
 msgid "Color table"
 msgstr "Taula de colors"
 
+#. aLtA
 #: optchart.src#RID_OPTPAGE_CHART_DEFCOLORS.PB_ADD_CHART_COLOR.pushbutton.text
 msgid "~Add"
 msgstr "~Afig"
 
+#. i2Gl
 #: optchart.src#RID_OPTPAGE_CHART_DEFCOLORS.PB_REMOVE_CHART_COLOR.pushbutton.text
-msgctxt "optchart.src#RID_OPTPAGE_CHART_DEFCOLORS.PB_REMOVE_CHART_COLOR.pushbutton.text"
+msgctxt ""
+"optchart.src#RID_OPTPAGE_CHART_DEFCOLORS.PB_REMOVE_CHART_COLOR.pushbutton."
+"text"
 msgid "~Remove"
 msgstr "Sup~rimeix"
 
+#. 1kdB
 #: optchart.src#RID_OPTPAGE_CHART_DEFCOLORS.PB_RESET_TO_DEFAULT.pushbutton.text
-msgctxt "optchart.src#RID_OPTPAGE_CHART_DEFCOLORS.PB_RESET_TO_DEFAULT.pushbutton.text"
+msgctxt ""
+"optchart.src#RID_OPTPAGE_CHART_DEFCOLORS.PB_RESET_TO_DEFAULT.pushbutton.text"
 msgid "~Default"
 msgstr "~Per defecte"
 
+#. fdFc
 #: optchart.src#RID_OPTPAGE_CHART_DEFCOLORS.tabpage.text
 msgctxt "optchart.src#RID_OPTPAGE_CHART_DEFCOLORS.tabpage.text"
 msgid "Default Colors"
 msgstr "Colors per defecte"
 
+#. nQlK
 #: optchart.src#RID_SVXSTR_DIAGRAM_ROW.string.text
 msgid "Data Series $(ROW)"
 msgstr "Sèrie de dades $(ROW)"
 
+#. 4#CW
 #: optchart.src#RID_OPTQB_COLOR_CHART_DELETE.querybox.text
 msgid "Do you really want to delete the chart color?"
 msgstr "Esteu segur que voleu suprimir la carta de colors?"
 
+#. 7z1W
 #: optchart.src#RID_OPTSTR_COLOR_CHART_DELETE.string.text
 msgid "Chart Color Deletion"
 msgstr "Supressió de la carta de colors"
 
+#. EKQ#
 #: optasian.src#RID_SVXPAGE_ASIAN_LAYOUT.GB_KERNING.fixedline.text
 msgid "Kerning"
 msgstr "Interlletratge"
 
+#. OI3J
 #: optasian.src#RID_SVXPAGE_ASIAN_LAYOUT.RB_CHAR_KERNING.radiobutton.text
 msgid "~Western characters only"
 msgstr "Només caràcters occidentals"
 
+#. tkpt
 #: optasian.src#RID_SVXPAGE_ASIAN_LAYOUT.RB_CHAR_PUNCT.radiobutton.text
 msgid "Western ~text and Asian punctuation"
 msgstr "~Text occidental i puntuació asiàtica"
 
+#. hmr5
 #: optasian.src#RID_SVXPAGE_ASIAN_LAYOUT.GB_CHAR_DIST.fixedline.text
 msgid "Character spacing"
 msgstr "Espaiat entre caràcters"
 
+#. FvxX
 #: optasian.src#RID_SVXPAGE_ASIAN_LAYOUT.RB_NO_COMP.radiobutton.text
 msgid "~No compression"
 msgstr "~Sense compressió"
 
+#. r9Mq
 #: optasian.src#RID_SVXPAGE_ASIAN_LAYOUT.RB_PUNCT_COMP.radiobutton.text
 msgid "~Compress punctuation only"
 msgstr "~Compacta només la puntuació"
 
+#. cdT2
 #: optasian.src#RID_SVXPAGE_ASIAN_LAYOUT.RB_PUNCT_KANA_COMP.radiobutton.text
 msgid "Compress ~punctuation and Japanese Kana"
 msgstr "Compacta la ~puntuació i el kana japonés"
 
+#. 7c#M
 #: optasian.src#RID_SVXPAGE_ASIAN_LAYOUT.GB_START_END.fixedline.text
 msgid "First and last characters"
 msgstr "Primer i darrer caràcters"
 
+#. zmuG
 #: optasian.src#RID_SVXPAGE_ASIAN_LAYOUT.FT_LANGUAGE.fixedtext.text
 msgctxt "optasian.src#RID_SVXPAGE_ASIAN_LAYOUT.FT_LANGUAGE.fixedtext.text"
 msgid "~Language"
 msgstr "~Llengua"
 
+#. QF9#
 #: optasian.src#RID_SVXPAGE_ASIAN_LAYOUT.CB_STANDARD.checkbox.text
 msgctxt "optasian.src#RID_SVXPAGE_ASIAN_LAYOUT.CB_STANDARD.checkbox.text"
 msgid "~Default"
 msgstr "~Per defecte"
 
+#. 2_Jd
 #: optasian.src#RID_SVXPAGE_ASIAN_LAYOUT.FT_START.fixedtext.text
 msgid "Not at start of line:"
 msgstr "No a l'inici de línia:"
 
+#. NJlj
 #: optasian.src#RID_SVXPAGE_ASIAN_LAYOUT.FT_END.fixedtext.text
 msgid "Not at end of line:"
 msgstr "No a la fi de línia:"
 
+#. lv9H
 #: optasian.src#RID_SVXPAGE_ASIAN_LAYOUT.FT_HINT.fixedtext.text
 msgid "Without user-defined line break symbols"
 msgstr "Sense caràcter de canvi de fila definit per l'usuari"
 
+#. GGdo
 #: optasian.src#RID_SVXPAGE_ASIAN_LAYOUT.tabpage.text
 msgctxt "optasian.src#RID_SVXPAGE_ASIAN_LAYOUT.tabpage.text"
 msgid "Proxy"
 msgstr "Servidor intermediari"
 
+#. 8UMf
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.PB_BACK.pushbutton.text
 msgid "~Revert"
 msgstr "~Reverteix"
 
+#. fyJm
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.ST_LOAD_ERROR.string.text
 msgid "The selected module could not be loaded."
 msgstr "No es pot carregar el mòdul seleccionat."
 
+#. p_1f
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.1.itemlist.text
-msgid "This dialog is used to define general settings when working with %PRODUCTNAME. Enter your personal data, the defaults to be used when saving documents, and paths to important files. These settings will be saved automatically and used in later sessions as well."
-msgstr "Este diàleg s'utilitza per definir els paràmetres generals quan es treballa amb el %PRODUCTNAME. Introduïu les vostres dades personals, els valors per defecte en alçar els documents i els camins als fitxers importants. Estos paràmetres s'alçaran automàticament i es faran servir en les properes sessions."
+msgid ""
+"This dialog is used to define general settings when working with %"
+"PRODUCTNAME. Enter your personal data, the defaults to be used when saving "
+"documents, and paths to important files. These settings will be saved "
+"automatically and used in later sessions as well."
+msgstr ""
+"Este diàleg s'utilitza per definir els paràmetres generals quan es "
+"treballa amb el %PRODUCTNAME. Introduïu les vostres dades personals, els "
+"valors per defecte en alçar els documents i els camins als fitxers "
+"importants. Estos paràmetres s'alçaran automàticament i es faran servir "
+"en les properes sessions."
 
+#. IHjH
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.2.itemlist.text
-msgid "This is where you make settings concerning language and writing aids for your work with %PRODUCTNAME."
-msgstr "Configureu ací la llengua i les ajudes a l'escriptura per treballar amb el %PRODUCTNAME."
+msgid ""
+"This is where you make settings concerning language and writing aids for "
+"your work with %PRODUCTNAME."
+msgstr ""
+"Configureu ací la llengua i les ajudes a l'escriptura per treballar amb el %"
+"PRODUCTNAME."
 
+#. abgc
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.3.itemlist.text
-msgid "This is where you configure %PRODUCTNAME for the Internet. You can save your proxy settings."
-msgstr "Configureu ací la connexió a Internet per al %PRODUCTNAME. Podeu definir els paràmetres del servidor intermediari."
+msgid ""
+"This is where you configure %PRODUCTNAME for the Internet. You can save your "
+"proxy settings."
+msgstr ""
+"Configureu ací la connexió a Internet per al %PRODUCTNAME. Podeu definir "
+"els paràmetres del servidor intermediari."
 
+#. h_G1
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.4.itemlist.text
-msgid "This is where you specify various settings for text documents. These settings determine how your text documents are handled in %PRODUCTNAME and are valid for all new %PRODUCTNAME Writer documents. You can also define a few settings for the active text document if you save it afterwards."
-msgstr "Configureu ací els diferents paràmetres dels documents de text. Estos paràmetres determinen com es gestionen els documents de text al %PRODUCTNAME i són vàlids per a tots els documents nous de %PRODUCTNAME Writer. Podeu definir alguns paràmetres per al document de text actiu si l'alceu més avant."
+msgid ""
+"This is where you specify various settings for text documents. These "
+"settings determine how your text documents are handled in %PRODUCTNAME and "
+"are valid for all new %PRODUCTNAME Writer documents. You can also define a "
+"few settings for the active text document if you save it afterwards."
+msgstr ""
+"Configureu ací els diferents paràmetres dels documents de text. Estos "
+"paràmetres determinen com es gestionen els documents de text al %PRODUCTNAME "
+"i són vàlids per a tots els documents nous del %PRODUCTNAME Writer. Podeu "
+"definir alguns paràmetres per al document de text actiu si l'alceu més "
+"avant."
 
+#. TBNs
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.5.itemlist.text
-msgid "This is where you define the basic settings for %PRODUCTNAME documents in HTML format. For example, you decide which contents should be displayed on the screen or printed, how the pages are scrolled on the screen, in which color keywords are highlighted in the source text and much more."
-msgstr "Configureu ací els paràmetres bàsics per als documents del %PRODUCTNAME en format HTML. Podeu decidir quin contingut s'ha de mostrar a la pantalla o s'ha d'imprimir, com es desplacen les pàgines per la pantalla, el color de les paraules clau realçades en el codi font, entre d'altres."
+msgid ""
+"This is where you define the basic settings for %PRODUCTNAME documents in "
+"HTML format. For example, you decide which contents should be displayed on "
+"the screen or printed, how the pages are scrolled on the screen, in which "
+"color keywords are highlighted in the source text and much more."
+msgstr ""
+"Configureu ací els paràmetres bàsics per als documents del %PRODUCTNAME en "
+"format HTML. Podeu decidir quin contingut s'ha de mostrar a la pantalla o "
+"s'ha d'imprimir, com es desplacen les pàgines per la pantalla, el color de "
+"les paraules clau realçades en el codi font, entre d'altres."
 
+#. ybxE
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.6.itemlist.text
-msgid "This is where you define various global settings for spreadsheets. For example, you can define which contents should be displayed and in which direction the cursor will move after you enter data in a cell. You also define sort lists, the number of the decimal places displayed, etc."
-msgstr "Configureu ací els paràmetres globals per als fulls de càlcul. Per exemple, podeu definir quin contingut s'ha de mostrar i en quina direcció es mourà el cursor després d'introduir dades en una cel·la. També podeu definir llistes d'ordenació, el nombre de llocs decimals que es mostren, etc."
+msgid ""
+"This is where you define various global settings for spreadsheets. For "
+"example, you can define which contents should be displayed and in which "
+"direction the cursor will move after you enter data in a cell. You also "
+"define sort lists, the number of the decimal places displayed, etc."
+msgstr ""
+"Configureu ací els paràmetres globals per als fulls de càlcul. Per exemple, "
+"podeu definir quin contingut s'ha de mostrar i en quina direcció es mourà el "
+"cursor després d'introduir dades en una cel·la. També podeu definir llistes "
+"d'ordenació, el nombre de llocs decimals que es mostren, etc."
 
+#. AHyv
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.7.itemlist.text
-msgid "This is where you define the settings that apply to all newly saved presentations. Among other things, you decide which contents are displayed on the slides, which default unit of measure is used, if and how grid alignment is used, and if notes and handouts are always printed."
-msgstr "Configureu ací els paràmetres que s'aplicaran a les presentacions noves. Entre d'altres, podeu definir quin contingut es mostra a les diapositives, la unitat de mesura per defecte, si s'ha de fer servir l'alineació en graella i com, i si s'han d'imprimir sempre els comentaris i les notes."
+msgid ""
+"This is where you define the settings that apply to all newly saved "
+"presentations. Among other things, you decide which contents are displayed "
+"on the slides, which default unit of measure is used, if and how grid "
+"alignment is used, and if notes and handouts are always printed."
+msgstr ""
+"Configureu ací els paràmetres que s'aplicaran a les presentacions noves. "
+"Entre d'altres, podeu definir quin contingut es mostra a les diapositives, "
+"la unitat de mesura per defecte, si s'ha de fer servir l'alineació en "
+"graella i com, i si s'han d'imprimir sempre els comentaris i les notes."
 
+#. PYhW
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.8.itemlist.text
-msgid "This is where you define the settings for drawing documents. Among other things, you determine which contents are displayed on the pages, which scale is used, if and how grid alignment is used, and which contents are printed by default."
-msgstr "Configureu ací els paràmetres per als documents de dibuix. Entre d'altres, podeu definir quin contingut es mostra a les pàgines, quina escala es fa servir, si s'ha de fer servir l'alineació en graella, i quin contingut s'imprimeix per defecte."
+msgid ""
+"This is where you define the settings for drawing documents. Among other "
+"things, you determine which contents are displayed on the pages, which scale "
+"is used, if and how grid alignment is used, and which contents are printed "
+"by default."
+msgstr ""
+"Configureu ací els paràmetres per als documents de dibuix. Entre d'altres, "
+"podeu definir quin contingut es mostra a les pàgines, quina escala es fa "
+"servir, si s'ha de fer servir l'alineació en graella, i quin contingut "
+"s'imprimeix per defecte."
 
+#. lMiN
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.9.itemlist.text
-msgid "This is where you select the print format and print options for all newly saved formula documents. These options take effect when you want to print a formula directly from %PRODUCTNAME Math."
-msgstr "Seleccioneu ací el format d'impressió i les opcions d'impressió per als documents de fórmules nous. Estes opcions s'apliquen quan imprimiu una fórmula directament des del %PRODUCTNAME Math."
+msgid ""
+"This is where you select the print format and print options for all newly "
+"saved formula documents. These options take effect when you want to print a "
+"formula directly from %PRODUCTNAME Math."
+msgstr ""
+"Seleccioneu ací el format d'impressió i les opcions d'impressió per als "
+"documents de fórmules nous. Estes opcions s'apliquen quan imprimiu una "
+"fórmula directament des del %PRODUCTNAME Math."
 
+#. T2WI
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.10.itemlist.text
-msgid "This is where you specify general default settings for your %PRODUCTNAME Charts. Set the colors you want for all new charts."
-msgstr "Especifiqueu ací els paràmetres per defecte generals per als diagrames del %PRODUCTNAME. Podeu definir els colors que voleu per als diagrames nous."
+msgid ""
+"This is where you specify general default settings for your %PRODUCTNAME "
+"Charts. Set the colors you want for all new charts."
+msgstr ""
+"Especifiqueu ací els paràmetres per defecte generals per als diagrames del %"
+"PRODUCTNAME. Podeu definir els colors que voleu per als diagrames nous."
 
+#. hsdb
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.11.itemlist.text
-msgid "This is where you define general settings for accessing external data sources."
-msgstr "Configureu ací els paràmetres generals per accedir a fonts de dades externes."
+msgid ""
+"This is where you define general settings for accessing external data "
+"sources."
+msgstr ""
+"Configureu ací els paràmetres generals per accedir a fonts de dades "
+"externes."
 
+#. AOBT
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.STR_HELPTEXTS.12.itemlist.text
-msgid "This is where you define general settings for opening and saving documents in external formats. You can control the behavior of macros or OLE objects in Microsoft Office documents or define settings for HTML documents."
-msgstr "Configureu ací els paràmetres generals per obrir i alçar documents en formats externs. Podeu controlar el comportament de les macros o dels objectes OLE als documents del Microsoft Office o definir els paràmetres per als documents HTML."
+msgid ""
+"This is where you define general settings for opening and saving documents "
+"in external formats. You can control the behavior of macros or OLE objects "
+"in Microsoft Office documents or define settings for HTML documents."
+msgstr ""
+"Configureu ací els paràmetres generals per obrir i alçar documents en "
+"formats externs. Podeu controlar el comportament de les macros o dels "
+"objectes OLE als documents del Microsoft Office o definir els paràmetres per "
+"als documents HTML."
 
+#. AFDA
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE.modaldialog.text
 msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE.modaldialog.text"
 msgid "Options"
 msgstr "Opcions"
 
+#. #L5j
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.1.itemlist.text
 msgid "%PRODUCTNAME"
 msgstr "%PRODUCTNAME"
 
+#. VxfL
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.2.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.2.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.2.itemlist.text"
 msgid "User Data"
 msgstr "Dades de l'usuari"
 
+#. fFkY
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.3.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.3.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.3.itemlist.text"
 msgid "General"
 msgstr "General"
 
+#. cLK5
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.4.itemlist.text
 msgid "Memory"
 msgstr "Memòria"
 
+#. GXJo
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.5.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.5.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.5.itemlist.text"
 msgid "View"
 msgstr "Visualització"
 
+#. nF_A
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.6.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.6.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.6.itemlist.text"
 msgid "Print"
 msgstr "Impressió"
 
+#. 7xuz
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.7.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.7.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.7.itemlist.text"
 msgid "Paths"
 msgstr "Camins"
 
+#. K8la
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.8.itemlist.text
 msgid "Colors"
 msgstr "Colors"
 
+#. YyeJ
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.9.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.9.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.9.itemlist.text"
 msgid "Fonts"
 msgstr "Tipus de lletra"
 
+#. KCSn
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.10.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.10.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.10.itemlist."
+"text"
 msgid "Security"
 msgstr "Seguretat"
 
+#. YuR6
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.11.itemlist.text
 msgid "Appearance"
 msgstr "Aparença"
 
+#. 3Mt#
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.12.itemlist.text
 msgid "Accessibility"
 msgstr "Accessibilitat"
 
+#. rYm9
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.13.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.13.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.13.itemlist."
+"text"
 msgid "Java"
 msgstr "Java"
 
+#. wuAk
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.14.itemlist.text
 msgid "Network Identity"
 msgstr "Identitat de xarxa"
 
+#. CCDP
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_GENERAL_OPTIONS.15.itemlist.text
 msgid "Online Update"
 msgstr "Actualització en línia"
 
+#. 8PYC
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_LANGUAGE_OPTIONS.1.itemlist.text
 msgid "Language Settings"
 msgstr "Configuració de la llengua"
 
+#. ftEq
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_LANGUAGE_OPTIONS.2.itemlist.text
 msgid "Languages"
 msgstr "Llengües"
 
+#. V393
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_LANGUAGE_OPTIONS.3.itemlist.text
 msgid "Writing Aids"
 msgstr "Ajudes a l'escriptura"
 
+#. GPpa
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_LANGUAGE_OPTIONS.4.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_LANGUAGE_OPTIONS.4.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_LANGUAGE_OPTIONS.4.itemlist."
+"text"
 msgid "Searching in Japanese"
 msgstr "Cerca en japonés"
 
+#. cjqJ
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_LANGUAGE_OPTIONS.5.itemlist.text
 msgid "Asian Layout"
 msgstr "Disposició asiàtica"
 
+#. 73Oh
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_LANGUAGE_OPTIONS.6.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_LANGUAGE_OPTIONS.6.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_LANGUAGE_OPTIONS.6.itemlist."
+"text"
 msgid "Complex Text Layout"
 msgstr "Disposició complexa de text"
 
+#. ecyx
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_INET_DLG.1.itemlist.text
 msgid "Internet"
 msgstr "Internet"
 
+#. 98G3
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_INET_DLG.2.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_INET_DLG.2.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_INET_DLG.2.itemlist.text"
 msgid "Proxy"
 msgstr "Servidor intermediari"
 
+#. _yNq
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_INET_DLG.3.itemlist.text
 msgid "E-mail"
 msgstr "Correu electrònic"
 
+#. mcjJ
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_INET_DLG.4.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_INET_DLG.4.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_INET_DLG.4.itemlist.text"
 msgid "Browser Plug-in"
 msgstr "Connector per al navegador"
 
+#. xljd
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.1.itemlist.text
 msgid "%PRODUCTNAME Writer"
 msgstr "%PRODUCTNAME Writer"
 
+#. Q11V
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.2.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.2.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.2.itemlist.text"
 msgid "General"
 msgstr "General"
 
+#. ir6e
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.3.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.3.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.3.itemlist.text"
 msgid "View"
 msgstr "Visualització"
 
+#. ZlyF
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.4.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.4.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.4.itemlist.text"
 msgid "Formatting Aids"
 msgstr "Ajudes a la formatació"
 
+#. LRxu
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.5.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.5.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.5.itemlist.text"
 msgid "Grid"
 msgstr "Graella"
 
+# 76%
+# 100%
+#. qrN0
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.6.itemlist.text
 msgid "Basic Fonts (Western)"
 msgstr "Tipus de lletra bàsics (occidental)"
 
+# 76%
+# 100%
+#. 21Gt
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.7.itemlist.text
 msgid "Basic Fonts (Asian)"
 msgstr "Tipus de lletra bàsics (asiàtiques)"
 
+#. Ho7k
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.8.itemlist.text
 msgid "Basic Fonts (CTL)"
-msgstr "Tipus de lletra bàsiques (disposició complexa de text)"
+msgstr "Tipus de lletra bàsics (disposició complexa de text)"
 
+# 100%
+#. d60P
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.9.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.9.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.9.itemlist.text"
 msgid "Print"
 msgstr "Impressió"
 
+# 100%
+#. 9FCR
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.10.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.10.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.10.itemlist.text"
 msgid "Table"
 msgstr "Taula"
 
+# 100%
+#. _xBi
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.11.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.11.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.11.itemlist.text"
 msgid "Changes"
 msgstr "Canvis"
 
+# 100%
+#. ULdK
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.12.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.12.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.12.itemlist.text"
 msgid "Compatibility"
 msgstr "Compatibilitat"
 
+# 100%
+#. eXWZ
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.13.itemlist.text
 msgid "AutoCaption"
 msgstr "Etiqueta automàtica"
 
+# 100%
+#. dxQ4
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.14.itemlist.text
 msgid "Mail Merge E-mail"
 msgstr "Fusió de correu electrònic"
 
+#. w#a5
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_ONLINEOPTIONS.1.itemlist.text
 msgid "%PRODUCTNAME Writer/Web"
 msgstr "%PRODUCTNAME Writer/Web"
 
+#. RG8z
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_ONLINEOPTIONS.2.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_ONLINEOPTIONS.2.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_ONLINEOPTIONS.2.itemlist."
+"text"
 msgid "View"
 msgstr "Visualització"
 
+#. jaFA
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_ONLINEOPTIONS.3.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_ONLINEOPTIONS.3.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_ONLINEOPTIONS.3.itemlist."
+"text"
 msgid "Formatting Aids"
 msgstr "Ajudes a la formatació"
 
+#. Y#rj
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_ONLINEOPTIONS.4.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_ONLINEOPTIONS.4.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_ONLINEOPTIONS.4.itemlist."
+"text"
 msgid "Grid"
 msgstr "Graella"
 
+#. KAoQ
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_ONLINEOPTIONS.5.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_ONLINEOPTIONS.5.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_ONLINEOPTIONS.5.itemlist."
+"text"
 msgid "Print"
 msgstr "Impressió"
 
+#. raUY
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_ONLINEOPTIONS.6.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_ONLINEOPTIONS.6.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_ONLINEOPTIONS.6.itemlist."
+"text"
 msgid "Table"
 msgstr "Taula"
 
+#. 3GPL
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_ONLINEOPTIONS.7.itemlist.text
 msgid "Background"
 msgstr "Fons"
 
+#. NXte
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SM_EDITOPTIONS.1.itemlist.text
 msgid "%PRODUCTNAME Math"
 msgstr "%PRODUCTNAME Math"
 
+#. sFRG
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SM_EDITOPTIONS.2.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SM_EDITOPTIONS.2.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SM_EDITOPTIONS.2.itemlist.text"
 msgid "Settings"
 msgstr "Paràmetres"
 
+#. S#Nd
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS.1.itemlist.text
 msgid "%PRODUCTNAME Calc"
 msgstr "%PRODUCTNAME Calc"
 
+#. zGxV
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS.2.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS.2.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS.2.itemlist.text"
 msgid "General"
 msgstr "General"
 
+#. Baye
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS.3.itemlist.text
 msgid "Defaults"
 msgstr "Opcions per defecte"
 
+#. 4#6F
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS.4.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS.4.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS.4.itemlist.text"
 msgid "View"
 msgstr "Vista"
 
+#. oA1u
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS.5.itemlist.text
 msgid "International"
 msgstr "Internacional"
 
+#. Jaj0
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS.6.itemlist.text
 msgid "Calculate"
 msgstr "Càlcul"
 
+#. bGgt
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS.7.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS.7.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS.7.itemlist.text"
 msgid "Formula"
 msgstr "Fórmula"
 
+#. sZzk
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS.8.itemlist.text
 msgid "Sort Lists"
 msgstr "Ordena les llistes"
 
+#. 0NwP
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS.9.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS.9.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS.9.itemlist.text"
 msgid "Changes"
 msgstr "Canvis"
 
+#. _q3n
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS.10.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS.10.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS.10.itemlist.text"
 msgid "Compatibility"
 msgstr "Compatibilitat"
 
+#. 9046
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS.11.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS.11.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS.11.itemlist.text"
 msgid "Grid"
 msgstr "Graella"
 
+#. eke#
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS.12.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS.12.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SC_EDITOPTIONS.12.itemlist.text"
 msgid "Print"
 msgstr "Impressió"
 
+#. 4eLG
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_EDITOPTIONS.1.itemlist.text
 msgid "%PRODUCTNAME Impress"
 msgstr "%PRODUCTNAME Impress"
 
+#. b6ve
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_EDITOPTIONS.2.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_EDITOPTIONS.2.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_EDITOPTIONS.2.itemlist.text"
 msgid "General"
 msgstr "General"
 
+#. Jo#V
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_EDITOPTIONS.3.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_EDITOPTIONS.3.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_EDITOPTIONS.3.itemlist.text"
 msgid "View"
 msgstr "Visualització"
 
+#. Se4u
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_EDITOPTIONS.4.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_EDITOPTIONS.4.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_EDITOPTIONS.4.itemlist.text"
 msgid "Grid"
 msgstr "Graella"
 
+#. gS3F
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_EDITOPTIONS.5.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_EDITOPTIONS.5.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_EDITOPTIONS.5.itemlist.text"
 msgid "Print"
 msgstr "Impressió"
 
+#. oBxO
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_GRAPHIC_OPTIONS.1.itemlist.text
 msgid "%PRODUCTNAME Draw"
 msgstr "%PRODUCTNAME Draw"
 
+#. JbNW
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_GRAPHIC_OPTIONS.2.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_GRAPHIC_OPTIONS.2.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_GRAPHIC_OPTIONS.2.itemlist."
+"text"
 msgid "General"
 msgstr "General"
 
+#. bHGN
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_GRAPHIC_OPTIONS.3.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_GRAPHIC_OPTIONS.3.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_GRAPHIC_OPTIONS.3.itemlist."
+"text"
 msgid "View"
 msgstr "Visualització"
 
+#. gBgm
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_GRAPHIC_OPTIONS.4.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_GRAPHIC_OPTIONS.4.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_GRAPHIC_OPTIONS.4.itemlist."
+"text"
 msgid "Grid"
 msgstr "Graella"
 
+#. S_j7
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_GRAPHIC_OPTIONS.5.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_GRAPHIC_OPTIONS.5.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SD_GRAPHIC_OPTIONS.5.itemlist."
+"text"
 msgid "Print"
 msgstr "Impressió"
 
+#. xWPt
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SCH_EDITOPTIONS.1.itemlist.text
 msgid "Charts"
 msgstr "Diagrames"
 
+#. QErF
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SCH_EDITOPTIONS.2.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SCH_EDITOPTIONS.2.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SCH_EDITOPTIONS.2.itemlist.text"
 msgid "Default Colors"
 msgstr "Colors per defecte"
 
+#. 1dn4
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_FILTER_DLG.1.itemlist.text
 msgid "Load/Save"
 msgstr "Carrega/alça"
 
+#. W9Ty
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_FILTER_DLG.2.itemlist.text
-msgctxt "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_FILTER_DLG.2.itemlist.text"
+msgctxt ""
+"treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_FILTER_DLG.2.itemlist.text"
 msgid "General"
 msgstr "General"
 
+#. MzQB
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_FILTER_DLG.3.itemlist.text
 msgid "VBA Properties"
 msgstr "Propietats VBA"
 
+#. PdWi
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_FILTER_DLG.4.itemlist.text
 msgid "Microsoft Office"
 msgstr "Microsoft Office"
 
+#. lJdR
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_FILTER_DLG.5.itemlist.text
 msgid "HTML Compatibility"
 msgstr "Compatibilitat HTML"
 
+#. 67UN
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SB_STARBASEOPTIONS.1.itemlist.text
 msgid "%PRODUCTNAME Base"
 msgstr "%PRODUCTNAME Base"
 
+#. dfol
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SB_STARBASEOPTIONS.2.itemlist.text
 msgid "Connections"
 msgstr "Connexions"
 
+#. HTrO
 #: treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SB_STARBASEOPTIONS.3.itemlist.text
 msgid "Databases"
 msgstr "Bases de dades"
 
+#. IVmu
 #: treeopt.src#RID_RIDER_SLL_SITE.string.text
 msgid "Site certificates"
 msgstr "Certificats de llocs"
 
+#. 15Mz
 #: treeopt.src#RID_RIDER_SLL_PERSONAL.string.text
 msgid "Personal certificates"
 msgstr "Certificats de persones"
 
+#. zmvy
 #: optjava.src#RID_SVXPAGE_OPTIONS_JAVA.FL_JAVA.fixedline.text
 msgid "Java options"
 msgstr "Opcions del Java"
 
+#. 25ki
 #: optjava.src#RID_SVXPAGE_OPTIONS_JAVA.CB_JAVA_ENABLE.checkbox.text
 msgid "~Use a Java runtime environment"
 msgstr "~Utilitza un entorn d'execució del Java"
 
+#. deyC
 #: optjava.src#RID_SVXPAGE_OPTIONS_JAVA.FT_JAVA_FOUND.fixedtext.text
 msgid "~Java runtime environments (JRE) already installed:"
 msgstr "~Entorns d'execució del Java (JRE) ja instal·lats:"
 
+#. _b9w
 #: optjava.src#RID_SVXPAGE_OPTIONS_JAVA.PB_ADD.pushbutton.text
 msgid "~Add..."
 msgstr "~Afig..."
 
+#. Ca5O
 #: optjava.src#RID_SVXPAGE_OPTIONS_JAVA.PB_PARAMETER.pushbutton.text
 msgid "~Parameters..."
 msgstr "~Paràmetres..."
 
+#. XyQt
 #: optjava.src#RID_SVXPAGE_OPTIONS_JAVA.PB_CLASSPATH.pushbutton.text
 msgid "~Class Path..."
 msgstr "~Camí a les classes..."
 
+#. lzJp
 #: optjava.src#RID_SVXPAGE_OPTIONS_JAVA.STR_INSTALLED_IN.string.text
 msgid "Location: "
 msgstr "Ubicació: "
 
+#. EXtq
 #: optjava.src#RID_SVXPAGE_OPTIONS_JAVA.STR_ACCESSIBILITY.string.text
 msgid "with accessibility support"
 msgstr "amb opcions d'accessibilitat"
 
+#. yPKg
 #: optjava.src#RID_SVXPAGE_OPTIONS_JAVA.STR_ADDDLGTEXT.string.text
 msgid "Select a Java Runtime Environment"
 msgstr "Seleccioneu un entorn d'execució del Java"
 
+#. PHu#
 #: optjava.src#RID_SVXPAGE_OPTIONS_JAVA.STR_HEADER_VENDOR.string.text
 msgid "Vendor"
 msgstr "Proveïdor"
 
+#. EAdf
 #: optjava.src#RID_SVXPAGE_OPTIONS_JAVA.STR_HEADER_VERSION.string.text
 msgid "Version"
 msgstr "Versió"
 
+#. 17Pv
 #: optjava.src#RID_SVXPAGE_OPTIONS_JAVA.STR_HEADER_FEATURES.string.text
 msgid "Features"
 msgstr "Característiques"
 
+#. m_Jr
 #: optjava.src#RID_SVXPAGE_OPTIONS_JAVA.tabpage.text
 msgctxt "optjava.src#RID_SVXPAGE_OPTIONS_JAVA.tabpage.text"
 msgid "Java"
 msgstr "Java"
 
+#. iARs
 #: optjava.src#RID_SVXDLG_JAVA_PARAMETER.FT_PARAMETER.fixedtext.text
 msgid "Java start ~parameter"
 msgstr "~Paràmetre d'inici del Java"
 
+#. CcgS
 #: optjava.src#RID_SVXDLG_JAVA_PARAMETER.PB_ASSIGN.pushbutton.text
 msgid "~Assign"
 msgstr "~Assigna"
 
+#. TQA#
 #: optjava.src#RID_SVXDLG_JAVA_PARAMETER.FT_ASSIGNED.fixedtext.text
 msgid "Assig~ned start parameters"
 msgstr "Paràmetres d'inici assig~nats"
 
+#. qkh4
 #: optjava.src#RID_SVXDLG_JAVA_PARAMETER.FT_EXAMPLE.fixedtext.text
 msgid "For example: -Dmyprop=c:\\program files\\java"
 msgstr "Per exemple: -Dmyprop=c:\\fitxers de programa\\java"
 
+#. UZbK
 #: optjava.src#RID_SVXDLG_JAVA_PARAMETER.PB_REMOVE.pushbutton.text
 msgctxt "optjava.src#RID_SVXDLG_JAVA_PARAMETER.PB_REMOVE.pushbutton.text"
 msgid "~Remove"
 msgstr "Sup~rimeix"
 
+#. IgCF
 #: optjava.src#RID_SVXDLG_JAVA_PARAMETER.modaldialog.text
 msgid "Java Start Parameters"
 msgstr "Paràmetres d'inici del Java"
 
+#. LaJS
 #: optjava.src#RID_SVXDLG_JAVA_CLASSPATH.FT_PATH.fixedtext.text
 msgid "A~ssigned folders and archives"
 msgstr "Carpetes i arxius a~ssignats"
 
+#. SDjm
 #: optjava.src#RID_SVXDLG_JAVA_CLASSPATH.PB_ADDARCHIVE.pushbutton.text
 msgid "~Add Archive..."
 msgstr "~Afig un arxiu..."
 
+#. QzR7
 #: optjava.src#RID_SVXDLG_JAVA_CLASSPATH.PB_ADDPATH.pushbutton.text
 msgid "Add ~Folder"
 msgstr "A~fig una carpeta"
+
+#. kOS3
+#: optjava.src#RID_SVXDLG_JAVA_CLASSPATH.PB_REMOVE_PATH.pushbutton.text
+msgctxt "optjava.src#RID_SVXDLG_JAVA_CLASSPATH.PB_REMOVE_PATH.pushbutton.text"
+msgid "~Remove"
+msgstr "Sup~rimeix"
+
+#. rH1X
+#: optjava.src#RID_SVXDLG_JAVA_CLASSPATH.modaldialog.text
+msgid "Class Path"
+msgstr "Camí a les classes"
+
+#. TaB6
+#: optjava.src#RID_SVXERR_JRE_NOT_RECOGNIZED.errorbox.text
+msgid ""
+"The folder you selected does not contain a Java runtime environment.\n"
+"Please select a different folder."
+msgstr ""
+"La carpeta que heu seleccionat no conté cap entorn d'execució del Java.\n"
+"Seleccioneu una altra carpeta."
+
+#. luqX
+#: optjava.src#RID_SVXERR_JRE_FAILED_VERSION.errorbox.text
+msgid ""
+"The Java runtime environment you selected is not the required version.\n"
+"Please select a different folder."
+msgstr ""
+"L'entorn d'execució del Java seleccionat no és de la versió necessària.\n"
+"Seleccioneu una altra carpeta."
+
+#. NOfC
+#: optjava.src#RID_SVX_MSGBOX_JAVA_RESTART.warningbox.text
+msgid ""
+"For the selected Java runtime environment to work properly, %PRODUCTNAME "
+"must be restarted.\n"
+"Please restart %PRODUCTNAME now."
+msgstr ""
+"Per tal que l'entorn d'execució del Java funcione correctament, cal "
+"reiniciar el %PRODUCTNAME.\n"
+"Per favor, reinicieu el %PRODUCTNAME ara."
+
+#. cO0J
+#: optjava.src#RID_SVX_MSGBOX_JAVA_RESTART2.warningbox.text
+msgid ""
+"You have to restart %PRODUCTNAME so the new or modified values can take "
+"effect.\n"
+"Please restart %PRODUCTNAME now."
+msgstr ""
+"Heu de reiniciar el %PRODUCTNAME per aplicar els valors nous o modificats.\n"
+"Per favor, reinicieu el %PRODUCTNAME ara."
+
+#. 1apJ
+#: optmemory.src#OFA_TP_MEMORY.GB_UNDO.fixedline.text
+msgid "Undo"
+msgstr "Desfés"
+
+#. QGWN
+#: optmemory.src#OFA_TP_MEMORY.FT_UNDO.fixedtext.text
+msgid "Number of steps"
+msgstr "Nombre de passos"
+
+#. 4rcb
+#: optmemory.src#OFA_TP_MEMORY.GB_GRAPHICCACHE.fixedline.text
+msgid "Graphics cache"
+msgstr "Memòria cau d'imatges"
+
+#. hSJw
+#: optmemory.src#OFA_TP_MEMORY.FT_GRAPHICCACHE.fixedtext.text
+msgid "Use for %PRODUCTNAME"
+msgstr "Ús pel %PRODUCTNAME"
+
+#. hA1S
+#: optmemory.src#OFA_TP_MEMORY.FT_GRAPHICCACHE_UNIT.fixedtext.text
+msgctxt "optmemory.src#OFA_TP_MEMORY.FT_GRAPHICCACHE_UNIT.fixedtext.text"
+msgid "MB"
+msgstr "MB"
+
+#. NUfI
+#: optmemory.src#OFA_TP_MEMORY.FT_GRAPHICOBJECTCACHE.fixedtext.text
+msgid "Memory per object"
+msgstr "Memòria per objecte"
+
+#. Ac5X
+#: optmemory.src#OFA_TP_MEMORY.FT_GRAPHICOBJECTCACHE_UNIT.fixedtext.text
+msgctxt "optmemory.src#OFA_TP_MEMORY.FT_GRAPHICOBJECTCACHE_UNIT.fixedtext.text"
+msgid "MB"
+msgstr "MB"
+
+#. sRLO
+#: optmemory.src#OFA_TP_MEMORY.FT_GRAPHICOBJECTTIME.fixedtext.text
+msgid "Remove from memory after"
+msgstr "Suprimeix de la memòria després de"
+
+#. FQ0R
+#: optmemory.src#OFA_TP_MEMORY.FT_GRAPHICOBJECTTIME_UNIT.fixedtext.text
+msgid "hh:mm"
+msgstr "hh:mm"
+
+#. cdms
+#: optmemory.src#OFA_TP_MEMORY.GB_OLECACHE.fixedline.text
+msgid "Cache for inserted objects"
+msgstr "Memòria cau per a objectes inserits"
+
+#. BsKu
+#: optmemory.src#OFA_TP_MEMORY.FT_OLECACHE.fixedtext.text
+msgid "Number of objects"
+msgstr "Nombre d'objectes"
+
+#. BW59
+#: optmemory.src#OFA_TP_MEMORY.FL_QUICKLAUNCH.fixedline.text
+msgid "%PRODUCTNAME Quickstarter"
+msgstr "Inici ràpid del %PRODUCTNAME"
+
+#. mFzg
+#: optmemory.src#OFA_TP_MEMORY.CB_QUICKLAUNCH.checkbox.text
+msgid "Load %PRODUCTNAME during system start-up"
+msgstr "Carrega el %PRODUCTNAME en iniciar el sistema"
+
+#. 7I_V
+#: optmemory.src#OFA_TP_MEMORY.STR_QUICKLAUNCH_UNX.string.text
+msgid "Enable systray Quickstarter"
+msgstr "Habilita l'inici ràpid a la safata del sistema"
+
+#. Z0Sj
+#: optaccessibility.src#RID_SVXPAGE_ACCESSIBILITYCONFIG.FL_MISCELLANEOUS.fixedline.text
+msgid "Miscellaneous options"
+msgstr "Altres opcions"
+
+#. 8N7u
+#: optaccessibility.src#RID_SVXPAGE_ACCESSIBILITYCONFIG.CB_ACCESSIBILITY_TOOL.checkbox.text
+msgid "Support ~assistive technology tools (program restart required)"
+msgstr "Eines de tecnologia ~assistida (cal reiniciar el programa)"
+
+#. bfQE
+#: optaccessibility.src#RID_SVXPAGE_ACCESSIBILITYCONFIG.CB_TEXTSELECTION.checkbox.text
+msgid "Use te~xt selection cursor in read-only text documents"
+msgstr ""
+"Utilitzeu el cursor de selecció de te~xt en els documents només de lectura"
+
+#. cJjo
+#: optaccessibility.src#RID_SVXPAGE_ACCESSIBILITYCONFIG.CB_ANIMATED_GRAPHICS.checkbox.text
+msgid "Allow animated ~graphics"
+msgstr "Permet ~gràfics animats"
+
+#. Gkyo
+#: optaccessibility.src#RID_SVXPAGE_ACCESSIBILITYCONFIG.CB_ANIMATED_TEXTS.checkbox.text
+msgid "Allow animated ~text"
+msgstr "Permet ~text animat"
+
+#. 03uv
+#: optaccessibility.src#RID_SVXPAGE_ACCESSIBILITYCONFIG.CB_TIPHELP.checkbox.text
+msgid "~Help tips disappear after "
+msgstr "Els consells d'ajuda desapareixeran després de"
+
+#. yzbs
+#: optaccessibility.src#RID_SVXPAGE_ACCESSIBILITYCONFIG.FT_TIPHELP.fixedtext.text
+msgid "seconds"
+msgstr "segons"
+
+#. VmIV
+#: optaccessibility.src#RID_SVXPAGE_ACCESSIBILITYCONFIG.FL_HC_OPTIONS.fixedline.text
+msgid "Options for high contrast appearance"
+msgstr "Opcions d'aparença d'alt contrast"
+
+#. cC7u
+#: optaccessibility.src#RID_SVXPAGE_ACCESSIBILITYCONFIG.CB_AUTO_DETECT_HC.checkbox.text
+msgid "Automatically ~detect high contrast mode of operating system"
+msgstr "~Detecta automàticament el mode d'alt contrast del sistema operatiu"
+
+#. 7KID
+#: optaccessibility.src#RID_SVXPAGE_ACCESSIBILITYCONFIG.CB_AUTOMATIC_FONT_COLOR.checkbox.text
+msgid "Use automatic font ~color for screen display"
+msgstr ""
+"Utilitza el ~color de lletra automàtic per a la visualització de la pantalla"
+
+#. VgkJ
+#: optaccessibility.src#RID_SVXPAGE_ACCESSIBILITYCONFIG.CB_PAGE_PREVIEWS.checkbox.text
+msgid "~Use system colors for page previews"
+msgstr ""
+"~Utilitza els colors del sistema per a les previsualitzacions de la pàgina"
+
+#. 3aul
+#: optctl.src#RID_SVXPAGE_OPTIONS_CTL.FL_SEQUENCECHECKING.fixedline.text
+msgid "Sequence checking"
+msgstr "Comprovació de la seqüència"
+
+#. WYip
+#: optctl.src#RID_SVXPAGE_OPTIONS_CTL.CB_SEQUENCECHECKING.checkbox.text
+msgid "Use se~quence checking"
+msgstr "Utilitza la comprovació de la se~qüència"
+
+#. hmsZ
+#: optctl.src#RID_SVXPAGE_OPTIONS_CTL.CB_RESTRICTED.checkbox.text
+msgid "Restricted"
+msgstr "Restringit"
+
+#. RcBX
+#: optctl.src#RID_SVXPAGE_OPTIONS_CTL.CB_TYPE_REPLACE.checkbox.text
+msgid "~Type and replace"
+msgstr "~Escriu i reemplaça"
+
+#. l2MI
+#: optctl.src#RID_SVXPAGE_OPTIONS_CTL.FL_CURSORCONTROL.fixedline.text
+msgid "Cursor control"
+msgstr "Control del cursor"
+
+#. AzGk
+#: optctl.src#RID_SVXPAGE_OPTIONS_CTL.FT_MOVEMENT.fixedtext.text
+msgid "Movement"
+msgstr "Moviment"
+
+#. nDPW
+#: optctl.src#RID_SVXPAGE_OPTIONS_CTL.RB_MOVEMENT_LOGICAL.radiobutton.text
+msgid "Lo~gical"
+msgstr "Lò~gic"
+
+#. zlfH
+#: optctl.src#RID_SVXPAGE_OPTIONS_CTL.RB_MOVEMENT_VISUAL.radiobutton.text
+msgid "~Visual"
+msgstr "~Visual"
+
+#. Notn
+#: optctl.src#RID_SVXPAGE_OPTIONS_CTL.FL_GENERAL.fixedline.text
+msgid "General options"
+msgstr "Opcions generals"
+
+#. gccd
+#: optctl.src#RID_SVXPAGE_OPTIONS_CTL.FT_NUMERALS.fixedtext.text
+msgid "~Numerals"
+msgstr "~Numerals"
+
+#. cuvp
+#: optctl.src#RID_SVXPAGE_OPTIONS_CTL.LB_NUMERALS.1.stringlist.text
+msgid "Arabic"
+msgstr "Àrab"
+
+#. A401
+#: optctl.src#RID_SVXPAGE_OPTIONS_CTL.LB_NUMERALS.2.stringlist.text
+msgid "Hindi"
+msgstr "Hindi"
+
+#. 71Bm
+#: optctl.src#RID_SVXPAGE_OPTIONS_CTL.LB_NUMERALS.3.stringlist.text
+msgctxt "optctl.src#RID_SVXPAGE_OPTIONS_CTL.LB_NUMERALS.3.stringlist.text"
+msgid "System"
+msgstr "Sistema"
+
+#. fEN5
+#: optctl.src#RID_SVXPAGE_OPTIONS_CTL.LB_NUMERALS.4.stringlist.text
+msgid "Context"
+msgstr "Context"
+
+#. #FFg
+#: optctl.src#RID_SVXPAGE_OPTIONS_CTL.tabpage.text
+msgctxt "optctl.src#RID_SVXPAGE_OPTIONS_CTL.tabpage.text"
+msgid "Complex Text Layout"
+msgstr "Disposició complexa de text"
+
+#. Oxfz
+#: optimprove.src#RID_SVXPAGE_IMPROVEMENT.FL_IMPROVE.fixedline.text
+msgid "Improvement Program"
+msgstr "Programa de millora"
+
+#. xRNP
+#: optimprove.src#RID_SVXPAGE_IMPROVEMENT.FT_INVITATION.fixedtext.text
+msgid ""
+"We invite you to join our %PRODUCTNAME Improvement Program to help optimize "
+"the quality of %PRODUCTNAME.\n"
+"\n"
+"If you are willing to participate, we will collect anonymous statistics "
+"about how you use %PRODUCTNAME. The data is used to identify usage "
+"patterns.\n"
+"\n"
+"The %PRODUCTNAME Improvement Program will not collect any personal data, or "
+"document content."
+msgstr ""
+"Vos convidem a unir-vos al Programa de millora del %PRODUCTNAME per "
+"col·laborar en l'optimització de la qualitat del %PRODUCTNAME.\n"
+"\n"
+"Si desitgeu participar-hi, recollirem estadístiques anònimes sobre com feu "
+"servir el %PRODUCTNAME. Estes dades s'utilitzaran en la identificació de "
+"patrons d'ús.\n"
+"\n"
+"El Programa de millora del %PRODUCTNAME no recollirà dades personals ni el "
+"contingut dels documents."
+
+#. tz_d
+#: optimprove.src#RID_SVXPAGE_IMPROVEMENT.RB_YES.radiobutton.text
+msgid ""
+"~Yes, I am willing to participate in the %PRODUCTNAME Improvement Program"
+msgstr "Sí, ~vull participar en el programa de millora del %PRODUCTNAME"
+
+#. 4Ne4
+#: optimprove.src#RID_SVXPAGE_IMPROVEMENT.RB_NO.radiobutton.text
+msgid "~No, I do not wish to participate"
+msgstr "~No, no vull participar-hi"
+
+#. Gsbh
+#: optimprove.src#RID_SVXPAGE_IMPROVEMENT.FL_DATA.fixedline.text
+msgid "Tracked Data"
+msgstr "Seguiment de dades"
+
+#. igGt
+#: optimprove.src#RID_SVXPAGE_IMPROVEMENT.FT_NR_REPORTS.fixedtext.text
+msgid "Number of reports sent:"
+msgstr "Nombre d'informes enviats:"
+
+#. 5RY2
+#: optimprove.src#RID_SVXPAGE_IMPROVEMENT.FT_NR_ACTIONS.fixedtext.text
+msgid "Number of tracked actions:"
+msgstr "Nombre d'accions seguides:"
+
+#. lVy7
+#: optimprove.src#RID_SVXPAGE_IMPROVEMENT.PB_SHOWDATA.pushbutton.text
+msgid "~Show Data"
+msgstr "Mo~stra les dades"
+
+#. x51D
+#: optimprove.src#RID_SVXPAGE_IMPROVEMENT.STR_INFO.string.text
+msgid "Help Optimize the Quality of %PRODUCTNAME"
+msgstr "Col·laboreu en l'optimització de la qualitat del %PRODUCTNAME"
+
+#. r1ax
+#: optimprove.src#RID_SVXPAGE_IMPROVEMENT.STR_MOREINFO.string.text
+msgid "More Information"
+msgstr "Més informació"
+
+#. 1DTA
+#: optimprove.src#RID_SVXPAGE_IMPROVEMENT.tabpage.text
+msgid "%PRODUCTNAME Improvement Program"
+msgstr "Programa de millora del %PRODUCTNAME"
+
+#. VLFB
+#: connpooloptions.src#RID_OFAPAGE_CONNPOOLOPTIONS.FL_POOLING.fixedline.text
+msgid "Connection pool"
+msgstr "Connexions disponibles"
+
+#. 1RnR
+#: connpooloptions.src#RID_OFAPAGE_CONNPOOLOPTIONS.CB_POOL_CONNS.checkbox.text
+msgid "Connection pooling enabled"
+msgstr "Habilita la disponibilitat de connexions"
+
+#. zhFi
+#: connpooloptions.src#RID_OFAPAGE_CONNPOOLOPTIONS.FT_DRIVERS.fixedtext.text
+msgid "Drivers known in %PRODUCTNAME"
+msgstr "Controladors coneguts en el %PRODUCTNAME"
+
+#. 2Vt_
+#: connpooloptions.src#RID_OFAPAGE_CONNPOOLOPTIONS.FT_DRIVERLABEL.fixedtext.text
+msgid "Current driver:"
+msgstr "Controlador actual:"
+
+#. AieH
+#: connpooloptions.src#RID_OFAPAGE_CONNPOOLOPTIONS.CB_DRIVERPOOLING.checkbox.text
+msgid "Enable pooling for this driver"
+msgstr "Habilita les connexions disponibles per a este controlador"
+
+#. WFYH
+#: connpooloptions.src#RID_OFAPAGE_CONNPOOLOPTIONS.FT_TIMEOUT.fixedtext.text
+msgid "Timeout (seconds)"
+msgstr "Temps d'espera (segons)"
+
+#. uMai
+#: connpooloptions.src#RID_OFAPAGE_CONNPOOLOPTIONS.STR_DRIVER_NAME.string.text
+msgid "Driver name"
+msgstr "Nom del controlador"
+
+#. k0He
+#: connpooloptions.src#RID_OFAPAGE_CONNPOOLOPTIONS.STR_POOLED_FLAG.string.text
+msgid "Pool"
+msgstr "Disponibles"
+
+#. #2Wx
+#: connpooloptions.src#RID_OFAPAGE_CONNPOOLOPTIONS.STR_POOL_TIMEOUT.string.text
+msgid "Timeout"
+msgstr "Temps d'espera"
+
+#. w3nj
+#: connpooloptions.src#RID_OFAPAGE_CONNPOOLOPTIONS.STR_YES.string.text
+msgid "Yes"
+msgstr "Sí"
+
+#. hjT2
+#: connpooloptions.src#RID_OFAPAGE_CONNPOOLOPTIONS.STR_NO.string.text
+msgid "No"
+msgstr "No"
+
+#. oD3I
+#: optgdlg.src#OFA_TP_MISC.FL_HELP.fixedline.text
+msgctxt "optgdlg.src#OFA_TP_MISC.FL_HELP.fixedline.text"
+msgid "Help"
+msgstr "Ajuda"
+
+#. VoMo
+#: optgdlg.src#OFA_TP_MISC.CB_TOOLTIP.checkbox.text
+msgid "~Tips"
+msgstr "C~onsells"
+
+#. 3pM3
+#: optgdlg.src#OFA_TP_MISC.CB_EXTHELP.checkbox.text
+msgid "~Extended tips"
+msgstr "Cons~ells ampliats"
+
+#. Mz#Y
+#: optgdlg.src#OFA_TP_MISC.FT_HELPFORMAT.fixedtext.text
+msgid "Help ~formatting"
+msgstr "~Format de l'ajuda"
+
+#. 3AXd
+#: optgdlg.src#OFA_TP_MISC.LB_HELPFORMAT.1.stringlist.text
+msgid "Default"
+msgstr "Per defecte"
+
+#. lsOL
+#: optgdlg.src#OFA_TP_MISC.LB_HELPFORMAT.2.stringlist.text
+msgid "High Contrast #1"
+msgstr "Alt contrast núm. 1"
+
+#. YpJa
+#: optgdlg.src#OFA_TP_MISC.LB_HELPFORMAT.3.stringlist.text
+msgid "High Contrast #2"
+msgstr "Alt contrast núm. 2"
+
+#. CyFH
+#: optgdlg.src#OFA_TP_MISC.LB_HELPFORMAT.4.stringlist.text
+msgid "High Contrast Black"
+msgstr "Alt contrast negre"
+
+#. 1v4W
+#: optgdlg.src#OFA_TP_MISC.LB_HELPFORMAT.5.stringlist.text
+msgid "High Contrast White"
+msgstr "Alt contrast blanc"
+
+#. HANe
+#: optgdlg.src#OFA_TP_MISC.CB_HELPAGENT.checkbox.text
+msgid "~Help Agent"
+msgstr "~Agent d'ajuda"
+
+#. MiEe
+#: optgdlg.src#OFA_TP_MISC.PB_HELPAGENT_RESET.pushbutton.text
+msgid "~Reset Help Agent"
+msgstr "~Reinicialitza l'Agent d'ajuda"
+
+#. 6gnf
+#: optgdlg.src#OFA_TP_MISC.FL_FILEDLG.fixedline.text
+msgid "Open/Save dialogs"
+msgstr "Diàlegs d'obertura/desament"
+
+#. V_zB
+#: optgdlg.src#OFA_TP_MISC.CB_FILEDLG.checkbox.text
+msgid "~Use %PRODUCTNAME dialogs"
+msgstr "~Utilitza els diàlegs del %PRODUCTNAME"
+
+#. gNDs
+#: optgdlg.src#OFA_TP_MISC.CB_ODMADLG.checkbox.text
+msgid "Show ODMA DMS dialogs first"
+msgstr "Mostra primer els diàlegs ODMA DMS"
+
+#. u2w3
+#: optgdlg.src#OFA_TP_MISC.FL_PRINTDLG.fixedline.text
+msgid "Print dialogs"
+msgstr "Diàlegs d'impressió"
+
+#. KpK3
+#: optgdlg.src#OFA_TP_MISC.CB_PRINTDLG.checkbox.text
+msgid "Use %PRODUCTNAME ~dialogs"
+msgstr "Utilitza els ~diàlegs del %PRODUCTNAME"
+
+#. cj16
+#: optgdlg.src#OFA_TP_MISC.FL_DOCSTATUS.fixedline.text
+msgid "Document status"
+msgstr "Estat del document"
+
+#. 77G1
+#: optgdlg.src#OFA_TP_MISC.CB_DOCSTATUS.checkbox.text
+msgid "~Printing sets \"document modified\" status"
+msgstr "En im~primir s'estableix l'estat de \"document modificat\""
+
+#. 4h8c
+#: optgdlg.src#OFA_TP_MISC.CB_SAVE_ALWAYS.checkbox.text
+msgid "Allow to save document even when the document is not modified"
+msgstr "Permet alçar el document encara que no s'haja modificat"
+
+#. YAki
+#: optgdlg.src#OFA_TP_MISC.FL_TWOFIGURE.fixedline.text
+msgid "Year (two digits)"
+msgstr "Any (dues xifres)"
+
+#. i45T
+#: optgdlg.src#OFA_TP_MISC.FT_INTERPRET.fixedtext.text
+msgid "Interpret as years between"
+msgstr "Interpreta com a anys entre"
+
+#. sDnL
+#: optgdlg.src#OFA_TP_MISC.FT_TOYEAR.fixedtext.text
+msgid "and "
+msgstr "i "
+
+#. AnPe
+#: optgdlg.src#OFA_TP_MISC.CB_EXPERIMENTAL.checkbox.text
+msgid "Enable experimental (unstable) features"
+msgstr "Habilita les funcionalitats experimentals (inestable)"
+
+#. V5fk
+#: optgdlg.src#OFA_TP_VIEW.FL_USERINTERFACE.fixedline.text
+msgid "User Interface"
+msgstr "Interfície d'usuari"
+
+#. C7Qj
+#: optgdlg.src#OFA_TP_VIEW.FT_WINDOWSIZE.fixedtext.text
+msgid "Sc~aling"
+msgstr "Esc~ala"
+
+#. d1gk
+#: optgdlg.src#OFA_TP_VIEW.FT_ICONSIZESTYLE.fixedtext.text
+msgid "Icon size and style"
+msgstr "Mida i estil de la icona"
+
+#. 32Eu
+#: optgdlg.src#OFA_TP_VIEW.STR_ICONSIZE.string.text
+msgid "Icon size"
+msgstr "Mida de la icona"
+
+#. E9q9
+#: optgdlg.src#OFA_TP_VIEW.LB_ICONSIZE.1.stringlist.text
+msgctxt "optgdlg.src#OFA_TP_VIEW.LB_ICONSIZE.1.stringlist.text"
+msgid "Automatic"
+msgstr "Automàtic"
+
+#. YrDx
+#: optgdlg.src#OFA_TP_VIEW.LB_ICONSIZE.2.stringlist.text
+msgid "Small"
+msgstr "Petita"
+
+#. lm6A
+#: optgdlg.src#OFA_TP_VIEW.LB_ICONSIZE.3.stringlist.text
+msgid "Large"
+msgstr "Gran"
+
+#. Y36o
+#: optgdlg.src#OFA_TP_VIEW.LB_ICONSTYLE.1.stringlist.text
+msgctxt "optgdlg.src#OFA_TP_VIEW.LB_ICONSTYLE.1.stringlist.text"
+msgid "Automatic"
+msgstr "Automàtic"
+
+#. E__0
+#: optgdlg.src#OFA_TP_VIEW.LB_ICONSTYLE.2.stringlist.text
+msgid "Galaxy (default)"
+msgstr "Galàxia (per defecte)"
+
+#. 3wqn
+#: optgdlg.src#OFA_TP_VIEW.LB_ICONSTYLE.3.stringlist.text
+msgid "High Contrast"
+msgstr "Alt contrast"
+
+#. jre4
+#: optgdlg.src#OFA_TP_VIEW.LB_ICONSTYLE.4.stringlist.text
+msgid "Industrial"
+msgstr "Industrial"
+
+#. WmZr
+#: optgdlg.src#OFA_TP_VIEW.LB_ICONSTYLE.5.stringlist.text
+msgid "Crystal"
+msgstr "Cristall"
+
+#. CCQ7
+#: optgdlg.src#OFA_TP_VIEW.LB_ICONSTYLE.6.stringlist.text
+msgid "Tango"
+msgstr "Tango"
+
+#. 19Hs
+#: optgdlg.src#OFA_TP_VIEW.LB_ICONSTYLE.7.stringlist.text
+msgid "Oxygen"
+msgstr "Oxigen"
+
+#. hW6C
+#: optgdlg.src#OFA_TP_VIEW.LB_ICONSTYLE.8.stringlist.text
+msgid "Classic"
+msgstr "Clàssic"
+
+#. cbDz
+#: optgdlg.src#OFA_TP_VIEW.LB_ICONSTYLE.9.stringlist.text
+msgid "Human"
+msgstr "Humà"
+
+#. lC7d
+#: optgdlg.src#OFA_TP_VIEW.CB_SYSTEM_FONT.checkbox.text
+msgid "Use system ~font for user interface"
+msgstr "Utilitza el tipus de lletra del sistema per a la inter~fície"
+
+#. Kxv5
+#: optgdlg.src#OFA_TP_VIEW.CB_FONTANTIALIASING.checkbox.text
+msgid "Screen font antialiasing"
+msgstr "Suavitza el tipus de lletra a la pantalla"
+
+#. KSsx
+#: optgdlg.src#OFA_TP_VIEW.FT_POINTLIMIT_LABEL.fixedtext.text
+msgid "from"
+msgstr "de"
+
+#. _edn
+#: optgdlg.src#OFA_TP_VIEW.FT_POINTLIMIT_UNIT.fixedtext.text
+msgid "Pixels"
+msgstr "Píxels"
+
+#. JfaF
+#: optgdlg.src#OFA_TP_VIEW.FL_MENU.fixedline.text
+msgid "Menu"
+msgstr "Menú"
+
+#. aE9D
+#: optgdlg.src#OFA_TP_VIEW.FT_MENU_ICONS.fixedtext.text
+msgid "Icons in menus"
+msgstr "Icones als menús"
+
+#. 9O58
+#: optgdlg.src#OFA_TP_VIEW.LB_MENU_ICONS.1.stringlist.text
+msgctxt "optgdlg.src#OFA_TP_VIEW.LB_MENU_ICONS.1.stringlist.text"
+msgid "Automatic"
+msgstr "Automàtic"
+
+#. bayw
+#: optgdlg.src#OFA_TP_VIEW.LB_MENU_ICONS.2.stringlist.text
+msgid "Hide"
+msgstr "Amaga"
+
+#. eXtB
+#: optgdlg.src#OFA_TP_VIEW.LB_MENU_ICONS.3.stringlist.text
+msgid "Show"
+msgstr "Mostra"
+
+#. rC2T
+#: optgdlg.src#OFA_TP_VIEW.FL_FONTLISTS.fixedline.text
+msgid "Font Lists"
+msgstr "Llistes de tipus de lletra"
+
+#. Cz7w
+#: optgdlg.src#OFA_TP_VIEW.CB_FONT_SHOW.checkbox.text
+msgid "Show p~review of fonts"
+msgstr "P~revisualitza els tipus de lletra"
+
+#. ocix
+#: optgdlg.src#OFA_TP_VIEW.CB_FONT_HISTORY.checkbox.text
+msgid "Show font h~istory"
+msgstr "Mostra l'h~istorial dels tipus de lletra"
+
+#. wO0p
+#: optgdlg.src#OFA_TP_VIEW.FL_RENDERING.fixedline.text
+msgid "Graphics output"
+msgstr "Eixida de gràfics"
+
+#. wrui
+#: optgdlg.src#OFA_TP_VIEW.CB_USE_HARDACCELL.checkbox.text
+msgid "Use hardware acceleration"
+msgstr "Accelera per maquinari"
+
+#. E03I
+#: optgdlg.src#OFA_TP_VIEW.CB_USE_ANTIALIASE.checkbox.text
+msgid "Use Anti-Aliasing"
+msgstr "Usa l'antialiàsing"
+
+#. iHUA
+#: optgdlg.src#OFA_TP_VIEW.FL_MOUSE.fixedline.text
+msgid "Mouse"
+msgstr "Ratolí"
+
+#. ZBS9
+#: optgdlg.src#OFA_TP_VIEW.FT_MOUSEPOS.fixedtext.text
+msgid "Mouse positioning"
+msgstr "Posicionament del ratolí"
+
+#. 4nJf
+#: optgdlg.src#OFA_TP_VIEW.LB_MOUSEPOS.1.stringlist.text
+msgid "Default button"
+msgstr "Botó per defecte"
+
+#. eDgR
+#: optgdlg.src#OFA_TP_VIEW.LB_MOUSEPOS.2.stringlist.text
+msgid "Dialog center"
+msgstr "Centre del diàleg"
+
+#. b8Xg
+#: optgdlg.src#OFA_TP_VIEW.LB_MOUSEPOS.3.stringlist.text
+msgid "No automatic positioning"
+msgstr "Sense posicionament automàtic"
+
+#. vqUj
+#: optgdlg.src#OFA_TP_VIEW.FT_MOUSEMIDDLE.fixedtext.text
+msgid "Middle mouse button"
+msgstr "Botó central del ratolí"
+
+#. swmd
+#: optgdlg.src#OFA_TP_VIEW.LB_MOUSEMIDDLE.1.stringlist.text
+msgid "No function"
+msgstr "Cap funció"
+
+#. Q69L
+#: optgdlg.src#OFA_TP_VIEW.LB_MOUSEMIDDLE.2.stringlist.text
+msgid "Automatic scrolling"
+msgstr "Desplaçament automàtic"
+
+#. N32a
+#: optgdlg.src#OFA_TP_VIEW.LB_MOUSEMIDDLE.3.stringlist.text
+msgid "Paste clipboard"
+msgstr "Apega el porta-retalls"
+
+#. pW2w
+#: optgdlg.src#OFA_TP_VIEW.FL_SELECTION.fixedline.text
+msgid "Selection"
+msgstr "Selecció"
+
+#. xy6o
+#: optgdlg.src#OFA_TP_VIEW.CB_SELECTION.checkbox.text
+msgid "Transparency"
+msgstr "Transparència"
+
+#. jn8E
+#: optgdlg.src#OFA_TP_VIEW.MF_SELECTION.metricfield.text
+msgid "%"
+msgstr "%"
+
+#. 0f4h
+#: optgdlg.src#OFA_TP_LANGUAGES.FL_UI_LANG.fixedline.text
+msgid "Language of"
+msgstr "Llengua de"
+
+#. ZK9M
+#: optgdlg.src#OFA_TP_LANGUAGES.FT_USERINTERFACE.fixedtext.text
+msgid "~User interface"
+msgstr "Interfície d'~usuari"
+
+#. YxbX
+#: optgdlg.src#OFA_TP_LANGUAGES.FT_LOCALESETTING.fixedtext.text
+msgid "Locale setting"
+msgstr "Configuració local"
+
+#. X_St
+#: optgdlg.src#OFA_TP_LANGUAGES.FT_DECIMALSEPARATOR.fixedtext.text
+msgid "Decimal separator key"
+msgstr "Tecla del separador decimal"
+
+#. uVOE
+#: optgdlg.src#OFA_TP_LANGUAGES.CB_DECIMALSEPARATOR.checkbox.text
+msgid "~Same as locale setting ( %1 )"
+msgstr "Igual que la ~configuració local ( %1 )"
+
+#. siSa
+#: optgdlg.src#OFA_TP_LANGUAGES.FT_CURRENCY.fixedtext.text
+msgid "~Default currency"
+msgstr "Moneda per ~defecte"
+
+#. LinK
+#: optgdlg.src#OFA_TP_LANGUAGES.FL_LINGU_LANG.fixedline.text
+msgid "Default languages for documents"
+msgstr "Llengües per defecte per als documents"
+
+#. AzEb
+#: optgdlg.src#OFA_TP_LANGUAGES.FT_WEST_LANG.fixedtext.text
+msgid "Western"
+msgstr "Occidental"
+
+#. lHDG
+#: optgdlg.src#OFA_TP_LANGUAGES.FT_ASIAN_LANG.fixedtext.text
+msgid "Asian"
+msgstr "Asiàtic"
+
+#. 4HsY
+#: optgdlg.src#OFA_TP_LANGUAGES.FT_COMPLEX_LANG.fixedtext.text
+msgid "C~TL"
+msgstr "C~TL"
+
+#. Um6#
+#: optgdlg.src#OFA_TP_LANGUAGES.CB_CURRENT_DOC.checkbox.text
+msgid "For the current document only"
+msgstr "Només per al document actual"
+
+#. x2nm
+#: optgdlg.src#OFA_TP_LANGUAGES.FL_ENHANCED.fixedline.text
+msgid "Enhanced language support"
+msgstr "Compatibilitat de llengües millorada"
+
+#. 4qyC
+#: optgdlg.src#OFA_TP_LANGUAGES.CB_ASIANSUPPORT.checkbox.text
+msgid "E~nabled for Asian languages"
+msgstr "Habilitat per a ~llengües asiàtiques"
+
+#. kA#G
+#: optgdlg.src#OFA_TP_LANGUAGES.CB_CTLSUPPORT.checkbox.text
+msgid "Ena~bled for complex text layout (CTL)"
+msgstr "Ha~bilitat per a la disposició complexa de text (CTL)"
+
+#. DQ2T
+#: optgdlg.src#RID_SVX_MSGBOX_LANGUAGE_RESTART.infobox.text
+msgid ""
+"The language setting of the user interface has been updated and will take "
+"effect the next time you start %PRODUCTNAME %PRODUCTVERSION"
+msgstr ""
+"S'ha actualitzat la configuració de la llengua de la interfície d'usuari. "
+"Els canvis s'aplicaran la propera vegada que reinicieu el %PRODUCTNAME %"
+"PRODUCTVERSION"
+
+#. ZS#L
+#: optfltr.src#RID_OFAPAGE_MSFILTEROPT.GB_WORD.fixedline.text
+msgid "Microsoft Word 97/2000/XP"
+msgstr "Microsoft Word 97/2000/XP"
+
+#. PFi7
+#: optfltr.src#RID_OFAPAGE_MSFILTEROPT.CB_WBAS_CODE.checkbox.text
+msgid "Load Basic ~code"
+msgstr "Carrega el ~codi Basic"
+
+#. MILI
+#: optfltr.src#RID_OFAPAGE_MSFILTEROPT.CB_WBAS_WBCTBL.checkbox.text
+msgctxt "optfltr.src#RID_OFAPAGE_MSFILTEROPT.CB_WBAS_WBCTBL.checkbox.text"
+msgid "E~xecutable code"
+msgstr "Codi e~xecutable"
+
+#. FyW6
+#: optfltr.src#RID_OFAPAGE_MSFILTEROPT.CB_WBAS_STG.checkbox.text
+msgid "Save ~original Basic code"
+msgstr "Alça el codi Basic ~original"
+
+#. lwXq
+#: optfltr.src#RID_OFAPAGE_MSFILTEROPT.GB_EXCEL.fixedline.text
+msgid "Microsoft Excel 97/2000/XP"
+msgstr "Microsoft Excel 97/2000/XP"
+
+#. 1pj3
+#: optfltr.src#RID_OFAPAGE_MSFILTEROPT.CB_EBAS_CODE.checkbox.text
+msgid "Lo~ad Basic code"
+msgstr "C~arrega el codi Basic"
+
+#. _1dG
+#: optfltr.src#RID_OFAPAGE_MSFILTEROPT.CB_EBAS_EXECTBL.checkbox.text
+msgctxt "optfltr.src#RID_OFAPAGE_MSFILTEROPT.CB_EBAS_EXECTBL.checkbox.text"
+msgid "E~xecutable code"
+msgstr "Codi e~xecutable"
+
+#. 9vxT
+#: optfltr.src#RID_OFAPAGE_MSFILTEROPT.CB_EBAS_STG.checkbox.text
+msgid "Sa~ve original Basic code"
+msgstr "Alça el codi ~Basic original"
+
+#. 1iWg
+#: optfltr.src#RID_OFAPAGE_MSFILTEROPT.GB_PPOINT.fixedline.text
+msgid "Microsoft PowerPoint 97/2000/XP"
+msgstr "Microsoft PowerPoint 97/2000/XP"
+
+#. TbJ6
+#: optfltr.src#RID_OFAPAGE_MSFILTEROPT.CB_PBAS_CODE.checkbox.text
+msgid "Load Ba~sic code"
+msgstr "Carrega el codi Ba~sic"
+
+#. kT42
+#: optfltr.src#RID_OFAPAGE_MSFILTEROPT.CB_PBAS_STG.checkbox.text
+msgid "Sav~e original Basic code"
+msgstr "D~esa el codi Basic original"
+
+#. vsS2
+#: optfltr.src#RID_OFAPAGE_MSFILTEROPT2.ST_HEADER1.string.text
+msgid "[L]"
+msgstr "[C]"
+
+#. 03Ef
+#: optfltr.src#RID_OFAPAGE_MSFILTEROPT2.ST_HEADER2.string.text
+msgid "[S]"
+msgstr "[D]"
+
+#. 8fJj
+#: optfltr.src#RID_OFAPAGE_MSFILTEROPT2.FT_HEADER1_EXPLANATION.fixedtext.text
+msgid "[L]: Load and convert the object"
+msgstr "[C]: Carrega i converteix l'objecte"
+
+#. bug_
+#: optfltr.src#RID_OFAPAGE_MSFILTEROPT2.FT_HEADER2_EXPLANATION.fixedtext.text
+msgid "[S]: Convert and save the object"
+msgstr "[D]: Converteix i alça l'objecte"
+
+#. SAMv
+#: optfltr.src#RID_OFAPAGE_MSFILTEROPT2.ST_CHG_MATH.string.text
+msgid "MathType to %PRODUCTNAME Math or reverse"
+msgstr "Del MathType al %PRODUCTNAME Math o a la inversa"
+
+#. 8tND
+#: optfltr.src#RID_OFAPAGE_MSFILTEROPT2.ST_CHG_WRITER.string.text
+msgid "WinWord to %PRODUCTNAME Writer or reverse"
+msgstr "Del WinWord al %PRODUCTNAME Writer o a la inversa"
+
+#. 7d8d
+#: optfltr.src#RID_OFAPAGE_MSFILTEROPT2.ST_CHG_CALC.string.text
+msgid "Excel to %PRODUCTNAME Calc or reverse"
+msgstr "De l'Excel al %PRODUCTNAME Calc o a la inversa"
+
+#. FidL
+#: optfltr.src#RID_OFAPAGE_MSFILTEROPT2.ST_CHG_IMPRESS.string.text
+msgid "PowerPoint to %PRODUCTNAME Impress or reverse"
+msgstr "Del PowerPoint al %PRODUCTNAME Impress o a la inversa"
+
+#. SpPB
+#: dbregister.src#RID_SFXPAGE_DBREGISTER.FT_TYPE.fixedtext.text
+msgid "Registered name"
+msgstr "Nom registrat"
+
+#. GLZ#
+#: dbregister.src#RID_SFXPAGE_DBREGISTER.FT_PATH.fixedtext.text
+msgid "Database file"
+msgstr "Fitxer de base de dades"
+
+#. HrRk
+#: dbregister.src#RID_SFXPAGE_DBREGISTER.BTN_NEW.pushbutton.text
+msgctxt "dbregister.src#RID_SFXPAGE_DBREGISTER.BTN_NEW.pushbutton.text"
+msgid "~New..."
+msgstr "~Nou..."
+
+#. bsm_
+#: dbregister.src#RID_SFXPAGE_DBREGISTER.BTN_EDIT.pushbutton.text
+msgctxt "dbregister.src#RID_SFXPAGE_DBREGISTER.BTN_EDIT.pushbutton.text"
+msgid "~Edit..."
+msgstr "~Edita..."
+
+#. Dfgy
+#: dbregister.src#RID_SFXPAGE_DBREGISTER.BTN_DELETE.pushbutton.text
+msgctxt "dbregister.src#RID_SFXPAGE_DBREGISTER.BTN_DELETE.pushbutton.text"
+msgid "~Delete"
+msgstr "~Suprimeix"
+
+#. U90D
+#: dbregister.src#RID_SFXPAGE_DBREGISTER.GB_STD.fixedline.text
+msgctxt "dbregister.src#RID_SFXPAGE_DBREGISTER.GB_STD.fixedline.text"
+msgid "Registered databases"
+msgstr "Bases de dades registrades"
+
+#. QY_C
+#: dbregister.src#RID_SFXPAGE_DBREGISTER.tabpage.text
+msgctxt "dbregister.src#RID_SFXPAGE_DBREGISTER.tabpage.text"
+msgid "Registered databases"
+msgstr "Bases de dades registrades"
+
+#. Mkvm
+#: optlingu.src#RID_SVXDLG_EDIT_MODULES.FL_EDIT_MODULES_OPTIONS.fixedline.text
+msgctxt ""
+"optlingu.src#RID_SVXDLG_EDIT_MODULES.FL_EDIT_MODULES_OPTIONS.fixedline.text"
+msgid "Options"
+msgstr "Opcions"
+
+#. TXVt
+#: optlingu.src#RID_SVXDLG_EDIT_MODULES.FT_EDIT_MODULES_LANGUAGE.fixedtext.text
+msgid "Language"
+msgstr "Llengua"
+
+#. pgrY
+#: optlingu.src#RID_SVXDLG_EDIT_MODULES.PB_EDIT_MODULES_PRIO_UP.pushbutton.text
+msgid "Move Up"
+msgstr "Mou amunt"
+
+#. WPYc
+#: optlingu.src#RID_SVXDLG_EDIT_MODULES.PB_EDIT_MODULES_PRIO_DOWN.pushbutton.text
+msgid "Move Down"
+msgstr "Mou avall"
+
+#. D_ts
+#: optlingu.src#RID_SVXDLG_EDIT_MODULES.PB_EDIT_MODULES_PRIO_BACK.pushbutton.text
+msgid "~Back"
+msgstr "~Arrere"
+
+#. Pw7D
+#: optlingu.src#RID_SVXDLG_EDIT_MODULES.FT_EDIT_MODULES_NEWDICTSLINK.fixedtext.text
+msgctxt ""
+"optlingu.src#RID_SVXDLG_EDIT_MODULES.FT_EDIT_MODULES_NEWDICTSLINK.fixedtext."
+"text"
+msgid "~Get more dictionaries online..."
+msgstr "Aconse~guiu més diccionaris en línia..."
+
+#. 14nW
+#: optlingu.src#RID_SVXDLG_EDIT_MODULES.PB_OK.okbutton.text
+msgctxt "optlingu.src#RID_SVXDLG_EDIT_MODULES.PB_OK.okbutton.text"
+msgid "Close"
+msgstr "Tanca"
+
+#. VMKO
+#: optlingu.src#RID_SVXDLG_EDIT_MODULES.ST_SPELL.string.text
+msgid "Spelling"
+msgstr "Ortografia"
+
+#. Cxhh
+#: optlingu.src#RID_SVXDLG_EDIT_MODULES.ST_HYPH.string.text
+msgctxt "optlingu.src#RID_SVXDLG_EDIT_MODULES.ST_HYPH.string.text"
+msgid "Hyphenation"
+msgstr "Partició de mots"
+
+#. WNtl
+#: optlingu.src#RID_SVXDLG_EDIT_MODULES.ST_THES.string.text
+msgid "Thesaurus"
+msgstr "Tesaurus"
+
+#. XXFf
+#: optlingu.src#RID_SVXDLG_EDIT_MODULES.ST_GRAMMAR.string.text
+msgid "Grammar"
+msgstr "Gramàtica"
+
+#. _KkD
+#: optlingu.src#RID_SVXDLG_EDIT_MODULES.modaldialog.text
+msgid "Edit Modules"
+msgstr "Edita els mòduls"
+
+#. pYVN
+#: optlingu.src#RID_SVXDLG_LNG_ED_NUM_PREBREAK.STR_NUM_PRE_BREAK_DLG.string.text
+msgid "Characters before break"
+msgstr "Caràcters abans del salt"
+
+#. 5hOl
+#: optlingu.src#RID_SVXDLG_LNG_ED_NUM_PREBREAK.STR_NUM_POST_BREAK_DLG.string.text
+msgid "Characters after break"
+msgstr "Caràcters després del salt"
+
+#. m2pr
+#: optlingu.src#RID_SVXDLG_LNG_ED_NUM_PREBREAK.STR_NUM_MIN_WORDLEN_DLG.string.text
+msgid "Minimal word length"
+msgstr "Longitud mínima d'una paraula"
+
+#. 0CPd
+#: optlingu.src#RID_SVXDLG_LNG_ED_NUM_PREBREAK.modaldialog.text
+msgctxt "optlingu.src#RID_SVXDLG_LNG_ED_NUM_PREBREAK.modaldialog.text"
+msgid "Hyphenation"
+msgstr "Partició de mots"
+
+#. ImOF
+#: optlingu.src#RID_SFXPAGE_LINGU.FL_LINGUISTIC.fixedline.text
+msgctxt "optlingu.src#RID_SFXPAGE_LINGU.FL_LINGUISTIC.fixedline.text"
+msgid "Writing aids"
+msgstr "Ajudes a l'escriptura"
+
+#. aboC
+#: optlingu.src#RID_SFXPAGE_LINGU.FT_LINGU_MODULES.fixedtext.text
+msgid "Available language modules"
+msgstr "Mòduls de llengua disponibles"
+
+#. 8w1q
+#: optlingu.src#RID_SFXPAGE_LINGU.PB_LINGU_MODULES_EDIT.pushbutton.text
+msgctxt "optlingu.src#RID_SFXPAGE_LINGU.PB_LINGU_MODULES_EDIT.pushbutton.text"
+msgid "~Edit..."
+msgstr "~Edita..."
+
+#. sqJb
+#: optlingu.src#RID_SFXPAGE_LINGU.FT_LINGU_DICS.fixedtext.text
+msgctxt "optlingu.src#RID_SFXPAGE_LINGU.FT_LINGU_DICS.fixedtext.text"
+msgid "User-defined dictionaries"
+msgstr "Diccionaris definits per l'usuari"
+
+#. xB32
+#: optlingu.src#RID_SFXPAGE_LINGU.PB_LINGU_DICS_NEW_DIC.pushbutton.text
+msgctxt "optlingu.src#RID_SFXPAGE_LINGU.PB_LINGU_DICS_NEW_DIC.pushbutton.text"
+msgid "~New..."
+msgstr "~Nou..."
+
+#. r1#9
+#: optlingu.src#RID_SFXPAGE_LINGU.PB_LINGU_DICS_EDIT_DIC.pushbutton.text
+msgid "Ed~it..."
+msgstr "Ed~ita..."
+
+#. 5bDE
+#: optlingu.src#RID_SFXPAGE_LINGU.PB_LINGU_DICS_DEL_DIC.pushbutton.text
+msgctxt "optlingu.src#RID_SFXPAGE_LINGU.PB_LINGU_DICS_DEL_DIC.pushbutton.text"
+msgid "~Delete"
+msgstr "~Suprimeix"
+
+#. WtUS
+#: optlingu.src#RID_SFXPAGE_LINGU.FT_LINGU_OPTIONS.fixedtext.text
+msgid "~Options"
+msgstr "~Opcions"
+
+#. say6
+#: optlingu.src#RID_SFXPAGE_LINGU.PB_LINGU_OPTIONS_EDIT.pushbutton.text
+msgid "Edi~t..."
+msgstr "Edi~ta..."
+
+#. t9VJ
+#: optlingu.src#RID_SFXPAGE_LINGU.FT_LINGU_OPTIONS_MOREDICTS.fixedtext.text
+msgctxt ""
+"optlingu.src#RID_SFXPAGE_LINGU.FT_LINGU_OPTIONS_MOREDICTS.fixedtext.text"
+msgid "~Get more dictionaries online..."
+msgstr "Aconse~guiu més diccionaris en línia..."
+
+#. 0Sb5
+#: optlingu.src#RID_SFXPAGE_LINGU.STR_CAPITAL_WORDS.string.text
+msgid "Check uppercase words"
+msgstr "Comprova les paraules en majúscules"
+
+#. BQWu
+#: optlingu.src#RID_SFXPAGE_LINGU.STR_WORDS_WITH_DIGITS.string.text
+msgid "Check words with numbers "
+msgstr "Verifica les paraules amb xifres "
+
+#. ogri
+#: optlingu.src#RID_SFXPAGE_LINGU.STR_CAPITALIZATION.string.text
+msgid "Check capitalization"
+msgstr "Comprova l'ús de majúscules"
+
+#. hzro
+#: optlingu.src#RID_SFXPAGE_LINGU.STR_SPELL_SPECIAL.string.text
+msgid "Check special regions"
+msgstr "Comprova les regions especials"
+
+#. _lmc
+#: optlingu.src#RID_SFXPAGE_LINGU.STR_SPELL_AUTO.string.text
+msgid "Check spelling as you type"
+msgstr "Revisa l'ortografia a mesura que es teclegi"
+
+#. rp1R
+#: optlingu.src#RID_SFXPAGE_LINGU.STR_GRAMMAR_AUTO.string.text
+msgid "Check grammar as you type"
+msgstr "Revisa la gramàtica a mesura que es teclegi"
+
+#. #HyA
+#: optlingu.src#RID_SFXPAGE_LINGU.STR_NUM_MIN_WORDLEN.string.text
+msgid "Minimal number of characters for hyphenation: "
+msgstr "Nombre mínim de caràcters per posar-hi un guionet: "
+
+#. ZG3Z
+#: optlingu.src#RID_SFXPAGE_LINGU.STR_NUM_PRE_BREAK.string.text
+msgid "Characters before line break: "
+msgstr "Caràcters abans del salt de línia: "
+
+#. ZMnF
+#: optlingu.src#RID_SFXPAGE_LINGU.STR_NUM_POST_BREAK.string.text
+msgid "Characters after line break: "
+msgstr "Caràcters després del salt de línia: "
+
+#. KK6M
+#: optlingu.src#RID_SFXPAGE_LINGU.STR_HYPH_AUTO.string.text
+msgid "Hyphenate without inquiry"
+msgstr "Parteix els mots sense consultar"
+
+#. NTTt
+#: optlingu.src#RID_SFXPAGE_LINGU.STR_HYPH_SPECIAL.string.text
+msgid "Hyphenate special regions"
+msgstr "Parteix els mots de regions especials"
+
+#. LF1n
+#: optlingu.src#RID_SFXPAGE_LINGU.STR_LINGU_MODULES_EDIT.string.text
+msgid "Edit Available language modules"
+msgstr "Edita els mòduls de llengua disponibles"
+
+#. h3#f
+#: optlingu.src#RID_SFXPAGE_LINGU.STR_LINGU_DICS_EDIT_DIC.string.text
+msgid "Edit User-defined dictionaries"
+msgstr "Edita els diccionaris definits per l'usuari"
+
+#. PwLT
+#: optlingu.src#RID_SFXPAGE_LINGU.STR_LINGU_OPTIONS_EDIT.string.text
+msgid "Edit Options"
+msgstr "Opcions d'edició"
+
+#. gI4i
+#: optlingu.src#RID_SFXPAGE_LINGU.tabpage.text
+msgctxt "optlingu.src#RID_SFXPAGE_LINGU.tabpage.text"
+msgid "Options"
+msgstr "Opcions"
+
+#. T5vk
+#: optlingu.src#RID_SFXQB_DELDICT.querybox.text
+msgid "Do you want to delete the dictionary?"
+msgstr "Voleu suprimir el diccionari?"
+
+#. 4lRm
+#: optjsearch.src#RID_SVXPAGE_JSEARCH_OPTIONS.FL_TREAT_AS_EQUAL.fixedline.text
+msgid "Treat as equal"
+msgstr "Tracta com a iguals"
+
+#. D8ZO
+#: optjsearch.src#RID_SVXPAGE_JSEARCH_OPTIONS.CB_MATCH_CASE.checkbox.text
+msgid "~uppercase/lowercase"
+msgstr "majúsc~ula/minúscula"
+
+#. PvPJ
+#: optjsearch.src#RID_SVXPAGE_JSEARCH_OPTIONS.CB_MATCH_FULL_HALF_WIDTH.checkbox.text
+msgid "~full-width/half-width forms"
+msgstr "~formes d'amplada completa/d'amplada mitjana"
+
+#. DVm_
+#: optjsearch.src#RID_SVXPAGE_JSEARCH_OPTIONS.CB_MATCH_HIRAGANA_KATAKANA.checkbox.text
+msgid "~hiragana/katakana"
+msgstr "~hiragana/katakana"
+
+#. UXFS
+#: optjsearch.src#RID_SVXPAGE_JSEARCH_OPTIONS.CB_MATCH_CONTRACTIONS.checkbox.text
+msgid "~contractions (yo-on, sokuon)"
+msgstr "~contraccions (yo-on, sokuon)"
+
+#. arkE
+#: optjsearch.src#RID_SVXPAGE_JSEARCH_OPTIONS.CB_MATCH_MINUS_DASH_CHOON.checkbox.text
+msgid "~minus/dash/cho-on"
+msgstr "~menys/guió/cho-on"
+
+#. U_gE
+#: optjsearch.src#RID_SVXPAGE_JSEARCH_OPTIONS.CB_MATCH_REPEAT_CHAR_MARKS.checkbox.text
+msgid "'re~peat character' marks"
+msgstr "marques de 're~petició de caràcters'"
+
+#. EByQ
+#: optjsearch.src#RID_SVXPAGE_JSEARCH_OPTIONS.CB_MATCH_VARIANT_FORM_KANJI.checkbox.text
+msgid "~variant-form kanji (itaiji)"
+msgstr "Kanji de forma ~variable (itaiji)"
+
+#. TRYe
+#: optjsearch.src#RID_SVXPAGE_JSEARCH_OPTIONS.CB_MATCH_OLD_KANA_FORMS.checkbox.text
+msgid "~old Kana forms"
+msgstr "f~ormes Kana antigues"
+
+#. xlfI
+#: optjsearch.src#RID_SVXPAGE_JSEARCH_OPTIONS.CB_MATCH_DIZI_DUZU.checkbox.text
+msgid "~di/zi, du/zu"
+msgstr "~di/zi, du/zu"
+
+#. 6HV8
+#: optjsearch.src#RID_SVXPAGE_JSEARCH_OPTIONS.CB_MATCH_BAVA_HAFA.checkbox.text
+msgid "~ba/va, ha/fa"
+msgstr "~ba/va, ha/fa"
+
+#. Jdw9
+#: optjsearch.src#RID_SVXPAGE_JSEARCH_OPTIONS.CB_MATCH_TSITHICHI_DHIZI.checkbox.text
+msgid "~tsi/thi/chi, dhi/zi"
+msgstr "~tsi/thi/chi, dhi/zi"
+
+#. mTFO
+#: optjsearch.src#RID_SVXPAGE_JSEARCH_OPTIONS.CB_MATCH_HYUFYU_BYUVYU.checkbox.text
+msgid "h~yu/fyu, byu/vyu"
+msgstr "h~yu/fyu, byu/vyu"
+
+#. bNsP
+#: optjsearch.src#RID_SVXPAGE_JSEARCH_OPTIONS.CB_MATCH_SESHE_ZEJE.checkbox.text
+msgid "~se/she, ze/je"
+msgstr "~se/she, ze/je"
+
+#. ofXW
+#: optjsearch.src#RID_SVXPAGE_JSEARCH_OPTIONS.CB_MATCH_IAIYA.checkbox.text
+msgid "~ia/iya (piano/piyano)"
+msgstr "~ia/iya (piano/piyano)"
+
+#. KePM
+#: optjsearch.src#RID_SVXPAGE_JSEARCH_OPTIONS.CB_MATCH_KIKU.checkbox.text
+msgid "~ki/ku (tekisuto/tekusuto)"
+msgstr "~ki/ku (tekisuto/tekusuto)"
+
+#. TyG4
+#: optjsearch.src#RID_SVXPAGE_JSEARCH_OPTIONS.CB_MATCH_PROLONGED_SOUNDMARK.checkbox.text
+msgid "Prolon~ged vowels (ka-/kaa)"
+msgstr "Vocals perllon~gades (ka-/kaa)"
+
+#. Egld
+#: optjsearch.src#RID_SVXPAGE_JSEARCH_OPTIONS.FL_IGNORE.fixedline.text
+msgid "Ignore"
+msgstr "Ignora"
+
+#. 4HEy
+#: optjsearch.src#RID_SVXPAGE_JSEARCH_OPTIONS.CB_IGNORE_PUNCTUATION.checkbox.text
+msgid "Pu~nctuation characters"
+msgstr "Caràcters de pu~ntuació"
+
+#. K70I
+#: optjsearch.src#RID_SVXPAGE_JSEARCH_OPTIONS.CB_IGNORE_WHITESPACES.checkbox.text
+msgid "~Whitespace characters"
+msgstr "Caràcters d'~espaiat"
+
+#. 5bFZ
+#: optjsearch.src#RID_SVXPAGE_JSEARCH_OPTIONS.CB_IGNORE_MIDDLE_DOT.checkbox.text
+msgid "Midd~le dots"
+msgstr "Punts de~l mig"
+
+#. Yhdr
+#: optjsearch.src#RID_SVXPAGE_JSEARCH_OPTIONS.tabpage.text
+msgctxt "optjsearch.src#RID_SVXPAGE_JSEARCH_OPTIONS.tabpage.text"
+msgid "Searching in Japanese"
+msgstr "Cerca en japonés"
+
+#. 5YZ6
+#: doclinkdialog.src#DLG_DOCUMENTLINK.FT_URL.fixedtext.text
+msgid "~Database file"
+msgstr "Fitxer de base de ~dades"
+
+#. 2dbB
+#: doclinkdialog.src#DLG_DOCUMENTLINK.PB_BROWSEFILE.pushbutton.text
+msgid "~Browse..."
+msgstr "~Navega..."
+
+#. 37Bv
+#: doclinkdialog.src#DLG_DOCUMENTLINK.FT_NAME.fixedtext.text
+msgid "Registered ~name"
+msgstr "~Nom registrat"
+
+#. k2Ub
+#: doclinkdialog.src#DLG_DOCUMENTLINK.STR_EDIT_LINK.string.text
+msgid "Edit Database Link"
+msgstr "Edita l'enllaç a la base de dades"
+
+#. VI06
+#: doclinkdialog.src#DLG_DOCUMENTLINK.STR_NEW_LINK.string.text
+msgid "Create Database Link"
+msgstr "Enllaça a una base de dades"
+
+#. jkkz
+#: doclinkdialog.src#STR_LINKEDDOC_DOESNOTEXIST.string.text
+msgid ""
+"The file\n"
+"$file$\n"
+"does not exist."
+msgstr ""
+"El fitxer\n"
+"$file$\n"
+"no existeix."
+
+#. eo4C
+#: doclinkdialog.src#STR_LINKEDDOC_NO_SYSTEM_FILE.string.text
+msgid ""
+"The file\n"
+"$file$\n"
+"does not exist in the local file system."
+msgstr ""
+"El fitxer\n"
+"$file$\n"
+"no existeix al sistema de fitxers local."
+
+#. 9aHF
+#: doclinkdialog.src#STR_NAME_CONFLICT.string.text
+msgid ""
+"The name '$file$' is already used for another database.\n"
+"Please choose a different name."
+msgstr ""
+"El nom '$file$' s'està fent servir per a una altra base de dades.\n"
+"Trieu un altre nom."
+
+#. LjGo
+#: doclinkdialog.src#QUERY_DELETE_CONFIRM.querybox.text
+msgid "Do you want to delete the entry?"
+msgstr "Voleu suprimir l'entrada?"
+
+#. qK0G
+#: optpath.src#RID_SFXPAGE_PATH.FT_TYPE.fixedtext.text
+msgid "Type"
+msgstr "Tipus"
+
+#. uowb
+#: optpath.src#RID_SFXPAGE_PATH.FT_PATH.fixedtext.text
+msgid "Path"
+msgstr "Camí"
+
+#. ibam
+#: optpath.src#RID_SFXPAGE_PATH.BTN_PATH.pushbutton.text
+msgctxt "optpath.src#RID_SFXPAGE_PATH.BTN_PATH.pushbutton.text"
+msgid "~Edit..."
+msgstr "~Edita..."
+
+#. 5xr_
+#: optpath.src#RID_SFXPAGE_PATH.BTN_STANDARD.pushbutton.text
+msgctxt "optpath.src#RID_SFXPAGE_PATH.BTN_STANDARD.pushbutton.text"
+msgid "~Default"
+msgstr "~Per defecte"
+
+#. Iynu
+#: optpath.src#RID_SFXPAGE_PATH.GB_STD.fixedline.text
+msgid "Paths used by %PRODUCTNAME"
+msgstr "Camins utilitzats pel %PRODUCTNAME"
+
+#. oM7r
+#: optpath.src#RID_SFXPAGE_PATH.STR_MULTIPATHDLG.string.text
+msgid "Edit Paths: %1"
+msgstr "Edita els camins: %1"
+
+#. 8NGU
+#: optpath.src#RID_SFXPAGE_PATH.tabpage.text
+msgctxt "optpath.src#RID_SFXPAGE_PATH.tabpage.text"
+msgid "Paths"
+msgstr "Camins"
+
+#. k9Rp
+#: optpath.src#RID_SVXERR_OPT_DOUBLEPATHS.errorbox.text
+msgid ""
+"The configuration and mail directories must be specified as separate "
+"directories.\n"
+"Please choose a new path."
+msgstr ""
+"Els directoris de configuració i de correu han de ser diferents.\n"
+"Indiqueu un altre camí."
+
+#. vSuT
+#: optpath.src#RID_SVXSTR_KEY_CONFIG_DIR.string.text
+msgid "Configuration"
+msgstr "Configuració"
+
+#. 2Pwp
+#: optpath.src#RID_SVXSTR_KEY_WORK_PATH.string.text
+msgid "My Documents"
+msgstr "Els meus documents"
+
+#. rWRB
+#: optpath.src#RID_SVXSTR_KEY_GRAPHICS_PATH.string.text
+msgid "Graphics"
+msgstr "Gràfics"
+
+#. rvOu
+#: optpath.src#RID_SVXSTR_KEY_BITMAP_PATH.string.text
+msgid "Icons"
+msgstr "Icones"
+
+#. IIN6
+#: optpath.src#RID_SVXSTR_KEY_PALETTE_PATH.string.text
+msgid "Palettes"
+msgstr "Paletes"
+
+#. qhiC
+#: optpath.src#RID_SVXSTR_KEY_BACKUP_PATH.string.text
+msgid "Backups"
+msgstr "Còpies de seguretat"
+
+#. moXS
+#: optpath.src#RID_SVXSTR_KEY_MODULES_PATH.string.text
+msgid "Modules"
+msgstr "Mòduls"
+
+#. 3CfE
+#: optpath.src#RID_SVXSTR_KEY_TEMPLATE_PATH.string.text
+msgid "Templates"
+msgstr "Plantilles"
+
+#. eGp7
+#: optpath.src#RID_SVXSTR_KEY_GLOSSARY_PATH.string.text
+msgid "AutoText"
+msgstr "Text automàtic"
+
+#. dVlq
+#: optpath.src#RID_SVXSTR_KEY_DICTIONARY_PATH.string.text
+msgid "Dictionaries"
+msgstr "Diccionaris"
+
+#. VFdu
+#: optpath.src#RID_SVXSTR_KEY_HELP_DIR.string.text
+msgctxt "optpath.src#RID_SVXSTR_KEY_HELP_DIR.string.text"
+msgid "Help"
+msgstr "Ajuda"
+
+#. CAyR
+#: optpath.src#RID_SVXSTR_KEY_GALLERY_DIR.string.text
+msgid "Gallery"
+msgstr "Galeria"
+
+#. SNCg
+#: optpath.src#RID_SVXSTR_KEY_STORAGE_DIR.string.text
+msgid "Message Storage"
+msgstr "Emmagatzematge de missatges"
+
+#. of#a
+#: optpath.src#RID_SVXSTR_KEY_TEMP_PATH.string.text
+msgid "Temporary files"
+msgstr "Fitxers temporals"
+
+#. Hhcd
+#: optpath.src#RID_SVXSTR_KEY_PLUGINS_PATH.string.text
+msgid "Plug-ins"
+msgstr "Connectors"
+
+#. AxYW
+#: optpath.src#RID_SVXSTR_KEY_FAVORITES_DIR.string.text
+msgid "Folder Bookmarks"
+msgstr "Carpeta d'adreces d'interés"
+
+#. wGvU
+#: optpath.src#RID_SVXSTR_KEY_FILTER_PATH.string.text
+msgid "Filters"
+msgstr "Filtres"
+
+#. uDVP
+#: optpath.src#RID_SVXSTR_KEY_ADDINS_PATH.string.text
+msgid "Add-ins"
+msgstr "Complements"
+
+#. 4wLt
+#: optpath.src#RID_SVXSTR_KEY_USERCONFIG_PATH.string.text
+msgid "User Configuration"
+msgstr "Configuració d'usuari"
+
+#. z9IV
+#: optpath.src#RID_SVXSTR_KEY_USERDICTIONARY_DIR.string.text
+msgctxt "optpath.src#RID_SVXSTR_KEY_USERDICTIONARY_DIR.string.text"
+msgid "User-defined dictionaries"
+msgstr "Diccionaris definits per l'usuari"
+
+#. n6iB
+#: optpath.src#RID_SVXSTR_KEY_AUTOCORRECT_DIR.string.text
+msgid "AutoCorrect"
+msgstr "Correcció automàtica"
+
+#. JpTn
+#: optpath.src#RID_SVXSTR_KEY_LINGUISTIC_DIR.string.text
+msgctxt "optpath.src#RID_SVXSTR_KEY_LINGUISTIC_DIR.string.text"
+msgid "Writing aids"
+msgstr "Ajudes a l'escriptura"
+
+#. C2oo
+#: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.FL_OPTIONS.fixedline.text
+msgid "Online Update Options"
+msgstr "Opcions d'actualització en línia"
+
+#. s4v7
+#: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.CB_AUTOCHECK.checkbox.text
+msgid "~Check for updates automatically"
+msgstr "~Comprova si hi ha actualitzacions automàticament"
+
+#. 2sZN
+#: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.RB_EVERYDAY.radiobutton.text
+msgid "Every Da~y"
+msgstr "Cada ~dia"
+
+#. jg#V
+#: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.RB_EVERYWEEK.radiobutton.text
+msgid "Every ~Week"
+msgstr "Cada ~setmana"
+
+#. 0AhY
+#: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.RB_EVERYMONTH.radiobutton.text
+msgid "Every ~Month"
+msgstr "Cada ~mes"
+
+#. 178J
+#: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.FT_LASTCHECKED.fixedtext.text
+msgid "Last checked: %DATE%, %TIME%"
+msgstr "Darrera comprovació: %DATE%, %TIME%"
+
+#. OGmp
+#: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.PB_CHECKNOW.pushbutton.text
+msgid "Check ~now"
+msgstr "Comprova-ho ~ara"
+
+#. fKVS
+#: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.CB_AUTODOWNLOAD.checkbox.text
+msgid "~Download updates automatically"
+msgstr "~Baixa les actualitzacions automàticament"
+
+#. dwoB
+#: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.FT_DESTPATHLABEL.fixedtext.text
+msgid "Download destination:"
+msgstr "Ubicació de les baixades:"
+
+#. k91w
+#: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.PB_CHANGEPATH.pushbutton.text
+msgid "Ch~ange..."
+msgstr "Ca~nvia..."
+
+#. 1K1b
+#: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.STR_NEVERCHECKED.string.text
+msgid "Last checked: Not yet"
+msgstr "Darrera comprovació: mai"
+
+#. QQ05
+#: optupdt.src#RID_SVXPAGE_ONLINEUPDATE.tabpage.text
+msgid "OnlineUpdate"
+msgstr "Actualització en línia"
+
+#. ptaI
+#: webconninfo.src#RID_SVXDLG_WEBCONNECTION_INFO.FI_NEVERSHOWN.fixedtext.text
+msgid "Web login information (passwords are never shown)"
+msgstr "Informació d'entrada a webs (mai es mostren les contrasenyes)"
+
+#. U8R#
+#: webconninfo.src#RID_SVXDLG_WEBCONNECTION_INFO.PB_REMOVE.pushbutton.text
+msgid "Remove"
+msgstr "Suprimeix"
+
+#. uemc
+#: webconninfo.src#RID_SVXDLG_WEBCONNECTION_INFO.PB_REMOVEALL.pushbutton.text
+msgid "Remove All"
+msgstr "Suprimeix-ho tot"
+
+#. 0n3f
+#: webconninfo.src#RID_SVXDLG_WEBCONNECTION_INFO.PB_CHANGE.pushbutton.text
+msgid "Change Password..."
+msgstr "Canvia la contrasenya..."
+
+#. bjtH
+#: webconninfo.src#RID_SVXDLG_WEBCONNECTION_INFO.PB_CLOSE.cancelbutton.text
+msgctxt ""
+"webconninfo.src#RID_SVXDLG_WEBCONNECTION_INFO.PB_CLOSE.cancelbutton.text"
+msgid "Close"
+msgstr "Tanca"
+
+#. hM_C
+#: webconninfo.src#RID_SVXDLG_WEBCONNECTION_INFO.STR_WEBSITE.string.text
+msgid "Website"
+msgstr "Lloc web"
+
+#. 2KIk
+#: webconninfo.src#RID_SVXDLG_WEBCONNECTION_INFO.STR_USERNAME.string.text
+msgid "User name"
+msgstr "Nom d'usuari"
+
+#. RwZ9
+#: webconninfo.src#RID_SVXDLG_WEBCONNECTION_INFO.modaldialog.text
+msgid "Stored Web Connection Information"
+msgstr "Informació emmagatzemada de connexió a webs"
+
+#~ msgctxt ""
+#~ "treeopt.src#RID_OFADLG_OPTIONS_TREE_PAGES.SID_SW_EDITOPTIONS.6.itemlist."
+#~ "text"
+#~ msgid "Print"
+#~ msgstr "Imprimeix"
+
+#~ msgid "Not using ODF 1.2 Extended may cause infomation to be lost."
+#~ msgstr ""
+#~ "El fet de no utilitzar ODF 1.2 Ampliat pot provocar la pèrdua "
+#~ "d'informació."
+
+#~ msgctxt ""
+#~ "optlingu.src#RID_SVXDLG_EDIT_MODULES.PB_EDIT_MODULES_PRIO_BACK.pushbutton."
+#~ "text"
+#~ msgid "~Back"
+#~ msgstr "~Enrere"

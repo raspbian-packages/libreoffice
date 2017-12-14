@@ -2,7 +2,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+desktop%2Fsource%2Fdeployment%2Fregistry%2Fhelp.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+desktop%2Fsource%2Fdeployment%2Fregistry%2Fhelp."
+"oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
 "PO-Revision-Date: 2011-04-05 19:11+0200\n"
 "Last-Translator: jmontane <joan@montane.cat>\n"
@@ -15,14 +18,21 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. IpOK
 #: dp_help.src#RID_STR_HELP.string.text
 msgid "Help"
 msgstr "Ajuda"
 
+#. SL74
 #: dp_help.src#RID_STR_HELPPROCESSING_GENERAL_ERROR.string.text
 msgid "The extension cannot be installed because:\n"
 msgstr "L'extensió no es pot instal·lar pels motius següents:\n"
 
+#. nR6#
 #: dp_help.src#RID_STR_HELPPROCESSING_XMLPARSING_ERROR.string.text
-msgid "The extension will not be installed because an error occurred in the Help files:\n"
-msgstr "L'extensió no s'instal·larà perquè s'ha produït un error en els fitxers d'ajuda:\n"
+msgid ""
+"The extension will not be installed because an error occurred in the Help "
+"files:\n"
+msgstr ""
+"L'extensió no s'instal·larà perquè s'ha produït un error en els fitxers "
+"d'ajuda:\n"

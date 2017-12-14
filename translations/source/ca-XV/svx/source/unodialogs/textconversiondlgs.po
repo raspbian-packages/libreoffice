@@ -2,7 +2,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+svx%2Fsource%2Funodialogs%2Ftextconversiondlgs.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+svx%2Fsource%2Funodialogs%2Ftextconversiondlgs."
+"oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
 "PO-Revision-Date: 2011-11-27 14:03+0200\n"
 "Last-Translator: Jesús <jesus@softcatala.org>\n"
@@ -15,312 +18,454 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. #Tik
 #: chinese_translationdialog.src#DLG_CHINESETRANSLATION.FL_DIRECTION.fixedline.text
-msgctxt "chinese_translationdialog.src#DLG_CHINESETRANSLATION.FL_DIRECTION.fixedline.text"
+msgctxt ""
+"chinese_translationdialog.src#DLG_CHINESETRANSLATION.FL_DIRECTION.fixedline."
+"text"
 msgid "Conversion direction"
 msgstr "Direcció de la conversió"
 
+#. lPUq
 #: chinese_translationdialog.src#DLG_CHINESETRANSLATION.CB_USE_VARIANTS.checkbox.text
-msgctxt "chinese_translationdialog.src#DLG_CHINESETRANSLATION.CB_USE_VARIANTS.checkbox.text"
+msgctxt ""
+"chinese_translationdialog.src#DLG_CHINESETRANSLATION.CB_USE_VARIANTS."
+"checkbox.text"
 msgid "~Use Taiwan, Hong Kong SAR, and Macao SAR character variants"
-msgstr "~Utilitza les variants de caràcters de Taiwan, Hong Kong (RAE) i Macau (RAE)"
+msgstr ""
+"~Utilitza les variants de caràcters de Taiwan, Hong Kong (RAE) i Macau (RAE)"
 
+#. ZgF#
 #: chinese_translationdialog.src#DLG_CHINESETRANSLATION.FL_COMMONTERMS.fixedline.text
-msgctxt "chinese_translationdialog.src#DLG_CHINESETRANSLATION.FL_COMMONTERMS.fixedline.text"
+msgctxt ""
+"chinese_translationdialog.src#DLG_CHINESETRANSLATION.FL_COMMONTERMS."
+"fixedline.text"
 msgid "Common terms"
 msgstr "Termes comuns"
 
+#. 8MBf
 #: chinese_translationdialog.src#DLG_CHINESETRANSLATION.CB_TRANSLATE_COMMONTERMS.checkbox.text
-msgctxt "chinese_translationdialog.src#DLG_CHINESETRANSLATION.CB_TRANSLATE_COMMONTERMS.checkbox.text"
+msgctxt ""
+"chinese_translationdialog.src#DLG_CHINESETRANSLATION."
+"CB_TRANSLATE_COMMONTERMS.checkbox.text"
 msgid "Translate ~common terms"
 msgstr "Tradueix els termes ~comuns"
 
+#. xXMA
 #: chinese_translationdialog.src#DLG_CHINESETRANSLATION.PB_EDITTERMS.pushbutton.text
-msgctxt "chinese_translationdialog.src#DLG_CHINESETRANSLATION.PB_EDITTERMS.pushbutton.text"
+msgctxt ""
+"chinese_translationdialog.src#DLG_CHINESETRANSLATION.PB_EDITTERMS.pushbutton."
+"text"
 msgid "~Edit Terms..."
 msgstr "~Edita els termes..."
 
+#. rIIx
 #: chinese_translationdialog.src#DLG_CHINESETRANSLATION.modaldialog.text
 msgctxt "chinese_translationdialog.src#DLG_CHINESETRANSLATION.modaldialog.text"
 msgid "Chinese Conversion"
 msgstr "Conversió del xinés"
 
+#. 3hpv
 #: chinese_dialogs.src#DIRECTION_RADIOBUTTONS__D_XPOS__D_YPOS__D_FULLWIDTH__.RB_TO_SIMPLIFIED.radiobutton.text
-msgctxt "chinese_dialogs.src#DIRECTION_RADIOBUTTONS__D_XPOS__D_YPOS__D_FULLWIDTH__.RB_TO_SIMPLIFIED.radiobutton.text"
+msgctxt ""
+"chinese_dialogs.src#DIRECTION_RADIOBUTTONS__D_XPOS__D_YPOS__D_FULLWIDTH__."
+"RB_TO_SIMPLIFIED.radiobutton.text"
 msgid "~Traditional Chinese to simplified Chinese"
 msgstr "~De xinés tradicional a xinés simplificat"
 
+#. Nz_U
 #: chinese_dialogs.src#DIRECTION_RADIOBUTTONS__D_XPOS__D_YPOS__D_FULLWIDTH__.RB_TO_TRADITIONAL.radiobutton.text
-msgctxt "chinese_dialogs.src#DIRECTION_RADIOBUTTONS__D_XPOS__D_YPOS__D_FULLWIDTH__.RB_TO_TRADITIONAL.radiobutton.text"
+msgctxt ""
+"chinese_dialogs.src#DIRECTION_RADIOBUTTONS__D_XPOS__D_YPOS__D_FULLWIDTH__."
+"RB_TO_TRADITIONAL.radiobutton.text"
 msgid "~Simplified Chinese to traditional Chinese"
 msgstr "~De xinés simplificat a xinés tradicional"
 
+#. 8o#S
 #: chinese_dialogs.src#DLG_CHINESEDICTIONARY.CB_REVERSE.checkbox.text
 msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.CB_REVERSE.checkbox.text"
 msgid "Reverse mapping"
 msgstr "Inverteix el mapatge"
 
+#. _wjz
 #: chinese_dialogs.src#DLG_CHINESEDICTIONARY.FT_TERM.fixedtext.text
 msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.FT_TERM.fixedtext.text"
 msgid "Term"
 msgstr "Terme"
 
+#. BWWm
 #: chinese_dialogs.src#DLG_CHINESEDICTIONARY.FT_MAPPING.fixedtext.text
 msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.FT_MAPPING.fixedtext.text"
 msgid "Mapping"
 msgstr "Mapatge"
 
+#. IwS3
 #: chinese_dialogs.src#DLG_CHINESEDICTIONARY.FT_PROPERTY.fixedtext.text
 msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.FT_PROPERTY.fixedtext.text"
 msgid "Property"
 msgstr "Propietat"
 
+#. G90#
 #: chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.1.stringlist.text
-msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.1.stringlist.text"
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.1.stringlist.text"
 msgid "Other"
 msgstr "Altre"
 
+#. yrvC
 #: chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.2.stringlist.text
-msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.2.stringlist.text"
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.2.stringlist.text"
 msgid "Foreign"
 msgstr "Estranger"
 
+#. nmoz
 #: chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.3.stringlist.text
-msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.3.stringlist.text"
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.3.stringlist.text"
 msgid "First name"
 msgstr "Nom"
 
+#. V_k8
 #: chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.4.stringlist.text
-msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.4.stringlist.text"
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.4.stringlist.text"
 msgid "Last name"
 msgstr "Cognom"
 
+#. Iwbv
 #: chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.5.stringlist.text
-msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.5.stringlist.text"
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.5.stringlist.text"
 msgid "Title"
 msgstr "Títol"
 
+#. #6SB
 #: chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.6.stringlist.text
-msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.6.stringlist.text"
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.6.stringlist.text"
 msgid "Status"
 msgstr "Estat"
 
+#. p3Nw
 #: chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.7.stringlist.text
-msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.7.stringlist.text"
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.7.stringlist.text"
 msgid "Place name"
 msgstr "Nom del lloc"
 
+#. Pg00
 #: chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.8.stringlist.text
-msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.8.stringlist.text"
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.8.stringlist.text"
 msgid "Business"
 msgstr "Negoci"
 
+#. KlBn
 #: chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.9.stringlist.text
-msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.9.stringlist.text"
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.9.stringlist.text"
 msgid "Adjective"
 msgstr "Adjectiu"
 
+#. mQzk
 #: chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.10.stringlist.text
-msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.10.stringlist.text"
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.10.stringlist.text"
 msgid "Idiom"
 msgstr "Frase feta"
 
+#. zVsV
 #: chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.11.stringlist.text
-msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.11.stringlist.text"
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.11.stringlist.text"
 msgid "Abbreviation"
 msgstr "Abreviatura"
 
+#. HZFj
 #: chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.12.stringlist.text
-msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.12.stringlist.text"
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.12.stringlist.text"
 msgid "Numerical"
 msgstr "Numeral"
 
+#. Sc4S
 #: chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.13.stringlist.text
-msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.13.stringlist.text"
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.13.stringlist.text"
 msgid "Noun"
 msgstr "Nom"
 
+#. ofOf
 #: chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.14.stringlist.text
-msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.14.stringlist.text"
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.14.stringlist.text"
 msgid "Verb"
 msgstr "Verb"
 
+#. _iJO
 #: chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.15.stringlist.text
-msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.15.stringlist.text"
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.15.stringlist.text"
 msgid "Brand name"
 msgstr "Nom de marca"
 
+#. cYrE
 #: chinese_dialogs.src#DLG_CHINESEDICTIONARY.PB_ADD.pushbutton.text
 msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.PB_ADD.pushbutton.text"
 msgid "~Add"
 msgstr "~Afig"
 
+#. IWw3
 #: chinese_dialogs.src#DLG_CHINESEDICTIONARY.PB_MODIFY.pushbutton.text
 msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.PB_MODIFY.pushbutton.text"
 msgid "~Modify"
 msgstr "~Modifica"
 
+#. qhAm
 #: chinese_dialogs.src#DLG_CHINESEDICTIONARY.PB_DELETE.pushbutton.text
 msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.PB_DELETE.pushbutton.text"
 msgid "~Delete"
 msgstr "S~uprimeix"
 
+#. 5xhy
 #: chinese_dialogs.src#DLG_CHINESEDICTIONARY.modaldialog.text
 msgctxt "chinese_dialogs.src#DLG_CHINESEDICTIONARY.modaldialog.text"
 msgid "Edit Dictionary"
 msgstr "Edita el diccionari"
 
+#. YGi9
 #: chinese_dialogs.src#DLG_CHINESETRANSLATION.FL_DIRECTION.fixedline.text
-msgctxt "chinese_dialogs.src#DLG_CHINESETRANSLATION.FL_DIRECTION.fixedline.text"
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESETRANSLATION.FL_DIRECTION.fixedline.text"
 msgid "Conversion direction"
 msgstr "Direcció de la conversió"
 
+#. EWeL
 #: chinese_dialogs.src#DLG_CHINESETRANSLATION.CB_USE_VARIANTS.checkbox.text
-msgctxt "chinese_dialogs.src#DLG_CHINESETRANSLATION.CB_USE_VARIANTS.checkbox.text"
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESETRANSLATION.CB_USE_VARIANTS.checkbox.text"
 msgid "~Use Taiwan, Hong Kong SAR, and Macao SAR character variants"
-msgstr "~Utilitza les variants de caràcters de Taiwan, Hong Kong (RAE) i Macau (RAE)"
+msgstr ""
+"~Utilitza les variants de caràcters de Taiwan, Hong Kong (RAE) i Macau (RAE)"
 
+#. 2JvV
 #: chinese_dialogs.src#DLG_CHINESETRANSLATION.FL_COMMONTERMS.fixedline.text
-msgctxt "chinese_dialogs.src#DLG_CHINESETRANSLATION.FL_COMMONTERMS.fixedline.text"
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESETRANSLATION.FL_COMMONTERMS.fixedline.text"
 msgid "Common terms"
 msgstr "Termes comuns"
 
+#. tIOu
 #: chinese_dialogs.src#DLG_CHINESETRANSLATION.CB_TRANSLATE_COMMONTERMS.checkbox.text
-msgctxt "chinese_dialogs.src#DLG_CHINESETRANSLATION.CB_TRANSLATE_COMMONTERMS.checkbox.text"
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESETRANSLATION.CB_TRANSLATE_COMMONTERMS.checkbox."
+"text"
 msgid "Translate ~common terms"
 msgstr "Tradueix els termes ~comuns"
 
+#. Egbx
 #: chinese_dialogs.src#DLG_CHINESETRANSLATION.PB_EDITTERMS.pushbutton.text
-msgctxt "chinese_dialogs.src#DLG_CHINESETRANSLATION.PB_EDITTERMS.pushbutton.text"
+msgctxt ""
+"chinese_dialogs.src#DLG_CHINESETRANSLATION.PB_EDITTERMS.pushbutton.text"
 msgid "~Edit Terms..."
 msgstr "~Edita els termes..."
 
+#. Xh1C
 #: chinese_dialogs.src#DLG_CHINESETRANSLATION.modaldialog.text
 msgctxt "chinese_dialogs.src#DLG_CHINESETRANSLATION.modaldialog.text"
 msgid "Chinese Conversion"
 msgstr "Conversió del xinés"
 
+#. 1kcb
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.CB_REVERSE.checkbox.text
-msgctxt "chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.CB_REVERSE.checkbox.text"
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.CB_REVERSE.checkbox.text"
 msgid "Reverse mapping"
 msgstr "Inverteix el mapatge"
 
+#. G2mF
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.FT_TERM.fixedtext.text
-msgctxt "chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.FT_TERM.fixedtext.text"
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.FT_TERM.fixedtext.text"
 msgid "Term"
 msgstr "Terme"
 
+#. EwfT
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.FT_MAPPING.fixedtext.text
-msgctxt "chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.FT_MAPPING.fixedtext.text"
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.FT_MAPPING.fixedtext.text"
 msgid "Mapping"
 msgstr "Mapatge"
 
+#. tMdy
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.FT_PROPERTY.fixedtext.text
-msgctxt "chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.FT_PROPERTY.fixedtext.text"
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.FT_PROPERTY.fixedtext.text"
 msgid "Property"
 msgstr "Propietat"
 
+#. 5J2Z
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.1.stringlist.text
-msgctxt "chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.1.stringlist.text"
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.1.stringlist."
+"text"
 msgid "Other"
 msgstr "Altre"
 
+#. flxH
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.2.stringlist.text
-msgctxt "chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.2.stringlist.text"
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.2.stringlist."
+"text"
 msgid "Foreign"
 msgstr "Estranger"
 
+#. agmW
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.3.stringlist.text
-msgctxt "chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.3.stringlist.text"
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.3.stringlist."
+"text"
 msgid "First name"
 msgstr "Nom"
 
+#. AbiL
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.4.stringlist.text
-msgctxt "chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.4.stringlist.text"
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.4.stringlist."
+"text"
 msgid "Last name"
 msgstr "Cognom"
 
+#. 7Wda
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.5.stringlist.text
-msgctxt "chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.5.stringlist.text"
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.5.stringlist."
+"text"
 msgid "Title"
 msgstr "Títol"
 
+#. hSUM
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.6.stringlist.text
-msgctxt "chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.6.stringlist.text"
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.6.stringlist."
+"text"
 msgid "Status"
 msgstr "Estat"
 
+#. cPLd
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.7.stringlist.text
-msgctxt "chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.7.stringlist.text"
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.7.stringlist."
+"text"
 msgid "Place name"
 msgstr "Nom del lloc"
 
+#. Cm2T
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.8.stringlist.text
-msgctxt "chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.8.stringlist.text"
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.8.stringlist."
+"text"
 msgid "Business"
 msgstr "Negoci"
 
+#. 1r9i
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.9.stringlist.text
-msgctxt "chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.9.stringlist.text"
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.9.stringlist."
+"text"
 msgid "Adjective"
 msgstr "Adjectiu"
 
+#. Zdft
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.10.stringlist.text
-msgctxt "chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.10.stringlist.text"
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.10.stringlist."
+"text"
 msgid "Idiom"
 msgstr "Frase feta"
 
+#. kYY6
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.11.stringlist.text
-msgctxt "chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.11.stringlist.text"
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.11.stringlist."
+"text"
 msgid "Abbreviation"
 msgstr "Abreviatura"
 
+#. 2URq
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.12.stringlist.text
-msgctxt "chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.12.stringlist.text"
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.12.stringlist."
+"text"
 msgid "Numerical"
 msgstr "Numeral"
 
+#. FRG5
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.13.stringlist.text
-msgctxt "chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.13.stringlist.text"
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.13.stringlist."
+"text"
 msgid "Noun"
 msgstr "Nom"
 
+#. XKCm
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.14.stringlist.text
-msgctxt "chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.14.stringlist.text"
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.14.stringlist."
+"text"
 msgid "Verb"
 msgstr "Verb"
 
+#. iH71
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.15.stringlist.text
-msgctxt "chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.15.stringlist.text"
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.LB_PROPERTY.15.stringlist."
+"text"
 msgid "Brand name"
 msgstr "Nom de marca"
 
+#. 9Qey
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.PB_ADD.pushbutton.text
-msgctxt "chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.PB_ADD.pushbutton.text"
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.PB_ADD.pushbutton.text"
 msgid "~Add"
 msgstr "~Afig"
 
+#. Nwpk
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.PB_MODIFY.pushbutton.text
-msgctxt "chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.PB_MODIFY.pushbutton.text"
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.PB_MODIFY.pushbutton.text"
 msgid "~Modify"
 msgstr "~Modifica"
 
+#. nn3T
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.PB_DELETE.pushbutton.text
-msgctxt "chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.PB_DELETE.pushbutton.text"
+msgctxt ""
+"chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.PB_DELETE.pushbutton.text"
 msgid "~Delete"
 msgstr "S~uprimeix"
 
+#. 1JaF
 #: chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.modaldialog.text
 msgctxt "chinese_dictionarydialog.src#DLG_CHINESEDICTIONARY.modaldialog.text"
 msgid "Edit Dictionary"
 msgstr "Edita el diccionari"
 
+#. bBO0
 #: chinese_direction_tmpl.hrc#DIRECTION_RADIOBUTTONS__D_XPOS__D_YPOS__D_FULLWIDTH__.RB_TO_SIMPLIFIED.radiobutton.text
-msgctxt "chinese_direction_tmpl.hrc#DIRECTION_RADIOBUTTONS__D_XPOS__D_YPOS__D_FULLWIDTH__.RB_TO_SIMPLIFIED.radiobutton.text"
+msgctxt ""
+"chinese_direction_tmpl."
+"hrc#DIRECTION_RADIOBUTTONS__D_XPOS__D_YPOS__D_FULLWIDTH__.RB_TO_SIMPLIFIED."
+"radiobutton.text"
 msgid "~Traditional Chinese to simplified Chinese"
 msgstr "~De xinés tradicional a xinés simplificat"
 
+#. ayD_
 #: chinese_direction_tmpl.hrc#DIRECTION_RADIOBUTTONS__D_XPOS__D_YPOS__D_FULLWIDTH__.RB_TO_TRADITIONAL.radiobutton.text
-msgctxt "chinese_direction_tmpl.hrc#DIRECTION_RADIOBUTTONS__D_XPOS__D_YPOS__D_FULLWIDTH__.RB_TO_TRADITIONAL.radiobutton.text"
+msgctxt ""
+"chinese_direction_tmpl."
+"hrc#DIRECTION_RADIOBUTTONS__D_XPOS__D_YPOS__D_FULLWIDTH__.RB_TO_TRADITIONAL."
+"radiobutton.text"
 msgid "~Simplified Chinese to traditional Chinese"
 msgstr "~De xinés simplificat a xinés tradicional"

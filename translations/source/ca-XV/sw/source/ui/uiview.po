@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+sw%2Fsource%2Fui%2Fuiview.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment="
+"&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%"
+"3A+sw%2Fsource%2Fui%2Fuiview.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
 "PO-Revision-Date: 2012-02-28 00:52+0200\n"
 "Last-Translator: Joan <joan@montane.cat>\n"
@@ -15,30 +17,37 @@ msgstr ""
 "X-Generator: Pootle 2.1.6\n"
 "X-Accelerator-Marker: ~\n"
 
+#. AdDZ
 #: pview.src#DLG_PAGEPREVIEW_ZOOM.FT_COL.fixedtext.text
 msgid "~Columns"
 msgstr "~Columnes"
 
+#. PlRK
 #: pview.src#DLG_PAGEPREVIEW_ZOOM.FT_ROW.fixedtext.text
 msgid "~Rows"
 msgstr "~Files"
 
+#. GS96
 #: pview.src#DLG_PAGEPREVIEW_ZOOM.modaldialog.text
 msgid "Multiple Pages"
 msgstr "Pàgines múltiples"
 
+#. qrME
 #: pview.src#RID_PVIEW_TOOLBOX.string.text
 msgid "Page Preview"
 msgstr "Previsualització de la pàgina"
 
+#. 16R#
 #: view.src#DLG_WRAP.querybox.text
 msgid "Do you want to continue checking at the beginning of the document?"
 msgstr "Voleu continuar revisant des de l'inici del document?"
 
+#. bl7H
 #: view.src#DLG_BODY.querybox.text
 msgid "Do you want to check the main text?"
 msgstr "Voleu revisar el text principal?"
 
+#. kS#V
 #: view.src#DLG_PRT_FIELDNAME.querybox.text
 msgid ""
 "Show field commands option is checked.\n"
@@ -47,122 +56,165 @@ msgstr ""
 "L'opció 'Mostra les ordes de camp' està activada.\n"
 "Voleu imprimir el document amb els noms de camp?"
 
+#. HOOp
 #: view.src#DLG_SPECIAL.querybox.text
 msgid "Do you want check the special regions?"
 msgstr "Voleu revisar les regions especials?"
 
+#. a5lN
 #: view.src#DLG_THESAURUS.querybox.text
-msgid "This word appears in the list of words you want to avoid! Start thesaurus?"
-msgstr "Esta paraula apareix a la llista de paraules que voleu evitar! Voleu iniciar el tesaurus?"
+msgid ""
+"This word appears in the list of words you want to avoid! Start thesaurus?"
+msgstr ""
+"Esta paraula apareix a la llista de paraules que voleu evitar! Voleu "
+"iniciar el tesaurus?"
 
+#. qzro
 #: view.src#DLG_SPECIAL_FORCED.querybox.text
 msgid "Check special regions is deactivated. Check anyway?"
-msgstr "La verificació d'àrees especials està desactivada. Voleu verificar-les igualment?"
+msgstr ""
+"La verificació d'àrees especials està desactivada. Voleu verificar-les "
+"igualment?"
 
+#. 99iT
 #: view.src#MSG_SEARCH_END.querybox.text
-msgid "%PRODUCTNAME Writer has searched to the end of the document. Do you want to continue at the beginning?"
-msgstr "El %PRODUCTNAME Writer ha cercat fins a la fi del document. Voleu seguir des del començament?"
+msgid ""
+"%PRODUCTNAME Writer has searched to the end of the document. Do you want to "
+"continue at the beginning?"
+msgstr ""
+"El %PRODUCTNAME Writer ha cercat fins a la fi del document. Voleu seguir des "
+"del començament?"
 
+#. iAGV
 #: view.src#MSG_SEARCH_START.querybox.text
-msgid "%PRODUCTNAME Writer has searched to the beginning of the document. Do you want to continue at the end?"
-msgstr "El %PRODUCTNAME Writer ha cercat fins al començament del document. Voleu continuar des del final?"
+msgid ""
+"%PRODUCTNAME Writer has searched to the beginning of the document. Do you "
+"want to continue at the end?"
+msgstr ""
+"El %PRODUCTNAME Writer ha cercat fins al començament del document. Voleu "
+"continuar des del final?"
 
+#. jvtp
 #: view.src#MSG_NO_MERGE_ENTRY.infobox.text
 msgid "Could not merge documents."
 msgstr "No s'han pogut fusionar els documents."
 
+#. A6p7
 #: view.src#MSG_ERR_INSERT_GLOS.infobox.text
 msgid "AutoText could not be created."
 msgstr "No s'ha pogut crear el text automàtic."
 
+#. H53O
 #: view.src#MSG_ERR_SRCSTREAM.infobox.text
 msgid "The source cannot be loaded."
 msgstr "No es pot carregar la font."
 
+#. guc1
 #: view.src#MSG_ERR_NO_FAX.infobox.text
 msgid "No fax printer has been set under Tools/Options/%1/Print."
 msgstr "No s'ha definit cap impressora fax a Eines/Opcions/%1/Imprimeix."
 
+#. VRAU
 #: view.src#STR_WEBOPTIONS.string.text
 msgid "HTML document"
 msgstr "Document HTML"
 
+#. PiT2
 #: view.src#STR_TEXTOPTIONS.string.text
 msgid "Text document"
 msgstr "Document de text"
 
+#. pX9T
 #: view.src#MSG_NOT_FOUND.infobox.text
 msgid "Search key not found."
 msgstr "No s'ha trobat la clau de cerca."
 
+#. a9ix
 #: view.src#MSG_INDEX_OVERFLOW.infobox.text
 msgid "found."
 msgstr "trobat."
 
+#. pgHM
 #: view.src#MSG_SCAN_NOSOURCE.infobox.text
 msgid "Source not specified."
 msgstr "No s'ha indicat la font."
 
+#. qd1t
 #: view.src#STR_NUM_LEVEL.string.text
 msgid "Level "
 msgstr "Nivell "
 
+#. gH6c
 #: view.src#STR_NUM_OUTLINE.string.text
 msgid "Outline "
 msgstr "Esquema "
 
+#. Rp1P
 #: view.src#STR_ERROR_NOLANG.string.text
 msgid "No language is selected in the proofed section."
 msgstr "No s'ha seleccionat cap llengua en l'àrea revisada."
 
+#. YTst
 #: view.src#STR_EDIT_FOOTNOTE.string.text
 msgid "Edit Footnote/Endnote"
 msgstr "Edita la nota al peu o final"
 
+#. yica
 #: view.src#STR_NB_REPLACED.string.text
 msgid "Search key replaced XX times."
 msgstr "La clau de cerca ha estat reemplaçada XX vegades."
 
+#. sonJ
 #: view.src#RID_TOOLS_TOOLBOX.string.text
 msgid "Main Toolbar"
 msgstr "Barra d'eines principal"
 
+#. pu2x
 #: view.src#STR_SRCVIEW_ROW.string.text
 msgid "Row "
 msgstr "Fila "
 
+#. jVaa
 #: view.src#STR_SRCVIEW_COL.string.text
 msgid "Column "
 msgstr "Columna "
 
+#. Nkg9
 #: view.src#STR_PRINT_TITLE.string.text
 msgid "Printing selection"
 msgstr "Impressió de la selecció"
 
+#. ySuj
 #: view.src#STR_PRINT_MSG.string.text
 msgid "Do you want to print the selection or the entire document?"
 msgstr "Voleu imprimir la selecció o bé tot el document?"
 
+#. kpAF
 #: view.src#STR_PRINT_ALL.string.text
 msgid "All"
 msgstr "Tot"
 
+#. Q0rK
 #: view.src#STR_PRINT_SELECTION.string.text
 msgid "Selection"
 msgstr "Selecció"
 
+#. Z5_Y
 #: view.src#STR_READONLY_SEL.string.text
 msgid "read-only"
 msgstr "només de lectura"
 
+#. r6#W
 #: view.src#STR_SAVEAS_SRC.string.text
 msgid "~Export source..."
 msgstr "~Exporta la font..."
 
+#. 03L2
 #: view.src#MN_SRCVIEW_POPUPMENU.string.text
 msgid "HTML source"
 msgstr "Font HTML"
 
+#. 0EIr
 #: view.src#MN_SRCVIEW_POPUPMENU.SID_SOURCEVIEW.menuitem.text
 msgid "HTML Source"
 msgstr "Font HTML"

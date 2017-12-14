@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+sw%2Fsource%2Fui%2Findex.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+sw%2Fsource%2Fui%2Findex.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:41+0200\n"
 "PO-Revision-Date: 2012-01-26 17:33+0200\n"
 "Last-Translator: Jesús <jesus@softcatala.org>\n"
@@ -15,856 +17,1067 @@ msgstr ""
 "X-Generator: Pootle 2.1.6\n"
 "X-Accelerator-Marker: ~\n"
 
+#. 1GlB
 #: cnttab.src#STR_TITLE.string.text
 msgctxt "cnttab.src#STR_TITLE.string.text"
 msgid "Title"
 msgstr "Títol"
 
+#. garG
 #: cnttab.src#STR_ALPHA.string.text
 msgid "Separator"
 msgstr "Separador"
 
+#. CtLV
 #: cnttab.src#STR_LEVEL.string.text
 msgid "Level "
 msgstr "Nivell"
 
+#. #XJV
 #: cnttab.src#STR_FILE_NOT_FOUND.string.text
 msgid "The file, \"%1\" in the \"%2\" path could not be found."
 msgstr "No s'ha pogut trobar el fitxer \"%1\" en el camí \"%2\"."
 
+#. j#HI
 #: cnttab.src#DLG_MULTI_TOX.1.TP_TOX_SELECT.pageitem.text
 msgid "Index/Table"
 msgstr "Índex/Taula"
 
+#. vAQY
 #: cnttab.src#DLG_MULTI_TOX.1.TP_TOX_ENTRY.pageitem.text
 msgctxt "cnttab.src#DLG_MULTI_TOX.1.TP_TOX_ENTRY.pageitem.text"
 msgid "Entries"
 msgstr "Entrades"
 
+#. 8qd#
 #: cnttab.src#DLG_MULTI_TOX.1.TP_TOX_STYLES.pageitem.text
 msgid "Styles"
 msgstr "Estils"
 
+#. Ffwt
 #: cnttab.src#DLG_MULTI_TOX.1.TP_COLUMN.pageitem.text
 msgid "Columns"
 msgstr "Columnes"
 
+#. s3uz
 #: cnttab.src#DLG_MULTI_TOX.1.TP_BACKGROUND.pageitem.text
 msgid "Background"
 msgstr "Fons"
 
+#. FZ5V
 #: cnttab.src#DLG_MULTI_TOX.ST_USERDEFINEDINDEX.string.text
 msgid "User-Defined Index"
 msgstr "Índex de l'usuari"
 
+#. nesy
 #: cnttab.src#DLG_MULTI_TOX.CB_SHOWEXAMPLE.checkbox.text
 msgid "Preview"
 msgstr "Previsualització"
 
+#. Z8Zx
 #: cnttab.src#DLG_MULTI_TOX.tabdialog.text
 msgid "Insert Index/Table"
 msgstr "Insereix un índex o una taula"
 
+#. iWAC
 #: cnttab.src#TP_TOX_SELECT.FL_TYPETITLE.fixedline.text
 msgid "Type and title"
 msgstr "Tipus i títol"
 
+#. 60ch
 #: cnttab.src#TP_TOX_SELECT.FT_TITLE.fixedtext.text
 msgid "~Title"
 msgstr "Títo~l"
 
+#. DjPk
 #: cnttab.src#TP_TOX_SELECT.FT_TYPE.fixedtext.text
 msgid "Type"
 msgstr "Tipus"
 
+#. jHaq
 #: cnttab.src#TP_TOX_SELECT.LB_TYPE.1.stringlist.text
 msgid "Table of Contents"
 msgstr "Índex de continguts"
 
+#. 1jT6
 #: cnttab.src#TP_TOX_SELECT.LB_TYPE.2.stringlist.text
 msgid "Alphabetical Index"
 msgstr "Índex alfabètic"
 
+#. CeMt
 #: cnttab.src#TP_TOX_SELECT.LB_TYPE.3.stringlist.text
 msgid "Illustration Index"
 msgstr "Índex d'il·lustracions"
 
+#. YdA2
 #: cnttab.src#TP_TOX_SELECT.LB_TYPE.4.stringlist.text
 msgid "Index of Tables"
 msgstr "Índex de taules"
 
+#. lY1p
 #: cnttab.src#TP_TOX_SELECT.LB_TYPE.5.stringlist.text
 msgid "User-Defined"
 msgstr "Definit per l'usuari"
 
+#. 3Uu1
 #: cnttab.src#TP_TOX_SELECT.LB_TYPE.6.stringlist.text
 msgid "Table of Objects"
 msgstr "Taula d'objectes"
 
+#. ERpm
 #: cnttab.src#TP_TOX_SELECT.LB_TYPE.7.stringlist.text
 msgid "Bibliography"
 msgstr "Bibliografia"
 
+#. SAu7
 #: cnttab.src#TP_TOX_SELECT.CB_READONLY.checkbox.text
 msgid "Protected against manual changes"
 msgstr "Protegit contra canvis manuals"
 
+#. 3D8u
 #: cnttab.src#TP_TOX_SELECT.FL_AREA.fixedline.text
 msgid "Create index/table"
 msgstr "Crea un índex/una taula"
 
+#. qOfI
 #: cnttab.src#TP_TOX_SELECT.FT_AREA.fixedtext.text
 msgid "for"
 msgstr "per a"
 
+#. QO3X
 #: cnttab.src#TP_TOX_SELECT.LB_AREA.1.stringlist.text
 msgid "Entire document"
 msgstr "Tot el document"
 
+#. sawJ
 #: cnttab.src#TP_TOX_SELECT.LB_AREA.2.stringlist.text
 msgid "Chapter"
 msgstr "Capítol"
 
+#. 14mK
 #: cnttab.src#TP_TOX_SELECT.FT_LEVEL.fixedtext.text
 msgctxt "cnttab.src#TP_TOX_SELECT.FT_LEVEL.fixedtext.text"
 msgid "Evaluate up to level"
 msgstr "Avalua fins al nivell"
 
+#. loi3
 #: cnttab.src#TP_TOX_SELECT.FL_CREATEFROM.fixedline.text
 msgid "Create from"
 msgstr "Crea a partir de"
 
+#. 6WwD
 #: cnttab.src#TP_TOX_SELECT.CB_FROMHEADINGS.checkbox.text
 msgid "Outline"
 msgstr "Esquema"
 
+#. ZUPe
 #: cnttab.src#TP_TOX_SELECT.CB_ADDSTYLES.checkbox.text
 msgid "~Additional Styles"
 msgstr "Estils ~addicionals"
 
+#. e5O6
 #: cnttab.src#TP_TOX_SELECT.ST_USER_ADDSTYLE.string.text
 msgctxt "cnttab.src#TP_TOX_SELECT.ST_USER_ADDSTYLE.string.text"
 msgid "Styl~es"
 msgstr "~Estils"
 
+#. jWvy
 #: cnttab.src#TP_TOX_SELECT.CB_TOXMARKS.checkbox.text
 msgid "Inde~x marks"
 msgstr "Mar~ques de l'índex"
 
+#. JICq
 #: cnttab.src#TP_TOX_SELECT.RB_FROMCAPTIONS.radiobutton.text
 msgid "Captions"
 msgstr "Llegendes"
 
+#. CkZh
 #: cnttab.src#TP_TOX_SELECT.FT_CAPTIONSEQUENCE.fixedtext.text
 msgid "Category"
 msgstr "Categoria"
 
+#. qGg#
 #: cnttab.src#TP_TOX_SELECT.FT_DISPLAYTYPE.fixedtext.text
 msgid "Display"
 msgstr "Visualitza"
 
+#. 32Bz
 #: cnttab.src#TP_TOX_SELECT.LB_DISPLAYTYPE.1.stringlist.text
 msgid "References"
 msgstr "Referències"
 
+#. l#oF
 #: cnttab.src#TP_TOX_SELECT.LB_DISPLAYTYPE.2.stringlist.text
 msgid "Category and Number"
 msgstr "Categoria i nombre"
 
+#. Yxv#
 #: cnttab.src#TP_TOX_SELECT.LB_DISPLAYTYPE.3.stringlist.text
 msgid "Caption Text"
 msgstr "Text de la llegenda"
 
+#. 9D0G
 #: cnttab.src#TP_TOX_SELECT.RB_FROMOBJECTNAMES.radiobutton.text
 msgid "Object names"
 msgstr "Noms d'objecte"
 
+#. Fw8e
 #: cnttab.src#TP_TOX_SELECT.CB_COLLECTSAME.checkbox.text
 msgid "Combine identical entries"
 msgstr "Combina entrades idèntiques"
 
+#. rFAF
 #: cnttab.src#TP_TOX_SELECT.CB_USEFF.checkbox.text
 msgid "Combine identical entries with p or ~pp"
 msgstr "Combina entrades idèntiques amb p o ~pp"
 
+#. QOWI
 #: cnttab.src#TP_TOX_SELECT.CB_USE_DASH.checkbox.text
 msgid "Combine with -"
 msgstr "Combina amb -"
 
+#. WYxh
 #: cnttab.src#TP_TOX_SELECT.CB_CASESENSITIVE.checkbox.text
 msgid "Case sensitive"
 msgstr "Distingeix entre majúscules i minúscules"
 
+#. uNgi
 #: cnttab.src#TP_TOX_SELECT.CB_INITIALCAPS.checkbox.text
 msgid "AutoCapitalize entries"
 msgstr "Posa les entrades en majúscula autom."
 
+#. xngC
 #: cnttab.src#TP_TOX_SELECT.CB_KEYASENTRY.checkbox.text
 msgid "Keys as separate entries"
 msgstr "Claus com a entrades separades"
 
+#. fH8r
 #: cnttab.src#TP_TOX_SELECT.CB_FROMFILE.checkbox.text
 msgid "~Concordance file"
 msgstr "Fitxer de ~concordança"
 
+#. Z12s
 #: cnttab.src#TP_TOX_SELECT.MB_AUTOMARK.MN_AUTOMARK_OPEN.menuitem.text
 msgid "Open"
 msgstr "Obri"
 
+#. HJpO
 #: cnttab.src#TP_TOX_SELECT.MB_AUTOMARK.MN_AUTOMARK_NEW.menuitem.text
 msgid "~New..."
 msgstr "~Nou..."
 
+#. 48JG
 #: cnttab.src#TP_TOX_SELECT.MB_AUTOMARK.MN_AUTOMARK_EDIT.menuitem.text
 msgctxt "cnttab.src#TP_TOX_SELECT.MB_AUTOMARK.MN_AUTOMARK_EDIT.menuitem.text"
 msgid "~Edit..."
 msgstr "~Edita.."
 
+#. Amj6
 #: cnttab.src#TP_TOX_SELECT.MB_AUTOMARK.menubutton.text
 msgid "~File"
 msgstr "~Fitxer"
 
+#. vZqM
 #: cnttab.src#TP_TOX_SELECT.CB_FROMTABLES.checkbox.text
 msgid "Tables"
 msgstr "Taules"
 
+#. Eizr
 #: cnttab.src#TP_TOX_SELECT.CB_FROMFRAMES.checkbox.text
 msgid "Te~xt frames"
 msgstr "Marcs del te~xt"
 
+#. 4rG7
 #: cnttab.src#TP_TOX_SELECT.CB_FROMGRAPHICS.checkbox.text
 msgid "Graphics"
 msgstr "Gràfics"
 
+#. F3wl
 #: cnttab.src#TP_TOX_SELECT.CB_FROMOLE.checkbox.text
 msgid "OLE objects"
 msgstr "Objectes OLE"
 
+#. DZTU
 #: cnttab.src#TP_TOX_SELECT.CB_LEVELFROMCHAPTER.checkbox.text
 msgid "Use level from source chapter"
 msgstr "Utilitza el nivell del capítol d'orige~n"
 
+#. mKTb
 #: cnttab.src#TP_TOX_SELECT.FL_IDXOPTIONS.fixedline.text
 msgid "Options"
 msgstr "Opcions"
 
+#. w97v
 #: cnttab.src#TP_TOX_SELECT.RES_SRCTYPES.1.1.itemlist.text
 msgid "%PRODUCTNAME Math"
 msgstr "%PRODUCTNAME Math"
 
+#. Rdh1
 #: cnttab.src#TP_TOX_SELECT.RES_SRCTYPES.1.2.itemlist.text
 msgid "%PRODUCTNAME Chart"
 msgstr "%PRODUCTNAME Chart"
 
+#. jJis
 #: cnttab.src#TP_TOX_SELECT.RES_SRCTYPES.1.3.itemlist.text
 msgid "%PRODUCTNAME Calc"
 msgstr "%PRODUCTNAME Calc"
 
+#. Y9MH
 #: cnttab.src#TP_TOX_SELECT.RES_SRCTYPES.1.4.itemlist.text
 msgid "%PRODUCTNAME Draw/%PRODUCTNAME Impress"
 msgstr "%PRODUCTNAME Draw/%PRODUCTNAME Impress"
 
+#. KzHc
 #: cnttab.src#TP_TOX_SELECT.RES_SRCTYPES.1.5.itemlist.text
 msgid "Other OLE Objects"
 msgstr "Altres objectes OLE"
 
+#. jEyV
 #: cnttab.src#TP_TOX_SELECT.FL_FROMOBJ.fixedline.text
 msgid "Create from the following objects"
 msgstr "Crea a partir dels objectes següents"
 
+#. Epgw
 #: cnttab.src#TP_TOX_SELECT.CB_SEQUENCE.checkbox.text
 msgid "~Number entries"
 msgstr "~Numera les entrades"
 
+#. Uc0S
 #: cnttab.src#TP_TOX_SELECT.FT_BRACKET.fixedtext.text
 msgid "~Brackets"
 msgstr "~Parèntesi"
 
+#. adE6
 #: cnttab.src#ST_NO_BRACKET.string.text
 msgid "[none]"
 msgstr "[cap]"
 
+#. WpY0
 #: cnttab.src#FL_AUTHORITY.fixedline.text
 msgid "Formatting of the entries"
 msgstr "Formatació de les entrades"
 
+#. w25C
 #: cnttab.src#ST_AUTOMARK_TYPE.string.text
 msgid "Selection file for the alphabetical index (*.sdi)"
 msgstr "Fitxer de selecció per a l'índex alfabètic (*.sdi)"
 
+#. f37g
 #: cnttab.src#FL_SORTOPTIONS.fixedline.text
 msgid "Sort"
 msgstr "Ordena"
 
+#. 82vf
 #: cnttab.src#FT_LANGUAGE.fixedtext.text
 msgid "Language"
 msgstr "Llengua"
 
+#. x7Q9
 #: cnttab.src#FT_SORTALG.fixedtext.text
 msgid "Key type"
 msgstr "Tipus de clau"
 
+#. SLlQ
 #: cnttab.src#TP_TOX_ENTRY.FT_LEVEL.fixedtext.text
 msgctxt "cnttab.src#TP_TOX_ENTRY.FT_LEVEL.fixedtext.text"
 msgid "~Level"
 msgstr "Nive~ll"
 
+#. HkOe
 #: cnttab.src#TP_TOX_ENTRY.ST_AUTHTYPE.string.text
 msgid "~Type"
 msgstr "~Tipus"
 
+#. KIs2
 #: cnttab.src#TP_TOX_ENTRY.FT_TOKEN.fixedtext.text
 msgid "~Structure"
 msgstr "~Estructura"
 
+#. 0S15
 #: cnttab.src#TP_TOX_ENTRY.WIN_TOKEN.STR_TOKEN_ENTRY_NO.string.text
 msgid "E#"
 msgstr "E#"
 
+#. loqN
 #: cnttab.src#TP_TOX_ENTRY.WIN_TOKEN.STR_TOKEN_ENTRY.string.text
 msgid "E"
 msgstr "E"
 
+#. R4HO
 #: cnttab.src#TP_TOX_ENTRY.WIN_TOKEN.STR_TOKEN_TAB_STOP.string.text
 msgid "T"
 msgstr "T"
 
+#. XK#w
 #: cnttab.src#TP_TOX_ENTRY.WIN_TOKEN.STR_TOKEN_PAGE_NUMS.string.text
 msgid "#"
 msgstr "#"
 
+#. RGYT
 #: cnttab.src#TP_TOX_ENTRY.WIN_TOKEN.STR_TOKEN_CHAPTER_INFO.string.text
 msgid "CI"
 msgstr "CI"
 
+#. C9VX
 #: cnttab.src#TP_TOX_ENTRY.WIN_TOKEN.STR_TOKEN_LINK_START.string.text
 msgid "LS"
 msgstr "LS"
 
+#. bxku
 #: cnttab.src#TP_TOX_ENTRY.WIN_TOKEN.STR_TOKEN_LINK_END.string.text
 msgid "LE"
 msgstr "LE"
 
+#. 5hBa
 #: cnttab.src#TP_TOX_ENTRY.WIN_TOKEN.STR_TOKEN_AUTHORITY.string.text
 msgid "A"
 msgstr "A"
 
+#. a4P5
 #: cnttab.src#TP_TOX_ENTRY.WIN_TOKEN.STR_TOKEN_HELP_ENTRY_NO.string.text
 msgid "Chapter number"
 msgstr "Número de capítol"
 
+#. wgu4
 #: cnttab.src#TP_TOX_ENTRY.WIN_TOKEN.STR_TOKEN_HELP_ENTRY.string.text
 msgctxt "cnttab.src#TP_TOX_ENTRY.WIN_TOKEN.STR_TOKEN_HELP_ENTRY.string.text"
 msgid "Entry"
 msgstr "Entrada"
 
+#. _S9O
 #: cnttab.src#TP_TOX_ENTRY.WIN_TOKEN.STR_TOKEN_HELP_TAB_STOP.string.text
 msgctxt "cnttab.src#TP_TOX_ENTRY.WIN_TOKEN.STR_TOKEN_HELP_TAB_STOP.string.text"
 msgid "Tab stop"
 msgstr "Tabulació"
 
+#. LP#V
 #: cnttab.src#TP_TOX_ENTRY.WIN_TOKEN.STR_TOKEN_HELP_TEXT.string.text
 msgid "Text"
 msgstr "Text"
 
+#. Qtuw
 #: cnttab.src#TP_TOX_ENTRY.WIN_TOKEN.STR_TOKEN_HELP_PAGE_NUMS.string.text
 msgid "Page number"
 msgstr "Número de pàgina"
 
+#. dlde
 #: cnttab.src#TP_TOX_ENTRY.WIN_TOKEN.STR_TOKEN_HELP_CHAPTER_INFO.string.text
 msgid "Chapter info"
 msgstr "Informació sobre el capítol"
 
+#. CbGx
 #: cnttab.src#TP_TOX_ENTRY.WIN_TOKEN.STR_TOKEN_HELP_LINK_START.string.text
 msgid "Hyperlink start"
 msgstr "Inici d'enllaç"
 
+#. 1Zsu
 #: cnttab.src#TP_TOX_ENTRY.WIN_TOKEN.STR_TOKEN_HELP_LINK_END.string.text
 msgid "Hyperlink end"
 msgstr "Final d'enllaç"
 
+#. #8Da
 #: cnttab.src#TP_TOX_ENTRY.WIN_TOKEN.STR_TOKEN_HELP_AUTHORITY.string.text
 msgid "Bibliography entry: "
 msgstr "Entrada bibliogràfica: "
 
+#. FzMv
 #: cnttab.src#TP_TOX_ENTRY.WIN_TOKEN.STR_CHARSTYLE.string.text
 msgid "Character Style: "
 msgstr "Estil de caràcter: "
 
+#. mfjf
 #: cnttab.src#TP_TOX_ENTRY.PB_ALL_LEVELS.pushbutton.text
 msgid "~All"
 msgstr "~Tots els nivells"
 
+#. uXq5
 #: cnttab.src#TP_TOX_ENTRY.PB_ENTRYNO.pushbutton.text
 msgid "Chapter no."
 msgstr "Núm. capítol"
 
+#. EZ7I
 #: cnttab.src#TP_TOX_ENTRY.PB_ENTRY.pushbutton.text
 msgid "Entry text"
 msgstr "Text d'entrada"
 
+#. TFFf
 #: cnttab.src#TP_TOX_ENTRY.PB_CHAPTERINFO.pushbutton.text
 msgid "~Chapter info"
 msgstr "Informació ~cap."
 
+#. MJhY
 #: cnttab.src#TP_TOX_ENTRY.PB_PAGENO.pushbutton.text
 msgid "Page no."
 msgstr "Núm. pàgina"
 
+#. 9QCN
 #: cnttab.src#TP_TOX_ENTRY.PB_TAB.pushbutton.text
 msgctxt "cnttab.src#TP_TOX_ENTRY.PB_TAB.pushbutton.text"
 msgid "Tab stop"
 msgstr "Tabulació"
 
+#. E6GC
 #: cnttab.src#TP_TOX_ENTRY.PB_HYPERLINK.pushbutton.text
 msgid "H~yperlink"
 msgstr "~Enllaç"
 
+#. FrTV
 #: cnttab.src#TP_TOX_ENTRY.PB_AUTHINSERT.pushbutton.text
 msgid "~Insert"
 msgstr "~Insereix"
 
+#. pOpM
 #: cnttab.src#TP_TOX_ENTRY.PB_AUTHREMOVE.pushbutton.text
 msgid "~Remove"
 msgstr "~Suprimeix"
 
+#. u4RS
 #: cnttab.src#TP_TOX_ENTRY.FT_CHARSTYLE.fixedtext.text
 msgid "Character Style"
 msgstr "Estil de ~caràcter"
 
+#. zVh3
 #: cnttab.src#TP_TOX_ENTRY.PB_EDITSTYLE.pushbutton.text
 msgctxt "cnttab.src#TP_TOX_ENTRY.PB_EDITSTYLE.pushbutton.text"
 msgid "~Edit..."
 msgstr "~Edita.."
 
+#. Rm8Q
 #: cnttab.src#TP_TOX_ENTRY.FT_FILLCHAR.fixedtext.text
 msgid "Fill character"
 msgstr "Caràcter de farciment"
 
+#. Vroq
 #: cnttab.src#TP_TOX_ENTRY.FT_CHAPTERENTRY.fixedtext.text
 msgid "Chapter entry"
 msgstr "Entrada de capítol"
 
+#. D#HF
 #: cnttab.src#TP_TOX_ENTRY.LB_CHAPTERENTRY.1.stringlist.text
 msgid "Number range only"
 msgstr "Només interval de nombres"
 
+#. X2ez
 #: cnttab.src#TP_TOX_ENTRY.LB_CHAPTERENTRY.2.stringlist.text
 msgid "Description only"
 msgstr "Només descripció"
 
+#. i7ZC
 #: cnttab.src#TP_TOX_ENTRY.LB_CHAPTERENTRY.3.stringlist.text
 msgid "Number range and description"
 msgstr "Interval de nombres i descripció"
 
+#. nsvq
 #: cnttab.src#TP_TOX_ENTRY.FT_ENTRY_NO.fixedtext.text
 msgctxt "cnttab.src#TP_TOX_ENTRY.FT_ENTRY_NO.fixedtext.text"
 msgid "Format"
 msgstr "Format"
 
+#. aGlg
 #: cnttab.src#TP_TOX_ENTRY.LB_ENTRY_NO.1.stringlist.text
 msgid "Number"
 msgstr "Nombre"
 
+#. 8iMO
 #: cnttab.src#TP_TOX_ENTRY.LB_ENTRY_NO.2.stringlist.text
 msgid "Number without separator"
 msgstr "Nombre sense separador"
 
+#. LWtQ
 #: cnttab.src#TP_TOX_ENTRY.FT_LEVEL_OL.fixedtext.text
 msgctxt "cnttab.src#TP_TOX_ENTRY.FT_LEVEL_OL.fixedtext.text"
 msgid "Evaluate up to level"
 msgstr "Avalua fins al nivell"
 
+#. K#jo
 #: cnttab.src#TP_TOX_ENTRY.FT_TABPOS.fixedtext.text
 msgid "Tab stop position"
 msgstr "Posició de la tabulació"
 
+#. Xk_A
 #: cnttab.src#TP_TOX_ENTRY.CB_AUTORIGHT.checkbox.text
 msgid "Align right"
 msgstr "Alinea a la dreta"
 
+#. 6KvN
 #: cnttab.src#TP_TOX_ENTRY.FL_ENTRY.fixedline.text
 msgid "Structure and Formatting"
 msgstr "Estructura i formatació"
 
+#. DG40
 #: cnttab.src#TP_TOX_ENTRY.CB_RELTOSTYLE.checkbox.text
 msgid "Tab position relati~ve to Paragraph Style indent"
 msgstr "Posició de la tabulació relati~va al sagnat de l'estil de paràgraf"
 
+#. uAcu
 #: cnttab.src#TP_TOX_ENTRY.FT_MAIN_ENTRY_STYLE.fixedtext.text
 msgid "Character Style for main entries"
 msgstr "Estil de caràcters per a les entrades principals"
 
+#. qW52
 #: cnttab.src#TP_TOX_ENTRY.CB_ALPHADELIM.checkbox.text
 msgid "Alphabetical delimiter"
 msgstr "Delimitador alfabètic"
 
+#. fL1j
 #: cnttab.src#TP_TOX_ENTRY.CB_COMMASEPARATED.checkbox.text
 msgid "Key separated by commas"
 msgstr "Clau separada per comes"
 
+#. S2ZC
 #: cnttab.src#TP_TOX_ENTRY.FL_FORMAT.fixedline.text
 msgctxt "cnttab.src#TP_TOX_ENTRY.FL_FORMAT.fixedline.text"
 msgid "Format"
 msgstr "Format"
 
+#. kp4P
 #: cnttab.src#TP_TOX_ENTRY.RB_DOCPOS.radiobutton.text
 msgid "Document ~position "
 msgstr "P~osició del document "
 
+#. gvi4
 #: cnttab.src#TP_TOX_ENTRY.RB_SORTCONTENT.radiobutton.text
 msgid "~Content"
 msgstr "~Contingut"
 
+#. KTny
 #: cnttab.src#TP_TOX_ENTRY.FL_SORTING.fixedline.text
 msgid "Sort by"
 msgstr "Ordena per"
 
+#. gE56
 #: cnttab.src#TP_TOX_ENTRY.RB_SORTUP1.imageradiobutton.text
 msgctxt "cnttab.src#TP_TOX_ENTRY.RB_SORTUP1.imageradiobutton.text"
 msgid "-"
 msgstr "-"
 
+#. Lcdh
 #: cnttab.src#TP_TOX_ENTRY.RB_SORTUP1.imageradiobutton.quickhelptext
 msgctxt "cnttab.src#TP_TOX_ENTRY.RB_SORTUP1.imageradiobutton.quickhelptext"
 msgid "Ascending"
 msgstr "Ascendent"
 
+#. b6Dd
 #: cnttab.src#TP_TOX_ENTRY.RB_SORTDOWN1.imageradiobutton.text
 msgctxt "cnttab.src#TP_TOX_ENTRY.RB_SORTDOWN1.imageradiobutton.text"
 msgid "-"
 msgstr "-"
 
+#. e2aQ
 #: cnttab.src#TP_TOX_ENTRY.RB_SORTDOWN1.imageradiobutton.quickhelptext
 msgctxt "cnttab.src#TP_TOX_ENTRY.RB_SORTDOWN1.imageradiobutton.quickhelptext"
 msgid "Descending"
 msgstr "Descendent"
 
+#. nRHz
 #: cnttab.src#TP_TOX_ENTRY.RB_SORTUP2.imageradiobutton.text
 msgctxt "cnttab.src#TP_TOX_ENTRY.RB_SORTUP2.imageradiobutton.text"
 msgid "-"
 msgstr "-"
 
+#. iE36
 #: cnttab.src#TP_TOX_ENTRY.RB_SORTUP2.imageradiobutton.quickhelptext
 msgctxt "cnttab.src#TP_TOX_ENTRY.RB_SORTUP2.imageradiobutton.quickhelptext"
 msgid "Ascending"
 msgstr "Ascendent"
 
+#. #JPS
 #: cnttab.src#TP_TOX_ENTRY.RB_SORTDOWN2.imageradiobutton.text
 msgctxt "cnttab.src#TP_TOX_ENTRY.RB_SORTDOWN2.imageradiobutton.text"
 msgid "-"
 msgstr "-"
 
+#. Hg0t
 #: cnttab.src#TP_TOX_ENTRY.RB_SORTDOWN2.imageradiobutton.quickhelptext
 msgctxt "cnttab.src#TP_TOX_ENTRY.RB_SORTDOWN2.imageradiobutton.quickhelptext"
 msgid "Descending"
 msgstr "Descendent"
 
+#. ueYh
 #: cnttab.src#TP_TOX_ENTRY.RB_SORTUP3.imageradiobutton.text
 msgctxt "cnttab.src#TP_TOX_ENTRY.RB_SORTUP3.imageradiobutton.text"
 msgid "-"
 msgstr "-"
 
+#. xMVT
 #: cnttab.src#TP_TOX_ENTRY.RB_SORTUP3.imageradiobutton.quickhelptext
 msgctxt "cnttab.src#TP_TOX_ENTRY.RB_SORTUP3.imageradiobutton.quickhelptext"
 msgid "Ascending"
 msgstr "Ascendent"
 
+#. tWgA
 #: cnttab.src#TP_TOX_ENTRY.RB_SORTDOWN3.imageradiobutton.text
 msgctxt "cnttab.src#TP_TOX_ENTRY.RB_SORTDOWN3.imageradiobutton.text"
 msgid "-"
 msgstr "-"
 
+#. 6oSi
 #: cnttab.src#TP_TOX_ENTRY.RB_SORTDOWN3.imageradiobutton.quickhelptext
 msgctxt "cnttab.src#TP_TOX_ENTRY.RB_SORTDOWN3.imageradiobutton.quickhelptext"
 msgid "Descending"
 msgstr "Descendent"
 
+#. GYBx
 #: cnttab.src#TP_TOX_ENTRY.FL_SORTKEY.fixedline.text
 msgid "Sort keys"
 msgstr "Ordena les claus"
 
+#. ywI2
 #: cnttab.src#TP_TOX_ENTRY.STR_NOSORTKEY.string.text
 msgctxt "cnttab.src#TP_TOX_ENTRY.STR_NOSORTKEY.string.text"
 msgid "<None>"
 msgstr "<Cap>"
 
+#. INqP
 #: cnttab.src#TP_TOX_ENTRY.STR_NO_CHAR_STYLE.string.text
 msgctxt "cnttab.src#TP_TOX_ENTRY.STR_NO_CHAR_STYLE.string.text"
 msgid "<None>"
 msgstr "<Cap>"
 
+#. tTqL
 #: cnttab.src#TP_TOX_ENTRY.STR_DELIM.string.text
 msgid "S"
 msgstr "S"
 
+#. 4Ii_
 #: cnttab.src#TP_TOX_STYLES.FT_LEVEL.fixedtext.text
 msgid "~Levels"
 msgstr "~Nivells"
 
+#. HN8F
 #: cnttab.src#TP_TOX_STYLES.FT_TEMPLATE.fixedtext.text
 msgid "Paragraph ~Styles"
 msgstr "Estils de paràgra~f"
 
+#. mkAA
 #: cnttab.src#TP_TOX_STYLES.BT_STD.pushbutton.text
 msgid "~Default"
 msgstr "~Per defecte"
 
+#. NW03
 #: cnttab.src#TP_TOX_STYLES.BT_EDIT_STYLE.pushbutton.text
 msgid "~Edit"
 msgstr "~Edita"
 
+#. GTWP
 #: cnttab.src#TP_TOX_STYLES.FL_FORMAT.fixedline.text
 msgid "Assignment"
 msgstr "Assignació"
 
+#. d0yO
 #: cnttab.src#DLG_ADD_IDX_STYLES.PB_LEFT.imagebutton.text
 msgctxt "cnttab.src#DLG_ADD_IDX_STYLES.PB_LEFT.imagebutton.text"
 msgid "-"
 msgstr "-"
 
+#. LhQy
 #: cnttab.src#DLG_ADD_IDX_STYLES.PB_LEFT.imagebutton.quickhelptext
 msgid "Left"
 msgstr "Esquerra"
 
+#. QT5K
 #: cnttab.src#DLG_ADD_IDX_STYLES.PB_RIGHT.imagebutton.text
 msgctxt "cnttab.src#DLG_ADD_IDX_STYLES.PB_RIGHT.imagebutton.text"
 msgid "-"
 msgstr "-"
 
+#. uun5
 #: cnttab.src#DLG_ADD_IDX_STYLES.PB_RIGHT.imagebutton.quickhelptext
 msgid "Right"
 msgstr "Dreta"
 
+#. Oifx
 #: cnttab.src#DLG_ADD_IDX_STYLES.FL_STYLES.fixedline.text
 msgctxt "cnttab.src#DLG_ADD_IDX_STYLES.FL_STYLES.fixedline.text"
 msgid "Styl~es"
 msgstr "~Estils"
 
+#. TSRq
 #: cnttab.src#DLG_ADD_IDX_STYLES.ST_HB_FIRST.string.text
 msgid "Not applied"
 msgstr "No aplicat"
 
+#. Ylh#
 #: cnttab.src#DLG_ADD_IDX_STYLES.modaldialog.text
 msgid "Assign Styles"
 msgstr "Assigna estils"
 
+#. ya2X
 #: cnttab.src#DLG_CREATE_AUTOMARK.BB_ENTRIES.ST_SEARCH.string.text
 msgid "Search term"
 msgstr "Terme de cerca"
 
+#. 7rEo
 #: cnttab.src#DLG_CREATE_AUTOMARK.BB_ENTRIES.ST_ALTERNATIVE.string.text
 msgid "Alternative entry"
 msgstr "Entrada alternativa"
 
+#. qicy
 #: cnttab.src#DLG_CREATE_AUTOMARK.BB_ENTRIES.ST_PRIMKEY.string.text
 msgid "1st key"
 msgstr "1a clau"
 
+#. CBfx
 #: cnttab.src#DLG_CREATE_AUTOMARK.BB_ENTRIES.ST_SECKEY.string.text
 msgid "2nd key"
 msgstr "2a clau"
 
+#. JAQj
 #: cnttab.src#DLG_CREATE_AUTOMARK.BB_ENTRIES.ST_COMMENT.string.text
 msgid "Comment"
 msgstr "Comentari"
 
+#. b#Kz
 #: cnttab.src#DLG_CREATE_AUTOMARK.BB_ENTRIES.ST_CASESENSITIVE.string.text
 msgid "Match case"
 msgstr "Distingeix entre majúscules i minúscules"
 
+#. zNHe
 #: cnttab.src#DLG_CREATE_AUTOMARK.BB_ENTRIES.ST_WORDONLY.string.text
 msgid "Word only"
 msgstr "Només la paraula"
 
+#. ALZt
 #: cnttab.src#DLG_CREATE_AUTOMARK.BB_ENTRIES.ST_TRUE.string.text
 msgid "Yes"
 msgstr "Sí"
 
+#. aqh0
 #: cnttab.src#DLG_CREATE_AUTOMARK.BB_ENTRIES.ST_FALSE.string.text
 msgid "No"
 msgstr "No"
 
+#. 7nbG
 #: cnttab.src#DLG_CREATE_AUTOMARK.FL_ENTRIES.fixedline.text
 msgctxt "cnttab.src#DLG_CREATE_AUTOMARK.FL_ENTRIES.fixedline.text"
 msgid "Entries"
 msgstr "Entrades"
 
+#. ahB5
 #: cnttab.src#DLG_CREATE_AUTOMARK.modaldialog.text
 msgid "Edit Concordance File"
 msgstr "Edita el fitxer de concordança"
 
+#. Qj92
 #: multmrk.src#DLG_MULTMRK.FL_TOX.fixedline.text
 msgctxt "multmrk.src#DLG_MULTMRK.FL_TOX.fixedline.text"
 msgid "Selection"
 msgstr "Selecció"
 
+#. WNwI
 #: multmrk.src#DLG_MULTMRK.FT_ENTRY.fixedtext.text
 msgid "Index"
 msgstr "Índex"
 
+#. Bli_
 #: multmrk.src#DLG_MULTMRK.FT_TOX.fixedtext.text
 msgctxt "multmrk.src#DLG_MULTMRK.FT_TOX.fixedtext.text"
 msgid "Entry"
 msgstr "Entrada"
 
+#. hYvt
 #: multmrk.src#DLG_MULTMRK.modaldialog.text
 msgid "Index Markings"
 msgstr "Marques de l'índex"
 
+#. vdbD
 #: idxmrk.src#IDX_PHONETIC_LISTBOX_DESCRIPTION.#define.text
 msgid "Phonetic reading"
 msgstr "Lectura fonètica"
 
+#. mH1S
 #: idxmrk.src#IDX_DIALOG_WINDOW.WIN_DLG.BT_OK.okbutton.text
 msgctxt "idxmrk.src#IDX_DIALOG_WINDOW.WIN_DLG.BT_OK.okbutton.text"
 msgid "Insert"
 msgstr "Insereix"
 
+#. WW9U
 #: idxmrk.src#IDX_DIALOG_WINDOW.WIN_DLG.BT_CANCEL.cancelbutton.text
 msgctxt "idxmrk.src#IDX_DIALOG_WINDOW.WIN_DLG.BT_CANCEL.cancelbutton.text"
 msgid "Close"
 msgstr "Tanca"
 
+#. hp2M
 #: idxmrk.src#IDX_DIALOG_WINDOW.WIN_DLG.BT_DEL.pushbutton.text
 msgid "~Delete"
 msgstr "~Suprimeix"
 
+#. x2Vk
 #: idxmrk.src#IDX_DIALOG_WINDOW.WIN_DLG.BT_NEW.imagebutton.text
 msgctxt "idxmrk.src#IDX_DIALOG_WINDOW.WIN_DLG.BT_NEW.imagebutton.text"
 msgid "-"
 msgstr "-"
 
+#. JZOP
 #: idxmrk.src#IDX_DIALOG_WINDOW.WIN_DLG.BT_NEW.imagebutton.quickhelptext
 msgid "New User-defined Index"
 msgstr "Índex nou definit per l'usuari"
 
+#. KKZ0
 #: idxmrk.src#IDX_DIALOG_WINDOW.WIN_DLG.FL_INDEX.fixedline.text
 msgctxt "idxmrk.src#IDX_DIALOG_WINDOW.WIN_DLG.FL_INDEX.fixedline.text"
 msgid "Selection"
 msgstr "Selecció"
 
+#. I2zr
 #: idxmrk.src#IDX_DIALOG_WINDOW.WIN_DLG.LBL_INDEX.fixedtext.text
 msgid "~Index"
 msgstr "Ín~dex"
 
+#. tgL8
 #: idxmrk.src#IDX_DIALOG_WINDOW.WIN_DLG.LBL_ENTRY.fixedtext.text
 msgid "~Entry"
 msgstr "~Entrada"
 
+#. jA3R
 #: idxmrk.src#IDX_DIALOG_WINDOW.WIN_DLG.LBL_KEY.fixedtext.text
 msgid "~1st key"
 msgstr "~1a clau"
 
+#. ipQx
 #: idxmrk.src#IDX_DIALOG_WINDOW.WIN_DLG.LBL_KEY2.fixedtext.text
 msgid "~2nd key"
 msgstr "~2a clau"
 
+#. PCK5
 #: idxmrk.src#IDX_DIALOG_WINDOW.WIN_DLG.LBL_LEVEL.fixedtext.text
 msgctxt "idxmrk.src#IDX_DIALOG_WINDOW.WIN_DLG.LBL_LEVEL.fixedtext.text"
 msgid "~Level"
 msgstr "Nive~ll"
 
+#. vAhr
 #: idxmrk.src#IDX_DIALOG_WINDOW.WIN_DLG.CB_MAIN_ENTRY.checkbox.text
 msgid "~Main entry"
 msgstr "Entrada ~principal"
 
+# 96%
+#. Wo_L
 #: idxmrk.src#IDX_DIALOG_WINDOW.WIN_DLG.CB_APPLY_TO_ALL.checkbox.text
 msgid "~Apply to all similar texts"
 msgstr "~Aplica-ho a tots els textos semblants"
 
+#. VuIE
 #: idxmrk.src#IDX_DIALOG_WINDOW.WIN_DLG.CB_CASESENSITIVE.checkbox.text
 msgid "Ma~tch case"
 msgstr "Coincidència ma~júscules/minúscules"
 
+#. nccO
 #: idxmrk.src#IDX_DIALOG_WINDOW.WIN_DLG.CB_WORDONLY.checkbox.text
 msgid "~Whole words only"
 msgstr "Només paraules se~nceres"
 
+#. q_Vv
 #: idxmrk.src#DLG_NEW_USER_IDX.FL_NAME.fixedline.text
 msgid "New user index"
 msgstr "Índex d'usuari nou"
 
+#. 3g#J
 #: idxmrk.src#DLG_NEW_USER_IDX.FT_NAME.fixedtext.text
 msgid "~Name"
 msgstr "~Nom"
 
+#. _U0M
 #: idxmrk.src#DLG_NEW_USER_IDX.modaldialog.text
 msgid "Create New User-defined Index"
 msgstr "Crea un índex d'usuari nou"
 
+#. QrFp
 #: idxmrk.src#STR_IDXMRK_EDIT.string.text
 msgid "Edit Index Entry"
 msgstr "Edita entrada d'índex"
 
+#. HRsp
 #: idxmrk.src#STR_IDXMRK_INSERT.string.text
 msgid "Insert Index Entry"
 msgstr "Insereix entrada d'índex"
 
+#. lBuj
 #: idxmrk.src#AUTH_DIALOG_WINDOW.WIN_DLG.RB_FROMCOMPONENT.radiobutton.text
 msgid "From bibliography ~database"
 msgstr "Des de la base de ~dades de la bibliografia"
 
+#. s0N#
 #: idxmrk.src#AUTH_DIALOG_WINDOW.WIN_DLG.RB_FROMDOCCONTENT.radiobutton.text
 msgid "~From document content"
 msgstr "~Des del contingut del document"
 
+#. 6q2f
 #: idxmrk.src#AUTH_DIALOG_WINDOW.WIN_DLG.FT_AUTHOR.fixedtext.text
 msgid "Author"
 msgstr "Autor"
 
+#. Gvbl
 #: idxmrk.src#AUTH_DIALOG_WINDOW.WIN_DLG.FT_TITLE.fixedtext.text
 msgctxt "idxmrk.src#AUTH_DIALOG_WINDOW.WIN_DLG.FT_TITLE.fixedtext.text"
 msgid "Title"
 msgstr "Títol"
 
+#. vRoT
 #: idxmrk.src#AUTH_DIALOG_WINDOW.WIN_DLG.FT_ENTRY.fixedtext.text
 msgid "Short ~name"
 msgstr "~Nom curt"
 
+#. DybT
 #: idxmrk.src#AUTH_DIALOG_WINDOW.WIN_DLG.FL_ENTRY.fixedline.text
 msgctxt "idxmrk.src#AUTH_DIALOG_WINDOW.WIN_DLG.FL_ENTRY.fixedline.text"
 msgid "Entry"
 msgstr "Entrada"
 
+#. 2y_S
 #: idxmrk.src#AUTH_DIALOG_WINDOW.WIN_DLG.PB_OK.okbutton.text
 msgctxt "idxmrk.src#AUTH_DIALOG_WINDOW.WIN_DLG.PB_OK.okbutton.text"
 msgid "Insert"
 msgstr "Insereix"
 
+#. #giE
 #: idxmrk.src#AUTH_DIALOG_WINDOW.WIN_DLG.PB_CANCEL.cancelbutton.text
 msgctxt "idxmrk.src#AUTH_DIALOG_WINDOW.WIN_DLG.PB_CANCEL.cancelbutton.text"
 msgid "Close"
 msgstr "Tanca"
 
+#. oPxx
 #: idxmrk.src#AUTH_DIALOG_WINDOW.WIN_DLG.PB_CREATEENTRY.pushbutton.text
 msgid "~New"
 msgstr "~Nou"
 
+#. UuR1
 #: idxmrk.src#AUTH_DIALOG_WINDOW.WIN_DLG.PB_EDITENTRY.pushbutton.text
 msgid "Edit"
 msgstr "Edita"
 
+#. YEke
 #: idxmrk.src#AUTH_DIALOG_WINDOW.WIN_DLG.ST_CHANGE.string.text
 msgid "Modify"
 msgstr "Modifica"
 
+#. XVWD
 #: idxmrk.src#DLG_CREATE_AUTH_ENTRY.FL_ENTRIES.fixedline.text
 msgid "Entry data"
 msgstr "Dades de l'entrada"
 
+#. RvfP
 #: idxmrk.src#DLG_CREATE_AUTH_ENTRY.modaldialog.text
 msgid "Define Bibliography Entry"
 msgstr "Defineix entrada bibliogràfica"
 
+#. 0rzB
 #: idxmrk.src#STR_AUTHMRK_EDIT.string.text
 msgid "Edit Bibliography Entry"
 msgstr "Edita entrada bibliogràfica"
 
+#. blbK
 #: idxmrk.src#STR_AUTHMRK_INSERT.string.text
 msgid "Insert Bibliography Entry"
 msgstr "Insereix entrada bibliogràfica"
 
+#. F5Bo
 #: idxmrk.src#DLG_CHANGE_AUTH_ENTRY.querybox.text
-msgid "The document already contains the bibliography entry but with different data. Do you want to adjust the existing entries?"
-msgstr "L'entrada bibliogràfica ja existeix amb dades diferents en el document. Voleu ajustar les dades ja existents?"
+msgid ""
+"The document already contains the bibliography entry but with different "
+"data. Do you want to adjust the existing entries?"
+msgstr ""
+"L'entrada bibliogràfica ja existeix amb dades diferents en el document. "
+"Voleu ajustar les dades ja existents?"
+
+#~ msgid "~Apply to all similar texts."
+#~ msgstr "~Aplica-ho a tots els textos semblants."

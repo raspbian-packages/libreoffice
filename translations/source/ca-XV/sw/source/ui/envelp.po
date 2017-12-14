@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+sw%2Fsource%2Fui%2Fenvelp.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+sw%2Fsource%2Fui%2Fenvelp.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:41+0200\n"
 "PO-Revision-Date: 2011-04-05 19:16+0200\n"
 "Last-Translator: jmontane <joan@montane.cat>\n"
@@ -15,633 +17,792 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. 3uE#
 #: mailmrge.src#_MAIL_MERGE_STRING_.#define.text
 msgid "Mail Merge"
 msgstr "Combinació de correu"
 
+#. 9ZjP
 #: mailmrge.src#DLG_MAILMERGE.RB_ALL.radiobutton.text
 msgid "~All"
 msgstr "~Tot"
 
+#. dasw
 #: mailmrge.src#DLG_MAILMERGE.RB_MARKED.radiobutton.text
 msgid "~Selected records"
 msgstr "~Registres seleccionats"
 
+#. Gbjx
 #: mailmrge.src#DLG_MAILMERGE.RB_FROM.radiobutton.text
 msgid "~From:"
 msgstr "~De:"
 
+#. k#Dm
 #: mailmrge.src#DLG_MAILMERGE.FT_BIS.fixedtext.text
 msgid "~To:"
 msgstr "~A:"
 
+#. NumC
 #: mailmrge.src#DLG_MAILMERGE.FL_RECORD.fixedline.text
 msgid "Records"
 msgstr "Registres"
 
+#. _dI2
 #: mailmrge.src#DLG_MAILMERGE.RB_PRINTER.radiobutton.text
 msgid "~Printer"
 msgstr "~Impressora"
 
+#. qoLR
 #: mailmrge.src#DLG_MAILMERGE.RB_MAILING.radiobutton.text
 msgid "~Electronic"
 msgstr "~Electrònic"
 
+#. Lno#
 #: mailmrge.src#DLG_MAILMERGE.RB_FILE.radiobutton.text
 msgid "File"
 msgstr "Fitxer"
 
+#. 3jGK
 #: mailmrge.src#DLG_MAILMERGE.CB_SINGLE_JOBS.checkbox.text
 msgid "~Single print jobs"
 msgstr "~Crea feines d'impressió individuals"
 
+#. iUvM
 #: mailmrge.src#DLG_MAILMERGE.FL_SAVE_MERGED_DOCUMENT.fixedline.text
 msgid "Save merged document"
 msgstr "Alça el document combinat"
 
+#. XVS3
 #: mailmrge.src#DLG_MAILMERGE.RB_SAVE_SINGLE_DOC.radiobutton.text
 msgid "S~ave as single document"
 msgstr "Des~a en un sol document"
 
+#. rV#n
 #: mailmrge.src#DLG_MAILMERGE.RB_SAVE_INDIVIDUAL.radiobutton.text
 msgid "Sa~ve as individual documents"
 msgstr "Alça com a documents indi~viduals"
 
+#. 5KnJ
 #: mailmrge.src#DLG_MAILMERGE.RB_GENERATE_FROM_DATABASE.checkbox.text
 msgid "Generate file name from ~Database"
 msgstr "Genera el nom de fitxer a partir de la base de ~dades"
 
+#. Hssd
 #: mailmrge.src#DLG_MAILMERGE.FT_COLUMN.fixedtext.text
 msgid "Field"
 msgstr "Camp"
 
+#. egYi
 #: mailmrge.src#DLG_MAILMERGE.FT_PATH.fixedtext.text
 msgid "~Path"
 msgstr "~Camí"
 
+#. MNPD
 #: mailmrge.src#DLG_MAILMERGE.FT_FILTER.fixedtext.text
 msgid "F~ile format"
 msgstr "Format del f~itxer"
 
+#. hhAn
 #: mailmrge.src#DLG_MAILMERGE.FT_SUBJECT.fixedtext.text
 msgid "~Subject"
 msgstr "~Assumpte"
 
+#. JiHr
 #: mailmrge.src#DLG_MAILMERGE.FT_ATTACH.fixedtext.text
 msgid "Attachments"
 msgstr "Adjuncions"
 
+#. a82J
 #: mailmrge.src#DLG_MAILMERGE.FT_FORMAT.fixedtext.text
 msgid "Mail Format"
 msgstr "Format de correu"
 
+#. dytG
 #: mailmrge.src#DLG_MAILMERGE.CB_FORMAT_HTML.checkbox.text
 msgid "HTM~L"
 msgstr "HTM~L"
 
+#. ioPs
 #: mailmrge.src#DLG_MAILMERGE.CB_FORMAT_RTF.checkbox.text
 msgid "RT~F"
 msgstr "RT~F"
 
+#. sBxQ
 #: mailmrge.src#DLG_MAILMERGE.CB_FORMAT_SW.checkbox.text
 msgid "%PRODUCTNAME Writer"
 msgstr "%PRODUCTNAME Writer"
 
+#. DxdF
 #: mailmrge.src#DLG_MAILMERGE.FL_DEST.fixedline.text
 msgid "Output"
 msgstr "Eixida"
 
+#. Mt_D
 #: mailmrge.src#DLG_MERGE_CREATE.FL_CREATEFROM.fixedline.text
 msgid "Create"
 msgstr "Crea"
 
+#. 05Yf
 #: mailmrge.src#DLG_MERGE_CREATE.RB_THISDOC.radiobutton.text
 msgid "From this ~document"
 msgstr "Este ~document"
 
+#. rzmE
 #: mailmrge.src#DLG_MERGE_CREATE.RB_TEMPLATE.radiobutton.text
 msgid "From a ~template"
 msgstr "~Utilitza una plantilla"
 
+#. GmHQ
 #: mailmrge.src#DLG_MERGE_FIELD_CONNECTIONS.FL_CONNECTIONS.fixedline.text
 msgid "Connect"
 msgstr "Connecta"
 
+#. QYhw
 #: mailmrge.src#DLG_MERGE_FIELD_CONNECTIONS.RB_USEEXISTING.radiobutton.text
 msgid "~Use existing"
 msgstr "~Utilitza una d'existent"
 
+#. WIUb
 #: mailmrge.src#DLG_MERGE_FIELD_CONNECTIONS.RB_CREATENEW.radiobutton.text
 msgid "~Create new connection"
 msgstr "~Crea una connexió nova"
 
+#. #j48
 #: mailmrge.src#DLG_MERGE_FIELD_CONNECTIONS.FT_INFO.fixedtext.text
-msgid "Fields are used to personalize form letters. The fields are placeholders for data from a data source, such as a database. The fields in the form letter must be connected to the data source."
-msgstr "Els camps s'utilitzen per personalitzar les cartes de formulari. Els camps són substituïts per les dades d'una font de dades, p.e. una base de dades. Els camps han d'estar connectats a la font de dades."
+msgid ""
+"Fields are used to personalize form letters. The fields are placeholders for "
+"data from a data source, such as a database. The fields in the form letter "
+"must be connected to the data source."
+msgstr ""
+"Els camps s'utilitzen per personalitzar les cartes de formulari. Els camps "
+"són substituïts per les dades d'una font de dades, p.e. una base de dades. "
+"Els camps han d'estar connectats a la font de dades."
 
+#. s_SO
 #: mailmrge.src#DLG_MERGE_FIELD_CONNECTIONS.modaldialog.text
 msgid "Data Source Connection"
 msgstr "Connexió amb la font de dades"
 
+#. gcCt
 #: envprt.src#TP_ENV_PRT.FL_NONAME.fixedline.text
 msgid "Envelope orientation"
 msgstr "Orientació del sobre"
 
+#. WLrV
 #: envprt.src#TP_ENV_PRT.BTN_TOP.radiobutton.text
 msgid "~Print from top"
 msgstr "Im~primeix des de la part superior"
 
+#. EvDq
 #: envprt.src#TP_ENV_PRT.BTN_BOTTOM.radiobutton.text
 msgid "Print from ~bottom"
 msgstr "~Imprimeix des de la part inferior"
 
+#. E3JI
 #: envprt.src#TP_ENV_PRT.TXT_RIGHT.fixedtext.text
 msgid "~Shift right"
 msgstr "Cap a la ~dreta"
 
+#. MblI
 #: envprt.src#TP_ENV_PRT.TXT_DOWN.fixedtext.text
 msgid "Shift ~down"
 msgstr "Cap a a~vall"
 
+#. beKD
 #: envprt.src#TP_ENV_PRT.FL_PRINTER.fixedline.text
 msgid "Current printer"
 msgstr "Impressora activa"
 
+#. GBTO
 #: envprt.src#TP_ENV_PRT.TXT_PRINTER.fixedtext.text
 msgid "- No printer installed -"
 msgstr "- No hi ha cap impressora instal·lada -"
 
+#. JfFf
 #: envprt.src#TP_ENV_PRT.BTN_PRTSETUP.pushbutton.text
 msgctxt "envprt.src#TP_ENV_PRT.BTN_PRTSETUP.pushbutton.text"
 msgid "Setup..."
 msgstr "Configura..."
 
+#. IUne
 #: label.src#LABEL_STRING.#define.text
 msgctxt "label.src#LABEL_STRING.#define.text"
 msgid "Labels"
 msgstr "Etiquetes"
 
+#. uZJz
 #: label.src#BUSINESS_CARD_STRING.#define.text
 msgid "Business Cards"
 msgstr "Targetes de visita"
 
+#. fDfs
 #: label.src#DLG_LAB.1.TP_PRIVATE_DATA.pageitem.text
 msgid "Private"
 msgstr "Privat"
 
+#. 9K8O
 #: label.src#DLG_LAB.1.TP_BUSINESS_DATA.pageitem.text
 msgid "Business"
 msgstr "Empresa"
 
+#. UM9p
 #: label.src#DLG_LAB.1.TP_LAB_FMT.pageitem.text
 msgctxt "label.src#DLG_LAB.1.TP_LAB_FMT.pageitem.text"
 msgid "Format"
 msgstr "Format"
 
+#. Gb7_
 #: label.src#DLG_LAB.1.TP_LAB_PRT.pageitem.text
 msgctxt "label.src#DLG_LAB.1.TP_LAB_PRT.pageitem.text"
 msgid "Options"
 msgstr "Opcions"
 
+#. HsOe
 #: label.src#DLG_LAB.ST_FIRSTPAGE_BC.string.text
 msgid "Medium"
 msgstr "Tipus"
 
+#. Kg_L
 #: label.src#TP_LAB_LAB.TXT_WRITING.fixedtext.text
 msgid "Label text"
 msgstr "Text de l'etiqueta"
 
+#. X9_c
 #: label.src#TP_LAB_LAB.BOX_ADDR.checkbox.text
 msgid "Address"
 msgstr "Adreça"
 
+#. nWa6
 #: label.src#TP_LAB_LAB.FT_DATABASE.fixedtext.text
 msgctxt "label.src#TP_LAB_LAB.FT_DATABASE.fixedtext.text"
 msgid "Database"
 msgstr "Base de dades"
 
+#. 0hPX
 #: label.src#TP_LAB_LAB.FT_TABLE.fixedtext.text
 msgctxt "label.src#TP_LAB_LAB.FT_TABLE.fixedtext.text"
 msgid "Table"
 msgstr "Taula"
 
+#. Mjij
 #: label.src#TP_LAB_LAB.FT_DBFIELD.fixedtext.text
 msgid "Database field"
 msgstr "Camp de la base de dades"
 
+#. U521
 #: label.src#TP_LAB_LAB.FL_WRITING.fixedline.text
 msgid "Inscription"
 msgstr "Inscripció"
 
+#. Qe2U
 #: label.src#TP_LAB_LAB.BTN_CONT.radiobutton.text
 msgid "~Continuous"
 msgstr "~Continu"
 
+#. s6TA
 #: label.src#TP_LAB_LAB.BTN_SHEET.radiobutton.text
 msgid "~Sheet"
 msgstr "~Full"
 
+#. vGpc
 #: label.src#TP_LAB_LAB.TXT_MAKE.fixedtext.text
 msgctxt "label.src#TP_LAB_LAB.TXT_MAKE.fixedtext.text"
 msgid "Brand"
 msgstr "Marca"
 
+#. ot#Y
 #: label.src#TP_LAB_LAB.TXT_TYPE.fixedtext.text
 msgid "~Type"
 msgstr "~Tipus"
 
+#. tHb4
 #: label.src#TP_LAB_LAB.FL_FORMAT.fixedline.text
 msgctxt "label.src#TP_LAB_LAB.FL_FORMAT.fixedline.text"
 msgid "Format"
 msgstr "Formata"
 
+#. Qmmb
 #: label.src#DLG_SYNC_BTN.BTN_SYNC.pushbutton.text
 msgid "Synchronize Labels"
 msgstr "Sincronitza les etiquetes"
 
+#. 2bDW
 #: label.src#STR_DOC_TITLE.string.text
 msgctxt "label.src#STR_DOC_TITLE.string.text"
 msgid "Labels"
 msgstr "Etiquetes"
 
+#. AteV
 #: label.src#STR_CUSTOM.string.text
 msgid "[User]"
 msgstr "[Usuari]"
 
+#. gPGW
 #: label.src#TP_VISITING_CARDS.FT_AUTO_TEXT_GROUP.fixedtext.text
 msgid "AutoText - Section"
 msgstr "Text automàtic - Secció"
 
+#. UAcB
 #: label.src#TP_VISITING_CARDS.FL_CONTENT.fixedline.text
 msgid "Content"
 msgstr "Contingut"
 
+#. IULv
 #: label.src#TP_PRIVATE_DATA.FL_DATA.fixedline.text
 msgid "Private data"
 msgstr "Dades privades"
 
+#. ZxgS
 #: label.src#TP_PRIVATE_DATA.FT_NAME.fixedtext.text
 msgid "First/Last ~name/Initials"
 msgstr "~Nom/Cognoms/Inicials"
 
+#. N4_e
 #: label.src#TP_PRIVATE_DATA.FT_NAME_2.fixedtext.text
 msgid "First/Last ~name/Initials 2"
 msgstr "~Nom/Cognoms/Inicials 2"
 
+#. lQnV
 #: label.src#TP_PRIVATE_DATA.FT_STREET.fixedtext.text
 msgid "S~treet"
 msgstr "C~arrer"
 
+#. lyPl
 #: label.src#TP_PRIVATE_DATA.FT_ZIPCITY.fixedtext.text
 msgid "Zip/Cit~y"
 msgstr "Codi postal/Ciuta~t"
 
+#. 6gAf
 #: label.src#TP_PRIVATE_DATA.FT_COUNTRYSTATE.fixedtext.text
 msgid "Co~untry/State"
 msgstr "~Estat/Província"
 
+#. 1udt
 #: label.src#TP_PRIVATE_DATA.FT_TITLEPROF.fixedtext.text
 msgid "Title/~Profession"
 msgstr "Títol/Pro~fessió"
 
+#. sk26
 #: label.src#TP_PRIVATE_DATA.FT_PHONE_MOBILE.fixedtext.text
 msgctxt "label.src#TP_PRIVATE_DATA.FT_PHONE_MOBILE.fixedtext.text"
 msgid "Phone/Mobile"
 msgstr "Telèfon/Mòbil"
 
+#. #XyY
 #: label.src#TP_PRIVATE_DATA.FT_FAX.fixedtext.text
 msgid "Fa~x"
 msgstr "Fa~x"
 
+#. 8F9P
 #: label.src#TP_PRIVATE_DATA.FT_WWWMAIL.fixedtext.text
 msgid "Homepage / e-mail"
 msgstr "Pàgina principal / Correu electrònic"
 
+#. rHGU
 #: label.src#TP_BUSINESS_DATA.FL_DATA.fixedline.text
 msgid "Business data"
 msgstr "Dades professionals"
 
+#. 8tHf
 #: label.src#TP_BUSINESS_DATA.FT_COMP.fixedtext.text
 msgid "Company"
 msgstr "Empresa"
 
+#. w6gu
 #: label.src#TP_BUSINESS_DATA.FT_COMP_EXT.fixedtext.text
 msgid "Company 2nd line"
 msgstr "Empresa ~2a línia"
 
+#. p0CS
 #: label.src#TP_BUSINESS_DATA.FT_SLOGAN.fixedtext.text
 msgid "Slogan"
 msgstr "Lema"
 
+#. LMvd
 #: label.src#TP_BUSINESS_DATA.FT_STREET.fixedtext.text
 msgid "Street"
 msgstr "Carrer"
 
+#. m296
 #: label.src#TP_BUSINESS_DATA.FT_ZIPCITY.fixedtext.text
 msgid "ZIP/City"
 msgstr "Codi postal/Ciutat"
 
+#. MzSg
 #: label.src#TP_BUSINESS_DATA.FT_COUNTRYSTATE.fixedtext.text
 msgid "Country/State"
 msgstr "Estat/Província"
 
+#. tSpy
 #: label.src#TP_BUSINESS_DATA.FT_POSITION.fixedtext.text
 msgctxt "label.src#TP_BUSINESS_DATA.FT_POSITION.fixedtext.text"
 msgid "Position"
 msgstr "Posició"
 
+#. cvK5
 #: label.src#TP_BUSINESS_DATA.FT_PHONE_MOBILE.fixedtext.text
 msgctxt "label.src#TP_BUSINESS_DATA.FT_PHONE_MOBILE.fixedtext.text"
 msgid "Phone/Mobile"
 msgstr "Telèfon/Mòbil"
 
+#. UhXD
 #: label.src#TP_BUSINESS_DATA.FT_FAX.fixedtext.text
 msgid "Fax"
 msgstr "Fax"
 
+#. NnPm
 #: label.src#TP_BUSINESS_DATA.FT_WWWMAIL.fixedtext.text
 msgid "Ho~mepage / e-mail"
 msgstr "Pàgina principal / correu ~electrònic"
 
+#. BEeM
 #: envlop.src#DLG_ENV.1.TP_ENV_ENV.pageitem.text
 msgctxt "envlop.src#DLG_ENV.1.TP_ENV_ENV.pageitem.text"
 msgid "Envelope"
 msgstr "Sobre"
 
+#. YkEo
 #: envlop.src#DLG_ENV.1.TP_ENV_FMT.pageitem.text
 msgctxt "envlop.src#DLG_ENV.1.TP_ENV_FMT.pageitem.text"
 msgid "Format"
 msgstr "Formata"
 
+#. iT0#
 #: envlop.src#DLG_ENV.1.TP_ENV_PRT.pageitem.text
 msgid "Printer"
 msgstr "Impressora"
 
+#. Y8kO
 #: envlop.src#DLG_ENV.ST_INSERT.string.text
 msgid "~Insert"
 msgstr "~Insereix"
 
+#. LfQk
 #: envlop.src#DLG_ENV.ST_CHANGE.string.text
 msgid "~Modify"
 msgstr "~Modifica"
 
+#. f4aa
 #: envlop.src#DLG_ENV.tabdialog.text
 msgctxt "envlop.src#DLG_ENV.tabdialog.text"
 msgid "Envelope"
 msgstr "Sobre"
 
+#. aAyL
 #: envlop.src#TP_ENV_ENV.TXT_ADDR.fixedtext.text
 msgid "Addr~essee"
 msgstr "Destinat~ari"
 
+#. n5AO
 #: envlop.src#TP_ENV_ENV.FT_DATABASE.fixedtext.text
 msgctxt "envlop.src#TP_ENV_ENV.FT_DATABASE.fixedtext.text"
 msgid "Database"
 msgstr "Base de dades"
 
+#. sPFc
 #: envlop.src#TP_ENV_ENV.FT_TABLE.fixedtext.text
 msgctxt "envlop.src#TP_ENV_ENV.FT_TABLE.fixedtext.text"
 msgid "Table"
 msgstr "Taula"
 
+#. yJ05
 #: envlop.src#TP_ENV_ENV.FT_DBFIELD.fixedtext.text
 msgid "~Database field"
 msgstr "Camp de la ~base de dades"
 
+#. fksZ
 #: envlop.src#TP_ENV_ENV.BOX_SEND.checkbox.text
 msgid "~Sender"
 msgstr "~Remitent"
 
+#. 6flS
 #: envlop.src#STR_DOC_TITLE.string.text
 msgctxt "envlop.src#STR_DOC_TITLE.string.text"
 msgid "Envelope"
 msgstr "Sobre"
 
+#. VsP2
 #: envfmt.src#TP_ENV_FMT.FL_ADDRESSEE.fixedline.text
 msgid "Addressee"
 msgstr "Destinatari"
 
+#. beOv
 #: envfmt.src#TP_ENV_FMT.TXT_ADDR_POS.fixedtext.text
 msgctxt "envfmt.src#TP_ENV_FMT.TXT_ADDR_POS.fixedtext.text"
 msgid "Position"
 msgstr "Posició"
 
+#. lkjf
 #: envfmt.src#TP_ENV_FMT.TXT_ADDR_LEFT.fixedtext.text
 msgctxt "envfmt.src#TP_ENV_FMT.TXT_ADDR_LEFT.fixedtext.text"
 msgid "from left"
 msgstr "des de l'esquerra"
 
+#. hN_e
 #: envfmt.src#TP_ENV_FMT.TXT_ADDR_TOP.fixedtext.text
 msgctxt "envfmt.src#TP_ENV_FMT.TXT_ADDR_TOP.fixedtext.text"
 msgid "from top"
 msgstr "des de dalt"
 
+#. vEO7
 #: envfmt.src#TP_ENV_FMT.TXT_ADDR_FORMAT.fixedtext.text
 msgctxt "envfmt.src#TP_ENV_FMT.TXT_ADDR_FORMAT.fixedtext.text"
 msgid "Format"
 msgstr "Formata"
 
+#. xjBv
 #: envfmt.src#TP_ENV_FMT.BTN_ADDR_EDIT.menubutton.text
 msgctxt "envfmt.src#TP_ENV_FMT.BTN_ADDR_EDIT.menubutton.text"
 msgid "Edit"
 msgstr "Edita"
 
+#. FMFS
 #: envfmt.src#TP_ENV_FMT.FL_SENDER.fixedline.text
 msgid "Sender"
 msgstr "Remitent"
 
+#. sRVw
 #: envfmt.src#TP_ENV_FMT.TXT_SEND_POS.fixedtext.text
 msgctxt "envfmt.src#TP_ENV_FMT.TXT_SEND_POS.fixedtext.text"
 msgid "Position"
 msgstr "Posició"
 
+#. tz6w
 #: envfmt.src#TP_ENV_FMT.TXT_SEND_LEFT.fixedtext.text
 msgctxt "envfmt.src#TP_ENV_FMT.TXT_SEND_LEFT.fixedtext.text"
 msgid "from left"
 msgstr "des de l'esquerra"
 
+#. uauh
 #: envfmt.src#TP_ENV_FMT.TXT_SEND_TOP.fixedtext.text
 msgctxt "envfmt.src#TP_ENV_FMT.TXT_SEND_TOP.fixedtext.text"
 msgid "from top"
 msgstr "des de dalt"
 
+#. g061
 #: envfmt.src#TP_ENV_FMT.TXT_SEND_FORMAT.fixedtext.text
 msgctxt "envfmt.src#TP_ENV_FMT.TXT_SEND_FORMAT.fixedtext.text"
 msgid "Format"
 msgstr "Formata"
 
+#. y9Ny
 #: envfmt.src#TP_ENV_FMT.BTN_SEND_EDIT.menubutton.text
 msgctxt "envfmt.src#TP_ENV_FMT.BTN_SEND_EDIT.menubutton.text"
 msgid "Edit"
 msgstr "Edita"
 
+#. pRPN
 #: envfmt.src#TP_ENV_FMT.FL_SIZE.fixedline.text
 msgid "Size"
 msgstr "Mida"
 
+#. 9f6U
 #: envfmt.src#TP_ENV_FMT.TXT_SIZE_FORMAT.fixedtext.text
 msgid "F~ormat"
 msgstr "F~ormata"
 
+#. kzBF
 #: envfmt.src#TP_ENV_FMT.TXT_SIZE_WIDTH.fixedtext.text
 msgctxt "envfmt.src#TP_ENV_FMT.TXT_SIZE_WIDTH.fixedtext.text"
 msgid "~Width"
 msgstr "~Amplada"
 
+#. _#Cc
 #: envfmt.src#TP_ENV_FMT.TXT_SIZE_HEIGHT.fixedtext.text
 msgctxt "envfmt.src#TP_ENV_FMT.TXT_SIZE_HEIGHT.fixedtext.text"
 msgid "~Height"
 msgstr "A~lçada"
 
+#. PNRk
 #: envfmt.src#MNU_EDIT.MID_CHAR.menuitem.text
 msgid "C~haracter..."
 msgstr "~Caràcters..."
 
+#. j3m3
 #: envfmt.src#MNU_EDIT.MID_PARA.menuitem.text
 msgid "P~aragraph..."
 msgstr "~Paràgraf..."
 
+#. qxNg
 #: envelp.src#STR_DATABASE_NOT_OPENED.string.text
 msgid "Database could not be opened."
 msgstr "No es pot obrir la base de dades."
 
+#. X9V_
 #: envelp.src#STR_NO_DRIVERS.string.text
 msgid "No database drivers installed."
 msgstr "No s'han instal·lat els controladors de la base de dades."
 
+#. COCg
 #: envelp.src#STR_BTN_NEW_DOC.string.text
 msgid "~New Document"
 msgstr "Document ~nou"
 
+#. MJax
 #: envelp.src#STR_BTN_NEWDOC.string.text
 msgid "~New Doc."
 msgstr "Doc. ~nou"
 
+#. s0hA
 #: envelp.src#STR_SENDER_TOKENS.string.text
-msgid "COMPANY;CR;FIRSTNAME; ;LASTNAME;CR;ADDRESS;CR;CITY; ;STATEPROV; ;POSTALCODE;CR;COUNTRY;CR;"
-msgstr "EMPRESA;CR;NOM; ;COGNOMS;CR;ADREÇA;CR;CIUTAT; ;ESTATPROVINCIA; ;CODIPOSTAL;CR;PAIS;CR;"
+msgid ""
+"COMPANY;CR;FIRSTNAME; ;LASTNAME;CR;ADDRESS;CR;CITY; ;STATEPROV; ;POSTALCODE;"
+"CR;COUNTRY;CR;"
+msgstr ""
+"EMPRESA;CR;NOM; ;COGNOMS;CR;ADREÇA;CR;CIUTAT; ;ESTATPROVINCIA; ;CODIPOSTAL;"
+"CR;PAIS;CR;"
 
+#. Zs7U
 #: labprt.src#TP_LAB_PRT.BTN_PAGE.radiobutton.text
 msgid "~Entire page"
 msgstr "~Tota la pàgina"
 
+#. dnzp
 #: labprt.src#TP_LAB_PRT.BTN_SINGLE.radiobutton.text
 msgid "~Single label"
 msgstr "~Una etiqueta"
 
+#. xPgz
 #: labprt.src#TP_LAB_PRT.TXT_COL.fixedtext.text
 msgid "Colu~mn"
 msgstr "Colu~mna"
 
+#. eHyA
 #: labprt.src#TP_LAB_PRT.TXT_ROW.fixedtext.text
 msgid "Ro~w"
 msgstr "Fi~la"
 
+#. SEVx
 #: labprt.src#TP_LAB_PRT.CB_SYNCHRON.checkbox.text
 msgid "Synchroni~ze contents"
 msgstr "Sincroni~tza els continguts"
 
+#. QrEG
 #: labprt.src#TP_LAB_PRT.FL_DONTKNOW.fixedline.text
 msgid "Distribute"
 msgstr "Distribueix"
 
+#. ciPC
 #: labprt.src#TP_LAB_PRT.INF_PRINTER.fixedtext.text
 msgid "Printer Name"
 msgstr "Nom de la impressora"
 
+#. OtZ8
 #: labprt.src#TP_LAB_PRT.BTN_PRTSETUP.pushbutton.text
 msgctxt "labprt.src#TP_LAB_PRT.BTN_PRTSETUP.pushbutton.text"
 msgid "Setup..."
 msgstr "Configura..."
 
+#. CX5F
 #: labprt.src#TP_LAB_PRT.FL_PRINTER.fixedline.text
 msgid " Printer "
 msgstr " Impressora "
 
+#. zTG1
 #: labfmt.src#TP_LAB_FMT.TXT_HDIST.fixedtext.text
 msgid "Hori~zontal pitch"
 msgstr "Distància ~horitzontal"
 
+#. Vecn
 #: labfmt.src#TP_LAB_FMT.TXT_VDIST.fixedtext.text
 msgid "~Vertical pitch"
 msgstr "Distància ~vertical"
 
+#. B_gU
 #: labfmt.src#TP_LAB_FMT.TXT_WIDTH.fixedtext.text
 msgctxt "labfmt.src#TP_LAB_FMT.TXT_WIDTH.fixedtext.text"
 msgid "~Width"
 msgstr "~Amplada"
 
+#. 1gFY
 #: labfmt.src#TP_LAB_FMT.TXT_HEIGHT.fixedtext.text
 msgctxt "labfmt.src#TP_LAB_FMT.TXT_HEIGHT.fixedtext.text"
 msgid "~Height"
 msgstr "A~lçada"
 
+#. rGxn
 #: labfmt.src#TP_LAB_FMT.TXT_LEFT.fixedtext.text
 msgid "~Left margin"
 msgstr "~Marge esquerre"
 
+#. zoBN
 #: labfmt.src#TP_LAB_FMT.TXT_UPPER.fixedtext.text
 msgid "~Top margin"
 msgstr "~Marge superior"
 
+#. xYRn
 #: labfmt.src#TP_LAB_FMT.TXT_COLUMNS.fixedtext.text
 msgid "~Columns"
 msgstr "~Columnes"
 
+#. aFb7
 #: labfmt.src#TP_LAB_FMT.TXT_ROWS.fixedtext.text
 msgid "R~ows"
 msgstr "F~iles"
 
+#. PmJS
 #: labfmt.src#TP_LAB_FMT.PB_SAVE.pushbutton.text
 msgid "~Save..."
 msgstr "~Alça..."
 
+#. 7ZzL
 #: labfmt.src#STR_HDIST.string.text
 msgid "H. Pitch"
 msgstr "Distància h."
 
+#. e3s0
 #: labfmt.src#STR_VDIST.string.text
 msgid "V. Pitch"
 msgstr "Distància v."
 
+#. zFpv
 #: labfmt.src#STR_WIDTH.string.text
 msgid "Width"
 msgstr "Amplada"
 
+#. j4Ak
 #: labfmt.src#STR_HEIGHT.string.text
 msgid "Height"
 msgstr "Alçada"
 
+#. tsUo
 #: labfmt.src#STR_LEFT.string.text
 msgid "Left margin"
 msgstr "Marge esquerre"
 
+#. QDgc
 #: labfmt.src#STR_UPPER.string.text
 msgid "Top margin"
 msgstr "Marge superior"
 
+#. HWt4
 #: labfmt.src#STR_COLS.string.text
 msgid "Columns"
 msgstr "Columnes"
 
+#. sXY4
 #: labfmt.src#STR_ROWS.string.text
 msgid "Rows"
 msgstr "Files"
 
+#. wNun
 #: labfmt.src#DLG_SAVE_LABEL.FT_MAKE.fixedtext.text
 msgctxt "labfmt.src#DLG_SAVE_LABEL.FT_MAKE.fixedtext.text"
 msgid "Brand"
 msgstr "Marca"
 
+#. nmrr
 #: labfmt.src#DLG_SAVE_LABEL.FT_TYPE.fixedtext.text
 msgid "T~ype"
 msgstr "T~ipus"
 
+#. 5gYW
 #: labfmt.src#DLG_SAVE_LABEL.FL_OPTIONS.fixedline.text
 msgctxt "labfmt.src#DLG_SAVE_LABEL.FL_OPTIONS.fixedline.text"
 msgid "Options"
 msgstr "Opcions"
 
+#. H#7p
 #: labfmt.src#DLG_SAVE_LABEL.MB_QUERY.querybox.text
 msgid ""
 "The label \"%1 / %2\" already exists.\n"
@@ -650,6 +811,7 @@ msgstr ""
 "L'etiqueta \"%1 / %2\" ja existeix. \n"
 "Voleu sobreescriure-la?"
 
+#. bYgA
 #: labfmt.src#DLG_SAVE_LABEL.modaldialog.text
 msgid "Save Label Format"
 msgstr "Alça el format de l'etiqueta"

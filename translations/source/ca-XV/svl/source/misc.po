@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+svl%2Fsource%2Fmisc.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment="
+"&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%"
+"3A+svl%2Fsource%2Fmisc.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:43+0200\n"
 "PO-Revision-Date: 2012-02-28 00:39+0200\n"
 "Last-Translator: Joan <joan@montane.cat>\n"
@@ -15,315 +17,510 @@ msgstr ""
 "X-Generator: Pootle 2.1.6\n"
 "X-Accelerator-Marker: ~\n"
 
+#. E39A
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_OCTSTREAM.string.text
 msgid "Binary file"
 msgstr "Fitxer binari"
 
+#. T52L
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_PDF.string.text
 msgid "PDF file"
 msgstr "Fitxer PDF"
 
+#. 6cvL
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_RTF.string.text
 msgid "RTF File"
 msgstr "Fitxer RTF"
 
+#. znt2
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_MSWORD.string.text
 msgid "MS-Word document"
 msgstr "Document del MS Word"
 
+#. 2X6x
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_STARCALC.string.text
 msgid "%PRODUCTNAME Spreadsheet"
 msgstr "Full de càlcul del %PRODUCTNAME"
 
+#. eKm3
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_STARCHART.string.text
 msgid "%PRODUCTNAME Chart"
 msgstr "Diagrama del %PRODUCTNAME"
 
+#. tNW8
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_STARDRAW.string.text
 msgid "%PRODUCTNAME Drawing"
 msgstr "Dibuix del %PRODUCTNAME"
 
+#. rGiz
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_STARIMAGE.string.text
 msgid "%PRODUCTNAME Image"
 msgstr "Imatge del %PRODUCTNAME"
 
+#. PCOb
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_STARMATH.string.text
 msgid "%PRODUCTNAME Formula"
 msgstr "Fórmula del %PRODUCTNAME"
 
+#. Jnnm
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_STARWRITER.string.text
 msgid "%PRODUCTNAME Text"
 msgstr "Text del %PRODUCTNAME"
 
+#. i9AQ
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_ZIP.string.text
 msgid "ZIP file"
 msgstr "Fitxer ZIP"
 
+#. dI1p
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_JAR.string.text
 msgid "JAR file"
 msgstr "Fitxer JAR"
 
+#. siBm
 #: mediatyp.src#STR_SVT_MIMETYPE_AUDIO_AIFF.string.text
 msgctxt "mediatyp.src#STR_SVT_MIMETYPE_AUDIO_AIFF.string.text"
 msgid "Audio file"
 msgstr "Fitxer d'àudio"
 
+#. 20q1
 #: mediatyp.src#STR_SVT_MIMETYPE_AUDIO_BASIC.string.text
 msgctxt "mediatyp.src#STR_SVT_MIMETYPE_AUDIO_BASIC.string.text"
 msgid "Audio file"
 msgstr "Fitxer d'àudio"
 
+#. Xk3Z
 #: mediatyp.src#STR_SVT_MIMETYPE_AUDIO_MIDI.string.text
 msgctxt "mediatyp.src#STR_SVT_MIMETYPE_AUDIO_MIDI.string.text"
 msgid "Audio file"
 msgstr "Fitxer d'àudio"
 
+#. oC7I
 #: mediatyp.src#STR_SVT_MIMETYPE_AUDIO_VORBIS.string.text
 msgctxt "mediatyp.src#STR_SVT_MIMETYPE_AUDIO_VORBIS.string.text"
 msgid "Audio file"
 msgstr "Fitxer d'àudio"
 
+#. 8DDb
 #: mediatyp.src#STR_SVT_MIMETYPE_AUDIO_WAV.string.text
 msgctxt "mediatyp.src#STR_SVT_MIMETYPE_AUDIO_WAV.string.text"
 msgid "Audio file"
 msgstr "Fitxer d'àudio"
 
+#. 0YB9
 #: mediatyp.src#STR_SVT_MIMETYPE_AUDIO_WEBM.string.text
 msgctxt "mediatyp.src#STR_SVT_MIMETYPE_AUDIO_WEBM.string.text"
 msgid "Audio file"
 msgstr "Fitxer d'àudio"
 
+#. EQXg
 #: mediatyp.src#STR_SVT_MIMETYPE_IMAGE_GIF.string.text
 msgctxt "mediatyp.src#STR_SVT_MIMETYPE_IMAGE_GIF.string.text"
 msgid "Graphics"
 msgstr "Gràfics"
 
+#. t_IT
 #: mediatyp.src#STR_SVT_MIMETYPE_IMAGE_JPEG.string.text
 msgctxt "mediatyp.src#STR_SVT_MIMETYPE_IMAGE_JPEG.string.text"
 msgid "Graphics"
 msgstr "Gràfics"
 
+#. By9F
 #: mediatyp.src#STR_SVT_MIMETYPE_IMAGE_PCX.string.text
 msgctxt "mediatyp.src#STR_SVT_MIMETYPE_IMAGE_PCX.string.text"
 msgid "Graphics"
 msgstr "Gràfics"
 
+#. GsoZ
 #: mediatyp.src#STR_SVT_MIMETYPE_IMAGE_BMP.string.text
 msgid "Bitmap"
 msgstr "Mapa de bits"
 
+#. 9Hj#
 #: mediatyp.src#STR_SVT_MIMETYPE_TEXT_HTML.string.text
 msgid "HTML document"
 msgstr "Document HTML"
 
+#. tmPz
 #: mediatyp.src#STR_SVT_MIMETYPE_TEXT_PLAIN.string.text
 msgid "Text file"
 msgstr "Fitxer de text"
 
+#. JNkY
 #: mediatyp.src#STR_SVT_MIMETYPE_TEXT_URL.string.text
 msgid "Bookmark"
 msgstr "Adreça d'interés"
 
+#. Hvz_
 #: mediatyp.src#STR_SVT_MIMETYPE_TEXT_VCARD.string.text
 msgid "vCard file"
 msgstr "Fitxer vCard"
 
+#. Kqhv
 #: mediatyp.src#STR_SVT_MIMETYPE_VIDEO_MSVIDEO.string.text
 msgctxt "mediatyp.src#STR_SVT_MIMETYPE_VIDEO_MSVIDEO.string.text"
 msgid "Video file"
 msgstr "Fitxer de vídeo"
 
+#. 6KQx
 #: mediatyp.src#STR_SVT_MIMETYPE_VIDEO_THEORA.string.text
 msgctxt "mediatyp.src#STR_SVT_MIMETYPE_VIDEO_THEORA.string.text"
 msgid "Video file"
 msgstr "Fitxer de vídeo"
 
+#. L_oZ
 #: mediatyp.src#STR_SVT_MIMETYPE_VIDEO_VDO.string.text
 msgctxt "mediatyp.src#STR_SVT_MIMETYPE_VIDEO_VDO.string.text"
 msgid "Video file"
 msgstr "Fitxer de vídeo"
 
+#. 995y
 #: mediatyp.src#STR_SVT_MIMETYPE_VIDEO_WEBM.string.text
 msgctxt "mediatyp.src#STR_SVT_MIMETYPE_VIDEO_WEBM.string.text"
 msgid "Video file"
 msgstr "Fitxer de vídeo"
 
+#. Ubfa
 #: mediatyp.src#STR_SVT_MIMETYPE_X_STARMAIL.string.text
 msgctxt "mediatyp.src#STR_SVT_MIMETYPE_X_STARMAIL.string.text"
 msgid "Message"
 msgstr "Missatge"
 
+#. rpSi
 #: mediatyp.src#STR_SVT_MIMETYPE_X_VRML.string.text
 msgid "VRML file"
 msgstr "Fitxer VRML"
 
+#. rZQp
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_STARIMPRESS.string.text
 msgid "%PRODUCTNAME Presentation"
 msgstr "Presentació del %PRODUCTNAME"
 
+#. fu27
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_IMPRESSPACKED.string.text
 msgid "%PRODUCTNAME Presentation (packed)"
 msgstr "Presentació del %PRODUCTNAME (empaquetada)"
 
+#. vGc7
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_STARHELP.string.text
 msgid "%PRODUCTNAME Help"
 msgstr "Ajuda del %PRODUCTNAME"
 
+#. Hlm1
 #: mediatyp.src#STR_SVT_MIMETYPE_CNT_FSYSBOX.string.text
 msgid "Workplace"
 msgstr "Lloc de treball"
 
+#. apRj
 #: mediatyp.src#STR_SVT_MIMETYPE_CNT_FSYSFLD.string.text
 msgid "Folder"
 msgstr "Carpeta"
 
+#. uamD
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_GAL.string.text
 msgid "Gallery"
 msgstr "Galeria"
 
+#. a7uG
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_GAL_THEME.string.text
 msgid "Gallery theme"
 msgstr "Tema de Galeria"
 
+#. FHU_
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_STARW_GLOB.string.text
 msgid "%PRODUCTNAME Master Document"
 msgstr "Document mestre del %PRODUCTNAME"
 
+#. BZ7C
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_SDM.string.text
 msgctxt "mediatyp.src#STR_SVT_MIMETYPE_APP_SDM.string.text"
 msgid "Message"
 msgstr "Missatge"
 
+#. kU#0
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_SMD.string.text
 msgctxt "mediatyp.src#STR_SVT_MIMETYPE_APP_SMD.string.text"
 msgid "Message"
 msgstr "Missatge"
 
+#. xPN3
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_STARW_WEB.string.text
 msgid "%PRODUCTNAME Writer/Web"
 msgstr "%PRODUCTNAME Writer/Web"
 
+#. Tz17
 #: mediatyp.src#STR_SVT_MIMETYPE_SCHEDULE.string.text
 msgid "Tasks & Events"
 msgstr "Tasques i esdeveniments"
 
+#. JVKS
 #: mediatyp.src#STR_SVT_MIMETYPE_SCHEDULE_EVT.string.text
 msgid "%PRODUCTNAME Events View"
 msgstr "Visualització d'esdeveniments del %PRODUCTNAME"
 
+#. lwKq
 #: mediatyp.src#STR_SVT_MIMETYPE_SCHEDULE_TASK.string.text
 msgid "%PRODUCTNAME Task View"
 msgstr "Visualització de tasques del %PRODUCTNAME"
 
+#. rmav
 #: mediatyp.src#STR_SVT_MIMETYPE_SCHEDULE_FEVT.string.text
 msgid "%PRODUCTNAME Event"
 msgstr "Esdeveniment del %PRODUCTNAME"
 
+#. Lwzi
 #: mediatyp.src#STR_SVT_MIMETYPE_SCHEDULE_FTASK.string.text
 msgid "%PRODUCTNAME Task"
 msgstr "Tasca del %PRODUCTNAME"
 
+#. LjzU
 #: mediatyp.src#STR_SVT_MIMETYPE_FRAMESET.string.text
 msgid "Frameset Document"
 msgstr "Document de marcs"
 
+#. IS8e
 #: mediatyp.src#STR_SVT_MIMETYPE_MACRO.string.text
 msgid "Macro file"
 msgstr "Fitxer de macros"
 
+#. 9Dys
 #: mediatyp.src#STR_SVT_MIMETYPE_CNT_SFSYSFOLDER.string.text
 msgid "System folder"
 msgstr "Carpeta del sistema"
 
+#. vN_0
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_TEMPLATE.string.text
 msgid "%PRODUCTNAME Template"
 msgstr "Plantilla del %PRODUCTNAME"
 
+#. EPvA
 #: mediatyp.src#STR_SVT_MIMETYPE_IMAGE_GENERIC.string.text
 msgctxt "mediatyp.src#STR_SVT_MIMETYPE_IMAGE_GENERIC.string.text"
 msgid "Graphics"
 msgstr "Gràfics"
 
+#. aiRc
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_MSEXCEL.string.text
 msgid "MS Excel document"
 msgstr "Document del MS Excel"
 
+#. H9aJ
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_MSEXCEL_TEMPL.string.text
 msgid "MS Excel Template"
 msgstr "Plantilla del MS Excel"
 
+#. T4hP
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_MSPPOINT.string.text
 msgid "MS PowerPoint document"
 msgstr "Document del MS PowerPoint"
 
+#. CH9#
 #: mediatyp.src#STR_SVT_MIMETYPE_TEXT_VCALENDAR.string.text
 msgid "vCalendar-file"
 msgstr "Fitxer vCalendar"
 
+#. HTmd
 #: mediatyp.src#STR_SVT_MIMETYPE_TEXT_ICALENDAR.string.text
 msgid "iCalendar-File"
 msgstr "Fitxer iCalendar"
 
+#. bwbm
 #: mediatyp.src#STR_SVT_MIMETYPE_TEXT_XMLICALENDAR.string.text
 msgid "XML-iCalendar-File"
 msgstr "Fitxer XML-iCalendar"
 
+#. efF6
 #: mediatyp.src#STR_SVT_MIMETYPE_TEXT_CDE_CALENDAR_APP.string.text
 msgid "CDE-Calendar-File"
 msgstr "Fitxer CDE-Calendar"
 
+#. UQO1
 #: mediatyp.src#STR_SVT_MIMETYPE_INET_MSG_RFC822.string.text
 msgid "message/rfc822"
 msgstr "message/rfc822"
 
+#. oU4d
 #: mediatyp.src#STR_SVT_MIMETYPE_INET_MULTI_ALTERNATIVE.string.text
 msgid "multipart/alternative"
 msgstr "multipart/alternative"
 
+#. ZOv8
 #: mediatyp.src#STR_SVT_MIMETYPE_INET_MULTI_DIGEST.string.text
 msgid "multipart/digest"
 msgstr "multipart/digest"
 
+#. naDI
 #: mediatyp.src#STR_SVT_MIMETYPE_INET_MULTI_PARALLEL.string.text
 msgid "multipart/parallel"
 msgstr "multipart/parallel"
 
+#. Xaix
 #: mediatyp.src#STR_SVT_MIMETYPE_INET_MULTI_RELATED.string.text
 msgid "multipart/related"
 msgstr "multipart/related"
 
+#. 4bAC
 #: mediatyp.src#STR_SVT_MIMETYPE_INET_MULTI_MIXED.string.text
 msgid "multipart/mixed"
 msgstr "multipart/mixed"
 
+#. C_np
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_SXCALC.string.text
 msgid "%PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION Spreadsheet"
 msgstr "Full de càlcul del %PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION"
 
+#. tCCU
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_SXCHART.string.text
 msgid "%PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION Chart"
 msgstr "Diagrama del %PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION"
 
+#. v9N0
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_SXDRAW.string.text
 msgid "%PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION Drawing"
 msgstr "Dibuix del %PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION"
 
+#. NIlj
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_SXMATH.string.text
 msgid "%PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION Formula"
 msgstr "Fórmula del %PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION"
 
+#. s3aI
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_SXWRITER.string.text
 msgid "%PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION Text Document"
 msgstr "Document de text del %PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION"
 
+#. JUOX
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_SXIMPRESS.string.text
 msgid "%PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION Presentation"
 msgstr "Presentació del %PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION"
 
+#. _Kpo
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_SXGLOBAL.string.text
 msgid "%PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION Master Document"
 msgstr "Document mestre del %PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION"
 
+#. wj#y
 #: mediatyp.src#STR_SVT_MIMETYPE_APP_SXIPACKED.string.text
 msgid "%PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION Presentation (packed)"
 msgstr "Presentació del %PRODUCTNAME %PRODUCTXMLFILEFORMATVERSION (empaquetada)"
+
+#~ msgctxt "mediatyp.src#STR_SVT_MIMETYPE_CNT_MSG.string.text"
+#~ msgid "Message"
+#~ msgstr "Missatge"
+
+#~ msgid "Document"
+#~ msgstr "Document"
+
+#~ msgid "POP3 Account"
+#~ msgstr "Compte POP3"
+
+#~ msgid "IMAP Account"
+#~ msgstr "Compte IMAP"
+
+#~ msgid "VIM Account"
+#~ msgstr "Compte VIM"
+
+#~ msgid "Inbox"
+#~ msgstr "Bústia d'entrada"
+
+#~ msgid "Newsgroups"
+#~ msgstr "Grups de notícies"
+
+#~ msgid "Newsgroup"
+#~ msgstr "Grup de notícies"
+
+#~ msgid "News"
+#~ msgstr "Notícies"
+
+#~ msgid "Group"
+#~ msgstr "Grup"
+
+#~ msgid "Outbox"
+#~ msgstr "Bústia de sortida"
+
+#~ msgid "FTP Account"
+#~ msgstr "Compte FTP"
+
+#~ msgid "FTP Folder"
+#~ msgstr "Carpeta FTP"
+
+#~ msgid "FTP File"
+#~ msgstr "Fitxer FTP"
+
+#~ msgid "FTP Link"
+#~ msgstr "Enllaç FTP"
+
+#~ msgid "HTTP"
+#~ msgstr "HTTP"
+
+#~ msgctxt "mediatyp.src#STR_SVT_MIMETYPE_CNT_FSYSFLD.string.text"
+#~ msgid "Folder"
+#~ msgstr "Carpeta"
+
+#~ msgid "File"
+#~ msgstr "Fitxer"
+
+#~ msgid "Link"
+#~ msgstr "Enllaç"
+
+#~ msgid "Project"
+#~ msgstr "Projecte"
+
+#~ msgid "Find"
+#~ msgstr "Cerca"
+
+#~ msgid "Subscriptions"
+#~ msgstr "Subscripcions"
+
+#~ msgid "Bookmark subscription"
+#~ msgstr "Subscripció d'adreces d'interès"
+
+#~ msgctxt "mediatyp.src#STR_SVT_MIMETYPE_CNT_CDF.string.text"
+#~ msgid "Channel subscription"
+#~ msgstr "Subscripció de canal"
+
+#~ msgctxt "mediatyp.src#STR_SVT_MIMETYPE_CNT_CDFSUB.string.text"
+#~ msgid "Channel subscription"
+#~ msgstr "Subscripció de canal"
+
+#~ msgctxt "mediatyp.src#STR_SVT_MIMETYPE_CNT_CDFITEM.string.text"
+#~ msgid "Channel subscription"
+#~ msgstr "Subscripció de canal"
+
+#~ msgid "StarChannel"
+#~ msgstr "StarChannel"
+
+#~ msgid "Recycle Bin"
+#~ msgstr "Paperera de reciclatge"
+
+#~ msgid "Deleted Object"
+#~ msgstr "Objecte suprimit"
+
+#~ msgctxt "mediatyp.src#STR_SVT_MIMETYPE_CNT_REMOV_VOL.string.text"
+#~ msgid "Local drive"
+#~ msgstr "Unitat local"
+
+#~ msgctxt "mediatyp.src#STR_SVT_MIMETYPE_CNT_FIX_VOL.string.text"
+#~ msgid "Local drive"
+#~ msgstr "Unitat local"
+
+#~ msgid "Network connection"
+#~ msgstr "Connexió de xarxa"
+
+#~ msgid "RAM Disk"
+#~ msgstr "Disc de RAM"
+
+#~ msgid "CD-ROM drive"
+#~ msgstr "Unitat de CD-ROM"
+
+#~ msgid "3.5'' Disk"
+#~ msgstr "Disc de 3,5''"
+
+#~ msgid "5.25'' Disk"
+#~ msgstr "Disc de 5,25''"
+
+#~ msgid "Tape drive"
+#~ msgstr "Unitat de cinta"
+
+#~ msgid "System object"
+#~ msgstr "Objecte del sistema"
