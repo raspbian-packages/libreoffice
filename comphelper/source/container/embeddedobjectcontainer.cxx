@@ -96,6 +96,7 @@ struct EmbedImpl
     //EmbeddedObjectContainerNameMap maTempObjectContainer;
     //uno::Reference < embed::XStorage > mxTempStorage;
     sal_Bool bOwnsStorage;
+    bool mbUserAllowsLinkUpdate : 1;
 
     const uno::Reference < embed::XStorage >& GetReplacements();
 };
@@ -127,6 +128,7 @@ EmbeddedObjectContainer::EmbeddedObjectContainer()
     pImpl = new EmbedImpl;
     pImpl->mxStorage = ::comphelper::OStorageHelper::GetTemporaryStorage();
     pImpl->bOwnsStorage = sal_True;
+    pImpl->mbUserAllowsLinkUpdate = true;
     pImpl->mpTempObjectContainer = 0;
 }
 
@@ -135,6 +137,7 @@ EmbeddedObjectContainer::EmbeddedObjectContainer( const uno::Reference < embed::
     pImpl = new EmbedImpl;
     pImpl->mxStorage = rStor;
     pImpl->bOwnsStorage = sal_False;
+    pImpl->mbUserAllowsLinkUpdate = true;
     pImpl->mpTempObjectContainer = 0;
 }
 
@@ -143,6 +146,7 @@ EmbeddedObjectContainer::EmbeddedObjectContainer( const uno::Reference < embed::
     pImpl = new EmbedImpl;
     pImpl->mxStorage = rStor;
     pImpl->bOwnsStorage = sal_False;
+    pImpl->mbUserAllowsLinkUpdate = true;
     pImpl->mpTempObjectContainer = 0;
     pImpl->m_xModel = xModel;
 }
@@ -1635,6 +1639,20 @@ sal_Bool EmbeddedObjectContainer::SetPersistentEntries(const uno::Reference< emb
     }
     return bError;
 }
+
+bool EmbeddedObjectContainer::getUserAllowsLinkUpdate() const
+{
+    return pImpl->mbUserAllowsLinkUpdate;
+}
+
+void EmbeddedObjectContainer::setUserAllowsLinkUpdate(bool bNew)
+{
+    if(pImpl->mbUserAllowsLinkUpdate != bNew)
+    {
+        pImpl->mbUserAllowsLinkUpdate = bNew;
+    }
+}
+
 }
 
 /* vim:set shiftwidth=4 softtabstop=4 expandtab: */

@@ -1,0 +1,59 @@
+/* -*- Mode: C++; tab-width: 4; indent-tabs-mode: nil; c-basic-offset: 4 -*- */
+/*
+ * This file is part of the LibreOffice project.
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/.
+ */
+
+#ifndef SC_DOCUMENTLINKMGR_HXX
+#define SC_DOCUMENTLINKMGR_HXX
+
+#include <boost/noncopyable.hpp>
+#include <sfx2/linkmgr.hxx>
+
+namespace sc {
+
+class DataStream;
+struct DocumentLinkManagerImpl;
+
+class DocumentLinkManager : boost::noncopyable
+{   
+    DocumentLinkManagerImpl* mpImpl;
+
+public:
+    DocumentLinkManager();
+    ~DocumentLinkManager();
+
+    /**
+     * @param bCreate if true, create a new link manager instance in case one
+     *                does not exist.
+     *
+     * @return link manager instance.
+     */
+    sfx2::LinkManager* getLinkManager( bool bCreate = true );
+
+    const sfx2::LinkManager* getExistingLinkManager() const;
+
+    bool idleCheckLinks();
+
+    bool hasDdeLinks() const;
+    bool hasDdeOrOleLinks() const;
+
+    bool updateDdeOrOleLinks(Window* pWin);
+
+    bool updateDdeLink( const rtl::OUString& rAppl, const rtl::OUString& rTopic, const rtl::OUString& rItem );
+
+    size_t getDdeLinkCount() const;
+
+    void disconnectDdeLinks();
+private: 
+    bool hasDdeOrOleLinks(bool bDde, bool bOle) const;
+};
+
+}
+
+#endif
+
+/* vim:set shiftwidth=4 softtabstop=4 expandtab: */

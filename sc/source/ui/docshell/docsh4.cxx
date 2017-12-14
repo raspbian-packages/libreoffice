@@ -39,6 +39,7 @@ using namespace ::com::sun::star;
 
 #include "scitems.hxx"
 #include <sfx2/fcontnr.hxx>
+#include <sfx2/linkmgr.hxx>
 #include <editeng/eeitem.hxx>
 #include <sfx2/objface.hxx>
 #include <sfx2/app.hxx>
@@ -64,6 +65,7 @@ using namespace ::com::sun::star;
 #include <svx/svdpage.hxx>
 #include <svx/fmshell.hxx>
 #include <svtools/xwindowitem.hxx>
+#include <svx/svdoole2.hxx>
 #include <sfx2/passwd.hxx>
 #include <sfx2/filedlghelper.hxx>
 #include <sfx2/docinsert.hxx>
@@ -119,6 +121,7 @@ using namespace ::com::sun::star;
 #include "conditio.hxx"
 #include "sheetevents.hxx"
 #include "unotools/securityoptions.hxx"
+#include <documentlinkmgr.hxx>
 
 //------------------------------------------------------------------
 
@@ -436,6 +439,8 @@ void ScDocShell::Execute( SfxRequest& rReq )
         case SID_UPDATETABLINKS:
             {
                 ScDocument* pDoc = GetDocument();
+                comphelper::EmbeddedObjectContainer& rEmbeddedObjectContainer = getEmbeddedObjectContainer();
+                rEmbeddedObjectContainer.setUserAllowsLinkUpdate(true);
 
                 ScLkUpdMode nSet=pDoc->GetLinkMode();
 
@@ -476,14 +481,29 @@ void ScDocShell::Execute( SfxRequest& rReq )
                 {
                     ReloadTabLinks();
                     aDocument.UpdateExternalRefLinks(GetActiveDialogParent());
-                    aDocument.UpdateDdeLinks(GetActiveDialogParent());
+
+                    bool bAnyDde = aDocument.GetDocLinkManager().updateDdeOrOleLinks(GetActiveDialogParent());
+
+                    if (bAnyDde)
+                    {
+                        //  Formeln berechnen und painten wie im TrackTimeHdl
+                        aDocument.TrackFormulas();
+                        Broadcast(SfxSimpleHint(FID_DATACHANGED));
+
+                        //  wenn FID_DATACHANGED irgendwann mal asynchron werden sollte
+                        //  (z.B. mit Invalidate am Window), muss hier ein Update erzwungen werden.
+                    }
+
                     aDocument.UpdateAreaLinks();
 
                     //! Test, ob Fehler
                     rReq.Done();
                 }
                 else
+                {
+                    rEmbeddedObjectContainer.setUserAllowsLinkUpdate(false);
                     rReq.Ignore();
+                }
             }
             break;
 

@@ -39,6 +39,8 @@
 #include <vcl/gdimtf.hxx>
 #include <sot/storage.hxx>
 #include "svx/svxdllapi.h"
+#include <sfx2/lnkbase.hxx>
+#include <sfx2/linkmgr.hxx>
 
 //************************************************************
 //   SdrOle2Obj
@@ -184,6 +186,21 @@ public:
     static Bitmap GetEmtyOLEReplacementBitmap();
 
     void SetWindow(const com::sun::star::uno::Reference < com::sun::star::awt::XWindow >& _xWindow);
+};
+
+class SVX_DLLPUBLIC SdrEmbedObjectLink : public sfx2::SvBaseLink
+{
+    SdrOle2Obj*         pObj;
+
+public:
+    explicit            SdrEmbedObjectLink(SdrOle2Obj* pObj);
+    virtual             ~SdrEmbedObjectLink();
+
+    virtual void        Closed();
+    virtual ::sfx2::SvBaseLink::UpdateResult DataChanged(
+        const String& rMimeType, const com::sun::star::uno::Any & rValue );
+
+    bool                Connect() { return GetRealObject() != nullptr; }
 };
 
 #endif //_SVDOOLE2_HXX
