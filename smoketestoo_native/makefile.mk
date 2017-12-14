@@ -53,6 +53,6 @@ my_linkoo = -l
 localinstall :
     $(RM) -r $(installationtest_instpath)
     $(MKDIRHIER) $(installationtest_instpath)
-    ooinstall $(my_linkoo) $(installationtest_instpath)/opt
+    export WITH_LANG=en-US; ooinstall $(my_linkoo) $(installationtest_instpath)/opt
 cpptest : localinstall
 .END
