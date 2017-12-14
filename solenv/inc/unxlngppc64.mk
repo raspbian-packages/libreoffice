@@ -30,5 +30,4 @@
 .INCLUDE : unxlngppc.mk
 
 CDEFS+=-DPOWERPC64
-CFLAGSCXX+=-mminimal-toc
 BUILD64=1
