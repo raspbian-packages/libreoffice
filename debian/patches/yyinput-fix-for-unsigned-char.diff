@@ -1,0 +1,91 @@
+From 6b3bf27cb56d661725ac3fcfb756562e0ad75564 Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?Caol=C3=A1n=20McNamara?= <caolanm@redhat.com>
+Date: Mon, 14 May 2012 14:00:59 +0100
+Subject: [PATCH] ppc: yyinput returns a int, truncating to (unsigned)char
+ does't work
+
+retain this as an int so that on platforms where char is unsigned
+we don't mangle the value and get this all wrong.
+
+Fixes database opening tables on ppc if -fsigned-char is removed
+
+Change-Id: I66f0c6b1b19191595f8b348377579f2daabf7ada
+---
+ connectivity/source/parse/sqlflex.l |   18 +++++++++---------
+ 1 files changed, 9 insertions(+), 9 deletions(-)
+
+diff --git a/connectivity/source/parse/sqlflex.l b/connectivity/source/parse/sqlflex.l
+index d5b2f14..fd27cb8 100755
+--- a/connectivity/source/parse/sqlflex.l
++++ b/connectivity/source/parse/sqlflex.l
+@@ -76,7 +76,7 @@ using namespace connectivity;
+ 
+ static ::rtl::OUString aEmptyString;
+ 
+-static sal_Int32	gatherString(sal_Int32 delim, sal_Int32 nTyp);
++static sal_Int32	gatherString(int delim, sal_Int32 nTyp);
+ static sal_Int32	gatherName(const sal_Char*);
+ static sal_Int32	gatherNamePre(const sal_Char* );
+ // has to be set before the parser starts
+@@ -94,8 +94,8 @@ OSQLScanner* xxx_pGLOBAL_SQLSCAN = NULL;
+ 
+ #define YY_INPUT(buf,result,max_size) 				\
+ {													\
+-	buf[0] = xxx_pGLOBAL_SQLSCAN->SQLyygetc();		\
+-	result = buf[0] != -1;							\
++    int c = xxx_pGLOBAL_SQLSCAN->SQLyygetc();		\
++    result = (c == EOF) ? YY_NULL : (buf[0] = c, 1);\
+ }
+ 
+ #define YY_FATAL_ERROR(msg)							\
+@@ -518,9 +518,9 @@ inline bool checkeof(int c) { return c == 0 || c == EOF; }
+  * nTyp == 1 -> SQL_NODE_STRING
+  * nTyp == 2 -> SQL_NODE_ACCESS_DATE
+  */
+-sal_Int32 gatherString( sal_Int32 delim, sal_Int32 nTyp)
++sal_Int32 gatherString(int delim, sal_Int32 nTyp)
+ {
+-	sal_Char ch;
++	int ch;
+ 	::rtl::OStringBuffer sBuffer(256);
+ 
+ 	while (!checkeof(ch = yyinput())) 
+@@ -547,7 +547,7 @@ sal_Int32 gatherString( sal_Int32 delim, sal_Int32 nTyp)
+ 			} 
+ 			else
+ 			{
+-			    sBuffer.append(ch);
++			    sBuffer.append(static_cast<sal_Char>(ch));
+ 			}
+ 
+ 		} 
+@@ -555,7 +555,7 @@ sal_Int32 gatherString( sal_Int32 delim, sal_Int32 nTyp)
+ 			break;					
+ 		else
+ 		{
+-		    sBuffer.append(ch);
++		    sBuffer.append(static_cast<sal_Char>(ch));
+ 		}
+ 	}
+ 	YY_FATAL_ERROR("Unterminated name string"); 
+@@ -746,7 +746,7 @@ void OSQLScanner::SQLyyerror(sal_Char *fmt)
+ 
+ 		sal_Char *s = Buffer;
+ 		sal_Int32 nPos = 1;
+-		sal_Int32 ch = SQLyytext ? (SQLyytext[0] == 0 ? ' ' : SQLyytext[0]): ' ';
++		int ch = SQLyytext ? (SQLyytext[0] == 0 ? ' ' : SQLyytext[0]): ' ';
+ 		*s++ = ch;
+ 		while (!checkeof(ch = yyinput())) 
+ 		{
+@@ -800,7 +800,7 @@ void OSQLScanner::prepareScan(const ::rtl::OUString & rNewStatement, const IPars
+ //------------------------------------------------------------------------------
+ sal_Int32 OSQLScanner::SQLyygetc(void)
+ {
+-	sal_Int32 nPos = (m_nCurrentPos >= m_sStatement.getLength()) ? -1 : m_sStatement.getStr()[m_nCurrentPos];
++	sal_Int32 nPos = (m_nCurrentPos >= m_sStatement.getLength()) ? EOF : m_sStatement.getStr()[m_nCurrentPos];
+     m_nCurrentPos++;
+     return nPos;
+ }
+-- 
+1.7.7.6
+

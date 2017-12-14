@@ -1,0 +1,95 @@
+#. extracted from fpicker/source/office.oo
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+fpicker%2Fsource%2Foffice.oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-02-21 19:43+0200\n"
+"PO-Revision-Date: 2012-03-10 10:22+0200\n"
+"Last-Translator: PauGNU <pau@somgnu.cat>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ca_XV\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+"X-Accelerator-Marker: ~\n"
+
+#: iodlg.src#DLG_SVT_EXPLORERFILE.BTN_EXPLORERFILE_NEWFOLDER.imagebutton.text
+msgctxt "iodlg.src#DLG_SVT_EXPLORERFILE.BTN_EXPLORERFILE_NEWFOLDER.imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#: iodlg.src#DLG_SVT_EXPLORERFILE.BTN_EXPLORERFILE_NEWFOLDER.imagebutton.quickhelptext
+msgid "Create New Directory"
+msgstr "Crea un directori nou"
+
+#: iodlg.src#DLG_SVT_EXPLORERFILE.BTN_EXPLORERFILE_LISTVIEW.imagebutton.text
+msgctxt "iodlg.src#DLG_SVT_EXPLORERFILE.BTN_EXPLORERFILE_LISTVIEW.imagebutton.text"
+msgid "-"
+msgstr "-"
+
+#: iodlg.src#DLG_SVT_EXPLORERFILE.BTN_EXPLORERFILE_LISTVIEW.imagebutton.quickhelptext
+msgid "List"
+msgstr "Llista"
+
+#: iodlg.src#DLG_SVT_EXPLORERFILE.BTN_EXPLORERFILE_UP.menubutton.text
+msgctxt "iodlg.src#DLG_SVT_EXPLORERFILE.BTN_EXPLORERFILE_UP.menubutton.text"
+msgid "-"
+msgstr "-"
+
+#: iodlg.src#DLG_SVT_EXPLORERFILE.BTN_EXPLORERFILE_UP.menubutton.quickhelptext
+msgid "Up One Level"
+msgstr "Puja un nivell"
+
+#: iodlg.src#DLG_SVT_EXPLORERFILE.BTN_EXPLORERFILE_STANDARD.menubutton.text
+msgctxt "iodlg.src#DLG_SVT_EXPLORERFILE.BTN_EXPLORERFILE_STANDARD.menubutton.text"
+msgid "-"
+msgstr "-"
+
+#: iodlg.src#DLG_SVT_EXPLORERFILE.BTN_EXPLORERFILE_STANDARD.menubutton.quickhelptext
+msgid "Default Directory"
+msgstr "Directori per defecte"
+
+#: iodlg.src#DLG_SVT_EXPLORERFILE.FT_EXPLORERFILE_FILENAME.fixedtext.text
+msgid "File ~name:"
+msgstr "~Nom del fitxer:"
+
+#: iodlg.src#DLG_SVT_EXPLORERFILE.FT_EXPLORERFILE_FILETYPE.fixedtext.text
+msgctxt "iodlg.src#DLG_SVT_EXPLORERFILE.FT_EXPLORERFILE_FILETYPE.fixedtext.text"
+msgid "File ~type:"
+msgstr "~Tipus de fitxer:"
+
+#: iodlg.src#DLG_SVT_EXPLORERFILE.CB_EXPLORERFILE_READONLY.checkbox.text
+msgctxt "iodlg.src#DLG_SVT_EXPLORERFILE.CB_EXPLORERFILE_READONLY.checkbox.text"
+msgid "~Read-only"
+msgstr "Només de lectu~ra"
+
+#: iodlg.src#DLG_SVT_EXPLORERFILE.CB_EXPLORERFILE_PASSWORD.checkbox.text
+msgid "Save with password"
+msgstr "Alça amb contrasenya"
+
+#: iodlg.src#DLG_SVT_EXPLORERFILE.CB_AUTO_EXTENSION.checkbox.text
+msgctxt "iodlg.src#DLG_SVT_EXPLORERFILE.CB_AUTO_EXTENSION.checkbox.text"
+msgid "~Automatic file name extension"
+msgstr "Extensió ~automàtica del nom del fitxer"
+
+#: iodlg.src#DLG_SVT_EXPLORERFILE.CB_OPTIONS.checkbox.text
+msgid "Edit ~filter settings"
+msgstr "Edita els paràmetres del ~filtre"
+
+#: iodlg.src#DLG_SVT_EXPLORERFILE.BTN_EXPLORERFILE_OPEN.pushbutton.text
+msgid "~Open"
+msgstr "~Obri"
+
+#: iodlg.src#DLG_SVT_EXPLORERFILE.STR_EXPLORERFILE_OPEN.string.text
+msgid "Open"
+msgstr "Obri"
+
+#: iodlg.src#DLG_SVT_EXPLORERFILE.STR_EXPLORERFILE_SAVE.string.text
+msgid "Save as"
+msgstr "Anomena i alça"
+
+#: iodlg.src#DLG_SVT_EXPLORERFILE.STR_EXPLORERFILE_BUTTONSAVE.string.text
+msgid "~Save"
+msgstr "A~lça"
