@@ -1,0 +1,35 @@
+From d0e1f7de2313d2fc6d50ace007d81c654fd27c43 Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?Caol=C3=A1n=20McNamara?= <caolanm@redhat.com>
+Date: Mon, 13 Jul 2015 10:31:30 +0100
+Subject: [PATCH] ww8: make sure we don't wrap around
+
+(cherry picked from commit 755b9320c81948358a1d4104c8875594b5700d39)
+Reviewed-on: https://gerrit.libreoffice.org/16981
+Reviewed-by: David Tardon <dtardon@redhat.com>
+Tested-by: David Tardon <dtardon@redhat.com>
+
+Change-Id: I667bb264f92024b72f230c2ddbba3887471345f2
+DebianPatchName: ww8dontwrap.diff
+---
+ sw/source/filter/ww8/ww8scan.cxx | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+diff --git a/sw/source/filter/ww8/ww8scan.cxx b/sw/source/filter/ww8/ww8scan.cxx
+index b149478..06993b4 100644
+--- a/sw/source/filter/ww8/ww8scan.cxx
++++ b/sw/source/filter/ww8/ww8scan.cxx
+@@ -1538,7 +1538,11 @@ WW8PLCFpcd* WW8ScannerBase::OpenPieceTable( SvStream* pStr, const WW8Fib* pWwF )
+         if( 2 == clxt )                         // PLCFfpcd ?
+             break;                              // PLCFfpcd gefunden
+         if( 1 == clxt )                         // clxtGrpprl ?
++        {
++            if (nGrpprl == SHRT_MAX)
++                return NULL;
+             nGrpprl++;
++        }
+         sal_uInt16 nLen(0);
+         *pStr >> nLen;
+         nLeft -= 2 + nLen;
+-- 
+1.9.1
+

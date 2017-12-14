@@ -1,0 +1,84 @@
+--- a/configure.in-old	2012-03-02 21:48:47.000000000 +0000
++++ b/configure.in	2012-03-02 21:51:29.000000000 +0000
+@@ -9671,6 +9671,17 @@
+ fi
+ AC_SUBST(CDEFAULTOPT)
+ 
++if test -x /usr/bin/dpkg-buildflags; then
++	HARDEN_CFLAGS=`dpkg-buildflags --get CFLAGS 2>/dev/null | sed -e s/-g// | sed -e s/-O[[0-3]]//g`
++	HARDEN_CXXFLAGS=`dpkg-buildflags --get CXXFLAGS 2>/dev/null | sed -e s/-g// | sed -e s/-O[[0-3]]//g`
++	HARDEN_CPPFLAGS=`dpkg-buildflags --get CPPFLAGS 2>/dev/null`
++	HARDEN_LDFLAGS=`dpkg-buildflags --get LDFLAGS 2>/dev/null`
++fi
++AC_SUBST(HARDEN_CFLAGS)
++AC_SUBST(HARDEN_CXXFLAGS)
++AC_SUBST(HARDEN_CPPFLAGS)
++AC_SUBST(HARDEN_LDFLAGS)
++
+ dnl ===================================================================
+ dnl Setting up the environment.
+ dnl ===================================================================
+--- a/set_soenv.in-old	2012-03-02 21:52:06.000000000 +0000
++++ b/set_soenv.in	2012-03-02 21:53:27.000000000 +0000
+@@ -1569,6 +1569,10 @@
+ ToFile( "CPU",               $CPU,               "e" );
+ ToFile( "CPUNAME",           $CPUNAME,           "e" );
+ ToFile( "CDEFAULTOPT",       "@CDEFAULTOPT@",    "e" );
++ToFile( "HARDEN_CFLAGS",     "@HARDEN_CFLAGS@",  "e" );
++ToFile( "HARDEN_CXXFLAGS",   "@HARDEN_CXXFLAGS@","e" );
++ToFile( "HARDEN_CPPFLAGS",   "@HARDEN_CPPFLAGS@","e" );
++ToFile( "HARDEN_LDFLAGS",    "@HARDEN_LDFLAGS@", "e" );
+ ToFile( "GUI",               $GUI,               "e" );
+ ToFile( "GUIBASE",           $GUIBASE,           "e" );
+ ToFile( "GVER",              $GVER,              "e" );
+diff --git a/solenv/gbuild/LinkTarget.mk b/solenv/gbuild/LinkTarget.mk
+index c094bb4..a0608f4 100644
+--- a/solenv/gbuild/LinkTarget.mk
++++ b/solenv/gbuild/LinkTarget.mk
+@@ -46,6 +46,8 @@ CXXFLAGS ?= $(gb_COMPILEROPTFLAGS)
+ OBJCXXFLAGS ?= $(gb_COMPILEROPTFLAGS)
+ endif
+
++LDFLAGS += $(HARDEN_LDFLAGS)
++
+ # if enabled we link all of these libraries into one larger, merged library
+ # for which we can do a lot more optimisation, and which is faster to read
+ # from disk.
+diff --git a/solenv/gbuild/gbuild.mk b/solenv/gbuild/gbuild.mk
+index e85ed83..1665642 100644
+--- a/solenv/gbuild/gbuild.mk
++++ b/solenv/gbuild/gbuild.mk
+@@ -141,6 +141,9 @@ gb__ENV_CXXFLAGS := $(ENVCFLAGSCXX)
+ endif
+ endif
+
++gb__ENV_CXXFLAGS += $(HARDEN_CXXFLAGS)
++gb__ENV_CFLAGS += $(HARDEN_CFLAGS)
++
+ include $(GBUILDDIR)/Helper.mk
+ include $(GBUILDDIR)/TargetLocations.mk
+
+@@ -240,6 +243,8 @@ ifeq ($(HAVE_THREADSAFE_STATICS),TRUE)
+ gb_GLOBALDEFS += -DHAVE_THREADSAFE_STATICS
+ endif
+
++gb_GLOBALDEFS += $(HARDEN_CPPFLAGS)
++
+ gb_GLOBALDEFS := $(sort $(gb_GLOBALDEFS))
+
+ include $(GBUILDDIR)/Deliver.mk
+diff --git a/solenv/inc/unxgcc.mk b/solenv/inc/unxgcc.mk
+index a3231a6..b97f354 100644
+--- a/solenv/inc/unxgcc.mk
++++ b/solenv/inc/unxgcc.mk
+@@ -233,6 +233,10 @@ LINKFLAGS += -Wl,--hash-style=$(WITH_LINKER_HASH_STYLE)
+ LINKFLAGS += -Wl,-zdynsort
+ .ENDIF
+
++LINKFLAGS += $(HARDEN_LDFLAGS)
++CDEFS += $(HARDEN_CPPFLAGS)
++CFLAGS += $(HARDEN_CFLAGS)
++
+ # libraries for linking applications
+ STDLIBGUIMT+=-Wl,--as-needed $(DL_LIB) $(PTHREAD_LIBS) -lm -Wl,--no-as-needed
+ STDLIBCUIMT+=-Wl,--as-needed $(DL_LIB) $(PTHREAD_LIBS) -lm -Wl,--no-as-needed

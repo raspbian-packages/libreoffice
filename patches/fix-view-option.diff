@@ -1,0 +1,33 @@
+From 4fc8af89257436b9cad70de574a166aa11ec42f1 Mon Sep 17 00:00:00 2001
+From: Caolán McNamara <caolanm@redhat.com>
+Date: Mon, 09 Jul 2012 11:51:16 +0000
+Subject: Resolves: rhbz#838368 --view ignored while -view accepted
+
+and our ooviewdoc script uses --view
+
+Change-Id: Ice708f1c72c8d29d411ba21e93cb19876af13881
+---
+diff --git a/desktop/source/app/cmdlineargs.cxx b/desktop/source/app/cmdlineargs.cxx
+index af7ee26..c67db8c 100644
+--- a/desktop/source/app/cmdlineargs.cxx
++++ b/desktop/source/app/cmdlineargs.cxx
+@@ -217,7 +217,7 @@ void CommandLineArgs::ParseCommandLine_Impl( Supplier& supplier )
+                         bStartEvent     = false;
+                         bDisplaySpec    = false;
+                    }
+-                   else if ( aArg.equalsIgnoreAsciiCaseAsciiL(RTL_CONSTASCII_STRINGPARAM( "-view" )))
++                   else if ( oArg.equalsIgnoreAsciiCaseAsciiL(RTL_CONSTASCII_STRINGPARAM( "view" )))
+                    {
+                         // open in viewmode
+                         bOpenEvent      = false;
+@@ -229,7 +229,7 @@ void CommandLineArgs::ParseCommandLine_Impl( Supplier& supplier )
+                         bStartEvent     = false;
+                         bDisplaySpec    = false;
+                    }
+-                   else if ( aArg.equalsIgnoreAsciiCaseAsciiL(RTL_CONSTASCII_STRINGPARAM( "-show" )))
++                   else if ( oArg.equalsIgnoreAsciiCaseAsciiL(RTL_CONSTASCII_STRINGPARAM( "show" )))
+                    {
+                         // open in viewmode
+                         bOpenEvent      = false;
+--
+cgit v0.9.0.2-2-gbebe

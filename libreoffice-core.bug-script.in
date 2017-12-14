@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# list all installed extensions. --bundled, --shared and non-shared
+/usr/lib/libreoffice/program/unopkg list --bundled >&3
+/usr/lib/libreoffice/program/unopkg list --shared >&3
+/usr/lib/libreoffice/program/unopkg list >&3
