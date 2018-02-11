@@ -1180,7 +1180,7 @@ void SwDocShell::CalcLayoutForOLEObjects()
 // read by the binary filter:
 void SwDocShell::UpdateLinks()
 {
-    GetDoc()->UpdateLinks(true);
+    GetDoc()->UpdateLinks();
     // #i50703# Update footnote numbers
     SwTxtFtn::SetUniqueSeqRefNo( *GetDoc() );
     SwNodeIndex aTmp( GetDoc()->GetNodes() );
