@@ -1,0 +1,23 @@
+From: Bjoern Michaelsen <bjoern.michaelsen@canonical.com>
+Date: Wed, 12 Mar 2014 17:49:28 +0100
+Subject: [PATCH] make ConnectivityTools a normal target, so we can pack it
+
+---
+ connectivity/Module_connectivity.mk | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/connectivity/Module_connectivity.mk b/connectivity/Module_connectivity.mk
+--- a/connectivity/Module_connectivity.mk
++++ b/connectivity/Module_connectivity.mk
+@@ -151,7 +151,7 @@ endif
+ endif
+ 
+ ifneq ($(filter QADEVOOO,$(BUILD_TYPE)),)
+-$(eval $(call gb_Module_add_subsequentcheck_targets,connectivity,\
++$(eval $(call gb_Module_add_targets,connectivity,\
+ 	Jar_ConnectivityTools \
+ ))
+ # FIXME: Does not work. Convert to JUnit.
+-- 
+1.9.1
+
