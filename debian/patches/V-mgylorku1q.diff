@@ -1,0 +1,43 @@
+From ff22ddfa1f86429395bd735a867e71bff60d18c8 Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?Caol=C3=A1n=20McNamara?= <caolanm@redhat.com>
+Date: Wed, 9 Dec 2015 12:09:37 +0000
+Subject: [PATCH] guard against corrupt SilverBullet
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+(cherry picked from commit 36d55980b1b3498fecc460d3c46667e5f5a17b8e)
+Reviewed-on: https://gerrit.libreoffice.org/20504
+Reviewed-by: Caolán McNamara <caolanm@redhat.com>
+Tested-by: Caolán McNamara <caolanm@redhat.com>
+(cherry picked from commit d387a99fce3f96f4fcd60c70909292255f12840f)
+
+Change-Id: I3af47ab3af5e28a865a77a592f6a92edb46e4f2b
+Reviewed-on: https://gerrit.libreoffice.org/20506
+Reviewed-by: David Tardon <dtardon@redhat.com>
+Tested-by: David Tardon <dtardon@redhat.com>
+Reviewed-by: Miklos Vajna <vmiklos@collabora.co.uk>
+Reviewed-by: Michael Meeks <michael.meeks@collabora.com>
+---
+ lotuswordpro/source/filter/lwpsilverbullet.cxx | 5 ++++-
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+diff --git a/lotuswordpro/source/filter/lwpsilverbullet.cxx b/lotuswordpro/source/filter/lwpsilverbullet.cxx
+index 8aad255..76e24b6 100644
+--- a/lotuswordpro/source/filter/lwpsilverbullet.cxx
++++ b/lotuswordpro/source/filter/lwpsilverbullet.cxx
+@@ -97,7 +97,10 @@ void LwpSilverBullet::Read()
+ 
+     sal_uInt16 nNumPos = m_pObjStrm->QuickReaduInt16();
+ 
+-    for (sal_uInt8 nC = 0; nC < nNumPos; nC++)
++    if (nNumPos > SAL_N_ELEMENTS(m_pResetPositionFlags))
++        throw std::range_error("corrupt SilverBullet");
++
++    for (sal_uInt16 nC = 0; nC < nNumPos; nC++)
+         m_pResetPositionFlags[nC] = m_pObjStrm->QuickReaduInt8();
+ 
+     m_nUseCount = m_pObjStrm->QuickReaduInt32();
+-- 
+2.1.4
+

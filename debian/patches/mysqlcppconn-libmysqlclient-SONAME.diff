@@ -1,0 +1,40 @@
+diff --git a/mysqlcppconn/Library_mysqlcppconn.mk b/mysqlcppconn/Library_mysqlcppconn.mk
+index f71e3a3..4abbf57 100644
+--- a/external/mysqlcppconn/Library_mysqlcppconn.mk
++++ b/external/mysqlcppconn/Library_mysqlcppconn.mk
+@@ -59,4 +59,8 @@ $(eval $(call gb_Library_add_generated_exception_objects,mysqlcppconn,\
+ 	UnpackedTarball/mysqlcppconn/driver/nativeapi/mysql_native_statement_wrapper \
+ ))
+ 
++$(eval $(call gb_Library_add_cflags,mysqlcppconn,\
++	-DLIBMYSQLCLIENT_SONAME=\"$(shell readlink -f `mysql_config --variable=pkglibdir`/libmysqlclient_r.so | sed -e s/mysqlclient/mysqlclient_r/ | sed -e "s,`mysql_config --variable=pkglibdir`/\(libmysqlclient_r.so.[0-9][0-9]\).*,\\1,")\" \
++))
++
+ # vim: set noet sw=4 ts=4:
+--- a/external/mysqlcppconn/patches/mysql-connector-c++-1.1.0-SONAME.patch	2013-02-08 21:20:25.249889678 +0100
++++ b/external/mysqlcppconn/patches/mysql-connector-c++-1.1.0-SONAME.patch	2013-02-26 22:48:27.030275718 +0100
+@@ -0,0 +1,12 @@
++diff -urNad mysql-connector-c++-1.0.6~r754~/driver/nativeapi/libmysql_dynamic_proxy.cpp mysql-connector-c++-1.0.6~r754/driver/nativeapi/libmysql_dynamic_proxy.cpp
++--- misc/mysql-connector-c++-1.1.0/driver/nativeapi/libmysql_dynamic_proxy.cpp	2009-08-20 16:42:14.000000000 +0200
+++++ misc/build/mysql-connector-c++-1.1.0/driver/nativeapi/libmysql_dynamic_proxy.cpp	2009-08-20 20:25:31.000000000 +0200
++@@ -26,7 +26,7 @@
++ #elif defined(__APPLE__)
++ static const char * const baseName = "libmysqlclient_r.dylib";
++ #else
++-static const char * const baseName = "libmysqlclient_r.so";
+++static const char * const baseName = LIBMYSQLCLIENT_SONAME;
++ #endif
++ 
++ template<typename FunctionType>
+diff --git a/mysqlcppconn/UnpackedTarball_mysqlcppconn.mk b/mysqlcppconn/UnpackedTarball_mysqlcppconn.mk
+index 3f86236..f75b60a 100644
+--- a/external/mysqlcppconn/UnpackedTarball_mysqlcppconn.mk
++++ b/external/mysqlcppconn/UnpackedTarball_mysqlcppconn.mk
+@@ -17,6 +17,7 @@ $(eval $(call gb_UnpackedTarball_add_file,mysqlcppconn,driver/nativeapi/binding_
+ 
+ $(eval $(call gb_UnpackedTarball_add_patches,mysqlcppconn,\
+ 	external/mysqlcppconn/patches/mysql-connector-c++-1.1.0.patch \
++	external/mysqlcppconn/patches/mysql-connector-c++-1.1.0-SONAME.patch \
+ 	external/mysqlcppconn/patches/default_to_protocol_tcp.patch \
+ 	external/mysqlcppconn/patches/warnings.patch.0 \
+ ))
