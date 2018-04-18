@@ -2479,8 +2479,13 @@ dnl whether to include symbols into final build.
 dnl ===================================================================
 AC_MSG_CHECKING([whether to include symbols])
 if test -n "$enable_symbols" -a "$enable_symbols" != "no"; then
-    ENABLE_SYMBOLS="TRUE"
-    AC_MSG_RESULT([yes])
+   if test "$enable_symbols" = "SMALL" -o "$enable_symbols" = "small"; then
+      ENABLE_SYMBOLS="SMALL"
+      AC_MSG_RESULT([yes, small ones])
+   else
+      ENABLE_SYMBOLS="TRUE"
+      AC_MSG_RESULT([yes])
+   fi
 else
     ENABLE_SYMBOLS=
     AC_MSG_RESULT([no])
