@@ -3531,9 +3531,12 @@ int RTFDocumentImpl::popState()
     }
     else if (bPopShapeProperties)
     {
-        m_aStates.top().aShape = aShape;
-        m_aStates.top().aPicture = aPicture;
-        m_aStates.top().aCharacterAttributes = aAttributes;
+        if (!m_aStates.empty())
+        {
+            m_aStates.top().aShape = aShape;
+            m_aStates.top().aPicture = aPicture;
+            m_aStates.top().aCharacterAttributes = aAttributes;
+        }
     }
     else if (bFaltEnd)
         m_aStates.top().aTableSprms = aSprms;
