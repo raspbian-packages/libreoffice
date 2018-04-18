@@ -48,7 +48,7 @@ $(eval $(call gb_Module_add_check_targets,sw,\
 
 $(eval $(call gb_Module_add_subsequentcheck_targets,sw,\
     JunitTest_sw_complex \
-    JunitTest_sw_unoapi \
 ))
+#    JunitTest_sw_unoapi \
 
 # vim: set noet sw=4 ts=4:

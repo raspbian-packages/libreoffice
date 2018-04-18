@@ -28,8 +28,8 @@
 
 $(eval $(call gb_Module_Module,configmgr))
 
-$(eval $(call gb_Module_add_subsequentcheck_targets,configmgr,\
-    JunitTest_configmgr_unoapi \
-))
+#$(eval $(call gb_Module_add_subsequentcheck_targets,configmgr,\
+#    JunitTest_configmgr_unoapi \
+#))
 
 # vim: set noet sw=4 ts=4:

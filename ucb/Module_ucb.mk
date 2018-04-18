@@ -30,7 +30,7 @@ $(eval $(call gb_Module_Module,ucb))
 
 $(eval $(call gb_Module_add_subsequentcheck_targets,ucb,\
     JunitTest_ucb_complex \
-    JunitTest_ucb_unoapi \
 ))
+#    JunitTest_ucb_unoapi \
 
 # vim: set noet sw=4 ts=4:
