@@ -636,13 +636,21 @@ msgctxt ""
 "euro.src\n"
 "CURRENCIES + 18\n"
 "string.text"
+msgid "Lithuanian Litas"
+msgstr ""
+
+#: euro.src
+msgctxt ""
+"euro.src\n"
+"CURRENCIES + 19\n"
+"string.text"
 msgid "The currency set for the document is not a European currency!"
 msgstr "ಡಾಕ್ಯುಮೆಂಟ್‌ಗಾಗಿ ಹೊಂದಿಸಲಾದ ಕರೆನ್ಸಿಯು ಒಂದು ಯುರೋಪಿಯನ್ ಕರೆನ್ಸಿಯಾಗಿಲ್ಲ!"
 
 #: euro.src
 msgctxt ""
 "euro.src\n"
-"CURRENCIES + 19\n"
+"CURRENCIES + 20\n"
 "string.text"
 msgid "The language set for your operating system is not a language of the European Monetary Union."
 msgstr "ನಿಮ್ಮ ಕಾರ್ಯಾಚರಣೆ ವ್ಯವಸ್ಥೆಗಾಗಿ ಹೊಂದಿಸಲಾದ ಭಾಷೆಯು ಯುರೋಪಿಯನ್ ಮೊನೆಟರಿ ಯುನಿಯನ್‌ನ ಭಾಷೆಯಾಗಿಲ್ಲ."
