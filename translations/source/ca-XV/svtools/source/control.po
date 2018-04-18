@@ -2,211 +2,269 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+svtools%2Fsource%2Fcontrol.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment="
+"&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%"
+"3A+svtools%2Fsource%2Fcontrol.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:43+0200\n"
-"PO-Revision-Date: 2011-11-26 22:08+0200\n"
-"Last-Translator: Jesús <jesus@softcatala.org>\n"
+"PO-Revision-Date: 2012-03-19 13:22+0200\n"
+"Last-Translator: Joan <joan@montane.cat>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ca-XV\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ca-XV\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Pootle 2.1.6\n"
 "X-Accelerator-Marker: ~\n"
 
+#. bcIX
 #: ctrlbox.src#STR_SVT_AUTOMATIC_COLOR.string.text
 msgid "Automatic"
 msgstr "Automàtic"
 
+#. TVSV
 #: ctrlbox.src#STR_SVT_COLLATE_ALPHANUMERIC.string.text
 msgctxt "ctrlbox.src#STR_SVT_COLLATE_ALPHANUMERIC.string.text"
 msgid "Alphanumeric"
 msgstr "Alfanumèric"
 
+#. FCt_
 #: ctrlbox.src#STR_SVT_COLLATE_NORMAL.string.text
 msgid "Normal"
 msgstr "Normal"
 
+#. upEF
 #: ctrlbox.src#STR_SVT_COLLATE_CHARSET.string.text
 msgid "Character set"
 msgstr "Conjunt de caràcters"
 
+#. IFOO
 #: ctrlbox.src#STR_SVT_COLLATE_DICTIONARY.string.text
 msgctxt "ctrlbox.src#STR_SVT_COLLATE_DICTIONARY.string.text"
 msgid "Dictionary"
 msgstr "Diccionari"
 
+#. 48r_
 #: ctrlbox.src#STR_SVT_COLLATE_PINYIN.string.text
 msgctxt "ctrlbox.src#STR_SVT_COLLATE_PINYIN.string.text"
 msgid "Pinyin"
 msgstr "Pinyin"
 
+#. myJD
 #: ctrlbox.src#STR_SVT_COLLATE_STROKE.string.text
 msgctxt "ctrlbox.src#STR_SVT_COLLATE_STROKE.string.text"
 msgid "Stroke"
 msgstr "Traç"
 
+#. IlbI
 #: ctrlbox.src#STR_SVT_COLLATE_RADICAL.string.text
 msgctxt "ctrlbox.src#STR_SVT_COLLATE_RADICAL.string.text"
 msgid "Radical"
 msgstr "Radical"
 
+#. Jymf
 #: ctrlbox.src#STR_SVT_COLLATE_UNICODE.string.text
 msgid "Unicode"
 msgstr "Unicode"
 
+#. hGDE
 #: ctrlbox.src#STR_SVT_COLLATE_ZHUYIN.string.text
 msgctxt "ctrlbox.src#STR_SVT_COLLATE_ZHUYIN.string.text"
 msgid "Zhuyin"
 msgstr "Zhuyin"
 
+#. #RzH
 #: ctrlbox.src#STR_SVT_COLLATE_PHONEBOOK.string.text
 msgid "Phone book"
 msgstr "Llibreta de telèfons"
 
+#. jTF6
 #: ctrlbox.src#STR_SVT_COLLATE_PHONETIC_F.string.text
 msgid "Phonetic (alphanumeric first)"
 msgstr "Fonètic (primer alfanumèric)"
 
+#. D6e#
 #: ctrlbox.src#STR_SVT_COLLATE_PHONETIC_L.string.text
 msgid "Phonetic (alphanumeric last)"
 msgstr "Fonètic (últim alfanumèric)"
 
+#. VbJw
 #: ctrlbox.src#STR_SVT_INDEXENTRY_ALPHANUMERIC.string.text
 msgctxt "ctrlbox.src#STR_SVT_INDEXENTRY_ALPHANUMERIC.string.text"
 msgid "Alphanumeric"
 msgstr "Alfanumèric"
 
+#. byD6
 #: ctrlbox.src#STR_SVT_INDEXENTRY_DICTIONARY.string.text
 msgctxt "ctrlbox.src#STR_SVT_INDEXENTRY_DICTIONARY.string.text"
 msgid "Dictionary"
 msgstr "Diccionari"
 
+#. NyTY
 #: ctrlbox.src#STR_SVT_INDEXENTRY_PINYIN.string.text
 msgctxt "ctrlbox.src#STR_SVT_INDEXENTRY_PINYIN.string.text"
 msgid "Pinyin"
 msgstr "Pinyin"
 
+#. CUa3
 #: ctrlbox.src#STR_SVT_INDEXENTRY_RADICAL.string.text
 msgctxt "ctrlbox.src#STR_SVT_INDEXENTRY_RADICAL.string.text"
 msgid "Radical"
 msgstr "Radical"
 
+#. Z8xG
 #: ctrlbox.src#STR_SVT_INDEXENTRY_STROKE.string.text
 msgctxt "ctrlbox.src#STR_SVT_INDEXENTRY_STROKE.string.text"
 msgid "Stroke"
 msgstr "Traç"
 
+#. uabJ
 #: ctrlbox.src#STR_SVT_INDEXENTRY_ZHUYIN.string.text
 msgctxt "ctrlbox.src#STR_SVT_INDEXENTRY_ZHUYIN.string.text"
 msgid "Zhuyin"
 msgstr "Zhuyin"
 
+#. coKH
 #: ctrlbox.src#STR_SVT_INDEXENTRY_PHONETIC_FS.string.text
 msgid "Phonetic (alphanumeric first, grouped by syllables)"
 msgstr "Fonètic (primer alfanumèric, agrupat per síl·labes)"
 
+#. w8Z4
 #: ctrlbox.src#STR_SVT_INDEXENTRY_PHONETIC_FC.string.text
 msgid "Phonetic (alphanumeric first, grouped by consonants)"
 msgstr "Fonètic (primer alfanumèric, agrupat per consonants)"
 
+#. qmqd
 #: ctrlbox.src#STR_SVT_INDEXENTRY_PHONETIC_LS.string.text
 msgid "Phonetic (alphanumeric last, grouped by syllables)"
 msgstr "Fonètic (últim alfanumèric, agrupat per síl·labes)"
 
+#. eA3o
 #: ctrlbox.src#STR_SVT_INDEXENTRY_PHONETIC_LC.string.text
 msgid "Phonetic (alphanumeric last, grouped by consonants)"
 msgstr "Fonètic (últim alfanumèric, agrupat per consonants)"
 
+#. H12n
 #: calendar.src#STR_SVT_CALENDAR_DAY.string.text
 msgid "Day"
 msgstr "Dia"
 
+#. YedY
 #: calendar.src#STR_SVT_CALENDAR_WEEK.string.text
 msgid "Week"
 msgstr "Setmana"
 
+#. 9GOv
 #: calendar.src#STR_SVT_CALENDAR_TODAY.string.text
 msgid "Today"
 msgstr "Hui"
 
+#. dAvb
 #: calendar.src#STR_SVT_CALENDAR_NONE.string.text
 msgid "None"
 msgstr "Cap"
 
+#. QPHg
 #: ctrltool.src#STR_SVT_STYLE_LIGHT.string.text
 msgid "Light"
 msgstr "Clar"
 
+#. 1gx7
 #: ctrltool.src#STR_SVT_STYLE_LIGHT_ITALIC.string.text
 msgid "Light Italic"
 msgstr "Cursiva lleu"
 
+#. 7sWo
 #: ctrltool.src#STR_SVT_STYLE_NORMAL.string.text
 msgid "Regular"
 msgstr "Normal"
 
+#. l1bq
 #: ctrltool.src#STR_SVT_STYLE_NORMAL_ITALIC.string.text
 msgid "Italic"
 msgstr "Cursiva"
 
+#. 3yZW
 #: ctrltool.src#STR_SVT_STYLE_BOLD.string.text
 msgid "Bold"
 msgstr "Negreta"
 
+#. KaDh
 #: ctrltool.src#STR_SVT_STYLE_BOLD_ITALIC.string.text
 msgid "Bold Italic"
 msgstr "Negreta cursiva"
 
+#. sGh4
 #: ctrltool.src#STR_SVT_STYLE_BLACK.string.text
 msgid "Black"
 msgstr "Negre"
 
+#. r9S6
 #: ctrltool.src#STR_SVT_STYLE_BLACK_ITALIC.string.text
 msgid "Black Italic"
 msgstr "Negra cursiva"
 
+#. Ekn3
 #: ctrltool.src#STR_SVT_FONTMAP_BOTH.string.text
 msgid "The same font will be used on both your printer and your screen."
-msgstr "S'utilitzarà el mateix tipus de lletra a la impressora i a la pantalla."
+msgstr ""
+"S'utilitzarà el mateix tipus de lletra a la impressora i a la pantalla."
 
+#. 8bDm
 #: ctrltool.src#STR_SVT_FONTMAP_PRINTERONLY.string.text
 msgid "This is a printer font. The screen image may differ."
-msgstr "Lletra d'impressora. La visualització per pantalla podria ser diferent."
+msgstr ""
+"Lletra d'impressora. La visualització per pantalla podria ser diferent."
 
+#. W01e
 #: ctrltool.src#STR_SVT_FONTMAP_SCREENONLY.string.text
 msgid "This is a screen font. The printer image may differ."
 msgstr "Lletra de pantalla. El resultat de la impressió podria ser diferent."
 
+#. L20T
 #: ctrltool.src#STR_SVT_FONTMAP_SIZENOTAVAILABLE.string.text
-msgid "This font size has not been installed. The closest available size will be used."
-msgstr "Esta mida de lletra no està instal·lada. S'utilitzarà la mida disponible més adequada."
+msgid ""
+"This font size has not been installed. The closest available size will be "
+"used."
+msgstr ""
+"Esta mida de lletra no està instal·lada. S'utilitzarà la mida disponible "
+"més adequada."
 
+#. PYY5
 #: ctrltool.src#STR_SVT_FONTMAP_STYLENOTAVAILABLE.string.text
-msgid "This font style will be simulated or the closest matching style will be used."
+msgid ""
+"This font style will be simulated or the closest matching style will be used."
 msgstr "Este estil de lletra s'imitarà o s'utilitzarà el més adequat."
 
+#. 7bvj
 #: ctrltool.src#STR_SVT_FONTMAP_NOTAVAILABLE.string.text
-msgid "This font has not been installed. The closest available font will be used."
-msgstr "Este tipus de lletra no està instal·lat. S'utilitzarà el tipus de lletra disponible més adequat."
+msgid ""
+"This font has not been installed. The closest available font will be used."
+msgstr ""
+"Este tipus de lletra no està instal·lat. S'utilitzarà el tipus de lletra "
+"disponible més adequat."
 
+#. 53jt
 #: filectrl.src#STR_FILECTRL_BUTTONTEXT.string.text
 msgid "Browse..."
 msgstr "Navega..."
 
+#. 9kZn
 #: filectrl.src#STR_TABBAR_PUSHBUTTON_MOVET0HOME.string.text
 msgid "Move To Home"
-msgstr "Mou a casa"
+msgstr "Mou a l'inici"
 
+#. mrk2
 #: filectrl.src#STR_TABBAR_PUSHBUTTON_MOVELEFT.string.text
 msgid "Move Left"
 msgstr "Mou a l'esquerra"
 
+#. Vl7l
 #: filectrl.src#STR_TABBAR_PUSHBUTTON_MOVERIGHT.string.text
 msgid "Move Right"
 msgstr "Mou a la dreta"
 
+#. qPOm
 #: filectrl.src#STR_TABBAR_PUSHBUTTON_MOVETOEND.string.text
 msgid "Move To End"
 msgstr "Mou al final"

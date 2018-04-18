@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+wizards%2Fsource%2Ftemplate.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+wizards%2Fsource%2Ftemplate.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
 "PO-Revision-Date: 2011-04-05 19:16+0200\n"
 "Last-Translator: jmontane <joan@montane.cat>\n"
@@ -15,234 +17,300 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. eeM5
 #: template.src#SAMPLES.string.text
-msgid "In order to use the full functionality of this sample, create a document that is based on this template."
-msgstr "Per tal d'utilitzar les funcions d'esta mostra al cent per cent, creeu un document a partir d'esta plantilla."
+msgid ""
+"In order to use the full functionality of this sample, create a document "
+"that is based on this template."
+msgstr ""
+"Per tal d'utilitzar les funcions d'esta mostra al cent per cent, creeu un "
+"document a partir d'esta plantilla."
 
+#. #cRw
 #: template.src#SAMPLES___1.string.text
 msgid "Remarks"
 msgstr "Comentaris"
 
+#. ftZi
 #: template.src#STYLES.string.text
 msgid "Theme Selection"
 msgstr "Selecció de temes"
 
+#. C70e
 #: template.src#STYLES___1.string.text
-msgid "Error while saving the document to the clipboard! The following action cannot be undone."
-msgstr "S'ha produït un error en alçar el document actual al porta-retalls. La següent acció no es pot desfer."
+msgid ""
+"Error while saving the document to the clipboard! The following action "
+"cannot be undone."
+msgstr ""
+"S'ha produït un error en alçar el document actual al porta-retalls. La "
+"següent acció no es pot desfer."
 
+#. roI3
 #: template.src#STYLES___2.string.text
 msgid "~Cancel"
 msgstr "~Cancel·la"
 
+#. YXSQ
 #: template.src#STYLES___3.string.text
 msgid "~OK"
 msgstr "~D'acord"
 
+#. ATq4
 #: template.src#AgendaDlgName.string.text
 msgid "Minutes Template"
 msgstr "Plantilla d'actes"
 
+#. 3YWR
 #: template.src#AgendaDlgNoCancel.string.text
 msgid "An option must be confirmed."
 msgstr "Heu de confirmar una opció."
 
+#. owCC
 #: template.src#AgendaDlgFrame.string.text
 msgid "Minutes Type"
 msgstr "Tipus d'acta"
 
+#. yAoj
 #: template.src#AgendaDlgButton1.string.text
 msgid "Results Minutes"
 msgstr "Actes de resultats"
 
+#. 5_W6
 #: template.src#AgendaDlgButton2.string.text
 msgid "Evaluation Minutes"
 msgstr "Protocol del transcurs"
 
+#. hJPg
 #: template.src#CorrespondenceNoTextmark.string.text
 msgid "The bookmark 'Recipient' is missing."
 msgstr "Falta la marca de text 'Recipient'."
 
+#. Z0Nx
 #: template.src#CorrespondenceNoTextmark_1.string.text
 msgid "Form letter fields can not be included."
 msgstr "No es poden incloure camps de carta de formulari."
 
+#. Th3k
 #: template.src#CorrespondenceMsgError.string.text
 msgid "An error has occurred."
 msgstr "S'ha produït un error."
 
+#. _GcJ
 #: template.src#CorrespondenceDialog.string.text
 msgid "Addressee"
 msgstr "Destinatari"
 
+#. pOPJ
 #: template.src#CorrespondenceDialog_1.string.text
 msgid "One recipient"
 msgstr "Carta individual"
 
+#. AjBu
 #: template.src#CorrespondenceDialog_2.string.text
 msgid "Several recipients (address database)"
 msgstr "Més d'un destinatari (base de dades)"
 
+#. T#5X
 #: template.src#CorrespondenceDialog_3.string.text
 msgid "Use of This Template"
 msgstr "Ús d'esta plantilla"
 
+#. p3Ih
 #: template.src#CorrespondenceFields.string.text
 msgid "Click placeholder and overwrite"
 msgstr "Feu clic a l'espai reservat i sobreescriviu"
 
+#. T_3W
 #: template.src#CorrespondenceFields_1.string.text
 msgid "Company"
 msgstr "Empresa"
 
+#. aAHB
 #: template.src#CorrespondenceFields_2.string.text
 msgid "Department"
 msgstr "Departament"
 
+#. pPVI
 #: template.src#CorrespondenceFields_3.string.text
 msgid "First Name"
 msgstr "Nom"
 
+#. jIGy
 #: template.src#CorrespondenceFields_4.string.text
 msgid "Last Name"
 msgstr "Cognoms"
 
+#. w1Ub
 #: template.src#CorrespondenceFields_5.string.text
 msgid "Street"
 msgstr "Adreça"
 
+#. 3qCE
 #: template.src#CorrespondenceFields_6.string.text
 msgid "Country"
 msgstr "Estat"
 
+#. Kd2N
 #: template.src#CorrespondenceFields_7.string.text
 msgid "ZIP/Postal Code"
 msgstr "Codi Postal"
 
+#. 4Hsp
 #: template.src#CorrespondenceFields_8.string.text
 msgid "City"
 msgstr "Ciutat"
 
+#. J2ug
 #: template.src#CorrespondenceFields_9.string.text
 msgid "Title"
 msgstr "Títol"
 
+#. 8GHg
 #: template.src#CorrespondenceFields_10.string.text
 msgid "Position"
 msgstr "Posició"
 
+#. V3Vp
 #: template.src#CorrespondenceFields_11.string.text
 msgid "Form of Address"
 msgstr "Tractament"
 
+#. csDO
 #: template.src#CorrespondenceFields_12.string.text
 msgid "Initials"
 msgstr "Inicials"
 
+#. nb31
 #: template.src#CorrespondenceFields_13.string.text
 msgid "Salutation"
 msgstr "Salutació"
 
+#. lkCl
 #: template.src#CorrespondenceFields_14.string.text
 msgid "Home Phone"
 msgstr "Telèfon (particular)"
 
+#. uz2s
 #: template.src#CorrespondenceFields_15.string.text
 msgid "Work Phone"
 msgstr "Telèfon (faena)"
 
+#. 18GT
 #: template.src#CorrespondenceFields_16.string.text
 msgid "Fax"
 msgstr "Fax"
 
+#. MRU4
 #: template.src#CorrespondenceFields_17.string.text
 msgid "E-Mail"
 msgstr "Correu electrònic"
 
+#. 6jgW
 #: template.src#CorrespondenceFields_18.string.text
 msgid "URL"
 msgstr "URL"
 
+#. H#av
 #: template.src#CorrespondenceFields_19.string.text
 msgid "Notes"
 msgstr "Notes"
 
+#. c1z3
 #: template.src#CorrespondenceFields_20.string.text
 msgid "Alt. Field 1"
 msgstr "Camp alt. 1"
 
+#. nIpQ
 #: template.src#CorrespondenceFields_21.string.text
 msgid "Alt. Field 2"
 msgstr "Camp alt. 2"
 
+#. 8dXn
 #: template.src#CorrespondenceFields_22.string.text
 msgid "Alt. Field 3"
 msgstr "Camp alt. 3"
 
+#. Vqle
 #: template.src#CorrespondenceFields_23.string.text
 msgid "Alt. Field 4"
 msgstr "Camp alt. 4"
 
+#. 1_W6
 #: template.src#CorrespondenceFields_24.string.text
 msgid "ID"
 msgstr "Identificació"
 
+#. MikV
 #: template.src#CorrespondenceFields_25.string.text
 msgid "State"
 msgstr "Província"
 
+#. lPyq
 #: template.src#CorrespondenceFields_26.string.text
 msgid "Office Phone"
 msgstr "Tel. oficina"
 
+#. uAoj
 #: template.src#CorrespondenceFields_27.string.text
 msgid "Pager"
 msgstr "Cercapersones"
 
+#. ey69
 #: template.src#CorrespondenceFields_28.string.text
 msgid "Mobile Phone"
 msgstr "Tel. mòbil"
 
+#. _l8G
 #: template.src#CorrespondenceFields_29.string.text
 msgid "Other Phone"
 msgstr "Altre tel."
 
+#. yEPR
 #: template.src#CorrespondenceFields_30.string.text
 msgid "Calendar URL"
 msgstr "Calendari URL"
 
+#. hTN2
 #: template.src#CorrespondenceFields_31.string.text
 msgid "Invite"
 msgstr "Invitació"
 
+#. tEap
 #: template.src#TextField.string.text
 msgid "User data field is not defined!"
 msgstr "No s'ha definit el camp de dades de l'usuari."
 
+#. 0UfV
 #: template.src#Newsletter.string.text
 msgid "General layout"
 msgstr "Disseny general"
 
+#. hQ9N
 #: template.src#Newsletter___1.string.text
 msgid "Default layout"
 msgstr "Disseny per defecte"
 
+#. IlRy
 #: template.src#Newsletter___2.string.text
 msgid "Commemorative publication layout"
 msgstr "Disseny festiu"
 
+#. 5yLb
 #: template.src#Newsletter___3.string.text
 msgid "Brochure layout"
 msgstr "Disseny de fullet"
 
+#. lyQt
 #: template.src#Newsletter___10.string.text
 msgid "Format"
 msgstr "Format"
 
+#. ulKk
 #: template.src#Newsletter___11.string.text
 msgid "Single-sided"
 msgstr "Una cara"
 
+#. 1Q65
 #: template.src#Newsletter___12.string.text
 msgid "Double-sided"
 msgstr "Dues cares"

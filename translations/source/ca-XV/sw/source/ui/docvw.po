@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+sw%2Fsource%2Fui%2Fdocvw.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment="
+"&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%"
+"3A+sw%2Fsource%2Fui%2Fdocvw.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
 "PO-Revision-Date: 2012-02-28 00:50+0200\n"
 "Last-Translator: Joan <joan@montane.cat>\n"
@@ -15,166 +17,214 @@ msgstr ""
 "X-Generator: Pootle 2.1.6\n"
 "X-Accelerator-Marker: ~\n"
 
+#. 114J
 #: docvw.src#MN_READONLY_POPUP.MN_READONLY_OPENURL.menuitem.text
 msgid "~Open"
 msgstr "~Obri"
 
+#. FPOB
 #: docvw.src#MN_READONLY_POPUP.MN_READONLY_OPENURLNEW.menuitem.text
 msgid "Open in New Window"
 msgstr "Obri en una finestra nova"
 
+#. vIyl
 #: docvw.src#MN_READONLY_POPUP.MN_READONLY_EDITDOC.menuitem.text
 msgid "~Edit"
 msgstr "~Edita"
 
+#. VaYY
 #: docvw.src#MN_READONLY_POPUP.MN_READONLY_SELECTION_MODE.menuitem.text
 msgid "Select Text"
 msgstr "Selecciona el text"
 
+#. byQ5
 #: docvw.src#MN_READONLY_POPUP.MN_READONLY_RELOAD.menuitem.text
 msgid "Re~load"
 msgstr "Torna a ~carregar"
 
+#. Fawo
 #: docvw.src#MN_READONLY_POPUP.MN_READONLY_RELOAD_FRAME.menuitem.text
 msgid "Reload Frame"
 msgstr "Torna a carregar el marc"
 
+#. wBE7
 #: docvw.src#MN_READONLY_POPUP.MN_READONLY_SOURCEVIEW.menuitem.text
 msgid "HT~ML Source"
 msgstr "Font HT~ML"
 
+#. npbM
 #: docvw.src#MN_READONLY_POPUP.MN_READONLY_BROWSE_BACKWARD.menuitem.text
 msgid "Backwards"
 msgstr "Cap arrere"
 
+#. K9mJ
 #: docvw.src#MN_READONLY_POPUP.MN_READONLY_BROWSE_FORWARD.menuitem.text
 msgid "~Forward"
 msgstr "~Cap avant"
 
+#. DMix
 #: docvw.src#MN_READONLY_POPUP.MN_READONLY_SAVEGRAPHIC.menuitem.text
 msgid "Save Graphics..."
 msgstr "Alça els gràfics..."
 
+#. 2klZ
 #: docvw.src#MN_READONLY_POPUP.MN_READONLY_GRAPHICTOGALLERY.MN_READONLY_TOGALLERYLINK.menuitem.text
-msgctxt "docvw.src#MN_READONLY_POPUP.MN_READONLY_GRAPHICTOGALLERY.MN_READONLY_TOGALLERYLINK.menuitem.text"
+msgctxt ""
+"docvw.src#MN_READONLY_POPUP.MN_READONLY_GRAPHICTOGALLERY."
+"MN_READONLY_TOGALLERYLINK.menuitem.text"
 msgid "As Link"
 msgstr "Com a enllaç"
 
+#. gFKK
 #: docvw.src#MN_READONLY_POPUP.MN_READONLY_GRAPHICTOGALLERY.MN_READONLY_TOGALLERYCOPY.menuitem.text
-msgctxt "docvw.src#MN_READONLY_POPUP.MN_READONLY_GRAPHICTOGALLERY.MN_READONLY_TOGALLERYCOPY.menuitem.text"
+msgctxt ""
+"docvw.src#MN_READONLY_POPUP.MN_READONLY_GRAPHICTOGALLERY."
+"MN_READONLY_TOGALLERYCOPY.menuitem.text"
 msgid "Copy"
 msgstr "Copia"
 
+#. Dnhz
 #: docvw.src#MN_READONLY_POPUP.MN_READONLY_GRAPHICTOGALLERY.menuitem.text
 msgid "Add Graphics"
 msgstr "Afig gràfics"
 
+#. YNw6
 #: docvw.src#MN_READONLY_POPUP.MN_READONLY_SAVEBACKGROUND.menuitem.text
 msgid "Save Background..."
 msgstr "Alça el fons..."
 
+#. wAAL
 #: docvw.src#MN_READONLY_POPUP.MN_READONLY_BACKGROUNDTOGALLERY.MN_READONLY_TOGALLERYLINK.menuitem.text
-msgctxt "docvw.src#MN_READONLY_POPUP.MN_READONLY_BACKGROUNDTOGALLERY.MN_READONLY_TOGALLERYLINK.menuitem.text"
+msgctxt ""
+"docvw.src#MN_READONLY_POPUP.MN_READONLY_BACKGROUNDTOGALLERY."
+"MN_READONLY_TOGALLERYLINK.menuitem.text"
 msgid "As Link"
 msgstr "Com a enllaç"
 
+#. IhnY
 #: docvw.src#MN_READONLY_POPUP.MN_READONLY_BACKGROUNDTOGALLERY.MN_READONLY_TOGALLERYCOPY.menuitem.text
-msgctxt "docvw.src#MN_READONLY_POPUP.MN_READONLY_BACKGROUNDTOGALLERY.MN_READONLY_TOGALLERYCOPY.menuitem.text"
+msgctxt ""
+"docvw.src#MN_READONLY_POPUP.MN_READONLY_BACKGROUNDTOGALLERY."
+"MN_READONLY_TOGALLERYCOPY.menuitem.text"
 msgid "Copy"
 msgstr "Copia"
 
+#. OMs3
 #: docvw.src#MN_READONLY_POPUP.MN_READONLY_BACKGROUNDTOGALLERY.menuitem.text
 msgid "Add Background"
 msgstr "Afig un fons"
 
+#. 0zg0
 #: docvw.src#MN_READONLY_POPUP.MN_READONLY_COPYLINK.menuitem.text
 msgid "Copy ~Link"
 msgstr "Copia l'en~llaç"
 
+#. uQj1
 #: docvw.src#MN_READONLY_POPUP.MN_READONLY_COPYGRAPHIC.menuitem.text
 msgid "Copy ~Graphics"
 msgstr "Copia els ~gràfics"
 
+#. 6W4u
 #: docvw.src#MN_READONLY_POPUP.MN_READONLY_LOADGRAPHIC.menuitem.text
 msgid "Load Graphics"
 msgstr "Carrega els gràfics"
 
+#. ZMCs
 #: docvw.src#MN_READONLY_POPUP.MN_READONLY_GRAPHICOFF.menuitem.text
 msgid "Graphics Off"
 msgstr "Desactiva els gràfics"
 
+#. x32E
 #: docvw.src#MN_READONLY_POPUP.MN_READONLY_PLUGINOFF.menuitem.text
 msgid "Plug-ins Off"
 msgstr "Desactiva els connectors"
 
+#. PV2J
 #: docvw.src#MN_READONLY_POPUP.SID_WIN_FULLSCREEN.menuitem.text
 msgid "Leave Full-Screen Mode"
 msgstr "Ix de la pantalla completa"
 
+#. aFfW
 #: docvw.src#MN_READONLY_POPUP.MN_READONLY_COPY.menuitem.text
 msgid "~Copy"
 msgstr "~Copia"
 
+#. tlwP
 #: docvw.src#STR_EXPORT_GRAFIK_TITLE.string.text
 msgid "Graphics Export"
 msgstr "Exportació de gràfics"
 
+#. 4oB_
 #: docvw.src#STR_CHAIN_OK.string.text
 msgid "Click the left mouse button to link the frames."
 msgstr "Feu clic al botó esquerre del ratolí per enllaçar els marcs."
 
+#. LvUi
 #: docvw.src#STR_CHAIN_NOT_EMPTY.string.text
 msgid "Target frame not empty."
 msgstr "El marc de destinació no és buit."
 
+#. nqIe
 #: docvw.src#STR_CHAIN_IS_IN_CHAIN.string.text
 msgid "Target frame is already linked."
 msgstr "El marc de destinació ja està enllaçat."
 
+#. b4vB
 #: docvw.src#STR_CHAIN_WRONG_AREA.string.text
 msgid "The target frame for the link is in an invalid area."
 msgstr "El marc de destinació de l'enllaç és en una àrea no vàlida."
 
+#. e#Yz
 #: docvw.src#STR_CHAIN_NOT_FOUND.string.text
 msgid "Target frame not found at current position."
 msgstr "No s'ha trobat cap marc de destinació a la posició actual."
 
+#. 5k26
 #: docvw.src#STR_CHAIN_SOURCE_CHAINED.string.text
 msgid "The source frame is already the source of a link."
 msgstr "El marc d'origen ja és la font d'un enllaç."
 
+#. 6Yku
 #: docvw.src#STR_CHAIN_SELF.string.text
 msgid "A closed link is not possible."
 msgstr "No és possible un enllaç tancat."
 
+#. BRQQ
 #: docvw.src#STR_REDLINE_INSERT.string.text
 msgid "Inserted"
 msgstr "Inserit"
 
+#. PuJL
 #: docvw.src#STR_REDLINE_DELETE.string.text
 msgid "Deleted"
 msgstr "Suprimit"
 
+#. 2ws5
 #: docvw.src#STR_REDLINE_FORMAT.string.text
 msgid "Formatted"
 msgstr "Formatat"
 
+#. J9NE
 #: docvw.src#STR_REDLINE_TABLE.string.text
 msgid "Table changed"
 msgstr "La taula ha canviat"
 
+#. mtlo
 #: docvw.src#STR_REDLINE_FMTCOLL.string.text
 msgid "Applied Paragraph Styles"
 msgstr "S'han aplicat els estils del paràgraf"
 
+#. SBcD
 #: docvw.src#STR_ENDNOTE.string.text
 msgid "Endnote: "
 msgstr "Nota final: "
 
+#. lbvP
 #: docvw.src#STR_FTNNOTE.string.text
 msgid "Footnote: "
 msgstr "Nota al peu: "
 
+#. fLc1
 #: docvw.src#MSG_READONLY_CONTENT.infobox.text
 msgid ""
 "Readonly content cannot be changed.\n"
@@ -183,172 +233,223 @@ msgstr ""
 "No es pot canviar el contingut només de lectura.\n"
 "No s'hi acceptaran modificacions"
 
+#. faBX
 #: docvw.src#STR_TABLE_COL_ADJUST.string.text
 msgid "Adjust table column"
 msgstr "Ajusta la columna de la taula"
 
+#. ARiM
 #: docvw.src#STR_TABLE_ROW_ADJUST.string.text
 msgid "Adjust table row"
 msgstr "Ajusta la fila de la taula"
 
+#. muCG
 #: docvw.src#STR_TABLE_SELECT_ALL.string.text
 msgid "Select whole table"
 msgstr "Selecciona tota la taula"
 
+#. NKjf
 #: docvw.src#STR_TABLE_SELECT_ROW.string.text
 msgid "Select table row"
 msgstr "Selecciona la fila de la taula"
 
+#. 9pBs
 #: docvw.src#STR_TABLE_SELECT_COL.string.text
 msgid "Select table column"
 msgstr "Selecciona la columna de la taula"
 
+#. pwpG
 #: docvw.src#STR_SMARTTAG_CLICK.string.text
 msgid "%s-click to open Smart Tag menu"
 msgstr "%s-clic per obrir el menú d'etiqueta intel·ligent"
 
+#. TNFy
 #: docvw.src#STR_HEADER_TITLE.string.text
 msgid "Header (%1)"
 msgstr "Capçalera (%1)"
 
+#. xKCk
 #: docvw.src#STR_FOOTER_TITLE.string.text
 msgid "Footer (%1)"
 msgstr "Peu de pàgina (%1)"
 
+#. 07so
 #: docvw.src#STR_DELETE_HEADER.string.text
 msgid "Delete Header..."
 msgstr "Elimina la capçalera..."
 
+#. hMKH
 #: docvw.src#STR_FORMAT_HEADER.string.text
 msgid "Format Header..."
 msgstr "Formata la capçalera..."
 
+#. gE29
 #: docvw.src#STR_DELETE_FOOTER.string.text
 msgid "Delete Footer..."
 msgstr "Elimina el peu de pàgina..."
 
+#. 1VWg
 #: docvw.src#STR_FORMAT_FOOTER.string.text
 msgid "Format Footer..."
 msgstr "Formata el peu de pàgina..."
 
+#. QpyI
 #: access.src#STR_ACCESS_DOC_NAME.string.text
 msgctxt "access.src#STR_ACCESS_DOC_NAME.string.text"
 msgid "Document view"
 msgstr "Visualització del document"
 
+#. dCpr
 #: access.src#STR_ACCESS_DOC_DESC.string.text
 msgctxt "access.src#STR_ACCESS_DOC_DESC.string.text"
 msgid "Document view"
 msgstr "Visualització del document"
 
+#. uPoT
 #: access.src#STR_ACCESS_HEADING_WITH_NUM_DESC.string.text
 msgid "Heading number $(ARG2): $(ARG1)"
 msgstr "Encapçalament número $(ARG2): $(ARG1)"
 
+#. Nl_Q
 #: access.src#STR_ACCESS_HEADER_NAME.string.text
 msgid "Header $(ARG1)"
 msgstr "Capçalera $(ARG1)"
 
+#. gGmz
 #: access.src#STR_ACCESS_HEADER_DESC.string.text
 msgid "Header page $(ARG1)"
 msgstr "Pàgina de capçalera $(ARG1)"
 
+#. G4O8
 #: access.src#STR_ACCESS_FOOTER_NAME.string.text
 msgid "Footer $(ARG1)"
 msgstr "Peu de pàgina $(ARG1)"
 
+#. jxNl
 #: access.src#STR_ACCESS_FOOTER_DESC.string.text
 msgid "Footer page $(ARG1)"
 msgstr "Pàgina de peu de pàgina $(ARG1)"
 
+#. kZcj
 #: access.src#STR_ACCESS_FOOTNOTE_NAME.string.text
 msgctxt "access.src#STR_ACCESS_FOOTNOTE_NAME.string.text"
 msgid "Footnote $(ARG1)"
 msgstr "Nota al peu $(ARG1)"
 
+#. JSfA
 #: access.src#STR_ACCESS_FOOTNOTE_DESC.string.text
 msgctxt "access.src#STR_ACCESS_FOOTNOTE_DESC.string.text"
 msgid "Footnote $(ARG1)"
 msgstr "Nota al peu $(ARG1)"
 
+#. 9tVV
 #: access.src#STR_ACCESS_ENDNOTE_NAME.string.text
 msgctxt "access.src#STR_ACCESS_ENDNOTE_NAME.string.text"
 msgid "Endnote $(ARG1)"
 msgstr "Nota final $(ARG1)"
 
+#. q8Gu
 #: access.src#STR_ACCESS_ENDNOTE_DESC.string.text
 msgctxt "access.src#STR_ACCESS_ENDNOTE_DESC.string.text"
 msgid "Endnote $(ARG1)"
 msgstr "Nota final $(ARG1)"
 
+#. shMw
 #: access.src#STR_ACCESS_TABLE_DESC.string.text
 msgid "$(ARG1) on page $(ARG2)"
 msgstr "$(ARG1) a la pàgina $(ARG2)"
 
+#. uLUh
 #: access.src#STR_ACCESS_PAGE_NAME.string.text
 msgid "Page $(ARG1)"
 msgstr "Pàgina $(ARG1)"
 
+#. 5gHC
 #: access.src#STR_ACCESS_PAGE_DESC.string.text
 msgid "Page: $(ARG1)"
 msgstr "Pàgina: $(ARG1)"
 
+#. YwFQ
 #: access.src#STR_ACCESS_ANNOTATION_AUTHOR_NAME.string.text
 msgid "Author"
 msgstr "Autor"
 
+#. 6Byz
 #: access.src#STR_ACCESS_ANNOTATION_DATE_NAME.string.text
 msgid "Date"
 msgstr "Data"
 
+#. WrbD
 #: access.src#STR_ACCESS_ANNOTATION_BUTTON_NAME.string.text
 msgid "Actions"
 msgstr "Accions"
 
+#. TAgg
 #: access.src#STR_ACCESS_ANNOTATION_BUTTON_DESC.string.text
-msgid "Activate this button to open a list of actions which can be performed on this comment and other comments"
-msgstr "Activeu este botó per obrir una llista d'accions que es poden realitzar en este comentari i en altres comentaris"
+msgid ""
+"Activate this button to open a list of actions which can be performed on "
+"this comment and other comments"
+msgstr ""
+"Activeu este botó per obrir una llista d'accions que es poden realitzar en "
+"este comentari i en altres comentaris"
 
+#. y43x
 #: access.src#STR_ACCESS_PREVIEW_DOC_NAME.string.text
 msgid "Document preview"
 msgstr "Previsualització del document"
 
+#. ri1#
 #: access.src#STR_ACCESS_PREVIEW_DOC_SUFFIX.string.text
 msgid "(Preview mode)"
 msgstr "(Mode de previsualització)"
 
+#. rX56
 #: access.src#STR_ACCESS_DOC_WORDPROCESSING.string.text
 msgid "%PRODUCTNAME Document"
 msgstr "Documents del %PRODUCTNAME"
 
+#. rC1z
 #: access.src#STR_ACCESS_DOC_WORDPROCESSING_READONLY.string.text
 msgid "(read-only)"
 msgstr " (només de lectura)"
 
+#. pqSP
 #: annotation.src#STR_POSTIT_TODAY.string.text
 msgid "Today,"
 msgstr "Hui,"
 
+#. QdvH
 #: annotation.src#STR_POSTIT_YESTERDAY.string.text
 msgid "Yesterday,"
 msgstr "Ahir,"
 
+#. mqJJ
 #: annotation.src#STR_DELETE_ALL_NOTES.string.text
 msgid "All Comments"
 msgstr "Tots els comentaris"
 
+#. 8AwP
 #: annotation.src#STR_DELETE_AUTHOR_NOTES.string.text
 msgid "Comments by "
 msgstr "Comentaris de "
 
+#. _Obl
 #: annotation.src#STR_NODATE.string.text
 msgid "(no date)"
 msgstr "(sense data)"
 
+#. qhvh
 #: annotation.src#STR_NOAUTHOR.string.text
 msgid "(no author)"
 msgstr "(sense autor)"
 
+#. SJUF
 #: annotation.src#STR_REPLY.string.text
 msgid "Reply to $1"
 msgstr "Respon a $1"
+
+#~ msgid "Header"
+#~ msgstr "Capçalera"
+
+#~ msgid "Footer"
+#~ msgstr "Peu de pàgina"

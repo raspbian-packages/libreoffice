@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+wizards%2Fsource%2Feuro.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment="
+"&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%"
+"3A+wizards%2Fsource%2Feuro.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
 "PO-Revision-Date: 2012-02-29 23:25+0200\n"
 "Last-Translator: Joan <joan@montane.cat>\n"
@@ -15,334 +17,435 @@ msgstr ""
 "X-Generator: Pootle 2.1.6\n"
 "X-Accelerator-Marker: ~\n"
 
+#. l5X#
 #: euro.src#STEP_ZERO.string.text
 msgid "~Cancel"
 msgstr "~Cancel·la"
 
+#. ukfM
 #: euro.src#STEP_ZERO___1.string.text
 msgid "~Help"
 msgstr "~Ajuda"
 
+#. 1Rxz
 #: euro.src#STEP_ZERO___2.string.text
 msgid "<<~Back"
 msgstr "<<~Arrere"
 
+#. M8ra
 #: euro.src#STEP_ZERO___3.string.text
 msgid "~Convert"
 msgstr "~Converteix"
 
+#. 83wA
 #: euro.src#STEP_ZERO___4.string.text
-msgid "Note: Currency amounts from external links and currency conversion factors in formulas cannot be converted."
-msgstr "Avís: En les fórmules no es poden convertir els imports monetaris de referències externes ni els factors de conversió de les monedes."
+msgid ""
+"Note: Currency amounts from external links and currency conversion factors "
+"in formulas cannot be converted."
+msgstr ""
+"Avís: En les fórmules no es poden convertir els imports monetaris de "
+"referències externes ni els factors de conversió de les monedes."
 
+#. VGqJ
 #: euro.src#STEP_ZERO___5.string.text
 msgid "First, unprotect all sheets."
 msgstr "Primer, desprotegiu tots els fulls."
 
+#. cbcu
 #: euro.src#STEP_ZERO___6.string.text
 msgid "Currencies:"
 msgstr "Monedes:"
 
+#. nseX
 #: euro.src#STEP_ZERO___7.string.text
 msgid "C~ontinue>>"
 msgstr "C~ontinua>>"
 
+#. X0S5
 #: euro.src#STEP_ZERO___8.string.text
 msgid "C~lose"
 msgstr "~Tanca"
 
+#. tbQ8
 #: euro.src#STEP_CONVERTER.string.text
 msgid "~Entire document"
 msgstr "~Tot el document"
 
+#. SeEx
 #: euro.src#STEP_CONVERTER___1.string.text
 msgid "Selection"
 msgstr "Selecció"
 
+#. bTSG
 #: euro.src#STEP_CONVERTER___2.string.text
 msgid "Cell S~tyles"
 msgstr "Es~tils de cel·la"
 
+#. oEI9
 #: euro.src#STEP_CONVERTER___3.string.text
 msgid "Currency cells in the current ~sheet"
 msgstr "Cel·les monetàries del f~ull actual"
 
+#. i5Td
 #: euro.src#STEP_CONVERTER___4.string.text
 msgid "Currency cells in the entire ~document"
 msgstr "Cel·les monetàries de tot el ~document"
 
+#. xMJ#
 #: euro.src#STEP_CONVERTER___5.string.text
 msgid "~Selected range"
 msgstr "Interval ~seleccionat"
 
+#. 2Z1L
 #: euro.src#STEP_CONVERTER___6.string.text
 msgid "Select Cell Styles"
 msgstr "Seleccioneu els estils de cel·la"
 
+#. LmFC
 #: euro.src#STEP_CONVERTER___7.string.text
 msgid "Select currency cells"
 msgstr "Seleccioneu les cel·les de moneda"
 
+#. 56xe
 #: euro.src#STEP_CONVERTER___8.string.text
 msgid "Currency ranges:"
 msgstr "Intervals de la moneda:"
 
+#. ILrn
 #: euro.src#STEP_CONVERTER___9.string.text
 msgid "Templates:"
 msgstr "Plantilles:"
 
+#. ng3J
 #: euro.src#STEP_AUTOPILOT.string.text
 msgid "Extent"
 msgstr "Abast"
 
+#. MING
 #: euro.src#STEP_AUTOPILOT___1.string.text
 msgid "~Single %PRODUCTNAME Calc document"
 msgstr "~Un fitxer del %PRODUCTNAME Calc"
 
+#. ld5x
 #: euro.src#STEP_AUTOPILOT___2.string.text
 msgid "Complete ~directory"
 msgstr "Tot el ~directori"
 
+#. uqBY
 #: euro.src#STEP_AUTOPILOT___3.string.text
 msgid "Source Document:"
 msgstr "Document d'origen:"
 
+#. c_4C
 #: euro.src#STEP_AUTOPILOT___4.string.text
 msgid "Source directory:"
 msgstr "Directori d'origen:"
 
+#. niAL
 #: euro.src#STEP_AUTOPILOT___5.string.text
 msgid "~Including subfolders"
 msgstr "~Inclou les subcarpetes"
 
+#. 8PO#
 #: euro.src#STEP_AUTOPILOT___6.string.text
 msgid "Target directory:"
 msgstr "Directori de destí:"
 
+#. VAMd
 #: euro.src#STEP_AUTOPILOT___7.string.text
 msgid "Temporarily unprotect sheet without query"
 msgstr "Desprotegeix temporalment el full sense consultar"
 
+#. 5UlJ
 #: euro.src#STEP_AUTOPILOT___10.string.text
 msgid "Also convert fields and tables in text documents"
 msgstr "Converteix també els camps i les taules dels documents de text"
 
+#. OJk8
 #: euro.src#STATUSLINE.string.text
 msgid "Conversion status: "
 msgstr "Estat de la conversió: "
 
+#. dd26
 #: euro.src#STATUSLINE___1.string.text
 msgid "Conversion status of the cell templates:"
 msgstr "Estat de la conversió de les plantilles de cel·la:"
 
+#. UIGj
 #: euro.src#STATUSLINE___2.string.text
-msgid "Registration of the relevant ranges: Sheet %1Number%1 of %2TotPageCount%2"
-msgstr "Registre dels intervals a calcular: Full %1Number%1 de %2TotPageCount%2"
+msgid ""
+"Registration of the relevant ranges: Sheet %1Number%1 of %2TotPageCount%2"
+msgstr ""
+"Registre dels intervals a calcular: Full %1Number%1 de %2TotPageCount%2"
 
+#. 91Uq
 #: euro.src#STATUSLINE___3.string.text
 msgid "Entry of the ranges to be converted..."
 msgstr "Introduïu els intervals per convertir..."
 
+#. NAHQ
 #: euro.src#STATUSLINE___4.string.text
 msgid "Sheet protection for each sheet will be restored..."
 msgstr "Es tornaran a crear les proteccions de fulls..."
 
+#. 0PV3
 #: euro.src#STATUSLINE___5.string.text
 msgid "Conversion of the currency units in the cell templates..."
 msgstr "Conversió de les unitats monetàries a les plantilles de cel·la..."
 
+#. b9aC
 #: euro.src#MESSAGES.string.text
 msgid "~Finish"
 msgstr "~Finalitza"
 
+#. oxmd
 #: euro.src#MESSAGES___1.string.text
 msgid "Select directory"
 msgstr "Seleccioneu un directori"
 
+#. BEYC
 #: euro.src#MESSAGES___2.string.text
 msgid "Select file"
 msgstr "Seleccioneu el fitxer"
 
+#. STiL
 #: euro.src#MESSAGES___3.string.text
 msgid "Select target directory"
 msgstr "Seleccioneu el directori de destí"
 
+#. 2MZx
 #: euro.src#MESSAGES___4.string.text
 msgid "non-existant"
 msgstr "inexistent"
 
+#. L5jY
 #: euro.src#MESSAGES___5.string.text
 msgid "Euro Converter"
 msgstr "Convertidor d'euros"
 
+#. im_9
 #: euro.src#MESSAGES___6.string.text
 msgid "Should protected spreadsheets be temporarily unprotected?"
 msgstr "Voleu desprotegir temporalment tots els fulls de càlcul protegits?"
 
+#. xZnG
 #: euro.src#MESSAGES___7.string.text
 msgid "Enter the password to unprotect the table %1TableName%1"
 msgstr "Introduïu la contrasenya per desprotegir la taula %1TableName%1"
 
+#. hL5q
 #: euro.src#MESSAGES___8.string.text
 msgid "Wrong Password!"
 msgstr "La contrasenya és incorrecta"
 
+#. y6Bj
 #: euro.src#MESSAGES___9.string.text
 msgid "Protected Sheet"
 msgstr "Full protegit"
 
+#. lkuO
 #: euro.src#MESSAGES___10.string.text
 msgid "Warning!"
 msgstr "Avís"
 
+#. uzs1
 #: euro.src#MESSAGES___11.string.text
 msgid "Protection for the sheets will not be removed."
 msgstr "La protecció dels fulls no se suprimirà."
 
+#. 18ag
 #: euro.src#MESSAGES___12.string.text
 msgid "Sheet cannot be unprotected"
 msgstr "El full no es pot desprotegir"
 
+#. MRgp
 #: euro.src#MESSAGES___13.string.text
-msgid "The Wizard cannot edit this document as cell formats cannot be modified in documents containing protected spreadsheets."
-msgstr "L'auxiliar no pot editar este document perquè el format de cel·la no es pot modificar en els fulls de càlcul protegits."
+msgid ""
+"The Wizard cannot edit this document as cell formats cannot be modified in "
+"documents containing protected spreadsheets."
+msgstr ""
+"L'auxiliar no pot editar este document perquè el format de cel·la no es "
+"pot modificar en els fulls de càlcul protegits."
 
+#. 8GbT
 #: euro.src#MESSAGES___14.string.text
-msgid "Please note that the Euro Converter will, otherwise, not be able to edit this document!"
-msgstr "Noteu que, altrament, el Convertidor d'euros no serà capaç d'editar este document."
+msgid ""
+"Please note that the Euro Converter will, otherwise, not be able to edit "
+"this document!"
+msgstr ""
+"Noteu que, altrament, el Convertidor d'euros no serà capaç d'editar este "
+"document."
 
+#. V3h4
 #: euro.src#MESSAGES___15.string.text
 msgid "Please choose a currency to be converted first!"
 msgstr "Cal que prèviament seleccioneu la moneda a convertir."
 
+#. csvl
 #: euro.src#MESSAGES___16.string.text
 msgid "Password:"
 msgstr "Contrasenya:"
 
+#. nbts
 #: euro.src#MESSAGES___17.string.text
 msgid "OK"
 msgstr "D'acord"
 
+#. XJ3I
 #: euro.src#MESSAGES___18.string.text
 msgid "Cancel"
 msgstr "Cancel·la"
 
+#. s0DB
 #: euro.src#MESSAGES___19.string.text
 msgid "Please select a %PRODUCTNAME Calc document for editing!"
 msgstr "Seleccioneu el document del %PRODUCTNAME Calc que voleu editar."
 
+#. 1_Kn
 #: euro.src#MESSAGES___20.string.text
 msgid "'<1>' is not a directory!"
 msgstr "'<1>' no és un directori."
 
+#. MiQe
 #: euro.src#MESSAGES___21.string.text
 msgid "Document is read-only!"
 msgstr "El document és només de lectura."
 
+#. lP83
 #: euro.src#MESSAGES___22.string.text
 msgid "The '<1>' file already exists.<CR>Do you want to overwrite it?"
 msgstr "El fitxer '<1>' ja existeix.<CR>Voleu sobreescriure'l?"
 
+#. uA6Q
 #: euro.src#MESSAGES___23.string.text
 msgid "Do you really want to terminate conversion at this point?"
 msgstr "Segur que voleu finalitzar la conversió en este punt?"
 
+#. c19q
 #: euro.src#MESSAGES___24.string.text
 msgid "Cancel Wizard"
 msgstr "Cancel·la l'auxiliar"
 
+#. oSd3
 #: euro.src#CURRENCIES.string.text
 msgid "Portuguese Escudo"
 msgstr "Escut portugués"
 
+#. fqjS
 #: euro.src#CURRENCIES___1.string.text
 msgid "Dutch Guilder"
 msgstr "Florí neerlandés"
 
+#. G1_t
 #: euro.src#CURRENCIES___2.string.text
 msgid "French Franc"
 msgstr "Franc francés"
 
+#. 7Ink
 #: euro.src#CURRENCIES___3.string.text
 msgid "Spanish Peseta"
 msgstr "Pesseta espanyola"
 
+#. PP#0
 #: euro.src#CURRENCIES___4.string.text
 msgid "Italian Lira"
 msgstr "Lira italiana"
 
+#. EAmP
 #: euro.src#CURRENCIES___5.string.text
 msgid "German Mark"
 msgstr "Marc alemany"
 
+#. t_Yo
 #: euro.src#CURRENCIES___6.string.text
 msgid "Belgian Franc"
 msgstr "Franc belga"
 
+#. Wiih
 #: euro.src#CURRENCIES___7.string.text
 msgid "Irish Punt"
 msgstr "Lliura irlandesa"
 
+#. mQOF
 #: euro.src#CURRENCIES___8.string.text
 msgid "Luxembourg Franc"
 msgstr "Franc luxemburgués"
 
+#. d9MM
 #: euro.src#CURRENCIES___9.string.text
 msgid "Austrian Schilling"
 msgstr "Xíling austríac"
 
+#. Jua8
 #: euro.src#CURRENCIES___10.string.text
 msgid "Finnish Mark"
 msgstr "Marc finés"
 
+#. 4hgH
 #: euro.src#CURRENCIES___11.string.text
 msgid "Greek Drachma"
 msgstr "Dracma grec"
 
+#. zUuw
 #: euro.src#CURRENCIES___12.string.text
 msgid "Slovenian Tolar"
 msgstr "Tolar eslovè"
 
+#. gDsZ
 #: euro.src#CURRENCIES___13.string.text
 msgid "Cypriot Pound"
 msgstr "Lliura xipriota"
 
+#. q6vD
 #: euro.src#CURRENCIES___14.string.text
 msgid "Maltese Lira"
 msgstr "Lira maltesa"
 
+#. ZLtK
 #: euro.src#CURRENCIES___15.string.text
 msgid "Slovak Koruna"
 msgstr "Corona eslovaca"
 
+#. QWb_
 #: euro.src#CURRENCIES___16.string.text
 msgid "Estonian Kroon"
 msgstr "Corona estoniana"
 
+#. Dphc
 #: euro.src#CURRENCIES___17.string.text
 msgid "The currency set for the document is not a European currency!"
 msgstr "La moneda definida per al document no és una moneda europea."
 
+#. T5V2
 #: euro.src#CURRENCIES___18.string.text
-msgid "The language set for your operating system is not a language of the European Monetary Union."
-msgstr "La llengua del sistema operatiu no és una llengua de la Unió Monetària Europea."
+msgid ""
+"The language set for your operating system is not a language of the European "
+"Monetary Union."
+msgstr ""
+"La llengua del sistema operatiu no és una llengua de la Unió Monetària "
+"Europea."
 
+#. hWwt
 #: euro.src#STEP_LASTPAGE.string.text
 msgid "Progress"
 msgstr "En curs"
 
+#. PEq5
 #: euro.src#STEP_LASTPAGE___1.string.text
 msgid "Retrieving the relevant documents..."
 msgstr "S'estan recuperant els documents importants..."
 
+#. Wxck
 #: euro.src#STEP_LASTPAGE___2.string.text
 msgid "Converting the documents..."
 msgstr "S'estan convertint els documents..."
 
+#. teet
 #: euro.src#STEP_LASTPAGE___3.string.text
 msgid "Settings:"
 msgstr "Paràmetres:"
 
+#. fZdP
 #: euro.src#STEP_LASTPAGE___4.string.text
 msgid "Sheet is always unprotected"
 msgstr "El full està sempre desprotegit"

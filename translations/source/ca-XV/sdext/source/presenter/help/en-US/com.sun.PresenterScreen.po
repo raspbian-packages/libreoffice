@@ -2,7 +2,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+sdext%2Fsource%2Fpresenter%2Fhelp%2Fen-US%2Fcom.sun.PresenterScreen.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+sdext%2Fsource%2Fpresenter%2Fhelp%2Fen-US%2Fcom.sun."
+"PresenterScreen.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
 "PO-Revision-Date: 2011-04-05 19:14+0200\n"
 "Last-Translator: jmontane <joan@montane.cat>\n"
@@ -15,156 +18,202 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. IvrR
 #: presenter.xhp#tit.help.text
 msgctxt "presenter.xhp#tit.help.text"
 msgid "Presenter Console Keyboard Shortcuts"
 msgstr "Tecles de drecera de l'Presenter Console"
 
+#. 0Fqx
 #: presenter.xhp#bm_id0921200912285678.help.text
 msgid "<bookmark_value>Presenter Console shortcuts</bookmark_value>"
 msgstr "<bookmark_value>dreceres de l'Presenter Console</bookmark_value>"
 
+#. r_#e
 #: presenter.xhp#hd_id0921201912165661.help.text
 msgctxt "presenter.xhp#hd_id0921201912165661.help.text"
 msgid "Presenter Console Keyboard Shortcuts"
 msgstr "Tecles de drecera de l'Presenter Console"
 
+#. MDNT
 #: presenter.xhp#par_id0921201912165656.help.text
-msgid "When running a slide show using the Presenter Console, you can use the following keys:"
-msgstr "Quan executeu una presentació de diapositives amb l'Presenter Console, podeu utilitzar les tecles següents:"
+msgid ""
+"When running a slide show using the Presenter Console, you can use the "
+"following keys:"
+msgstr ""
+"Quan executeu una presentació de diapositives amb l'Presenter Console, podeu "
+"utilitzar les tecles següents:"
 
+#. YxwT
 #: presenter.xhp#par_id0921200901104028.help.text
 msgid "Action"
 msgstr "Acció"
 
+#. 00cp
 #: presenter.xhp#par_id0921200901104093.help.text
 msgid "Key or Keys"
 msgstr "Tecla o tecles"
 
+#. 55s#
 #: presenter.xhp#par_id092120090110418.help.text
 msgid "Next slide, or next effect"
 msgstr "Diapositiva següent o efecte següent"
 
+#. Rgff
 #: presenter.xhp#par_id0921200901104120.help.text
-msgid "Left click, right arrow, down arrow, spacebar, page down, enter, return, 'N'"
-msgstr "Clic amb el botó esquerre, fletxa dreta, fletxa avall, barra espaiadora, Av Pàg, retorn, «N»"
+msgid ""
+"Left click, right arrow, down arrow, spacebar, page down, enter, return, 'N'"
+msgstr ""
+"Clic amb el botó esquerre, fletxa dreta, fletxa avall, barra espaiadora, Av "
+"Pàg, retorn, «N»"
 
+#. 8MBb
 #: presenter.xhp#par_id0921200901104165.help.text
 msgid "Previous slide, or previous effect"
 msgstr "Diapositiva anterior o efecte anterior"
 
+#. 88U8
 #: presenter.xhp#par_id0921200901104115.help.text
 msgid "Right click, left arrow, up arrow, page up, backspace, 'P'"
-msgstr "Clic amb el botó dret, fletxa esquerra, fletxa amunt, Re Pàg, retrocés, «P»"
+msgstr ""
+"Clic amb el botó dret, fletxa esquerra, fletxa amunt, Re Pàg, retrocés, «P»"
 
+#. Zovu
 #: presenter.xhp#par_id0921200901104164.help.text
 msgid "First slide"
 msgstr "Primera diapositiva"
 
+#. GK7m
 #: presenter.xhp#par_id0921200901104148.help.text
 msgid "Home"
 msgstr "Inici"
 
+#. 9x9V
 #: presenter.xhp#par_id0921200901104221.help.text
 msgid "Last slide"
 msgstr "Última diapositiva"
 
+#. 28Qi
 #: presenter.xhp#par_id0921200901104277.help.text
 msgid "End"
 msgstr "Fi"
 
+#. jYCi
 #: presenter.xhp#par_id0921200901104279.help.text
 msgid "Previous slide without effects"
 msgstr "Diapositiva anterior sense els efectes"
 
+#. vDNV
 #: presenter.xhp#par_id092120090110423.help.text
 msgid "Alt+Page Up"
 msgstr "Alt+Re Pàg"
 
+#. kiv9
 #: presenter.xhp#par_id092120090110427.help.text
 msgid "Next slide without effects"
 msgstr "Diapositiva següent sense els efectes"
 
+#. c2tO
 #: presenter.xhp#par_id0921200901104261.help.text
 msgid "Alt+Page Down"
 msgstr "Alt+Av Pàg"
 
+#. SNI1
 #: presenter.xhp#par_id0921200901104383.help.text
 msgid "Black/Unblack the screen"
 msgstr "Ennegreix/desennegreix la pantalla"
 
+#. AcKz
 #: presenter.xhp#par_id092120090110431.help.text
 msgid "'B', '.'"
 msgstr "«B», «.»"
 
+#. nFii
 #: presenter.xhp#par_id0921200901104311.help.text
 msgid "White/Unwhite the screen"
 msgstr "Emblanqueja/desemblanqueja la pantalla"
 
+#. mqF6
 #: presenter.xhp#par_id0921200901104359.help.text
 msgid "'W', ','"
 msgstr "«W», «,»"
 
+#. H6Ol
 #: presenter.xhp#par_id0921200901104336.help.text
 msgid "End slide show"
 msgstr "Finalitza la presentació"
 
+#. 16#l
 #: presenter.xhp#par_id0921200901104419.help.text
 msgid "Esc, '-'"
 msgstr "Esc, «-»"
 
+#. 4#4o
 #: presenter.xhp#par_id0921200901104460.help.text
 msgid "Go to slide number"
 msgstr "Vés a un número de diapositiva"
 
+#. XSpD
 #: presenter.xhp#par_id092120090110440.help.text
 msgid "Number followed by Enter"
 msgstr "Número seguit per la tecla de retorn"
 
+#. 1B35
 #: presenter.xhp#par_id0921200901104427.help.text
 msgid "Grow/Shrink size of notes font"
 msgstr "Augmenta/disminueix la mida del tipus de lletra de les notes"
 
+#. Ooiw
 #: presenter.xhp#par_id0921200901104442.help.text
 msgid "'G', 'S'"
 msgstr "«G», «S»"
 
+#. SnrD
 #: presenter.xhp#par_id0921200901104473.help.text
 msgid "Scroll notes up/down"
 msgstr "Desplaça les notes cap amunt o cap avall"
 
+#. 1Owa
 #: presenter.xhp#par_id092120090110459.help.text
 msgid "'A', 'Z'"
 msgstr "«A», «Z»"
 
+#. 5MUv
 #: presenter.xhp#par_id092120090110456.help.text
 msgid "Move caret in notes view backward/forward"
 msgstr "Mou el cursor de la vista de notes arrere/avant"
 
+#. koia
 #: presenter.xhp#par_id092120090110457.help.text
 msgid "'H', 'L'"
 msgstr "«H», «L»"
 
+#. I516
 #: presenter.xhp#par_id0921200901104566.help.text
 msgid "Show the Presenter Console"
 msgstr "Mostra l'Presenter Console"
 
+#. E9fE
 #: presenter.xhp#par_id0921200901104544.help.text
 msgid "Ctrl-'1'"
 msgstr "Ctrl-«1»"
 
+#. bpE#
 #: presenter.xhp#par_id0921200901104535.help.text
 msgid "Show the Presentation Notes"
 msgstr "Mostra les notes de la presentació"
 
+#. HNMx
 #: presenter.xhp#par_id0921200901104680.help.text
 msgid "Ctrl-'2'"
 msgstr "Ctrl-«2»"
 
+#. tYk8
 #: presenter.xhp#par_id0921200901104634.help.text
 msgid "Show the Slides Overview"
 msgstr "Mostra la vista general de les diapositives"
 
+#. sAbb
 #: presenter.xhp#par_id0921200901104632.help.text
 msgid "Ctrl-'3'"
 msgstr "Ctrl-«3»"

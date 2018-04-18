@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+dictionaries%2Fen%2Fdialog.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+dictionaries%2Fen%2Fdialog.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
 "PO-Revision-Date: 2012-01-27 16:37+0200\n"
 "Last-Translator: Jesús <jesus@softcatala.org>\n"
@@ -15,158 +17,200 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. 6aVS
 #: OptionsDialog.xcu#..OptionsDialog.Nodes.org.openoffice.lightproof.Label.value.text
 msgid "Dictionaries"
 msgstr "Diccionaris"
 
+#. wUnT
 #: OptionsDialog.xcu#..OptionsDialog.Nodes.org.openoffice.lightproof.Leaves.org.openoffice.lightproof.en.Label.value.text
 msgid "English sentence checking"
 msgstr "Comprovació de la frase anglesa"
 
+#. 3BFI
 #: en_en_US.properties#spelling.property.text
 msgid "Grammar checking"
 msgstr "Comprovació gramatical"
 
+#. I2KW
 #: en_en_US.properties#hlp_grammar.property.text
 msgid "Check more grammar errors."
 msgstr "Comprova més errors gramaticals."
 
+#. xeoe
 #: en_en_US.properties#grammar.property.text
 msgid "Possible mistakes"
 msgstr "Possibles errors"
 
+#. Geg#
 #: en_en_US.properties#hlp_cap.property.text
 msgid "Check missing capitalization of sentences."
 msgstr "Comprova que les frases comencen en majúscules."
 
+#. SQmi
 #: en_en_US.properties#cap.property.text
 msgid "Capitalization"
 msgstr "Majúscules"
 
+#. hOh0
 #: en_en_US.properties#hlp_dup.property.text
 msgid "Check repeated words."
 msgstr "Comprova paraules repetides."
 
+#. dgnI
 #: en_en_US.properties#dup.property.text
 msgid "Word duplication"
 msgstr "Duplicació de paraules"
 
+#. TrlC
 #: en_en_US.properties#hlp_pair.property.text
 msgid "Check missing or extra parentheses and quotation marks."
 msgstr "Comprova que hi ha el número correcte de parèntesis o cometes."
 
+#. Dz1e
 #: en_en_US.properties#pair.property.text
 msgid "Parentheses"
 msgstr "Parèntesis"
 
+#. YeyG
 #: en_en_US.properties#punctuation.property.text
 msgid "Punctuation"
 msgstr "Puntuació"
 
+#. SXDl
 #: en_en_US.properties#hlp_spaces.property.text
 msgid "Check single spaces between words."
 msgstr "Comprova els espais simples entre paraules."
 
+#. aEaF
 #: en_en_US.properties#spaces.property.text
 msgid "Word spacing"
 msgstr "Espai entre paraules"
 
+#. Btl2
 #: en_en_US.properties#hlp_mdash.property.text
 msgid "Force unspaced em dash instead of spaced en dash."
 msgstr "Força un guió llarg sense espai en compte d'un guió mitjà amb espai"
 
+#. h73b
 #: en_en_US.properties#mdash.property.text
 msgid "Em dash"
 msgstr "Guió llarg"
 
+#. xjel
 #: en_en_US.properties#hlp_ndash.property.text
 msgid "Force spaced en dash instead of unspaced em dash."
 msgstr "Força un guió mitjà amb espai en comptes d'un guió llarg sense espai"
 
+#. RT48
 #: en_en_US.properties#ndash.property.text
 msgid "En dash"
 msgstr "Guió mitjà"
 
+#. wiQm
 #: en_en_US.properties#hlp_quotation.property.text
 msgid "Check double quotation marks: \"x\" → “x”"
 msgstr "Comprova les cometes dobles: \"x\" → “x”"
 
+#. zr1U
 #: en_en_US.properties#quotation.property.text
 msgid "Quotation marks"
 msgstr "Cometes"
 
+#. 32fc
 #: en_en_US.properties#hlp_times.property.text
 msgid "Check true multiplication sign: 5x5 → 5×5"
 msgstr "Comprova el signe de multiplicació real: 5x5 → 5×5"
 
+#. Zo51
 #: en_en_US.properties#times.property.text
 msgid "Multiplication sign"
 msgstr "Signe de multiplicació"
 
+#. Siy0
 #: en_en_US.properties#hlp_spaces2.property.text
 msgid "Check single spaces between sentences."
 msgstr "Comprova espais simples entre frases."
 
+#. r6Q8
 #: en_en_US.properties#spaces2.property.text
 msgid "Sentence spacing"
 msgstr "Espaiat entre frases"
 
+#. gOxt
 #: en_en_US.properties#hlp_spaces3.property.text
 msgid "Check more than two extra space characters between words and sentences."
 msgstr "Comprova si hi ha més de dos espais extra entre paraules i frases."
 
+#. 3oT_
 #: en_en_US.properties#spaces3.property.text
 msgid "More spaces"
 msgstr "Més espais"
 
+#. 81UB
 #: en_en_US.properties#hlp_minus.property.text
 msgid "Change hyphen characters to real minus signs."
 msgstr "Canvia els guionets per signes menys reals."
 
+#. enoi
 #: en_en_US.properties#minus.property.text
 msgid "Minus sign"
 msgstr "Signe menys"
 
+#. B#33
 #: en_en_US.properties#hlp_apostrophe.property.text
-msgid "Change typewriter apostrophe, single quotation marks and correct double primes."
-msgstr "Canvia l'apòstrof tipogràfic, cometes simples i corregeix les cometes dobles."
+msgid ""
+"Change typewriter apostrophe, single quotation marks and correct double "
+"primes."
+msgstr ""
+"Canvia l'apòstrof tipogràfic, cometes simples i corregeix les cometes dobles."
 
+#. DssP
 #: en_en_US.properties#apostrophe.property.text
 msgid "Apostrophe"
 msgstr "Apòstrof"
 
+#. Lx5K
 #: en_en_US.properties#hlp_ellipsis.property.text
 msgid "Change three dots with ellipsis."
 msgstr "Canvia tres punts amb el·lipsi,"
 
+#. nCFl
 #: en_en_US.properties#ellipsis.property.text
 msgid "Ellipsis"
 msgstr "El·lipsi"
 
+#. m1mp
 #: en_en_US.properties#others.property.text
 msgid "Others"
 msgstr "Altres"
 
+#. Uj41
 #: en_en_US.properties#hlp_metric.property.text
 msgid "Measurement conversion from °F, mph, ft, in, lb, gal and miles."
 msgstr "Conversió de mesures de °F, mph, ft, polzades, lb, gal i milles."
 
+#. c2jX
 #: en_en_US.properties#metric.property.text
 msgid "Convert to metric (°C, km/h, m, kg, l)"
 msgstr "Converteix a mètric (°C, km/h, m, kg, l)"
 
+#. zPXm
 #: en_en_US.properties#hlp_numsep.property.text
 msgid "Common (1000000 → 1,000,000) or ISO (1000000 → 1 000 000)."
 msgstr "Comú (1000000 → 1,000,000) o ISO (1000000 → 1 000 000)."
 
+#. 5s8G
 #: en_en_US.properties#numsep.property.text
 msgid "Thousand separation of large numbers"
 msgstr "Separador de milers per a nombres grans"
 
+#. 8YTB
 #: en_en_US.properties#hlp_nonmetric.property.text
 msgid "Measurement conversion from °C; km/h; cm, m, km; kg; l."
 msgstr "Conversió de mesures de °C; km/h; cm, m, km; kg; l."
 
+#. Fx6b
 #: en_en_US.properties#nonmetric.property.text
 msgid "Convert to non-metric (°F, mph, ft, lb, gal)"
 msgstr "Converteix a no mètric (°F, mph, ft, lb, gal)"

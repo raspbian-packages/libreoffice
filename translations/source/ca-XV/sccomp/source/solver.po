@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+sccomp%2Fsource%2Fsolver.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+sccomp%2Fsource%2Fsolver.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:41+0200\n"
 "PO-Revision-Date: 2011-11-26 21:51+0200\n"
 "Last-Translator: Jesús <jesus@softcatala.org>\n"
@@ -15,46 +17,57 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. 4wcs
 #: solver.src#RID_SOLVER_COMPONENT.string.text
 msgid "%PRODUCTNAME Linear Solver"
 msgstr "Solucionador lineal del %PRODUCTNAME"
 
+#. G5nc
 #: solver.src#RID_PROPERTY_NONNEGATIVE.string.text
 msgid "Assume variables as non-negative"
 msgstr "Assumeix que les variables no són negatives"
 
+#. Jmmw
 #: solver.src#RID_PROPERTY_INTEGER.string.text
 msgid "Assume variables as integer"
 msgstr "Assumeix que les variables són enters"
 
+#. VE9f
 #: solver.src#RID_PROPERTY_TIMEOUT.string.text
 msgid "Solving time limit (seconds)"
 msgstr "Límit de temps per a la resolució (en segons)"
 
+#. ohPd
 #: solver.src#RID_PROPERTY_EPSILONLEVEL.string.text
 msgid "Epsilon level (0-3)"
 msgstr "Nivell d'èpsilon (0-3)"
 
+#. a_HA
 #: solver.src#RID_PROPERTY_LIMITBBDEPTH.string.text
 msgid "Limit branch-and-bound depth"
 msgstr "Limita la profunditat de l'algorisme de branca i límit"
 
+#. s7zP
 #: solver.src#RID_ERROR_NONLINEAR.string.text
 msgid "The model is not linear."
 msgstr "El model no és lineal."
 
+#. vjCI
 #: solver.src#RID_ERROR_EPSILONLEVEL.string.text
 msgid "The epsilon level is invalid."
 msgstr "El nivell d'èpsilon no és vàlid."
 
+#. GIEY
 #: solver.src#RID_ERROR_INFEASIBLE.string.text
 msgid "The model is infeasible. Check limiting conditions."
 msgstr "El model no és factible. Comproveu les condicions límit."
 
+#. V7jU
 #: solver.src#RID_ERROR_UNBOUNDED.string.text
 msgid "The model is unbounded."
 msgstr "El model és il·limitat."
 
+#. R0Zm
 #: solver.src#RID_ERROR_TIMEOUT.string.text
 msgid "The time limit was reached."
 msgstr "S'ha assolit el temps límit."

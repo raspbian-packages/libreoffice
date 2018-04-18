@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+svtools%2Fsource%2Fplugapp.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+svtools%2Fsource%2Fplugapp.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
 "PO-Revision-Date: 2011-04-05 19:15+0200\n"
 "Last-Translator: jmontane <joan@montane.cat>\n"
@@ -15,86 +17,109 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. uTq4
 #: testtool.src#DisplayHidToolBox.TT_SHOW.toolboxitem.text
 msgid "Display IDs"
 msgstr "Mostra els identificadors"
 
+#. dOIA
 #: testtool.src#DisplayHidToolBox.TT_OUTPUT.toolboxitem.text
 msgid "This is the input window"
 msgstr "Esta és la finestra d'entrada"
 
+#. Xv4v
 #: testtool.src#DisplayHidToolBox.TT_SEND_DATA.toolboxitem.text
 msgid "Transfer to TestTool"
 msgstr "Transfereix a TestTool"
 
+#. pBFN
 #: testtool.src#DisplayHidToolBox.TT_ALLWIN.toolboxitem.text
 msgid "Show all windows"
 msgstr "Mostra totes les finestres"
 
+#. KdJ5
 #: testtool.src#DisplayHidToolBox.TT_KURZNAME.toolboxitem.text
 msgid "Show short names (if available)"
 msgstr "Mostra els noms curts (si estan disponibles)"
 
+#. QT8#
 #: testtool.src#DisplayHidToolBox.TT_LANGNAME.toolboxitem.text
 msgid "Always show long-name"
 msgstr "Mostra sempre el nom llarg"
 
+#. N1ef
 #: testtool.src#DisplayHidToolBox.toolbox.text
 msgid "DisplayHID"
 msgstr "Mostra l'HID"
 
+#. yCBI
 #: testtool.src#TT_INLINE_TRANSLATION.TT_GB_TRANSLATION.groupbox.text
 msgid "Translation"
 msgstr "Traducció"
 
+#. UtaK
 #: testtool.src#TT_INLINE_TRANSLATION.TT_E_NEW.edit.text
 msgid "~Edit"
 msgstr "~Edita"
 
+#. UIbV
 #: testtool.src#TT_INLINE_TRANSLATION.TT_FT_OLD.fixedtext.text
 msgid "Original Text"
 msgstr "Text original"
 
+#. MxSd
 #: testtool.src#TT_INLINE_TRANSLATION.TT_GB_COMMENT.groupbox.text
 msgid "Comment"
 msgstr "Comentari"
 
+#. qELO
 #: testtool.src#TT_INLINE_TRANSLATION.TT_E_COMMENT.edit.text
 msgid "~Comment"
 msgstr "~Comentari"
 
+#. r1mk
 #: testtool.src#TT_INLINE_TRANSLATION.TT_PB_SELECT.pushbutton.text
 msgid "~Select"
 msgstr "~Selecciona"
 
+#. 2nKK
 #: testtool.src#TT_INLINE_TRANSLATION.TT_PB_RESTORE.pushbutton.text
 msgid "~Restore"
 msgstr "~Restaura"
 
+#. 5K0m
 #: testtool.src#TT_INLINE_TRANSLATION.TT_PB_ACCEPT.pushbutton.text
 msgid "~Accept"
 msgstr "~Accepta"
 
+#. gO5r
 #: testtool.src#TT_INLINE_TRANSLATION.TT_PB_NEXT.pushbutton.text
 msgid "~Next"
 msgstr "Següe~nt"
 
+#. YW8s
 #: testtool.src#TT_INLINE_TRANSLATION.workwindow.text
 msgid "Inplace Translation"
 msgstr "Traducció local"
 
+#. cUPo
 #: testtool.src#TT_DISCARD_CHANGED_DATA.messbox.text
 msgid "The Translation will be lost. Proceed anyway?"
 msgstr "La traducció es perdrà. Voleu continuar?"
 
+#. G1g3
 #: testtool.src#TT_NO_CONTROL.errorbox.text
 msgid "The Control is no longer valid. The Translation cannot be saved."
 msgstr "El control ja no és vàlid. No es pot alçar la traducció."
 
+#. LKQf
 #: testtool.src#TT_GPF.string.text
 msgid "GPF occurred"
 msgstr "S'ha produït un error de protecció general"
 
+#. xQtq
 #: testtool.src#TT_ALTERNATE_CAPTION.string.text
 msgid "HelpID does not match UniqueID: "
-msgstr "L'identificador únic (UniqueID) no coincideix amb l'identificador d'ajuda (HelpID): "
+msgstr ""
+"L'identificador únic (UniqueID) no coincideix amb l'identificador d'ajuda "
+"(HelpID): "

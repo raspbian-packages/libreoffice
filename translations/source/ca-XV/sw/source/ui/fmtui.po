@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+sw%2Fsource%2Fui%2Ffmtui.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+sw%2Fsource%2Fui%2Ffmtui.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:41+0200\n"
 "PO-Revision-Date: 2011-04-05 19:16+0200\n"
 "Last-Translator: jmontane <joan@montane.cat>\n"
@@ -15,203 +17,248 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. Hzux
 #: tmpdlg.src#DLG_TEMPLATE_1.1.TP_CHAR_STD.pageitem.text
 msgctxt "tmpdlg.src#DLG_TEMPLATE_1.1.TP_CHAR_STD.pageitem.text"
 msgid "Font"
 msgstr "Tipus de lletra"
 
+#. Ampx
 #: tmpdlg.src#DLG_TEMPLATE_1.1.TP_CHAR_EXT.pageitem.text
 msgctxt "tmpdlg.src#DLG_TEMPLATE_1.1.TP_CHAR_EXT.pageitem.text"
 msgid "Font Effects"
 msgstr "Efectes del tipus de lletra"
 
+#. 5fPc
 #: tmpdlg.src#DLG_TEMPLATE_1.1.TP_CHAR_POS.pageitem.text
 msgctxt "tmpdlg.src#DLG_TEMPLATE_1.1.TP_CHAR_POS.pageitem.text"
 msgid "Position"
 msgstr "Posició"
 
+#. mytP
 #: tmpdlg.src#DLG_TEMPLATE_1.1.TP_CHAR_TWOLN.pageitem.text
 msgctxt "tmpdlg.src#DLG_TEMPLATE_1.1.TP_CHAR_TWOLN.pageitem.text"
 msgid "Asian Layout"
 msgstr "Disposició asiàtica"
 
+#. AaOq
 #: tmpdlg.src#DLG_TEMPLATE_1.1.TP_BACKGROUND.pageitem.text
 msgctxt "tmpdlg.src#DLG_TEMPLATE_1.1.TP_BACKGROUND.pageitem.text"
 msgid "Background"
 msgstr "Fons"
 
+#. 40fV
 #: tmpdlg.src#DLG_TEMPLATE_1.tabdialog.text
 msgid "Character Style"
 msgstr "Estil del caràcter"
 
+#. ylY1
 #: tmpdlg.src#DLG_TEMPLATE_2.1.TP_PARA_STD.pageitem.text
 msgid "Indents & Spacing"
 msgstr "Sagnats i espaiat"
 
+#. hrGe
 #: tmpdlg.src#DLG_TEMPLATE_2.1.TP_PARA_ALIGN.pageitem.text
 msgid "Alignment"
 msgstr "Alineació"
 
+#. dYf1
 #: tmpdlg.src#DLG_TEMPLATE_2.1.TP_PARA_EXT.pageitem.text
 msgid "Text Flow"
 msgstr "Flux del text"
 
+#. YLEa
 #: tmpdlg.src#DLG_TEMPLATE_2.1.TP_PARA_ASIAN.pageitem.text
 msgid "Asian Typography"
 msgstr "Tipografia asiàtica"
 
+#. Cbrp
 #: tmpdlg.src#DLG_TEMPLATE_2.1.TP_CHAR_STD.pageitem.text
 msgctxt "tmpdlg.src#DLG_TEMPLATE_2.1.TP_CHAR_STD.pageitem.text"
 msgid "Font"
 msgstr "Tipus de lletra"
 
+#. Ne#p
 #: tmpdlg.src#DLG_TEMPLATE_2.1.TP_CHAR_EXT.pageitem.text
 msgctxt "tmpdlg.src#DLG_TEMPLATE_2.1.TP_CHAR_EXT.pageitem.text"
 msgid "Font Effects"
 msgstr "Efectes del tipus de lletra"
 
+#. OnKk
 #: tmpdlg.src#DLG_TEMPLATE_2.1.TP_CHAR_POS.pageitem.text
 msgctxt "tmpdlg.src#DLG_TEMPLATE_2.1.TP_CHAR_POS.pageitem.text"
 msgid "Position"
 msgstr "Posició"
 
+#. xZsR
 #: tmpdlg.src#DLG_TEMPLATE_2.1.TP_CHAR_TWOLN.pageitem.text
 msgctxt "tmpdlg.src#DLG_TEMPLATE_2.1.TP_CHAR_TWOLN.pageitem.text"
 msgid "Asian Layout"
 msgstr "Disposició asiàtica"
 
+#. 4lEA
 #: tmpdlg.src#DLG_TEMPLATE_2.1.TP_NUMPARA.pageitem.text
 msgid "Outline & Numbering"
 msgstr "Esquema i numeració"
 
+#. wfVV
 #: tmpdlg.src#DLG_TEMPLATE_2.1.TP_TABULATOR.pageitem.text
 msgid "Tabs"
 msgstr "Tabuladors"
 
+#. BKzu
 #: tmpdlg.src#DLG_TEMPLATE_2.1.TP_DROPCAPS.pageitem.text
 msgid "Drop Caps"
 msgstr "Inicials destacades"
 
+#. 1xPs
 #: tmpdlg.src#DLG_TEMPLATE_2.1.TP_BACKGROUND.pageitem.text
 msgctxt "tmpdlg.src#DLG_TEMPLATE_2.1.TP_BACKGROUND.pageitem.text"
 msgid "Background"
 msgstr "Fons"
 
+#. 96CR
 #: tmpdlg.src#DLG_TEMPLATE_2.1.TP_BORDER.pageitem.text
 msgctxt "tmpdlg.src#DLG_TEMPLATE_2.1.TP_BORDER.pageitem.text"
 msgid "Borders"
 msgstr "Vores"
 
+#. Gebh
 #: tmpdlg.src#DLG_TEMPLATE_2.1.TP_CONDCOLL.pageitem.text
 msgid "Condition"
 msgstr "Condició"
 
+#. M6T6
 #: tmpdlg.src#DLG_TEMPLATE_2.tabdialog.text
 msgid "Paragraph Style"
 msgstr "Estil de paràgraf"
 
+#. N5Ro
 #: tmpdlg.src#DLG_TEMPLATE_4.1.TP_BACKGROUND.pageitem.text
 msgctxt "tmpdlg.src#DLG_TEMPLATE_4.1.TP_BACKGROUND.pageitem.text"
 msgid "Background"
 msgstr "Fons"
 
+#. oArr
 #: tmpdlg.src#DLG_TEMPLATE_4.tabdialog.text
 msgid "Page Style"
 msgstr "Estil de pàgina"
 
+#. yiW6
 #: tmpdlg.src#STR_PAGE_STD.string.text
 msgid "Page"
 msgstr "Pàgina"
 
+#. FzRv
 #: tmpdlg.src#STR_PAGE_BORDER.string.text
 msgctxt "tmpdlg.src#STR_PAGE_BORDER.string.text"
 msgid "Borders"
 msgstr "Vores"
 
+#. gpsn
 #: tmpdlg.src#STR_PAGE_HEADER.string.text
 msgid "Header"
 msgstr "Capçalera"
 
+#. 0w2A
 #: tmpdlg.src#STR_PAGE_FOOTER.string.text
 msgid "Footer"
 msgstr "Peu de pàgina"
 
+#. vE4P
 #: tmpdlg.src#STR_PAGE_TEXTGRID.string.text
 msgid "Text Grid"
 msgstr "Graella de text"
 
+#. ygVp
 #: tmpdlg.src#STR_PAGE_COLUMN.string.text
 msgctxt "tmpdlg.src#STR_PAGE_COLUMN.string.text"
 msgid "Columns"
 msgstr "Columnes"
 
+#. wXNO
 #: tmpdlg.src#STR_PAGE_FOOTNOTE.string.text
 msgid "Footnote"
 msgstr "Nota al peu"
 
+#. 4ua9
 #: tmpdlg.src#DLG_TEMPLATE_3.1.TP_FRM_STD.pageitem.text
 msgid "Type"
 msgstr "Tipus"
 
+#. fKFT
 #: tmpdlg.src#DLG_TEMPLATE_3.1.TP_FRM_ADD.pageitem.text
 msgctxt "tmpdlg.src#DLG_TEMPLATE_3.1.TP_FRM_ADD.pageitem.text"
 msgid "Options"
 msgstr "Opcions"
 
+#. eBVb
 #: tmpdlg.src#DLG_TEMPLATE_3.1.TP_FRM_WRAP.pageitem.text
 msgid "Wrap"
 msgstr "Ajusta"
 
+#. unct
 #: tmpdlg.src#DLG_TEMPLATE_3.1.TP_BACKGROUND.pageitem.text
 msgctxt "tmpdlg.src#DLG_TEMPLATE_3.1.TP_BACKGROUND.pageitem.text"
 msgid "Background"
 msgstr "Fons"
 
+#. g9m_
 #: tmpdlg.src#DLG_TEMPLATE_3.1.TP_BORDER.pageitem.text
 msgctxt "tmpdlg.src#DLG_TEMPLATE_3.1.TP_BORDER.pageitem.text"
 msgid "Borders"
 msgstr "Vores"
 
+#. CRss
 #: tmpdlg.src#DLG_TEMPLATE_3.1.TP_COLUMN.pageitem.text
 msgctxt "tmpdlg.src#DLG_TEMPLATE_3.1.TP_COLUMN.pageitem.text"
 msgid "Columns"
 msgstr "Columnes"
 
+#. _uXk
 #: tmpdlg.src#DLG_TEMPLATE_3.1.TP_MACRO_ASSIGN.pageitem.text
 msgid "Macro"
 msgstr "Macro"
 
+#. ngIk
 #: tmpdlg.src#DLG_TEMPLATE_3.tabdialog.text
 msgid "Frame Style"
 msgstr "Estil del marc"
 
+#. jU71
 #: tmpdlg.src#DLG_TEMPLATE_5.1.RID_SVXPAGE_PICK_BULLET.pageitem.text
 msgid "Bullets"
 msgstr "Pics"
 
+#. ZQUf
 #: tmpdlg.src#DLG_TEMPLATE_5.1.RID_SVXPAGE_PICK_SINGLE_NUM.pageitem.text
 msgctxt "tmpdlg.src#DLG_TEMPLATE_5.1.RID_SVXPAGE_PICK_SINGLE_NUM.pageitem.text"
 msgid "Numbering Style"
 msgstr "Estil de numeració"
 
+#. 7ZAI
 #: tmpdlg.src#DLG_TEMPLATE_5.1.RID_SVXPAGE_PICK_NUM.pageitem.text
 msgid "Outline"
 msgstr "Esquema"
 
+#. WhET
 #: tmpdlg.src#DLG_TEMPLATE_5.1.RID_SVXPAGE_PICK_BMP.pageitem.text
 msgid "Graphics"
 msgstr "Gràfics"
 
+#. zSKS
 #: tmpdlg.src#DLG_TEMPLATE_5.1.RID_SVXPAGE_NUM_POSITION.pageitem.text
 msgctxt "tmpdlg.src#DLG_TEMPLATE_5.1.RID_SVXPAGE_NUM_POSITION.pageitem.text"
 msgid "Position"
 msgstr "Posició"
 
+#. rMGY
 #: tmpdlg.src#DLG_TEMPLATE_5.1.RID_SVXPAGE_NUM_OPTIONS.pageitem.text
 msgctxt "tmpdlg.src#DLG_TEMPLATE_5.1.RID_SVXPAGE_NUM_OPTIONS.pageitem.text"
 msgid "Options"
 msgstr "Opcions"
 
+#. LcwT
 #: tmpdlg.src#DLG_TEMPLATE_5.tabdialog.text
 msgctxt "tmpdlg.src#DLG_TEMPLATE_5.tabdialog.text"
 msgid "Numbering Style"

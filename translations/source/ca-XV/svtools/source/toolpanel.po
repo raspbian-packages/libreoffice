@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+svtools%2Fsource%2Ftoolpanel.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+svtools%2Fsource%2Ftoolpanel.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:41+0200\n"
 "PO-Revision-Date: 2011-04-05 19:15+0200\n"
 "Last-Translator: jmontane <joan@montane.cat>\n"
@@ -15,10 +17,12 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. 52XT
 #: toolpanel.src#STR_SVT_TOOL_PANEL_BUTTON_FWD.string.text
 msgid "Tab Panel Scroll Button, backward"
 msgstr "Botó de desplaçament de la subfinestra de pestanyes, arrere"
 
+#. yv3I
 #: toolpanel.src#STR_SVT_TOOL_PANEL_BUTTON_BACK.string.text
 msgid "Tab Panel Scroll Button, forward"
 msgstr "Botó de desplaçament de la subfinestra de pestanyes, avant"

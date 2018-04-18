@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+extensions%2Fsource%2Fbibliography.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+extensions%2Fsource%2Fbibliography.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
 "PO-Revision-Date: 2011-04-05 19:11+0200\n"
 "Last-Translator: jmontane <joan@montane.cat>\n"
@@ -15,301 +17,375 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. lhN7
 #: bib.src#RID_BIB_STR_FIELDSELECTION.string.text
 msgid "Field selection:"
 msgstr "Selecció de camp:"
 
+#. TCzR
 #: bib.src#RID_BIB_STR_TABWIN_PREFIX.string.text
 msgid "Table;Query;Sql;Sql [Native]"
 msgstr "Taula;Consulta;SQL;SQL (natiu)"
 
+#. Vs0a
 #: bib.src#RID_BIB_STR_FRAME_TITLE.string.text
 msgid "Bibliography Database"
 msgstr "Base de dades bibliogràfica"
 
+#. dUZ0
 #: bib.src#RID_MAP_QUESTION.string.text
 msgid "Do you want to edit the column arrangement?"
 msgstr "Voleu editar la disposició de les columnes?"
 
+#. BsNH
 #: sections.src#RID_TP_GENERAL.ST_ERROR_PREFIX.string.text
 msgid "The following column names could not be assigned:\n"
 msgstr "Els noms de columna següents no es poden assignar:\n"
 
+#. 2Oas
 #: sections.src#RID_TP_GENERAL.ST_TYPE_ARTICLE.string.text
 msgid "Article"
 msgstr "Article"
 
+#. VsQn
 #: sections.src#RID_TP_GENERAL.ST_TYPE_BOOK.string.text
 msgid "Book"
 msgstr "Llibre"
 
+#. 0dWu
 #: sections.src#RID_TP_GENERAL.ST_TYPE_BOOKLET.string.text
 msgid "Brochures"
 msgstr "Fullets"
 
+#. 4rsT
 #: sections.src#RID_TP_GENERAL.ST_TYPE_CONFERENCE.string.text
 msgctxt "sections.src#RID_TP_GENERAL.ST_TYPE_CONFERENCE.string.text"
 msgid "Conference proceedings"
 msgstr "Procediment de conferència"
 
+#. ACEL
 #: sections.src#RID_TP_GENERAL.ST_TYPE_INBOOK.string.text
 msgid "Book excerpt"
 msgstr "Extracte de llibre"
 
+#. a01v
 #: sections.src#RID_TP_GENERAL.ST_TYPE_INCOLLECTION.string.text
 msgid "Book excerpt with title"
 msgstr "Extracte de llibre amb el títol"
 
+#. Qx7b
 #: sections.src#RID_TP_GENERAL.ST_TYPE_INPROCEEDINGS.string.text
 msgctxt "sections.src#RID_TP_GENERAL.ST_TYPE_INPROCEEDINGS.string.text"
 msgid "Conference proceedings"
 msgstr "Procediment de conferència"
 
+#. bb7d
 #: sections.src#RID_TP_GENERAL.ST_TYPE_JOURNAL.string.text
 msgid "Journal"
 msgstr "Diari"
 
+#. OZSN
 #: sections.src#RID_TP_GENERAL.ST_TYPE_MANUAL.string.text
 msgid "Techn. documentation"
 msgstr "Manual"
 
+#. IQyT
 #: sections.src#RID_TP_GENERAL.ST_TYPE_MASTERSTHESIS.string.text
 msgid "Thesis"
 msgstr "Tesi"
 
+#. mYG_
 #: sections.src#RID_TP_GENERAL.ST_TYPE_MISC.string.text
 msgid "Miscellaneous"
 msgstr "Miscel·lània"
 
+#. MURb
 #: sections.src#RID_TP_GENERAL.ST_TYPE_PHDTHESIS.string.text
 msgid "Dissertation"
 msgstr "Dissertació"
 
+#. #jqQ
 #: sections.src#RID_TP_GENERAL.ST_TYPE_PROCEEDINGS.string.text
 msgctxt "sections.src#RID_TP_GENERAL.ST_TYPE_PROCEEDINGS.string.text"
 msgid "Conference proceedings"
 msgstr "Acta d'una conferència"
 
+#. ZydY
 #: sections.src#RID_TP_GENERAL.ST_TYPE_TECHREPORT.string.text
 msgid "Research report"
 msgstr "Informe de recerca"
 
+#. um2r
 #: sections.src#RID_TP_GENERAL.ST_TYPE_UNPUBLISHED.string.text
 msgid "Unpublished"
 msgstr "No publicat"
 
+#. CKFH
 #: sections.src#RID_TP_GENERAL.ST_TYPE_EMAIL.string.text
 msgid "e-mail"
 msgstr "correu electrònic"
 
+#. xz4f
 #: sections.src#RID_TP_GENERAL.ST_TYPE_WWW.string.text
 msgid "WWW document"
 msgstr "Document WWW"
 
+#. m9K8
 #: sections.src#RID_TP_GENERAL.ST_TYPE_CUSTOM1.string.text
 msgid "User-defined1"
 msgstr "Definit per l'usuari 1"
 
+#. 9y6Z
 #: sections.src#RID_TP_GENERAL.ST_TYPE_CUSTOM2.string.text
 msgid "User-defined2"
 msgstr "Definit per l'usuari 2"
 
+#. Ul8w
 #: sections.src#RID_TP_GENERAL.ST_TYPE_CUSTOM3.string.text
 msgid "User-defined3"
 msgstr "Definit per l'usuari 3"
 
+#. 0a7K
 #: sections.src#RID_TP_GENERAL.ST_TYPE_CUSTOM4.string.text
 msgid "User-defined4"
 msgstr "Definit per l'usuari 4"
 
+#. Nt9D
 #: sections.src#RID_TP_GENERAL.ST_TYPE_CUSTOM5.string.text
 msgid "User-defined5"
 msgstr "Definit per l'usuari 5"
 
+#. BWhm
 #: sections.src#RID_TP_GENERAL.tabpage.text
 msgid "General"
 msgstr "General"
 
+#. UnUN
 #: sections.src#RID_POPUP_ME_VIEW.PU_INSERT.menuitem.text
 msgid "Insert Section..."
 msgstr "Insereix una secció..."
 
+#. 7IwX
 #: sections.src#RID_POPUP_ME_VIEW.PU_REMOVE.menuitem.text
 msgid "Delete Section..."
 msgstr "Suprimeix una secció..."
 
+#. xD7X
 #: sections.src#RID_POPUP_ME_VIEW.PU_CHG_NAME.menuitem.text
 msgid "Modify Name..."
 msgstr "Modifica el nom..."
 
+#. w_TF
 #: sections.src#ST_IDENTIFIER.string.text
 msgid "~Short name"
 msgstr "~Abreviatura"
 
+#. OXJY
 #: sections.src#ST_AUTHTYPE.string.text
 msgid "~Type"
 msgstr "~Tipus"
 
+#. lMkF
 #: sections.src#ST_YEAR.string.text
 msgid "~Year"
 msgstr "~Any"
 
+#. lkws
 #: sections.src#ST_AUTHOR.string.text
 msgid "Author(s)"
 msgstr "Autor(s)"
 
+#. edRf
 #: sections.src#ST_TITLE.string.text
 msgid "Tit~le"
 msgstr "Títo~l"
 
+#. Uoi3
 #: sections.src#ST_PUBLISHER.string.text
 msgid "~Publisher"
 msgstr "~Editor"
 
+#. x1ZD
 #: sections.src#ST_ADDRESS.string.text
 msgid "A~ddress"
 msgstr "~Adreça"
 
+#. AeVv
 #: sections.src#ST_ISBN.string.text
 msgid "~ISBN"
 msgstr "~ISBN"
 
+#. bx#B
 #: sections.src#ST_CHAPTER.string.text
 msgid "~Chapter"
 msgstr "~Capítol"
 
+#. XZKr
 #: sections.src#ST_PAGE.string.text
 msgid "Pa~ge(s)"
 msgstr "~Pàgina(es)"
 
+#. Nz4B
 #: sections.src#ST_EDITOR.string.text
 msgid "Editor"
 msgstr "~Coeditor"
 
+#. l5A3
 #: sections.src#ST_EDITION.string.text
 msgid "Ed~ition"
 msgstr "~Edició"
 
+#. m1t#
 #: sections.src#ST_BOOKTITLE.string.text
 msgid "~Book title"
 msgstr "~Títol del llibre"
 
+#. 0HV6
 #: sections.src#ST_VOLUME.string.text
 msgid "Volume"
 msgstr "Volum"
 
+#. 9#Y6
 #: sections.src#ST_HOWPUBLISHED.string.text
 msgid "Publication t~ype"
 msgstr "Tip~vos de publicació"
 
+#. xnUO
 #: sections.src#ST_ORGANIZATION.string.text
 msgid "Organi~zation"
 msgstr "~Organització"
 
+#. FfNa
 #: sections.src#ST_INSTITUTION.string.text
 msgid "Instit~ution"
 msgstr "I~nstitució"
 
+#. v7n9
 #: sections.src#ST_SCHOOL.string.text
 msgid "University"
 msgstr "Universitat"
 
+#. Q5lE
 #: sections.src#ST_REPORT.string.text
 msgid "Type of re~port"
 msgstr "Tipus de procediment"
 
+#. HZD9
 #: sections.src#ST_MONTH.string.text
 msgid "~Month"
 msgstr "~Mes"
 
+#. Prqh
 #: sections.src#ST_JOURNAL.string.text
 msgid "~Journal"
 msgstr "~Revista"
 
+#. gl3A
 #: sections.src#ST_NUMBER.string.text
 msgid "Numb~er"
 msgstr "~Número"
 
+#. kIgc
 #: sections.src#ST_SERIES.string.text
 msgid "Se~ries"
 msgstr "~Sèrie"
 
+#. LORK
 #: sections.src#ST_ANNOTE.string.text
 msgid "Ann~otation"
 msgstr "An~otació"
 
+#. aLv3
 #: sections.src#ST_NOTE.string.text
 msgid "~Note"
 msgstr "~Nota"
 
+#. O5Ud
 #: sections.src#ST_URL.string.text
 msgid "URL"
 msgstr "URL"
 
+#. CPd4
 #: sections.src#ST_CUSTOM1.string.text
 msgid "User-defined field ~1"
 msgstr "Camp definit per l'usuari ~1"
 
+#. rirl
 #: sections.src#ST_CUSTOM2.string.text
 msgid "User-defined field ~2"
 msgstr "Camp definit per l'usuari ~2"
 
+#. Y_xs
 #: sections.src#ST_CUSTOM3.string.text
 msgid "User-defined field ~3"
 msgstr "Camp definit per l'usuari ~3"
 
+#. yqqO
 #: sections.src#ST_CUSTOM4.string.text
 msgid "User-defined field ~4"
 msgstr "Camp definit per l'usuari ~4"
 
+#. hdw1
 #: sections.src#ST_CUSTOM5.string.text
 msgid "User-defined field ~5"
 msgstr "Camp definit per l'usuari ~5"
 
+#. bN_N
 #: toolbar.src#RID_BIB_TOOLBAR.TBC_FT_SOURCE.toolboxitem.text
 msgid "Table"
 msgstr "Taula"
 
+#. syfl
 #: toolbar.src#RID_BIB_TOOLBAR.TBC_FT_QUERY.toolboxitem.text
 msgid "Search Key"
 msgstr "Clau de cerca"
 
+#. 24lq
 #: toolbar.src#RID_BIB_TOOLBAR.TBC_BT_AUTOFILTER.toolboxitem.text
 msgid "AutoFilter"
 msgstr "Filtre automàtic"
 
+#. qIRD
 #: toolbar.src#RID_BIB_TOOLBAR.TBC_BT_FILTERCRIT.toolboxitem.text
 msgid "Standard Filter"
 msgstr "Filtre estàndard"
 
+#. 2jhi
 #: toolbar.src#RID_BIB_TOOLBAR.TBC_BT_REMOVEFILTER.toolboxitem.text
 msgid "Remove Filter"
 msgstr "Suprimeix el filtre"
 
+#. Kr2b
 #: toolbar.src#RID_BIB_TOOLBAR.TBC_BT_COL_ASSIGN.toolboxitem.text
 msgid "Column Arrangement"
 msgstr "Configuració de les columnes"
 
+#. 0RH5
 #: toolbar.src#RID_BIB_TOOLBAR.TBC_BT_CHANGESOURCE.toolboxitem.text
 msgid "Data Source"
 msgstr "Font de dades"
 
+#. LPjG
 #: datman.src#RID_DLG_MAPPING.GB_MAPPING.fixedline.text
 msgid "Column names"
 msgstr "Noms de columna"
 
+#. GN_Z
 #: datman.src#RID_DLG_MAPPING.ST_NONE.string.text
 msgid "<none>"
 msgstr "<cap>"
 
+#. RQlj
 #: datman.src#RID_DLG_MAPPING.modaldialog.text
 msgid "Column Layout for Table %1"
 msgstr "Disposició de les columnes per a la taula %1"
 
+#. N1qI
 #: datman.src#RID_DLG_DBCHANGE.ST_ENTRY.string.text
 msgid "Entry"
 msgstr "Entrada"
 
+#. EkgS
 #: datman.src#RID_DLG_DBCHANGE.modaldialog.text
 msgid "Choose Data Source"
 msgstr "Seleccioneu la font de dades"

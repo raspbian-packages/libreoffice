@@ -2,834 +2,1031 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+cui%2Fsource%2Ftabpages.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment="
+"&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%"
+"3A+cui%2Fsource%2Ftabpages.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:41+0200\n"
-"PO-Revision-Date: 2012-01-26 18:00+0200\n"
-"Last-Translator: Jesús <jesus@softcatala.org>\n"
+"PO-Revision-Date: 2012-03-18 15:14+0200\n"
+"Last-Translator: Joan <joan@montane.cat>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ca-XV\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ca-XV\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Pootle 2.1.6\n"
 "X-Accelerator-Marker: ~\n"
 
+#. g5rI
 #: macroass.src#RID_SVXPAGE_EVENTASSIGN.STR_EVENT.string.text
 msgid "Event"
 msgstr "Esdeveniment"
 
+#. d0lr
 #: macroass.src#RID_SVXPAGE_EVENTASSIGN.STR_ASSMACRO.string.text
 msgid "Assigned macro"
 msgstr "Macro assignada"
 
+#. ugcM
 #: macroass.src#RID_SVXPAGE_EVENTASSIGN.FT_LABEL4LB_MACROS.fixedtext.text
 msgid "~Existing macros\n"
 msgstr "Macros ~existents\n"
 
+#. UlPV
 #: macroass.src#RID_SVXPAGE_EVENTASSIGN.PB_ASSIGN.pushbutton.text
 msgid "~Assign"
 msgstr "~Assigna"
 
+#. nqoN
 #: macroass.src#RID_SVXPAGE_EVENTASSIGN.PB_DELETE.pushbutton.text
 msgid "~Remove"
 msgstr "Sup~rimeix"
 
+#. qGNo
 #: macroass.src#RID_SVXPAGE_EVENTASSIGN.STR_MACROS.string.text
 msgid "Macros"
 msgstr "Macros"
 
+#. lfHI
 #: macroass.src#RID_SVXPAGE_EVENTASSIGN.tabpage.text
 msgid "Assign Macro"
 msgstr "Assigna la macro"
 
+#. Yd93
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.FL_POSITION.fixedline.text
 msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.FL_POSITION.fixedline.text"
 msgid "Position"
 msgstr "Posició"
 
+#. GRjM
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.FT_POS_X.fixedtext.text
 msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.FT_POS_X.fixedtext.text"
 msgid "Position ~X"
 msgstr "Posició ~X"
 
+#. ttY#
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.FT_POS_Y.fixedtext.text
 msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.FT_POS_Y.fixedtext.text"
 msgid "Position ~Y"
 msgstr "Posició ~Y"
 
+#. a8f8
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.FT_POSREFERENCE.fixedtext.text
 msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.FT_POSREFERENCE.fixedtext.text"
 msgid "Base point"
 msgstr "Punt base"
 
+#. Zt11
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.CTL_POSRECT.control.text
 msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.CTL_POSRECT.control.text"
 msgid "-"
 msgstr "-"
 
+#. BWvI
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.CTL_POSRECT.control.quickhelptext
-msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.CTL_POSRECT.control.quickhelptext"
+msgctxt ""
+"transfrm.src#RID_SVXPAGE_POSITION_SIZE.CTL_POSRECT.control.quickhelptext"
 msgid "Base point"
 msgstr "Punt base"
 
+#. XMk3
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.FL_SIZE.fixedline.text
 msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.FL_SIZE.fixedline.text"
 msgid "Size"
 msgstr "Mida"
 
+#. o8GR
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.FT_WIDTH.fixedtext.text
 msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.FT_WIDTH.fixedtext.text"
 msgid "Wi~dth"
 msgstr "Ampla~da"
 
+#. V8pV
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.FT_HEIGHT.fixedtext.text
 msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.FT_HEIGHT.fixedtext.text"
 msgid "H~eight"
 msgstr "A~lçada"
 
+#. hVYE
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.FT_SIZEREFERENCE.fixedtext.text
-msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.FT_SIZEREFERENCE.fixedtext.text"
+msgctxt ""
+"transfrm.src#RID_SVXPAGE_POSITION_SIZE.FT_SIZEREFERENCE.fixedtext.text"
 msgid "Base point"
 msgstr "Punt base"
 
+#. SonK
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.CTL_SIZERECT.control.text
 msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.CTL_SIZERECT.control.text"
 msgid "-"
 msgstr "-"
 
+#. cf#U
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.CTL_SIZERECT.control.quickhelptext
-msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.CTL_SIZERECT.control.quickhelptext"
+msgctxt ""
+"transfrm.src#RID_SVXPAGE_POSITION_SIZE.CTL_SIZERECT.control.quickhelptext"
 msgid "Base point"
 msgstr "Punt base"
 
+#. X3ts
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.CBX_SCALE.checkbox.text
 msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.CBX_SCALE.checkbox.text"
 msgid "~Keep ratio"
 msgstr "C~onserva la relació"
 
+#. pNi0
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.FL_PROTECT.fixedline.text
 msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.FL_PROTECT.fixedline.text"
 msgid "Protect"
 msgstr "Protegeix"
 
+#. 1LZf
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.TSB_POSPROTECT.tristatebox.text
-msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.TSB_POSPROTECT.tristatebox.text"
+msgctxt ""
+"transfrm.src#RID_SVXPAGE_POSITION_SIZE.TSB_POSPROTECT.tristatebox.text"
 msgid "Position"
 msgstr "Posició"
 
+#. yb0r
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.TSB_SIZEPROTECT.tristatebox.text
-msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.TSB_SIZEPROTECT.tristatebox.text"
+msgctxt ""
+"transfrm.src#RID_SVXPAGE_POSITION_SIZE.TSB_SIZEPROTECT.tristatebox.text"
 msgid "~Size"
 msgstr "~Mida"
 
+#. Zd1Q
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.FL_ADJUST.fixedline.text
 msgid "Adapt"
 msgstr "Adapta"
 
+#. yovO
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.TSB_AUTOGROW_WIDTH.tristatebox.text
 msgid "~Fit width to text"
 msgstr "~Ajusta el text a l'amplada"
 
+#. KWNy
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.TSB_AUTOGROW_HEIGHT.tristatebox.text
 msgid "Fit ~height to text"
 msgstr "Aj~usta el text a l'alçada"
 
+#. oIWK
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.FL_ANCHOR.fixedline.text
 msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.FL_ANCHOR.fixedline.text"
 msgid "Anchor"
 msgstr "Àncora"
 
+#. 43Nh
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.FT_ANCHOR.fixedtext.text
 msgid "~Anchor"
 msgstr "À~ncora"
 
+#. jbW9
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ANCHOR.1.stringlist.text
 msgid "To paragraph"
 msgstr "Al paràgraf"
 
+#. 1PPx
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ANCHOR.2.stringlist.text
 msgid "As character"
 msgstr "Com a caràcter"
 
+#. CSIA
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ANCHOR.3.stringlist.text
 msgid "To page"
 msgstr "A la pàgina"
 
+#. YJE_
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ANCHOR.4.stringlist.text
 msgid "To frame"
 msgstr "Al marc"
 
+#. O_B9
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.FT_ORIENT.fixedtext.text
 msgid "P~osition"
 msgstr "P~osició"
 
+#. pLdZ
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.1.stringlist.text
 msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.1.stringlist.text"
 msgid "From top"
 msgstr "Des de la part superior"
 
+#. VfUH
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.2.stringlist.text
 msgid "Above"
 msgstr "A sobre"
 
+#. IiLW
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.3.stringlist.text
 msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.3.stringlist.text"
 msgid "Centered"
 msgstr "Centrat"
 
+#. yZ9L
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.4.stringlist.text
 msgid "Below"
 msgstr "Sota"
 
+#. nc2a
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.5.stringlist.text
 msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.5.stringlist.text"
 msgid "Top of character"
 msgstr "Sobre el caràcter"
 
+#. TQxM
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.6.stringlist.text
 msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.6.stringlist.text"
 msgid "Center of character"
 msgstr "Al centre del caràcter"
 
+#. GVmd
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.7.stringlist.text
 msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.7.stringlist.text"
 msgid "Bottom of character"
 msgstr "Sota el caràcter"
 
+#. wsdT
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.8.stringlist.text
 msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.8.stringlist.text"
 msgid "Top of line"
 msgstr "Part superior de la línia"
 
+#. tpii
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.9.stringlist.text
 msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.9.stringlist.text"
 msgid "Center of line"
 msgstr "Al centre de la línia"
 
+#. khV1
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.10.stringlist.text
 msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.LB_ORIENT.10.stringlist.text"
 msgid "Bottom of line"
 msgstr "Sota la línia"
 
+#. eLRg
 #: transfrm.src#RID_SVXPAGE_POSITION_SIZE.tabpage.text
 msgctxt "transfrm.src#RID_SVXPAGE_POSITION_SIZE.tabpage.text"
 msgid "Position and Size"
 msgstr "Posició i mida"
 
+#. d5yz
 #: transfrm.src#RID_SVXPAGE_ANGLE.FL_POSITION.fixedline.text
 msgid "Pivot point"
 msgstr "Punt de gir"
 
+#. qVxv
 #: transfrm.src#RID_SVXPAGE_ANGLE.FT_POS_X.fixedtext.text
 msgctxt "transfrm.src#RID_SVXPAGE_ANGLE.FT_POS_X.fixedtext.text"
 msgid "Position ~X"
 msgstr "Posició ~X"
 
+#. JpqH
 #: transfrm.src#RID_SVXPAGE_ANGLE.FT_POS_Y.fixedtext.text
 msgctxt "transfrm.src#RID_SVXPAGE_ANGLE.FT_POS_Y.fixedtext.text"
 msgid "Position ~Y"
 msgstr "Posició ~Y"
 
+#. 04Tt
 #: transfrm.src#RID_SVXPAGE_ANGLE.FT_POSPRESETS.fixedtext.text
 msgctxt "transfrm.src#RID_SVXPAGE_ANGLE.FT_POSPRESETS.fixedtext.text"
 msgid "Default settings"
 msgstr "Paràmetres per defecte"
 
+#. taeV
 #: transfrm.src#RID_SVXPAGE_ANGLE.CTL_RECT.control.text
 msgctxt "transfrm.src#RID_SVXPAGE_ANGLE.CTL_RECT.control.text"
 msgid "-"
 msgstr "-"
 
+#. pFD8
 #: transfrm.src#RID_SVXPAGE_ANGLE.CTL_RECT.control.quickhelptext
 msgid "Rotation point"
 msgstr "Punt de rotació"
 
+#. oyd8
 #: transfrm.src#RID_SVXPAGE_ANGLE.FL_ANGLE.fixedline.text
 msgid "Rotation angle"
 msgstr "Angle de gir"
 
+#. 6Rm8
 #: transfrm.src#RID_SVXPAGE_ANGLE.FT_ANGLE.fixedtext.text
 msgctxt "transfrm.src#RID_SVXPAGE_ANGLE.FT_ANGLE.fixedtext.text"
 msgid "~Angle"
 msgstr "A~ngle"
 
+#. UtlN
 #: transfrm.src#RID_SVXPAGE_ANGLE.MTR_FLD_ANGLE.metricfield.text
 msgctxt "transfrm.src#RID_SVXPAGE_ANGLE.MTR_FLD_ANGLE.metricfield.text"
 msgid " degrees"
 msgstr " graus"
 
+#. 88nX
 #: transfrm.src#RID_SVXPAGE_ANGLE.FT_ANGLEPRESETS.fixedtext.text
 msgctxt "transfrm.src#RID_SVXPAGE_ANGLE.FT_ANGLEPRESETS.fixedtext.text"
 msgid "Default settings"
 msgstr "Paràmetres per defecte"
 
+#. pBDy
 #: transfrm.src#RID_SVXPAGE_ANGLE.CTL_ANGLE.control.text
 msgctxt "transfrm.src#RID_SVXPAGE_ANGLE.CTL_ANGLE.control.text"
 msgid "-"
 msgstr "-"
 
+#. nYby
 #: transfrm.src#RID_SVXPAGE_ANGLE.CTL_ANGLE.control.quickhelptext
 msgid "Rotation Angle"
 msgstr "Angle de rotació"
 
+#. yfzS
 #: transfrm.src#RID_SVXPAGE_ANGLE.tabpage.text
 msgid "Angle"
 msgstr "Angle"
 
+#. yQrP
 #: transfrm.src#RID_SVXPAGE_SLANT.FL_RADIUS.fixedline.text
 msgid "Corner radius"
 msgstr "Radi de la cantonada"
 
+#. AB2c
 #: transfrm.src#RID_SVXPAGE_SLANT.FT_RADIUS.fixedtext.text
 msgid "~Radius"
 msgstr "~Radi"
 
+#. b7LL
 #: transfrm.src#RID_SVXPAGE_SLANT.FL_SLANT.fixedline.text
 msgid "Slant"
 msgstr "Inclinació"
 
+#. UyO2
 #: transfrm.src#RID_SVXPAGE_SLANT.FT_ANGLE.fixedtext.text
 msgctxt "transfrm.src#RID_SVXPAGE_SLANT.FT_ANGLE.fixedtext.text"
 msgid "~Angle"
 msgstr "A~ngle"
 
+#. YuZ3
 #: transfrm.src#RID_SVXPAGE_SLANT.MTR_FLD_ANGLE.metricfield.text
 msgctxt "transfrm.src#RID_SVXPAGE_SLANT.MTR_FLD_ANGLE.metricfield.text"
 msgid " degrees"
 msgstr " graus"
 
+#. cf#H
 #: transfrm.src#RID_SVXPAGE_SLANT.tabpage.text
 msgctxt "transfrm.src#RID_SVXPAGE_SLANT.tabpage.text"
 msgid "Slant & Corner Radius"
 msgstr "Inclinació i radi de la cantonada"
 
+#. HOGZ
 #: transfrm.src#_POS_SIZE_TEXT.#define.text
 msgctxt "transfrm.src#_POS_SIZE_TEXT.#define.text"
 msgid "Position and Size"
 msgstr "Posició i mida"
 
+#. 7tnz
 #: transfrm.src#RID_SVXDLG_TRANSFORM.TAB_CONTROL.RID_SVXPAGE_ANGLE.pageitem.text
 msgid "Rotation"
 msgstr "Gir"
 
+#. 6vNd
 #: transfrm.src#RID_SVXDLG_TRANSFORM.TAB_CONTROL.RID_SVXPAGE_SLANT.pageitem.text
-msgctxt "transfrm.src#RID_SVXDLG_TRANSFORM.TAB_CONTROL.RID_SVXPAGE_SLANT.pageitem.text"
+msgctxt ""
+"transfrm.src#RID_SVXDLG_TRANSFORM.TAB_CONTROL.RID_SVXPAGE_SLANT.pageitem.text"
 msgid "Slant & Corner Radius"
 msgstr "Inclinació i radi de la cantonada"
 
+#. v_6K
 #: transfrm.src#RID_SVXDLG_TRANSFORM.tabdialog.text
 msgctxt "transfrm.src#RID_SVXDLG_TRANSFORM.tabdialog.text"
 msgid "Position and Size"
 msgstr "Posició i mida"
 
+#. OPHD
 #: bbdlg.src#RID_SVXDLG_BBDLG.1.RID_SVXPAGE_BORDER.pageitem.text
 msgctxt "bbdlg.src#RID_SVXDLG_BBDLG.1.RID_SVXPAGE_BORDER.pageitem.text"
 msgid "Borders"
 msgstr "Vores"
 
+#. k5ab
 #: bbdlg.src#RID_SVXDLG_BBDLG.1.RID_SVXPAGE_BACKGROUND.pageitem.text
 msgctxt "bbdlg.src#RID_SVXDLG_BBDLG.1.RID_SVXPAGE_BACKGROUND.pageitem.text"
 msgid "Background"
 msgstr "Fons"
 
+#. PhO7
 #: bbdlg.src#RID_SVXDLG_BBDLG.tabdialog.text
 msgid "Border / Background"
 msgstr "Vora / fons"
 
+#. Ifyg
 #: backgrnd.src#UNLINKED_IMAGE.#define.text
 msgid "Unlinked graphic"
 msgstr "Gràfic no enllaçat"
 
+#. NR#H
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.FT_SELECTOR.fixedtext.text
 msgid "A~s"
 msgstr "C~om a"
 
+#. JNZw
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.LB_SELECTOR.1.stringlist.text
 msgctxt "backgrnd.src#RID_SVXPAGE_BACKGROUND.LB_SELECTOR.1.stringlist.text"
 msgid "Color"
 msgstr "Color"
 
+#. _hQ8
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.LB_SELECTOR.2.stringlist.text
 msgid "Graphic"
 msgstr "Gràfic"
 
+#. TyfQ
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.FT_TBL_DESC.fixedtext.text
 msgid "F~or"
 msgstr "P~er a"
 
+#. 9P_T
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.LB_TBL_BOX.1.stringlist.text
 msgid "Cell"
 msgstr "Cel·la"
 
+#. bb6l
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.LB_TBL_BOX.2.stringlist.text
 msgid "Row"
 msgstr "Fila"
 
+#. eWDU
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.LB_TBL_BOX.3.stringlist.text
 msgctxt "backgrnd.src#RID_SVXPAGE_BACKGROUND.LB_TBL_BOX.3.stringlist.text"
 msgid "Table"
 msgstr "Taula"
 
+#. n1Pf
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.LB_PARA_BOX.1.stringlist.text
 msgid "Paragraph"
 msgstr "Paràgraf"
 
+#. TzWR
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.LB_PARA_BOX.2.stringlist.text
 msgctxt "backgrnd.src#RID_SVXPAGE_BACKGROUND.LB_PARA_BOX.2.stringlist.text"
 msgid "Character"
 msgstr "Caràcter"
 
+#. ymb8
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.GB_BGDCOLOR.fixedline.text
 msgid "Background color"
 msgstr "Color del fons"
 
+#. nHTv
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.FT_COL_TRANS.fixedtext.text
 msgctxt "backgrnd.src#RID_SVXPAGE_BACKGROUND.FT_COL_TRANS.fixedtext.text"
 msgid "~Transparency"
 msgstr "~Transparència"
 
+#. 8fy#
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.GB_FILE.fixedline.text
 msgid "File"
 msgstr "Fitxer"
 
+#. 122I
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.BTN_BROWSE.pushbutton.text
 msgid "~Browse..."
 msgstr "~Navega..."
 
+#. pyqA
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.BTN_LINK.checkbox.text
 msgid "~Link"
 msgstr "En~llaç"
 
+#. mjfP
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.GB_POSITION.fixedline.text
 msgctxt "backgrnd.src#RID_SVXPAGE_BACKGROUND.GB_POSITION.fixedline.text"
 msgid "Type"
 msgstr "Tipus"
 
+#. 5o5q
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.BTN_POSITION.radiobutton.text
 msgctxt "backgrnd.src#RID_SVXPAGE_BACKGROUND.BTN_POSITION.radiobutton.text"
 msgid "~Position"
 msgstr "~Posició"
 
+#. nqiN
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.BTN_AREA.radiobutton.text
 msgid "Ar~ea"
 msgstr "Àr~ea"
 
+#. oQNG
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.BTN_TILE.radiobutton.text
 msgctxt "backgrnd.src#RID_SVXPAGE_BACKGROUND.BTN_TILE.radiobutton.text"
 msgid "~Tile"
 msgstr "~Mosaic"
 
+#. ZDeC
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.FL_GRAPH_TRANS.fixedline.text
 msgctxt "backgrnd.src#RID_SVXPAGE_BACKGROUND.FL_GRAPH_TRANS.fixedline.text"
 msgid "Transparency"
 msgstr "Transparència"
 
+#. GrFf
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.BTN_PREVIEW.checkbox.text
 msgid "Pre~view"
 msgstr "Pre~visualització"
 
+#. ok0J
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.STR_BROWSE.string.text
 msgid "Find graphics"
 msgstr "Cerca gràfics"
 
+#. a_md
 #: backgrnd.src#RID_SVXPAGE_BACKGROUND.tabpage.text
 msgctxt "backgrnd.src#RID_SVXPAGE_BACKGROUND.tabpage.text"
 msgid "Background"
 msgstr "Fons"
 
+#. XQNy
 #: numpages.src#RID_SVXPAGE_PICK_BULLET.FL_VALUES.fixedline.text
 msgctxt "numpages.src#RID_SVXPAGE_PICK_BULLET.FL_VALUES.fixedline.text"
 msgid "Selection"
 msgstr "Selecció"
 
+#. Cxvb
 #: numpages.src#RID_SVXPAGE_PICK_SINGLE_NUM.FL_VALUES.fixedline.text
 msgctxt "numpages.src#RID_SVXPAGE_PICK_SINGLE_NUM.FL_VALUES.fixedline.text"
 msgid "Selection"
 msgstr "Selecció"
 
+#. xs3s
 #: numpages.src#RID_SVXPAGE_PICK_NUM.FL_VALUES.fixedline.text
 msgctxt "numpages.src#RID_SVXPAGE_PICK_NUM.FL_VALUES.fixedline.text"
 msgid "Selection"
 msgstr "Selecció"
 
+#. 01KX
 #: numpages.src#RID_SVXPAGE_PICK_BMP.FL_VALUES.fixedline.text
 msgctxt "numpages.src#RID_SVXPAGE_PICK_BMP.FL_VALUES.fixedline.text"
 msgid "Selection"
 msgstr "Selecció"
 
+#. O4Yl
 #: numpages.src#RID_SVXPAGE_PICK_BMP.CB_LINKED.checkbox.text
 msgid "~Link graphics"
 msgstr "En~llaça els gràfics"
 
+#. _6HL
 #: numpages.src#RID_SVXPAGE_PICK_BMP.FT_ERROR.fixedtext.text
 msgid "The Gallery theme 'Bullets' is empty (no graphics)."
 msgstr "No hi ha cap gràfic al tema 'Pics' de la Galeria."
 
+#. 7qED
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_LEVEL.fixedtext.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_LEVEL.fixedtext.text"
 msgid "Level"
 msgstr "Nivell"
 
+#. IGZJ
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FL_FORMAT.fixedline.text
 msgid "Format"
 msgstr "Format"
 
+#. 2Yx6
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_FMT.fixedtext.text
 msgid "~Numbering"
 msgstr "~Numeració"
 
+# 100%
+#. mgHv
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.1.stringlist.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.1.stringlist.text"
 msgid "1, 2, 3, ..."
 msgstr "1, 2, 3..."
 
+# 100%
+#. SMeB
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.2.stringlist.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.2.stringlist.text"
 msgid "A, B, C, ..."
 msgstr "A, B, C..."
 
+#. HJZw
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.3.stringlist.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.3.stringlist.text"
 msgid "a, b, c, ..."
 msgstr "a, b, c..."
 
+# 100%
+#. _S_F
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.4.stringlist.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.4.stringlist.text"
 msgid "I, II, III, ..."
 msgstr "I, II, III..."
 
+# 100%
+#. oPq#
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.5.stringlist.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.5.stringlist.text"
 msgid "i, ii, iii, ..."
 msgstr "i, ii, iii..."
 
+# 95%
+#. UbDC
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.6.stringlist.text
 msgid "A, .., AA, .., AAA, ..."
 msgstr "A, .., AA, .., AAA, ... "
 
+#. JW6z
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.7.stringlist.text
 msgid "a, .., aa, .., aaa, ..."
 msgstr "a, .., aa, .., aaa..."
 
+#. v9H7
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.8.stringlist.text
 msgid "Bullet"
 msgstr "Pic"
 
+#. qCQs
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.9.stringlist.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.9.stringlist.text"
 msgid "Graphics"
 msgstr "Gràfics"
 
+#. QCbq
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.10.stringlist.text
 msgid "Linked graphics"
 msgstr "Gràfics enllaçats"
 
+#. N9k5
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.11.stringlist.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.11.stringlist.text"
 msgid "None"
 msgstr "Cap"
 
+#. xrNt
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.12.stringlist.text
 msgid "Native Numbering"
 msgstr "Numeració nativa"
 
+#. smS6
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.13.stringlist.text
 msgid "А, Б, .., Аа, Аб, ... (Bulgarian)"
 msgstr "А, Б, .., Аа, Аб... (búlgar)"
 
+#. O_0p
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.14.stringlist.text
 msgid "а, б, .., аа, аб, ... (Bulgarian)"
 msgstr "а, б, .., аа, аб... (búlgar)"
 
+#. LwB2
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.15.stringlist.text
 msgid "А, Б, .., Аа, Бб, ... (Bulgarian)"
 msgstr "А, Б, .., Аа, Бб... (búlgar)"
 
+#. v6om
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.16.stringlist.text
 msgid "а, б, .., аа, бб, ... (Bulgarian)"
 msgstr "а, б, .., аа, бб... (búlgar)"
 
+#. q3v1
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.17.stringlist.text
 msgid "А, Б, .., Аа, Аб, ... (Russian)"
 msgstr "А, Б, .., Аа, Аб... (rus)"
 
+#. Ugkx
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.18.stringlist.text
 msgid "а, б, .., аа, аб, ... (Russian)"
 msgstr "а, б, .., аа, аб... (rus)"
 
+#. JlbA
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.19.stringlist.text
 msgid "А, Б, .., Аа, Бб, ... (Russian)"
 msgstr "А, Б, .., Аа, Бб... (rus)"
 
+#. ZEeo
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.20.stringlist.text
 msgid "а, б, .., аа, бб, ... (Russian)"
 msgstr "а, б, .., аа, бб... (rus)"
 
+#. kBZ3
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.21.stringlist.text
 msgid "А, Б, .., Аа, Аб, ... (Serbian)"
 msgstr "А, Б, .., Аа, Аб... (serbi)"
 
+#. 2tQn
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.22.stringlist.text
 msgid "а, б, .., аа, аб, ... (Serbian)"
 msgstr "а, б, .., аа, аб... (serbi)"
 
+#. FoH0
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.23.stringlist.text
 msgid "А, Б, .., Аа, Бб, ... (Serbian)"
 msgstr "А, Б, .., Аа, Бб... (serbi)"
 
+#. XzDr
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.24.stringlist.text
 msgid "а, б, .., аа, бб, ... (Serbian)"
 msgstr "а, б, .., аа, бб... (serbi)"
 
+#. iu64
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.25.stringlist.text
 msgid "Α, Β, Γ, ... (Greek Upper Letter)"
-msgstr "Α, Β, Γ, ... (Lletres gregues en majúscules)"
+msgstr "Α, Β, Γ, ... (lletres gregues en majúscules)"
 
+#. 04_s
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_FMT.26.stringlist.text
 msgid "α, β, γ, ... (Greek Lower Letter)"
-msgstr "α, β, γ, ... (Lletres gregues en minúscules)"
+msgstr "α, β, γ, ... (lletres gregues en minúscules)"
 
+#. XrAu
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_PREFIX.fixedtext.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_PREFIX.fixedtext.text"
 msgid "Before"
 msgstr "Abans"
 
+#. snkb
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_SUFFIX.fixedtext.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_SUFFIX.fixedtext.text"
 msgid "After"
 msgstr "Després"
 
+#. 741t
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_CHARFMT.fixedtext.text
 msgid "~Character Style"
 msgstr "Estil de ~caràcter"
 
+#. jiV5
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_BUL_COLOR.fixedtext.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_BUL_COLOR.fixedtext.text"
 msgid "Color"
 msgstr "Color"
 
+#. Afis
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_BUL_REL_SIZE.fixedtext.text
 msgid "~Relative size"
 msgstr "Mida ~relativa"
 
+#. nGLf
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_ALL_LEVEL.fixedtext.text
 msgid "Show sublevels"
 msgstr "Mostra els subnivells"
 
+#. 6jyx
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_START.fixedtext.text
 msgid "Start at"
 msgstr "Inicia a"
 
+#. 6p4z
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_ALIGN.fixedtext.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_ALIGN.fixedtext.text"
 msgid "~Alignment"
 msgstr "~Alineació"
 
+#. uFYC
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ALIGN.1.stringlist.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ALIGN.1.stringlist.text"
 msgid "Left"
 msgstr "Esquerra"
 
+#. KpR#
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ALIGN.2.stringlist.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ALIGN.2.stringlist.text"
 msgid "Centered"
 msgstr "Centrat"
 
+#. PsGF
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ALIGN.3.stringlist.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ALIGN.3.stringlist.text"
 msgid "Right"
 msgstr "Dreta"
 
+#. 5XZP
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.STR_BULLET.string.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.STR_BULLET.string.text"
 msgid "Character"
 msgstr "Caràcter"
 
+#. GP_s
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_BITMAP.fixedtext.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_BITMAP.fixedtext.text"
 msgid "Graphics"
 msgstr "Gràfics"
 
+#. MOjs
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.MB_BITMAP.MN_GRAPHIC_DLG.menuitem.text
-msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.MB_BITMAP.MN_GRAPHIC_DLG.menuitem.text"
+msgctxt ""
+"numpages.src#RID_SVXPAGE_NUM_OPTIONS.MB_BITMAP.MN_GRAPHIC_DLG.menuitem.text"
 msgid "From file..."
 msgstr "Des d'un fitxer..."
 
+#. 3x1D
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.MB_BITMAP.MN_GALLERY.menuitem.text
-msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.MB_BITMAP.MN_GALLERY.menuitem.text"
+msgctxt ""
+"numpages.src#RID_SVXPAGE_NUM_OPTIONS.MB_BITMAP.MN_GALLERY.menuitem.text"
 msgid "Gallery"
 msgstr "Galeria"
 
+#. tfTW
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.MB_BITMAP.menubutton.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.MB_BITMAP.menubutton.text"
 msgid "Select..."
 msgstr "Selecciona..."
 
+#. 3Y_j
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_SIZE.fixedtext.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_SIZE.fixedtext.text"
 msgid "Width"
 msgstr "Amplada"
 
+#. U7Ev
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_MULT.fixedtext.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_MULT.fixedtext.text"
 msgid "Height"
 msgstr "Alçada"
 
+#. #Rgz
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.CB_RATIO.checkbox.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.CB_RATIO.checkbox.text"
 msgid "Keep ratio"
 msgstr "Conserva la relació"
 
+#. LXc2
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_ORIENT.fixedtext.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.FT_ORIENT.fixedtext.text"
 msgid "Alignment"
 msgstr "Alineació"
 
+#. onR9
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT.1.stringlist.text
 msgid "Top of baseline"
 msgstr "Part superior de la línia de base"
 
+#. UDYx
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT.2.stringlist.text
 msgid "Center of baseline"
 msgstr "Centre de la línia de base"
 
+#. J8fA
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT.3.stringlist.text
 msgid "Bottom of baseline"
 msgstr "Part inferior de la línia de base"
 
+#. z7r_
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT.4.stringlist.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT.4.stringlist.text"
 msgid "Top of character"
 msgstr "Part superior del caràcter"
 
+#. m2#E
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT.5.stringlist.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT.5.stringlist.text"
 msgid "Center of character"
 msgstr "Centre del caràcter"
 
+#. S#7y
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT.6.stringlist.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT.6.stringlist.text"
 msgid "Bottom of character"
 msgstr "Part inferior del caràcter"
 
+#. HxCD
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT.7.stringlist.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT.7.stringlist.text"
 msgid "Top of line"
 msgstr "Part superior de la línia"
 
+#. xIRt
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT.8.stringlist.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT.8.stringlist.text"
 msgid "Center of line"
 msgstr "Centre de la línia"
 
+#. sNG6
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT.9.stringlist.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_OPTIONS.LB_ORIENT.9.stringlist.text"
 msgid "Bottom of line"
 msgstr "Part inferior de la línia"
 
+#. 0u6P
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.FL_SAME_LEVEL.fixedline.text
 msgid "All levels"
 msgstr "Tots els nivells"
 
+#. V3qT
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.CB_SAME_LEVEL.checkbox.text
 msgid "~Consecutive numbering"
 msgstr "Numeració ~consecutiva"
 
+#. uy14
 #: numpages.src#RID_SVXPAGE_NUM_OPTIONS.ST_POPUP_EMPTY_ENTRY.string.text
 msgid "There are no graphics in the 'Bullets' Gallery theme."
 msgstr "No hi ha cap gràfic al tema 'Pics' de la Galeria."
 
+#. SvlS
 #: numpages.src#RID_SVXPAGE_NUM_POSITION.FT_LEVEL.fixedtext.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_POSITION.FT_LEVEL.fixedtext.text"
 msgid "Level"
 msgstr "Nivell"
 
+#. YGEc
 #: numpages.src#RID_SVXPAGE_NUM_POSITION.FL_POSITION.fixedline.text
 msgid "Position and spacing"
 msgstr "Posició i espai"
 
+#. uoGC
 #: numpages.src#RID_SVXPAGE_NUM_POSITION.FT_BORDERDIST.fixedtext.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_POSITION.FT_BORDERDIST.fixedtext.text"
 msgid "Indent"
 msgstr "Sagnat"
 
+#. y6Ak
 #: numpages.src#RID_SVXPAGE_NUM_POSITION.CB_RELATIVE.checkbox.text
 msgid "Relati~ve"
 msgstr "Relati~u"
 
+#. Spy4
 #: numpages.src#RID_SVXPAGE_NUM_POSITION.FT_INDENT.fixedtext.text
 msgid "Width of numbering"
 msgstr "Amplada de la numeració"
 
+#. D4hS
 #: numpages.src#RID_SVXPAGE_NUM_POSITION.FT_NUMDIST.fixedtext.text
 msgid "Minimum space numbering <-> text"
 msgstr "Distància mínima entre la numeració i el text"
 
+#. T#bi
 #: numpages.src#RID_SVXPAGE_NUM_POSITION.FT_ALIGN.fixedtext.text
 msgid "N~umbering alignment"
 msgstr "Alineació de la n~umeració"
 
+#. rdOK
 #: numpages.src#RID_SVXPAGE_NUM_POSITION.LB_ALIGN.1.stringlist.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_POSITION.LB_ALIGN.1.stringlist.text"
 msgid "Left"
 msgstr "Esquerra"
 
+#. PRXc
 #: numpages.src#RID_SVXPAGE_NUM_POSITION.LB_ALIGN.2.stringlist.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_POSITION.LB_ALIGN.2.stringlist.text"
 msgid "Centered"
 msgstr "Centrat"
 
+#. KUgN
 #: numpages.src#RID_SVXPAGE_NUM_POSITION.LB_ALIGN.3.stringlist.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_POSITION.LB_ALIGN.3.stringlist.text"
 msgid "Right"
 msgstr "Dreta"
 
+#. _b5w
 #: numpages.src#RID_SVXPAGE_NUM_POSITION.FT_LABEL_FOLLOWED_BY.fixedtext.text
 msgid "Numbering followed by"
 msgstr "Numeració seguida de"
 
+#. CevX
 #: numpages.src#RID_SVXPAGE_NUM_POSITION.LB_LABEL_FOLLOWED_BY.1.stringlist.text
 msgid "Tab stop"
 msgstr "Tabulació"
 
+#. WK0J
 #: numpages.src#RID_SVXPAGE_NUM_POSITION.LB_LABEL_FOLLOWED_BY.2.stringlist.text
 msgid "Space"
 msgstr "Espai"
 
+#. jHBY
 #: numpages.src#RID_SVXPAGE_NUM_POSITION.LB_LABEL_FOLLOWED_BY.3.stringlist.text
 msgid "Nothing"
 msgstr "Res"
 
+#. 3qzQ
 #: numpages.src#RID_SVXPAGE_NUM_POSITION.FT_LISTTAB.fixedtext.text
 msgid "at"
 msgstr "a"
 
+#. MwdK
 #: numpages.src#RID_SVXPAGE_NUM_POSITION.FT_ALIGNED_AT.fixedtext.text
 msgid "Aligned at"
 msgstr "Alineat a"
 
+#. za2V
 #: numpages.src#RID_SVXPAGE_NUM_POSITION.FT_INDENT_AT.fixedtext.text
 msgid "Indent at"
 msgstr "Sagnat a"
 
+#. Vg7R
 #: numpages.src#RID_SVXPAGE_NUM_POSITION.PB_STANDARD.pushbutton.text
 msgctxt "numpages.src#RID_SVXPAGE_NUM_POSITION.PB_STANDARD.pushbutton.text"
 msgid "Default"
 msgstr "Per defecte"
 
+#. 3FaF
 #: numpages.src#RID_STR_EDIT_GRAPHIC.string.text
 msgid "Link"
 msgstr "Enllaça"
 
+#. gVZx
 #: strings.src#RID_SVXSTR_DESC_GRADIENT.string.text
 msgid "Please enter a name for the gradient:"
 msgstr "Inseriu ací el nom per al degradat:"
 
+#. yois
 #: strings.src#RID_SVXSTR_ASK_DEL_GRADIENT.string.text
 msgid "Do you want to delete the gradient?"
 msgstr "Voleu suprimir el degradat?"
 
+#. rwcx
 #: strings.src#RID_SVXSTR_ASK_CHANGE_GRADIENT.string.text
 msgid ""
 "The gradient was modified without saving. \n"
@@ -838,18 +1035,22 @@ msgstr ""
 "El degradat s'ha modificat sense alçar-lo.\n"
 "Podeu modificar-lo o afegir-ne un de nou."
 
+#. GO6g
 #: strings.src#RID_SVXSTR_DESC_NEW_BITMAP.string.text
 msgid "Please enter a name for the bitmap:"
 msgstr "Inseriu ací el nom per al mapa de bits:"
 
+#. e0QN
 #: strings.src#RID_SVXSTR_DESC_EXT_BITMAP.string.text
 msgid "Please enter a name for the external bitmap:"
 msgstr "Inseriu ací el nom per al mapa de bits extern:"
 
+#. tmtN
 #: strings.src#RID_SVXSTR_ASK_DEL_BITMAP.string.text
 msgid "Are you sure you want to delete the bitmap?"
 msgstr "Esteu segur que voleu suprimir el mapa de bits?"
 
+#. tli8
 #: strings.src#RID_SVXSTR_ASK_CHANGE_BITMAP.string.text
 msgid ""
 "The bitmap was modified without saving. \n"
@@ -858,14 +1059,17 @@ msgstr ""
 "El mapa de bits s'ha modificat sense haver-lo alçat. \n"
 "Modifiqueu el mapa de bits seleccionat o afegiu-ne un de nou."
 
+#. 2VRp
 #: strings.src#RID_SVXSTR_DESC_LINESTYLE.string.text
 msgid "Please enter a name for the line style:"
 msgstr "Inseriu ací el nom per a l'estil de línia:"
 
+#. 3X9R
 #: strings.src#RID_SVXSTR_ASK_DEL_LINESTYLE.string.text
 msgid "Do you want to delete the line style?"
 msgstr "Voleu realment suprimir l'estil de línia?"
 
+#. 2ZEb
 #: strings.src#RID_SVXSTR_ASK_CHANGE_LINESTYLE.string.text
 msgid ""
 "The line style was modified without saving. \n"
@@ -874,14 +1078,17 @@ msgstr ""
 "L'estil de línia s'ha modificat sense alçar-lo.\n"
 "Podeu modificar l'estil de línia seleccionat o afegir-ne un de nou."
 
+#. bDsv
 #: strings.src#RID_SVXSTR_DESC_HATCH.string.text
 msgid "Please enter a name for the hatching:"
 msgstr "Inseriu ací el nom per a l'ombreig:"
 
+#. D0P3
 #: strings.src#RID_SVXSTR_ASK_DEL_HATCH.string.text
 msgid "Do you want to delete the hatching?"
 msgstr "Voleu suprimir l'ombreig?"
 
+#. 4w7R
 #: strings.src#RID_SVXSTR_ASK_CHANGE_HATCH.string.text
 msgid ""
 "The hatching type was modified but not saved. \n"
@@ -890,23 +1097,28 @@ msgstr ""
 "El tipus d'ombreig s'ha modificat sense haver-lo alçat. \n"
 "Modifiqueu el tipus d'ombreig seleccionat o afegiu-ne un nou tipus."
 
+#. 4oRv
 #: strings.src#RID_SVXSTR_CHANGE.string.text
 msgid "Modify"
 msgstr "Modifica"
 
+#. PNHi
 #: strings.src#RID_SVXSTR_ADD.string.text
 msgctxt "strings.src#RID_SVXSTR_ADD.string.text"
 msgid "Add"
 msgstr "Afig"
 
+#. TiLu
 #: strings.src#RID_SVXSTR_DESC_COLOR.string.text
 msgid "Please enter a name for the new color:"
 msgstr "Inseriu ací el nom per al nou color:"
 
+#. rXw2
 #: strings.src#RID_SVXSTR_ASK_DEL_COLOR.string.text
 msgid "Do you want to delete the color?"
 msgstr "Voleu suprimir el color?"
 
+#. yRaQ
 #: strings.src#RID_SVXSTR_ASK_CHANGE_COLOR.string.text
 msgid ""
 "The color was modified without saving.\n"
@@ -915,23 +1127,30 @@ msgstr ""
 "El color s'ha modificat sense haver-lo alçat. \n"
 "Modifiqueu el color seleccionat o afegiu un nou color."
 
+#. 4Yln
 #: strings.src#RID_SVXSTR_TABLE.string.text
 msgctxt "strings.src#RID_SVXSTR_TABLE.string.text"
 msgid "Table"
 msgstr "Taula"
 
+#. WXtc
 #: strings.src#RID_SVXSTR_WRITE_DATA_ERROR.string.text
 msgid "The file could not be saved!"
 msgstr "No s'ha pogut alçar el fitxer."
 
+#. 7#dk
 #: strings.src#RID_SVXSTR_READ_DATA_ERROR.string.text
 msgid "The file could not be loaded!"
 msgstr "No s'ha pogut carregar el fitxer."
 
+#. Nj5z
 #: strings.src#RID_SVXSTR_WARN_TABLE_OVERWRITE.string.text
-msgid "The list was modified without saving. Would you like to save the list now?"
-msgstr "La llista s'ha modificat sense haver-la alçat. Voleu alçar la llista ara?"
+msgid ""
+"The list was modified without saving. Would you like to save the list now?"
+msgstr ""
+"La llista s'ha modificat sense haver-la alçat. Voleu alçar la llista ara?"
 
+#. zP4q
 #: strings.src#RID_SVXSTR_WARN_NAME_DUPLICATE.string.text
 msgid ""
 "The name you have entered already exists. \n"
@@ -940,14 +1159,17 @@ msgstr ""
 "Este nom ja existeix. \n"
 "Introduïu un altre nom."
 
+#. wfla
 #: strings.src#RID_SVXSTR_DESC_LINEEND.string.text
 msgid "Please enter a name for the new arrowhead:"
 msgstr "Inseriu ací el nom per al nou extrem de la fletxa:"
 
+#. vY9m
 #: strings.src#RID_SVXSTR_ASK_DEL_LINEEND.string.text
 msgid "Do you want to delete the arrowhead?"
 msgstr "Voleu suprimir l'extrem de la fletxa?"
 
+#. eyq4
 #: strings.src#RID_SVXSTR_ASK_CHANGE_LINEEND.string.text
 msgid ""
 "The arrowhead was modified without saving.\n"
@@ -956,1394 +1178,1732 @@ msgstr ""
 "L'extrem de la fletxa s'ha modificat sense haver-lo alçat.\n"
 "Voleu alçar l'extrem de la fletxa ara?"
 
+#. K5QR
 #: align.src#RID_SVXPAGE_ALIGNMENT.FL_ALIGNMENT.fixedline.text
 msgid "Text alignment"
 msgstr "Alineació del text"
 
+#. 59Rd
 #: align.src#RID_SVXPAGE_ALIGNMENT.FT_HORALIGN.fixedtext.text
 msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.FT_HORALIGN.fixedtext.text"
 msgid "Hori~zontal"
 msgstr "Horit~zontal"
 
+#. ANKz
 #: align.src#RID_SVXPAGE_ALIGNMENT.LB_HORALIGN.1.stringlist.text
 msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.LB_HORALIGN.1.stringlist.text"
 msgid "Default"
 msgstr "Per defecte"
 
+#. chjF
 #: align.src#RID_SVXPAGE_ALIGNMENT.LB_HORALIGN.2.stringlist.text
 msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.LB_HORALIGN.2.stringlist.text"
 msgid "Left"
 msgstr "Esquerra"
 
+#. hkc#
 #: align.src#RID_SVXPAGE_ALIGNMENT.LB_HORALIGN.3.stringlist.text
 msgid "Center"
 msgstr "Centre"
 
+#. 5XwB
 #: align.src#RID_SVXPAGE_ALIGNMENT.LB_HORALIGN.4.stringlist.text
 msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.LB_HORALIGN.4.stringlist.text"
 msgid "Right"
 msgstr "Dreta"
 
+#. 8anw
 #: align.src#RID_SVXPAGE_ALIGNMENT.LB_HORALIGN.5.stringlist.text
 msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.LB_HORALIGN.5.stringlist.text"
 msgid "Justified"
 msgstr "Justificat"
 
+#. aO88
 #: align.src#RID_SVXPAGE_ALIGNMENT.LB_HORALIGN.6.stringlist.text
 msgid "Filled"
 msgstr "Emplenat"
 
+#. fT3v
 #: align.src#RID_SVXPAGE_ALIGNMENT.LB_HORALIGN.7.stringlist.text
 msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.LB_HORALIGN.7.stringlist.text"
 msgid "Distributed"
 msgstr "Distribuït"
 
+#. EUtS
 #: align.src#RID_SVXPAGE_ALIGNMENT.FT_INDENT.fixedtext.text
 msgid "I~ndent"
 msgstr "Sag~na"
 
+#. CZiK
 #: align.src#RID_SVXPAGE_ALIGNMENT.FT_VERALIGN.fixedtext.text
 msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.FT_VERALIGN.fixedtext.text"
 msgid "~Vertical"
 msgstr "~Vertical"
 
+#. _P87
 #: align.src#RID_SVXPAGE_ALIGNMENT.LB_VERALIGN.1.stringlist.text
 msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.LB_VERALIGN.1.stringlist.text"
 msgid "Default"
 msgstr "Per defecte"
 
+#. Jbnr
 #: align.src#RID_SVXPAGE_ALIGNMENT.LB_VERALIGN.2.stringlist.text
 msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.LB_VERALIGN.2.stringlist.text"
 msgid "Top"
 msgstr "Superior"
 
+#. UWw4
 #: align.src#RID_SVXPAGE_ALIGNMENT.LB_VERALIGN.3.stringlist.text
 msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.LB_VERALIGN.3.stringlist.text"
 msgid "Middle"
 msgstr "Centre"
 
+#. mlcn
 #: align.src#RID_SVXPAGE_ALIGNMENT.LB_VERALIGN.4.stringlist.text
 msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.LB_VERALIGN.4.stringlist.text"
 msgid "Bottom"
 msgstr "Inferior"
 
+#. zgj0
 #: align.src#RID_SVXPAGE_ALIGNMENT.LB_VERALIGN.5.stringlist.text
 msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.LB_VERALIGN.5.stringlist.text"
 msgid "Justified"
 msgstr "Justificat"
 
+#. HMKo
 #: align.src#RID_SVXPAGE_ALIGNMENT.LB_VERALIGN.6.stringlist.text
 msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.LB_VERALIGN.6.stringlist.text"
 msgid "Distributed"
 msgstr "Distribuït"
 
+#. S_dr
 #: align.src#RID_SVXPAGE_ALIGNMENT.FL_ORIENTATION.fixedline.text
 msgid "Text orientation"
 msgstr "Orientació del text"
 
+#. K88i
 #: align.src#RID_SVXPAGE_ALIGNMENT.BTN_TXTSTACKED.tristatebox.text
 msgid "Ve~rtically stacked"
 msgstr "Apilat ve~rticalment"
 
+#. ikmQ
 #: align.src#RID_SVXPAGE_ALIGNMENT.FT_DEGREES.fixedtext.text
 msgid "De~grees"
 msgstr "~Graus"
 
+#. 7_lb
 #: align.src#RID_SVXPAGE_ALIGNMENT.FT_BORDER_LOCK.fixedtext.text
 msgid "Re~ference edge"
 msgstr "Vora de re~ferència"
 
+#. RKnS
 #: align.src#RID_SVXPAGE_ALIGNMENT.BTN_ASIAN_VERTICAL.tristatebox.text
 msgid "Asian layout ~mode"
 msgstr "~Disposició vertical asiàtica"
 
+#. PqiC
 #: align.src#RID_SVXPAGE_ALIGNMENT.FL_WRAP.fixedline.text
 msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.FL_WRAP.fixedline.text"
 msgid "Properties"
 msgstr "Propietats"
 
+#. vfTO
 #: align.src#RID_SVXPAGE_ALIGNMENT.BTN_WRAP.tristatebox.text
 msgid "~Wrap text automatically"
 msgstr "A~justament automàtic del text"
 
+#. 45fl
 #: align.src#RID_SVXPAGE_ALIGNMENT.BTN_HYPH.tristatebox.text
 msgid "Hyphenation ~active"
 msgstr "~Activa la partició de mots"
 
+#. mHpS
 #: align.src#RID_SVXPAGE_ALIGNMENT.BTN_SHRINK.tristatebox.text
 msgid "~Shrink to fit cell size"
 msgstr "Redueix per aju~star a la cel·la"
 
+#. P_tO
 #: align.src#RID_SVXPAGE_ALIGNMENT.FT_TEXTFLOW.fixedtext.text
 msgid "Te~xt direction"
 msgstr "Direcció del te~xt"
 
+#. rKbT
 #: align.src#RID_SVXPAGE_ALIGNMENT.STR_BOTTOMLOCK.string.text
 msgid "Text Extension From Lower Cell Border"
 msgstr "Expansió del text des de la vora inferior de la cel·la"
 
+#. HXdc
 #: align.src#RID_SVXPAGE_ALIGNMENT.STR_TOPLOCK.string.text
 msgid "Text Extension From Upper Cell Border"
 msgstr "Expansió del text des de la vora superior de la cel·la"
 
+#. mOOb
 #: align.src#RID_SVXPAGE_ALIGNMENT.STR_CELLLOCK.string.text
 msgid "Text Extension Inside Cell"
 msgstr "Expansió del text només dins de la cel·la"
 
+#. q5DA
 #: align.src#RID_SVXPAGE_ALIGNMENT.tabpage.text
 msgctxt "align.src#RID_SVXPAGE_ALIGNMENT.tabpage.text"
 msgid "Alignment"
 msgstr "Alineació"
 
+#. 6PCf
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.FL_WEST.fixedline.text
 msgid "Western text font"
 msgstr "Tipus de lletra occidental"
 
+#. yj3i
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE.1.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE.1.stringlist.text"
 msgid "Normal"
 msgstr "Normal"
 
+#. GHwU
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE.2.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE.2.stringlist.text"
 msgid "Italic"
 msgstr "Cursiva"
 
+#. TKnl
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE.3.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE.3.stringlist.text"
 msgid "Bold"
 msgstr "Negreta"
 
+#. pRjQ
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE.4.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE.4.stringlist.text"
 msgid "Bold italic"
 msgstr "Negreta cursiva"
 
+#. JHRl
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE_NOCJK.1.stringlist.text
-msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE_NOCJK.1.stringlist.text"
+msgctxt ""
+"chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE_NOCJK.1.stringlist.text"
 msgid "Normal"
 msgstr "Normal"
 
+#. _jYT
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE_NOCJK.2.stringlist.text
-msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE_NOCJK.2.stringlist.text"
+msgctxt ""
+"chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE_NOCJK.2.stringlist.text"
 msgid "Italic"
 msgstr "Cursiva"
 
+#. oefi
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE_NOCJK.3.stringlist.text
-msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE_NOCJK.3.stringlist.text"
+msgctxt ""
+"chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE_NOCJK.3.stringlist.text"
 msgid "Bold"
 msgstr "Negreta"
 
+#. SdrP
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE_NOCJK.4.stringlist.text
-msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE_NOCJK.4.stringlist.text"
+msgctxt ""
+"chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_WEST_STYLE_NOCJK.4.stringlist.text"
 msgid "Bold italic"
 msgstr "Negreta cursiva"
 
+#. MpWz
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_WEST_SIZE.fixedtext.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_WEST_SIZE.fixedtext.text"
 msgid "Size"
 msgstr "Mida"
 
+#. 7Tjt
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_WEST_SIZE_NOCJK.fixedtext.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_WEST_SIZE_NOCJK.fixedtext.text"
 msgid "Size"
 msgstr "Mida"
 
+#. fqae
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_WEST_LANG.fixedtext.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_WEST_LANG.fixedtext.text"
 msgid "Language"
 msgstr "Llengua"
 
+#. ycUH
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_WEST_LANG_NOCJK.fixedtext.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_WEST_LANG_NOCJK.fixedtext.text"
 msgid "~Language"
 msgstr "~Llengua"
 
+#. MdaX
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.FL_EAST.fixedline.text
 msgid "Asian text font"
 msgstr "Tipus de lletra asiàtica"
 
+#. D8Ad
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_EAST_STYLE.1.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_EAST_STYLE.1.stringlist.text"
 msgid "Normal"
 msgstr "Normal"
 
+#. XqpL
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_EAST_STYLE.2.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_EAST_STYLE.2.stringlist.text"
 msgid "Italic"
 msgstr "Cursiva"
 
+#. inua
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_EAST_STYLE.3.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_EAST_STYLE.3.stringlist.text"
 msgid "Bold"
 msgstr "Negreta"
 
+#. 2#aH
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_EAST_STYLE.4.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_EAST_STYLE.4.stringlist.text"
 msgid "Bold italic"
 msgstr "Negreta cursiva"
 
+#. 0Mkn
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_EAST_SIZE.fixedtext.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_EAST_SIZE.fixedtext.text"
 msgid "Size"
 msgstr "Mida"
 
+#. _Hga
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_EAST_LANG.fixedtext.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_EAST_LANG.fixedtext.text"
 msgid "Language"
 msgstr "Llengua"
 
+#. 2WS7
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.FL_CTL.fixedline.text
 msgid "CTL font"
 msgstr "Tipus de lletra CTL"
 
+#. pffJ
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_CTL_STYLE.1.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_CTL_STYLE.1.stringlist.text"
 msgid "Normal"
 msgstr "Normal"
 
+#. VLGX
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_CTL_STYLE.2.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_CTL_STYLE.2.stringlist.text"
 msgid "Italic"
 msgstr "Cursiva"
 
+#. IGRG
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_CTL_STYLE.3.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_CTL_STYLE.3.stringlist.text"
 msgid "Bold"
 msgstr "Negreta"
 
+#. yV7b
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_CTL_STYLE.4.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.LB_CTL_STYLE.4.stringlist.text"
 msgid "Bold italic"
 msgstr "Negreta cursiva"
 
+#. UUG0
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_CTL_SIZE.fixedtext.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_CTL_SIZE.fixedtext.text"
 msgid "Size"
 msgstr "Mida"
 
+#. XPKL
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_CTL_LANG.fixedtext.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_CTL_LANG.fixedtext.text"
 msgid "Language"
 msgstr "Llengua"
 
+#. 4LMu
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.WIN_CHAR_PREVIEW.window.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.WIN_CHAR_PREVIEW.window.text"
 msgid "Example"
 msgstr "Exemple"
 
+#. Njh8
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.FL_COLOR2.fixedline.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.FL_COLOR2.fixedline.text"
 msgid "Color"
 msgstr "Color"
 
+#. XySt
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_COLOR2.fixedtext.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.FT_COLOR2.fixedtext.text"
 msgid "Font ~color"
 msgstr "~Color del tipus de lletra"
 
+#. xeln
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.STR_CHARNAME_NOSTYLE.string.text
 msgid "No %1"
 msgstr "Sense %1"
 
+#. kCb1
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.STR_CHARNAME_TRANSPARENT.string.text
-msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.STR_CHARNAME_TRANSPARENT.string.text"
+msgctxt ""
+"chardlg.src#RID_SVXPAGE_CHAR_NAME.STR_CHARNAME_TRANSPARENT.string.text"
 msgid "Transparent"
 msgstr "Transparent"
 
+#. 0HEZ
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.STR_CHARNAME_FAMILY.string.text
 msgid "Family"
 msgstr "Familia"
 
+#. TlaS
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.STR_CHARNAME_FONT.string.text
 msgid "Font"
 msgstr "Tipus de lletra"
 
+#. PcYs
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.STR_CHARNAME_STYLE.string.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_NAME.STR_CHARNAME_STYLE.string.text"
 msgid "Style"
 msgstr "Estil"
 
+#. AmgZ
 #: chardlg.src#RID_SVXPAGE_CHAR_NAME.STR_CHARNAME_TYPEFACE.string.text
 msgid "Typeface"
 msgstr "Tipografia"
 
+#. #cAM
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.FT_FONTCOLOR.fixedtext.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.FT_FONTCOLOR.fixedtext.text"
 msgid "Font ~color"
 msgstr "~Color del tipus de lletra"
 
+#. UUxY
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.FT_EFFECTS.fixedtext.text
 msgid "~Effects"
 msgstr "~Efectes"
 
+#. fbHg
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EFFECTS2.1.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EFFECTS2.1.stringlist.text"
 msgid "(Without)"
 msgstr "(Sense)"
 
+#. 5PeO
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EFFECTS2.2.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EFFECTS2.2.stringlist.text"
 msgid "Capitals"
 msgstr "Majúscules"
 
+#. 8SZf
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EFFECTS2.3.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EFFECTS2.3.stringlist.text"
 msgid "Lowercase"
 msgstr "Minúscules"
 
+#. cJ_S
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EFFECTS2.4.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EFFECTS2.4.stringlist.text"
 msgid "Title"
 msgstr "Títol"
 
+#. hMqj
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EFFECTS2.5.stringlist.text
 msgid "Small capitals"
 msgstr "Versaletes"
 
+#. u0Si
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.FT_RELIEF.fixedtext.text
 msgid "~Relief"
 msgstr "~Relleu"
 
+#. 0ZxU
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_RELIEF.1.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_RELIEF.1.stringlist.text"
 msgid "(Without)"
 msgstr "(Sense)"
 
+#. iV2i
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_RELIEF.2.stringlist.text
 msgid "Embossed"
 msgstr "Estampat en relleu"
 
+#. XQ9T
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_RELIEF.3.stringlist.text
 msgid "Engraved"
 msgstr "Gravat"
 
+#. El9q
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.CB_OUTLINE.tristatebox.text
 msgid "Out~line"
 msgstr "Con~torn"
 
+#. Ayk9
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.CB_SHADOW.tristatebox.text
 msgid "Sha~dow"
 msgstr "~Ombra"
 
+#. bn6M
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.CB_BLINKING.tristatebox.text
 msgid "~Blinking"
 msgstr "~Parpelleig"
 
+#. yzeb
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.CB_CHARHIDDEN.tristatebox.text
 msgid "H~idden"
 msgstr "Oc~ult"
 
+#. mV0N
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.FT_OVERLINE.fixedtext.text
 msgid "~Overlining"
 msgstr "~Sobreratllat"
 
+#. ole9
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.1.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.1.stringlist.text"
 msgid "(Without)"
 msgstr "(Sense)"
 
+#. UJHx
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.2.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.2.stringlist.text"
 msgid "Single"
 msgstr "Únic"
 
+#. JMQA
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.3.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.3.stringlist.text"
 msgid "Double"
 msgstr "Doble"
 
+#. zP6_
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.4.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.4.stringlist.text"
 msgid "Bold"
 msgstr "Negreta"
 
+#. mSDE
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.5.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.5.stringlist.text"
 msgid "Dotted"
 msgstr "Puntejat"
 
+#. SWqy
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.6.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.6.stringlist.text"
 msgid "Dotted (Bold)"
 msgstr "Puntejat (negreta)"
 
+#. Hb_D
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.7.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.7.stringlist.text"
 msgid "Dash"
 msgstr "Traç"
 
+#. xCet
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.8.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.8.stringlist.text"
 msgid "Dash (Bold)"
 msgstr "Traç (negreta)"
 
+#. s9Z6
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.9.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.9.stringlist.text"
 msgid "Long Dash"
 msgstr "Traç llarg"
 
+#. QoMP
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.10.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.10.stringlist.text"
 msgid "Long Dash (Bold)"
 msgstr "Traç llarg (negreta)"
 
+#. NtTe
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.11.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.11.stringlist.text"
 msgid "Dot Dash"
 msgstr "Punt traç"
 
+#. xBaQ
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.12.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.12.stringlist.text"
 msgid "Dot Dash (Bold)"
 msgstr "Punt traç (negreta)"
 
+#. sElh
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.13.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.13.stringlist.text"
 msgid "Dot Dot Dash"
 msgstr "Punt punt traç"
 
+#. O1pU
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.14.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.14.stringlist.text"
 msgid "Dot Dot Dash (Bold)"
 msgstr "Punt punt traç (negreta)"
 
+#. L4ul
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.15.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.15.stringlist.text"
 msgid "Wave"
 msgstr "Ona"
 
+#. vu1T
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.16.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.16.stringlist.text"
 msgid "Wave (Bold)"
 msgstr "Ona (negreta)"
 
+#. qzAi
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.17.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_OVERLINE.17.stringlist.text"
 msgid "Double Wave"
 msgstr "Ona doble"
 
+#. AbBp
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.FT_OVERLINE_COLOR.fixedtext.text
 msgid "O~verline color"
 msgstr "Color del so~breratllat"
 
+#. 0AxT
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.FT_STRIKEOUT.fixedtext.text
 msgid "~Strikethrough"
 msgstr "~Ratllat"
 
+#. oGDb
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_STRIKEOUT.1.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_STRIKEOUT.1.stringlist.text"
 msgid "(Without)"
 msgstr "(Sense)"
 
+#. UiqN
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_STRIKEOUT.2.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_STRIKEOUT.2.stringlist.text"
 msgid "Single"
 msgstr "Únic"
 
+#. Jf_c
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_STRIKEOUT.3.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_STRIKEOUT.3.stringlist.text"
 msgid "Double"
 msgstr "Doble"
 
+#. zcZJ
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_STRIKEOUT.4.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_STRIKEOUT.4.stringlist.text"
 msgid "Bold"
 msgstr "Negreta"
 
+#. mZeY
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_STRIKEOUT.5.stringlist.text
 msgid "With /"
 msgstr "Amb /"
 
+#. SVHG
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_STRIKEOUT.6.stringlist.text
 msgid "With X"
 msgstr "Amb X"
 
+#. 3MNB
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.FT_UNDERLINE.fixedtext.text
 msgid "~Underlining"
 msgstr "S~ubratllat"
 
+#. s51k
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.1.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.1.stringlist.text"
 msgid "(Without)"
 msgstr "(Sense)"
 
+#. QvuS
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.2.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.2.stringlist.text"
 msgid "Single"
 msgstr "Únic"
 
+#. Nypj
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.3.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.3.stringlist.text"
 msgid "Double"
 msgstr "Doble"
 
+#. vplO
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.4.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.4.stringlist.text"
 msgid "Bold"
 msgstr "Negreta"
 
+#. qsaf
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.5.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.5.stringlist.text"
 msgid "Dotted"
 msgstr "Puntejat"
 
+#. OATR
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.6.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.6.stringlist.text"
 msgid "Dotted (Bold)"
 msgstr "Puntejat (negreta)"
 
+#. LFMg
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.7.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.7.stringlist.text"
 msgid "Dash"
 msgstr "Traç"
 
+#. _c1G
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.8.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.8.stringlist.text"
 msgid "Dash (Bold)"
 msgstr "Traç (negreta)"
 
+#. oZAX
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.9.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.9.stringlist.text"
 msgid "Long Dash"
 msgstr "Traç llarg"
 
+#. YDLi
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.10.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.10.stringlist.text"
 msgid "Long Dash (Bold)"
 msgstr "Traç llarg (negreta)"
 
+#. l8UT
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.11.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.11.stringlist.text"
 msgid "Dot Dash"
 msgstr "Punt traç"
 
+#. 3qdl
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.12.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.12.stringlist.text"
 msgid "Dot Dash (Bold)"
 msgstr "Punt traç (negreta)"
 
+#. EniU
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.13.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.13.stringlist.text"
 msgid "Dot Dot Dash"
 msgstr "Punt punt traç"
 
+#. W#mh
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.14.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.14.stringlist.text"
 msgid "Dot Dot Dash (Bold)"
 msgstr "Punt punt traç (negreta)"
 
+#. jxxQ
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.15.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.15.stringlist.text"
 msgid "Wave"
 msgstr "Ona"
 
+#. 172e
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.16.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.16.stringlist.text"
 msgid "Wave (Bold)"
 msgstr "Ona (negreta)"
 
+#. C29P
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.17.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_UNDERLINE.17.stringlist.text"
 msgid "Double Wave"
 msgstr "Ona doble"
 
+#. RC4R
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.FT_UNDERLINE_COLOR.fixedtext.text
 msgid "U~nderline color"
 msgstr "Color del sub~ratllat"
 
+#. POOa
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.CB_INDIVIDUALWORDS.checkbox.text
 msgid "Individual ~words"
 msgstr "~Paraules individuals"
 
+#. j8M2
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.FT_EMPHASIS.fixedtext.text
 msgid "Emp~hasis mark"
 msgstr "Marca ~emfàtica"
 
+#. 8Zs_
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EMPHASIS.1.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EMPHASIS.1.stringlist.text"
 msgid "(Without)"
 msgstr "(Sense)"
 
+#. aVFD
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EMPHASIS.2.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EMPHASIS.2.stringlist.text"
 msgid "Dot"
 msgstr "Punt"
 
+#. fQ4y
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EMPHASIS.3.stringlist.text
 msgid "Circle"
 msgstr "Cercle"
 
+#. 7LO9
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EMPHASIS.4.stringlist.text
 msgid "Disc"
 msgstr "Disc"
 
+#. AGJu
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_EMPHASIS.5.stringlist.text
 msgid "Accent"
 msgstr "Accent"
 
+#. #yeM
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.FT_POSITION.fixedtext.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.FT_POSITION.fixedtext.text"
 msgid "~Position"
 msgstr "~Posició"
 
+#. r532
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_POSITION.1.stringlist.text
 msgid "Above text"
 msgstr "Per sobre del text"
 
+#. Pvwm
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.LB_POSITION.2.stringlist.text
 msgid "Below text"
 msgstr "Per sota del text"
 
+#. Mkje
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.WIN_EFFECTS_PREVIEW.window.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.WIN_EFFECTS_PREVIEW.window.text"
 msgid "Example"
 msgstr "Exemple"
 
+#. WjLE
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.STR_EFFECTS_CAPITALS.string.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.STR_EFFECTS_CAPITALS.string.text"
 msgid "Capitals"
 msgstr "Majúscules"
 
+#. #9SO
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.STR_EFFECTS_LOWERCASE.string.text
-msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.STR_EFFECTS_LOWERCASE.string.text"
+msgctxt ""
+"chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.STR_EFFECTS_LOWERCASE.string.text"
 msgid "Lowercase"
 msgstr "Minúscules"
 
+#. j57z
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.STR_EFFECTS_TITLE.string.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.STR_EFFECTS_TITLE.string.text"
 msgid "Title"
 msgstr "Títol"
 
+#. GZJj
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.STR_EFFECTS_SMALL.string.text
 msgid "Small Capitals"
 msgstr "Versaletes"
 
+#. sPA8
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.STR_EFFECTS_OUTLINE.string.text
 msgid "Outline"
 msgstr "Contorn"
 
+#. YQME
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.STR_EFFECTS_SHADOW.string.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.STR_EFFECTS_SHADOW.string.text"
 msgid "Shadow"
 msgstr "Ombra"
 
+#. PJ#E
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.STR_EFFECTS_BLINKING.string.text
 msgid "Blinking"
 msgstr "Parpelleig"
 
+#. SbIf
 #: chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.STR_CHARNAME_TRANSPARENT.string.text
-msgctxt "chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.STR_CHARNAME_TRANSPARENT.string.text"
+msgctxt ""
+"chardlg.src#RID_SVXPAGE_CHAR_EFFECTS.STR_CHARNAME_TRANSPARENT.string.text"
 msgid "Transparent"
 msgstr "Transparent"
 
+#. wO2b
 #: chardlg.src#RID_SVXPAGE_CHAR_POSITION.FL_POSITION.fixedline.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_POSITION.FL_POSITION.fixedline.text"
 msgid "Position"
 msgstr "Posició"
 
+#. q6pC
 #: chardlg.src#RID_SVXPAGE_CHAR_POSITION.RB_HIGHPOS.radiobutton.text
 msgid "Superscript"
 msgstr "Superíndex"
 
+#. fVgp
 #: chardlg.src#RID_SVXPAGE_CHAR_POSITION.RB_NORMALPOS.radiobutton.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_POSITION.RB_NORMALPOS.radiobutton.text"
 msgid "Normal"
 msgstr "Normal"
 
+#. aLbG
 #: chardlg.src#RID_SVXPAGE_CHAR_POSITION.RB_LOWPOS.radiobutton.text
 msgid "Subscript"
 msgstr "Subíndex"
 
+#. uHle
 #: chardlg.src#RID_SVXPAGE_CHAR_POSITION.FT_HIGHLOW.fixedtext.text
 msgid "~Raise/lower by"
 msgstr "Aug~ment/disminució de"
 
+#. D6fD
 #: chardlg.src#RID_SVXPAGE_CHAR_POSITION.CB_HIGHLOW.checkbox.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_POSITION.CB_HIGHLOW.checkbox.text"
 msgid "A~utomatic"
 msgstr "Au~tomàtic"
 
+#. AOTV
 #: chardlg.src#RID_SVXPAGE_CHAR_POSITION.FT_FONTSIZE.fixedtext.text
 msgid "Relative font size"
 msgstr "Mida de lletra relativa"
 
+#. 0_YI
 #: chardlg.src#RID_SVXPAGE_CHAR_POSITION.FL_ROTATION_SCALING.fixedline.text
 msgid "Rotation / scaling"
 msgstr "Rotació / escalat"
 
+#. RYMg
 #: chardlg.src#RID_SVXPAGE_CHAR_POSITION.FL_SCALING.fixedline.text
 msgid "Scaling"
 msgstr "Escalat"
 
+#. 1QUd
 #: chardlg.src#RID_SVXPAGE_CHAR_POSITION.RB_0_DEG.radiobutton.text
 msgid "~0 degrees"
 msgstr "~0 graus"
 
+#. _V0o
 #: chardlg.src#RID_SVXPAGE_CHAR_POSITION.RB_90_DEG.radiobutton.text
 msgid "~90 degrees"
 msgstr "~90 graus"
 
+#. d#xs
 #: chardlg.src#RID_SVXPAGE_CHAR_POSITION.RB_270_DEG.radiobutton.text
 msgid "~270 degrees"
 msgstr "~270 graus"
 
+#. bEoY
 #: chardlg.src#RID_SVXPAGE_CHAR_POSITION.CB_FIT_TO_LINE.checkbox.text
 msgid "Fit to line"
 msgstr "Ajusta a la línia"
 
+#. RD2h
 #: chardlg.src#RID_SVXPAGE_CHAR_POSITION.FT_SCALE_WIDTH.fixedtext.text
 msgid "Scale ~width"
 msgstr "Escala l'a~mplada"
 
+#. 7UPV
 #: chardlg.src#RID_SVXPAGE_CHAR_POSITION.FL_KERNING2.fixedline.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_POSITION.FL_KERNING2.fixedline.text"
 msgid "Spacing"
 msgstr "Espaiat"
 
+#. iN4E
 #: chardlg.src#RID_SVXPAGE_CHAR_POSITION.LB_KERNING2.1.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_POSITION.LB_KERNING2.1.stringlist.text"
 msgid "Default"
 msgstr "Per defecte"
 
+#. 0hzy
 #: chardlg.src#RID_SVXPAGE_CHAR_POSITION.LB_KERNING2.2.stringlist.text
 msgid "Expanded"
 msgstr "Ampliat"
 
+#. DksD
 #: chardlg.src#RID_SVXPAGE_CHAR_POSITION.LB_KERNING2.3.stringlist.text
 msgid "Condensed"
 msgstr "Condensat"
 
+#. 5MhM
 #: chardlg.src#RID_SVXPAGE_CHAR_POSITION.FT_KERNING2.fixedtext.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_POSITION.FT_KERNING2.fixedtext.text"
 msgid "b~y"
 msgstr "~per"
 
+#. tCJk
 #: chardlg.src#RID_SVXPAGE_CHAR_POSITION.CB_PAIRKERNING.checkbox.text
 msgid "~Pair kerning"
 msgstr "Interlletratge ~parell"
 
+#. UI1T
 #: chardlg.src#RID_SVXPAGE_CHAR_POSITION.WIN_POS_PREVIEW.window.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_POSITION.WIN_POS_PREVIEW.window.text"
 msgid "Example"
 msgstr "Exemple"
 
+#. bpY0
 #: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.FL_SWITCHON.fixedline.text
 msgid "Double-lined"
 msgstr "Línies dobles activades"
 
+#. q6Mm
 #: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.CB_TWOLINES.checkbox.text
 msgid "~Write in double lines"
 msgstr "Escriu amb espaiat ~doble"
 
+#. nL1I
 #: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.FL_ENCLOSE.fixedline.text
 msgid "Enclosing character"
 msgstr "Caràcter d'inclusió"
 
+#. OyEW
 #: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.FT_STARTBRACKET.fixedtext.text
 msgid "I~nitial character"
 msgstr "Caràcter i~nicial"
 
+#. 0zhK
 #: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_STARTBRACKET.1.stringlist.text
-msgctxt "chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_STARTBRACKET.1.stringlist.text"
+msgctxt ""
+"chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_STARTBRACKET.1.stringlist.text"
 msgid "(None)"
 msgstr "(Cap)"
 
+#. i1Ic
 #: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_STARTBRACKET.2.stringlist.text
 msgid "("
 msgstr "("
 
+#. X4PN
 #: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_STARTBRACKET.3.stringlist.text
 msgid "["
 msgstr "["
 
+#. FB5Y
 #: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_STARTBRACKET.4.stringlist.text
 msgid "<"
 msgstr "<"
 
+#. 2EEJ
 #: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_STARTBRACKET.5.stringlist.text
 msgid "{"
 msgstr "{"
 
+#. kotX
 #: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_STARTBRACKET.6.stringlist.text
-msgctxt "chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_STARTBRACKET.6.stringlist.text"
+msgctxt ""
+"chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_STARTBRACKET.6.stringlist.text"
 msgid "Other Characters..."
 msgstr "Altres caràcters..."
 
+#. KpEV
 #: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.FT_ENDBRACKET.fixedtext.text
 msgid "Final charact~er"
 msgstr "Caràct~er final"
 
+#. P_iu
 #: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_ENDBRACKET.1.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_ENDBRACKET.1.stringlist.text"
 msgid "(None)"
 msgstr "(Cap)"
 
+#. r3LA
 #: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_ENDBRACKET.2.stringlist.text
 msgid ")"
 msgstr ")"
 
+#. u6Ux
 #: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_ENDBRACKET.3.stringlist.text
 msgid "]"
 msgstr "]"
 
+#. M92E
 #: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_ENDBRACKET.4.stringlist.text
 msgid ">"
 msgstr ">"
 
+#. RC9_
 #: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_ENDBRACKET.5.stringlist.text
 msgid "}"
 msgstr "}"
 
+#. tmmD
 #: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_ENDBRACKET.6.stringlist.text
 msgctxt "chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.ED_ENDBRACKET.6.stringlist.text"
 msgid "Other Characters..."
 msgstr "Altres caràcters..."
 
+#. gWdz
 #: chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.WIN_TWOLINES_PREVIEW.window.text
-msgctxt "chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.WIN_TWOLINES_PREVIEW.window.text"
+msgctxt ""
+"chardlg.src#RID_SVXPAGE_CHAR_TWOLINES.WIN_TWOLINES_PREVIEW.window.text"
 msgid "Example"
 msgstr "Exemple"
 
+#. APE5
 #: autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_AUTOCORR_REPLACE.pageitem.text
 msgid "Replace"
 msgstr "Reemplaça"
 
+#. #quG
 #: autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_AUTOCORR_EXCEPT.pageitem.text
 msgid "Exceptions"
 msgstr "Excepcions"
 
+#. B8t6
 #: autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_AUTOCORR_OPTIONS.pageitem.text
-msgctxt "autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_AUTOCORR_OPTIONS.pageitem.text"
+msgctxt ""
+"autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_AUTOCORR_OPTIONS.pageitem."
+"text"
 msgid "Options"
 msgstr "Opcions"
 
+#. I5n#
 #: autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_AUTOFMT_APPLY.pageitem.text
-msgctxt "autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_AUTOFMT_APPLY.pageitem.text"
+msgctxt ""
+"autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_AUTOFMT_APPLY.pageitem.text"
 msgid "Options"
 msgstr "Opcions"
 
+#. 9asE
 #: autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_AUTOCORR_QUOTE.pageitem.text
-msgctxt "autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_AUTOCORR_QUOTE.pageitem.text"
+msgctxt ""
+"autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_AUTOCORR_QUOTE.pageitem.text"
 msgid "Localized Options"
 msgstr "Opcions de llengua"
 
+#. 9hb3
 #: autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.pageitem.text
-msgctxt "autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.pageitem.text"
+msgctxt ""
+"autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_AUTOCOMPLETE_OPTIONS."
+"pageitem.text"
 msgid "Word Completion"
 msgstr "Compleció de paraules"
 
+#. OV7p
 #: autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_SMARTTAG_OPTIONS.pageitem.text
-msgctxt "autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_SMARTTAG_OPTIONS.pageitem.text"
+msgctxt ""
+"autocdlg.src#RID_OFA_AUTOCORR_DLG.1.RID_OFAPAGE_SMARTTAG_OPTIONS.pageitem."
+"text"
 msgid "Smart Tags"
 msgstr "Etiquetes intel·ligents"
 
+#. bemr
 #: autocdlg.src#RID_OFA_AUTOCORR_DLG.FT_LANG.fixedtext.text
 msgid "Replacements and exceptions for language:"
 msgstr "Reemplaçaments i excepcions per a la llengua:"
 
+#. 0kBi
 #: autocdlg.src#RID_OFA_AUTOCORR_DLG.tabdialog.text
 msgid "AutoCorrect"
 msgstr "Correcció automàtica"
 
+#. lpGK
 #: autocdlg.src#COMMON_CLB_ENTRIES.ST_USE_REPLACE.string.text
 msgid "Use replacement table"
 msgstr "Utilitza la taula de reemplaçament"
 
+#. GoD#
 #: autocdlg.src#COMMON_CLB_ENTRIES.ST_CPTL_STT_WORD.string.text
 msgid "Correct TWo INitial CApitals"
 msgstr "Corregeix DUes MAjúscules al COmençament de PAraula"
 
+#. lsZJ
 #: autocdlg.src#COMMON_CLB_ENTRIES.ST_CPTL_STT_SENT.string.text
 msgid "Capitalize first letter of every sentence"
 msgstr "Converteix en majúscula la primera lletra de cada frase"
 
+#. R9oG
 #: autocdlg.src#COMMON_CLB_ENTRIES.ST_BOLD_UNDER.string.text
 msgid "Automatic *bold* and _underline_"
 msgstr "Converteix en *negreta* i _subratllat_ automàticament"
 
+#. mFfU
 #: autocdlg.src#COMMON_CLB_ENTRIES.STR_NO_DBL_SPACES.string.text
 msgid "Ignore double spaces"
 msgstr "Ignora els espais dobles"
 
+#. MkjT
 #: autocdlg.src#COMMON_CLB_ENTRIES.ST_DETECT_URL.string.text
 msgid "URL Recognition"
 msgstr "Reconeix els URL"
 
+#. uRaq
 #: autocdlg.src#COMMON_CLB_ENTRIES.ST_DASH.string.text
 msgid "Replace dashes"
 msgstr "Reemplaça els guions"
 
+#. UeB3
 #: autocdlg.src#COMMON_CLB_ENTRIES.ST_CORRECT_ACCIDENTAL_CAPS_LOCK.string.text
 msgid "Correct accidental use of cAPS LOCK key"
 msgstr "Corregeix l'ús accidental de la tecla de fIXACIÓ DE MAJÚSCULES"
 
+#. M6qI
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_OPTIONS.tabpage.text
 msgid "Settings"
 msgstr "Paràmetres"
 
+#. G2Zg
 #: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.PB_EDIT.pushbutton.text
 msgctxt "autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.PB_EDIT.pushbutton.text"
 msgid "~Edit..."
 msgstr "~Edita..."
 
+#. 12ho
 #: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.STR_HEADER1.string.text
 msgctxt "autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.STR_HEADER1.string.text"
 msgid "[M]"
 msgstr "[M]"
 
+#. utvP
 #: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.STR_HEADER2.string.text
 msgctxt "autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.STR_HEADER2.string.text"
 msgid "[T]"
 msgstr "[T]"
 
+#. eoeC
 #: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.FT_HEADER1_EXPLANATION.fixedtext.text
 msgid "[M]: Replace while modifying existing text"
 msgstr "[M]: Reemplaça mentre es modifica el text existent"
 
+#. 5ZHU
 #: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.FT_HEADER2_EXPLANATION.fixedtext.text
 msgid "[T]: AutoFormat/AutoCorrect while typing"
 msgstr "[T]: Formata i corregeix automàticament mentre s'escriu"
 
+#. I9la
 #: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.ST_DEL_EMPTY_PARA.string.text
 msgid "Remove blank paragraphs"
 msgstr "Suprimeix els paràgrafs en blanc"
 
+#. TRIB
 #: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.ST_USER_STYLE.string.text
 msgid "Replace Custom Styles"
 msgstr "Reemplaça els estils personalitzats"
 
+#. oh0S
 #: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.ST_BULLET.string.text
 msgid "Replace bullets with: "
 msgstr "Reemplaça els pics per: "
 
+#. BaCa
 #: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.ST_RIGHT_MARGIN.string.text
 msgid "Combine single line paragraphs if length greater than"
 msgstr "Combina els paràgrafs d'una línia si la longitud supera el"
 
+#. Gpdr
 #: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.STR_NUM.string.text
 msgid "Apply numbering - symbol: "
 msgstr "Aplica numeració - símbol: "
 
+#. t82r
 #: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.STR_BORDER.string.text
 msgid "Apply border"
 msgstr "Aplica una vora"
 
+#. EYxe
 #: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.STR_TABLE.string.text
 msgid "Create table"
 msgstr "Crea una taula"
 
+#. oefB
 #: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.STR_REPLACE_TEMPLATES.string.text
 msgid "Apply Styles"
 msgstr "Aplica els estils"
 
+#. syRM
 #: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.STR_DEL_SPACES_AT_STT_END.string.text
 msgid "Delete spaces and tabs at beginning and end of paragraph"
 msgstr "Suprimeix espais i tabuladors al començament i al final del paràgraf"
 
+#. a7lc
 #: autocdlg.src#RID_OFAPAGE_AUTOFMT_APPLY.STR_DEL_SPACES_BETWEEN_LINES.string.text
 msgid "Delete spaces and tabs at end and start of line"
 msgstr "Suprimeix espais i tabuladors al final i al començament de la línia"
 
+#. 7V7Y
 #: autocdlg.src#RID_OFADLG_PRCNT_SET.FL_PRCNT.fixedline.text
 msgid "Minimum size"
 msgstr "Mida mínima"
 
+#. 6tEv
 #: autocdlg.src#RID_OFADLG_PRCNT_SET.modaldialog.text
 msgid "Combine"
 msgstr "Combina"
 
+#. x9zY
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_REPLACE.FT_SHORT.fixedtext.text
 msgctxt "autocdlg.src#RID_OFAPAGE_AUTOCORR_REPLACE.FT_SHORT.fixedtext.text"
 msgid "Repla~ce"
 msgstr "Reempl~aça"
 
+#. YaNR
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_REPLACE.FT_REPLACE.fixedtext.text
 msgid "~With:"
 msgstr "~Amb:"
 
+#. u1cE
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_REPLACE.CB_TEXT_ONLY.checkbox.text
 msgid "~Text only"
 msgstr "Només ~text"
 
+#. cyrt
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_REPLACE.PB_NEW_REPLACE.pushbutton.text
-msgctxt "autocdlg.src#RID_OFAPAGE_AUTOCORR_REPLACE.PB_NEW_REPLACE.pushbutton.text"
+msgctxt ""
+"autocdlg.src#RID_OFAPAGE_AUTOCORR_REPLACE.PB_NEW_REPLACE.pushbutton.text"
 msgid "~New"
 msgstr "~Nou"
 
+#. 2wv9
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_REPLACE.PB_DELETE_REPLACE.pushbutton.text
-msgctxt "autocdlg.src#RID_OFAPAGE_AUTOCORR_REPLACE.PB_DELETE_REPLACE.pushbutton.text"
+msgctxt ""
+"autocdlg.src#RID_OFAPAGE_AUTOCORR_REPLACE.PB_DELETE_REPLACE.pushbutton.text"
 msgid "~Delete"
 msgstr "~Suprimeix"
 
+#. I5x2
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_REPLACE.STR_MODIFY.string.text
 msgid "~Replace"
 msgstr "~Reemplaça"
 
+#. V8OA
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.FL_ABBREV.fixedline.text
 msgid "Abbreviations (no subsequent capital)"
 msgstr "Abreviacions (sense majúscula a continuació)"
 
+#. jvHc
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.PB_NEWABBREV.pushbutton.text
 msgctxt "autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.PB_NEWABBREV.pushbutton.text"
 msgid "~New"
 msgstr "~Nou"
 
+#. 9gdF
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.PB_DELABBREV.pushbutton.text
 msgctxt "autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.PB_DELABBREV.pushbutton.text"
 msgid "~Delete"
 msgstr "~Suprimeix"
 
+#. iqaj
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.CB_AUTOABBREV.checkbox.text
 msgid "~AutoInclude"
 msgstr "Inclusió a~utomàtica"
 
+#. 98oF
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.FL_DOUBLECAPS.fixedline.text
 msgid "Words with TWo INitial CApitals"
 msgstr "Paraules amb dues majúscules inicials"
 
+#. M#2j
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.PB_NEWDOUBLECAPS.pushbutton.text
 msgid "Ne~w"
 msgstr "No~u"
 
+#. DajK
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.PB_DELDOUBLECAPS.pushbutton.text
 msgid "Dele~te"
 msgstr "~Suprimeix"
 
+#. XtTH
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.CB_AUTOCAPS.checkbox.text
 msgid "A~utoInclude"
 msgstr "Inc~lusió automàtica"
 
+#. vjeb
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.STR_PB_NEWABBREV.string.text
 msgid "New abbreviations"
 msgstr "Noves abreviatures"
 
+#. wDzB
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.STR_PB_DELABBREV.string.text
 msgid "Delete abbreviations"
 msgstr "Elimina abreviatures"
 
+#. TCKD
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.STR_PB_NEWDOUBLECAPS.string.text
 msgid "New words with two initial capitals"
 msgstr "Noves paraules amb dues majúscules inicials"
 
+#. vVYa
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.STR_PB_DELDOUBLECAPS.string.text
 msgid "Delete words with two initial capitals"
 msgstr "Elimina les paraules amb dues majúscules inicials"
 
+#. 6MHU
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.STR_PB_SGL_STD.string.text
 msgid "Single quotes default"
 msgstr "Cometes senzilles per defecte"
 
+#. gAG2
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.STR_PB_DBL_STD.string.text
 msgid "Double quotes default"
 msgstr "Cometes dobles per defecte"
 
+#. vXQK
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.STR_PB_SGL_START.string.text
 msgid "Start quote of single quotes"
 msgstr "Cometa inicial de cometes simples"
 
+# 85%
+#. O48z
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.STR_PB_DBL_START.string.text
 msgid "Start quote of double quotes"
 msgstr "Cometa inicial de cometes dobles"
 
+#. YYZh
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.STR_PB_SGL_END.string.text
 msgid "End quote of single quotes"
 msgstr "Cometa final de cometes simples"
 
+#. E#Yt
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_EXCEPT.STR_PB_DBL_END.string.text
 msgid "End quote of double quotes"
 msgstr "Cometa final de cometes dobles"
 
+#. KFTk
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.STR_HEADER1.string.text
 msgctxt "autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.STR_HEADER1.string.text"
 msgid "[M]"
 msgstr "[M]"
 
+#. jwF5
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.STR_HEADER2.string.text
 msgctxt "autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.STR_HEADER2.string.text"
 msgid "[T]"
 msgstr "[T]"
 
+#. sVb_
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.ST_NON_BREAK_SPACE.string.text
 msgid "Add non breaking space before specific punctuation marks in french text"
-msgstr "Afig un espai no separable abans de determinats signes de puntuació en textos francesos"
+msgstr ""
+"Afig un espai no separable abans de determinats signes de puntuació en "
+"textos francesos"
 
+#. lks_
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.ST_ORDINAL.string.text
 msgid "Format ordinal numbers suffixes (1st -> 1^st)"
 msgstr "Formata els sufixos dels nombres ordinals (1r -> 1^r)"
 
+#. 5ZT1
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.FL_SINGLE.fixedline.text
 msgid "Single quotes"
 msgstr "Cometes senzilles"
 
+#. teTW
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.CB_SGL_TYPO.checkbox.text
 msgctxt "autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.CB_SGL_TYPO.checkbox.text"
 msgid "Repla~ce"
 msgstr "Reempl~aça"
 
+#. HEgI
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.FT_SGL_STARTQUOTE.fixedtext.text
 msgid "~Start quote:"
 msgstr "Cometa ~inicial:"
 
+#. bZPV
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.FT_SGL_ENDQUOTE.fixedtext.text
 msgid "~End quote:"
 msgstr "Cometa ~final:"
 
+#. #QmF
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.PB_SGL_STD.pushbutton.text
 msgctxt "autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.PB_SGL_STD.pushbutton.text"
 msgid "~Default"
 msgstr "Per ~defecte"
 
+#. WT6b
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.FL_DOUBLE.fixedline.text
 msgid "Double quotes"
 msgstr "Cometes dobles"
 
+#. D5og
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.CB_TYPO.checkbox.text
 msgid "Repl~ace"
 msgstr "Reempl~aça"
 
+#. N6Oz
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.FT_STARTQUOTE.fixedtext.text
 msgid "Start q~uote:"
 msgstr "C~ometa inicial:"
 
+#. a8Cw
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.FT_ENDQUOTE.fixedtext.text
 msgid "E~nd quote:"
 msgstr "Cometa fi~nal:"
 
+#. 8XiR
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.PB_DBL_STD.pushbutton.text
 msgid "De~fault"
 msgstr "Per de~fecte"
 
+#. EHM2
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.STR_CHANGE_START.string.text
 msgid "Start quote"
 msgstr "Cometa inicial"
 
+#. Wg5z
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.STR_CHANGE_END.string.text
 msgid "End quote"
 msgstr "Cometa final"
 
+#. rHuN
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.ST_STANDARD.string.text
 msgctxt "autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.ST_STANDARD.string.text"
 msgid "Default"
 msgstr "Per defecte"
 
+#. b6hc
 #: autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.tabpage.text
 msgctxt "autocdlg.src#RID_OFAPAGE_AUTOCORR_QUOTE.tabpage.text"
 msgid "Localized Options"
 msgstr "Opcions de llengua"
 
+#. Ve5b
 #: autocdlg.src#RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.CB_ACTIV.checkbox.text
 msgid "Enable word ~completion"
 msgstr "Habilita la ~compleció de paraules"
 
+#. Pdhz
 #: autocdlg.src#RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.CB_APPEND_SPACE.checkbox.text
 msgid "~Append space"
 msgstr "~Afig espais"
 
+#. JIvk
 #: autocdlg.src#RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.CB_AS_TIP.checkbox.text
 msgid "~Show as tip"
 msgstr "Mo~stra com a consell"
 
+#. 2dSk
 #: autocdlg.src#RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.CB_COLLECT.checkbox.text
 msgid "C~ollect words"
 msgstr "Rec~ull les paraules"
 
+#. Be#5
 #: autocdlg.src#RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.CB_REMOVE_LIST.checkbox.text
-msgid "~When closing a document, remove the words collected from it from the list"
-msgstr "~En tancar un document, suprimeix de la llista les paraules recollides d'este document"
+msgid ""
+"~When closing a document, remove the words collected from it from the list"
+msgstr ""
+"~En tancar un document, suprimeix de la llista les paraules recollides "
+"d'este document"
 
+#. a8jI
 #: autocdlg.src#RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.FT_EXPAND_KEY.fixedtext.text
 msgid "Acc~ept with"
 msgstr "Acc~epta amb"
 
+#. a7yD
 #: autocdlg.src#RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.FT_MIN_WORDLEN.fixedtext.text
 msgid "Mi~n. word length"
 msgstr "Longitud mí~nima"
 
+#. x_rE
 #: autocdlg.src#RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.FT_MAX_ENTRIES.fixedtext.text
 msgid "~Max. entries"
 msgstr "Entrades ~màximes"
 
+#. akUV
 #: autocdlg.src#RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.PB_ENTRIES.pushbutton.text
 msgid "~Delete Entry"
 msgstr "Suprimeix les entra~des"
 
+#. #6EH
 #: autocdlg.src#RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.tabpage.text
 msgctxt "autocdlg.src#RID_OFAPAGE_AUTOCOMPLETE_OPTIONS.tabpage.text"
 msgid "Word Completion"
 msgstr "Compleció de paraules"
 
+#. TedM
 #: autocdlg.src#RID_OFAPAGE_SMARTTAG_OPTIONS.CB_SMARTTAGS.checkbox.text
 msgid "Label text with smart tags"
 msgstr "Etiqueta el text amb etiquetes intel·ligents"
 
+#. W9BC
 #: autocdlg.src#RID_OFAPAGE_SMARTTAG_OPTIONS.FT_SMARTTAGS.fixedtext.text
 msgid "Currently installed smart tags"
 msgstr "Etiquetes intel·ligents instal·lades actualment"
 
+#. NmWM
 #: autocdlg.src#RID_OFAPAGE_SMARTTAG_OPTIONS.PB_SMARTTAGS.pushbutton.text
 msgid "Properties..."
 msgstr "Propietats..."
 
+#. qCF_
 #: autocdlg.src#RID_OFAPAGE_SMARTTAG_OPTIONS.tabpage.text
 msgctxt "autocdlg.src#RID_OFAPAGE_SMARTTAG_OPTIONS.tabpage.text"
 msgid "Smart Tags"
 msgstr "Etiquetes intel·ligents"
 
+#. LwE5
 #: page.src#RID_SVXPAGE_PAGE.FL_PAPER_SIZE.fixedline.text
 msgid "Paper format"
 msgstr "Format del paper"
 
+#. monz
 #: page.src#RID_SVXPAGE_PAGE.FT_PAPER_FORMAT.fixedtext.text
 msgid "~Format"
 msgstr "~Format"
 
+#. dAGL
 #: page.src#RID_SVXPAGE_PAGE.FT_PAPER_WIDTH.fixedtext.text
 msgctxt "page.src#RID_SVXPAGE_PAGE.FT_PAPER_WIDTH.fixedtext.text"
 msgid "~Width"
 msgstr "~Amplada"
 
+#. 6bx5
 #: page.src#RID_SVXPAGE_PAGE.FT_PAPER_HEIGHT.fixedtext.text
 msgid "~Height"
 msgstr "A~lçada"
 
+#. pwhZ
 #: page.src#RID_SVXPAGE_PAGE.FT_ORIENTATION.fixedtext.text
 msgid "Orientation"
 msgstr "Orientació"
 
+#. lpG6
 #: page.src#RID_SVXPAGE_PAGE.RB_PORTRAIT.radiobutton.text
 msgid "~Portrait"
 msgstr "~Vertical"
 
+#. W0jv
 #: page.src#RID_SVXPAGE_PAGE.RB_LANDSCAPE.radiobutton.text
 msgid "L~andscape"
 msgstr "~Horitzontal"
 
+#. 6LLl
 #: page.src#RID_SVXPAGE_PAGE.FT_TEXT_FLOW.fixedtext.text
 msgid "~Text direction"
 msgstr "Direcció del ~text"
 
+#. ZwzP
 #: page.src#RID_SVXPAGE_PAGE.FT_PAPER_TRAY.fixedtext.text
 msgid "Paper ~tray"
 msgstr "~Safata de paper"
 
+#. mGbX
 #: page.src#RID_SVXPAGE_PAGE.FL_MARGIN.fixedline.text
 msgid "Margins"
 msgstr "Marges"
 
+#. CY0i
 #: page.src#RID_SVXPAGE_PAGE.FT_LEFT_MARGIN.fixedtext.text
 msgctxt "page.src#RID_SVXPAGE_PAGE.FT_LEFT_MARGIN.fixedtext.text"
 msgid "~Left"
 msgstr "~Esquerre"
 
+#. f1vK
 #: page.src#RID_SVXPAGE_PAGE.FT_RIGHT_MARGIN.fixedtext.text
 msgctxt "page.src#RID_SVXPAGE_PAGE.FT_RIGHT_MARGIN.fixedtext.text"
 msgid "~Right"
 msgstr "~Dret"
 
+#. CmZ6
 #: page.src#RID_SVXPAGE_PAGE.FT_TOP_MARGIN.fixedtext.text
 msgctxt "page.src#RID_SVXPAGE_PAGE.FT_TOP_MARGIN.fixedtext.text"
 msgid "~Top"
 msgstr "~Superior"
 
+#. C_rx
 #: page.src#RID_SVXPAGE_PAGE.FT_BOTTOM_MARGIN.fixedtext.text
 msgctxt "page.src#RID_SVXPAGE_PAGE.FT_BOTTOM_MARGIN.fixedtext.text"
 msgid "~Bottom"
 msgstr "~Inferior"
 
+#. dNQ6
 #: page.src#RID_SVXPAGE_PAGE.FL_LAYOUT.fixedline.text
 msgid "Layout settings"
 msgstr "Paràmetres de format"
 
+#. cF4o
 #: page.src#RID_SVXPAGE_PAGE.FT_PAGELAYOUT.fixedtext.text
 msgid "Page layout"
 msgstr "Format de la pàgina"
 
+#. OVhh
 #: page.src#RID_SVXPAGE_PAGE.LB_LAYOUT.1.stringlist.text
 msgid "Right and left"
 msgstr "Dreta i esquerra"
 
+#. qZIP
 #: page.src#RID_SVXPAGE_PAGE.LB_LAYOUT.2.stringlist.text
 msgid "Mirrored"
 msgstr "Reflectit"
 
+#. vcPe
 #: page.src#RID_SVXPAGE_PAGE.LB_LAYOUT.3.stringlist.text
 msgid "Only right"
 msgstr "Només dreta"
 
+#. Nf5T
 #: page.src#RID_SVXPAGE_PAGE.LB_LAYOUT.4.stringlist.text
 msgid "Only left"
 msgstr "Només esquerra"
 
+#. h3O4
 #: page.src#RID_SVXPAGE_PAGE.FT_NUMBER_FORMAT.fixedtext.text
 msgid "For~mat"
 msgstr "For~mat"
 
+#. jRjU
 #: page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.1.stringlist.text
 msgctxt "page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.1.stringlist.text"
 msgid "A, B, C, ..."
 msgstr "A, B, C, ..."
 
+#. 1dKi
 #: page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.2.stringlist.text
 msgctxt "page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.2.stringlist.text"
 msgid "a, b, c, ..."
 msgstr "a, b, c, ..."
 
+#. CYVT
 #: page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.3.stringlist.text
 msgctxt "page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.3.stringlist.text"
 msgid "I, II, III, ..."
 msgstr "I, II, III, ..."
 
+#. Yj3e
 #: page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.4.stringlist.text
 msgctxt "page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.4.stringlist.text"
 msgid "i, ii, iii, ..."
 msgstr "i, ii, iii, ..."
 
+#. le8P
 #: page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.5.stringlist.text
 msgctxt "page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.5.stringlist.text"
 msgid "1, 2, 3, ..."
 msgstr "1, 2, 3, ..."
 
+#. 3Knh
 #: page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.6.stringlist.text
 msgctxt "page.src#RID_SVXPAGE_PAGE.LB_NUMBER_FORMAT.6.stringlist.text"
 msgid "None"
 msgstr "Cap"
 
+#. QLQ5
 #: page.src#RID_SVXPAGE_PAGE.FT_TBL_ALIGN.fixedtext.text
 msgid "Table alignment"
 msgstr "Alineació de la taula"
 
+#. KVAV
 #: page.src#RID_SVXPAGE_PAGE.CB_HORZ.checkbox.text
 msgctxt "page.src#RID_SVXPAGE_PAGE.CB_HORZ.checkbox.text"
 msgid "Hori~zontal"
 msgstr "Horit~zontal"
 
+#. kLH0
 #: page.src#RID_SVXPAGE_PAGE.CB_VERT.checkbox.text
 msgctxt "page.src#RID_SVXPAGE_PAGE.CB_VERT.checkbox.text"
 msgid "~Vertical"
 msgstr "~Vertical"
 
+#. j16H
 #: page.src#RID_SVXPAGE_PAGE.CB_ADAPT.checkbox.text
 msgid "~Fit object to paper format"
 msgstr "~Ajusta l'objecte al format del paper"
 
+#. Vnf7
 #: page.src#RID_SVXPAGE_PAGE.CB_REGISTER.checkbox.text
 msgctxt "page.src#RID_SVXPAGE_PAGE.CB_REGISTER.checkbox.text"
 msgid "Register-true"
 msgstr "Conforme al registre"
 
+#. 5xTC
 #: page.src#RID_SVXPAGE_PAGE.FT_REGISTER.fixedtext.text
 msgid "Reference ~Style"
 msgstr "Estil de ~referència"
 
+#. TpkC
 #: page.src#RID_SVXPAGE_PAGE.STR_INSIDE.string.text
 msgid "I~nner"
 msgstr "I~nterior"
 
+#. NR8T
 #: page.src#RID_SVXPAGE_PAGE.STR_OUTSIDE.string.text
 msgid "O~uter"
 msgstr "E~xterior"
 
+#. c6tJ
 #: page.src#RID_SVXPAGE_PAGE.STR_QUERY_PRINTRANGE.string.text
 msgid ""
 "The margin settings are out of print range.\n"
@@ -2354,2651 +2914,3289 @@ msgstr ""
 "\n"
 "Voleu aplicar esta definició de marges?"
 
+#. ZMcC
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.1.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.1.itemlist.text"
 msgid "A6"
 msgstr "A6"
 
+#. 2uAq
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.2.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.2.itemlist.text"
 msgid "A5"
 msgstr "A5"
 
+#. qCD3
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.3.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.3.itemlist.text"
 msgid "A4"
 msgstr "A4"
 
+#. xMta
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.4.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.4.itemlist.text"
 msgid "A3"
 msgstr "A3"
 
+#. DYmJ
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.5.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.5.itemlist.text"
 msgid "B6 (ISO)"
 msgstr "B6 (ISO)"
 
+#. iCSh
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.6.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.6.itemlist.text"
 msgid "B5 (ISO)"
 msgstr "B5 (ISO)"
 
+#. QuRS
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.7.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.7.itemlist.text"
 msgid "B4 (ISO)"
 msgstr "B4 (ISO)"
 
+#. 9BC5
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.8.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.8.itemlist.text"
 msgid "Letter"
 msgstr "Carta"
 
+#. __Bo
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.9.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.9.itemlist.text"
 msgid "Legal"
 msgstr "Legal"
 
+#. Sfst
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.10.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.10.itemlist.text"
 msgid "Long Bond"
 msgstr "Long Bond"
 
+#. gTn0
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.11.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.11.itemlist.text"
 msgid "Tabloid"
 msgstr "Tabloide"
 
+#. BpTu
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.12.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.12.itemlist.text"
 msgid "B6 (JIS)"
 msgstr "B6 (JIS)"
 
+#. z7QF
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.13.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.13.itemlist.text"
 msgid "B5 (JIS)"
 msgstr "B5 (JIS)"
 
+#. oTWe
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.14.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.14.itemlist.text"
 msgid "B4 (JIS)"
 msgstr "B4 (JIS)"
 
+#. 4fdV
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.15.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.15.itemlist.text"
 msgid "16 Kai"
 msgstr "16 kai"
 
+#. b7Bd
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.16.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.16.itemlist.text"
 msgid "32 Kai"
 msgstr "32 kai"
 
+#. JpCG
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.17.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.17.itemlist.text"
 msgid "Big 32 Kai"
 msgstr "32 kai gran"
 
+#. 00R9
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.18.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.18.itemlist.text"
 msgid "User"
 msgstr "Usuari"
 
+#. sqS#
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.19.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.19.itemlist.text"
 msgid "DL Envelope"
 msgstr "Sobre DL"
 
+#. El2k
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.20.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.20.itemlist.text"
 msgid "C6 Envelope"
 msgstr "Sobre C6"
 
+#. uR5P
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.21.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.21.itemlist.text"
 msgid "C6/5 Envelope"
 msgstr "Sobre C6/5"
 
+#. PrfX
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.22.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.22.itemlist.text"
 msgid "C5 Envelope"
 msgstr "Sobre C5"
 
+#. l1kM
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.23.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_STD.23.itemlist.text"
 msgid "C4 Envelope"
 msgstr "Sobre C4"
 
+#. WRKn
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.24.itemlist.text
 msgid "#6 3/4 (Personal) Envelope"
 msgstr "Sobre del núm. 6 3/4 (personal)"
 
+#. MlJ6
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.25.itemlist.text
 msgid "#8 (Monarch) Envelope"
 msgstr "Sobre del núm. 8 (Monarch)"
 
+#. t1_#
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.26.itemlist.text
 msgid "#9 Envelope"
 msgstr "Sobre del núm. 9"
 
+#. 1ru9
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.27.itemlist.text
 msgid "#10 Envelope"
 msgstr "Sobre del núm. 10"
 
+#. I6lG
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.28.itemlist.text
 msgid "#11 Envelope"
 msgstr "Sobre del núm. 11"
 
+#. aoed
 #: page.src#RID_SVXSTRARY_PAPERSIZE_STD.29.itemlist.text
 msgid "#12 Envelope"
 msgstr "Sobre del núm. 12"
 
+#. C3V4
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.1.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.1.itemlist.text"
 msgid "A6"
 msgstr "A6"
 
+#. jjpy
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.2.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.2.itemlist.text"
 msgid "A5"
 msgstr "A5"
 
+#. RPqB
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.3.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.3.itemlist.text"
 msgid "A4"
 msgstr "A4"
 
+#. K3Ei
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.4.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.4.itemlist.text"
 msgid "A3"
 msgstr "A3"
 
+#. Yt9R
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.5.itemlist.text
 msgid "A2"
 msgstr "A2 (420 x 594 mm)"
 
+#. 3PbZ
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.6.itemlist.text
 msgid "A1"
 msgstr "A1 (594 x 841 mm)"
 
+#. rjYK
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.7.itemlist.text
 msgid "A0"
 msgstr "A0 (841 x 1189 mm)"
 
+#. cUrD
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.8.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.8.itemlist.text"
 msgid "B6 (ISO)"
 msgstr "B6"
 
+#. Ggow
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.9.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.9.itemlist.text"
 msgid "B5 (ISO)"
 msgstr "B5 (ISO)"
 
+#. 3raI
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.10.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.10.itemlist.text"
 msgid "B4 (ISO)"
 msgstr "B4 (ISO)"
 
+#. r1Zb
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.11.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.11.itemlist.text"
 msgid "Letter"
 msgstr "Carta"
 
+#. KlFT
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.12.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.12.itemlist.text"
 msgid "Legal"
 msgstr "Legal"
 
+#. YR8g
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.13.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.13.itemlist.text"
 msgid "Long Bond"
 msgstr "Long Bond"
 
+#. j1oD
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.14.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.14.itemlist.text"
 msgid "Tabloid"
 msgstr "Tabloide"
 
+#. Rrrw
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.15.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.15.itemlist.text"
 msgid "B6 (JIS)"
 msgstr "B6 (JIS)"
 
+#. wRP2
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.16.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.16.itemlist.text"
 msgid "B5 (JIS)"
 msgstr "B5 (JIS)"
 
+#. ClUr
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.17.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.17.itemlist.text"
 msgid "B4 (JIS)"
 msgstr "B4 (JIS)"
 
+#. VS9i
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.18.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.18.itemlist.text"
 msgid "16 Kai"
 msgstr "16 kai"
 
+#. feER
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.19.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.19.itemlist.text"
 msgid "32 Kai"
 msgstr "32 kai"
 
+#. HpGB
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.20.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.20.itemlist.text"
 msgid "Big 32 Kai"
 msgstr "32 kai gran"
 
+#. d7Ny
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.21.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.21.itemlist.text"
 msgid "User"
 msgstr "Usuari"
 
+#. 6fx4
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.22.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.22.itemlist.text"
 msgid "DL Envelope"
 msgstr "Sobre DL"
 
+#. mTyp
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.23.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.23.itemlist.text"
 msgid "C6 Envelope"
 msgstr "Sobre C6"
 
+#. _76K
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.24.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.24.itemlist.text"
 msgid "C6/5 Envelope"
 msgstr "Sobre C6/5"
 
+#. 9p1Z
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.25.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.25.itemlist.text"
 msgid "C5 Envelope"
 msgstr "Sobre C5"
 
+#. eTjR
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.26.itemlist.text
 msgctxt "page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.26.itemlist.text"
 msgid "C4 Envelope"
 msgstr "Sobre C4"
 
+#. Ufgi
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.27.itemlist.text
 msgid "Dia Slide"
 msgstr "Diapositiva Dia"
 
+#. DQzr
 #: page.src#RID_SVXSTRARY_PAPERSIZE_DRAW.28.itemlist.text
 msgid "Screen"
 msgstr "Pantalla"
 
+#. VeTq
 #: measure.src#RID_SVXPAGE_MEASURE.FL_LINE.fixedline.text
 msgctxt "measure.src#RID_SVXPAGE_MEASURE.FL_LINE.fixedline.text"
 msgid "Line"
 msgstr "Línia"
 
+#. ZzvP
 #: measure.src#RID_SVXPAGE_MEASURE.FT_LINE_DIST.fixedtext.text
 msgid "Line ~distance"
 msgstr "~Distància entre línies"
 
+#. 0Q9x
 #: measure.src#RID_SVXPAGE_MEASURE.FT_HELPLINE_OVERHANG.fixedtext.text
 msgid "Guide ~overhang"
 msgstr "Guia ~sobresortint"
 
+#. xaJi
 #: measure.src#RID_SVXPAGE_MEASURE.FT_HELPLINE_DIST.fixedtext.text
 msgid "~Guide distance"
 msgstr "Distància entre ~guies"
 
+#. Fer5
 #: measure.src#RID_SVXPAGE_MEASURE.FT_HELPLINE1_LEN.fixedtext.text
 msgid "~Left guide"
 msgstr "Guia ~esquerra"
 
+#. gGD2
 #: measure.src#RID_SVXPAGE_MEASURE.FT_HELPLINE2_LEN.fixedtext.text
 msgid "~Right guide"
 msgstr "Guia ~dreta"
 
+#. wuiy
 #: measure.src#RID_SVXPAGE_MEASURE.TSB_BELOW_REF_EDGE.tristatebox.text
 msgid "Measure ~below object"
 msgstr "Mesura sota l'o~bjecte"
 
+#. qTbL
 #: measure.src#RID_SVXPAGE_MEASURE.FT_DECIMALPLACES.fixedtext.text
 msgid "Decimal places"
 msgstr "Nombre de decimals"
 
+#. dvUv
 #: measure.src#RID_SVXPAGE_MEASURE.FL_LABEL.fixedline.text
 msgid "Legend"
 msgstr "Llegenda"
 
+#. HsOQ
 #: measure.src#RID_SVXPAGE_MEASURE.FT_POSITION.fixedtext.text
 msgid "~Text position"
 msgstr "Posició del ~text"
 
+#. FsIR
 #: measure.src#RID_SVXPAGE_MEASURE.TSB_AUTOPOSV.tristatebox.text
 msgid "~AutoVertical"
 msgstr "Vertical ~automàtic"
 
+#. raWc
 #: measure.src#RID_SVXPAGE_MEASURE.TSB_AUTOPOSH.tristatebox.text
 msgid "A~utoHorizontal"
 msgstr "Horitzontal a~utomàtic"
 
+#. EQ1B
 #: measure.src#RID_SVXPAGE_MEASURE.TSB_PARALLEL.tristatebox.text
 msgid "~Parallel to line"
 msgstr "~Paral·lel a la línia"
 
+#. pmDU
 #: measure.src#RID_SVXPAGE_MEASURE.TSB_SHOW_UNIT.tristatebox.text
 msgid "Show ~meas. units"
 msgstr "Mostra les unitats de ~mesura"
 
+#. tJu#
 #: measure.src#RID_SVXPAGE_MEASURE.STR_MEASURE_AUTOMATIC.string.text
 msgctxt "measure.src#RID_SVXPAGE_MEASURE.STR_MEASURE_AUTOMATIC.string.text"
 msgid "Automatic"
 msgstr "Automàtic"
 
+#. jQdE
 #: measure.src#RID_SVXPAGE_MEASURE.tabpage.text
 msgid "Dimensioning"
 msgstr "Dimensionament"
 
+#. frL1
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.FL_EFFECT.fixedline.text
 msgid "Text animation effects"
 msgstr "Efectes d'animació de text"
 
+#. IguO
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.FT_EFFECTS.fixedtext.text
 msgid "E~ffect"
 msgstr "E~fecte"
 
+#. tq5q
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.LB_EFFECT.1.stringlist.text
 msgid "No Effect"
 msgstr "Sense efectes"
 
+#. R8y6
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.LB_EFFECT.2.stringlist.text
 msgid "Blink"
 msgstr "Parpelleja"
 
+#. MDtt
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.LB_EFFECT.3.stringlist.text
 msgid "Scroll Through"
 msgstr "Desplaçament lateral o vertical"
 
+#. u2h2
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.LB_EFFECT.4.stringlist.text
 msgid "Scroll Back and Forth"
 msgstr "D'una banda a l'altra"
 
+#. r7Wp
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.LB_EFFECT.5.stringlist.text
 msgid "Scroll In"
 msgstr "Desplaçament cap a l'interior"
 
+#. vd3n
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.FT_DIRECTION.fixedtext.text
 msgid "Direction"
 msgstr "Direcció"
 
+#. YziO
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.BTN_UP.imagebutton.text
 msgctxt "textanim.src#RID_SVXPAGE_TEXTANIMATION.BTN_UP.imagebutton.text"
 msgid "-"
 msgstr "-"
 
+#. VUny
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.BTN_UP.imagebutton.quickhelptext
 msgid "To Top"
 msgstr "Cap amunt"
 
+#. oe2_
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.BTN_LEFT.imagebutton.text
 msgctxt "textanim.src#RID_SVXPAGE_TEXTANIMATION.BTN_LEFT.imagebutton.text"
 msgid "-"
 msgstr "-"
 
+#. xfLP
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.BTN_LEFT.imagebutton.quickhelptext
 msgid "To Left"
 msgstr "Cap a l'esquerra"
 
+#. PLhS
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.BTN_RIGHT.imagebutton.text
 msgctxt "textanim.src#RID_SVXPAGE_TEXTANIMATION.BTN_RIGHT.imagebutton.text"
 msgid "-"
 msgstr "-"
 
+#. q_bW
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.BTN_RIGHT.imagebutton.quickhelptext
 msgid "To Right"
 msgstr "Cap a la dreta"
 
+#. bjlF
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.BTN_DOWN.imagebutton.text
 msgctxt "textanim.src#RID_SVXPAGE_TEXTANIMATION.BTN_DOWN.imagebutton.text"
 msgid "-"
 msgstr "-"
 
+#. 2iuz
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.BTN_DOWN.imagebutton.quickhelptext
 msgid "To Bottom"
 msgstr "Cap a avall"
 
+#. lAyL
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.FL_PROPERTIES.fixedline.text
 msgctxt "textanim.src#RID_SVXPAGE_TEXTANIMATION.FL_PROPERTIES.fixedline.text"
 msgid "Properties"
 msgstr "Propietats"
 
+#. QkgM
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.TSB_START_INSIDE.tristatebox.text
 msgid "S~tart inside"
 msgstr "I~nicia a dins"
 
+#. nVWn
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.TSB_STOP_INSIDE.tristatebox.text
 msgid "Text visible when exiting"
 msgstr "Text visible en finalitzar"
 
+#. Hy#k
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.FT_COUNT.fixedtext.text
 msgid "Animation cycles"
 msgstr "Quantitat de cicles"
 
+#. Q6xK
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.TSB_ENDLESS.tristatebox.text
 msgid "~Continuous"
 msgstr "~Continu"
 
+#. YHlu
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.FT_AMOUNT.fixedtext.text
 msgid "Increment"
 msgstr "Increment"
 
+#. 7CxM
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.TSB_PIXEL.tristatebox.text
 msgid "~Pixels"
 msgstr "~Píxels"
 
+#. v7Q#
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.MTR_FLD_AMOUNT.metricfield.text
 msgid " Pixel"
 msgstr " Píxel"
 
+#. cBU9
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.FT_DELAY.fixedtext.text
 msgid "Delay"
 msgstr "Retard"
 
+#. K0Ga
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.TSB_AUTO.tristatebox.text
 msgctxt "textanim.src#RID_SVXPAGE_TEXTANIMATION.TSB_AUTO.tristatebox.text"
 msgid "~Automatic"
 msgstr "~Automàtic"
 
+#. 8Rzn
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.MTR_FLD_DELAY.metricfield.text
 msgid " ms"
 msgstr " ms"
 
+#. Wqct
 #: textanim.src#RID_SVXPAGE_TEXTANIMATION.tabpage.text
 msgid "Animation"
 msgstr "Animació"
 
+#. AkWH
 #: textanim.src#RID_SVXDLG_TEXT.1.RID_SVXPAGE_TEXTATTR.pageitem.text
 msgctxt "textanim.src#RID_SVXDLG_TEXT.1.RID_SVXPAGE_TEXTATTR.pageitem.text"
 msgid "Text"
 msgstr "Text"
 
+#. CB3i
 #: textanim.src#RID_SVXDLG_TEXT.1.RID_SVXPAGE_TEXTANIMATION.pageitem.text
 msgid "Text Animation"
 msgstr "Animació de text"
 
+#. ktwz
 #: textanim.src#RID_SVXDLG_TEXT.tabdialog.text
 msgctxt "textanim.src#RID_SVXDLG_TEXT.tabdialog.text"
 msgid "Text"
 msgstr "Text"
 
+#. KeiQ
 #: border.src#RID_SVXPAGE_BORDER.FL_BORDER.fixedline.text
 msgid "Line arrangement"
 msgstr "Arranjament de línies"
 
+#. ruee
 #: border.src#RID_SVXPAGE_BORDER.FT_DEFAULT.fixedtext.text
 msgctxt "border.src#RID_SVXPAGE_BORDER.FT_DEFAULT.fixedtext.text"
 msgid "~Default"
 msgstr "Per ~defecte"
 
+#. 79_K
 #: border.src#RID_SVXPAGE_BORDER.FT_USERDEF.fixedtext.text
 msgid "~User-defined"
 msgstr "Definit per l'~usuari"
 
+#. 3l8D
 #: border.src#RID_SVXPAGE_BORDER.FL_LINE.fixedline.text
 msgctxt "border.src#RID_SVXPAGE_BORDER.FL_LINE.fixedline.text"
 msgid "Line"
 msgstr "Línia"
 
+#. jJjM
 #: border.src#RID_SVXPAGE_BORDER.FT_STYLE.fixedtext.text
 msgctxt "border.src#RID_SVXPAGE_BORDER.FT_STYLE.fixedtext.text"
 msgid "St~yle"
 msgstr "Est~il"
 
+#. Yzx3
 #: border.src#RID_SVXPAGE_BORDER.FT_WIDTH.fixedtext.text
 msgctxt "border.src#RID_SVXPAGE_BORDER.FT_WIDTH.fixedtext.text"
 msgid "~Width"
 msgstr "~Amplada"
 
+#. E6bN
 #: border.src#RID_SVXPAGE_BORDER.FT_COLOR.fixedtext.text
 msgctxt "border.src#RID_SVXPAGE_BORDER.FT_COLOR.fixedtext.text"
 msgid "~Color"
 msgstr "~Color"
 
+#. tYNH
 #: border.src#RID_SVXPAGE_BORDER.FT_LEFT.fixedtext.text
 msgctxt "border.src#RID_SVXPAGE_BORDER.FT_LEFT.fixedtext.text"
 msgid "~Left"
 msgstr "~Esquerra"
 
+#. DSyK
 #: border.src#RID_SVXPAGE_BORDER.FT_RIGHT.fixedtext.text
 msgctxt "border.src#RID_SVXPAGE_BORDER.FT_RIGHT.fixedtext.text"
 msgid "Right"
 msgstr "Dreta"
 
+#. HShp
 #: border.src#RID_SVXPAGE_BORDER.FT_TOP.fixedtext.text
 msgctxt "border.src#RID_SVXPAGE_BORDER.FT_TOP.fixedtext.text"
 msgid "~Top"
 msgstr "~Superior"
 
+#. 9m9b
 #: border.src#RID_SVXPAGE_BORDER.FT_BOTTOM.fixedtext.text
 msgctxt "border.src#RID_SVXPAGE_BORDER.FT_BOTTOM.fixedtext.text"
 msgid "~Bottom"
 msgstr "~Inferior"
 
+#. MvUw
 #: border.src#RID_SVXPAGE_BORDER.CB_SYNC.checkbox.text
 msgid "Synchronize"
 msgstr "Sincronitza"
 
+#. KkMD
 #: border.src#RID_SVXPAGE_BORDER.FL_DISTANCE.fixedline.text
 msgid "Spacing to contents"
 msgstr "Espaiat al contingut"
 
+#. asqo
 #: border.src#RID_SVXPAGE_BORDER.FT_SHADOWPOS.fixedtext.text
 msgctxt "border.src#RID_SVXPAGE_BORDER.FT_SHADOWPOS.fixedtext.text"
 msgid "~Position"
 msgstr "~Posició"
 
+#. YXrt
 #: border.src#RID_SVXPAGE_BORDER.FT_SHADOWSIZE.fixedtext.text
 msgid "Distan~ce"
 msgstr "Distàn~cia"
 
+#. ZoNw
 #: border.src#RID_SVXPAGE_BORDER.FT_SHADOWCOLOR.fixedtext.text
 msgctxt "border.src#RID_SVXPAGE_BORDER.FT_SHADOWCOLOR.fixedtext.text"
 msgid "C~olor"
 msgstr "C~olor"
 
+#. oh0n
 #: border.src#RID_SVXPAGE_BORDER.FL_SHADOW.fixedline.text
 msgid "Shadow style"
 msgstr "Estil de l'ombra"
 
+#. aB2x
 #: border.src#RID_SVXPAGE_BORDER.FL_PROPERTIES.fixedline.text
 msgctxt "border.src#RID_SVXPAGE_BORDER.FL_PROPERTIES.fixedline.text"
 msgid "Properties"
 msgstr "Propietats"
 
+#. gDf3
 #: border.src#RID_SVXPAGE_BORDER.CB_MERGEWITHNEXT.checkbox.text
 msgid "~Merge with next paragraph"
 msgstr "~Fusiona amb el paràgraf següent"
 
+#. CwvP
 #: border.src#RID_SVXPAGE_BORDER.CB_MERGEADJACENTBORDERS.checkbox.text
 msgid "~Merge adjacent line styles"
 msgstr "~Fusiona els estils de línia adjacents"
 
+#. YBD#
 #: border.src#RID_SVXPAGE_BORDER.tabpage.text
 msgctxt "border.src#RID_SVXPAGE_BORDER.tabpage.text"
 msgid "Borders"
 msgstr "Vores"
 
+#. pD8u
 #: border.src#RID_SVXSTR_TABLE_PRESET_NONE.string.text
 msgid "Set No Borders"
 msgstr "No poses vores"
 
+#. uN3N
 #: border.src#RID_SVXSTR_TABLE_PRESET_ONLYOUTER.string.text
 msgid "Set Outer Border Only"
 msgstr "Posa només la vora exterior"
 
+#. CA9m
 #: border.src#RID_SVXSTR_TABLE_PRESET_OUTERHORI.string.text
 msgid "Set Outer Border and Horizontal Lines"
 msgstr "Posa la vora exterior i línies horitzontals"
 
+#. hct4
 #: border.src#RID_SVXSTR_TABLE_PRESET_OUTERALL.string.text
 msgid "Set Outer Border and All Inner Lines"
 msgstr "Posa la vora exterior i totes les línies interiors"
 
+#. fKA8
 #: border.src#RID_SVXSTR_TABLE_PRESET_OUTERINNER.string.text
 msgid "Set Outer Border Without Changing Inner Lines"
 msgstr "Posa la vora exterior sense canviar les línies interiors"
 
+#. yzZU
 #: border.src#RID_SVXSTR_PARA_PRESET_DIAGONAL.string.text
 msgid "Set Diagonal Lines Only"
 msgstr "Posa només línies diagonals"
 
+#. dMrm
 #: border.src#RID_SVXSTR_PARA_PRESET_ALL.string.text
 msgid "Set All Four Borders"
 msgstr "Posa totes quatre vores"
 
+#. uV4l
 #: border.src#RID_SVXSTR_PARA_PRESET_LEFTRIGHT.string.text
 msgid "Set Left and Right Borders Only"
 msgstr "Posa només les vores esquerra i dreta"
 
+#. zxvV
 #: border.src#RID_SVXSTR_PARA_PRESET_TOPBOTTOM.string.text
 msgid "Set Top and Bottom Borders Only"
 msgstr "Posa només les vores superior i inferior"
 
+#. M5h9
 #: border.src#RID_SVXSTR_PARA_PRESET_ONLYLEFT.string.text
 msgid "Set Left Border Only"
 msgstr "Posa només la vora esquerra"
 
+#. fbGg
 #: border.src#RID_SVXSTR_HOR_PRESET_ONLYHOR.string.text
 msgid "Set Top and Bottom Borders, and All Inner Lines"
 msgstr "Posa les vores inferior i superior i totes les línies interiors"
 
+#. UMuX
 #: border.src#RID_SVXSTR_VER_PRESET_ONLYVER.string.text
 msgid "Set Left and Right Borders, and All Inner Lines"
 msgstr "Posa les vores esquerra i dreta i totes les línies interiors"
 
+#. vqq2
 #: border.src#RID_SVXSTR_SHADOW_STYLE_NONE.string.text
 msgid "No Shadow"
 msgstr "Sense ombra"
 
+#. G_X8
 #: border.src#RID_SVXSTR_SHADOW_STYLE_BOTTOMRIGHT.string.text
 msgid "Cast Shadow to Bottom Right"
 msgstr "Projecta l'ombra cap a la part inferior dreta"
 
+#. dTdy
 #: border.src#RID_SVXSTR_SHADOW_STYLE_TOPRIGHT.string.text
 msgid "Cast Shadow to Top Right"
 msgstr "Projecta l'ombra cap a la part superior dreta"
 
+#. oq4O
 #: border.src#RID_SVXSTR_SHADOW_STYLE_BOTTOMLEFT.string.text
 msgid "Cast Shadow to Bottom Left"
 msgstr "Projecta l'ombra cap a la part inferior esquerra"
 
+#. 4YbD
 #: border.src#RID_SVXSTR_SHADOW_STYLE_TOPLEFT.string.text
 msgid "Cast Shadow to Top Left"
 msgstr "Projecta l'ombra cap a la part superior esquerra"
 
+#. j1np
 #: grfpage.src#RID_SVXPAGE_GRFCROP.FL_CROP.fixedline.text
 msgid "Crop"
 msgstr "Escapça"
 
+#. ggbn
 #: grfpage.src#RID_SVXPAGE_GRFCROP.FT_LEFT.fixedtext.text
 msgctxt "grfpage.src#RID_SVXPAGE_GRFCROP.FT_LEFT.fixedtext.text"
 msgid "~Left"
 msgstr "~Esquerra"
 
+#. VHWJ
 #: grfpage.src#RID_SVXPAGE_GRFCROP.FT_RIGHT.fixedtext.text
 msgctxt "grfpage.src#RID_SVXPAGE_GRFCROP.FT_RIGHT.fixedtext.text"
 msgid "~Right"
 msgstr "D~reta"
 
+#. 82OX
 #: grfpage.src#RID_SVXPAGE_GRFCROP.FT_TOP.fixedtext.text
 msgctxt "grfpage.src#RID_SVXPAGE_GRFCROP.FT_TOP.fixedtext.text"
 msgid "~Top"
 msgstr "~Superior"
 
+#. Zkg9
 #: grfpage.src#RID_SVXPAGE_GRFCROP.FT_BOTTOM.fixedtext.text
 msgctxt "grfpage.src#RID_SVXPAGE_GRFCROP.FT_BOTTOM.fixedtext.text"
 msgid "~Bottom"
 msgstr "~Inferior"
 
+#. w#kP
 #: grfpage.src#RID_SVXPAGE_GRFCROP.RB_SIZECONST.radiobutton.text
 msgid "Keep image si~ze"
 msgstr "Conserva la mi~da de la imatge"
 
+#. XaIv
 #: grfpage.src#RID_SVXPAGE_GRFCROP.RB_ZOOMCONST.radiobutton.text
 msgid "Keep ~scale"
 msgstr "Conserva l'e~scala"
 
+#. Texv
 #: grfpage.src#RID_SVXPAGE_GRFCROP.FL_ZOOM.fixedline.text
 msgid "Scale"
 msgstr "Escala"
 
+#. gzX2
 #: grfpage.src#RID_SVXPAGE_GRFCROP.FT_WIDTHZOOM.fixedtext.text
 msgctxt "grfpage.src#RID_SVXPAGE_GRFCROP.FT_WIDTHZOOM.fixedtext.text"
 msgid "~Width"
 msgstr "~Amplada"
 
+#. AkT4
 #: grfpage.src#RID_SVXPAGE_GRFCROP.FT_HEIGHTZOOM.fixedtext.text
 msgctxt "grfpage.src#RID_SVXPAGE_GRFCROP.FT_HEIGHTZOOM.fixedtext.text"
 msgid "H~eight"
 msgstr "A~lçada"
 
+#. iuYP
 #: grfpage.src#RID_SVXPAGE_GRFCROP.FL_SIZE.fixedline.text
 msgid "Image size"
 msgstr "Mida de la imatge"
 
+#. mmd4
 #: grfpage.src#RID_SVXPAGE_GRFCROP.FT_WIDTH.fixedtext.text
 msgctxt "grfpage.src#RID_SVXPAGE_GRFCROP.FT_WIDTH.fixedtext.text"
 msgid "~Width"
 msgstr "~Amplada"
 
+#. 3A_x
 #: grfpage.src#RID_SVXPAGE_GRFCROP.FT_HEIGHT.fixedtext.text
 msgctxt "grfpage.src#RID_SVXPAGE_GRFCROP.FT_HEIGHT.fixedtext.text"
 msgid "H~eight"
 msgstr "A~lçada"
 
+#. b#wa
 #: grfpage.src#RID_SVXPAGE_GRFCROP.PB_ORGSIZE.pushbutton.text
 msgid "~Original Size"
 msgstr "Mida ~original"
 
+#. oJll
 #: grfpage.src#STR_PPI.string.text
 msgid "(%1 PPI)"
 msgstr "(%1 PPI)"
 
+#. PM8B
 #: textattr.src#RID_SVXPAGE_TEXTATTR.FL_TEXT.fixedline.text
 msgctxt "textattr.src#RID_SVXPAGE_TEXTATTR.FL_TEXT.fixedline.text"
 msgid "Text"
 msgstr "Text"
 
+#. mZWK
 #: textattr.src#RID_SVXPAGE_TEXTATTR.TSB_AUTOGROW_WIDTH.tristatebox.text
 msgid "Fit wi~dth to text"
 msgstr "Ajusta l'ampla~da al text"
 
+#. FUkA
 #: textattr.src#RID_SVXPAGE_TEXTATTR.TSB_AUTOGROW_HEIGHT.tristatebox.text
 msgid "Fit h~eight to text"
 msgstr "Ajusta l'alçada al t~ext"
 
+#. Cp9z
 #: textattr.src#RID_SVXPAGE_TEXTATTR.TSB_FIT_TO_SIZE.tristatebox.text
 msgid "~Fit to frame"
 msgstr "A~justa al marc"
 
+#. #mbc
 #: textattr.src#RID_SVXPAGE_TEXTATTR.TSB_CONTOUR.tristatebox.text
 msgid "~Adjust to contour"
 msgstr "Ajusta a la ~vora"
 
+#. xqyS
 #: textattr.src#RID_SVXPAGE_TEXTATTR.TSB_WORDWRAP_TEXT.tristatebox.text
 msgid "~Word wrap text in shape"
 msgstr "Ajusta el text a la ~forma"
 
+#. qvZB
 #: textattr.src#RID_SVXPAGE_TEXTATTR.TSB_AUTOGROW_SIZE.tristatebox.text
 msgid "~Resize shape to fit text"
 msgstr "~Redimensiona la forma perquè s'ajuste al text"
 
+#. Xop7
 #: textattr.src#RID_SVXPAGE_TEXTATTR.FL_DISTANCE.fixedline.text
 msgid "Spacing to borders"
 msgstr "Distància a les vores"
 
+#. RT3P
 #: textattr.src#RID_SVXPAGE_TEXTATTR.FT_LEFT.fixedtext.text
 msgctxt "textattr.src#RID_SVXPAGE_TEXTATTR.FT_LEFT.fixedtext.text"
 msgid "~Left"
 msgstr "~Esquerra"
 
+#. VOhb
 #: textattr.src#RID_SVXPAGE_TEXTATTR.FT_RIGHT.fixedtext.text
 msgctxt "textattr.src#RID_SVXPAGE_TEXTATTR.FT_RIGHT.fixedtext.text"
 msgid "~Right"
 msgstr "D~reta"
 
+#. jz8o
 #: textattr.src#RID_SVXPAGE_TEXTATTR.FT_TOP.fixedtext.text
 msgctxt "textattr.src#RID_SVXPAGE_TEXTATTR.FT_TOP.fixedtext.text"
 msgid "~Top"
 msgstr "~Superior"
 
+#. b1is
 #: textattr.src#RID_SVXPAGE_TEXTATTR.FT_BOTTOM.fixedtext.text
 msgctxt "textattr.src#RID_SVXPAGE_TEXTATTR.FT_BOTTOM.fixedtext.text"
 msgid "~Bottom"
 msgstr "~Inferior"
 
+#. UgbG
 #: textattr.src#RID_SVXPAGE_TEXTATTR.FL_POSITION.fixedline.text
 msgid "Text anchor"
 msgstr "Àncora de text"
 
+#. ZL8J
 #: textattr.src#RID_SVXPAGE_TEXTATTR.TSB_FULL_WIDTH.tristatebox.text
 msgid "Full ~width"
 msgstr "Tota l'a~mplada"
 
+#. UJVE
 #: textattr.src#RID_SVXPAGE_TEXTATTR.tabpage.text
 msgctxt "textattr.src#RID_SVXPAGE_TEXTATTR.tabpage.text"
 msgid "Text"
 msgstr "Text"
 
+#. GkEU
 #: connect.src#RID_SVXPAGE_CONNECTION.FT_TYPE.fixedtext.text
 msgctxt "connect.src#RID_SVXPAGE_CONNECTION.FT_TYPE.fixedtext.text"
 msgid "~Type"
 msgstr "~Tipus"
 
+#. #37Y
 #: connect.src#RID_SVXPAGE_CONNECTION.FL_DELTA.fixedline.text
 msgid "Line skew"
 msgstr "Desplaçament de línies"
 
+#. ziAd
 #: connect.src#RID_SVXPAGE_CONNECTION.FT_LINE_1.fixedtext.text
 msgid "Line ~1"
 msgstr "Línia ~1"
 
+#. lg##
 #: connect.src#RID_SVXPAGE_CONNECTION.FT_LINE_2.fixedtext.text
 msgid "Line ~2"
 msgstr "Línia ~2"
 
+#. 86nM
 #: connect.src#RID_SVXPAGE_CONNECTION.FT_LINE_3.fixedtext.text
 msgid "Line ~3"
 msgstr "Línia ~3"
 
+#. jm#C
 #: connect.src#RID_SVXPAGE_CONNECTION.FL_DISTANCE.fixedline.text
 msgctxt "connect.src#RID_SVXPAGE_CONNECTION.FL_DISTANCE.fixedline.text"
 msgid "Line spacing"
 msgstr "Interlineat"
 
+#. c23x
 #: connect.src#RID_SVXPAGE_CONNECTION.FT_HORZ_1.fixedtext.text
 msgid "~Begin horizontal"
 msgstr "Inici h~oritzontal"
 
+#. q4tY
 #: connect.src#RID_SVXPAGE_CONNECTION.FT_HORZ_2.fixedtext.text
 msgid "End ~horizontal"
 msgstr "Fi ~horitzontal"
 
+#. oOTb
 #: connect.src#RID_SVXPAGE_CONNECTION.FT_VERT_1.fixedtext.text
 msgid "Begin ~vertical"
 msgstr "Inici ~vertical"
 
+#. WUfy
 #: connect.src#RID_SVXPAGE_CONNECTION.FT_VERT_2.fixedtext.text
 msgid "~End vertical"
 msgstr "~Fi vertical"
 
+#. mXHN
 #: connect.src#RID_SVXPAGE_CONNECTION.CTL_PREVIEW.control.text
 msgctxt "connect.src#RID_SVXPAGE_CONNECTION.CTL_PREVIEW.control.text"
 msgid "-"
 msgstr "-"
 
+#. zahx
 #: connect.src#RID_SVXPAGE_CONNECTION.CTL_PREVIEW.control.quickhelptext
 msgid "Preview"
 msgstr "Previsualitza"
 
+#. #zN_
 #: connect.src#RID_SVXPAGE_CONNECTION.tabpage.text
 msgid "Connector"
 msgstr "Connector"
 
+#. ik67
 #: labdlg.src#RID_SVXPAGE_CAPTION.FT_ABSTAND.fixedtext.text
 msgctxt "labdlg.src#RID_SVXPAGE_CAPTION.FT_ABSTAND.fixedtext.text"
 msgid "~Spacing"
 msgstr "E~spaiat"
 
+#. E1k#
 #: labdlg.src#RID_SVXPAGE_CAPTION.FT_WINKEL.fixedtext.text
 msgctxt "labdlg.src#RID_SVXPAGE_CAPTION.FT_WINKEL.fixedtext.text"
 msgid "~Angle"
 msgstr "~Angle"
 
+#. qEs5
 #: labdlg.src#RID_SVXPAGE_CAPTION.LB_WINKEL.1.stringlist.text
 msgid "Free"
 msgstr "Lliure"
 
+#. OoFt
 #: labdlg.src#RID_SVXPAGE_CAPTION.LB_WINKEL.2.stringlist.text
 msgid "30 Degrees"
 msgstr "30 graus"
 
+#. Lt46
 #: labdlg.src#RID_SVXPAGE_CAPTION.LB_WINKEL.3.stringlist.text
 msgid "45 Degrees"
 msgstr "45 graus"
 
+#. xuOp
 #: labdlg.src#RID_SVXPAGE_CAPTION.LB_WINKEL.4.stringlist.text
 msgid "60 Degrees"
 msgstr "60 graus"
 
+#. szJ2
 #: labdlg.src#RID_SVXPAGE_CAPTION.LB_WINKEL.5.stringlist.text
 msgid "90 Degrees"
 msgstr "90 graus"
 
+#. VdV3
 #: labdlg.src#RID_SVXPAGE_CAPTION.FT_ANSATZ.fixedtext.text
 msgid "~Extension"
 msgstr "~Extensió"
 
+#. 36UB
 #: labdlg.src#RID_SVXPAGE_CAPTION.LB_ANSATZ.1.stringlist.text
 msgid "Optimal"
 msgstr "Òptim"
 
+#. lwdv
 #: labdlg.src#RID_SVXPAGE_CAPTION.LB_ANSATZ.2.stringlist.text
 msgctxt "labdlg.src#RID_SVXPAGE_CAPTION.LB_ANSATZ.2.stringlist.text"
 msgid "From top"
 msgstr "Des de la part superior"
 
+#. Y_i8
 #: labdlg.src#RID_SVXPAGE_CAPTION.LB_ANSATZ.3.stringlist.text
 msgid "From left"
 msgstr "Des de l'esquerra"
 
+#. Cmmz
 #: labdlg.src#RID_SVXPAGE_CAPTION.LB_ANSATZ.4.stringlist.text
 msgctxt "labdlg.src#RID_SVXPAGE_CAPTION.LB_ANSATZ.4.stringlist.text"
 msgid "Horizontal"
 msgstr "Horitzontal"
 
+#. 1rxC
 #: labdlg.src#RID_SVXPAGE_CAPTION.LB_ANSATZ.5.stringlist.text
 msgctxt "labdlg.src#RID_SVXPAGE_CAPTION.LB_ANSATZ.5.stringlist.text"
 msgid "Vertical"
 msgstr "Vertical"
 
+#. uSdu
 #: labdlg.src#RID_SVXPAGE_CAPTION.FT_UM.fixedtext.text
 msgid "~By"
 msgstr "~Per"
 
+#. SKUH
 #: labdlg.src#RID_SVXPAGE_CAPTION.FT_ANSATZ_REL.fixedtext.text
 msgctxt "labdlg.src#RID_SVXPAGE_CAPTION.FT_ANSATZ_REL.fixedtext.text"
 msgid "~Position"
 msgstr "~Posició"
 
+#. MfZD
 #: labdlg.src#RID_SVXPAGE_CAPTION.FT_LAENGE.fixedtext.text
 msgctxt "labdlg.src#RID_SVXPAGE_CAPTION.FT_LAENGE.fixedtext.text"
 msgid "~Length"
 msgstr "~Longitud"
 
+#. SBbe
 #: labdlg.src#RID_SVXPAGE_CAPTION.CB_LAENGE.checkbox.text
 msgid "~Optimal"
 msgstr "Ò~ptim"
 
+#. 9KWo
 #: labdlg.src#RID_SVXPAGE_CAPTION.STR_CAPTTYPE_1.string.text
 msgid "Straight Line"
 msgstr "Línia recta"
 
+#. mXoP
 #: labdlg.src#RID_SVXPAGE_CAPTION.STR_CAPTTYPE_2.string.text
 msgid "Angled Line"
 msgstr "Línia angular"
 
+#. doy0
 #: labdlg.src#RID_SVXPAGE_CAPTION.STR_CAPTTYPE_3.string.text
 msgid "Angled Connector Line"
 msgstr "Línia angular de connexió"
 
+#. vvpk
 #: labdlg.src#RID_SVXPAGE_CAPTION.STR_CAPTTYPE_4.string.text
 msgid "Double-angled line"
 msgstr "Línia angular amb dos angles"
 
+#. ELK6
 #: labdlg.src#RID_SVXPAGE_CAPTION.STR_HORZ_LIST.string.text
 msgid "Top;Middle;Bottom"
 msgstr "Part superior;Mig;Part inferior"
 
+#. QFAO
 #: labdlg.src#RID_SVXPAGE_CAPTION.STR_VERT_LIST.string.text
 msgid "Left;Middle;Right"
 msgstr "Esquerra;Mig;Dreta"
 
+#. HhZe
 #: labdlg.src#RID_SVXPAGE_CAPTION.tabpage.text
 msgctxt "labdlg.src#RID_SVXPAGE_CAPTION.tabpage.text"
 msgid "Callouts"
 msgstr "Llegendes"
 
+#. DBSq
 #: labdlg.src#_POS_SIZE_TEXT.#define.text
 msgctxt "labdlg.src#_POS_SIZE_TEXT.#define.text"
 msgid "Position and Size"
 msgstr "Posició i mida"
 
+#. uLJ3
 #: labdlg.src#RID_SVXDLG_CAPTION.TAB_CONTROL.RID_SVXPAGE_CAPTION.pageitem.text
 msgid "Callout"
 msgstr "Llegenda"
 
+#. wEaX
 #: labdlg.src#RID_SVXDLG_CAPTION.tabdialog.text
 msgctxt "labdlg.src#RID_SVXDLG_CAPTION.tabdialog.text"
 msgid "Callouts"
 msgstr "Llegendes"
 
+#. n5oH
 #: dstribut.src#RID_SVXPAGE_DISTRIBUTE.FL_HORIZONTAL.fixedline.text
 msgctxt "dstribut.src#RID_SVXPAGE_DISTRIBUTE.FL_HORIZONTAL.fixedline.text"
 msgid "Horizontal"
 msgstr "Horitzontal"
 
+#. 4njw
 #: dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_HOR_NONE.radiobutton.text
 msgid "~None"
 msgstr "C~ap"
 
+#. OcPa
 #: dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_HOR_LEFT.radiobutton.text
 msgctxt "dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_HOR_LEFT.radiobutton.text"
 msgid "~Left"
 msgstr "~Esquerra"
 
+#. h9H1
 #: dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_HOR_CENTER.radiobutton.text
 msgctxt "dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_HOR_CENTER.radiobutton.text"
 msgid "~Center"
 msgstr "~Centrat"
 
+#. wTlQ
 #: dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_HOR_DISTANCE.radiobutton.text
 msgctxt "dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_HOR_DISTANCE.radiobutton.text"
 msgid "~Spacing"
 msgstr "E~spaiat"
 
+#. tkBt
 #: dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_HOR_RIGHT.radiobutton.text
 msgctxt "dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_HOR_RIGHT.radiobutton.text"
 msgid "~Right"
 msgstr "D~reta"
 
+#. RZq6
 #: dstribut.src#RID_SVXPAGE_DISTRIBUTE.FL_VERTICAL.fixedline.text
 msgctxt "dstribut.src#RID_SVXPAGE_DISTRIBUTE.FL_VERTICAL.fixedline.text"
 msgid "Vertical"
 msgstr "Vertical"
 
+#. gI4r
 #: dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_VER_NONE.radiobutton.text
 msgctxt "dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_VER_NONE.radiobutton.text"
 msgid "N~one"
 msgstr "C~ap"
 
+#. TZmn
 #: dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_VER_TOP.radiobutton.text
 msgctxt "dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_VER_TOP.radiobutton.text"
 msgid "~Top"
 msgstr "~Superior"
 
+#. syrn
 #: dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_VER_CENTER.radiobutton.text
 msgctxt "dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_VER_CENTER.radiobutton.text"
 msgid "C~enter"
 msgstr "C~entrat"
 
+#. 6B9b
 #: dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_VER_DISTANCE.radiobutton.text
 msgid "S~pacing"
 msgstr "Es~paiat"
 
+#. x9MI
 #: dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_VER_BOTTOM.radiobutton.text
 msgctxt "dstribut.src#RID_SVXPAGE_DISTRIBUTE.BTN_VER_BOTTOM.radiobutton.text"
 msgid "~Bottom"
 msgstr "~Inferior"
 
+#. jGw9
 #: dstribut.src#RID_SVXPAGE_DISTRIBUTE.tabpage.text
 msgid "Distribution"
 msgstr "Distribució"
 
+#. mUmV
 #: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.FT_LEFTINDENT.fixedtext.text
 msgid "Before text"
 msgstr "Des de l'esquerra"
 
+#. Z6wL
 #: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.FT_RIGHTINDENT.fixedtext.text
 msgid "After text"
 msgstr "Des de la dreta"
 
+#. ve4H
 #: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.FT_FLINEINDENT.fixedtext.text
 msgid "~First line"
 msgstr "Pri~mera línia"
 
+#. #APS
 #: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.CB_AUTO.checkbox.text
 msgctxt "paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.CB_AUTO.checkbox.text"
 msgid "~Automatic"
 msgstr "~Automàtic"
 
+#. cqDQ
 #: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.FL_INDENT.fixedline.text
 msgctxt "paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.FL_INDENT.fixedline.text"
 msgid "Indent"
 msgstr "Sagnat"
 
+#. l0nU
 #: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.FT_TOPDIST.fixedtext.text
 msgid "Ab~ove paragraph"
 msgstr "~Sobre el paràgraf"
 
+#. O8qR
 #: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.FT_BOTTOMDIST.fixedtext.text
 msgid "Below paragraph"
 msgstr "Sota el paràgraf"
 
+#. U8as
 #: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.FL_DIST.fixedline.text
 msgctxt "paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.FL_DIST.fixedline.text"
 msgid "Spacing"
 msgstr "Espaiat"
 
+#. p#6Z
 #: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.LB_LINEDIST.1.stringlist.text
 msgctxt "paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.LB_LINEDIST.1.stringlist.text"
 msgid "Single"
 msgstr "Senzill"
 
+#. V2_H
 #: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.LB_LINEDIST.2.stringlist.text
 msgid "1.5 lines"
 msgstr "1,5 línies"
 
+#. I7qW
 #: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.LB_LINEDIST.3.stringlist.text
 msgctxt "paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.LB_LINEDIST.3.stringlist.text"
 msgid "Double"
 msgstr "Doble"
 
+#. y8eL
 #: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.LB_LINEDIST.4.stringlist.text
 msgid "Proportional"
 msgstr "Proporcional"
 
+#. nDZa
 #: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.LB_LINEDIST.5.stringlist.text
 msgid "At least"
 msgstr "Mínim"
 
+#. TnQM
 #: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.LB_LINEDIST.6.stringlist.text
 msgid "Leading"
 msgstr "Interlineat"
 
+#. UR_k
 #: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.ST_LINEDIST_ABS.string.text
 msgid "Fixed"
 msgstr "Fix"
 
+#. dvPe
 #: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.FT_LINEDIST.fixedtext.text
 msgid "of"
 msgstr "de"
 
+#. bnhX
 #: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.FL_LINEDIST.fixedline.text
 msgctxt "paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.FL_LINEDIST.fixedline.text"
 msgid "Line spacing"
 msgstr "Interlineat"
 
+#. EXkK
 #: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.CB_REGISTER.checkbox.text
 msgid "A~ctivate"
 msgstr "A~ctiva"
 
+#. DdII
 #: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.FL_REGISTER.fixedline.text
 msgctxt "paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.FL_REGISTER.fixedline.text"
 msgid "Register-true"
 msgstr "Conforme al registre"
 
+#. 4Pqi
 #: paragrph.src#RID_SVXPAGE_STD_PARAGRAPH.tabpage.text
 msgid "Indents and Spacing"
 msgstr "Sagnats i espaiat"
 
+#. T381
 #: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.FL_ALIGN.fixedline.text
 msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.FL_ALIGN.fixedline.text"
 msgid "Options"
 msgstr "Opcions"
 
+#. #6oH
 #: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.BTN_LEFTALIGN.radiobutton.text
-msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.BTN_LEFTALIGN.radiobutton.text"
+msgctxt ""
+"paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.BTN_LEFTALIGN.radiobutton.text"
 msgid "~Left"
 msgstr "~Esquerra"
 
+#. yBtZ
 #: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.BTN_RIGHTALIGN.radiobutton.text
-msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.BTN_RIGHTALIGN.radiobutton.text"
+msgctxt ""
+"paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.BTN_RIGHTALIGN.radiobutton.text"
 msgid "Righ~t"
 msgstr "Dre~ta"
 
+#. 8tL9
 #: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.BTN_CENTERALIGN.radiobutton.text
-msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.BTN_CENTERALIGN.radiobutton.text"
+msgctxt ""
+"paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.BTN_CENTERALIGN.radiobutton.text"
 msgid "~Center"
 msgstr "~Centrat"
 
+#. BTxF
 #: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.BTN_JUSTIFYALIGN.radiobutton.text
-msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.BTN_JUSTIFYALIGN.radiobutton.text"
+msgctxt ""
+"paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.BTN_JUSTIFYALIGN.radiobutton.text"
 msgid "Justified"
 msgstr "Justificat"
 
+#. Au#4
 #: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.ST_LEFTALIGN_ASIAN.string.text
-msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.ST_LEFTALIGN_ASIAN.string.text"
+msgctxt ""
+"paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.ST_LEFTALIGN_ASIAN.string.text"
 msgid "~Left/Top"
 msgstr "~Esquerra/Dalt"
 
+#. mwG8
 #: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.ST_RIGHTALIGN_ASIAN.string.text
-msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.ST_RIGHTALIGN_ASIAN.string.text"
+msgctxt ""
+"paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.ST_RIGHTALIGN_ASIAN.string.text"
 msgid "Righ~t/Bottom"
 msgstr "Dre~ta/Sota"
 
+#. eQNB
 #: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.FT_LASTLINE.fixedtext.text
 msgid "~Last line"
 msgstr "Ú~ltima línia"
 
+#. vNhb
 #: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_LASTLINE.1.stringlist.text
-msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_LASTLINE.1.stringlist.text"
+msgctxt ""
+"paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_LASTLINE.1.stringlist.text"
 msgid "Default"
 msgstr "Per defecte"
 
+#. LhIN
 #: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_LASTLINE.2.stringlist.text
-msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_LASTLINE.2.stringlist.text"
+msgctxt ""
+"paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_LASTLINE.2.stringlist.text"
 msgid "Left"
 msgstr "Esquerra"
 
+#. OkPc
 #: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_LASTLINE.3.stringlist.text
-msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_LASTLINE.3.stringlist.text"
+msgctxt ""
+"paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_LASTLINE.3.stringlist.text"
 msgid "Centered"
 msgstr "Centrat"
 
+#. sX5J
 #: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_LASTLINE.4.stringlist.text
-msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_LASTLINE.4.stringlist.text"
+msgctxt ""
+"paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_LASTLINE.4.stringlist.text"
 msgid "Justified"
 msgstr "Justificat"
 
+#. 0V_c
 #: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.CB_EXPAND.checkbox.text
 msgid "~Expand single word"
 msgstr "~Amplia una única paraula"
 
+#. RgGO
 #: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.CB_SNAP.checkbox.text
 msgid "Snap to text grid (if active)"
 msgstr "Ajusta a la graella de text (si està activa)"
 
+#. YrRc
 #: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.FL_VERTALIGN.fixedline.text
 msgid "Text-to-text"
 msgstr "Text a text"
 
+#. HqDA
 #: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.FT_VERTALIGN.fixedtext.text
 msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.FT_VERTALIGN.fixedtext.text"
 msgid "~Alignment"
 msgstr "~Alineació"
 
+#. eaFc
 #: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_VERTALIGN.1.stringlist.text
-msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_VERTALIGN.1.stringlist.text"
+msgctxt ""
+"paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_VERTALIGN.1.stringlist.text"
 msgid "Automatic"
 msgstr "Automàtica"
 
+#. 4OsK
 #: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_VERTALIGN.2.stringlist.text
 msgid "Base line"
 msgstr "Línia base"
 
+#. 9Tzb
 #: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_VERTALIGN.3.stringlist.text
-msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_VERTALIGN.3.stringlist.text"
+msgctxt ""
+"paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_VERTALIGN.3.stringlist.text"
 msgid "Top"
 msgstr "Superior"
 
+#. dIXG
 #: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_VERTALIGN.4.stringlist.text
-msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_VERTALIGN.4.stringlist.text"
+msgctxt ""
+"paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_VERTALIGN.4.stringlist.text"
 msgid "Middle"
 msgstr "Centre"
 
+#. gNgX
 #: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_VERTALIGN.5.stringlist.text
-msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_VERTALIGN.5.stringlist.text"
+msgctxt ""
+"paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.LB_VERTALIGN.5.stringlist.text"
 msgid "Bottom"
 msgstr "Inferior"
 
+#. XHXl
 #: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.FL_PROPERTIES.fixedline.text
 msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.FL_PROPERTIES.fixedline.text"
 msgid "Properties"
 msgstr "Propietats"
 
+#. 8#gS
 #: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.FT_TEXTDIRECTION.fixedtext.text
 msgid "Text ~direction"
 msgstr "~Direcció del text"
 
+#. DjKO
 #: paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.tabpage.text
 msgctxt "paragrph.src#RID_SVXPAGE_ALIGN_PARAGRAPH.tabpage.text"
 msgid "Alignment"
 msgstr "Alineació"
 
+#. WFcH
 #: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.BTN_HYPHEN.tristatebox.text
 msgid "A~utomatically"
 msgstr "Au~tomàtica"
 
+#. SNzj
 #: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FT_HYPHENBEFORE.fixedtext.text
 msgid "C~haracters at line end"
 msgstr "Caràcters al ~final de la línia"
 
+#. r3I#
 #: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FT_HYPHENAFTER.fixedtext.text
 msgid "Cha~racters at line begin"
 msgstr "Ca~ràcters al començament de la línia"
 
+#. LkLL
 #: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FT_MAXHYPH.fixedtext.text
 msgid "~Maximum number of consecutive hyphens"
 msgstr "Nombre màxim de ~guionets consecutius"
 
+#. 58g3
 #: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FL_HYPHEN.fixedline.text
 msgid "Hyphenation"
 msgstr "Partició de mots"
 
+#. DIFK
 #: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FL_OPTIONS.fixedline.text
 msgctxt "paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FL_OPTIONS.fixedline.text"
 msgid "Options"
 msgstr "Opcions"
 
+#. E0wX
 #: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FL_BREAKS.fixedline.text
 msgid "Breaks"
 msgstr "Salts"
 
+#. mOxB
 #: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.BTN_PAGEBREAK.tristatebox.text
 msgid "Insert"
 msgstr "Insereix"
 
+#. cevS
 #: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FT_BREAKTYPE.fixedtext.text
 msgctxt "paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FT_BREAKTYPE.fixedtext.text"
 msgid "~Type"
 msgstr "~Tipus"
 
+#. iw#x
 #: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.LB_BREAKTYPE.1.stringlist.text
 msgid "Page"
 msgstr "Pàgina"
 
+#. 0679
 #: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.LB_BREAKTYPE.2.stringlist.text
 msgid "Column"
 msgstr "Columna"
 
+#. wGFd
 #: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FT_BREAKPOSITION.fixedtext.text
-msgctxt "paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FT_BREAKPOSITION.fixedtext.text"
+msgctxt ""
+"paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FT_BREAKPOSITION.fixedtext.text"
 msgid "Position"
 msgstr "Posició"
 
+#. xwGI
 #: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.LB_BREAKPOSITION.1.stringlist.text
-msgctxt "paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.LB_BREAKPOSITION.1.stringlist.text"
+msgctxt ""
+"paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.LB_BREAKPOSITION.1.stringlist.text"
 msgid "Before"
 msgstr "Abans"
 
+#. N6fW
 #: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.LB_BREAKPOSITION.2.stringlist.text
-msgctxt "paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.LB_BREAKPOSITION.2.stringlist.text"
+msgctxt ""
+"paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.LB_BREAKPOSITION.2.stringlist.text"
 msgid "After"
 msgstr "Després"
 
+#. 5yCU
 #: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.BTN_PAGECOLL.tristatebox.text
 msgid "With Page St~yle"
 msgstr "Amb e~stil de pàgina"
 
+#. GDgd
 #: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FT_PAGENUM.fixedtext.text
 msgid "Page ~number"
 msgstr "Nú~mero de pàgina"
 
+#. kSkI
 #: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.BTN_KEEPTOGETHER.tristatebox.text
 msgid "~Do not split paragraph"
 msgstr "Mantén les ~línies juntes"
 
+#. VvYd
 #: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.CB_KEEPTOGETHER.tristatebox.text
 msgid "~Keep with next paragraph"
 msgstr "Mantén els ~paràgrafs junts"
 
+#. uX48
 #: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.BTN_ORPHANS.tristatebox.text
 msgid "~Orphan control"
 msgstr "C~ontrol de línies òrfenes"
 
+#. KNJb
 #: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FT_ORPHANS.fixedtext.text
 msgctxt "paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FT_ORPHANS.fixedtext.text"
 msgid "Lines"
 msgstr "Línies"
 
+#. IuAa
 #: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.BTN_WIDOWS.tristatebox.text
 msgid "~Widow control"
 msgstr "Control de línies ~vídues"
 
+#. yJTW
 #: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FT_WIDOWS.fixedtext.text
 msgctxt "paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.FT_WIDOWS.fixedtext.text"
 msgid "Lines"
 msgstr "Línies"
 
+#. 6RK6
 #: paragrph.src#RID_SVXPAGE_EXT_PARAGRAPH.tabpage.text
 msgid "Text Flow"
 msgstr "Flux del text"
 
+#. T1et
 #: paragrph.src#RID_SVXPAGE_PARA_ASIAN.FL_AS_OPTIONS.fixedline.text
 msgid "Line change"
 msgstr "Canvi de línia"
 
+#. hPhT
 #: paragrph.src#RID_SVXPAGE_PARA_ASIAN.CB_AS_FORBIDDEN.tristatebox.text
 msgid "Apply list of forbidden characters to the beginning and end of lines"
 msgstr "Aplica la llista de caràcters prohibits a l'inici i al final de línia"
 
+#. 3RWR
 #: paragrph.src#RID_SVXPAGE_PARA_ASIAN.CB_AS_HANG_PUNC.tristatebox.text
 msgid "Allow hanging punctuation"
 msgstr "Permet la puntuació lliure"
 
+#. sUfz
 #: paragrph.src#RID_SVXPAGE_PARA_ASIAN.CB_AS_SCRIPT_SPACE.tristatebox.text
 msgid "Apply spacing between Asian, Latin and Complex text"
 msgstr "Aplica l'espaiat entre text asiàtic, llatí i complex"
 
+#. DH2#
 #: paragrph.src#RID_SVXPAGE_PARA_ASIAN.tabpage.text
 msgid "Asian Typography"
 msgstr "Tipografia asiàtica"
 
+#. YJ9k
 #: paragrph.src#STR_EXAMPLE.string.text
 msgctxt "paragrph.src#STR_EXAMPLE.string.text"
 msgid "Example"
 msgstr "Exemple"
 
+#. SUWx
 #: paragrph.src#STR_PAGE_STYLE.string.text
 msgid "Page Style"
 msgstr "Estil de pàgina"
 
+#. 39Gf
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.FT_CATEGORY.fixedtext.text
 msgid "~Category"
 msgstr "~Categoria"
 
+#. zrbG
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY.1.stringlist.text
 msgid "All"
 msgstr "Tot"
 
+#. H9SY
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY.2.stringlist.text
 msgid "User-defined"
 msgstr "Definit per l'usuari"
 
+#. SCNJ
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY.3.stringlist.text
 msgid "Number"
 msgstr "Nombre"
 
+#. o3Bc
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY.4.stringlist.text
 msgid "Percent"
 msgstr "Percentatge"
 
+#. _60N
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY.5.stringlist.text
 msgid "Currency"
 msgstr "Moneda"
 
+#. Jwvb
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY.6.stringlist.text
 msgid "Date"
 msgstr "Data"
 
+#. U_oK
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY.7.stringlist.text
 msgid "Time"
 msgstr "Temps"
 
+#. qMbk
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY.8.stringlist.text
 msgid "Scientific"
 msgstr "Científic"
 
+#. vJkV
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY.9.stringlist.text
 msgid "Fraction"
 msgstr "Fracció"
 
+#. 0TND
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY.10.stringlist.text
 msgid "Boolean Value"
 msgstr "Valor booleà"
 
+#. DOSy
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY.11.stringlist.text
 msgctxt "numfmt.src#RID_SVXPAGE_NUMBERFORMAT.LB_CATEGORY.11.stringlist.text"
 msgid "Text"
 msgstr "Text"
 
+#. _CNI
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.FT_EDFORMAT.fixedtext.text
 msgid "~Format code"
 msgstr "Codi de ~format"
 
+#. 0XoU
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.FT_FORMAT.fixedtext.text
 msgid "F~ormat"
 msgstr "F~ormat"
 
+#. yy#N
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.LB_CURRENCY.1.stringlist.text
 msgid "Automatically"
 msgstr "Automàticament"
 
+#. m20N
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.FT_DECIMALS.fixedtext.text
 msgid "~Decimal places"
 msgstr "Nombre de ~decimals"
 
+#. NRj1
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.FT_LEADZEROES.fixedtext.text
 msgid "Leading ~zeroes"
 msgstr "~Zeros inicials"
 
+#. KNwL
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.BTN_NEGRED.checkbox.text
 msgid "~Negative numbers red"
 msgstr "~Negatiu en roig"
 
+#. 3PGA
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.BTN_THOUSAND.checkbox.text
 msgid "~Thousands separator"
 msgstr "Separador de ~milers"
 
+#. vwKd
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.FL_OPTIONS.fixedline.text
 msgctxt "numfmt.src#RID_SVXPAGE_NUMBERFORMAT.FL_OPTIONS.fixedline.text"
 msgid "Options"
 msgstr "Opcions"
 
+#. lXuS
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.FT_LANGUAGE.fixedtext.text
 msgctxt "numfmt.src#RID_SVXPAGE_NUMBERFORMAT.FT_LANGUAGE.fixedtext.text"
 msgid "~Language"
 msgstr "~Llengua"
 
+#. _vHT
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.CB_SOURCEFORMAT.checkbox.text
 msgid "So~urce format"
 msgstr "Format de la f~ont"
 
+#. LfIZ
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.IB_ADD.imagebutton.text
 msgctxt "numfmt.src#RID_SVXPAGE_NUMBERFORMAT.IB_ADD.imagebutton.text"
 msgid "-"
 msgstr "-"
 
+#. M8id
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.IB_ADD.imagebutton.quickhelptext
 msgctxt "numfmt.src#RID_SVXPAGE_NUMBERFORMAT.IB_ADD.imagebutton.quickhelptext"
 msgid "Add"
 msgstr "Afig"
 
+#. Gxag
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.IB_REMOVE.imagebutton.text
 msgctxt "numfmt.src#RID_SVXPAGE_NUMBERFORMAT.IB_REMOVE.imagebutton.text"
 msgid "-"
 msgstr "-"
 
+#. xbGv
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.IB_REMOVE.imagebutton.quickhelptext
 msgid "Remove"
 msgstr "Suprimeix"
 
+#. TgjS
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.IB_INFO.imagebutton.text
 msgctxt "numfmt.src#RID_SVXPAGE_NUMBERFORMAT.IB_INFO.imagebutton.text"
 msgid "-"
 msgstr "-"
 
+#. hY77
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.IB_INFO.imagebutton.quickhelptext
 msgid "Edit Comment"
 msgstr "Edita el comentari"
 
+#. q5eQ
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.STR_AUTO_ENTRY.string.text
 msgctxt "numfmt.src#RID_SVXPAGE_NUMBERFORMAT.STR_AUTO_ENTRY.string.text"
 msgid "Automatic"
 msgstr "Automàtic"
 
+#. UWLW
 #: numfmt.src#RID_SVXPAGE_NUMBERFORMAT.tabpage.text
 msgid "Number Format"
 msgstr "Format numèric"
 
+#. lGj2
 #: frmdirlbox.src#RID_SVXSTR_FRAMEDIR_LTR.string.text
 msgid "Left-to-right"
 msgstr "D'esquerra a dreta"
 
+#. IfFO
 #: frmdirlbox.src#RID_SVXSTR_FRAMEDIR_RTL.string.text
 msgid "Right-to-left"
 msgstr "De dreta a esquerra"
 
+#. XAqo
 #: frmdirlbox.src#RID_SVXSTR_FRAMEDIR_SUPER.string.text
 msgid "Use superordinate object settings"
 msgstr "Utilitza la configuració d'objectes superordinats"
 
+#. nqPQ
 #: frmdirlbox.src#RID_SVXSTR_PAGEDIR_LTR_HORI.string.text
 msgid "Left-to-right (horizontal)"
 msgstr "D'esquerra a dreta (horitzontal)"
 
+#. fJTN
 #: frmdirlbox.src#RID_SVXSTR_PAGEDIR_RTL_HORI.string.text
 msgid "Right-to-left (horizontal)"
 msgstr "De dreta a esquerra (horitzontal)"
 
+#. 2J5R
 #: frmdirlbox.src#RID_SVXSTR_PAGEDIR_RTL_VERT.string.text
 msgid "Right-to-left (vertical)"
 msgstr "De dreta a esquerra (vertical)"
 
+#. Qq1M
 #: frmdirlbox.src#RID_SVXSTR_PAGEDIR_LTR_VERT.string.text
 msgid "Left-to-right (vertical)"
 msgstr "D'esquerra a dreta (vertical)"
 
+#. Kxni
 #: tabline.src#RID_SVXPAGE_LINE.FL_LINE.fixedline.text
 msgid "Line properties"
 msgstr "Propietats de la línia"
 
+#. ADbb
 #: tabline.src#RID_SVXPAGE_LINE.FT_LINE_STYLE.fixedtext.text
 msgid "~Style"
 msgstr "E~stil"
 
+#. zutP
 #: tabline.src#RID_SVXPAGE_LINE.FT_COLOR.fixedtext.text
 msgid "Colo~r"
 msgstr "Colo~r"
 
+#. 5Zpm
 #: tabline.src#RID_SVXPAGE_LINE.FT_LINE_WIDTH.fixedtext.text
 msgctxt "tabline.src#RID_SVXPAGE_LINE.FT_LINE_WIDTH.fixedtext.text"
 msgid "~Width"
 msgstr "~Amplada"
 
+#. j26b
 #: tabline.src#RID_SVXPAGE_LINE.FT_TRANSPARENT.fixedtext.text
 msgctxt "tabline.src#RID_SVXPAGE_LINE.FT_TRANSPARENT.fixedtext.text"
 msgid "~Transparency"
 msgstr "~Transparència"
 
+#. srGq
 #: tabline.src#RID_SVXPAGE_LINE.FL_LINE_ENDS.fixedline.text
 msgid "Arrow styles"
 msgstr "Estils de fletxa"
 
+#. 4mxd
 #: tabline.src#RID_SVXPAGE_LINE.FT_LINE_ENDS_STYLE.fixedtext.text
 msgctxt "tabline.src#RID_SVXPAGE_LINE.FT_LINE_ENDS_STYLE.fixedtext.text"
 msgid "St~yle"
 msgstr "Est~il"
 
+#. BUjo
 #: tabline.src#RID_SVXPAGE_LINE.FT_LINE_ENDS_WIDTH.fixedtext.text
 msgctxt "tabline.src#RID_SVXPAGE_LINE.FT_LINE_ENDS_WIDTH.fixedtext.text"
 msgid "Wi~dth"
 msgstr "Ampla~da"
 
+#. S3s4
 #: tabline.src#RID_SVXPAGE_LINE.TSB_CENTER_START.tristatebox.text
 msgid "Ce~nter"
 msgstr "Ce~ntre"
 
+#. sat2
 #: tabline.src#RID_SVXPAGE_LINE.TSB_CENTER_END.tristatebox.text
 msgctxt "tabline.src#RID_SVXPAGE_LINE.TSB_CENTER_END.tristatebox.text"
 msgid "C~enter"
 msgstr "C~entre"
 
+#. rkp0
 #: tabline.src#RID_SVXPAGE_LINE.CBX_SYNCHRONIZE.checkbox.text
 msgid "Synchroni~ze ends"
 msgstr "Sincronit~za les terminacions"
 
+#. #bD5
 #: tabline.src#RID_SVXPAGE_LINE.FL_EDGE_STYLE.fixedline.text
 msgid "Corner style"
 msgstr "Estil de cantonada"
 
+#. CBF2
 #: tabline.src#RID_SVXPAGE_LINE.FT_EDGE_STYLE.fixedtext.text
 msgid "Sty~le"
 msgstr "Esti~l"
 
+#. uVCQ
 #: tabline.src#RID_SVXPAGE_LINE.LB_EDGE_STYLE.1.stringlist.text
 msgid "Rounded"
 msgstr "Arrodonit"
 
+#. KZre
 #: tabline.src#RID_SVXPAGE_LINE.LB_EDGE_STYLE.2.stringlist.text
 msgid "- none -"
 msgstr "- cap -"
 
+#. Pc#P
 #: tabline.src#RID_SVXPAGE_LINE.LB_EDGE_STYLE.3.stringlist.text
 msgid "Mitered"
 msgstr "Biaix"
 
+#. tfYi
 #: tabline.src#RID_SVXPAGE_LINE.LB_EDGE_STYLE.4.stringlist.text
 msgid "Beveled"
 msgstr "Bisellat"
 
+#. Tmco
 #: tabline.src#RID_SVXPAGE_LINE.FL_SYMBOL_FORMAT.fixedline.text
 msgid "Icon"
 msgstr "Icona"
 
+#. hYPW
 #: tabline.src#RID_SVXPAGE_LINE.MB_SYMBOL_BITMAP.MN_SYMBOLS_NONE.menuitem.text
 msgid "No Symbol"
 msgstr "Sense símbol"
 
+#. 3qQX
 #: tabline.src#RID_SVXPAGE_LINE.MB_SYMBOL_BITMAP.MN_SYMBOLS_AUTO.menuitem.text
-msgctxt "tabline.src#RID_SVXPAGE_LINE.MB_SYMBOL_BITMAP.MN_SYMBOLS_AUTO.menuitem.text"
+msgctxt ""
+"tabline.src#RID_SVXPAGE_LINE.MB_SYMBOL_BITMAP.MN_SYMBOLS_AUTO.menuitem.text"
 msgid "Automatic"
 msgstr "Automàtic"
 
+#. n5eJ
 #: tabline.src#RID_SVXPAGE_LINE.MB_SYMBOL_BITMAP.MN_GRAPHIC_DLG.menuitem.text
-msgctxt "tabline.src#RID_SVXPAGE_LINE.MB_SYMBOL_BITMAP.MN_GRAPHIC_DLG.menuitem.text"
+msgctxt ""
+"tabline.src#RID_SVXPAGE_LINE.MB_SYMBOL_BITMAP.MN_GRAPHIC_DLG.menuitem.text"
 msgid "From file..."
 msgstr "Des d'un fitxer..."
 
+#. ylk4
 #: tabline.src#RID_SVXPAGE_LINE.MB_SYMBOL_BITMAP.MN_GALLERY.menuitem.text
-msgctxt "tabline.src#RID_SVXPAGE_LINE.MB_SYMBOL_BITMAP.MN_GALLERY.menuitem.text"
+msgctxt ""
+"tabline.src#RID_SVXPAGE_LINE.MB_SYMBOL_BITMAP.MN_GALLERY.menuitem.text"
 msgid "Gallery"
 msgstr "Galeria"
 
+#. YB9Z
 #: tabline.src#RID_SVXPAGE_LINE.MB_SYMBOL_BITMAP.MN_SYMBOLS.menuitem.text
 msgid "Symbols"
 msgstr "Símbols"
 
+#. qExP
 #: tabline.src#RID_SVXPAGE_LINE.MB_SYMBOL_BITMAP.menubutton.text
 msgctxt "tabline.src#RID_SVXPAGE_LINE.MB_SYMBOL_BITMAP.menubutton.text"
 msgid "Select..."
 msgstr "Selecciona..."
 
+#. jvPJ
 #: tabline.src#RID_SVXPAGE_LINE.FT_SYMBOL_WIDTH.fixedtext.text
 msgctxt "tabline.src#RID_SVXPAGE_LINE.FT_SYMBOL_WIDTH.fixedtext.text"
 msgid "Width"
 msgstr "Amplada"
 
+#. spxx
 #: tabline.src#RID_SVXPAGE_LINE.FT_SYMBOL_HEIGHT.fixedtext.text
 msgctxt "tabline.src#RID_SVXPAGE_LINE.FT_SYMBOL_HEIGHT.fixedtext.text"
 msgid "Height"
 msgstr "Alçada"
 
+#. iZAK
 #: tabline.src#RID_SVXPAGE_LINE.CB_SYMBOL_RATIO.checkbox.text
 msgctxt "tabline.src#RID_SVXPAGE_LINE.CB_SYMBOL_RATIO.checkbox.text"
 msgid "Keep ratio"
 msgstr "Conserva la relació"
 
+#. L#qD
 #: tabline.src#RID_SVXPAGE_LINE.STR_STYLE.string.text
 msgctxt "tabline.src#RID_SVXPAGE_LINE.STR_STYLE.string.text"
 msgid "Style"
 msgstr "Estil"
 
+#. W_JU
 #: tabline.src#RID_SVXPAGE_LINE.STR_LB_START_STYLE.string.text
 msgid "Start style"
 msgstr "Estil d'inici"
 
+#. seeY
 #: tabline.src#RID_SVXPAGE_LINE.STR_LB_END_STYLE.string.text
 msgid "End style"
 msgstr "Estil final"
 
+#. aLDq
 #: tabline.src#RID_SVXPAGE_LINE.STR_MTR_FLD_START_WIDTH.string.text
 msgid "Start width"
 msgstr "Inicia amb"
 
+#. xraC
 #: tabline.src#RID_SVXPAGE_LINE.STR_MTR_FLD_END_WIDTH.string.text
 msgid "End width"
 msgstr "Acaba amb"
 
+#. rNBT
 #: tabline.src#RID_SVXPAGE_LINE.STR_CENTER_START.string.text
 msgid "Start with center"
 msgstr "Comença amb el centre"
 
+#. SQHG
 #: tabline.src#RID_SVXPAGE_LINE.STR_CENTER_END.string.text
 msgid "End with center"
 msgstr "Finalitza amb el centre"
 
+#. nVTV
 #: tabline.src#RID_SVXPAGE_LINE.tabpage.text
 msgctxt "tabline.src#RID_SVXPAGE_LINE.tabpage.text"
 msgid "Lines"
 msgstr "Línies"
 
+#. Ms4z
 #: tabline.src#RID_SVXPAGE_LINE_DEF.FL_DEFINITION.fixedline.text
 msgctxt "tabline.src#RID_SVXPAGE_LINE_DEF.FL_DEFINITION.fixedline.text"
 msgid "Properties"
 msgstr "Propietats"
 
+#. xuVN
 #: tabline.src#RID_SVXPAGE_LINE_DEF.FT_TYPE.fixedtext.text
 msgctxt "tabline.src#RID_SVXPAGE_LINE_DEF.FT_TYPE.fixedtext.text"
 msgid "~Type"
 msgstr "~Tipus"
 
+#. HzsY
 #: tabline.src#RID_SVXPAGE_LINE_DEF.LB_TYPE_1.1.stringlist.text
 msgctxt "tabline.src#RID_SVXPAGE_LINE_DEF.LB_TYPE_1.1.stringlist.text"
 msgid "Dot"
 msgstr "Punt"
 
+#. z1FG
 #: tabline.src#RID_SVXPAGE_LINE_DEF.LB_TYPE_1.2.stringlist.text
 msgctxt "tabline.src#RID_SVXPAGE_LINE_DEF.LB_TYPE_1.2.stringlist.text"
 msgid "Dash"
 msgstr "Traç"
 
+#. XdnF
 #: tabline.src#RID_SVXPAGE_LINE_DEF.LB_TYPE_2.1.stringlist.text
 msgctxt "tabline.src#RID_SVXPAGE_LINE_DEF.LB_TYPE_2.1.stringlist.text"
 msgid "Dot"
 msgstr "Punt"
 
+#. DR8z
 #: tabline.src#RID_SVXPAGE_LINE_DEF.LB_TYPE_2.2.stringlist.text
 msgctxt "tabline.src#RID_SVXPAGE_LINE_DEF.LB_TYPE_2.2.stringlist.text"
 msgid "Dash"
 msgstr "Traç"
 
+#. WDH2
 #: tabline.src#RID_SVXPAGE_LINE_DEF.FT_NUMBER.fixedtext.text
 msgid "~Number"
 msgstr "~Número"
 
+#. kKug
 #: tabline.src#RID_SVXPAGE_LINE_DEF.FT_LENGTH.fixedtext.text
 msgctxt "tabline.src#RID_SVXPAGE_LINE_DEF.FT_LENGTH.fixedtext.text"
 msgid "~Length"
 msgstr "~Longitud"
 
+#. s94H
 #: tabline.src#RID_SVXPAGE_LINE_DEF.FT_DISTANCE.fixedtext.text
 msgctxt "tabline.src#RID_SVXPAGE_LINE_DEF.FT_DISTANCE.fixedtext.text"
 msgid "~Spacing"
 msgstr "E~spaiat"
 
+#. DHdo
 #: tabline.src#RID_SVXPAGE_LINE_DEF.CBX_SYNCHRONIZE.checkbox.text
 msgid "~Fit to line width"
 msgstr "Ajusta a l'~amplada de la línia"
 
+#. nzNg
 #: tabline.src#RID_SVXPAGE_LINE_DEF.FT_LINESTYLE.fixedtext.text
 msgid "Line style"
 msgstr "Estil de la línia"
 
+#. jmhN
 #: tabline.src#RID_SVXPAGE_LINE_DEF.BTN_ADD.pushbutton.text
 msgctxt "tabline.src#RID_SVXPAGE_LINE_DEF.BTN_ADD.pushbutton.text"
 msgid "~Add..."
 msgstr "~Afig..."
 
+#. X1jm
 #: tabline.src#RID_SVXPAGE_LINE_DEF.BTN_MODIFY.pushbutton.text
 msgctxt "tabline.src#RID_SVXPAGE_LINE_DEF.BTN_MODIFY.pushbutton.text"
 msgid "~Modify..."
 msgstr "~Modifica..."
 
+#. 7AT3
 #: tabline.src#RID_SVXPAGE_LINE_DEF.BTN_DELETE.pushbutton.text
 msgctxt "tabline.src#RID_SVXPAGE_LINE_DEF.BTN_DELETE.pushbutton.text"
 msgid "~Delete..."
 msgstr "~Suprimeix..."
 
+#. vXcv
 #: tabline.src#RID_SVXPAGE_LINE_DEF.BTN_LOAD.imagebutton.text
 msgctxt "tabline.src#RID_SVXPAGE_LINE_DEF.BTN_LOAD.imagebutton.text"
 msgid "-"
 msgstr "-"
 
+#. zpTd
 #: tabline.src#RID_SVXPAGE_LINE_DEF.BTN_LOAD.imagebutton.quickhelptext
 msgid "Load Line Styles"
 msgstr "Carrega els estils de línia"
 
+#. lhTE
 #: tabline.src#RID_SVXPAGE_LINE_DEF.BTN_SAVE.imagebutton.text
 msgctxt "tabline.src#RID_SVXPAGE_LINE_DEF.BTN_SAVE.imagebutton.text"
 msgid "-"
 msgstr "-"
 
+#. HOkC
 #: tabline.src#RID_SVXPAGE_LINE_DEF.BTN_SAVE.imagebutton.quickhelptext
 msgid "Save Line Styles"
 msgstr "Alça els estils de línia"
 
+#. FBGk
 #: tabline.src#RID_SVXPAGE_LINE_DEF.STR_START_TYPE.string.text
 msgid "Start type"
 msgstr "Tipus d'inici"
 
+#. FZCD
 #: tabline.src#RID_SVXPAGE_LINE_DEF.STR_END_TYPE.string.text
 msgid "End type"
 msgstr "Tipus de final"
 
+#. #5LX
 #: tabline.src#RID_SVXPAGE_LINE_DEF.STR_START_NUM.string.text
 msgid "Start number"
 msgstr "Número d'inici"
 
+#. qoTX
 #: tabline.src#RID_SVXPAGE_LINE_DEF.STR_END_NUM.string.text
 msgid "End number"
 msgstr "Número final"
 
+#. ZCHs
 #: tabline.src#RID_SVXPAGE_LINE_DEF.STR_START_LENGTH.string.text
 msgid "Start length"
 msgstr "Longitud inicial"
 
+#. Ip16
 #: tabline.src#RID_SVXPAGE_LINE_DEF.STR_END_LENGTH.string.text
 msgid "End length"
 msgstr "Longitud final"
 
+#. ##Qr
 #: tabline.src#RID_SVXPAGE_LINE_DEF.tabpage.text
 msgid "Define line styles"
 msgstr "Defineix estils de línia"
 
+#. nA0N
 #: tabline.src#RID_SVXPAGE_LINEEND_DEF.FL_TIP.fixedline.text
 msgid "Organize arrow styles"
 msgstr "Organitza els estils de fletxa"
 
+#. d5hT
 #: tabline.src#RID_SVXPAGE_LINEEND_DEF.FI_TIP.fixedtext.text
 msgid "Add a selected object to create new arrow styles."
 msgstr "Afig un objecte seleccionat per crear estils de fletxa nous."
 
+#. REpm
 #: tabline.src#RID_SVXPAGE_LINEEND_DEF.FT_LINE_END_STYLE.fixedtext.text
 msgid "Arrow style"
 msgstr "Estil de la fletxa"
 
+#. vD2E
 #: tabline.src#RID_SVXPAGE_LINEEND_DEF.FT_TITLE.fixedtext.text
 msgid "~Title"
 msgstr "~Títol"
 
+#. ie56
 #: tabline.src#RID_SVXPAGE_LINEEND_DEF.BTN_ADD.pushbutton.text
 msgctxt "tabline.src#RID_SVXPAGE_LINEEND_DEF.BTN_ADD.pushbutton.text"
 msgid "~Add..."
 msgstr "~Afig..."
 
+#. vVOV
 #: tabline.src#RID_SVXPAGE_LINEEND_DEF.BTN_MODIFY.pushbutton.text
 msgctxt "tabline.src#RID_SVXPAGE_LINEEND_DEF.BTN_MODIFY.pushbutton.text"
 msgid "~Modify..."
 msgstr "~Modifica..."
 
+#. VKei
 #: tabline.src#RID_SVXPAGE_LINEEND_DEF.BTN_DELETE.pushbutton.text
 msgctxt "tabline.src#RID_SVXPAGE_LINEEND_DEF.BTN_DELETE.pushbutton.text"
 msgid "~Delete..."
 msgstr "~Suprimeix..."
 
+#. A05I
 #: tabline.src#RID_SVXPAGE_LINEEND_DEF.BTN_LOAD.imagebutton.text
 msgctxt "tabline.src#RID_SVXPAGE_LINEEND_DEF.BTN_LOAD.imagebutton.text"
 msgid "-"
 msgstr "-"
 
+#. 2WZ8
 #: tabline.src#RID_SVXPAGE_LINEEND_DEF.BTN_LOAD.imagebutton.quickhelptext
 msgid "Load Arrow Styles"
 msgstr "Carrega els estils de fletxa"
 
+#. SA#b
 #: tabline.src#RID_SVXPAGE_LINEEND_DEF.BTN_SAVE.imagebutton.text
 msgctxt "tabline.src#RID_SVXPAGE_LINEEND_DEF.BTN_SAVE.imagebutton.text"
 msgid "-"
 msgstr "-"
 
+#. kBGZ
 #: tabline.src#RID_SVXPAGE_LINEEND_DEF.BTN_SAVE.imagebutton.quickhelptext
 msgid "Save Arrow Styles"
 msgstr "Alça els estils de fletxa"
 
+#. hC06
 #: tabline.src#RID_SVXPAGE_LINEEND_DEF.tabpage.text
 msgid "Arrowheads"
 msgstr "Extrems de fletxa"
 
+#. Y95R
 #: tabline.src#RID_SVXDLG_LINE.TAB_CONTROL.RID_SVXPAGE_LINE.pageitem.text
-msgctxt "tabline.src#RID_SVXDLG_LINE.TAB_CONTROL.RID_SVXPAGE_LINE.pageitem.text"
+msgctxt ""
+"tabline.src#RID_SVXDLG_LINE.TAB_CONTROL.RID_SVXPAGE_LINE.pageitem.text"
 msgid "Line"
 msgstr "Línia"
 
+#. hINu
 #: tabline.src#RID_SVXDLG_LINE.TAB_CONTROL.RID_SVXPAGE_SHADOW.pageitem.text
-msgctxt "tabline.src#RID_SVXDLG_LINE.TAB_CONTROL.RID_SVXPAGE_SHADOW.pageitem.text"
+msgctxt ""
+"tabline.src#RID_SVXDLG_LINE.TAB_CONTROL.RID_SVXPAGE_SHADOW.pageitem.text"
 msgid "Shadow"
 msgstr "Ombra"
 
+#. JgQ4
 #: tabline.src#RID_SVXDLG_LINE.TAB_CONTROL.RID_SVXPAGE_LINE_DEF.pageitem.text
 msgid "Line Styles"
 msgstr "Estils de línia"
 
+#. svYJ
 #: tabline.src#RID_SVXDLG_LINE.TAB_CONTROL.RID_SVXPAGE_LINEEND_DEF.pageitem.text
 msgid "Arrow Styles"
 msgstr "Estils de fletxa"
 
+#. L51B
 #: tabline.src#RID_SVXDLG_LINE.tabdialog.text
 msgctxt "tabline.src#RID_SVXDLG_LINE.tabdialog.text"
 msgid "Line"
 msgstr "Línia"
 
+#. _VNV
 #: tabstpge.src#RID_SVXPAGE_TABULATOR.FL_TABPOS.fixedline.text
 msgctxt "tabstpge.src#RID_SVXPAGE_TABULATOR.FL_TABPOS.fixedline.text"
 msgid "Position"
 msgstr "Posició"
 
+#. mtVi
 #: tabstpge.src#RID_SVXPAGE_TABULATOR.FL_TABTYPE.fixedline.text
 msgctxt "tabstpge.src#RID_SVXPAGE_TABULATOR.FL_TABTYPE.fixedline.text"
 msgid "Type"
 msgstr "Tipus"
 
+#. WBNi
 #: tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_TABTYPE_LEFT.radiobutton.text
 msgctxt "tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_TABTYPE_LEFT.radiobutton.text"
 msgid "~Left"
 msgstr "~Esquerra"
 
+#. U9nE
 #: tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_TABTYPE_RIGHT.radiobutton.text
 msgctxt "tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_TABTYPE_RIGHT.radiobutton.text"
 msgid "Righ~t"
 msgstr "Dre~ta"
 
+#. Z7R5
 #: tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_TABTYPE_CENTER.radiobutton.text
 msgid "C~entered"
 msgstr "C~entrat"
 
+#. SQyz
 #: tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_TABTYPE_DECIMAL.radiobutton.text
 msgid "Deci~mal"
 msgstr "Deci~mal"
 
+#. Snou
 #: tabstpge.src#RID_SVXPAGE_TABULATOR.FT_TABTYPE_DECCHAR.fixedtext.text
 msgid "~Character"
 msgstr "~Caràcter"
 
+#. 37jz
 #: tabstpge.src#RID_SVXPAGE_TABULATOR.FL_FILLCHAR.fixedline.text
 msgid "Fill character"
 msgstr "Caràcter de farciment"
 
+#. Bava
 #: tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_FILLCHAR_NO.radiobutton.text
 msgctxt "tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_FILLCHAR_NO.radiobutton.text"
 msgid "N~one"
 msgstr "C~ap"
 
+#. sjjm
 #: tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_FILLCHAR_OTHER.radiobutton.text
-msgctxt "tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_FILLCHAR_OTHER.radiobutton.text"
+msgctxt ""
+"tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_FILLCHAR_OTHER.radiobutton.text"
 msgid "Character"
 msgstr "Caràcter"
 
+#. dkSg
 #: tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_NEW.pushbutton.text
 msgctxt "tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_NEW.pushbutton.text"
 msgid "~New"
 msgstr "~Nou"
 
+#. PLS4
 #: tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_DELALL.pushbutton.text
 msgid "Delete ~All"
 msgstr "Suprimeix-ho ~tot"
 
+#. H1Za
 #: tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_DEL.pushbutton.text
 msgctxt "tabstpge.src#RID_SVXPAGE_TABULATOR.BTN_DEL.pushbutton.text"
 msgid "~Delete"
 msgstr "~Suprimeix"
 
+#. f8xL
 #: tabstpge.src#RID_SVXPAGE_TABULATOR.ST_LEFTTAB_ASIAN.string.text
 msgctxt "tabstpge.src#RID_SVXPAGE_TABULATOR.ST_LEFTTAB_ASIAN.string.text"
 msgid "~Left/Top"
 msgstr "~Esquerra/Dalt"
 
+#. ETWG
 #: tabstpge.src#RID_SVXPAGE_TABULATOR.ST_RIGHTTAB_ASIAN.string.text
 msgctxt "tabstpge.src#RID_SVXPAGE_TABULATOR.ST_RIGHTTAB_ASIAN.string.text"
 msgid "Righ~t/Bottom"
 msgstr "Dre~ta/Sota"
 
+#. QeOL
 #: tabstpge.src#RID_SVXPAGE_TABULATOR.ST_FILLCHAR_OTHER.string.text
 msgctxt "tabstpge.src#RID_SVXPAGE_TABULATOR.ST_FILLCHAR_OTHER.string.text"
 msgid "Character"
 msgstr "Caràcter"
 
+#. DH8M
 #: tabstpge.src#RID_SVXPAGE_TABULATOR.tabpage.text
 msgid "Tabs"
 msgstr "Tabuladors"
 
+#. #l3v
 #: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FL_SIZE.fixedline.text
 msgctxt "swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FL_SIZE.fixedline.text"
 msgid "Size"
 msgstr "Mida"
 
+#. PoZl
 #: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FT_WIDTH.fixedtext.text
 msgctxt "swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FT_WIDTH.fixedtext.text"
 msgid "~Width"
 msgstr "~Amplada"
 
+#. Mege
 #: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FT_HEIGHT.fixedtext.text
 msgctxt "swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FT_HEIGHT.fixedtext.text"
 msgid "H~eight"
 msgstr "A~lçada"
 
+#. w7Cx
 #: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.CB_KEEPRATIO.checkbox.text
 msgctxt "swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.CB_KEEPRATIO.checkbox.text"
 msgid "~Keep ratio"
 msgstr "C~onserva la relació"
 
+#. xovZ
 #: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FL_ANCHOR.fixedline.text
 msgctxt "swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FL_ANCHOR.fixedline.text"
 msgid "Anchor"
 msgstr "Àncora"
 
+#. kGll
 #: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.RB_TOPAGE.radiobutton.text
 msgid "To ~page"
 msgstr "A la ~pàgina"
 
+#. SmCd
 #: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.RB_TOPARA.radiobutton.text
 msgid "To paragrap~h"
 msgstr "Al paràgra~f"
 
+#. X66X
 #: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.RB_TOCHAR.radiobutton.text
 msgid "To cha~racter"
 msgstr "Al ca~ràcter"
 
+#. vMgs
 #: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.RB_ASCHAR.radiobutton.text
 msgid "~As character"
 msgstr "~Com a caràcter"
 
+#. FPaj
 #: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.RB_TOFRAME.radiobutton.text
 msgid "To ~frame"
 msgstr "Al ~marc"
 
+#. AjtW
 #: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FL_PROTECTION.fixedline.text
-msgctxt "swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FL_PROTECTION.fixedline.text"
+msgctxt ""
+"swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FL_PROTECTION.fixedline.text"
 msgid "Protect"
 msgstr "Protegeix"
 
+#. MWn3
 #: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.CB_POSITION.tristatebox.text
-msgctxt "swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.CB_POSITION.tristatebox.text"
+msgctxt ""
+"swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.CB_POSITION.tristatebox.text"
 msgid "Position"
 msgstr "Posició"
 
+#. bmfI
 #: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.CB_SIZE.tristatebox.text
 msgctxt "swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.CB_SIZE.tristatebox.text"
 msgid "~Size"
 msgstr "~Mida"
 
+#. YXZe
 #: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FL_POSITION.fixedline.text
 msgctxt "swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FL_POSITION.fixedline.text"
 msgid "Position"
 msgstr "Posició"
 
+#. cNXM
 #: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FT_HORI.fixedtext.text
 msgctxt "swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FT_HORI.fixedtext.text"
 msgid "Hori~zontal"
 msgstr "Horit~zontal"
 
+#. PnX6
 #: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FT_HORIBY.fixedtext.text
 msgctxt "swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FT_HORIBY.fixedtext.text"
 msgid "b~y"
 msgstr "~per"
 
+#. IY7c
 #: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FT_HORITO.fixedtext.text
 msgid "~to"
 msgstr "~a"
 
+#. E0ta
 #: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.CB_HORIMIRROR.checkbox.text
 msgid "~Mirror on even pages"
 msgstr "~Rèplica en pàgines parelles"
 
+#. X#np
 #: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FT_VERT.fixedtext.text
 msgctxt "swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FT_VERT.fixedtext.text"
 msgid "~Vertical"
 msgstr "~Vertical"
 
+#. 4Cz_
 #: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FT_VERTBY.fixedtext.text
 msgid "by"
 msgstr "per"
 
+#. FVRV
 #: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.FT_VERTTO.fixedtext.text
 msgid "t~o"
 msgstr "~a"
 
+#. Z5Z3
 #: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.CB_FOLLOW.checkbox.text
 msgid "Follow text flow"
 msgstr "Segueix el flux del text"
 
+#. 1Gu6
 #: swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.tabpage.text
 msgctxt "swpossizetabpage.src#RID_SVXPAGE_SWPOSSIZE.tabpage.text"
 msgid "Position and Size"
 msgstr "Posició i mida"
 
+#. kpPB
 #: tabarea.src#RID_SVXPAGE_TRANSPARENCE.FL_PROP.fixedline.text
 msgid "Transparency mode"
 msgstr "Mode de transparència"
 
+#. zvlj
 #: tabarea.src#RID_SVXPAGE_TRANSPARENCE.RBT_TRANS_OFF.radiobutton.text
 msgid "~No transparency"
 msgstr "~Sense transparència"
 
+#. uzt0
 #: tabarea.src#RID_SVXPAGE_TRANSPARENCE.RBT_TRANS_LINEAR.radiobutton.text
-msgctxt "tabarea.src#RID_SVXPAGE_TRANSPARENCE.RBT_TRANS_LINEAR.radiobutton.text"
+msgctxt ""
+"tabarea.src#RID_SVXPAGE_TRANSPARENCE.RBT_TRANS_LINEAR.radiobutton.text"
 msgid "~Transparency"
 msgstr "~Transparència"
 
+#. sdw#
 #: tabarea.src#RID_SVXPAGE_TRANSPARENCE.RBT_TRANS_GRADIENT.radiobutton.text
-msgctxt "tabarea.src#RID_SVXPAGE_TRANSPARENCE.RBT_TRANS_GRADIENT.radiobutton.text"
+msgctxt ""
+"tabarea.src#RID_SVXPAGE_TRANSPARENCE.RBT_TRANS_GRADIENT.radiobutton.text"
 msgid "Gradient"
 msgstr "Degradat"
 
+#. YGLp
 #: tabarea.src#RID_SVXPAGE_TRANSPARENCE.FT_TRGR_TYPE.fixedtext.text
 msgctxt "tabarea.src#RID_SVXPAGE_TRANSPARENCE.FT_TRGR_TYPE.fixedtext.text"
 msgid "Ty~pe"
 msgstr "Ti~pus"
 
+#. gvLB
 #: tabarea.src#RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES.1.stringlist.text
-msgctxt "tabarea.src#RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES.1.stringlist.text"
+msgctxt ""
+"tabarea.src#RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES.1.stringlist.text"
 msgid "Linear"
 msgstr "Lineal"
 
+#. 65iv
 #: tabarea.src#RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES.2.stringlist.text
-msgctxt "tabarea.src#RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES.2.stringlist.text"
+msgctxt ""
+"tabarea.src#RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES.2.stringlist.text"
 msgid "Axial"
 msgstr "Axial"
 
+#. B0d8
 #: tabarea.src#RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES.3.stringlist.text
-msgctxt "tabarea.src#RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES.3.stringlist.text"
+msgctxt ""
+"tabarea.src#RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES.3.stringlist.text"
 msgid "Radial"
 msgstr "Radial"
 
+#. bFxz
 #: tabarea.src#RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES.4.stringlist.text
-msgctxt "tabarea.src#RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES.4.stringlist.text"
+msgctxt ""
+"tabarea.src#RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES.4.stringlist.text"
 msgid "Ellipsoid"
 msgstr "El·lipsoide"
 
+#. eAmC
 #: tabarea.src#RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES.5.stringlist.text
 msgid "Quadratic"
 msgstr "Quadràtic"
 
+#. 4s9#
 #: tabarea.src#RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES.6.stringlist.text
-msgctxt "tabarea.src#RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES.6.stringlist.text"
+msgctxt ""
+"tabarea.src#RID_SVXPAGE_TRANSPARENCE.LB_TRGR_GRADIENT_TYPES.6.stringlist.text"
 msgid "Square"
 msgstr "Quadrat"
 
+#. Onzj
 #: tabarea.src#RID_SVXPAGE_TRANSPARENCE.FT_TRGR_CENTER_X.fixedtext.text
 msgctxt "tabarea.src#RID_SVXPAGE_TRANSPARENCE.FT_TRGR_CENTER_X.fixedtext.text"
 msgid "Center ~X"
 msgstr "Centre ~X"
 
+#. _To5
 #: tabarea.src#RID_SVXPAGE_TRANSPARENCE.FT_TRGR_CENTER_Y.fixedtext.text
 msgctxt "tabarea.src#RID_SVXPAGE_TRANSPARENCE.FT_TRGR_CENTER_Y.fixedtext.text"
 msgid "Center ~Y"
 msgstr "Centre ~Y"
 
+#. 8pBj
 #: tabarea.src#RID_SVXPAGE_TRANSPARENCE.FT_TRGR_ANGLE.fixedtext.text
 msgctxt "tabarea.src#RID_SVXPAGE_TRANSPARENCE.FT_TRGR_ANGLE.fixedtext.text"
 msgid "~Angle"
 msgstr "A~ngle"
 
+#. 4HH6
 #: tabarea.src#RID_SVXPAGE_TRANSPARENCE.MTR_TRGR_ANGLE.metricfield.text
 msgctxt "tabarea.src#RID_SVXPAGE_TRANSPARENCE.MTR_TRGR_ANGLE.metricfield.text"
 msgid " degrees"
 msgstr " graus"
 
+#. 9Q#I
 #: tabarea.src#RID_SVXPAGE_TRANSPARENCE.FT_TRGR_BORDER.fixedtext.text
 msgctxt "tabarea.src#RID_SVXPAGE_TRANSPARENCE.FT_TRGR_BORDER.fixedtext.text"
 msgid "~Border"
 msgstr "~Vores"
 
+#. n_m0
 #: tabarea.src#RID_SVXPAGE_TRANSPARENCE.FT_TRGR_START_VALUE.fixedtext.text
 msgid "~Start value"
 msgstr "Valor ~inicial"
 
+#. gIF5
 #: tabarea.src#RID_SVXPAGE_TRANSPARENCE.FT_TRGR_END_VALUE.fixedtext.text
 msgid "~End value"
 msgstr "Valor ~final"
 
+#. aA0W
 #: tabarea.src#RID_SVXPAGE_TRANSPARENCE.tabpage.text
 msgctxt "tabarea.src#RID_SVXPAGE_TRANSPARENCE.tabpage.text"
 msgid "Transparency"
 msgstr "Transparència"
 
+#. Hkv6
 #: tabarea.src#RID_SVXPAGE_AREA.FL_PROP.fixedline.text
 msgid "Fill"
 msgstr "Omple"
 
+#. j2YD
 #: tabarea.src#RID_SVXPAGE_AREA.LB_AREA_TYPE.1.stringlist.text
 msgctxt "tabarea.src#RID_SVXPAGE_AREA.LB_AREA_TYPE.1.stringlist.text"
 msgid "None"
 msgstr "Cap"
 
+#. 1#R_
 #: tabarea.src#RID_SVXPAGE_AREA.LB_AREA_TYPE.2.stringlist.text
 msgctxt "tabarea.src#RID_SVXPAGE_AREA.LB_AREA_TYPE.2.stringlist.text"
 msgid "Color"
 msgstr "Color"
 
+#. CxGE
 #: tabarea.src#RID_SVXPAGE_AREA.LB_AREA_TYPE.3.stringlist.text
 msgctxt "tabarea.src#RID_SVXPAGE_AREA.LB_AREA_TYPE.3.stringlist.text"
 msgid "Gradient"
 msgstr "Degradat"
 
+#. YqCx
 #: tabarea.src#RID_SVXPAGE_AREA.LB_AREA_TYPE.4.stringlist.text
 msgctxt "tabarea.src#RID_SVXPAGE_AREA.LB_AREA_TYPE.4.stringlist.text"
 msgid "Hatching"
 msgstr "Ombreig"
 
+#. ln7A
 #: tabarea.src#RID_SVXPAGE_AREA.LB_AREA_TYPE.5.stringlist.text
 msgctxt "tabarea.src#RID_SVXPAGE_AREA.LB_AREA_TYPE.5.stringlist.text"
 msgid "Bitmap"
 msgstr "Mapa de bits"
 
+#. Q4hJ
 #: tabarea.src#RID_SVXPAGE_AREA.FL_STEPCOUNT.fixedline.text
 msgid "Increments"
 msgstr "Increments"
 
+#. 7oWe
 #: tabarea.src#RID_SVXPAGE_AREA.TSB_STEPCOUNT.tristatebox.text
 msgctxt "tabarea.src#RID_SVXPAGE_AREA.TSB_STEPCOUNT.tristatebox.text"
 msgid "A~utomatic"
 msgstr "Au~tomàtic"
 
+#. AC#t
 #: tabarea.src#RID_SVXPAGE_AREA.CB_HATCHBCKGRD.checkbox.text
 msgctxt "tabarea.src#RID_SVXPAGE_AREA.CB_HATCHBCKGRD.checkbox.text"
 msgid "~Background color"
 msgstr "Color del ~fons"
 
+#. b8mN
 #: tabarea.src#RID_SVXPAGE_AREA.FL_SIZE.fixedline.text
 msgctxt "tabarea.src#RID_SVXPAGE_AREA.FL_SIZE.fixedline.text"
 msgid "Size"
 msgstr "Mida"
 
+#. 3cJ1
 #: tabarea.src#RID_SVXPAGE_AREA.TSB_ORIGINAL.tristatebox.text
 msgid "~Original"
 msgstr "~Original"
 
+#. 58iG
 #: tabarea.src#RID_SVXPAGE_AREA.TSB_SCALE.tristatebox.text
 msgid "Re~lative"
 msgstr "~Relativa"
 
+#. nwDK
 #: tabarea.src#RID_SVXPAGE_AREA.FT_X_SIZE.fixedtext.text
 msgctxt "tabarea.src#RID_SVXPAGE_AREA.FT_X_SIZE.fixedtext.text"
 msgid "Wi~dth"
 msgstr "Ampla~da"
 
+#. i85V
 #: tabarea.src#RID_SVXPAGE_AREA.FT_Y_SIZE.fixedtext.text
 msgctxt "tabarea.src#RID_SVXPAGE_AREA.FT_Y_SIZE.fixedtext.text"
 msgid "H~eight"
 msgstr "A~lçada"
 
+#. o2a2
 #: tabarea.src#RID_SVXPAGE_AREA.FL_POSITION.fixedline.text
 msgctxt "tabarea.src#RID_SVXPAGE_AREA.FL_POSITION.fixedline.text"
 msgid "Position"
 msgstr "Posició"
 
+#. zaLb
 #: tabarea.src#RID_SVXPAGE_AREA.FT_X_OFFSET.fixedtext.text
 msgid "~X Offset"
 msgstr "Desplaçament ~X"
 
+#. qNcp
 #: tabarea.src#RID_SVXPAGE_AREA.FT_Y_OFFSET.fixedtext.text
 msgid "~Y Offset"
 msgstr "Desplaçament ~Y"
 
+#. VsoI
 #: tabarea.src#RID_SVXPAGE_AREA.TSB_TILE.tristatebox.text
 msgctxt "tabarea.src#RID_SVXPAGE_AREA.TSB_TILE.tristatebox.text"
 msgid "~Tile"
 msgstr "~Mosaic"
 
+#. w#Et
 #: tabarea.src#RID_SVXPAGE_AREA.TSB_STRETCH.tristatebox.text
 msgid "Auto~Fit"
 msgstr "Aju~stament automàtic"
 
+#. YOzd
 #: tabarea.src#RID_SVXPAGE_AREA.FL_OFFSET.fixedline.text
 msgid "Offset"
 msgstr "Desplaçament"
 
+#. r_5s
 #: tabarea.src#RID_SVXPAGE_AREA.RBT_ROW.radiobutton.text
 msgid "Ro~w"
 msgstr "Fi~la"
 
+#. lEZL
 #: tabarea.src#RID_SVXPAGE_AREA.RBT_COLUMN.radiobutton.text
 msgid "Colu~mn"
 msgstr "Colu~mna"
 
+#. 7JJy
 #: tabarea.src#RID_SVXPAGE_AREA.tabpage.text
 msgctxt "tabarea.src#RID_SVXPAGE_AREA.tabpage.text"
 msgid "Area"
 msgstr "Àrea"
 
+#. i2hd
 #: tabarea.src#RID_SVXPAGE_SHADOW.FL_PROP.fixedline.text
 msgctxt "tabarea.src#RID_SVXPAGE_SHADOW.FL_PROP.fixedline.text"
 msgid "Properties"
 msgstr "Propietats"
 
+#. SUSH
 #: tabarea.src#RID_SVXPAGE_SHADOW.TSB_SHOW_SHADOW.tristatebox.text
 msgid "~Use shadow"
 msgstr "~Utilitza l'ombra"
 
+#. F_sK
 #: tabarea.src#RID_SVXPAGE_SHADOW.FT_POSITION.fixedtext.text
 msgctxt "tabarea.src#RID_SVXPAGE_SHADOW.FT_POSITION.fixedtext.text"
 msgid "~Position"
 msgstr "~Posició"
 
+#. mdW3
 #: tabarea.src#RID_SVXPAGE_SHADOW.FT_DISTANCE.fixedtext.text
 msgid "~Distance"
 msgstr "~Distància"
 
+#. gxvF
 #: tabarea.src#RID_SVXPAGE_SHADOW.FT_SHADOW_COLOR.fixedtext.text
 msgctxt "tabarea.src#RID_SVXPAGE_SHADOW.FT_SHADOW_COLOR.fixedtext.text"
 msgid "~Color"
 msgstr "~Color"
 
+#. Ti2O
 #: tabarea.src#RID_SVXPAGE_SHADOW.FT_TRANSPARENT.fixedtext.text
 msgctxt "tabarea.src#RID_SVXPAGE_SHADOW.FT_TRANSPARENT.fixedtext.text"
 msgid "~Transparency"
 msgstr "~Transparència"
 
+#. 2kWW
 #: tabarea.src#RID_SVXPAGE_SHADOW.tabpage.text
 msgctxt "tabarea.src#RID_SVXPAGE_SHADOW.tabpage.text"
 msgid "Shadow"
 msgstr "Ombra"
 
+#. dbCu
 #: tabarea.src#RID_SVXPAGE_HATCH.FL_PROP.fixedline.text
 msgctxt "tabarea.src#RID_SVXPAGE_HATCH.FL_PROP.fixedline.text"
 msgid "Properties"
 msgstr "Propietats"
 
+#. w3WJ
 #: tabarea.src#RID_SVXPAGE_HATCH.FT_LINE_DISTANCE.fixedtext.text
 msgctxt "tabarea.src#RID_SVXPAGE_HATCH.FT_LINE_DISTANCE.fixedtext.text"
 msgid "~Spacing"
 msgstr "E~spaiat"
 
+#. KVTx
 #: tabarea.src#RID_SVXPAGE_HATCH.FT_LINE_ANGLE.fixedtext.text
 msgctxt "tabarea.src#RID_SVXPAGE_HATCH.FT_LINE_ANGLE.fixedtext.text"
 msgid "A~ngle"
 msgstr "A~ngle"
 
+#. K58#
 #: tabarea.src#RID_SVXPAGE_HATCH.MTR_FLD_ANGLE.metricfield.text
 msgctxt "tabarea.src#RID_SVXPAGE_HATCH.MTR_FLD_ANGLE.metricfield.text"
 msgid " degrees"
 msgstr " graus"
 
+#. sNSS
 #: tabarea.src#RID_SVXPAGE_HATCH.FT_LINE_TYPE.fixedtext.text
 msgid "~Line type"
 msgstr "Tipus de ~línia"
 
+#. KwuF
 #: tabarea.src#RID_SVXPAGE_HATCH.LB_LINE_TYPE.1.stringlist.text
 msgctxt "tabarea.src#RID_SVXPAGE_HATCH.LB_LINE_TYPE.1.stringlist.text"
 msgid "Single"
 msgstr "Única"
 
+#. u61z
 #: tabarea.src#RID_SVXPAGE_HATCH.LB_LINE_TYPE.2.stringlist.text
 msgid "Crossed"
 msgstr "Encreuat"
 
+#. r3AC
 #: tabarea.src#RID_SVXPAGE_HATCH.LB_LINE_TYPE.3.stringlist.text
 msgid "Triple"
 msgstr "Triple"
 
+#. eprJ
 #: tabarea.src#RID_SVXPAGE_HATCH.FT_LINE_COLOR.fixedtext.text
 msgid "Line ~color"
 msgstr "~Color de línia"
 
+#. JTSY
 #: tabarea.src#RID_SVXPAGE_HATCH.BTN_ADD.pushbutton.text
 msgctxt "tabarea.src#RID_SVXPAGE_HATCH.BTN_ADD.pushbutton.text"
 msgid "~Add..."
 msgstr "~Afig..."
 
+#. DooA
 #: tabarea.src#RID_SVXPAGE_HATCH.BTN_MODIFY.pushbutton.text
 msgctxt "tabarea.src#RID_SVXPAGE_HATCH.BTN_MODIFY.pushbutton.text"
 msgid "~Modify..."
 msgstr "~Modifica..."
 
+#. hv2v
 #: tabarea.src#RID_SVXPAGE_HATCH.BTN_DELETE.pushbutton.text
 msgctxt "tabarea.src#RID_SVXPAGE_HATCH.BTN_DELETE.pushbutton.text"
 msgid "~Delete..."
 msgstr "~Suprimeix..."
 
+#. sY9u
 #: tabarea.src#RID_SVXPAGE_HATCH.BTN_LOAD.imagebutton.text
 msgctxt "tabarea.src#RID_SVXPAGE_HATCH.BTN_LOAD.imagebutton.text"
 msgid "-"
 msgstr "-"
 
+#. _Pcz
 #: tabarea.src#RID_SVXPAGE_HATCH.BTN_LOAD.imagebutton.quickhelptext
 msgid "Load Hatches List"
 msgstr "Carrega la llista d'escotilles"
 
+#. WeoF
 #: tabarea.src#RID_SVXPAGE_HATCH.BTN_SAVE.imagebutton.text
 msgctxt "tabarea.src#RID_SVXPAGE_HATCH.BTN_SAVE.imagebutton.text"
 msgid "-"
 msgstr "-"
 
+#. JoLM
 #: tabarea.src#RID_SVXPAGE_HATCH.BTN_SAVE.imagebutton.quickhelptext
 msgid "Save Hatches List"
 msgstr "Alça la llista d'escotilles"
 
+# 100%
+#. 6Hin
 #: tabarea.src#RID_SVXPAGE_HATCH.BTN_EMBED.checkbox.text
 msgctxt "tabarea.src#RID_SVXPAGE_HATCH.BTN_EMBED.checkbox.text"
 msgid "Embed"
 msgstr "Incrustat"
 
+#. OfE7
 #: tabarea.src#RID_SVXPAGE_HATCH.tabpage.text
 msgctxt "tabarea.src#RID_SVXPAGE_HATCH.tabpage.text"
 msgid "Hatching"
 msgstr "Ombreig"
 
+#. PMLc
 #: tabarea.src#RID_SVXPAGE_BITMAP.FL_PROP.fixedline.text
 msgctxt "tabarea.src#RID_SVXPAGE_BITMAP.FL_PROP.fixedline.text"
 msgid "Properties"
 msgstr "Propietats"
 
+#. se5a
 #: tabarea.src#RID_SVXPAGE_BITMAP.FT_PIXEL_EDIT.fixedtext.text
 msgid "Pattern Editor"
 msgstr "Editor de patrons"
 
+#. NFbz
 #: tabarea.src#RID_SVXPAGE_BITMAP.FT_COLOR.fixedtext.text
 msgid "~Foreground color"
 msgstr "Colo~r de primer pla"
 
+#. hCFG
 #: tabarea.src#RID_SVXPAGE_BITMAP.FT_BACKGROUND_COLOR.fixedtext.text
 msgctxt "tabarea.src#RID_SVXPAGE_BITMAP.FT_BACKGROUND_COLOR.fixedtext.text"
 msgid "~Background color"
 msgstr "Color del ~fons"
 
+#. fEqN
 #: tabarea.src#RID_SVXPAGE_BITMAP.FT_BITMAPS_HIDDEN.fixedtext.text
 msgctxt "tabarea.src#RID_SVXPAGE_BITMAP.FT_BITMAPS_HIDDEN.fixedtext.text"
 msgid "Bitmap"
 msgstr "Mapa de bits"
 
+#. ZWiu
 #: tabarea.src#RID_SVXPAGE_BITMAP.BTN_ADD.pushbutton.text
 msgctxt "tabarea.src#RID_SVXPAGE_BITMAP.BTN_ADD.pushbutton.text"
 msgid "~Add..."
 msgstr "~Afig..."
 
+#. HqZb
 #: tabarea.src#RID_SVXPAGE_BITMAP.BTN_MODIFY.pushbutton.text
 msgctxt "tabarea.src#RID_SVXPAGE_BITMAP.BTN_MODIFY.pushbutton.text"
 msgid "~Modify..."
 msgstr "~Modifica..."
 
+#. YRYe
 #: tabarea.src#RID_SVXPAGE_BITMAP.BTN_IMPORT.pushbutton.text
 msgid "~Import..."
 msgstr "~Importa..."
 
+#. t_JM
 #: tabarea.src#RID_SVXPAGE_BITMAP.BTN_DELETE.pushbutton.text
 msgctxt "tabarea.src#RID_SVXPAGE_BITMAP.BTN_DELETE.pushbutton.text"
 msgid "~Delete..."
 msgstr "~Suprimeix..."
 
+#. bjyd
 #: tabarea.src#RID_SVXPAGE_BITMAP.BTN_LOAD.imagebutton.text
 msgctxt "tabarea.src#RID_SVXPAGE_BITMAP.BTN_LOAD.imagebutton.text"
 msgid "-"
 msgstr "-"
 
+#. i4yE
 #: tabarea.src#RID_SVXPAGE_BITMAP.BTN_LOAD.imagebutton.quickhelptext
 msgid "Load Bitmap List"
 msgstr "Carrega la llista de mapes de bits"
 
+#. pd7G
 #: tabarea.src#RID_SVXPAGE_BITMAP.BTN_SAVE.imagebutton.text
 msgctxt "tabarea.src#RID_SVXPAGE_BITMAP.BTN_SAVE.imagebutton.text"
 msgid "-"
 msgstr "-"
 
+#. 0lFb
 #: tabarea.src#RID_SVXPAGE_BITMAP.BTN_SAVE.imagebutton.quickhelptext
 msgid "Save Bitmap List"
 msgstr "Alça la llista de mapes de bits"
 
+#. siSh
 #: tabarea.src#RID_SVXPAGE_BITMAP.BTN_EMBED.checkbox.text
 msgctxt "tabarea.src#RID_SVXPAGE_BITMAP.BTN_EMBED.checkbox.text"
 msgid "Embed"
 msgstr "Incrustat"
 
+#. pF1F
 #: tabarea.src#RID_SVXPAGE_BITMAP.tabpage.text
 msgid "Bitmap Patterns"
 msgstr "Patrons de mapa de bits"
 
+#. Jik5
 #: tabarea.src#RID_SVXPAGE_GRADIENT.FL_PROP.fixedline.text
 msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.FL_PROP.fixedline.text"
 msgid "Properties"
 msgstr "Propietats"
 
+#. dxxJ
 #: tabarea.src#RID_SVXPAGE_GRADIENT.FT_TYPE.fixedtext.text
 msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.FT_TYPE.fixedtext.text"
 msgid "Ty~pe"
 msgstr "Ti~pus"
 
+#. bPCp
 #: tabarea.src#RID_SVXPAGE_GRADIENT.LB_GRADIENT_TYPES.1.stringlist.text
 msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.LB_GRADIENT_TYPES.1.stringlist.text"
 msgid "Linear"
 msgstr "Lineal"
 
+#. 9br1
 #: tabarea.src#RID_SVXPAGE_GRADIENT.LB_GRADIENT_TYPES.2.stringlist.text
 msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.LB_GRADIENT_TYPES.2.stringlist.text"
 msgid "Axial"
 msgstr "Axial"
 
+#. 4W#m
 #: tabarea.src#RID_SVXPAGE_GRADIENT.LB_GRADIENT_TYPES.3.stringlist.text
 msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.LB_GRADIENT_TYPES.3.stringlist.text"
 msgid "Radial"
 msgstr "Radial"
 
+#. glY5
 #: tabarea.src#RID_SVXPAGE_GRADIENT.LB_GRADIENT_TYPES.4.stringlist.text
 msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.LB_GRADIENT_TYPES.4.stringlist.text"
 msgid "Ellipsoid"
 msgstr "El·lipsoide"
 
+#. dgfq
 #: tabarea.src#RID_SVXPAGE_GRADIENT.LB_GRADIENT_TYPES.5.stringlist.text
 msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.LB_GRADIENT_TYPES.5.stringlist.text"
 msgid "Square"
 msgstr "Quadrat"
 
+#. BMG6
 #: tabarea.src#RID_SVXPAGE_GRADIENT.LB_GRADIENT_TYPES.6.stringlist.text
 msgid "Rectangular"
 msgstr "Rectangular"
 
+#. Hy1T
 #: tabarea.src#RID_SVXPAGE_GRADIENT.FT_CENTER_X.fixedtext.text
 msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.FT_CENTER_X.fixedtext.text"
 msgid "Center ~X"
 msgstr "Centre ~X"
 
+#. sGEr
 #: tabarea.src#RID_SVXPAGE_GRADIENT.FT_CENTER_Y.fixedtext.text
 msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.FT_CENTER_Y.fixedtext.text"
 msgid "Center ~Y"
 msgstr "Centre ~Y"
 
+#. Xj#v
 #: tabarea.src#RID_SVXPAGE_GRADIENT.FT_ANGLE.fixedtext.text
 msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.FT_ANGLE.fixedtext.text"
 msgid "A~ngle"
 msgstr "A~ngle"
 
+#. 5mjh
 #: tabarea.src#RID_SVXPAGE_GRADIENT.MTR_ANGLE.metricfield.text
 msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.MTR_ANGLE.metricfield.text"
 msgid " degrees"
 msgstr " graus"
 
+#. ai3p
 #: tabarea.src#RID_SVXPAGE_GRADIENT.FT_BORDER.fixedtext.text
 msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.FT_BORDER.fixedtext.text"
 msgid "~Border"
 msgstr "~Vora"
 
+#. 1waw
 #: tabarea.src#RID_SVXPAGE_GRADIENT.FT_COLOR_FROM.fixedtext.text
 msgid "~From"
 msgstr "~De"
 
+#. MDy9
 #: tabarea.src#RID_SVXPAGE_GRADIENT.FT_COLOR_TO.fixedtext.text
 msgid "~To"
 msgstr "~A"
 
+#. fkVK
 #: tabarea.src#RID_SVXPAGE_GRADIENT.BTN_ADD.pushbutton.text
 msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.BTN_ADD.pushbutton.text"
 msgid "~Add..."
 msgstr "~Afig..."
 
+#. cpic
 #: tabarea.src#RID_SVXPAGE_GRADIENT.BTN_MODIFY.pushbutton.text
 msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.BTN_MODIFY.pushbutton.text"
 msgid "~Modify..."
 msgstr "~Modifica..."
 
+#. 0uSL
 #: tabarea.src#RID_SVXPAGE_GRADIENT.BTN_DELETE.pushbutton.text
 msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.BTN_DELETE.pushbutton.text"
 msgid "~Delete..."
 msgstr "~Suprimeix..."
 
+#. 9SxQ
 #: tabarea.src#RID_SVXPAGE_GRADIENT.BTN_LOAD.imagebutton.text
 msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.BTN_LOAD.imagebutton.text"
 msgid "-"
 msgstr "-"
 
+#. dixP
 #: tabarea.src#RID_SVXPAGE_GRADIENT.BTN_LOAD.imagebutton.quickhelptext
 msgid "Load Gradients List"
 msgstr "Carrega la llista de degradats"
 
+#. VM0j
 #: tabarea.src#RID_SVXPAGE_GRADIENT.BTN_SAVE.imagebutton.text
 msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.BTN_SAVE.imagebutton.text"
 msgid "-"
 msgstr "-"
 
+#. B78o
 #: tabarea.src#RID_SVXPAGE_GRADIENT.BTN_SAVE.imagebutton.quickhelptext
 msgid "Save Gradients List"
 msgstr "Alça la llista de degradats"
 
+#. yYl7
 #: tabarea.src#RID_SVXPAGE_GRADIENT.BTN_EMBED.checkbox.text
 msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.BTN_EMBED.checkbox.text"
 msgid "Embed"
 msgstr "Incrustat"
 
+#. HvIE
 #: tabarea.src#RID_SVXPAGE_GRADIENT.tabpage.text
 msgctxt "tabarea.src#RID_SVXPAGE_GRADIENT.tabpage.text"
 msgid "Gradients"
 msgstr "Degradats"
 
+#. YOEs
 #: tabarea.src#RID_SVXPAGE_COLOR.FL_PROP.fixedline.text
 msgctxt "tabarea.src#RID_SVXPAGE_COLOR.FL_PROP.fixedline.text"
 msgid "Properties"
 msgstr "Propietats"
 
+#. Eu6D
 #: tabarea.src#RID_SVXPAGE_COLOR.FT_NAME.fixedtext.text
 msgid "~Name"
 msgstr "~Nom"
 
+#. #VWs
 #: tabarea.src#RID_SVXPAGE_COLOR.FT_COLOR.fixedtext.text
 msgctxt "tabarea.src#RID_SVXPAGE_COLOR.FT_COLOR.fixedtext.text"
 msgid "C~olor"
 msgstr "C~olor"
 
+#. nLhA
 #: tabarea.src#RID_SVXPAGE_COLOR.FT_TABLE_NAME.fixedtext.text
 msgid "Color table"
 msgstr "Taula de colors"
 
+#. flur
 #: tabarea.src#RID_SVXPAGE_COLOR.LB_COLORMODEL.1.stringlist.text
 msgid "RGB"
 msgstr "RGB"
 
+#. 5J17
 #: tabarea.src#RID_SVXPAGE_COLOR.LB_COLORMODEL.2.stringlist.text
 msgid "CMYK"
 msgstr "CMYK"
 
+#. _KOL
 #: tabarea.src#RID_SVXPAGE_COLOR.FT_1.fixedtext.text
 msgid "~C"
 msgstr "~C"
 
+#. jIiC
 #: tabarea.src#RID_SVXPAGE_COLOR.FT_2.fixedtext.text
 msgid "~M"
 msgstr "~M"
 
+#. A#Za
 #: tabarea.src#RID_SVXPAGE_COLOR.FT_3.fixedtext.text
 msgid "~Y"
 msgstr "~Y"
 
+#. 9U4_
 #: tabarea.src#RID_SVXPAGE_COLOR.FT_4.fixedtext.text
 msgid "~K"
 msgstr "~K"
 
+#. Amfp
 #: tabarea.src#RID_SVXPAGE_COLOR.BTN_ADD.pushbutton.text
 msgid "~Add"
 msgstr "~Afig"
 
+#. 0OS5
 #: tabarea.src#RID_SVXPAGE_COLOR.BTN_WORK_ON.pushbutton.text
 msgctxt "tabarea.src#RID_SVXPAGE_COLOR.BTN_WORK_ON.pushbutton.text"
 msgid "~Edit..."
 msgstr "~Edita..."
 
+#. 1f#z
 #: tabarea.src#RID_SVXPAGE_COLOR.BTN_DELETE.pushbutton.text
 msgctxt "tabarea.src#RID_SVXPAGE_COLOR.BTN_DELETE.pushbutton.text"
 msgid "~Delete..."
 msgstr "~Suprimeix..."
 
+#. dYEE
 #: tabarea.src#RID_SVXPAGE_COLOR.BTN_MODIFY.pushbutton.text
 msgid "~Modify"
 msgstr "~Modifica"
 
+#. gnjF
 #: tabarea.src#RID_SVXPAGE_COLOR.BTN_LOAD.imagebutton.text
 msgctxt "tabarea.src#RID_SVXPAGE_COLOR.BTN_LOAD.imagebutton.text"
 msgid "-"
 msgstr "-"
 
+#. 17ja
 #: tabarea.src#RID_SVXPAGE_COLOR.BTN_LOAD.imagebutton.quickhelptext
 msgid "Load Color List"
 msgstr "Carrega la llista de colors"
 
+#. yxMu
 #: tabarea.src#RID_SVXPAGE_COLOR.BTN_SAVE.imagebutton.text
 msgctxt "tabarea.src#RID_SVXPAGE_COLOR.BTN_SAVE.imagebutton.text"
 msgid "-"
 msgstr "-"
 
+#. jiUF
 #: tabarea.src#RID_SVXPAGE_COLOR.BTN_SAVE.imagebutton.quickhelptext
 msgid "Save Color List"
 msgstr "Alça la llista de colors"
 
+# 100%
+#. VyPW
 #: tabarea.src#RID_SVXPAGE_COLOR.BTN_EMBED.checkbox.text
 msgctxt "tabarea.src#RID_SVXPAGE_COLOR.BTN_EMBED.checkbox.text"
 msgid "Embed"
 msgstr "Incrustat"
 
+#. q6QF
 #: tabarea.src#RID_SVXPAGE_COLOR.tabpage.text
 msgctxt "tabarea.src#RID_SVXPAGE_COLOR.tabpage.text"
 msgid "Colors"
 msgstr "Colors"
 
+#. ofdJ
 #: tabarea.src#RID_SVXDLG_AREA.1.RID_SVXPAGE_AREA.pageitem.text
 msgctxt "tabarea.src#RID_SVXDLG_AREA.1.RID_SVXPAGE_AREA.pageitem.text"
 msgid "Area"
 msgstr "Àrea"
 
+#. 4igm
 #: tabarea.src#RID_SVXDLG_AREA.1.RID_SVXPAGE_SHADOW.pageitem.text
 msgctxt "tabarea.src#RID_SVXDLG_AREA.1.RID_SVXPAGE_SHADOW.pageitem.text"
 msgid "Shadow"
 msgstr "Ombra"
 
+#. 5PBf
 #: tabarea.src#RID_SVXDLG_AREA.1.RID_SVXPAGE_TRANSPARENCE.pageitem.text
 msgctxt "tabarea.src#RID_SVXDLG_AREA.1.RID_SVXPAGE_TRANSPARENCE.pageitem.text"
 msgid "Transparency"
 msgstr "Transparència"
 
+#. nDo8
 #: tabarea.src#RID_SVXDLG_AREA.1.RID_SVXPAGE_COLOR.pageitem.text
 msgctxt "tabarea.src#RID_SVXDLG_AREA.1.RID_SVXPAGE_COLOR.pageitem.text"
 msgid "Colors"
 msgstr "Colors"
 
+#. oUBu
 #: tabarea.src#RID_SVXDLG_AREA.1.RID_SVXPAGE_GRADIENT.pageitem.text
 msgctxt "tabarea.src#RID_SVXDLG_AREA.1.RID_SVXPAGE_GRADIENT.pageitem.text"
 msgid "Gradients"
 msgstr "Degradats"
 
+#. Z9bu
 #: tabarea.src#RID_SVXDLG_AREA.1.RID_SVXPAGE_HATCH.pageitem.text
 msgctxt "tabarea.src#RID_SVXDLG_AREA.1.RID_SVXPAGE_HATCH.pageitem.text"
 msgid "Hatching"
 msgstr "Ombreig"
 
+#. L0Bc
 #: tabarea.src#RID_SVXDLG_AREA.1.RID_SVXPAGE_BITMAP.pageitem.text
 msgid "Bitmaps"
 msgstr "Mapes de bits"
 
+#. OFbj
 #: tabarea.src#RID_SVXDLG_AREA.tabdialog.text
 msgctxt "tabarea.src#RID_SVXDLG_AREA.tabdialog.text"
 msgid "Area"
 msgstr "Àrea"
 
+#. 4QU0
 #: tabarea.src#STR_LB_HATCHINGSTYLE.string.text
 msgid "Hatching Style"
 msgstr "Estil d'incubació"
 
+#. ZOWB
 #: tabarea.src#STR_CUI_COLORMODEL.string.text
 msgid "Color Mode"
 msgstr "Mode de color"
+
+#~ msgid "1, 2, 3, ... "
+#~ msgstr "1, 2, 3... "
+
+#~ msgid "A, B, C, ... "
+#~ msgstr "A, B, C... "
+
+#~ msgid "I, II, III, ... "
+#~ msgstr "I, II, III... "
+
+#~ msgid "i, ii, iii, ... "
+#~ msgstr "i, ii, iii... "
+
+#~ msgid "A, .., AA, .., AAA, ... "
+#~ msgstr "A, .., AA, .., AAA... "

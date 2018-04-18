@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+sc%2Fsource%2Fui%2Fmiscdlgs.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+sc%2Fsource%2Fui%2Fmiscdlgs.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:43+0200\n"
 "PO-Revision-Date: 2011-11-26 12:04+0200\n"
 "Last-Translator: Jesús <jesus@softcatala.org>\n"
@@ -15,460 +17,609 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. RBV4
 #: instbdlg.src#RID_SCDLG_INSERT_TABLE.FL_POSITION.fixedline.text
 msgctxt "instbdlg.src#RID_SCDLG_INSERT_TABLE.FL_POSITION.fixedline.text"
 msgid "Position"
 msgstr "Posició"
 
+#. Tvaq
 #: instbdlg.src#RID_SCDLG_INSERT_TABLE.RB_BEFORE.radiobutton.text
 msgid "B~efore current sheet"
 msgstr "A~bans del full actual"
 
+#. L1ix
 #: instbdlg.src#RID_SCDLG_INSERT_TABLE.RB_BEHIND.radiobutton.text
 msgid "~After current sheet"
 msgstr "~Després del full actual"
 
+#. DrMb
 #: instbdlg.src#RID_SCDLG_INSERT_TABLE.FL_TABLE.fixedline.text
 msgid "Sheet"
 msgstr "Full"
 
+#. gMQV
 #: instbdlg.src#RID_SCDLG_INSERT_TABLE.RB_NEW.radiobutton.text
 msgid "~New sheet"
 msgstr "Full ~nou"
 
+#. pZfF
 #: instbdlg.src#RID_SCDLG_INSERT_TABLE.FT_COUNT.fixedtext.text
 msgid "N~o. of sheets"
 msgstr "Nombre de fulls"
 
+#. Ri5L
 #: instbdlg.src#RID_SCDLG_INSERT_TABLE.FT_NAME.fixedtext.text
 msgid "Na~me"
 msgstr "No~m"
 
+#. cZrt
 #: instbdlg.src#RID_SCDLG_INSERT_TABLE.RB_FROMFILE.radiobutton.text
 msgid "~From file"
 msgstr "Des d'un ~fitxer"
 
+#. 5zY8
 #: instbdlg.src#RID_SCDLG_INSERT_TABLE.BTN_BROWSE.pushbutton.text
 msgid "~Browse..."
 msgstr "~Navega..."
 
+#. LLUv
 #: instbdlg.src#RID_SCDLG_INSERT_TABLE.CB_LINK.checkbox.text
 msgid "Lin~k"
 msgstr "Enlla~ç"
 
+#. Sa5b
 #: instbdlg.src#RID_SCDLG_INSERT_TABLE.modaldialog.text
 msgid "Insert Sheet"
 msgstr "Insereix un full"
 
+#. ebIJ
 #: highred.src#RID_SCDLG_HIGHLIGHT_CHANGES.CB_HIGHLIGHT.checkbox.text
 msgid "~Show changes in spreadsheet"
 msgstr "~Mostra els canvis al full de càlcul"
 
+#. oww4
 #: highred.src#RID_SCDLG_HIGHLIGHT_CHANGES.FL_FILTER.fixedline.text
 msgid "Filter settings"
 msgstr "Opcions del filtre"
 
+#. f1fG
 #: highred.src#RID_SCDLG_HIGHLIGHT_CHANGES.CB_HIGHLIGHT_ACCEPT.checkbox.text
 msgid "Show ~accepted changes"
 msgstr "Mostra els canvis ~acceptats"
 
+#. tw4a
 #: highred.src#RID_SCDLG_HIGHLIGHT_CHANGES.CB_HIGHLIGHT_REJECT.checkbox.text
 msgid "Show ~rejected changes"
 msgstr "Mostra els canvis ~rebutjats"
 
+#. vcgw
 #: highred.src#RID_SCDLG_HIGHLIGHT_CHANGES.RB_ASSIGN.imagebutton.text
 msgctxt "highred.src#RID_SCDLG_HIGHLIGHT_CHANGES.RB_ASSIGN.imagebutton.text"
 msgid "-"
 msgstr "-"
 
+#. PiQG
 #: highred.src#RID_SCDLG_HIGHLIGHT_CHANGES.RB_ASSIGN.imagebutton.quickhelptext
-msgctxt "highred.src#RID_SCDLG_HIGHLIGHT_CHANGES.RB_ASSIGN.imagebutton.quickhelptext"
+msgctxt ""
+"highred.src#RID_SCDLG_HIGHLIGHT_CHANGES.RB_ASSIGN.imagebutton.quickhelptext"
 msgid "Minimize/Maximize"
 msgstr "Minimitza/Maximitza"
 
+#. Qqwz
 #: highred.src#RID_SCDLG_HIGHLIGHT_CHANGES.modelessdialog.text
 msgid "Show Changes"
 msgstr "Mostra els canvis"
 
+#. iq7w
 #: acredlin.src#RID_SCDLG_CHANGES.FT_ASSIGN.fixedtext.text
 msgid "Range"
 msgstr "Interval"
 
+#. l8YL
 #: acredlin.src#RID_SCDLG_CHANGES.RB_ASSIGN.imagebutton.text
 msgctxt "acredlin.src#RID_SCDLG_CHANGES.RB_ASSIGN.imagebutton.text"
 msgid "-"
 msgstr "-"
 
+#. HZou
 #: acredlin.src#RID_SCDLG_CHANGES.RB_ASSIGN.imagebutton.quickhelptext
 msgctxt "acredlin.src#RID_SCDLG_CHANGES.RB_ASSIGN.imagebutton.quickhelptext"
 msgid "Minimize/Maximize"
 msgstr "Redueix/Augmenta"
 
+#. vJ_j
 #: acredlin.src#RID_SCDLG_CHANGES.STR_INSERT_COLS.string.text
 msgid "Column inserted"
 msgstr "S'ha inserit una columna"
 
+#. UIgj
 #: acredlin.src#RID_SCDLG_CHANGES.STR_INSERT_ROWS.string.text
 msgid "Row inserted "
 msgstr "S'ha inserit una fila "
 
+#. QXIa
 #: acredlin.src#RID_SCDLG_CHANGES.STR_INSERT_TABS.string.text
 msgid "Sheet inserted "
 msgstr "S'ha inserit un full "
 
+#. nB0X
 #: acredlin.src#RID_SCDLG_CHANGES.STR_DELETE_COLS.string.text
 msgid "Column deleted"
 msgstr "S'ha suprimit la columna"
 
+#. MALX
 #: acredlin.src#RID_SCDLG_CHANGES.STR_DELETE_ROWS.string.text
 msgid "Row deleted"
 msgstr "S'ha suprimit la fila"
 
+#. Ivje
 #: acredlin.src#RID_SCDLG_CHANGES.STR_DELETE_TABS.string.text
 msgid "Sheet deleted"
 msgstr "S'ha suprimit el full"
 
+#. rmOC
 #: acredlin.src#RID_SCDLG_CHANGES.STR_MOVE.string.text
 msgid "Range moved"
 msgstr "S'ha mogut l'interval"
 
+#. HnwI
 #: acredlin.src#RID_SCDLG_CHANGES.STR_CONTENT.string.text
 msgctxt "acredlin.src#RID_SCDLG_CHANGES.STR_CONTENT.string.text"
 msgid "Changed contents"
 msgstr "El contingut ha canviat"
 
+#. SCjh
 #: acredlin.src#RID_SCDLG_CHANGES.STR_CONTENT_WITH_CHILD.string.text
 msgctxt "acredlin.src#RID_SCDLG_CHANGES.STR_CONTENT_WITH_CHILD.string.text"
 msgid "Changed contents"
 msgstr "El contingut ha canviat"
 
+#. hL02
 #: acredlin.src#RID_SCDLG_CHANGES.STR_CHILD_CONTENT.string.text
 msgid "Changed to "
 msgstr "S'ha canviat a "
 
+#. 4Dse
 #: acredlin.src#RID_SCDLG_CHANGES.STR_CHILD_ORGCONTENT.string.text
 msgid "Original"
 msgstr "Original"
 
+#. QFzH
 #: acredlin.src#RID_SCDLG_CHANGES.STR_REJECT.string.text
 msgid "Changes rejected"
 msgstr "Els canvis s'han rebutjat"
 
+#. 1DOz
 #: acredlin.src#RID_SCDLG_CHANGES.STR_ACCEPTED.string.text
 msgid "Accepted"
 msgstr "Acceptat"
 
+#. Vsr9
 #: acredlin.src#RID_SCDLG_CHANGES.STR_REJECTED.string.text
 msgid "Rejected"
 msgstr "Rebutjat"
 
+#. uJUI
 #: acredlin.src#RID_SCDLG_CHANGES.STR_NO_ENTRY.string.text
 msgid "No Entry"
 msgstr "Cap entrada"
 
+#. 3q#k
 #: acredlin.src#RID_SCDLG_CHANGES.STR_EMPTY.string.text
 msgid "<empty>"
 msgstr "<buit>"
 
+#. z1dI
 #: acredlin.src#RID_SCDLG_CHANGES.modelessdialog.text
 msgid "Accept or Reject Changes"
 msgstr "Accepta o rebutja els canvis"
 
+#. hcV7
 #: acredlin.src#RID_POPUP_CHANGES.SC_CHANGES_COMMENT.menuitem.text
 msgid "Edit Comment..."
 msgstr "Edita el comentari..."
 
+#. NRxP
 #: acredlin.src#RID_POPUP_CHANGES.SC_SUB_SORT.SC_SORT_ACTION.menuitem.text
 msgid "Action"
 msgstr "Acció"
 
+#. XeAD
 #: acredlin.src#RID_POPUP_CHANGES.SC_SUB_SORT.SC_SORT_POSITION.menuitem.text
-msgctxt "acredlin.src#RID_POPUP_CHANGES.SC_SUB_SORT.SC_SORT_POSITION.menuitem.text"
+msgctxt ""
+"acredlin.src#RID_POPUP_CHANGES.SC_SUB_SORT.SC_SORT_POSITION.menuitem.text"
 msgid "Position"
 msgstr "Posició"
 
+#. rX3u
 #: acredlin.src#RID_POPUP_CHANGES.SC_SUB_SORT.SC_SORT_AUTHOR.menuitem.text
-msgctxt "acredlin.src#RID_POPUP_CHANGES.SC_SUB_SORT.SC_SORT_AUTHOR.menuitem.text"
+msgctxt ""
+"acredlin.src#RID_POPUP_CHANGES.SC_SUB_SORT.SC_SORT_AUTHOR.menuitem.text"
 msgid "Author"
 msgstr "Autor"
 
+#. FPIB
 #: acredlin.src#RID_POPUP_CHANGES.SC_SUB_SORT.SC_SORT_DATE.menuitem.text
 msgctxt "acredlin.src#RID_POPUP_CHANGES.SC_SUB_SORT.SC_SORT_DATE.menuitem.text"
 msgid "Date"
 msgstr "Data"
 
+#. VXrM
 #: acredlin.src#RID_POPUP_CHANGES.SC_SUB_SORT.SC_SORT_COMMENT.menuitem.text
 msgid "Description"
 msgstr "Descripció"
 
+#. Chpj
 #: acredlin.src#RID_POPUP_CHANGES.SC_SUB_SORT.menuitem.text
 msgid "Sorting"
 msgstr "S'està ordenant"
 
+#. Akcs
 #: conflictsdlg.src#RID_SCDLG_CONFLICTS.FT_CONFLICTS.fixedtext.text
-msgid "There are conflicting changes in this shared spreadsheet. Conflicts must be resolved before saving the spreadsheet. Keep either own or other changes."
-msgstr "Hi ha canvis en conflicte en este full de càlcul compartit. Estos conflictes s'han de resoldre abans d'alçar el full de càlcul. Podeu conservar els canvis propis o els aliens."
+msgid ""
+"There are conflicting changes in this shared spreadsheet. Conflicts must be "
+"resolved before saving the spreadsheet. Keep either own or other changes."
+msgstr ""
+"Hi ha canvis en conflicte en este full de càlcul compartit. Estos "
+"conflictes s'han de resoldre abans d'alçar el full de càlcul. Podeu "
+"conservar els canvis propis o els aliens."
 
+#. p#2g
 #: conflictsdlg.src#RID_SCDLG_CONFLICTS.BTN_KEEPMINE.pushbutton.text
 msgid "Keep ~Mine"
 msgstr "Conserva el ~meu"
 
+#. 5o6X
 #: conflictsdlg.src#RID_SCDLG_CONFLICTS.BTN_KEEPOTHER.pushbutton.text
 msgid "Keep ~Other"
 msgstr "Conserva el d'~altri"
 
+#. lJFl
 #: conflictsdlg.src#RID_SCDLG_CONFLICTS.BTN_KEEPALLMINE.pushbutton.text
 msgid "~Keep All Mine"
 msgstr "Con~serva tots els meus"
 
+#. OAG9
 #: conflictsdlg.src#RID_SCDLG_CONFLICTS.BTN_KEEPALLOTHERS.pushbutton.text
 msgid "Keep ~All Others"
 msgstr "Conser~va tots els d'altri"
 
+#. B0By
 #: conflictsdlg.src#RID_SCDLG_CONFLICTS.STR_TITLE_CONFLICT.string.text
 msgid "Conflict"
 msgstr "Conflicte"
 
+#. NQOS
 #: conflictsdlg.src#RID_SCDLG_CONFLICTS.STR_TITLE_AUTHOR.string.text
 msgctxt "conflictsdlg.src#RID_SCDLG_CONFLICTS.STR_TITLE_AUTHOR.string.text"
 msgid "Author"
 msgstr "Autor"
 
+#. tVc5
 #: conflictsdlg.src#RID_SCDLG_CONFLICTS.STR_TITLE_DATE.string.text
 msgctxt "conflictsdlg.src#RID_SCDLG_CONFLICTS.STR_TITLE_DATE.string.text"
 msgid "Date"
 msgstr "Data"
 
+#. ZGBZ
 #: conflictsdlg.src#RID_SCDLG_CONFLICTS.STR_UNKNOWN_USER.string.text
 msgctxt "conflictsdlg.src#RID_SCDLG_CONFLICTS.STR_UNKNOWN_USER.string.text"
 msgid "Unknown User"
 msgstr "Usuari desconegut"
 
+#. pUyt
 #: conflictsdlg.src#RID_SCDLG_CONFLICTS.modaldialog.text
 msgid "Resolve Conflicts"
 msgstr "Resolució de conflictes"
 
+#. 3ZFG
 #: linkarea.src#RID_SCDLG_LINKAREA.FL_LOCATION.fixedline.text
 msgid "URL of ~external data source"
 msgstr "URL de la font de dades ~externa"
 
+#. Hj9l
 #: linkarea.src#RID_SCDLG_LINKAREA.FT_HINT.fixedtext.text
-msgid "(Enter the URL of the source document in the local file system or Internet here.)"
-msgstr "(Introduïu l'URL del document font del sistema de fitxers local o d'Internet.)"
+msgid ""
+"(Enter the URL of the source document in the local file system or Internet "
+"here.)"
+msgstr ""
+"(Introduïu l'URL del document font del sistema de fitxers local o "
+"d'Internet.)"
 
+#. J6EP
 #: linkarea.src#RID_SCDLG_LINKAREA.FT_RANGES.fixedtext.text
 msgid "~Available tables/ranges"
 msgstr "Taules/intervals ~disponibles"
 
+#. KmRw
 #: linkarea.src#RID_SCDLG_LINKAREA.BTN_RELOAD.checkbox.text
 msgid "~Update every"
 msgstr "Act~ualitza cada"
 
+#. 93l2
 #: linkarea.src#RID_SCDLG_LINKAREA.FT_SECONDS.fixedtext.text
 msgid "seconds"
 msgstr "segons"
 
+#. d862
 #: linkarea.src#RID_SCDLG_LINKAREA.modaldialog.text
 msgid "External Data"
 msgstr "Dades externes"
 
+#. o4L3
 #: protectiondlg.src#RID_SCDLG_TABPROTECTION.BTN_PROTECT.checkbox.text
 msgid "P~rotect this sheet and the contents of protected cells"
 msgstr "P~rotegeix este full i els continguts de les cel·les bloquejades"
 
+#. ATDg
 #: protectiondlg.src#RID_SCDLG_TABPROTECTION.FT_PASSWORD1.fixedtext.text
 msgctxt "protectiondlg.src#RID_SCDLG_TABPROTECTION.FT_PASSWORD1.fixedtext.text"
 msgid "~Password"
 msgstr "~Contrasenya"
 
+#. ORvp
 #: protectiondlg.src#RID_SCDLG_TABPROTECTION.FT_PASSWORD2.fixedtext.text
 msgctxt "protectiondlg.src#RID_SCDLG_TABPROTECTION.FT_PASSWORD2.fixedtext.text"
 msgid "~Confirm"
 msgstr "~Confirma"
 
+#. ZWIB
 #: protectiondlg.src#RID_SCDLG_TABPROTECTION.FL_OPTIONS.fixedline.text
 msgid "Options"
 msgstr "Opcions"
 
+#. MU1X
 #: protectiondlg.src#RID_SCDLG_TABPROTECTION.FT_OPTIONS.fixedtext.text
 msgid "Allow all users of this sheet to:"
 msgstr "Permet que tots els usuaris d'este full:"
 
+#. 6T_J
 #: protectiondlg.src#RID_SCDLG_TABPROTECTION.ST_SELECT_PROTECTED_CELLS.string.text
 msgid "Select protected cells"
 msgstr "Selecciona les cel·les bloquejades"
 
+#. UC3f
 #: protectiondlg.src#RID_SCDLG_TABPROTECTION.ST_SELECT_UNPROTECTED_CELLS.string.text
 msgid "Select unprotected cells"
 msgstr "Selecciona les cel·les desbloquejades"
 
+#. pe9L
 #: protectiondlg.src#RID_SCDLG_TABPROTECTION.modaldialog.text
 msgid "Protect Sheet"
 msgstr "Protegisquen el full"
 
+#. 3MYj
 #: retypepassdlg.src#RID_SCDLG_RETYPEPASS.FT_DESC.fixedtext.text
-msgid "The document you are about to export has one or more protected items with password that cannot be exported. Please re-type your password to be able to export your document."
-msgstr "El document que voleu exportar conté un o més ítems protegits amb una contrasenya que no es pot exportar. Haureu de tornar a escriure la contrasenya per tal d'exportar el vostre document."
+msgid ""
+"The document you are about to export has one or more protected items with "
+"password that cannot be exported. Please re-type your password to be able to "
+"export your document."
+msgstr ""
+"El document que voleu exportar conté un o més ítems protegits amb una "
+"contrasenya que no es pot exportar. Haureu de tornar a escriure la "
+"contrasenya per tal d'exportar el vostre document."
 
+#. ckKn
 #: retypepassdlg.src#RID_SCDLG_RETYPEPASS.FL_DOCUMENT.fixedline.text
 msgid "Document protection"
 msgstr "Protecció del document"
 
+#. t2dV
 #: retypepassdlg.src#RID_SCDLG_RETYPEPASS.FT_DOCSTATUS.fixedtext.text
 msgctxt "retypepassdlg.src#RID_SCDLG_RETYPEPASS.FT_DOCSTATUS.fixedtext.text"
 msgid "Status unknown"
 msgstr "Estat desconegut"
 
+#. aqDm
 #: retypepassdlg.src#RID_SCDLG_RETYPEPASS.BTN_RETYPE_DOC.pushbutton.text
 msgctxt "retypepassdlg.src#RID_SCDLG_RETYPEPASS.BTN_RETYPE_DOC.pushbutton.text"
 msgid "Re-type"
 msgstr "Torneu a introduir-la"
 
+#. ZUof
 #: retypepassdlg.src#RID_SCDLG_RETYPEPASS.FL_SHEET.fixedline.text
 msgid "Sheet protection"
 msgstr "Protecció del full"
 
+#. W16a
 #: retypepassdlg.src#RID_SCDLG_RETYPEPASS.FT_SHEETNAME1.fixedtext.text
 msgid "Sheet1 has a really long name"
 msgstr "El full 1 té un nom molt llarg"
 
+#. MSum
 #: retypepassdlg.src#RID_SCDLG_RETYPEPASS.FT_SHEETSTATUS1.fixedtext.text
 msgctxt "retypepassdlg.src#RID_SCDLG_RETYPEPASS.FT_SHEETSTATUS1.fixedtext.text"
 msgid "Status unknown"
 msgstr "Estat desconegut"
 
+#. Hd8S
 #: retypepassdlg.src#RID_SCDLG_RETYPEPASS.BTN_RETYPE_SHEET1.pushbutton.text
-msgctxt "retypepassdlg.src#RID_SCDLG_RETYPEPASS.BTN_RETYPE_SHEET1.pushbutton.text"
+msgctxt ""
+"retypepassdlg.src#RID_SCDLG_RETYPEPASS.BTN_RETYPE_SHEET1.pushbutton.text"
 msgid "Re-type"
 msgstr "Torneu a introduir-la"
 
+#. o7oz
 #: retypepassdlg.src#RID_SCDLG_RETYPEPASS.FT_SHEETNAME2.fixedtext.text
 msgid "Sheet2"
 msgstr "Full 2"
 
+#. 4QCf
 #: retypepassdlg.src#RID_SCDLG_RETYPEPASS.FT_SHEETSTATUS2.fixedtext.text
 msgctxt "retypepassdlg.src#RID_SCDLG_RETYPEPASS.FT_SHEETSTATUS2.fixedtext.text"
 msgid "Status unknown"
 msgstr "Estat desconegut"
 
+#. zRnk
 #: retypepassdlg.src#RID_SCDLG_RETYPEPASS.BTN_RETYPE_SHEET2.pushbutton.text
-msgctxt "retypepassdlg.src#RID_SCDLG_RETYPEPASS.BTN_RETYPE_SHEET2.pushbutton.text"
+msgctxt ""
+"retypepassdlg.src#RID_SCDLG_RETYPEPASS.BTN_RETYPE_SHEET2.pushbutton.text"
 msgid "Re-type"
 msgstr "Torneu a introduir-la"
 
+#. LhzL
 #: retypepassdlg.src#RID_SCDLG_RETYPEPASS.FT_SHEETNAME3.fixedtext.text
 msgid "Sheet3"
 msgstr "Full 3"
 
+#. Zs31
 #: retypepassdlg.src#RID_SCDLG_RETYPEPASS.FT_SHEETSTATUS3.fixedtext.text
 msgctxt "retypepassdlg.src#RID_SCDLG_RETYPEPASS.FT_SHEETSTATUS3.fixedtext.text"
 msgid "Status unknown"
 msgstr "Estat desconegut"
 
+#. mUwV
 #: retypepassdlg.src#RID_SCDLG_RETYPEPASS.BTN_RETYPE_SHEET3.pushbutton.text
-msgctxt "retypepassdlg.src#RID_SCDLG_RETYPEPASS.BTN_RETYPE_SHEET3.pushbutton.text"
+msgctxt ""
+"retypepassdlg.src#RID_SCDLG_RETYPEPASS.BTN_RETYPE_SHEET3.pushbutton.text"
 msgid "Re-type"
 msgstr "Torneu a introduir-la"
 
+#. MBQE
 #: retypepassdlg.src#RID_SCDLG_RETYPEPASS.FT_SHEETNAME4.fixedtext.text
 msgid "Sheet4"
 msgstr "Full 4"
 
+#. WMaQ
 #: retypepassdlg.src#RID_SCDLG_RETYPEPASS.FT_SHEETSTATUS4.fixedtext.text
 msgctxt "retypepassdlg.src#RID_SCDLG_RETYPEPASS.FT_SHEETSTATUS4.fixedtext.text"
 msgid "Status unknown"
 msgstr "Estat desconegut"
 
+#. UHcg
 #: retypepassdlg.src#RID_SCDLG_RETYPEPASS.BTN_RETYPE_SHEET4.pushbutton.text
-msgctxt "retypepassdlg.src#RID_SCDLG_RETYPEPASS.BTN_RETYPE_SHEET4.pushbutton.text"
+msgctxt ""
+"retypepassdlg.src#RID_SCDLG_RETYPEPASS.BTN_RETYPE_SHEET4.pushbutton.text"
 msgid "Re-type"
 msgstr "Torneu a introduir-la"
 
+#. 2884
 #: retypepassdlg.src#RID_SCDLG_RETYPEPASS.STR_NOT_PROTECTED.string.text
 msgid "Not protected"
 msgstr "No protegit"
 
+#. _Cob
 #: retypepassdlg.src#RID_SCDLG_RETYPEPASS.STR_NOT_PASS_PROTECTED.string.text
 msgid "Not password-protected"
 msgstr "No protegit amb contrasenya"
 
+#. Paym
 #: retypepassdlg.src#RID_SCDLG_RETYPEPASS.STR_HASH_BAD.string.text
 msgid "Hash incompatible"
 msgstr "El resum és incompatible"
 
+#. _2Or
 #: retypepassdlg.src#RID_SCDLG_RETYPEPASS.STR_HASH_GOOD.string.text
 msgid "Hash compatible"
 msgstr "El resum és compatible"
 
+#. ILe2
 #: retypepassdlg.src#RID_SCDLG_RETYPEPASS.STR_HASH_REGENERATED.string.text
 msgid "Hash re-generated"
 msgstr "S'ha tornat a generar el resum"
 
+#. 2Y0E
 #: retypepassdlg.src#RID_SCDLG_RETYPEPASS.modaldialog.text
 msgctxt "retypepassdlg.src#RID_SCDLG_RETYPEPASS.modaldialog.text"
 msgid "Re-type Password"
 msgstr "Torneu a introduir la contrasenya"
 
+#. qs0e
 #: retypepassdlg.src#RID_SCDLG_RETYPEPASS_INPUT.BTN_RETYPE_PASSWORD.radiobutton.text
 msgid "Re-type password"
 msgstr "Torneu a introduir la contrasenya"
 
+#. eH4y
 #: retypepassdlg.src#RID_SCDLG_RETYPEPASS_INPUT.FT_PASSWORD1.fixedtext.text
-msgctxt "retypepassdlg.src#RID_SCDLG_RETYPEPASS_INPUT.FT_PASSWORD1.fixedtext.text"
+msgctxt ""
+"retypepassdlg.src#RID_SCDLG_RETYPEPASS_INPUT.FT_PASSWORD1.fixedtext.text"
 msgid "~Password"
 msgstr "~Contrasenya"
 
+#. wNmb
 #: retypepassdlg.src#RID_SCDLG_RETYPEPASS_INPUT.FT_PASSWORD2.fixedtext.text
-msgctxt "retypepassdlg.src#RID_SCDLG_RETYPEPASS_INPUT.FT_PASSWORD2.fixedtext.text"
+msgctxt ""
+"retypepassdlg.src#RID_SCDLG_RETYPEPASS_INPUT.FT_PASSWORD2.fixedtext.text"
 msgid "~Confirm"
 msgstr "~Confirma"
 
+#. C_EY
 #: retypepassdlg.src#RID_SCDLG_RETYPEPASS_INPUT.BTN_MATCH_OLD_PASSWORD.checkbox.text
 msgid "New password must match the original password."
 msgstr "La nova contrasenya ha de coincidir amb la contrasenya original."
 
+#. SeGZ
 #: retypepassdlg.src#RID_SCDLG_RETYPEPASS_INPUT.BTN_REMOVE_PASSWORD.radiobutton.text
 msgid "Remove password from this protected item."
 msgstr "Suprimeix la contrasenya d'este element protegit."
 
+#. 70C4
 #: retypepassdlg.src#RID_SCDLG_RETYPEPASS_INPUT.modaldialog.text
 msgctxt "retypepassdlg.src#RID_SCDLG_RETYPEPASS_INPUT.modaldialog.text"
 msgid "Re-type Password"
 msgstr "Torneu a introduir la contrasenya"
 
+#. ilF9
 #: sharedocdlg.src#RID_SCDLG_SHAREDOCUMENT.CB_SHARE.checkbox.text
 msgid "Share this spreadsheet with other users"
 msgstr "Comparteix este full de càlcul amb altres usuaris"
 
+#. ZdFn
 #: sharedocdlg.src#RID_SCDLG_SHAREDOCUMENT.FT_WARNING.fixedtext.text
-msgid "Note: Changes to formatting attributes like fonts, colors, and number formats will not be saved and some functionalities like editing charts and drawing objects are not available in shared mode. Turn off shared mode to get exclusive access needed for those changes and functionalities."
-msgstr "Nota: Els canvis als atributs de format com els tipus de lletra, els colors i els nombres no s'alçaran, i algunes característiques (com l'edició de diagrames i el dibuix d'objectes) no estaran disponibles en mode compartit. Inhabiliteu el mode compartit per obtindre l'accés exclusiu necessari per a estos canvis i característiques."
+msgid ""
+"Note: Changes to formatting attributes like fonts, colors, and number "
+"formats will not be saved and some functionalities like editing charts and "
+"drawing objects are not available in shared mode. Turn off shared mode to "
+"get exclusive access needed for those changes and functionalities."
+msgstr ""
+"Nota: Els canvis als atributs de format com els tipus de lletra, els colors "
+"i els nombres no s'alçaran, i algunes característiques (com l'edició de "
+"diagrames i el dibuix d'objectes) no estaran disponibles en mode compartit. "
+"Inhabiliteu el mode compartit per obtindre l'accés exclusiu necessari per a "
+"estos canvis i característiques."
 
+#. Za3s
 #: sharedocdlg.src#RID_SCDLG_SHAREDOCUMENT.FT_USERS.fixedtext.text
 msgid "Users currently accessing this spreadsheet"
 msgstr "Usuaris que estan accedint a este full de càlcul en este moment"
 
+#. 3Z4Q
 #: sharedocdlg.src#RID_SCDLG_SHAREDOCUMENT.STR_TITLE_NAME.string.text
 msgid "Name"
 msgstr "Nom"
 
+#. pl2H
 #: sharedocdlg.src#RID_SCDLG_SHAREDOCUMENT.STR_TITLE_ACCESSED.string.text
 msgid "Accessed"
 msgstr "Accedit"
 
+#. coud
 #: sharedocdlg.src#RID_SCDLG_SHAREDOCUMENT.STR_NO_USER_DATA.string.text
 msgid "No user data available."
 msgstr "No hi ha dades d'usuari disponibles."
 
+#. n88T
 #: sharedocdlg.src#RID_SCDLG_SHAREDOCUMENT.STR_UNKNOWN_USER.string.text
 msgctxt "sharedocdlg.src#RID_SCDLG_SHAREDOCUMENT.STR_UNKNOWN_USER.string.text"
 msgid "Unknown User"
 msgstr "Usuari desconegut"
 
+#. O4j2
 #: sharedocdlg.src#RID_SCDLG_SHAREDOCUMENT.STR_EXCLUSIVE_ACCESS.string.text
 msgid "(exclusive access)"
 msgstr "(accés exclusiu)"
 
+#. taCV
 #: sharedocdlg.src#RID_SCDLG_SHAREDOCUMENT.modaldialog.text
 msgid "Share Document"
 msgstr "Comparteix el document"
+
+#~ msgid ""
+#~ "The document you are about to export has one or more protected items with "
+#~ "password that cannot be exported.  Please re-type your password to be "
+#~ "able to export your document."
+#~ msgstr ""
+#~ "El document que voleu exportar té un o més elements protegits amb "
+#~ "contrasenya que no es poden exportar. Torneu a introduir la contrasenya "
+#~ "per poder exportar el document."

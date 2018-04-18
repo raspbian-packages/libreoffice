@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+sfx2%2Fsource%2Fview.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment="
+"&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%"
+"3A+sfx2%2Fsource%2Fview.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
 "PO-Revision-Date: 2012-02-28 00:31+0200\n"
 "Last-Translator: Joan <joan@montane.cat>\n"
@@ -15,6 +17,7 @@ msgstr ""
 "X-Generator: Pootle 2.1.6\n"
 "X-Accelerator-Marker: ~\n"
 
+#. 5AUo
 #: view.src#STR_NODEFPRINTER.string.text
 msgid ""
 "No default printer found.\n"
@@ -23,6 +26,7 @@ msgstr ""
 "No s'ha trobat cap impressora per defecte.\n"
 "Trieu-ne una i torneu-ho a provar. "
 
+#. ZSNR
 #: view.src#STR_NOSTARTPRINTER.string.text
 msgid ""
 "Could not start printer.\n"
@@ -31,46 +35,58 @@ msgstr ""
 "No s'ha pogut iniciar la impressora.\n"
 "Reviseu-ne la configuració."
 
+#. dVWC
 #: view.src#STR_PRINTER_NOTAVAIL.string.text
 msgid ""
-"This document has been formatted for the printer $1. The specified printer is not available. \n"
+"This document has been formatted for the printer $1. The specified printer "
+"is not available. \n"
 "Do you want to use the standard printer $2 ?"
 msgstr ""
-"El format d'este document és per a la impressora $1, la qual no es troba disponible.\n"
+"El format d'este document és per a la impressora $1, la qual no es troba "
+"disponible.\n"
 "Voleu utilitzar la impressora estàndard $2?"
 
+#. Kvjs
 #: view.src#STR_PRINT_OPTIONS.string.text
 msgid "Options..."
 msgstr "Opcions..."
 
+#. M1c_
 #: view.src#STR_PRINT_OPTIONS_TITLE.string.text
 msgid "Printer Options"
 msgstr "Opcions de la impressora"
 
+#. b_Zc
 #: view.src#STR_ERROR_PRINTER_BUSY.string.text
 msgid "Printer busy"
 msgstr "La impressora està ocupada."
 
+#. PxD9
 #: view.src#STR_ERROR_PRINT.string.text
 msgid "Error while printing"
 msgstr "S'ha produït un error en imprimir."
 
+#. shLY
 #: view.src#STR_PRINTING.string.text
 msgid "Printing"
 msgstr "S'està imprimint"
 
+#. CZCf
 #: view.src#STR_PAGE.string.text
 msgid "Page "
 msgstr "Pàgina "
 
+#. Zeij
 #: view.src#STR_ERROR_SAVE_TEMPLATE.string.text
 msgid "Error saving template "
 msgstr "S'ha produït un error en alçar la plantilla."
 
+#. tKCd
 #: view.src#STR_READONLY.string.text
 msgid " (read-only)"
 msgstr " (només de lectura)"
 
+#. n6co
 #: view.src#STR_PRINT_NEWORI.string.text
 msgctxt "view.src#STR_PRINT_NEWORI.string.text"
 msgid ""
@@ -82,6 +98,7 @@ msgstr ""
 "Voleu alçar la nova configuració\n"
 "en el document actiu?"
 
+#. QxGM
 #: view.src#STR_PRINT_NEWSIZE.string.text
 msgid ""
 "The page size has been modified.\n"
@@ -92,6 +109,7 @@ msgstr ""
 "Voleu alçar la nova configuració\n"
 "en el document actiu?"
 
+#. FatF
 #: view.src#STR_PRINT_NEWORISIZE.string.text
 msgctxt "view.src#STR_PRINT_NEWORISIZE.string.text"
 msgid ""
@@ -103,14 +121,27 @@ msgstr ""
 "Voleu alçar la nova configuració\n"
 "en el document actiu?"
 
+#. HYYc
 #: view.src#STR_PREVIEW_DOCINFO.string.text
-msgid "<html><body BGCOLOR=\"#c0c0c0\"><font FACE=\"Arial\"><dl><dt><b>Title:</b><dd>$(TITEL)<dt><b>Subject:</b><dd>$(THEME)<dt><b>Keywords:</b><dd>$(KEYWORDS)<dt><b>Description:</b><dd>$(TEXT)</dl></font></body></html>"
-msgstr "<html><body BGCOLOR=\"#c0c0c0\"><font FACE=\"Arial\"><dl><dt><b>Títol:</b><dd>$(TITEL)<dt><b>Assumpte:</b><dd>$(THEME)<dt><b>Paraules clau:</b><dd>$(KEYWORDS)<dt><b>Descripció:</b><dd>$(TEXT)</dl></font></body></html>"
+msgid ""
+"<html><body BGCOLOR=\"#c0c0c0\"><font FACE=\"Arial\"><dl><dt><b>Title:</"
+"b><dd>$(TITEL)<dt><b>Subject:</b><dd>$(THEME)<dt><b>Keywords:</b><dd>"
+"$(KEYWORDS)<dt><b>Description:</b><dd>$(TEXT)</dl></font></body></html>"
+msgstr ""
+"<html><body BGCOLOR=\"#c0c0c0\"><font FACE=\"Arial\"><dl><dt><b>Títol:</"
+"b><dd>$(TITEL)<dt><b>Assumpte:</b><dd>$(THEME)<dt><b>Paraules clau:</b><dd>"
+"$(KEYWORDS)<dt><b>Descripció:</b><dd>$(TEXT)</dl></font></body></html>"
 
+#. kHaF
 #: view.src#STR_PREVIEW_NODOCINFO.string.text
-msgid "<HTML><BODY BGCOLOR=\"#c0c0c0\"><BR><BR><P><FONT FACE=\"Arial\"><B>No document properties found.</B></FONT></P></BODY></HTML>"
-msgstr "<HTML><BODY BGCOLOR=\"#c0c0c0\"><BR><BR><P><FONT FACE=\"Arial\"><B>No s'han trobat propietats del document.</B></FONT></P></BODY></HTML>"
+msgid ""
+"<HTML><BODY BGCOLOR=\"#c0c0c0\"><BR><BR><P><FONT FACE=\"Arial\"><B>No "
+"document properties found.</B></FONT></P></BODY></HTML>"
+msgstr ""
+"<HTML><BODY BGCOLOR=\"#c0c0c0\"><BR><BR><P><FONT FACE=\"Arial\"><B>No s'han "
+"trobat propietats del document.</B></FONT></P></BODY></HTML>"
 
+#. K7ml
 #: view.src#MSG_CANT_CLOSE.infobox.text
 msgid ""
 "The document cannot be closed because a\n"
@@ -119,34 +150,54 @@ msgstr ""
 "El document no es pot tancar perquè\n"
 " s'està duent a terme una faena d'impressió."
 
+#. pI3p
 #: view.src#DLG_PRINTMONITOR_TEXT.#define.text
 msgid "Print Monitor"
 msgstr "Monitor d'impressió"
 
+#. FteW
 #: view.src#DLG_PRINTMONITOR.FT_PRINTING.fixedtext.text
 msgid "is being printed on"
 msgstr "s'està imprimint a"
 
+#. mOu1
 #: view.src#DLG_PRINTMONITOR.STR_FT_PREPARATION.string.text
 msgid "is being prepared for printing"
 msgstr "s'està preparant per imprimir"
 
+#. Ibwc
 #: view.src#MSG_ERROR_SEND_MAIL.infobox.text
 msgid ""
-"An error occurred in sending the message. Possible errors could be a missing user account or a defective setup.\n"
+"An error occurred in sending the message. Possible errors could be a missing "
+"user account or a defective setup.\n"
 "Please check the %PRODUCTNAME settings or your e-mail program settings."
 msgstr ""
-"S'ha produït un error en enviar el missatge. És possible que no hi haja cap compte d'usuari o que la configuració siga incorrecta.\n"
+"S'ha produït un error en enviar el missatge. És possible que no hi haja cap "
+"compte d'usuari o que la configuració siga incorrecta.\n"
 "Reviseu la configuració del %PRODUCTNAME o del programa de correu."
 
+#. m_#5
 #: view.src#MSG_QUERY_OPENASTEMPLATE.querybox.text
-msgid "This document cannot be edited, possibly due to missing access rights. Do you want to edit a copy of the document?"
-msgstr "No es pot editar el document, segurament per falta de drets d'accés. Voleu editar una còpia del document?"
+msgid ""
+"This document cannot be edited, possibly due to missing access rights. Do "
+"you want to edit a copy of the document?"
+msgstr ""
+"No es pot editar el document, segurament per falta de drets d'accés. Voleu "
+"editar una còpia del document?"
 
+#. si5J
 #: view.src#STR_REPAIREDDOCUMENT.string.text
 msgid " (repaired document)"
 msgstr " (document reparat)"
 
+#. C4Jw
 #: view.src#MSG_ERROR_NO_WEBBROWSER_FOUND.errorbox.text
-msgid "%PRODUCTNAME could not find a web browser on your system. Please check your Desktop Preferences or install a web browser (for example, Mozilla) in the default  location requested during the browser installation."
-msgstr "El %PRODUCTNAME no ha pogut trobar un navegador web al sistema. Comproveu les preferències d'escriptori o instal·leu un navegador web (per exemple, Mozilla) en la ubicació per defecte que es demana en la instal·lació del navegador."
+msgid ""
+"%PRODUCTNAME could not find a web browser on your system. Please check your "
+"Desktop Preferences or install a web browser (for example, Mozilla) in the "
+"default  location requested during the browser installation."
+msgstr ""
+"El %PRODUCTNAME no ha pogut trobar un navegador web al sistema. Comproveu "
+"les preferències d'escriptori o instal·leu un navegador web (per exemple, "
+"Mozilla) en la ubicació per defecte que es demana en la instal·lació del "
+"navegador."

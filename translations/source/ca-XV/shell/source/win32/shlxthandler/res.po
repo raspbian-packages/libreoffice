@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+shell%2Fsource%2Fwin32%2Fshlxthandler%2Fres.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+shell%2Fsource%2Fwin32%2Fshlxthandler%2Fres.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
 "PO-Revision-Date: 2011-04-05 19:15+0200\n"
 "Last-Translator: jmontane <joan@montane.cat>\n"
@@ -15,150 +17,187 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. vs7Z
 #: shlxthdl.ulf#_TITLE_.LngText.text
 msgid "Title"
 msgstr "Títol"
 
+#. __gQ
 #: shlxthdl.ulf#_TITLE_COLON_.LngText.text
 msgid "Title:"
 msgstr "Títol:"
 
+#. IQ3A
 #: shlxthdl.ulf#_SUBJECT_.LngText.text
 msgid "Subject"
 msgstr "Matèria"
 
+#. VpHI
 #: shlxthdl.ulf#_SUBJECT_COLON_.LngText.text
 msgid "Subject:"
 msgstr "Matèria:"
 
+#. 5Wtr
 #: shlxthdl.ulf#_AUTHOR_.LngText.text
 msgid "Author"
 msgstr "Autor"
 
+#. xs1w
 #: shlxthdl.ulf#_AUTHOR_COLON_.LngText.text
 msgid "Author:"
 msgstr "Autor:"
 
+#. FObe
 #: shlxthdl.ulf#_KEYWORDS_.LngText.text
 msgid "Keywords"
 msgstr "Paraules clau"
 
+#. RR4A
 #: shlxthdl.ulf#_KEYWORDS_COLON_.LngText.text
 msgid "Keywords:"
 msgstr "Paraules clau:"
 
+#. 76Zt
 #: shlxthdl.ulf#_COMMENTS_.LngText.text
 msgid "Comments"
 msgstr "Comentaris"
 
+#. xZpJ
 #: shlxthdl.ulf#_COMMENTS_COLON_.LngText.text
 msgid "Comments:"
 msgstr "Comentaris:"
 
+#. 8VeI
 #: shlxthdl.ulf#_PAGES_.LngText.text
 msgid "Pages"
 msgstr "Pàgines"
 
+#. 5_Ya
 #: shlxthdl.ulf#_TABLES_.LngText.text
 msgid "Tables"
 msgstr "Taules"
 
+#. MA6n
 #: shlxthdl.ulf#_GRAPHICS_.LngText.text
 msgid "Graphics"
 msgstr "Gràfics"
 
+#. O5#z
 #: shlxthdl.ulf#_OBJECTS_.LngText.text
 msgid "Objects"
 msgstr "Objectes"
 
+#. W8_2
 #: shlxthdl.ulf#_OLE_OBJECTS_.LngText.text
 msgid "OLE Objects"
 msgstr "Objectes OLE"
 
+#. CbQ7
 #: shlxthdl.ulf#_PARAGRAPHS_.LngText.text
 msgid "Paragraphs"
 msgstr "Paràgrafs"
 
+#. 0WeE
 #: shlxthdl.ulf#_WORDS_.LngText.text
 msgid "Words"
 msgstr "Paraules"
 
+#. 9qJ7
 #: shlxthdl.ulf#_CHARACTERS_.LngText.text
 msgid "Characters"
 msgstr "Caràcters"
 
+#. WDSZ
 #: shlxthdl.ulf#_ROWS_.LngText.text
 msgid "Lines"
 msgstr "Línies"
 
+#. WKe0
 #: shlxthdl.ulf#_ORIGIN_.LngText.text
 msgid "Origin"
 msgstr "Origen"
 
+#. 5sSX
 #: shlxthdl.ulf#_VERSION_.LngText.text
 msgid "Version"
 msgstr "Versió"
 
+#. ivQO
 #: shlxthdl.ulf#_SHEETS_.LngText.text
 msgid "Sheets"
 msgstr "Fulls"
 
+#. C3xm
 #: shlxthdl.ulf#_CELLS_.LngText.text
 msgid "Cells"
 msgstr "Cel·les"
 
+#. MOrJ
 #: shlxthdl.ulf#_STATISTICS_TITLE_.LngText.text
 msgid "Document Statistics"
 msgstr "Estadístiques del document"
 
+#. zqTD
 #: shlxthdl.ulf#_SUMMARY_TITLE_.LngText.text
 msgid "Summary"
 msgstr "Resum"
 
+#. CEos
 #: shlxthdl.ulf#_PROPERTY_.LngText.text
 msgid "Property"
 msgstr "Propietat"
 
+#. bKVI
 #: shlxthdl.ulf#_PROPERTY_VALUE_.LngText.text
 msgid "Value"
 msgstr "Valor"
 
+#. KfPj
 #: shlxthdl.ulf#_MODIFIED_.LngText.text
 msgid "Modified"
 msgstr "Modificat"
 
+#. 3kcD
 #: shlxthdl.ulf#_MODIFIED_COLON_.LngText.text
 msgid "Modified:"
 msgstr "Modificat:"
 
+#. SOhX
 #: shlxthdl.ulf#_DOCUMENT_NUMBER_.LngText.text
 msgid "Revision number"
 msgstr "Número de revisió"
 
+#. gBN8
 #: shlxthdl.ulf#_DOCUMENT_NUMBER_COLON_.LngText.text
 msgid "Revision number:"
 msgstr "Número de revisió:"
 
+#. aFph
 #: shlxthdl.ulf#_EDITING_TIME_.LngText.text
 msgid "Total editing time"
 msgstr "Temps total d'edició"
 
+#. LN8K
 #: shlxthdl.ulf#_EDITING_TIME_COLON_.LngText.text
 msgid "Total editing time:"
 msgstr "Temps total d'edició:"
 
+#. AwRv
 #: shlxthdl.ulf#_DESCRIPTION_.LngText.text
 msgid "Description"
 msgstr "Descripció"
 
+#. onlq
 #: shlxthdl.ulf#_DESCRIPTION_COLON_.LngText.text
 msgid "Description:"
 msgstr "Descripció:"
 
+#. 7cgY
 #: shlxthdl.ulf#_SIZE_COLON_.LngText.text
 msgid "Size:"
 msgstr "Mida:"
 
+#. HqzB
 #: shlxthdl.ulf#_TYPE_COLON_.LngText.text
 msgid "Type:"
 msgstr "Tipus:"

@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+sfx2%2Fsource%2Fappl.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment="
+"&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%"
+"3A+sfx2%2Fsource%2Fappl.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
 "PO-Revision-Date: 2012-02-28 00:29+0200\n"
 "Last-Translator: Joan <joan@montane.cat>\n"
@@ -15,176 +17,226 @@ msgstr ""
 "X-Generator: Pootle 2.1.6\n"
 "X-Accelerator-Marker: ~\n"
 
+#. UaOb
 #: dde.src#MD_DDE_LINKEDIT.FT_DDE_APP.fixedtext.text
 msgid "~Application:"
 msgstr "~Aplicació:"
 
+#. nHDq
 #: dde.src#MD_DDE_LINKEDIT.FT_DDE_TOPIC.fixedtext.text
 msgid "~File:"
 msgstr "~Fitxer:"
 
+#. 1_NV
 #: dde.src#MD_DDE_LINKEDIT.FT_DDE_ITEM.fixedtext.text
 msgid "~Category:"
 msgstr "~Categoria:"
 
+#. PqS5
 #: dde.src#MD_DDE_LINKEDIT.GROUP_DDE_CHG.fixedline.text
 msgid "Modify link"
 msgstr "Modifica l'enllaç"
 
+#. uDGC
 #: dde.src#MD_DDE_LINKEDIT.modaldialog.text
 msgid "Modify Link"
 msgstr "Modifica l'enllaç"
 
+#. kBAX
 #: app.src#STR_NONAME.string.text
 msgid "Untitled"
 msgstr "Sense nom"
 
+#. 0Y9n
 #: app.src#STR_CLOSE.string.text
 msgid "Close"
 msgstr "Tanca"
 
+#. zf8i
 #: app.src#STR_STYLE_FILTER_AUTO.string.text
 msgid "Automatic"
 msgstr "Automàtic"
 
+#. avsR
 #: app.src#STR_STANDARD_SHORTCUT.string.text
 msgctxt "app.src#STR_STANDARD_SHORTCUT.string.text"
 msgid "Standard"
 msgstr "Estàndard"
 
+#. _Pqc
 #: app.src#STR_BYTES.string.text
 msgid "Bytes"
 msgstr "Bytes"
 
+#. MNYC
 #: app.src#STR_KB.string.text
 msgid "KB"
 msgstr "kB"
 
+#. n7U#
 #: app.src#STR_MB.string.text
 msgid "MB"
 msgstr "MB"
 
+#. Z5#8
 #: app.src#STR_GB.string.text
 msgid "GB"
 msgstr "GB"
 
+#. vVro
 #: app.src#MSG_QUERY_LASTVERSION.querybox.text
 msgid "Cancel all changes?"
 msgstr "Voleu cancel·lar tots els canvis?"
 
+#. BQtN
 #: app.src#RID_DOCALREADYLOADED_DLG.infobox.text
 msgid "Document already open."
 msgstr "Document ja obert."
 
+#. A5kh
 #: app.src#MSG_ERR_NO_WEBBROWSER_FOUND.errorbox.text
-msgid "%PRODUCTNAME could not find a web browser on your system. Please check your Desktop Preferences or install a web browser (for example, Mozilla) in the default  location requested during the browser installation."
-msgstr "El %PRODUCTNAME no pot trobar un navegador web en el sistema. Comproveu les preferències d'escriptori o bé instal·leu-ne un (per exemple, el Mozilla) en la localització per defecte sol·licitada durant la instal·lació del navegador."
+msgid ""
+"%PRODUCTNAME could not find a web browser on your system. Please check your "
+"Desktop Preferences or install a web browser (for example, Mozilla) in the "
+"default  location requested during the browser installation."
+msgstr ""
+"El %PRODUCTNAME no pot trobar un navegador web en el sistema. Comproveu les "
+"preferències d'escriptori o bé instal·leu-ne un (per exemple, el Mozilla) en "
+"la localització per defecte sol·licitada durant la instal·lació del "
+"navegador."
 
+#. vBm7
 #: app.src#GID_INTERN.string.text
 msgid "Internal"
 msgstr "Intern"
 
+#. 2AiF
 #: app.src#GID_APPLICATION.string.text
 msgid "Application"
 msgstr "Aplicació"
 
+#. E_Zt
 #: app.src#GID_VIEW.string.text
 msgid "View"
 msgstr "Visualització"
 
+#. yil5
 #: app.src#GID_DOCUMENT.string.text
 msgid "Documents"
 msgstr "Documents"
 
+#. GkhU
 #: app.src#GID_EDIT.string.text
 msgid "Edit"
 msgstr "Edita"
 
+#. Brjp
 #: app.src#GID_MACRO.string.text
 msgid "BASIC"
 msgstr "BASIC"
 
+#. Knbh
 #: app.src#GID_OPTIONS.string.text
 msgid "Options"
 msgstr "Opcions"
 
+#. y_ax
 #: app.src#GID_MATH.string.text
 msgid "Math"
 msgstr "Matemàtiques"
 
+#. 4uBW
 #: app.src#GID_NAVIGATOR.string.text
 msgid "Navigate"
 msgstr "Navega"
 
+#. 6A7n
 #: app.src#GID_INSERT.string.text
 msgid "Insert"
 msgstr "Insereix"
 
+#. Fhhk
 #: app.src#GID_FORMAT.string.text
 msgid "Format"
 msgstr "Formata"
 
+#. g8GA
 #: app.src#GID_TEMPLATE.string.text
 msgid "Templates"
 msgstr "Plantilles"
 
+#. JPPV
 #: app.src#GID_TEXT.string.text
 msgid "Text"
 msgstr "Text"
 
+#. LB9B
 #: app.src#GID_FRAME.string.text
 msgid "Frame"
 msgstr "Marc"
 
+#. DAQ1
 #: app.src#GID_GRAPHIC.string.text
 msgctxt "app.src#GID_GRAPHIC.string.text"
 msgid "Graphic"
 msgstr "Gràfic"
 
+#. H0Uc
 #: app.src#GID_TABLE.string.text
 msgid "Table"
 msgstr "Taula"
 
+#. 9_ll
 #: app.src#GID_ENUMERATION.string.text
 msgid "Numbering"
 msgstr "Numeració"
 
+#. Wnv4
 #: app.src#GID_DATA.string.text
 msgid "Data"
 msgstr "Dades"
 
+#. W56z
 #: app.src#GID_SPECIAL.string.text
 msgid "Special Functions"
 msgstr "Funcions especials"
 
+#. 8LmH
 #: app.src#GID_IMAGE.string.text
 msgid "Image"
 msgstr "Imatge"
 
+#. LHil
 #: app.src#GID_CHART.string.text
 msgid "Chart"
 msgstr "Diagrama"
 
+#. X2Sb
 #: app.src#GID_EXPLORER.string.text
 msgid "Explorer"
 msgstr "Explorador"
 
+#. kMaK
 #: app.src#GID_CONNECTOR.string.text
 msgid "Connector"
 msgstr "Connector"
 
+#. 3r1X
 #: app.src#GID_MODIFY.string.text
 msgid "Modify"
 msgstr "Modifica"
 
+#. Ibul
 #: app.src#GID_DRAWING.string.text
 msgid "Drawing"
 msgstr "Dibuix"
 
+#. 67Xx
 #: app.src#GID_CONTROLS.string.text
 msgid "Controls"
 msgstr "Controls"
 
+#. Obnl
 #: app.src#MSG_CANT_QUIT.infobox.text
 msgid ""
 "The application cannot be terminated at the moment.\n"
@@ -195,34 +247,42 @@ msgstr ""
 "Espereu que s'acabin totes les feines d'impressió i/o\n"
 "les accions d'OLE i tanqueu tots els quadres de diàleg."
 
+#. QF#z
 #: app.src#STR_ISMODIFIED.string.text
 msgid "Do you want to save the changes to %1?"
 msgstr "Voleu alçar les modificacions a %1?"
 
+#. lRMF
 #: app.src#STR_QUITAPP.string.text
 msgid "E~xit"
 msgstr "~Ix"
 
+#. sEKy
 #: app.src#RID_STR_HELP.string.text
 msgid "Help"
 msgstr "Ajuda"
 
+#. FXcF
 #: app.src#RID_STR_NOAUTOSTARTHELPAGENT.string.text
 msgid "No automatic start at 'XX'"
 msgstr "No iniciar automàticament amb 'XX'"
 
+#. KnmJ
 #: app.src#RID_HELPBAR.string.text
 msgid "Help Bar"
 msgstr "Barra d'ajuda"
 
+#. DYDw
 #: app.src#RID_STR_HLPFILENOTEXIST.string.text
 msgid "The help file for this topic is not installed."
 msgstr "No s'ha instal·lat el fitxer d'ajuda per a este tema."
 
+#. PZOh
 #: app.src#RID_ENVTOOLBOX.string.text
 msgid "Function Bar"
 msgstr "Barra de funcions"
 
+#. P_mu
 #: app.src#RID_SPECIALCONFIG_ERROR.string.text
 msgid ""
 "An error has occurred in the special configuration.\n"
@@ -231,46 +291,57 @@ msgstr ""
 "S'ha produït un error en la configuració especial.\n"
 "Poseu-vos en contacte amb l'administrador."
 
+#. aIgR
 #: app.src#STR_QUICKSTART_EXIT.string.text
 msgid "Exit Quickstarter"
 msgstr "Ix de l'inici ràpid"
 
+#. dx8L
 #: app.src#STR_QUICKSTART_TIP.string.text
 msgid "%PRODUCTNAME %PRODUCTVERSION Quickstarter"
 msgstr "Inici ràpid del %PRODUCTNAME %PRODUCTVERSION"
 
+#. ztaq
 #: app.src#STR_QUICKSTART_FILEOPEN.string.text
 msgid "Open Document..."
 msgstr "Obri un document..."
 
+#. MujW
 #: app.src#STR_QUICKSTART_FROMTEMPLATE.string.text
 msgid "From Template..."
 msgstr "Des d'una plantilla..."
 
+#. hfZQ
 #: app.src#STR_QUICKSTART_PRELAUNCH.string.text
 msgid "Load %PRODUCTNAME During System Start-Up"
 msgstr "Carrega el %PRODUCTNAME en iniciar el sistema"
 
+#. s8wo
 #: app.src#STR_QUICKSTART_PRELAUNCH_UNX.string.text
 msgid "Disable systray Quickstarter"
 msgstr "Inhabilita l'inici ràpid a la safata del sistema"
 
+#. rhpq
 #: app.src#STR_QUICKSTART_LNKNAME.string.text
 msgid "%PRODUCTNAME %PRODUCTVERSION"
 msgstr "%PRODUCTNAME %PRODUCTVERSION"
 
+#. 1fF#
 #: app.src#STR_QUICKSTART_FILE.string.text
 msgid "File"
 msgstr "Fitxer"
 
+#. M7wZ
 #: app.src#STR_QUICKSTART_STARTCENTER.string.text
 msgid "Startcenter"
 msgstr "Centre d'inici"
 
+#. urC4
 #: app.src#STR_QUICKSTART_RECENTDOC.string.text
 msgid "Recent Documents"
 msgstr "Documents recents"
 
+#. UH3j
 #: app.src#STR_QUERY_UPDATE_LINKS.string.text
 msgid ""
 "This document contains one or more links to external data.\n"
@@ -283,14 +354,17 @@ msgstr ""
 "Voleu canviar el document i actualitzar tots els enllaços\n"
 "per obtindre les dades més recents?"
 
+#. KXY4
 #: app.src#STR_DDE_ERROR.string.text
 msgid "DDE link to % for % area % are not available."
 msgstr "Els enllaços DDE a % per % l'àrea % no estan disponibles."
 
+#. EDRE
 #: app.src#RID_SECURITY_WARNING_HYPERLINK.warningbox.text
 msgid "This hyperlink is going to open \"%s\". Do you want to proceed?"
 msgstr "S'obrirà l'enllaç «%s». Voleu continuar?"
 
+#. HgQR
 #: app.src#RID_SECURITY_WARNING_NO_HYPERLINKS.warningbox.text
 msgid ""
 "For security reasons, the hyperlink cannot be executed.\n"
@@ -299,10 +373,12 @@ msgstr ""
 "Per motius de seguretat, l'enllaç no es pot executar.\n"
 "L'adreça indicada no s'obrirà."
 
+#. 2lyH
 #: app.src#RID_SECURITY_WARNING_TITLE.string.text
 msgid "Security Warning"
 msgstr "Avís de seguretat"
 
+#. WOXH
 #: app.src#RID_XMLSEC_QUERY_LOSINGSIGNATURE.querybox.text
 msgid ""
 "Saving will remove all existing signatures.\n"
@@ -311,6 +387,7 @@ msgstr ""
 "En alçar, s'eliminaran totes les signatures existents.\n"
 "Voleu continuar alçant el document?"
 
+#. GBop
 #: app.src#RID_XMLSEC_QUERY_SAVEBEFORESIGN.querybox.text
 msgid ""
 "The document has to be saved before it can be signed.\n"
@@ -319,40 +396,53 @@ msgstr ""
 "Cal que alceu el document per poder signar-lo.\n"
 "Voleu alçar el document?"
 
+#. BdGH
 #: app.src#RID_XMLSEC_INFO_WRONGDOCFORMAT.infobox.text
-msgid "This document must be saved in OpenDocument file format before it can be digitally signed."
-msgstr "Cal que alceu este document en format OpenDocument per poder signar-lo digitalment."
+msgid ""
+"This document must be saved in OpenDocument file format before it can be "
+"digitally signed."
+msgstr ""
+"Cal que alceu este document en format OpenDocument per poder signar-lo "
+"digitalment."
 
+#. KCbC
 #: app.src#RID_XMLSEC_DOCUMENTSIGNED.string.text
 msgid " (Signed)"
 msgstr " (Signat)"
 
+#. J4aE
 #: app.src#STR_STANDARD.string.text
 msgctxt "app.src#STR_STANDARD.string.text"
 msgid "Standard"
 msgstr "Estàndard"
 
+#. aqEd
 #: app.src#RID_SVXSTR_FILELINK.string.text
 msgid "Document"
 msgstr "Document"
 
+#. anbL
 #: app.src#STR_NONE.string.text
 msgid "- None -"
 msgstr "- Cap -"
 
+#. J61M
 #: app.src#RID_SVXSTR_GRAFIKLINK.string.text
 msgctxt "app.src#RID_SVXSTR_GRAFIKLINK.string.text"
 msgid "Graphic"
 msgstr "Gràfic"
 
+#. IsNd
 #: app.src#STR_SFX_FILTERNAME_ALL.string.text
 msgid "All files (*.*)"
 msgstr "Tots els fitxers (*.*)"
 
+#. Wo43
 #: app.src#RID_SVXSTR_EDITGRFLINK.string.text
 msgid "Link graphics"
 msgstr "Enllaça els gràfics"
 
+#. haOg
 #: app.src#STR_ERRUNOEVENTBINDUNG.string.text
 msgid ""
 "An appropriate component method %1\n"
@@ -364,66 +454,86 @@ msgstr ""
 "\n"
 "Verifiqueu l'ortografia del nom del mètode."
 
+#. V4yU
 #: app.src#RID_SVXSTR_GRFILTER_OPENERROR.string.text
 msgid "Graphics file cannot be opened"
 msgstr "No es pot obrir el fitxer gràfic"
 
+#. QZMP
 #: app.src#RID_SVXSTR_GRFILTER_IOERROR.string.text
 msgid "Graphics file cannot be read"
 msgstr "No es pot llegir el fitxer gràfic"
 
+#. OWzT
 #: app.src#RID_SVXSTR_GRFILTER_FORMATERROR.string.text
 msgid "Unknown graphics format"
 msgstr "El format del gràfic és desconegut"
 
+#. wUF9
 #: app.src#RID_SVXSTR_GRFILTER_VERSIONERROR.string.text
 msgid "This version of the graphics file is not supported"
 msgstr "Esta versió del fitxer gràfic no és compatible"
 
+#. AlGR
 #: app.src#RID_SVXSTR_GRFILTER_FILTERERROR.string.text
 msgid "Graphics filter not found"
 msgstr "No s'ha trobat el filtre gràfic"
 
+#. cMDR
 #: app.src#RID_SVXSTR_GRFILTER_TOOBIG.string.text
 msgid "Not enough memory to insert graphic"
 msgstr "No hi ha prou memòria per inserir el gràfic"
 
+#. sBdx
 #: app.src#DLG_HELP_LICENSING.STR_LICENSING_INFORMATION_1.string.text
 msgid ""
-"%PRODUCTNAME is made available subject to the terms of GNU Lesser General Public\n"
+"%PRODUCTNAME is made available subject to the terms of GNU Lesser General "
+"Public\n"
 "License Version 3. A copy of the LGPL license can be found at\n"
 "http://www.gnu.org/licenses/lgpl-3.0.html"
 msgstr ""
-"El %PRODUCTNAME es troba disponible segons les condicions de la GNU Lesser General\n"
+"El %PRODUCTNAME es troba disponible segons les condicions de la GNU Lesser "
+"General\n"
 "Public License Version 3. Una còpia de la llicència es pot trobar a\n"
 "http://www.gnu.org/licenses/lgpl-3.0.html"
 
+#. F#rG
 #: app.src#DLG_HELP_LICENSING.STR_LICENSING_INFORMATION_2.string.text
 msgid ""
-"Third Party Code Additional copyright notices and license terms applicable to\n"
+"Third Party Code Additional copyright notices and license terms applicable "
+"to\n"
 "portions of the Software are set forth in the THIRDPARTYLICENSEREADME.html\n"
 "file; choose Show License to see exact details in English."
 msgstr ""
-"Drets d'autor addicionals i acords de llicència aplicables a parts del programari\n"
+"Drets d'autor addicionals i acords de llicència aplicables a parts del "
+"programari\n"
 "es troben escrits en el fitxer anomenat THIRDPARTYLICENSEREADME.html\n"
-"Podeu seleccionar l'opció Mostra la llicència per veure els detalls exactes en anglés."
+"Podeu seleccionar l'opció Mostra la llicència per veure els detalls exactes "
+"en anglés."
 
+#. Ojx9
 #: app.src#DLG_HELP_LICENSING.STR_LICENSING_INFORMATION_3.string.text
 msgid ""
-"All trademarks and registered trademarks mentioned herein are the property of\n"
+"All trademarks and registered trademarks mentioned herein are the property "
+"of\n"
 "their respective owners."
 msgstr ""
-"Tots els drets de marca i marques registrades mencionades ací són propietat\n"
+"Tots els drets de marca i marques registrades mencionades ací són "
+"propietat\n"
 "dels seus respectius amos."
 
+#. 6cqd
 #: app.src#DLG_HELP_LICENSING.STR_LICENSING_INFORMATION_4.string.text
 msgid ""
-"Copyright © 2000, 2010 LibreOffice contributors and/or their affiliates. All rights\n"
+"Copyright © 2000, 2010 LibreOffice contributors and/or their affiliates. All "
+"rights\n"
 "reserved."
 msgstr ""
-"Copyright © 2000, 2010 Els contribuïdors del LibreOffice i/o els seus afiliats. Tots els\n"
+"Copyright © 2000, 2010 Els contribuïdors del LibreOffice i/o els seus "
+"afiliats. Tots els\n"
 "drets reservats."
 
+#. Hrw#
 #: app.src#DLG_HELP_LICENSING.STR_LICENSING_INFORMATION_5.string.text
 msgid ""
 "This product was created by %OOOVENDOR, based on OpenOffice.org,\n"
@@ -436,161 +546,200 @@ msgstr ""
 "%OOOVENDOR reconeix a tots els membres de la comunitat, feu una ullada a\n"
 "http://www.libreoffice.org/ si voleu més detalls."
 
+#. ZTCw
 #: app.src#DLG_HELP_LICENSING.PB_LICENSING_SHOW.okbutton.text
 msgid "~Show License"
 msgstr "Mo~stra la llicència"
 
+#. bfVP
 #: app.src#DLG_HELP_LICENSING.PB_LICENSING_CLOSE.cancelbutton.text
 msgid "~Close"
 msgstr "~Tanca"
 
+#. 9UC_
 #: app.src#DLG_HELP_LICENSING.modaldialog.text
 msgid "Licensing and Legal information"
 msgstr "Acord de llicència i Informació legal"
 
+#. EL3z
 #: newhelp.src#WIN_HELPINDEX.TC_INDEX.HELP_INDEX_PAGE_CONTENTS.pageitem.text
 msgid "Contents"
 msgstr "Contingut"
 
+#. ixZd
 #: newhelp.src#WIN_HELPINDEX.TC_INDEX.HELP_INDEX_PAGE_INDEX.pageitem.text
 msgid "Index"
 msgstr "Índex"
 
+#. oEWI
 #: newhelp.src#WIN_HELPINDEX.TC_INDEX.HELP_INDEX_PAGE_SEARCH.pageitem.text
 msgid "Find"
 msgstr "Cerca"
 
+#. 9hrV
 #: newhelp.src#WIN_HELPINDEX.TC_INDEX.HELP_INDEX_PAGE_BOOKMARKS.pageitem.text
 msgid "Bookmarks"
 msgstr "Adreces d'interés"
 
+#. 98d9
 #: newhelp.src#TP_HELP_INDEX.FT_EXPRESSION.fixedtext.text
 msgid "~Search term"
 msgstr "Terme de ~cerca"
 
+#. 7Psp
 #: newhelp.src#TP_HELP_INDEX.PB_OPEN_INDEX.pushbutton.text
 msgctxt "newhelp.src#TP_HELP_INDEX.PB_OPEN_INDEX.pushbutton.text"
 msgid "~Display"
 msgstr "~Visualitza"
 
+#. BEz2
 #: newhelp.src#TP_HELP_SEARCH.FT_SEARCH.fixedtext.text
 msgid "S~earch term"
 msgstr "T~erme de cerca"
 
+#. AT36
 #: newhelp.src#TP_HELP_SEARCH.PB_SEARCH.pushbutton.text
 msgid "~Find"
 msgstr "~Cerca"
 
+#. OXTT
 #: newhelp.src#TP_HELP_SEARCH.CB_FULLWORDS.checkbox.text
 msgid "~Complete words only"
 msgstr "~Només paraules senceres"
 
+#. 3D5s
 #: newhelp.src#TP_HELP_SEARCH.CB_SCOPE.checkbox.text
 msgid "Find in ~headings only"
 msgstr "Cerca només als ~encapçalaments"
 
+#. um7O
 #: newhelp.src#TP_HELP_SEARCH.PB_OPEN_SEARCH.pushbutton.text
 msgctxt "newhelp.src#TP_HELP_SEARCH.PB_OPEN_SEARCH.pushbutton.text"
 msgid "~Display"
 msgstr "~Visualitza"
 
+#. yi1a
 #: newhelp.src#TP_HELP_BOOKMARKS.FT_BOOKMARKS.fixedtext.text
 msgid "~Bookmarks"
 msgstr "A~dreces d'interés"
 
+#. QPCp
 #: newhelp.src#TP_HELP_BOOKMARKS.PB_BOOKMARKS.pushbutton.text
 msgctxt "newhelp.src#TP_HELP_BOOKMARKS.PB_BOOKMARKS.pushbutton.text"
 msgid "~Display"
 msgstr "~Visualitza"
 
+#. gklU
 #: newhelp.src#STR_HELP_WINDOW_TITLE.string.text
 msgid "%PRODUCTNAME Help"
 msgstr "Ajuda del %PRODUCTNAME"
 
+#. JB7Z
 #: newhelp.src#STR_HELP_BUTTON_INDEX_ON.string.text
 msgid "Show Navigation Pane"
 msgstr "Mostra la subfinestra de navegació"
 
+#. GdjD
 #: newhelp.src#STR_HELP_BUTTON_INDEX_OFF.string.text
 msgid "Hide Navigation Pane"
 msgstr "Amaga la subfinestra de navegació"
 
+#. j3aQ
 #: newhelp.src#STR_HELP_BUTTON_START.string.text
 msgid "First Page"
 msgstr "Primera pàgina"
 
+#. AUpy
 #: newhelp.src#STR_HELP_BUTTON_PREV.string.text
 msgid "Previous Page"
 msgstr "Pàgina anterior"
 
+#. 9#3O
 #: newhelp.src#STR_HELP_BUTTON_NEXT.string.text
 msgid "Next Page"
 msgstr "Pàgina següent"
 
+#. 0nKk
 #: newhelp.src#STR_HELP_BUTTON_PRINT.string.text
 msgid "Print..."
 msgstr "Imprimeix..."
 
+#. PKt7
 #: newhelp.src#STR_HELP_BUTTON_ADDBOOKMARK.string.text
 msgid "Add to Bookmarks..."
 msgstr "Afig a les adreces d'interés..."
 
+#. 3y3N
 #: newhelp.src#STR_HELP_BUTTON_SEARCHDIALOG.string.text
 msgid "Find on this Page..."
 msgstr "Cerca en esta pàgina..."
 
+#. Gzbd
 #: newhelp.src#STR_HELP_BUTTON_SOURCEVIEW.string.text
 msgid "HTML Source"
 msgstr "Font HTML"
 
+#. LO3v
 #: newhelp.src#STR_HELP_FIRST_MESSAGE.string.text
 msgid "The Help is being started..."
 msgstr "S'està iniciant l'ajuda..."
 
+#. ROtO
 #: newhelp.src#STR_HELP_MENU_TEXT_SELECTION_MODE.string.text
 msgid "Select Text"
 msgstr "Selecciona el text"
 
+#. FrxL
 #: newhelp.src#STR_HELP_MENU_TEXT_COPY.string.text
 msgid "~Copy"
 msgstr "~Copia"
 
+#. rhhn
 #: newhelp.src#DLG_HELP_ADDBOOKMARK.FT_BOOKMARK_TITLE.fixedtext.text
 msgid "Bookmark:"
 msgstr "Adreça d'interés:"
 
+#. QKGc
 #: newhelp.src#DLG_HELP_ADDBOOKMARK.STR_BOOKMARK_RENAME.string.text
 msgid "Rename Bookmark"
 msgstr "Canvia el nom de l'adreça d'interés"
 
+#. 4mMm
 #: newhelp.src#DLG_HELP_ADDBOOKMARK.modaldialog.text
 msgid "Add to Bookmarks"
 msgstr "Afig a les adreces d'interés"
 
+#. oN0v
 #: newhelp.src#MENU_HELP_BOOKMARKS.MID_OPEN.menuitem.text
 msgid "Display"
 msgstr "Mostra"
 
+#. 1vEh
 #: newhelp.src#MENU_HELP_BOOKMARKS.MID_RENAME.menuitem.text
 msgid "Rename..."
 msgstr "Canvia el nom..."
 
+#. _eJ8
 #: newhelp.src#MENU_HELP_BOOKMARKS.MID_DELETE.menuitem.text
 msgid "Delete"
 msgstr "Suprimeix"
 
+#. gru2
 #: newhelp.src#RID_INFO_NOSEARCHRESULTS.infobox.text
 msgid "No topics found."
 msgstr "No s'han trobat temes."
 
+#. 8BZj
 #: newhelp.src#RID_INFO_NOSEARCHTEXTFOUND.infobox.text
 msgid "The text you entered was not found."
 msgstr "El text que heu introduït no s'ha trobat."
 
+#. AAMd
 #: newhelp.src#RID_HELP_ONSTARTUP_TEXT.string.text
 msgid "~Display %PRODUCTNAME %MODULENAME Help at Startup"
 msgstr "Mostra l'ajuda del %PRODUCTNAME %MODULENAME a l'inici"
 
+#. YFsf
 #: sfx.src#STR_ACCTITLE_PRODUCTIVITYTOOLS.string.text
 msgid "%PRODUCTNAME"
 msgstr "%PRODUCTNAME"

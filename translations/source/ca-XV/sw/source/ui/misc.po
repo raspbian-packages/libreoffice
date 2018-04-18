@@ -2,7 +2,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+sw%2Fsource%2Fui%2Fmisc.oo&subcomponent=ui\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?"
+"comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue"
+"+in+file%3A+sw%2Fsource%2Fui%2Fmisc.oo&subcomponent=ui\n"
 "POT-Creation-Date: 2012-02-21 19:42+0200\n"
 "PO-Revision-Date: 2011-10-26 20:43+0200\n"
 "Last-Translator: Jesús <jesus@softcatala.org>\n"
@@ -15,1255 +17,1552 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 "X-Accelerator-Marker: ~\n"
 
+#. QvI9
 #: pggrid.src#TP_TEXTGRID_PAGE.FL_GRID_TYPE.fixedline.text
 msgid "Grid"
 msgstr "Graella"
 
+#. 8fHs
 #: pggrid.src#TP_TEXTGRID_PAGE.RB_NOGRID.radiobutton.text
 msgid "No grid"
 msgstr "Sense graella"
 
+#. H7U#
 #: pggrid.src#TP_TEXTGRID_PAGE.RB_LINESGRID.radiobutton.text
 msgid "Grid (lines only)"
 msgstr "Graella (només línies)"
 
+#. BOzf
 #: pggrid.src#TP_TEXTGRID_PAGE.RB_CHARSGRID.radiobutton.text
 msgid "Grid (lines and characters)"
 msgstr "Graella (línies i caràcters)"
 
+#. VVqw
 #: pggrid.src#TP_TEXTGRID_PAGE.CB_SNAPTOCHARS.checkbox.text
 msgid "~Snap to characters"
 msgstr "Aju~sta als caràcters"
 
+#. V4pa
 #: pggrid.src#TP_TEXTGRID_PAGE.FL_LAYOUT.fixedline.text
 msgid "Grid layout"
 msgstr "Disseny de la graella"
 
+#. zJ_m
 #: pggrid.src#TP_TEXTGRID_PAGE.FT_LINESPERPAGE.fixedtext.text
 msgid "Lines per page"
 msgstr "Línies per pàgina"
 
+#. JciO
 #: pggrid.src#TP_TEXTGRID_PAGE.FT_LINERANGE.fixedtext.text
 msgid "( 1 - 48 )"
 msgstr "( 1 - 48 )"
 
+#. 8kR2
 #: pggrid.src#TP_TEXTGRID_PAGE.FT_TEXTSIZE.fixedtext.text
 msgid "Max. base text size"
 msgstr "Mida màx. del text base"
 
+#. AkDA
 #: pggrid.src#TP_TEXTGRID_PAGE.FT_CHARSPERLINE.fixedtext.text
 msgid "Characters per line"
 msgstr "Caràcters per línia"
 
+#. BsDE
 #: pggrid.src#TP_TEXTGRID_PAGE.FT_CHARWIDTH.fixedtext.text
 msgid "Character ~width"
 msgstr "A~mplada de caràcter"
 
+#. Ty3h
 #: pggrid.src#TP_TEXTGRID_PAGE.FT_CHARRANGE.fixedtext.text
 msgid "( 1 - 45 )"
 msgstr "( 1 - 45 )"
 
+#. mqNr
 #: pggrid.src#TP_TEXTGRID_PAGE.FT_RUBYSIZE.fixedtext.text
 msgid "Max. Ruby text size"
 msgstr "Mida màx. del text fonètic"
 
+#. _Zpi
 #: pggrid.src#TP_TEXTGRID_PAGE.CB_RUBYBELOW.checkbox.text
 msgid "Ruby text below/left from base text"
 msgstr "Text fonètic a baix/esquerra del text base"
 
+#. EF3O
 #: pggrid.src#TP_TEXTGRID_PAGE.FL_DISPLAY.fixedline.text
 msgid "Grid display"
 msgstr "Visualitza la graella"
 
+#. 2AJg
 #: pggrid.src#TP_TEXTGRID_PAGE.CB_DISPLAY.checkbox.text
 msgid "Display grid"
 msgstr "Visualitza la graella"
 
+#. hpeU
 #: pggrid.src#TP_TEXTGRID_PAGE.CB_PRINT.checkbox.text
 msgid "Print grid"
 msgstr "Imprimeix la graella"
 
+#. Uzon
 #: pggrid.src#TP_TEXTGRID_PAGE.FT_COLOR.fixedtext.text
 msgid "Grid color"
 msgstr "Color de la graella"
 
+#. X5Ye
 #: insfnote.src#DLG_INS_FOOTNOTE.STR_CHAR.string.text
 msgid "Character"
 msgstr "Caràcter"
 
+#. XiZu
 #: insfnote.src#DLG_INS_FOOTNOTE.RB_NUMBER_AUTO.radiobutton.text
 msgid "~Automatic"
 msgstr "~Automàtic"
 
+#. nCpY
 #: insfnote.src#DLG_INS_FOOTNOTE.RB_NUMBER_CHAR.radiobutton.text
 msgctxt "insfnote.src#DLG_INS_FOOTNOTE.RB_NUMBER_CHAR.radiobutton.text"
 msgid "~Character"
 msgstr "~Caràcter"
 
+#. fx3W
 #: insfnote.src#DLG_INS_FOOTNOTE.FL_NUMBER.fixedline.text
 msgctxt "insfnote.src#DLG_INS_FOOTNOTE.FL_NUMBER.fixedline.text"
 msgid "Numbering"
 msgstr "Numeració"
 
+#. 1SLF
 #: insfnote.src#DLG_INS_FOOTNOTE.RB_TYPE_FTN.radiobutton.text
 msgid "~Footnote"
 msgstr "~Nota al peu"
 
+#. U8Yd
 #: insfnote.src#DLG_INS_FOOTNOTE.RB_TYPE_ENDNOTE.radiobutton.text
 msgid "~Endnote"
 msgstr "Nota ~final"
 
+#. kAYq
 #: insfnote.src#DLG_INS_FOOTNOTE.FL_TYPE.fixedline.text
 msgid "Type"
 msgstr "Tipus"
 
+#. YK3c
 #: insfnote.src#DLG_INS_FOOTNOTE.modaldialog.text
 msgid "Insert Footnote/Endnote"
 msgstr "Insereix una nota al peu o final"
 
+#. MIvs
 #: glosbib.src#DLG_BIB_BASE.PB_NEW.pushbutton.text
 msgctxt "glosbib.src#DLG_BIB_BASE.PB_NEW.pushbutton.text"
 msgid "~New"
 msgstr "~Nou"
 
+#. Vm54
 #: glosbib.src#DLG_BIB_BASE.PB_DELETE.pushbutton.text
 msgctxt "glosbib.src#DLG_BIB_BASE.PB_DELETE.pushbutton.text"
 msgid "~Delete"
 msgstr "~Suprimeix"
 
+#. o#gq
 #: glosbib.src#DLG_BIB_BASE.PB_RENAME.pushbutton.text
 msgid "~Rename"
 msgstr "~Reanomena"
 
+#. SvCD
 #: glosbib.src#DLG_BIB_BASE.FT_BIB.fixedtext.text
 msgctxt "glosbib.src#DLG_BIB_BASE.FT_BIB.fixedtext.text"
 msgid "Category"
 msgstr "Categoria"
 
+#. QSeR
 #: glosbib.src#DLG_BIB_BASE.FT_PATH.fixedtext.text
 msgid "Path"
 msgstr "Camí"
 
+#. aErQ
 #: glosbib.src#DLG_BIB_BASE.FT_SELECT.fixedtext.text
 msgid "Selection list"
 msgstr "Llista de selecció"
 
+#. _FNC
 #: glosbib.src#DLG_BIB_BASE.modaldialog.text
 msgid "Edit Categories"
 msgstr "Edita les categories"
 
+#. uX8m
 #: outline.src#DLG_NUM_NAMES.FL_FORM.fixedline.text
 msgid "Format"
 msgstr "Format"
 
+#. oUxr
 #: outline.src#DLG_NUM_NAMES.LB_FORM.1.stringlist.text
 msgctxt "outline.src#DLG_NUM_NAMES.LB_FORM.1.stringlist.text"
 msgid "Untitled 1"
 msgstr "Sense títol 1"
 
+#. UY27
 #: outline.src#DLG_NUM_NAMES.LB_FORM.2.stringlist.text
 msgctxt "outline.src#DLG_NUM_NAMES.LB_FORM.2.stringlist.text"
 msgid "Untitled 2"
 msgstr "Sense títol 2"
 
+#. Jd9s
 #: outline.src#DLG_NUM_NAMES.LB_FORM.3.stringlist.text
 msgctxt "outline.src#DLG_NUM_NAMES.LB_FORM.3.stringlist.text"
 msgid "Untitled 3"
 msgstr "Sense títol 3"
 
+#. zeL3
 #: outline.src#DLG_NUM_NAMES.LB_FORM.4.stringlist.text
 msgctxt "outline.src#DLG_NUM_NAMES.LB_FORM.4.stringlist.text"
 msgid "Untitled 4"
 msgstr "Sense títol 4"
 
+#. mjUo
 #: outline.src#DLG_NUM_NAMES.LB_FORM.5.stringlist.text
 msgctxt "outline.src#DLG_NUM_NAMES.LB_FORM.5.stringlist.text"
 msgid "Untitled 5"
 msgstr "Sense títol 5"
 
+#. SHd0
 #: outline.src#DLG_NUM_NAMES.LB_FORM.6.stringlist.text
 msgctxt "outline.src#DLG_NUM_NAMES.LB_FORM.6.stringlist.text"
 msgid "Untitled 6"
 msgstr "Sense títol 6"
 
+#. HKin
 #: outline.src#DLG_NUM_NAMES.LB_FORM.7.stringlist.text
 msgctxt "outline.src#DLG_NUM_NAMES.LB_FORM.7.stringlist.text"
 msgid "Untitled 7"
 msgstr "Sense títol 7"
 
+#. xzxB
 #: outline.src#DLG_NUM_NAMES.LB_FORM.8.stringlist.text
 msgctxt "outline.src#DLG_NUM_NAMES.LB_FORM.8.stringlist.text"
 msgid "Untitled 8"
 msgstr "Sense títol 8"
 
+#. sumw
 #: outline.src#DLG_NUM_NAMES.LB_FORM.9.stringlist.text
 msgctxt "outline.src#DLG_NUM_NAMES.LB_FORM.9.stringlist.text"
 msgid "Untitled 9"
 msgstr "Sense títol 9"
 
+#. hS4P
 #: outline.src#DLG_NUM_NAMES.modaldialog.text
 msgid "Save As"
 msgstr "Anomena i alça"
 
+#. 2Rm9
 #: outline.src#DLG_TAB_OUTLINE.1.TP_OUTLINE_NUM.pageitem.text
 msgctxt "outline.src#DLG_TAB_OUTLINE.1.TP_OUTLINE_NUM.pageitem.text"
 msgid "Numbering"
 msgstr "Numeració"
 
+#. Ig7l
 #: outline.src#DLG_TAB_OUTLINE.1.TP_NUM_POSITION.pageitem.text
 msgctxt "outline.src#DLG_TAB_OUTLINE.1.TP_NUM_POSITION.pageitem.text"
 msgid "Position"
 msgstr "Posició"
 
+#. wXTu
 #: outline.src#DLG_TAB_OUTLINE.ST_FORM.string.text
 msgid "~Format"
 msgstr "~Formata"
 
+#. NYOZ
 #: outline.src#DLG_TAB_OUTLINE.MN_FORM.MN_FORM1.menuitem.text
 msgctxt "outline.src#DLG_TAB_OUTLINE.MN_FORM.MN_FORM1.menuitem.text"
 msgid "Untitled 1"
 msgstr "Sense títol 1"
 
+#. sCqR
 #: outline.src#DLG_TAB_OUTLINE.MN_FORM.MN_FORM2.menuitem.text
 msgctxt "outline.src#DLG_TAB_OUTLINE.MN_FORM.MN_FORM2.menuitem.text"
 msgid "Untitled 2"
 msgstr "Sense títol 2"
 
+#. 0upi
 #: outline.src#DLG_TAB_OUTLINE.MN_FORM.MN_FORM3.menuitem.text
 msgctxt "outline.src#DLG_TAB_OUTLINE.MN_FORM.MN_FORM3.menuitem.text"
 msgid "Untitled 3"
 msgstr "Sense títol 3"
 
+#. FY9B
 #: outline.src#DLG_TAB_OUTLINE.MN_FORM.MN_FORM4.menuitem.text
 msgctxt "outline.src#DLG_TAB_OUTLINE.MN_FORM.MN_FORM4.menuitem.text"
 msgid "Untitled 4"
 msgstr "Sense títol 4"
 
+#. vMEy
 #: outline.src#DLG_TAB_OUTLINE.MN_FORM.MN_FORM5.menuitem.text
 msgctxt "outline.src#DLG_TAB_OUTLINE.MN_FORM.MN_FORM5.menuitem.text"
 msgid "Untitled 5"
 msgstr "Sense títol 5"
 
+#. OuY4
 #: outline.src#DLG_TAB_OUTLINE.MN_FORM.MN_FORM6.menuitem.text
 msgctxt "outline.src#DLG_TAB_OUTLINE.MN_FORM.MN_FORM6.menuitem.text"
 msgid "Untitled 6"
 msgstr "Sense títol 6"
 
+#. kCbp
 #: outline.src#DLG_TAB_OUTLINE.MN_FORM.MN_FORM7.menuitem.text
 msgctxt "outline.src#DLG_TAB_OUTLINE.MN_FORM.MN_FORM7.menuitem.text"
 msgid "Untitled 7"
 msgstr "Sense títol 7"
 
+#. z_og
 #: outline.src#DLG_TAB_OUTLINE.MN_FORM.MN_FORM8.menuitem.text
 msgctxt "outline.src#DLG_TAB_OUTLINE.MN_FORM.MN_FORM8.menuitem.text"
 msgid "Untitled 8"
 msgstr "Sense títol 8"
 
+#. BBrT
 #: outline.src#DLG_TAB_OUTLINE.MN_FORM.MN_FORM9.menuitem.text
 msgctxt "outline.src#DLG_TAB_OUTLINE.MN_FORM.MN_FORM9.menuitem.text"
 msgid "Untitled 9"
 msgstr "Sense títol 9"
 
+#. MauU
 #: outline.src#DLG_TAB_OUTLINE.MN_FORM.MN_SAVE.menuitem.text
 msgid "Save ~As..."
 msgstr "Anomena i ~alça..."
 
+#. Dqj1
 #: outline.src#TP_OUTLINE_NUM.FL_LEVEL.fixedline.text
 msgctxt "outline.src#TP_OUTLINE_NUM.FL_LEVEL.fixedline.text"
 msgid "Level"
 msgstr "Nivell"
 
+#. z7g8
 #: outline.src#TP_OUTLINE_NUM.FT_COLL.fixedtext.text
 msgid "~Paragraph Style"
 msgstr "Estil de ~paràgraf"
 
+#. bGJg
 #: outline.src#TP_OUTLINE_NUM.FT_NUMBER.fixedtext.text
 msgid "~Number"
 msgstr "~Número"
 
+#. xTQ9
 #: outline.src#TP_OUTLINE_NUM.FT_CHARFMT.fixedtext.text
 msgctxt "outline.src#TP_OUTLINE_NUM.FT_CHARFMT.fixedtext.text"
 msgid "~Character Style"
 msgstr "Estil de ~caràcter"
 
+#. EcMD
 #: outline.src#TP_OUTLINE_NUM.FT_ALL_LEVEL.fixedtext.text
 msgid "Sho~w sublevels"
 msgstr "Mostr~a els subnivells"
 
+#. FJRX
 #: outline.src#TP_OUTLINE_NUM.FT_DELIM.fixedtext.text
 msgctxt "outline.src#TP_OUTLINE_NUM.FT_DELIM.fixedtext.text"
 msgid "Separator"
 msgstr "Separador"
 
+#. tN5R
 #: outline.src#TP_OUTLINE_NUM.FT_PREFIX.fixedtext.text
 msgctxt "outline.src#TP_OUTLINE_NUM.FT_PREFIX.fixedtext.text"
 msgid "~Before"
 msgstr "A~bans"
 
+#. WJX6
 #: outline.src#TP_OUTLINE_NUM.FT_SUFFIX.fixedtext.text
 msgctxt "outline.src#TP_OUTLINE_NUM.FT_SUFFIX.fixedtext.text"
 msgid "~After"
 msgstr "~Després"
 
+#. uA8t
 #: outline.src#TP_OUTLINE_NUM.FT_START.fixedtext.text
 msgctxt "outline.src#TP_OUTLINE_NUM.FT_START.fixedtext.text"
 msgid "~Start at"
 msgstr "~Inicia a"
 
+#. J1aL
 #: outline.src#TP_OUTLINE_NUM.FL_NUMBER.fixedline.text
 msgctxt "outline.src#TP_OUTLINE_NUM.FL_NUMBER.fixedline.text"
 msgid "Numbering"
 msgstr "Numeració"
 
+#. uOen
 #: outline.src#TP_OUTLINE_NUM.ST_NO_COLL.string.text
 msgid "(none)"
 msgstr "(cap)"
 
+#. WlbO
 #: bookmark.src#DLG_INSERT_BOOKMARK.BT_DELETE.pushbutton.text
 msgctxt "bookmark.src#DLG_INSERT_BOOKMARK.BT_DELETE.pushbutton.text"
 msgid "~Delete"
 msgstr "~Suprimeix"
 
+#. Mu5i
 #: bookmark.src#DLG_INSERT_BOOKMARK.FL_BOOKMARK.fixedline.text
 msgid "Bookmarks"
 msgstr "Marques de text"
 
+#. uapi
 #: bookmark.src#DLG_INSERT_BOOKMARK.modaldialog.text
 msgid "Insert Bookmark"
 msgstr "Insereix una marca"
 
+#. 4oio
 #: bookmark.src#STR_REMOVE_WARNING.string.text
 msgid "The following characters are not valid and have been removed: "
 msgstr "Els caràcters següents s'han eliminat perquè no es permeten: "
 
+#. qmz1
 #: srtdlg.src#DLG_SORTING.FT_COL.fixedtext.text
 msgctxt "srtdlg.src#DLG_SORTING.FT_COL.fixedtext.text"
 msgid "Column"
 msgstr "Columna"
 
+#. G5#A
 #: srtdlg.src#DLG_SORTING.FT_KEYTYP.fixedtext.text
 msgid "Key type"
 msgstr "Tipus de clau"
 
+#. mOrr
 #: srtdlg.src#DLG_SORTING.FT_DIR.fixedtext.text
 msgid "Order"
 msgstr "Orde"
 
+#. r1gb
 #: srtdlg.src#DLG_SORTING.CB_KEY1.checkbox.text
 msgid "Key ~1"
 msgstr "Clau ~1"
 
+#. oMCI
 #: srtdlg.src#DLG_SORTING.STR_NUMERIC.string.text
 msgid "Numeric"
 msgstr "Numèric"
 
+#. MAy_
 #: srtdlg.src#DLG_SORTING.RB_UP.radiobutton.text
 msgid "~Ascending"
 msgstr "~Ascendent"
 
+#. G5ol
 #: srtdlg.src#DLG_SORTING.RB_DN.radiobutton.text
 msgid "~Descending"
 msgstr "~Descendent"
 
+#. Kl6T
 #: srtdlg.src#DLG_SORTING.CB_KEY2.checkbox.text
 msgid "Key ~2"
 msgstr "Clau ~2"
 
+#. 5j1V
 #: srtdlg.src#DLG_SORTING.RB_UP2.radiobutton.text
 msgctxt "srtdlg.src#DLG_SORTING.RB_UP2.radiobutton.text"
 msgid "Ascending"
 msgstr "Ascendent"
 
+#. NwdX
 #: srtdlg.src#DLG_SORTING.RB_DN2.radiobutton.text
 msgctxt "srtdlg.src#DLG_SORTING.RB_DN2.radiobutton.text"
 msgid "Descending"
 msgstr "Descendent"
 
+#. YR1g
 #: srtdlg.src#DLG_SORTING.CB_KEY3.checkbox.text
 msgid "Key ~3"
 msgstr "Clau ~3"
 
+#. IJ5T
 #: srtdlg.src#DLG_SORTING.RB_UP3.radiobutton.text
 msgctxt "srtdlg.src#DLG_SORTING.RB_UP3.radiobutton.text"
 msgid "Ascending"
 msgstr "Ascendent"
 
+#. 04ZZ
 #: srtdlg.src#DLG_SORTING.RB_DN3.radiobutton.text
 msgctxt "srtdlg.src#DLG_SORTING.RB_DN3.radiobutton.text"
 msgid "Descending"
 msgstr "Descendent"
 
+#. N3gO
 #: srtdlg.src#DLG_SORTING.FL_SORT_2.fixedline.text
 msgid "Sort criteria"
 msgstr "Criteris d'ordenació"
 
+#. 23cF
 #: srtdlg.src#DLG_SORTING.RB_COL.radiobutton.text
 msgid "Col~umns"
 msgstr "Col~umnes"
 
+#. WvkG
 #: srtdlg.src#DLG_SORTING.RB_ROW.radiobutton.text
 msgid "~Rows"
 msgstr "~Files"
 
+#. XQG8
 #: srtdlg.src#DLG_SORTING.FL_DIR.fixedline.text
 msgid "Direction"
 msgstr "Direcció"
 
+#. LNHq
 #: srtdlg.src#DLG_SORTING.RB_TAB.radiobutton.text
 msgid "~Tabs"
 msgstr "~Tabuladors"
 
+#. pdZX
 #: srtdlg.src#DLG_SORTING.RB_TABCH.radiobutton.text
 msgctxt "srtdlg.src#DLG_SORTING.RB_TABCH.radiobutton.text"
 msgid "~Character"
 msgstr "~Caràcter"
 
+#. m8ZR
 #: srtdlg.src#DLG_SORTING.FL_DELIM.fixedline.text
 msgctxt "srtdlg.src#DLG_SORTING.FL_DELIM.fixedline.text"
 msgid "Separator"
 msgstr "Separador"
 
+#. 3eok
 #: srtdlg.src#DLG_SORTING.STR_ROW.string.text
 msgid "Rows"
 msgstr "Files"
 
+#. TFKn
 #: srtdlg.src#DLG_SORTING.STR_COL.string.text
 msgctxt "srtdlg.src#DLG_SORTING.STR_COL.string.text"
 msgid "Column"
 msgstr "Columna"
 
+#. J7Rr
 #: srtdlg.src#DLG_SORTING.FL_LANG.fixedline.text
 msgid "Language"
 msgstr "Llengua"
 
+#. vMF2
 #: srtdlg.src#DLG_SORTING.FL_SORT.fixedline.text
 msgid "Setting"
 msgstr "Paràmetre"
 
+#. 46ul
 #: srtdlg.src#DLG_SORTING.CB_CASE.checkbox.text
 msgid "Match case"
 msgstr "Distingeix entre majúscules i minúscules"
 
+#. MlMC
 #: srtdlg.src#DLG_SORTING.modaldialog.text
 msgid "Sort"
 msgstr "Ordena"
 
+#. 1gLI
 #: srtdlg.src#MSG_SRTERR.infobox.text
 msgid "Cannot sort selection"
 msgstr "No es pot ordenar la selecció"
 
+#. EQ_h
 #: docfnote.src#DLG_DOC_FOOTNOTE.1.TP_FOOTNOTEOPTION.pageitem.text
 msgid "Footnotes"
 msgstr "Notes al peu"
 
+#. JzlI
 #: docfnote.src#DLG_DOC_FOOTNOTE.1.TP_ENDNOTEOPTION.pageitem.text
 msgid "Endnotes"
 msgstr "Notes finals"
 
+#. inUO
 #: docfnote.src#DLG_DOC_FOOTNOTE.tabdialog.text
 msgid "Footnotes/Endnotes Settings"
 msgstr "Configuració de les notes al peu i finals"
 
+#. KtZt
 #: docfnote.src#TP_FOOTNOTEOPTION.FL_NUM.fixedline.text
 msgctxt "docfnote.src#TP_FOOTNOTEOPTION.FL_NUM.fixedline.text"
 msgid "AutoNumbering"
 msgstr "Numeració automàtica"
 
+#. h0QQ
 #: docfnote.src#TP_FOOTNOTEOPTION.FT_NUMTYPE.fixedtext.text
 msgid "Num~bering"
 msgstr "~Numeració"
 
+#. 7b1A
 #: docfnote.src#TP_FOOTNOTEOPTION.FT_OFFSET.fixedtext.text
 msgctxt "docfnote.src#TP_FOOTNOTEOPTION.FT_OFFSET.fixedtext.text"
 msgid "~Start at"
 msgstr "~Inicia a"
 
+#. kPhY
 #: docfnote.src#TP_FOOTNOTEOPTION.FT_NUMCOUNT.fixedtext.text
 msgid "~Counting"
 msgstr "Re~compte"
 
+#. jM4N
 #: docfnote.src#TP_FOOTNOTEOPTION.LB_NUMCOUNT.1.stringlist.text
 msgid "Per page"
 msgstr "Per pàgina"
 
+#. 1gzb
 #: docfnote.src#TP_FOOTNOTEOPTION.LB_NUMCOUNT.2.stringlist.text
 msgid "Per chapter"
 msgstr "Per capítol"
 
+#. ClsK
 #: docfnote.src#TP_FOOTNOTEOPTION.LB_NUMCOUNT.3.stringlist.text
 msgid "Per document"
 msgstr "Per document"
 
+#. O8Px
 #: docfnote.src#TP_FOOTNOTEOPTION.FT_PREFIX.fixedtext.text
 msgctxt "docfnote.src#TP_FOOTNOTEOPTION.FT_PREFIX.fixedtext.text"
 msgid "~Before"
 msgstr "A~bans"
 
+#. FCzc
 #: docfnote.src#TP_FOOTNOTEOPTION.FT_SUFFIX.fixedtext.text
 msgctxt "docfnote.src#TP_FOOTNOTEOPTION.FT_SUFFIX.fixedtext.text"
 msgid "~After"
 msgstr "~Després"
 
+#. GjRR
 #: docfnote.src#TP_FOOTNOTEOPTION.FT_POS.fixedtext.text
 msgctxt "docfnote.src#TP_FOOTNOTEOPTION.FT_POS.fixedtext.text"
 msgid "Position"
 msgstr "Posició"
 
+#. f0j3
 #: docfnote.src#TP_FOOTNOTEOPTION.RB_POS_PAGE.radiobutton.text
 msgid "~End of page"
 msgstr "Fi de ~pàgina"
 
+#. ugzZ
 #: docfnote.src#TP_FOOTNOTEOPTION.RB_POS_CHAPTER.radiobutton.text
 msgid "En~d of document"
 msgstr "Fin~al del document"
 
+#. GVZ7
 #: docfnote.src#TP_FOOTNOTEOPTION.FL_TEMPL.fixedline.text
 msgctxt "docfnote.src#TP_FOOTNOTEOPTION.FL_TEMPL.fixedline.text"
 msgid "Styles"
 msgstr "Estils"
 
+#. Shd4
 #: docfnote.src#TP_FOOTNOTEOPTION.FT_PARA_TEMPL.fixedtext.text
 msgctxt "docfnote.src#TP_FOOTNOTEOPTION.FT_PARA_TEMPL.fixedtext.text"
 msgid "Pa~ragraph"
 msgstr "Pa~ràgraf"
 
+#. 9Q#H
 #: docfnote.src#TP_FOOTNOTEOPTION.FT_PAGE_TEMPL.fixedtext.text
 msgctxt "docfnote.src#TP_FOOTNOTEOPTION.FT_PAGE_TEMPL.fixedtext.text"
 msgid "~Page"
 msgstr "~Pàgina"
 
+#. BxuD
 #: docfnote.src#TP_FOOTNOTEOPTION.FL_CHAR_TEMPL.fixedline.text
 msgctxt "docfnote.src#TP_FOOTNOTEOPTION.FL_CHAR_TEMPL.fixedline.text"
 msgid "Character Styles"
 msgstr "Estils de caràcter"
 
+#. 4sDs
 #: docfnote.src#TP_FOOTNOTEOPTION.FT_ANCHR_CHARFMT.fixedtext.text
 msgctxt "docfnote.src#TP_FOOTNOTEOPTION.FT_ANCHR_CHARFMT.fixedtext.text"
 msgid "Te~xt area"
 msgstr "Àrea de te~xt"
 
+#. CjhH
 #: docfnote.src#TP_FOOTNOTEOPTION.FT_TEXT_CHARFMT.fixedtext.text
 msgid "~Footnote area"
 msgstr "Àrea de ~nota al peu"
 
+#. gubB
 #: docfnote.src#TP_FOOTNOTEOPTION.FL_CONT.fixedline.text
 msgctxt "docfnote.src#TP_FOOTNOTEOPTION.FL_CONT.fixedline.text"
 msgid "Continuation notice"
 msgstr "Nota de continuació"
 
+#. Tj4X
 #: docfnote.src#TP_FOOTNOTEOPTION.FT_CONT.fixedtext.text
 msgid "End ~of footnote"
 msgstr "Final ~de la nota al peu"
 
+#. JXEy
 #: docfnote.src#TP_FOOTNOTEOPTION.FT_CONT_FROM.fixedtext.text
 msgid "Star~t of next page"
 msgstr "A pàg. seg~üent"
 
+#. t6VU
 #: docfnote.src#TP_ENDNOTEOPTION.FL_NUM.fixedline.text
 msgctxt "docfnote.src#TP_ENDNOTEOPTION.FL_NUM.fixedline.text"
 msgid "AutoNumbering"
 msgstr "Numeració automàtica"
 
+#. yoiZ
 #: docfnote.src#TP_ENDNOTEOPTION.FT_NUMTYPE.fixedtext.text
 msgid "~Numbering"
 msgstr "~Numeració"
 
+#. Af3A
 #: docfnote.src#FT_OFFSET.fixedtext.text
 msgctxt "docfnote.src#FT_OFFSET.fixedtext.text"
 msgid "~Start at"
 msgstr "~Inicia a"
 
+#. L4Rx
 #: docfnote.src#FT_PREFIX.fixedtext.text
 msgctxt "docfnote.src#FT_PREFIX.fixedtext.text"
 msgid "~Before"
 msgstr "A~bans"
 
+#. 20_c
 #: docfnote.src#FT_SUFFIX.fixedtext.text
 msgctxt "docfnote.src#FT_SUFFIX.fixedtext.text"
 msgid "~After"
 msgstr "~Després"
 
+#. d_#w
 #: docfnote.src#RB_POS_PAGE.radiobutton.text
 msgid "End ~of page"
 msgstr "Fi de ~pàgina"
 
+#. rbET
 #: docfnote.src#RB_POS_CHAPTER.radiobutton.text
 msgid "End of ~document"
 msgstr "Final del ~document"
 
+#. cqB7
 #: docfnote.src#FL_TEMPL.fixedline.text
 msgctxt "docfnote.src#FL_TEMPL.fixedline.text"
 msgid "Styles"
 msgstr "Estils"
 
+#. IKqz
 #: docfnote.src#FT_PARA_TEMPL.fixedtext.text
 msgctxt "docfnote.src#FT_PARA_TEMPL.fixedtext.text"
 msgid "Pa~ragraph"
 msgstr "Pa~ràgraf"
 
+#. 7bje
 #: docfnote.src#FT_PAGE_TEMPL.fixedtext.text
 msgctxt "docfnote.src#FT_PAGE_TEMPL.fixedtext.text"
 msgid "~Page"
 msgstr "~Pàgina"
 
+#. 54hq
 #: docfnote.src#FL_CHAR_TEMPL.fixedline.text
 msgctxt "docfnote.src#FL_CHAR_TEMPL.fixedline.text"
 msgid "Character Styles"
 msgstr "Estils de caràcter"
 
+#. 9v#8
 #: docfnote.src#FT_ANCHR_CHARFMT.fixedtext.text
 msgctxt "docfnote.src#FT_ANCHR_CHARFMT.fixedtext.text"
 msgid "Te~xt area"
 msgstr "Àrea de te~xt"
 
+#. KcL9
 #: docfnote.src#FT_TEXT_CHARFMT.fixedtext.text
 msgid "~Endnote area"
 msgstr "Àrea de n~ota final"
 
+#. v0LB
 #: docfnote.src#FL_CONT.fixedline.text
 msgctxt "docfnote.src#FL_CONT.fixedline.text"
 msgid "Continuation notice"
 msgstr "Nota de continuació"
 
+#. ELqX
 #: docfnote.src#FT_CONT.fixedtext.text
 msgid "~Following page"
 msgstr "Pàgina ~següent"
 
+#. mnD3
 #: docfnote.src#FT_CONT_FROM.fixedtext.text
 msgid "~Start"
 msgstr "~Inicia"
 
+#. wkwX
 #: linenum.src#TP_LINENUMBERING.CB_NUMBERING_ON.checkbox.text
 msgid "~Show numbering"
 msgstr "Mostra ~numeració"
 
+#. cCdx
 #: linenum.src#TP_LINENUMBERING.FT_CHAR_STYLE.fixedtext.text
 msgctxt "linenum.src#TP_LINENUMBERING.FT_CHAR_STYLE.fixedtext.text"
 msgid "~Character Style"
 msgstr "Estil de ~caràcter"
 
+#. TLlE
 #: linenum.src#TP_LINENUMBERING.FT_FORMAT.fixedtext.text
 msgid "F~ormat"
 msgstr "F~ormat"
 
+#. IamA
 #: linenum.src#TP_LINENUMBERING.FT_POS.fixedtext.text
 msgctxt "linenum.src#TP_LINENUMBERING.FT_POS.fixedtext.text"
 msgid "Position"
 msgstr "Posició"
 
+#. N_1K
 #: linenum.src#TP_LINENUMBERING.LB_POS.1.stringlist.text
 msgctxt "linenum.src#TP_LINENUMBERING.LB_POS.1.stringlist.text"
 msgid "Left"
 msgstr "Esquerra"
 
+#. x3uc
 #: linenum.src#TP_LINENUMBERING.LB_POS.2.stringlist.text
 msgctxt "linenum.src#TP_LINENUMBERING.LB_POS.2.stringlist.text"
 msgid "Right"
 msgstr "Dreta"
 
+#. s6pN
 #: linenum.src#TP_LINENUMBERING.LB_POS.3.stringlist.text
 msgid "Inner"
 msgstr "Interior"
 
+#. O9lY
 #: linenum.src#TP_LINENUMBERING.LB_POS.4.stringlist.text
 msgid "Outer"
 msgstr "Exterior"
 
+#. 7Cfh
 #: linenum.src#TP_LINENUMBERING.FT_OFFSET.fixedtext.text
 msgid "Spacing"
 msgstr "Espaiat"
 
+#. oiP9
 #: linenum.src#TP_LINENUMBERING.FT_NUM_INVERVAL.fixedtext.text
 msgid "Interval"
 msgstr "Interval"
 
+#. xIE0
 #: linenum.src#TP_LINENUMBERING.FT_NUM_ROWS.fixedtext.text
 msgid "lines"
 msgstr "Línies"
 
+#. Uu0J
 #: linenum.src#TP_LINENUMBERING.FL_DISPLAY.fixedline.text
 msgid "View"
 msgstr "Visualització"
 
+#. TZZE
 #: linenum.src#TP_LINENUMBERING.FT_DIVISOR.fixedtext.text
 msgid "Text"
 msgstr "Text"
 
+#. sJmH
 #: linenum.src#TP_LINENUMBERING.FT_DIV_INTERVAL.fixedtext.text
 msgid "Every"
 msgstr "Cada"
 
+#. 1wIU
 #: linenum.src#TP_LINENUMBERING.FT_DIV_ROWS.fixedtext.text
 msgid "Lines"
 msgstr "Línies"
 
+#. eTma
 #: linenum.src#TP_LINENUMBERING.FL_DIVISOR.fixedline.text
 msgctxt "linenum.src#TP_LINENUMBERING.FL_DIVISOR.fixedline.text"
 msgid "Separator"
 msgstr "Separador"
 
+#. Jqve
 #: linenum.src#TP_LINENUMBERING.CB_COUNT_EMPTYLINES.checkbox.text
 msgid "Blank lines"
 msgstr "Línies en ~blanc"
 
+#. K9nO
 #: linenum.src#TP_LINENUMBERING.CB_COUNT_FRAMELINES.checkbox.text
 msgid "Lines in text frames"
 msgstr "Línies en els ma~rcs de text"
 
+#. UxPX
 #: linenum.src#TP_LINENUMBERING.CB_RESTART_PAGE.checkbox.text
 msgid "~Restart every new page"
 msgstr "~Reinicia a cada pàgina nova"
 
+#. NLCC
 #: linenum.src#TP_LINENUMBERING.FL_COUNT.fixedline.text
 msgid "Count"
 msgstr "Compta"
 
+#. HNBY
 #: linenum.src#TP_LINENUMBERING.tabpage.text
 msgid "Line Numbering"
 msgstr "Numeració de línies"
 
+#. #vqK
 #: titlepage.src#DLG_TITLEPAGE.FL_MAKEINSERT.fixedline.text
 msgid "Make Title Pages"
 msgstr "Fes pàgina de portada"
 
+#. 8e6P
 #: titlepage.src#DLG_TITLEPAGE.RB_USE_EXISTING_PAGES.radiobutton.text
 msgid "Convert existing pages to title pages"
 msgstr "Converteix les pàgines existents a portades"
 
+#. w_C9
 #: titlepage.src#DLG_TITLEPAGE.RB_INSERT_NEW_PAGES.radiobutton.text
 msgid "Insert new title pages"
 msgstr "Insereix una nova portada"
 
+#. k0b1
 #: titlepage.src#DLG_TITLEPAGE.FT_PAGE_COUNT.fixedtext.text
 msgid "Number of title pages"
 msgstr "Número de pàgines de portada"
 
+#. Zm#F
 #: titlepage.src#DLG_TITLEPAGE.FT_PAGE_PAGES.fixedtext.text
 msgid "pages"
 msgstr "pàgines"
 
+#. _t0q
 #: titlepage.src#DLG_TITLEPAGE.FT_PAGE_START.fixedtext.text
 msgid "Place title pages at"
 msgstr "Posiciona les portades a"
 
+#. cxks
 #: titlepage.src#DLG_TITLEPAGE.RB_DOCUMENT_START.radiobutton.text
 msgid "Document Start"
 msgstr "Inici del document"
 
+#. 0Q4x
 #: titlepage.src#DLG_TITLEPAGE.RB_PAGE_START.radiobutton.text
 msgid "Page"
 msgstr "Pàgina"
 
+#. 9pgZ
 #: titlepage.src#DLG_TITLEPAGE.FL_NUMBERING.fixedline.text
 msgid "Page Numbering"
 msgstr "Numeració de pàgina:"
 
+#. _cpF
 #: titlepage.src#DLG_TITLEPAGE.CB_RESTART_NUMBERING.checkbox.text
 msgid "Reset Page Numbering after title pages"
 msgstr "Restableix la numeració de pàgina després de la portada"
 
+#. RQOx
 #: titlepage.src#DLG_TITLEPAGE.FT_RESTART_NUMBERING.fixedtext.text
 msgctxt "titlepage.src#DLG_TITLEPAGE.FT_RESTART_NUMBERING.fixedtext.text"
 msgid "Page Number"
 msgstr "Número de pàgina"
 
+#. A8DC
 #: titlepage.src#DLG_TITLEPAGE.CB_SET_PAGE_NUMBER.checkbox.text
 msgid "Set Page Number for first title page"
 msgstr "Estableix el número de pàgina per a la primera portada"
 
+#. O8Ad
 #: titlepage.src#DLG_TITLEPAGE.FT_SET_PAGE_NUMBER.fixedtext.text
 msgctxt "titlepage.src#DLG_TITLEPAGE.FT_SET_PAGE_NUMBER.fixedtext.text"
 msgid "Page Number"
 msgstr "Número de pàgina"
 
+#. rWSS
 #: titlepage.src#DLG_TITLEPAGE.FL_PAGE_PROPERTIES.fixedline.text
 msgid "Edit Page Properties"
 msgstr "Edita les propietats de la pàgina"
 
+#. ugAH
 #: titlepage.src#DLG_TITLEPAGE.PB_PAGE_PROPERTIES.pushbutton.text
 msgid "Edit..."
 msgstr "Edita..."
 
+#. zi2_
 #: titlepage.src#DLG_TITLEPAGE.modaldialog.text
 msgid "Title Pages"
 msgstr "Portades"
 
+#. 7QN6
 #: glossary.src#DLG_GLOSSARY.CB_INSERT_TIP.checkbox.text
 msgid "~Display remainder of name as suggestion while typing"
 msgstr "~Mostra la resta del nom com a suggeriment durant l'entrada"
 
+#. CH__
 #: glossary.src#DLG_GLOSSARY.FT_NAME.fixedtext.text
 msgid "~Name"
 msgstr "~Nom"
 
+#. 7w_y
 #: glossary.src#DLG_GLOSSARY.FT_SHORTNAME.fixedtext.text
 msgctxt "glossary.src#DLG_GLOSSARY.FT_SHORTNAME.fixedtext.text"
 msgid "~Shortcut"
 msgstr "D~recera"
 
+#. xWfz
 #: glossary.src#DLG_GLOSSARY.LB_BIB.ST_READONLY.string.text
 msgid "read-only"
 msgstr "només de lectura"
 
+#. 6sbQ
 #: glossary.src#DLG_GLOSSARY.FL_RELATIVE.fixedline.text
 msgid "Save links relative to"
 msgstr "Alça els enllaços relativament"
 
+#. 7dzq
 #: glossary.src#DLG_GLOSSARY.CB_FILE_REL.checkbox.text
 msgid "~File system"
 msgstr "Sistema de ~fitxers"
 
+#. buc3
 #: glossary.src#DLG_GLOSSARY.CB_NET_REL.checkbox.text
 msgid "Inte~rnet"
 msgstr "Inte~rnet"
 
+#. UB0W
 #: glossary.src#DLG_GLOSSARY.CB_SHOW_EXAMPLE.checkbox.text
 msgid "Sho~w preview"
 msgstr "Mostra pre~visualització"
 
+#. xH7p
 #: glossary.src#DLG_GLOSSARY.PB_INSERT.okbutton.text
 msgid "~Insert"
 msgstr "~Insereix"
 
+#. VuTc
 #: glossary.src#DLG_GLOSSARY.PB_CLOSE.cancelbutton.text
 msgid "~Close"
 msgstr "~Tanca"
 
+#. oWAW
 #: glossary.src#DLG_GLOSSARY.PB_EDIT.menubutton.text
 msgid "AutoTe~xt"
 msgstr "Te~xt automàtic"
 
+#. w0qi
 #: glossary.src#DLG_GLOSSARY.PB_BIB.pushbutton.text
 msgid "C~ategories..."
 msgstr "C~ategories..."
 
+#. Z_SH
 #: glossary.src#DLG_GLOSSARY.PB_PATH.pushbutton.text
 msgid "~Path..."
 msgstr "~Camí..."
 
+#. mYl_
 #: glossary.src#DLG_GLOSSARY.ST_READONLY_PATH.string.text
-msgid "The 'AutoText' directories are read-only. Do you want to call the path settings dialog?"
-msgstr "Els directoris de 'Text automàtic' són només de lectura. Voleu obrir el diàleg de configuració de camins?"
+msgid ""
+"The 'AutoText' directories are read-only. Do you want to call the path "
+"settings dialog?"
+msgstr ""
+"Els directoris de 'Text automàtic' són només de lectura. Voleu obrir el "
+"diàleg de configuració de camins?"
 
+#. aIDy
 #: glossary.src#DLG_GLOSSARY.MNU_EDIT.FN_GL_DEFINE.menuitem.text
 msgctxt "glossary.src#DLG_GLOSSARY.MNU_EDIT.FN_GL_DEFINE.menuitem.text"
 msgid "~New"
 msgstr "~Nou"
 
+#. yiL1
 #: glossary.src#DLG_GLOSSARY.MNU_EDIT.FN_GL_DEFINE_TEXT.menuitem.text
 msgid "New (text only)"
 msgstr "Nou (només ~text)"
 
+#. 7UWv
 #: glossary.src#DLG_GLOSSARY.MNU_EDIT.FN_GL_COPY_TO_CLIPBOARD.menuitem.text
 msgid "~Copy"
 msgstr "~Copia"
 
+#. iPfW
 #: glossary.src#DLG_GLOSSARY.MNU_EDIT.FN_GL_REPLACE.menuitem.text
 msgid "Replace"
 msgstr "Reemplaça"
 
+#. eIyv
 #: glossary.src#DLG_GLOSSARY.MNU_EDIT.FN_GL_REPLACE_TEXT.menuitem.text
 msgid "Rep~lace (text only)"
 msgstr "Reemp~laça (només text)"
 
+#. Pd2_
 #: glossary.src#DLG_GLOSSARY.MNU_EDIT.FN_GL_RENAME.menuitem.text
 msgid "Rename..."
 msgstr "Reanomena..."
 
+#. dsVS
 #: glossary.src#DLG_GLOSSARY.MNU_EDIT.FN_GL_DELETE.menuitem.text
 msgctxt "glossary.src#DLG_GLOSSARY.MNU_EDIT.FN_GL_DELETE.menuitem.text"
 msgid "~Delete"
 msgstr "~Suprimeix"
 
+#. NvP4
 #: glossary.src#DLG_GLOSSARY.MNU_EDIT.FN_GL_EDIT.menuitem.text
 msgid "~Edit"
 msgstr "~Edita"
 
+#. UJnX
 #: glossary.src#DLG_GLOSSARY.MNU_EDIT.FN_GL_MACRO.menuitem.text
 msgid "~Macro..."
 msgstr "~Macro..."
 
+#. 6#Pt
 #: glossary.src#DLG_GLOSSARY.MNU_EDIT.FN_GL_IMPORT.menuitem.text
 msgid "~Import..."
 msgstr "~Importa..."
 
+#. cDAI
 #: glossary.src#DLG_GLOSSARY.modaldialog.text
 msgid "AutoText"
 msgstr "Text automàtic"
 
+#. chdF
 #: glossary.src#MSG_DOUBLE_SHORTNAME.infobox.text
 msgid "Shortcut name already exists. Please choose another name."
 msgstr "La drecera del nom ja existeix. Trieu un altre nom."
 
+#. #nyL
 #: glossary.src#MSG_QUERY_DELETE.querybox.text
 msgid "Delete AutoText?"
 msgstr "Voleu suprimir el text automàtic?"
 
+#. 2Fbj
 #: glossary.src#STR_QUERY_DELETE_GROUP1.string.text
 msgid "Delete the category "
 msgstr "Suprimeix la categoria "
 
+#. xwt6
 #: glossary.src#STR_QUERY_DELETE_GROUP2.string.text
 msgid "?"
 msgstr "?"
 
+#. fFza
 #: glossary.src#STR_GLOSSARY.string.text
 msgid "AutoText :"
 msgstr "Text automàtic :"
 
+#. 3Sbs
 #: glossary.src#STR_ACCESS_SW_CATEGORY.string.text
 msgctxt "glossary.src#STR_ACCESS_SW_CATEGORY.string.text"
 msgid "Category"
 msgstr "Categoria"
 
+#. PtgV
 #: glossary.src#DLG_RENAME_GLOS.FT_ON.fixedtext.text
 msgid "Na~me"
 msgstr "No~m"
 
+#. 9eVu
 #: glossary.src#DLG_RENAME_GLOS.FT_OS.fixedtext.text
 msgid "Short~cut"
 msgstr "Dre~cera"
 
+#. KoXk
 #: glossary.src#DLG_RENAME_GLOS.FT_NN.fixedtext.text
 msgctxt "glossary.src#DLG_RENAME_GLOS.FT_NN.fixedtext.text"
 msgid "~New"
 msgstr "~Nou"
 
+#. 4jK9
 #: glossary.src#DLG_RENAME_GLOS.FT_NS.fixedtext.text
 msgctxt "glossary.src#DLG_RENAME_GLOS.FT_NS.fixedtext.text"
 msgid "~Shortcut"
 msgstr "D~recera"
 
+#. unka
 #: glossary.src#DLG_RENAME_GLOS.modaldialog.text
 msgid "Rename AutoText"
 msgstr "Reanomena el text automàtic"
 
+#. qJ_4
 #: glossary.src#STR_SAVE_GLOSSARY.string.text
 msgid "Save AutoText"
 msgstr "Alça el text automàtic"
 
+#. VCo_
 #: glossary.src#MSG_NO_GLOSSARIES.infobox.text
 msgid "There is no AutoText in this file."
 msgstr "Este fitxer no conté text automàtic."
 
+#. Tpk8
 #: glossary.src#STR_MY_AUTOTEXT.string.text
 msgid "My AutoText"
 msgstr "El meu text automàtic"
 
+#. Jb2s
 #: insrule.src#DLG_INSERT_RULER.FL_SEL.fixedline.text
 msgid "Selection"
 msgstr "Selecció"
 
+#. DgJo
 #: insrule.src#DLG_INSERT_RULER.ST_SIMPLE.string.text
 msgid "Plain"
 msgstr "Senzilla"
 
+#. tR4n
 #: insrule.src#DLG_INSERT_RULER.modaldialog.text
 msgid "Insert Horizontal Rule"
 msgstr "Insereix una línia horitzontal"
 
+#. 3QBd
 #: num.src#TP_NUM_POSITION.FL_LEVEL.fixedline.text
 msgctxt "num.src#TP_NUM_POSITION.FL_LEVEL.fixedline.text"
 msgid "Level"
 msgstr "Nivell"
 
+#. REZi
 #: num.src#TP_NUM_POSITION.FL_POSITION.fixedline.text
 msgid "Position and spacing"
 msgstr "Posició i espai"
 
+#. kggx
 #: num.src#TP_NUM_POSITION.FT_BORDERDIST.fixedtext.text
 msgid "Indent"
 msgstr "Sagnat"
 
+#. NomS
 #: num.src#TP_NUM_POSITION.CB_RELATIVE.checkbox.text
 msgid "Relati~ve"
 msgstr "Relati~u"
 
+#. jnYE
 #: num.src#TP_NUM_POSITION.FT_INDENT.fixedtext.text
 msgid "Width of numbering"
 msgstr "Amplada de la numeració"
 
+#. cmHk
 #: num.src#TP_NUM_POSITION.FT_NUMDIST.fixedtext.text
 msgid "Minimum space numbering <-> text"
 msgstr "Distància mínima entre la numeració i el text"
 
+#. swMN
 #: num.src#TP_NUM_POSITION.FT_ALIGN.fixedtext.text
 msgid "N~umbering alignment"
 msgstr "Alineació de la n~umeració"
 
+#. CvrU
 #: num.src#TP_NUM_POSITION.LB_ALIGN.1.stringlist.text
 msgctxt "num.src#TP_NUM_POSITION.LB_ALIGN.1.stringlist.text"
 msgid "Left"
 msgstr "Esquerra"
 
+#. W5Ci
 #: num.src#TP_NUM_POSITION.LB_ALIGN.2.stringlist.text
 msgctxt "num.src#TP_NUM_POSITION.LB_ALIGN.2.stringlist.text"
 msgid "Centered"
 msgstr "Centrat"
 
+#. j07T
 #: num.src#TP_NUM_POSITION.LB_ALIGN.3.stringlist.text
 msgctxt "num.src#TP_NUM_POSITION.LB_ALIGN.3.stringlist.text"
 msgid "Right"
 msgstr "Dreta"
 
+#. BdcM
 #: num.src#TP_NUM_POSITION.FT_LABEL_FOLLOWED_BY.fixedtext.text
 msgid "Numbering followed by"
 msgstr "Numeració seguida de"
 
+#. 1vjq
 #: num.src#TP_NUM_POSITION.LB_LABEL_FOLLOWED_BY.1.stringlist.text
 msgid "Tab stop"
 msgstr "Tabulació"
 
+#. j5K6
 #: num.src#TP_NUM_POSITION.LB_LABEL_FOLLOWED_BY.2.stringlist.text
 msgid "Space"
 msgstr "Espai"
 
+#. W0Vt
 #: num.src#TP_NUM_POSITION.LB_LABEL_FOLLOWED_BY.3.stringlist.text
 msgid "Nothing"
 msgstr "Res"
 
+#. e07e
 #: num.src#TP_NUM_POSITION.FT_LISTTAB.fixedtext.text
 msgid "at"
 msgstr "a"
 
+#. 0YTZ
 #: num.src#TP_NUM_POSITION.FT_ALIGNED_AT.fixedtext.text
 msgid "Aligned at"
 msgstr "Alineat a"
 
+#. WN1Z
 #: num.src#TP_NUM_POSITION.FT_INDENT_AT.fixedtext.text
 msgid "Indent at"
 msgstr "Sagnat a"
 
+#. 2P4d
 #: num.src#TP_NUM_POSITION.PB_STANDARD.pushbutton.text
 msgid "Default"
 msgstr "Per defecte"
 
+#. _Uun
 #: num.src#DLG_SVXTEST_NUM_BULLET.1.RID_SVXPAGE_PICK_BULLET.pageitem.text
 msgid "Bullets"
 msgstr "Pics"
 
+#. ipM#
 #: num.src#DLG_SVXTEST_NUM_BULLET.1.RID_SVXPAGE_PICK_SINGLE_NUM.pageitem.text
 msgid "Numbering type"
 msgstr "Tipus de numeració"
 
+#. I9rr
 #: num.src#DLG_SVXTEST_NUM_BULLET.1.RID_SVXPAGE_PICK_NUM.pageitem.text
 msgid "Outline"
 msgstr "Esquema"
 
+#. r1nw
 #: num.src#DLG_SVXTEST_NUM_BULLET.1.RID_SVXPAGE_PICK_BMP.pageitem.text
 msgctxt "num.src#DLG_SVXTEST_NUM_BULLET.1.RID_SVXPAGE_PICK_BMP.pageitem.text"
 msgid "Graphics"
 msgstr "Gràfics"
 
+#. zYof
 #: num.src#DLG_SVXTEST_NUM_BULLET.1.RID_SVXPAGE_NUM_POSITION.pageitem.text
-msgctxt "num.src#DLG_SVXTEST_NUM_BULLET.1.RID_SVXPAGE_NUM_POSITION.pageitem.text"
+msgctxt ""
+"num.src#DLG_SVXTEST_NUM_BULLET.1.RID_SVXPAGE_NUM_POSITION.pageitem.text"
 msgid "Position"
 msgstr "Posició"
 
+#. dMlI
 #: num.src#DLG_SVXTEST_NUM_BULLET.1.RID_SVXPAGE_NUM_OPTIONS.pageitem.text
 msgid "Options"
 msgstr "Opcions"
 
+#. 4l4s
 #: num.src#DLG_SVXTEST_NUM_BULLET.ST_RESET.string.text
 msgid "~Remove"
 msgstr "~Suprimeix"
 
+#. Our7
 #: num.src#DLG_SVXTEST_NUM_BULLET.tabdialog.text
 msgid "Bullets and Numbering"
 msgstr "Pics i numeració"
 
+#. RaX0
 #: pgfnote.src#TP_FOOTNOTE_PAGE.RB_MAXHEIGHT_PAGE.radiobutton.text
 msgid "~Not larger than page area"
 msgstr "Alçada mà~xima de pàgina"
 
+#. Eth1
 #: pgfnote.src#TP_FOOTNOTE_PAGE.RB_MAXHEIGHT.radiobutton.text
 msgid "Maximum footnote ~height"
 msgstr "Alçada màx. de ~nota al peu"
 
+#. lj3S
 #: pgfnote.src#TP_FOOTNOTE_PAGE.FT_DIST.fixedtext.text
 msgid "Space to text"
 msgstr "Espai per al text"
 
+#. wXl1
 #: pgfnote.src#TP_FOOTNOTE_PAGE.FL_FOOTNOTE_SIZE.fixedline.text
 msgid "Footnote area"
 msgstr "Àrea de la nota al peu"
 
+#. t9aq
 #: pgfnote.src#TP_FOOTNOTE_PAGE.FT_LINEPOS.fixedtext.text
 msgid "~Position"
 msgstr "~Posició"
 
+#. riXd
 #: pgfnote.src#TP_FOOTNOTE_PAGE.DLB_LINEPOS.1.stringlist.text
 msgctxt "pgfnote.src#TP_FOOTNOTE_PAGE.DLB_LINEPOS.1.stringlist.text"
 msgid "Left"
 msgstr "Esquerra"
 
+#. PGOL
 #: pgfnote.src#TP_FOOTNOTE_PAGE.DLB_LINEPOS.2.stringlist.text
 msgctxt "pgfnote.src#TP_FOOTNOTE_PAGE.DLB_LINEPOS.2.stringlist.text"
 msgid "Centered"
 msgstr "Centrat"
 
+#. KLJa
 #: pgfnote.src#TP_FOOTNOTE_PAGE.DLB_LINEPOS.3.stringlist.text
 msgctxt "pgfnote.src#TP_FOOTNOTE_PAGE.DLB_LINEPOS.3.stringlist.text"
 msgid "Right"
 msgstr "Dreta"
 
+#. U4TX
 #: pgfnote.src#TP_FOOTNOTE_PAGE.FT_LINETYPE.fixedtext.text
 msgid "~Style"
 msgstr "E~stil"
 
+#. pViU
 #: pgfnote.src#TP_FOOTNOTE_PAGE.FT_LINEWIDTH.fixedtext.text
 msgid "~Thickness"
 msgstr "~Espessor"
 
+#. VaoA
 #: pgfnote.src#TP_FOOTNOTE_PAGE.FT_LINECOLOR.fixedtext.text
 msgid "~Color"
 msgstr "~Color"
 
+#. ktdD
 #: pgfnote.src#TP_FOOTNOTE_PAGE.FT_LINELENGTH.fixedtext.text
 msgid "~Length"
 msgstr "~Longitud"
 
+#. ajt5
 #: pgfnote.src#TP_FOOTNOTE_PAGE.FT_LINEDIST.fixedtext.text
 msgid "~Spacing to footnote contents"
 msgstr "~Espaiat continguts de la nota al peu"
 
+#. dgjB
 #: pgfnote.src#TP_FOOTNOTE_PAGE.FL_LINE.fixedline.text
 msgid "Separator line"
 msgstr "Línia de separació"
 
+#. uqvY
 #: redlndlg.src#DLG_REDLINE_ACCEPT.modelessdialog.text
 msgid "Accept or Reject Changes"
 msgstr "Accepteu o rebutgeu els canvis"
 
+#. Z0ta
 #: redlndlg.src#DLG_MOD_REDLINE_ACCEPT.modaldialog.text
 msgid "Accept or Reject AutoCorrect Changes"
 msgstr "Accepteu o rebutgeu els canvis de la correcció automàtica"
 
+#. jpmv
 #: redlndlg.src#MN_REDLINE_POPUP.MN_EDIT_COMMENT.menuitem.text
 msgid "Edit Comment..."
 msgstr "Edita el comentari..."
 
+#. 0jzC
 #: redlndlg.src#MN_REDLINE_POPUP.MN_SUB_SORT.MN_SORT_ACTION.menuitem.text
 msgid "Action"
 msgstr "Acció"
 
+#. YN5j
 #: redlndlg.src#MN_REDLINE_POPUP.MN_SUB_SORT.MN_SORT_AUTHOR.menuitem.text
 msgid "Author"
 msgstr "Autor"
 
+#. RKnT
 #: redlndlg.src#MN_REDLINE_POPUP.MN_SUB_SORT.MN_SORT_DATE.menuitem.text
 msgid "Date"
 msgstr "Data"
 
+#. bJSU
 #: redlndlg.src#MN_REDLINE_POPUP.MN_SUB_SORT.MN_SORT_COMMENT.menuitem.text
 msgid "Comment"
 msgstr "Comentari"
 
+#. 5JXB
 #: redlndlg.src#MN_REDLINE_POPUP.MN_SUB_SORT.MN_SORT_POSITION.menuitem.text
 msgid "Document position"
 msgstr "Posició del document"
 
+#. Naqc
 #: redlndlg.src#MN_REDLINE_POPUP.MN_SUB_SORT.menuitem.text
 msgid "Sort By"
 msgstr "Ordena per"
 
+#. Di7F
 #: numberingtypelistbox.src#STRRES_NUMTYPES.1.1.itemlist.text
 msgid "1, 2, 3, ..."
 msgstr "1, 2, 3..."
 
+#. i2ht
 #: numberingtypelistbox.src#STRRES_NUMTYPES.1.2.itemlist.text
 msgid "A, B, C, ..."
 msgstr "A, B, C..."
 
+#. Qsi0
 #: numberingtypelistbox.src#STRRES_NUMTYPES.1.3.itemlist.text
 msgid "a, b, c, ..."
 msgstr "a, b, c..."
 
+#. LiMd
 #: numberingtypelistbox.src#STRRES_NUMTYPES.1.4.itemlist.text
 msgid "I, II, III, ..."
 msgstr "I, II, III..."
 
+#. ZOHG
 #: numberingtypelistbox.src#STRRES_NUMTYPES.1.5.itemlist.text
 msgid "i, ii, iii, ..."
 msgstr "i, ii, iii..."
 
+#. 2sze
 #: numberingtypelistbox.src#STRRES_NUMTYPES.1.6.itemlist.text
 msgid "A, .., AA, .., AAA, ..."
 msgstr "A, .., AA, .., AAA..."
 
+#. q2wV
 #: numberingtypelistbox.src#STRRES_NUMTYPES.1.7.itemlist.text
 msgid "a, .., aa, .., aaa, ..."
 msgstr "a, .., aa, .., aaa..."
 
+#. dnj6
 #: numberingtypelistbox.src#STRRES_NUMTYPES.1.8.itemlist.text
 msgid "Bullet"
 msgstr "Pic"
 
+#. H5gn
 #: numberingtypelistbox.src#STRRES_NUMTYPES.1.9.itemlist.text
 msgctxt "numberingtypelistbox.src#STRRES_NUMTYPES.1.9.itemlist.text"
 msgid "Graphics"
 msgstr "Gràfics"
 
+#. 9QNU
 #: numberingtypelistbox.src#STRRES_NUMTYPES.1.10.itemlist.text
 msgid "None"
 msgstr "Cap"
 
+#. _kGf
 #: numberingtypelistbox.src#STRRES_NUMTYPES.1.11.itemlist.text
 msgid "Native Numbering"
 msgstr "Numeració nativa"
 
+#. U0yH
 #: numberingtypelistbox.src#STRRES_NUMTYPES.1.12.itemlist.text
 msgid "А, Б, .., Аа, Аб, ... (Bulgarian)"
 msgstr "А, Б, .., Аа, Аб... (búlgar)"
 
+#. eqxc
 #: numberingtypelistbox.src#STRRES_NUMTYPES.1.13.itemlist.text
 msgid "а, б, .., аа, аб, ... (Bulgarian)"
 msgstr "а, б, .., аа, аб... (búlgar)"
 
+#. dk11
 #: numberingtypelistbox.src#STRRES_NUMTYPES.1.14.itemlist.text
 msgid "А, Б, .., Аа, Бб, ... (Bulgarian)"
 msgstr "А, Б, .., Аа, Бб... (búlgar)"
 
+#. HQ6s
 #: numberingtypelistbox.src#STRRES_NUMTYPES.1.15.itemlist.text
 msgid "а, б, .., аа, бб, ... (Bulgarian)"
 msgstr "а, б, .., аа, бб... (búlgar)"
 
+#. mqgE
 #: numberingtypelistbox.src#STRRES_NUMTYPES.1.16.itemlist.text
 msgid "А, Б, .., Аа, Аб, ... (Russian)"
 msgstr "А, Б, .., Аа, Аб... (rus)"
 
+#. 60jv
 #: numberingtypelistbox.src#STRRES_NUMTYPES.1.17.itemlist.text
 msgid "а, б, .., аа, аб, ... (Russian)"
 msgstr "а, б, .., аа, аб... (rus)"
 
+#. LpwW
 #: numberingtypelistbox.src#STRRES_NUMTYPES.1.18.itemlist.text
 msgid "А, Б, .., Аа, Бб, ... (Russian)"
 msgstr "А, Б, .., Аа, Бб... (rus)"
 
+#. Z7zN
 #: numberingtypelistbox.src#STRRES_NUMTYPES.1.19.itemlist.text
 msgid "а, б, .., аа, бб, ... (Russian)"
 msgstr "а, б, .., аа, бб... (rus)"
 
+#. RSZ7
 #: numberingtypelistbox.src#STRRES_NUMTYPES.1.20.itemlist.text
 msgid "А, Б, .., Аа, Аб, ... (Serbian)"
 msgstr "А, Б, .., Аа, Аб... (serbi)"
 
+#. jeam
 #: numberingtypelistbox.src#STRRES_NUMTYPES.1.21.itemlist.text
 msgid "а, б, .., аа, аб, ... (Serbian)"
 msgstr "а, б, .., аа, аб... (serbi)"
 
+#. C688
 #: numberingtypelistbox.src#STRRES_NUMTYPES.1.22.itemlist.text
 msgid "А, Б, .., Аа, Бб, ... (Serbian)"
 msgstr "А, Б, .., Аа, Бб... (serbi)"
 
+#. woF_
 #: numberingtypelistbox.src#STRRES_NUMTYPES.1.23.itemlist.text
 msgid "а, б, .., аа, бб, ... (Serbian)"
 msgstr "а, б, .., аа, бб... (serbi)"
 
+#. rerO
 #: numberingtypelistbox.src#STRRES_NUMTYPES.1.24.itemlist.text
 msgid "Α, Β, Γ, ... (Greek Upper Letter)"
 msgstr "Α, Β, Γ, ... (Grec en majúscules)"
 
+#. 3Sol
 #: numberingtypelistbox.src#STRRES_NUMTYPES.1.25.itemlist.text
 msgid "α, β, γ, ... (Greek Lower Letter)"
 msgstr "α, β, γ, ... (Grec en minúscules)"
