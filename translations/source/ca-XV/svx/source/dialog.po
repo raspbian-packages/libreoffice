@@ -1,0 +1,446 @@
+#. extracted from svx/source/dialog.oo
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://qa.openoffice.org/issues/enter_bug.cgi?comment=&component=l10n&form_name=enter_issue&short_desc=Localization+issue+in+file%3A+svx%2Fsource%2Fdialog.oo&subcomponent=ui\n"
+"POT-Creation-Date: 2012-02-21 19:42+0200\n"
+"PO-Revision-Date: 2012-03-10 10:23+0200\n"
+"Last-Translator: PauGNU <pau@somgnu.cat>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ca_XV\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+"X-Accelerator-Marker: ~\n"
+
+#: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_SAVE.FT_SAVE_TITLE.fixedtext.text
+msgctxt "docrecovery.src#RID_SVXPAGE_DOCRECOVERY_SAVE.FT_SAVE_TITLE.fixedtext.text"
+msgid "%PRODUCTNAME Document Recovery"
+msgstr "Recuperació de documents del %PRODUCTNAME"
+
+#: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_SAVE.FT_SAVE_DESCR.fixedtext.text
+msgid "Due to an unexpected error, %PRODUCTNAME crashed. All the files you were working on will now be saved. The next time %PRODUCTNAME is launched, your files will be recovered automatically."
+msgstr "A causa d'un error inesperat, el %PRODUCTNAME ha fallat. Tots els fitxers amb què estàveu treballant s'alçaran ara. La propera vegada que inicieu el %PRODUCTNAME, els fitxers es recuperaran automàticament."
+
+#: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_SAVE.FT_SAVE_FILELIST.fixedtext.text
+msgid "The following files will be recovered:"
+msgstr "Es recuperaran els següents fitxers:"
+
+#: docrecovery.src#RID_SVX_MDLG_DOCRECOVERY_PROGR.FT_SAVEPROGR_HINT.fixedtext.text
+msgid "Documents are being saved."
+msgstr "S'estan alçant els documents."
+
+#: docrecovery.src#RID_SVX_MDLG_DOCRECOVERY_PROGR.FT_SAVEPROGR_PROGR.fixedtext.text
+msgid "Progress of saving: "
+msgstr "Progrés en alçar: "
+
+#: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.FT_RECOV_TITLE.fixedtext.text
+msgctxt "docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.FT_RECOV_TITLE.fixedtext.text"
+msgid "%PRODUCTNAME Document Recovery"
+msgstr "Recuperació de documents del %PRODUCTNAME"
+
+#: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.FT_RECOV_DESCR.fixedtext.text
+msgid ""
+"Press 'Start Recovery' to start the recovery process of the documents listed below.\n"
+"\n"
+"The 'Status' column shows whether the document could be recovered."
+msgstr ""
+"Premeu 'Comença la recuperació' per començar el procés de recuperació dels documents llistats a sota.\n"
+"\n"
+"La columna 'Estat' indica si el document es pot recuperar o no."
+
+#: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.FT_RECOV_PROGR.fixedtext.text
+msgid "Recovering document:"
+msgstr "S'està recuperant el document:"
+
+#: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.FT_RECOV_FILELIST.fixedtext.text
+msgid "Status of recovered documents:"
+msgstr "Estat dels documents recuperats:"
+
+#: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_HEADERBAR.string.text
+msgid "Document Name\tStatus"
+msgstr "Nom del document\tEstat"
+
+#: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.BTN_RECOV_NEXT.pushbutton.text
+msgid "~Start Recovery >"
+msgstr "~Comença la recuperació >"
+
+#: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVERY_NEXT.string.text
+msgctxt "docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVERY_NEXT.string.text"
+msgid "~Next >"
+msgstr "~Següent >"
+
+#: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_SUCCESSRECOV.string.text
+msgid "Successfully recovered"
+msgstr "S'ha recuperat correctament"
+
+#: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_ORIGDOCRECOV.string.text
+msgid "Original document recovered"
+msgstr "S'ha recuperat el document original"
+
+#: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVFAILED.string.text
+msgid "Recovery failed"
+msgstr "Ha fallat la recuperació"
+
+#: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVINPROGR.string.text
+msgid "Recovery in progress"
+msgstr "S'està recuperant"
+
+#: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_NOTRECOVYET.string.text
+msgid "Not recovered yet"
+msgstr "Encara no s'ha recuperat"
+
+#: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVERY_INPROGRESS.string.text
+msgid "%PRODUCTNAME %PRODUCTVERSION will start to recover your documents. Depending on the size of the documents this process can take some time."
+msgstr "El %PRODUCTNAME %PRODUCTVERSION començarà a recuperar els documents. Segons la mida dels documents, este procés pot trigar una estona."
+
+#: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVERY_REPORT.string.text
+msgid "A report of the crash was created to help us identify the reason why %PRODUCTNAME crashed. Click 'Next' to get to the Error Report Tool or press 'Cancel' to skip this step."
+msgstr "S'ha creat un informe d'error per ajudar-nos a identificar el motiu pel qual el %PRODUCTNAME ha fallat. Feu clic a 'Següent' per obrir l'eina d'informe d'errors o premeu 'Cancel·la' per saltar-vos este pas."
+
+#: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVERYONLY_FINISH_DESCR.string.text
+msgid ""
+"Recovery of your documents was finished.\n"
+"Click 'Finish' to see your documents."
+msgstr ""
+"La recuperació dels documents ha finalitzat.\n"
+"Feu clic a 'Finalitza' per veure els documents."
+
+#: docrecovery.src#RID_SVXPAGE_DOCRECOVERY_RECOVER.STR_RECOVERYONLY_FINISH.string.text
+msgid "~Finish"
+msgstr "~Finalitza"
+
+#: docrecovery.src#RID_SVXQB_EXIT_RECOVERY.querybox.text
+msgid "Are you sure you want to cancel the %PRODUCTNAME document recovery?"
+msgstr "Esteu segur que voleu cancel·lar la recuperació de documents del %PRODUCTNAME?"
+
+#: docrecovery.src#RID_SVX_MDLG_DOCRECOVERY_BROKEN.FT_BROKEN_DESCR.fixedtext.text
+msgid ""
+"The automatic recovery process was interrupted.\n"
+"\n"
+"The documents listed below will be saved in the folder noted below if you click 'Save'. Click 'Cancel' to close the wizard without saving the documents."
+msgstr ""
+"El procés automàtic de recuperació s'ha interromput.\n"
+"\n"
+"Els documents llistats a sota s'alçaran en la carpeta indicada si feu clic a 'Alça'. Feu clic a 'Cancel·la' per tancar l'auxiliar sense alçar els documents."
+
+#: docrecovery.src#RID_SVX_MDLG_DOCRECOVERY_BROKEN.FT_BROKEN_FILELIST.fixedtext.text
+msgid "Documents"
+msgstr "Documents"
+
+#: docrecovery.src#RID_SVX_MDLG_DOCRECOVERY_BROKEN.FT_BROKEN_SAVEDIR.fixedtext.text
+msgid "~Save to"
+msgstr "~Alça a"
+
+#: docrecovery.src#RID_SVX_MDLG_DOCRECOVERY_BROKEN.BTN_BROKEN_SAVEDIR.pushbutton.text
+msgid "Chan~ge..."
+msgstr "Can~via..."
+
+#: docrecovery.src#RID_SVX_MDLG_DOCRECOVERY_BROKEN.BTN_BROKEN_OK.okbutton.text
+msgid "~Save"
+msgstr "~Alça"
+
+#: docrecovery.src#RID_SVXPAGE_ERR_REP_WELCOME.FT_RECOV_TITLE.fixedtext.text
+msgid "Welcome to the %PRODUCTNAME %PRODUCTVERSION Error Report"
+msgstr "Vos donem la benvinguda a l'informe d'errors del %PRODUCTNAME %PRODUCTVERSION"
+
+#: docrecovery.src#RID_SVXPAGE_ERR_REP_WELCOME.FT_RECOV_DESCR.fixedtext.text
+msgid ""
+"This error report tool gathers information about how %PRODUCTNAME is working and sends it to Oracle to help improve future versions.\n"
+"\n"
+"It's easy - just send the report without any further effort on your part by clicking 'Send' in the next dialog, or you can briefly describe how the error occurred and then click 'Send'. If you want to see the report, click the 'Show Report' button. No data will be sent if you click 'Do Not Send'.\n"
+"\n"
+"Customer Privacy\n"
+"The information gathered is limited to data concerning the state of %PRODUCTNAME %PRODUCTVERSION when the error occurred. Other information about passwords or document contents is not collected.\n"
+"\n"
+"The information will only be used to improve the quality of %PRODUCTNAME and will not be shared with third parties.\n"
+"For more information on Oracle's privacy policy, visit\n"
+"www.oracle.com/html/services-privacy-policy.html"
+msgstr ""
+"Esta eina d'informe d'errors obté informació sobre com funciona el %PRODUCTNAME i l'envia a Oracle per ajudar a millorar les versions futures.\n"
+"\n"
+"És fàcil: simplement envieu l'informe fent clic a 'Envia' al quadre de diàleg següent, o bé també podeu explicar què fèieu quan s'ha produït l'error, llavors fer clic a 'Envia'. Si voleu veure l'informe, feu clic a 'Mostra l'informe'. Si feu clic a 'No l'envies', no s'enviarà res.\n"
+"\n"
+"Política de privadesa\n"
+"La informació obtinguda es limita a les dades que es refereixen a l'estat del %PRODUCTNAME %PRODUCTVERSION en el moment en el qual s'ha produït l'error. No s'obté cap mena d'informació sobre continguts dels documents o contrasenyes.\n"
+"\n"
+"Esta informació només s'utilitzarà per millorar la qualitat del %PRODUCTNAME i no es compartirà amb tercers.\n"
+"Si voleu més informació quant a la política de privadesa d'Oracle, visiteu\n"
+"www.oracle.com/html/services-privacy-policy.html"
+
+#: docrecovery.src#RID_SVXPAGE_ERR_REP_WELCOME.BTN_RECOV_PREV.pushbutton.text
+msgctxt "docrecovery.src#RID_SVXPAGE_ERR_REP_WELCOME.BTN_RECOV_PREV.pushbutton.text"
+msgid "< ~Back"
+msgstr "< ~Arrere"
+
+#: docrecovery.src#RID_SVXPAGE_ERR_REP_WELCOME.BTN_RECOV_NEXT.okbutton.text
+msgctxt "docrecovery.src#RID_SVXPAGE_ERR_REP_WELCOME.BTN_RECOV_NEXT.okbutton.text"
+msgid "~Next >"
+msgstr "~Següent >"
+
+#: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.FT_RECOV_TITLE.fixedtext.text
+msgid "Sending the Error Report"
+msgstr "S'està enviant l'informe d'errors"
+
+#: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.FT_RECOV_DESCR.fixedtext.text
+msgid "In the spaces below, you can enter a title for your error report and describe the action you were trying to carry out when the error occurred. Then click 'Send'."
+msgstr "En els espais de sota, podeu introduir un títol per a l'informe d'errors i descriure l'acció que intentàveu realitzar quan s'ha produït l'error. Després feu clic a 'Envia'."
+
+#: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.FT_ERRSEND_DOCTYPE.fixedtext.text
+msgid "~Which type of document (e.g. presentation) were you using when the error occurred?"
+msgstr "~Quin tipus de document (p.e. una presentació) estàveu fent servir quan s'ha produït l'error?"
+
+#: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.FT_ERRSEND_USING.fixedtext.text
+msgid "~How were you using %PRODUCTNAME when the error occurred? (optional)"
+msgstr "~Com estàveu fent servir el %PRODUCTNAME quan s'ha produït l'error? (opcional)"
+
+#: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.BTN_ERRSEND_SHOWREP.pushbutton.text
+msgid "Show ~Report"
+msgstr "Mostra l'~informe"
+
+#: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.BTN_ERRSEND_OPT.pushbutton.text
+msgid "~Options..."
+msgstr "~Opcions..."
+
+#: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.CB_ERRSEND_CONTACT.checkbox.text
+msgid "~I allow Oracle to contact me regarding this report."
+msgstr "~Permeto a Oracle posar-se en contacte amb mi en relació amb este informe."
+
+#: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.FT_ERRSEND_EMAILADDR.fixedtext.text
+msgid "~Please enter your e-mail address"
+msgstr "~Introduïu la vostra adreça electrònica"
+
+#: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.BTN_RECOV_PREV.pushbutton.text
+msgctxt "docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.BTN_RECOV_PREV.pushbutton.text"
+msgid "< ~Back"
+msgstr "< ~Arrere"
+
+#: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.BTN_RECOV_NEXT.okbutton.text
+msgid "S~end"
+msgstr "En~via"
+
+#: docrecovery.src#RID_SVXPAGE_ERR_REP_SEND.BTN_RECOV_CANCEL.cancelbutton.text
+msgid "Do ~Not Send"
+msgstr "~No envies"
+
+#: docrecovery.src#RID_SVX_MDLG_ERR_REP_OPTIONS.FL_ERROPT_PROXY.fixedline.text
+msgid "Proxy settings"
+msgstr "Configuració del servidor intermediari"
+
+#: docrecovery.src#RID_SVX_MDLG_ERR_REP_OPTIONS.BTN_ERROPT_SYSTEM.radiobutton.text
+msgid "Use ~system settings"
+msgstr "Utilitza la configuració del ~sistema"
+
+#: docrecovery.src#RID_SVX_MDLG_ERR_REP_OPTIONS.BTN_ERROPT_DIRECT.radiobutton.text
+msgid "Use ~direct connection to the Internet"
+msgstr "Utilitza la connexió ~directa a Internet"
+
+#: docrecovery.src#RID_SVX_MDLG_ERR_REP_OPTIONS.BTN_ERROPT_MANUAL.radiobutton.text
+msgid "Use ~manual settings"
+msgstr "Utilitza la configuració ~manual"
+
+#: docrecovery.src#RID_SVX_MDLG_ERR_REP_OPTIONS.FT_ERROPT_PROXYSERVER.fixedtext.text
+msgid "HT~TP Proxy"
+msgstr "Servidor intermediari HT~TP"
+
+#: docrecovery.src#RID_SVX_MDLG_ERR_REP_OPTIONS.FT_ERROPT_PROXYPORT.fixedtext.text
+msgid "~Port"
+msgstr "~Port"
+
+#: docrecovery.src#RID_SVX_MDLG_ERR_REP_OPTIONS.FT_ERROPT_DESCRIPTION.fixedtext.text
+msgid ""
+"The %PRODUCTNAME Error Report tool needs to be connected to the Internet to be able to send error reports.\n"
+"Companies often use proxy servers in conjunction with a firewall to protect the network.\n"
+"If this applies to your situation, you have to specify the address and port for the server."
+msgstr ""
+"Per poder enviar els informes d'error, l'eina Informe d'errors del %PRODUCTNAME ha d'estar connectada a Internet.\n"
+"Les empreses sovint utilitzen servidors intermediaris i tallafocs per tal de protegir la xarxa.\n"
+"Si és el cas, especifiqueu l'adreça i el port del servidor."
+
+#: docrecovery.src#RID_SVX_MDLG_ERR_REP_OPTIONS.modaldialog.text
+msgid "Options"
+msgstr "Opcions"
+
+#: docrecovery.src#RID_SVX_MDLG_ERR_REP_PREVIEW.modaldialog.text
+msgid "Error Report"
+msgstr "Informe d'errors"
+
+#: linkwarn.src#RID_SVXDLG_LINK_WARNING.FT_INFOTEXT.fixedtext.text
+msgid "The file %FILENAME will not be stored along with your document, but only referenced as a link. This is dangerous if you move and/or rename the files. Do you want to embed the graphic instead?"
+msgstr "El fitxer %FILENAME no s'emmagatzemarà amb el vostre document, només es farà una referència com a enllaç. Això pot ser perillós si moveu o canvieu de nom els fixers. Voleu, en comptes d'això, incrustar el gràfic?"
+
+#: linkwarn.src#RID_SVXDLG_LINK_WARNING.PB_OK.okbutton.text
+msgid "~Keep Link"
+msgstr "~Manté l'enllaç"
+
+#: linkwarn.src#RID_SVXDLG_LINK_WARNING.PB_NO.cancelbutton.text
+msgid "~Embed Graphic"
+msgstr "~Incrusta el gràfic"
+
+#: linkwarn.src#RID_SVXDLG_LINK_WARNING.CB_WARNING_OFF.checkbox.text
+msgid "~Ask when linking a graphic"
+msgstr "Pregunta quan enll~acis un gràfic"
+
+#: hdft.src#_TEXT_FT_LMARGIN.#define.text
+msgid "~Left margin"
+msgstr "Marge ~esquerre"
+
+#: hdft.src#_TEXT_FT_RMARGIN.#define.text
+msgid "R~ight margin"
+msgstr "Marge ~dret"
+
+#: hdft.src#RID_SVXPAGE_HEADER.CB_TURNON.checkbox.text
+msgid "Hea~der on"
+msgstr "Activa la ~capçalera"
+
+#: hdft.src#RID_SVXPAGE_HEADER.CB_SHARED.checkbox.text
+msgctxt "hdft.src#RID_SVXPAGE_HEADER.CB_SHARED.checkbox.text"
+msgid "Same ~content left/right"
+msgstr "El mateix ~contingut esquerra/dreta"
+
+#: hdft.src#RID_SVXPAGE_HEADER.FT_DIST.fixedtext.text
+msgctxt "hdft.src#RID_SVXPAGE_HEADER.FT_DIST.fixedtext.text"
+msgid "~Spacing"
+msgstr "E~spaiat"
+
+#: hdft.src#RID_SVXPAGE_HEADER.CB_DYNSPACING.checkbox.text
+msgctxt "hdft.src#RID_SVXPAGE_HEADER.CB_DYNSPACING.checkbox.text"
+msgid "Use d~ynamic spacing"
+msgstr "Utilitza l'espaiat d~inàmic"
+
+#: hdft.src#RID_SVXPAGE_HEADER.FT_HEIGHT.fixedtext.text
+msgctxt "hdft.src#RID_SVXPAGE_HEADER.FT_HEIGHT.fixedtext.text"
+msgid "~Height"
+msgstr "A~lçada"
+
+#: hdft.src#RID_SVXPAGE_HEADER.CB_HEIGHT_DYN.checkbox.text
+msgctxt "hdft.src#RID_SVXPAGE_HEADER.CB_HEIGHT_DYN.checkbox.text"
+msgid "~AutoFit height"
+msgstr "~Ajusta automàticament l'alçada"
+
+#: hdft.src#RID_SVXPAGE_HEADER.FL_FRAME.fixedline.text
+msgctxt "hdft.src#RID_SVXPAGE_HEADER.FL_FRAME.fixedline.text"
+msgid "Header"
+msgstr "Capçalera"
+
+#: hdft.src#RID_SVXPAGE_HEADER.BTN_EXTRAS.pushbutton.text
+msgctxt "hdft.src#RID_SVXPAGE_HEADER.BTN_EXTRAS.pushbutton.text"
+msgid "~More..."
+msgstr "~Més..."
+
+#: hdft.src#RID_SVXPAGE_HEADER.tabpage.text
+msgctxt "hdft.src#RID_SVXPAGE_HEADER.tabpage.text"
+msgid "Header"
+msgstr "Capçalera"
+
+#: hdft.src#RID_SVXPAGE_FOOTER.CB_TURNON.checkbox.text
+msgid "~Footer on"
+msgstr "~Activa el peu de pàgina"
+
+#: hdft.src#RID_SVXPAGE_FOOTER.CB_SHARED.checkbox.text
+msgctxt "hdft.src#RID_SVXPAGE_FOOTER.CB_SHARED.checkbox.text"
+msgid "Same ~content left/right"
+msgstr "El mateix ~contingut esquerra/dreta"
+
+#: hdft.src#RID_SVXPAGE_FOOTER.FT_DIST.fixedtext.text
+msgctxt "hdft.src#RID_SVXPAGE_FOOTER.FT_DIST.fixedtext.text"
+msgid "~Spacing"
+msgstr "E~spaiat"
+
+#: hdft.src#RID_SVXPAGE_FOOTER.CB_DYNSPACING.checkbox.text
+msgctxt "hdft.src#RID_SVXPAGE_FOOTER.CB_DYNSPACING.checkbox.text"
+msgid "Use d~ynamic spacing"
+msgstr "Utilitza l'espaiat d~inàmic"
+
+#: hdft.src#RID_SVXPAGE_FOOTER.FT_HEIGHT.fixedtext.text
+msgctxt "hdft.src#RID_SVXPAGE_FOOTER.FT_HEIGHT.fixedtext.text"
+msgid "~Height"
+msgstr "A~lçada"
+
+#: hdft.src#RID_SVXPAGE_FOOTER.CB_HEIGHT_DYN.checkbox.text
+msgctxt "hdft.src#RID_SVXPAGE_FOOTER.CB_HEIGHT_DYN.checkbox.text"
+msgid "~AutoFit height"
+msgstr "~Ajusta automàticament l'alçada"
+
+#: hdft.src#RID_SVXPAGE_FOOTER.FL_FRAME.fixedline.text
+msgctxt "hdft.src#RID_SVXPAGE_FOOTER.FL_FRAME.fixedline.text"
+msgid "Footer"
+msgstr "Peu de pàgina"
+
+#: hdft.src#RID_SVXPAGE_FOOTER.BTN_EXTRAS.pushbutton.text
+msgctxt "hdft.src#RID_SVXPAGE_FOOTER.BTN_EXTRAS.pushbutton.text"
+msgid "~More..."
+msgstr "~Més..."
+
+#: hdft.src#RID_SVXPAGE_FOOTER.tabpage.text
+msgctxt "hdft.src#RID_SVXPAGE_FOOTER.tabpage.text"
+msgid "Footer"
+msgstr "Peu de pàgina"
+
+#: hdft.src#RID_SVXQBX_DELETE_HEADFOOT.querybox.text
+msgid ""
+"Removing headers or footers deletes the contents.\n"
+"Do you want to delete this text?"
+msgstr ""
+"En suprimir les capçaleres o els peus de pàgina se'n perd el contingut.\n"
+"Voleu suprimir este text?"
+
+#: srchdlg.src#RID_SVXSTR_SEARCH_STYLES.string.text
+msgid "Including Styles"
+msgstr "Estils inclosos"
+
+#: srchdlg.src#RID_SVXSTR_SEARCH.string.text
+msgid "(Search)"
+msgstr "(Cerca)"
+
+#: srchdlg.src#RID_SVXSTR_REPLACE.string.text
+msgid "(Replace)"
+msgstr "(Reemplaça)"
+
+#: srchdlg.src#RID_SVXDLG_SEARCH.FT_SEARCH.fixedtext.text
+msgid "~Search for"
+msgstr "~Cerca"
+
+#: srchdlg.src#RID_SVXDLG_SEARCH.FT_REPLACE.fixedtext.text
+msgid "Re~place with"
+msgstr "Reemplaça ~per"
+
+#: srchdlg.src#RID_SVXDLG_SEARCH.BTN_SEARCH.pushbutton.text
+msgid "~Find"
+msgstr "~Cerca"
+
+#: srchdlg.src#RID_SVXDLG_SEARCH.BTN_SEARCH_ALL.pushbutton.text
+msgid "Find ~All"
+msgstr "Cerca-ho ~tot"
+
+#: srchdlg.src#RID_SVXDLG_SEARCH.BTN_REPLACE.pushbutton.text
+msgctxt "srchdlg.src#RID_SVXDLG_SEARCH.BTN_REPLACE.pushbutton.text"
+msgid "~Replace"
+msgstr "~Reemplaça"
+
+#: srchdlg.src#RID_SVXDLG_SEARCH.BTN_REPLACE_ALL.pushbutton.text
+msgid "Replace A~ll"
+msgstr "Reemplaça-ho t~ot"
+
+#: srchdlg.src#RID_SVXDLG_SEARCH.CB_MATCH_CASE.checkbox.text
+msgid "Ma~tch case"
+msgstr "Distingeix ~majúscules/minúscules"
+
+#: srchdlg.src#RID_SVXDLG_SEARCH.CB_WHOLE_WORDS.checkbox.text
+msgid "Whole wor~ds only"
+msgstr "Només pa~raules completes"
+
+#: srchdlg.src#RID_SVXDLG_SEARCH.BTN_CLOSE.cancelbutton.text
+msgctxt "srchdlg.src#RID_SVXDLG_SEARCH.BTN_CLOSE.cancelbutton.text"
+msgid "~Close"
+msgstr "Tan~ca"
+
+#: srchdlg.src#RID_SVXDLG_SEARCH.CB_SELECTIONS.checkbox.text
+msgid "C~urrent selection only"
+msgstr "Només e~n la selecció"
+
+#: srchdlg.src#RID_SVXDLG_SEARCH.CB_BACKWARDS.checkbox.text
+msgid "Bac~kwards"
+msgstr "A~rrere"

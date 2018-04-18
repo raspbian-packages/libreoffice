@@ -1,0 +1,228 @@
+diff --git a/sc/Module_sc.mk b/sc/Module_sc.mk
+index 9c8696b..385e126 100644
+--- a/sc/Module_sc.mk
++++ b/sc/Module_sc.mk
+@@ -45,7 +45,7 @@ $(eval $(call gb_Module_add_subsequentcheck_targets,sc,\
+     CppunitTest_sc_subsequent_filters_test \
+     CppunitTest_sc_tableautoformatfield \
+     JunitTest_sc_complex \
+-    JunitTest_sc_unoapi \
+ ))
++#    JunitTest_sc_unoapi \
+ 
+ # vim: set noet sw=4 ts=4:
+-- 
+1.7.5.4
+
+--- a/sw/Module_sw.mk-old	2012-02-04 11:25:21.000000000 +0100
++++ b/sw/Module_sw.mk	2012-02-04 11:25:30.000000000 +0100
+@@ -48,7 +48,7 @@
+ 
+ $(eval $(call gb_Module_add_subsequentcheck_targets,sw,\
+     JunitTest_sw_complex \
+-    JunitTest_sw_unoapi \
+ ))
++#    JunitTest_sw_unoapi \
+ 
+ # vim: set noet sw=4 ts=4:
+--- a/chart2/Module_chart2.mk-old	2012-04-12 20:33:26.575094780 +0200
++++ b/chart2/Module_chart2.mk	2012-04-12 20:33:41.079593133 +0200
+@@ -37,8 +37,8 @@
+     Package_uiconfig \
+ ))
+ 
+-$(eval $(call gb_Module_add_subsequentcheck_targets,chart2,\
+-    JunitTest_chart2_unoapi \
+-))
++#$(eval $(call gb_Module_add_subsequentcheck_targets,chart2,\
++#    JunitTest_chart2_unoapi \
++#))
+ 
+ # vim: set noet sw=4 ts=4:
+--- a/configmgr/Module_configmgr.mk-old	2012-04-12 20:34:16.768257030 +0200
++++ b/configmgr/Module_configmgr.mk	2012-04-12 20:34:25.875593317 +0200
+@@ -28,8 +28,8 @@
+ 
+ $(eval $(call gb_Module_Module,configmgr))
+ 
+-$(eval $(call gb_Module_add_subsequentcheck_targets,configmgr,\
+-    JunitTest_configmgr_unoapi \
+-))
++#$(eval $(call gb_Module_add_subsequentcheck_targets,configmgr,\
++#    JunitTest_configmgr_unoapi \
++#))
+ 
+ # vim: set noet sw=4 ts=4:
+--- a/dbaccess/Module_dbaccess.mk-old	2012-04-12 20:34:51.172042458 +0200
++++ b/dbaccess/Module_dbaccess.mk	2012-04-12 20:35:03.326470631 +0200
+@@ -47,7 +47,7 @@
+ 
+ $(eval $(call gb_Module_add_subsequentcheck_targets,dbaccess,\
+ 	JunitTest_dbaccess_complex \
+-    JunitTest_dbaccess_unoapi \
+ ))
++#    JunitTest_dbaccess_unoapi \
+ 
+ # vim: set noet sw=4 ts=4:
+--- a/forms/Module_forms.mk-old	2012-04-12 20:37:38.583592872 +0200
++++ b/forms/Module_forms.mk	2012-04-12 20:37:48.235130657 +0200
+@@ -35,8 +35,8 @@
+ ))
+ 
+ $(eval $(call gb_Module_add_subsequentcheck_targets,forms,\
+-    JunitTest_forms_unoapi \
+     JunitTest_forms_complex \
+ ))
++#    JunitTest_forms_unoapi \
+ 
+ # vim: set noet sw=4 ts=4:
+--- a/framework/Module_framework.mk-old	2012-04-12 20:38:11.659095456 +0200
++++ b/framework/Module_framework.mk	2012-04-12 20:38:27.267105160 +0200
+@@ -49,6 +49,7 @@
+ 
+ $(eval $(call gb_Module_add_subsequentcheck_targets,framework,\
+     JunitTest_framework_complex \
+-    JunitTest_framework_unoapi \
+ ))
++#    JunitTest_framework_unoapi \
++
+ # vim: set noet sw=4 ts=4:
+--- a/linguistic/Module_linguistic.mk-old	2012-03-27 18:22:01.000000000 +0200
++++ b/linguistic/Module_linguistic.mk	2012-04-12 20:39:05.695131100 +0200
+@@ -36,9 +36,9 @@
+ #$(eval $(call gb_Module_add_check_targets,linguistic,\
+ #))
+ 
+-$(eval $(call gb_Module_add_subsequentcheck_targets,linguistic,\
+-    JunitTest_linguistic_unoapi \
+-))
++#$(eval $(call gb_Module_add_subsequentcheck_targets,linguistic,\
++#    JunitTest_linguistic_unoapi \
++#))
+ 
+ # was disabled in old build system
+ # JunitTest_linguistic_complex \
+--- a/qadevOOo/Module_qadevOOo.mk-old	2012-04-12 20:39:33.471868258 +0200
++++ b/qadevOOo/Module_qadevOOo.mk	2012-04-12 20:39:40.580295944 +0200
+@@ -35,8 +35,8 @@
+ ))
+ endif
+ 
+-$(eval $(call gb_Module_add_subsequentcheck_targets,qadevOOo,\
+-    JunitTest_qadevOOo_unoapi \
+-))
++#$(eval $(call gb_Module_add_subsequentcheck_targets,qadevOOo,\
++#    JunitTest_qadevOOo_unoapi \
++#))
+ 
+ # vim: set noet sw=4 ts=4:
+--- a/sd/Module_sd.mk-old	2012-04-12 20:40:09.919107620 +0200
++++ b/sd/Module_sd.mk	2012-04-12 20:40:19.819769802 +0200
+@@ -50,8 +50,8 @@
+ endif
+ 
+ 
+-$(eval $(call gb_Module_add_subsequentcheck_targets,sd,\
+-    JunitTest_sd_unoapi \
+-))
++#$(eval $(call gb_Module_add_subsequentcheck_targets,sd,\
++#    JunitTest_sd_unoapi \
++#))
+ 
+ # vim: set noet sw=4 ts=4:
+--- a/sfx2/Module_sfx2.mk-old	2012-04-12 20:41:25.283497322 +0200
++++ b/sfx2/Module_sfx2.mk	2012-04-12 20:41:39.583096790 +0200
+@@ -41,8 +41,8 @@
+ 
+ $(eval $(call gb_Module_add_subsequentcheck_targets,sfx2,\
+     JunitTest_sfx2_complex \
+-    JunitTest_sfx2_unoapi \
+ ))
++#    JunitTest_sfx2_unoapi \
+ 
+ ifneq (,$(filter LINUX DRAGONFLY OPENBSD FREEBSD NETBSD, $(OS)))
+ ifeq ($(ENABLE_SYSTRAY_GTK),TRUE)
+--- a/starmath/Module_starmath.mk-old	2012-04-12 20:42:04.467516625 +0200
++++ b/starmath/Module_starmath.mk	2012-04-12 20:42:15.211594525 +0200
+@@ -40,8 +40,8 @@
+     CppunitTest_starmath_qa_cppunit \
+ ))
+ 
+-$(eval $(call gb_Module_add_subsequentcheck_targets,starmath,\
+-	JunitTest_sm_unoapi \
+-))
++#$(eval $(call gb_Module_add_subsequentcheck_targets,starmath,\
++#	JunitTest_sm_unoapi \
++#))
+ 
+ # vim: set noet sw=4 ts=4:
+--- a/svtools/Module_svtools.mk-old	2012-04-12 20:42:43.376736846 +0200
++++ b/svtools/Module_svtools.mk	2012-04-12 20:42:51.847094197 +0200
+@@ -47,9 +47,9 @@
+ 	CppunitTest_svtools_filters_test \
+ ))
+ 
+-$(eval $(call gb_Module_add_subsequentcheck_targets,svtools,\
+-    JunitTest_svtools_unoapi \
+-))
++#$(eval $(call gb_Module_add_subsequentcheck_targets,svtools,\
++#    JunitTest_svtools_unoapi \
++#))
+ 
+ #todo: javapatchres
+ #todo: jpeg on mac in svtools/util/makefile.mk
+--- a/svx/Module_svx.mk-old	2012-04-12 20:43:18.387100428 +0200
++++ b/svx/Module_svx.mk	2012-04-12 20:43:32.619114561 +0200
+@@ -42,9 +42,9 @@
+     Executable_gengal.bin \
+ ))
+ 
+-$(eval $(call gb_Module_add_subsequentcheck_targets,svx,\
+-    JunitTest_svx_unoapi \
+-))
++#$(eval $(call gb_Module_add_subsequentcheck_targets,svx,\
++#    JunitTest_svx_unoapi \
++#))
+ 
+ #todo: noopt for EnhanceCustomShapesFunctionParser.cxx on Solaris Sparc and MacOSX
+ #todo: -DBOOST_SPIRIT_USE_OLD_NAMESPACE only in CustomShapes ?
+--- a/toolkit/Module_toolkit.mk-old	2012-04-12 20:44:00.319101609 +0200
++++ b/toolkit/Module_toolkit.mk	2012-04-12 20:44:10.071096280 +0200
+@@ -35,8 +35,8 @@
+     Package_util \
+ ))
+ 
+-$(eval $(call gb_Module_add_subsequentcheck_targets,toolkit,\
+-    JunitTest_toolkit_unoapi \
+-))
++#$(eval $(call gb_Module_add_subsequentcheck_targets,toolkit,\
++#    JunitTest_toolkit_unoapi \
++#))
+ 
+ # vim: set noet sw=4 ts=4:
+--- a/ucb/Module_ucb.mk-old	2012-04-12 20:44:31.851615001 +0200
++++ b/ucb/Module_ucb.mk	2012-04-12 20:44:38.047432481 +0200
+@@ -30,7 +30,7 @@
+ 
+ $(eval $(call gb_Module_add_subsequentcheck_targets,ucb,\
+     JunitTest_ucb_complex \
+-    JunitTest_ucb_unoapi \
+ ))
++#    JunitTest_ucb_unoapi \
+ 
+ # vim: set noet sw=4 ts=4:
+--- a/xmloff/Module_xmloff.mk-old	2012-04-12 20:45:09.983101996 +0200
++++ b/xmloff/Module_xmloff.mk	2012-04-12 20:45:17.767096207 +0200
+@@ -35,9 +35,9 @@
+     Package_inc \
+ ))
+ 
+-$(eval $(call gb_Module_add_subsequentcheck_targets,xmloff,\
+-    JunitTest_xmloff_unoapi \
+-))
++#$(eval $(call gb_Module_add_subsequentcheck_targets,xmloff,\
++#    JunitTest_xmloff_unoapi \
++#))
+ 
+ #todo: map file
+ #todo: xmlkywd.lib - built, but never used?!
