@@ -1,0 +1,94 @@
+14:13 < mst__> _rene_, the toolkit unoapi tests are known to be flaky (in some 
+               system dependent way) e.g. on the Win@6 tinderbox it always 
+               crashes
+14:14 < mst__> _rene_, sc.ScAccessible* tests also fail on some systems some of 
+               the time
+
+--- a/toolkit/Module_toolkit.mk-old	2012-09-05 14:24:27.129693868 +0200
++++ b/toolkit/Module_toolkit.mk	2012-09-05 14:24:39.521755312 +0200
+@@ -28,8 +28,8 @@ $(eval $(call gb_Module_add_targets,toolkit,\
+ ifneq ($(OOO_JUNIT_JAR),)
+ $(eval $(call gb_Module_add_subsequentcheck_targets,toolkit,\
+     JunitTest_toolkit_complex \
+-    JunitTest_toolkit_unoapi \
+ ))
+ endif
++#    JunitTest_toolkit_unoapi \
+ 
+ # vim: set noet sw=4 ts=4:
+diff --git a/sc/qa/unoapi/sc.sce b/sc/qa/unoapi/sc.sce
+index 4ececd9..5eda25a 100644
+--- a/sc/qa/unoapi/sc.sce
++++ b/sc/qa/unoapi/sc.sce
+@@ -16,21 +16,6 @@
+ #   the License at http://www.apache.org/licenses/LICENSE-2.0 .
+ #
+ # i84653 -o sc.ScPageObj
+-# i84554 -o sc.AccessibleEditableTextPara_PreviewNote
+-# i88241 -o sc.AccessibleEditableTextPara_HeaderFooter
+--o sc.AccessibleEditableTextPara_PreviewCell
+--o sc.ScAccessibleCell
+-# i91044 -o sc.ScAccessibleCsvCell
+-# i91044 -o sc.ScAccessibleCsvGrid
+-# i84641 -o sc.ScAccessibleCsvRuler
+-# i88330 -o sc.ScAccessibleDocument
+-# i91045 -o sc.ScAccessibleDocumentPagePreview
+--o sc.ScAccessiblePageHeader
+-# fdo#FOO -o sc.ScAccessiblePageHeaderArea
+--o sc.ScAccessiblePreviewCell
+--o sc.ScAccessiblePreviewHeaderCell
+--o sc.ScAccessiblePreviewTable
+-# fdo#45337 -o sc.ScAccessibleSpreadsheet
+ # FIXME_REMOVE_WHEN_RE_BASE_COMPLETE
+ # -o sc.ScAnnotationObj
+ # -o sc.ScAnnotationShapeObj
+
+08:54 <@_rene_> vmiklos: 
+http://zyklop.dyndns.org/~rene/libreoffice_4.2.4~rc1~git20140414-1_amd64.build.sw_complex. -4-2 from yesterday evening
+08:55 <@_rene_> vmiklos: tl;dr: sw_complex fails
+[...]
+09:25 <@vmiklos> _rene_: i would recommend disabling the checkBookmarks part in 
+                 your builds, it's clearly not stable enough to invoke it from 
+                 a packaging script.
+09:26 <@_rene_> vmiklos: ok, ooc, why? fails sometimes(tm) even for you?
+09:26 < tml> sberg: I hate to say this, but maybe we need to take a step 
+             backwards and introduce some macro to initialise OUStrings...?
+09:26 < tml> s/need/would need
+09:27 <@_rene_> why is it then either not fixed or disabled for everyone? I 
+                mean, if I patch it now and it gets fixed somewhen I'd stil 
+                have it disabled...
+09:27 -!- arranna [~ronkko@a88-114-229-111.elisa-laajakaista.fi] has joined 
+          #libreoffice-dev
+09:27 < loircbot> LibreOffice (core) sbergman * sd/ (inc/randomnode.hxx 
+                  source/ui/unoidl/randomnode.cxx): Fix symbol visibility
+09:28 <@vmiklos> _rene_: yes, it fails here as well sometimes. the test 
+                 generates random bookmarks.
+[...]
+09:43 <@vmiklos> i might be wrong, but i don't think the checkBookmarks test 
+                 was ever stable. if it was stable on 4-1 for you, you're just 
+                 lucky :)
+
+diff --git a/sw/JunitTest_sw_complex.mk b/sw/JunitTest_sw_complex.mk
+index e9b344c..ffc94f7 100644
+--- a/sw/JunitTest_sw_complex.mk
++++ b/sw/JunitTest_sw_complex.mk
+@@ -28,7 +28,6 @@ $(eval $(call gb_JunitTest_add_sourcefiles,sw_complex,\
+     sw/qa/complex/accessibility/AccessibleRelationSet \
+     sw/qa/complex/checkColor/CheckChangeColor \
+     sw/qa/complex/indeterminateState/CheckIndeterminateState \
+-    sw/qa/complex/writer/CheckBookmarks \
+     sw/qa/complex/writer/CheckCrossReferences \
+     sw/qa/complex/writer/CheckFlies \
+     sw/qa/complex/writer/CheckIndexedPropertyValues \
+@@ -58,11 +57,4 @@ $(eval $(call gb_JunitTest_add_classes,sw_complex,\
+     complex.writer.TextPortionEnumerationTest \
+ ))
+ 
+-# FIXME has never worked on windows, hashes are different
+-ifneq ($(OS),WNT)
+-$(eval $(call gb_JunitTest_add_classes,sw_complex,\
+-    complex.writer.CheckBookmarks \
+-))
+-endif
+-
+ # vim: set noet sw=4 ts=4:

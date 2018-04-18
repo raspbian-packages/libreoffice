@@ -1,0 +1,51 @@
+From d778cd0ce51aa9605dd4baaec711925c2a2bf418 Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?Caol=C3=A1n=20McNamara?= <caolanm@redhat.com>
+Date: Wed, 10 Jan 2018 14:27:35 +0000
+Subject: [PATCH 1/6] limit WEBSERVICE to http[s] protocols
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+and like excel...
+
+'For protocols that aren’t supported, such as ftp:// or file://, WEBSERVICE
+returns the #VALUE! error value.'
+
+Change-Id: I0e9c6fd3426fad56a199eafac48de9b0f23914b3
+Reviewed-on: https://gerrit.libreoffice.org/47776
+Tested-by: Jenkins <ci@libreoffice.org>
+Reviewed-by: Markus Mohrhard <markus.mohrhard@googlemail.com>
+(cherry picked from commit a916fc0c0e0e8b10cb4158fa0fa173fe205d434a)
+---
+ sc/source/core/tool/interpr7.cxx | 9 +++++++++
+ 1 file changed, 9 insertions(+)
+
+diff --git a/sc/source/core/tool/interpr7.cxx b/sc/source/core/tool/interpr7.cxx
+index 2d48c6b..0d55e87 100644
+--- a/sc/source/core/tool/interpr7.cxx
++++ b/sc/source/core/tool/interpr7.cxx
+@@ -14,6 +14,7 @@
+ #include <rtl/strbuf.hxx>
+ #include <formula/errorcodes.hxx>
+ #include <svtools/miscopt.hxx>
++#include <tools/urlobj.hxx>
+ 
+ #include <com/sun/star/ucb/XSimpleFileAccess3.hpp>
+ #include <com/sun/star/ucb/SimpleFileAccess.hpp>
+@@ -241,6 +242,14 @@ void ScInterpreter::ScWebservice()
+             return;
+         }
+ 
++        INetURLObject aObj(aURI, INetProtocol::INET_PROT_FILE);
++        INetProtocol eProtocol = aObj.GetProtocol();
++        if (eProtocol != INetProtocol::INET_PROT_HTTP && eProtocol != INetProtocol::INET_PROT_HTTPS)
++        {
++            PushError( errNoValue );
++            return;
++        }
++
+         uno::Reference< ucb::XSimpleFileAccess3 > xFileAccess( ucb::SimpleFileAccess::create( comphelper::getProcessComponentContext() ), uno::UNO_QUERY );
+         if(!xFileAccess.is())
+         {
+-- 
+1.9.1

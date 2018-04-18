@@ -1,0 +1,13 @@
+libreoffice (1:4.2.4~rc2-1) experimental; urgency=low
+
+  * This version has some more KDE4 patches backported from libreoffice-4-2
+    branch. (so they would have been in 4.2.5 proper anyways).
+
+    This also means that the KDE integration code now also contains a runtime
+    check for a Qt function - without that one the KDE File Picker is completey
+    flaky and will crash often (see e.g. #743221 and #742675).
+
+    This effectively means the the KDE File Picker is still built and included
+    in this package but de-facto disabled until Qt is fixed.
+
+ -- Rene Engelhard <rene@debian.org>  Thu, 01 May 2014 12:42:05 +0200
