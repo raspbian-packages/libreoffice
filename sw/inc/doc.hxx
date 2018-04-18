@@ -793,7 +793,7 @@ public:
     virtual void SetVisibleLinks(bool bFlag);
     virtual sfx2::LinkManager& GetLinkManager();
     virtual const sfx2::LinkManager& GetLinkManager() const;
-    virtual void UpdateLinks(sal_Bool bUI);
+    virtual void UpdateLinks();
     virtual bool GetData(const String& rItem, const String& rMimeType, ::com::sun::star::uno::Any& rValue) const;
     virtual bool SetData(const String& rItem, const String& rMimeType, const ::com::sun::star::uno::Any& rValue);
     virtual ::sfx2::SvLinkSource* CreateLinkSource(const String& rItem);

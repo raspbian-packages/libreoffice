@@ -51,6 +51,7 @@
 #include <list>
 #include <vector>
 #include <boost/ptr_container/ptr_vector.hpp>
+#include <documentlinkmgr.hxx>
 
 namespace editeng { class SvxBorderLine; }
 
@@ -225,6 +226,7 @@ friend class ScDocRowHeightUpdater;
 
     typedef ::std::vector<ScTable*> TableContainer;
 private:
+    mutable boost::scoped_ptr<sc::DocumentLinkManager> mpDocLinkMgr;
     ::com::sun::star::uno::Reference< ::com::sun::star::lang::XMultiServiceFactory > xServiceManager;
 
     rtl::Reference<ScPoolHelper> xPoolHelper;
@@ -442,6 +444,9 @@ public:
     rtl::Reference<XColorList>          GetColorList();
 
     SC_DLLPUBLIC sfx2::LinkManager*     GetLinkManager() const;
+    sc::DocumentLinkManager& GetDocLinkManager(); 
+    const sc::DocumentLinkManager& GetDocLinkManager() const; 
+    
 
     SC_DLLPUBLIC const ScDocOptions&        GetDocOptions() const;
     SC_DLLPUBLIC void                   SetDocOptions( const ScDocOptions& rOpt );
