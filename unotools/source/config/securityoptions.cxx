@@ -39,6 +39,7 @@
 #include <tools/wldcrd.hxx>
 
 #include <unotools/pathoptions.hxx>
+#include <unotools/ucbhelper.hxx>
 
 #include <rtl/logfile.hxx>
 #include "itemholder1.hxx"
@@ -133,6 +134,7 @@ using namespace ::com::sun::star::uno   ;
 
 class SvtSecurityOptions_Impl : public ConfigItem
 {
+    friend class SvtSecurityOptions;
     //-------------------------------------------------------------------------------------------------------------
     //  public methods
     //-------------------------------------------------------------------------------------------------------------
@@ -189,8 +191,10 @@ class SvtSecurityOptions_Impl : public ConfigItem
 
         Sequence< OUString >    GetSecureURLs   (                                                       ) const ;
         void                    SetSecureURLs   (   const   Sequence< OUString >&   seqURLList          )       ;
+
         sal_Bool                IsSecureURL     (   const   OUString&               sURL,
                                                     const   OUString&               sReferer            ) const ;
+
         inline sal_Int32        GetMacroSecurityLevel   (                                               ) const ;
         void                    SetMacroSecurityLevel   ( sal_Int32 _nLevel                             )       ;
 
@@ -927,6 +931,30 @@ sal_Bool SvtSecurityOptions_Impl::IsSecureURL(  const   OUString&   sURL    ,
     // Return result of operation.
     return bState;
 }
+
+bool SvtSecurityOptions::isTrustedLocationUri(OUString const & uri) const {
+    MutexGuard g(GetInitMutex());
+    for (sal_Int32 i = 0; i != m_pDataContainer->m_seqSecureURLs.getLength();
+         ++i)
+    {
+        if (utl::UCBContentHelper::IsSubPath(
+                m_pDataContainer->m_seqSecureURLs[i], uri))
+        {
+            return true;
+        }
+    }
+    return false;
+}
+
+bool SvtSecurityOptions::isTrustedLocationUriForUpdatingLinks(
+    OUString const & uri) const
+{
+    const OUString uristart = uri.copy(0, 8);
+    return GetMacroSecurityLevel() == 0 || uri.isEmpty()
+        || uristart.equalsIgnoreAsciiCaseAsciiL("private:", 8)
+        || isTrustedLocationUri(uri);
+}
+
 
 inline sal_Int32 SvtSecurityOptions_Impl::GetMacroSecurityLevel() const
 {

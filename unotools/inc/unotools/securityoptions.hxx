@@ -192,6 +192,9 @@ class UNOTOOLS_DLLPUBLIC SvtSecurityOptions: public utl::detail::Options
         ::com::sun::star::uno::Sequence< ::rtl::OUString >  GetSecureURLs(                                                                      ) const ;
         void                                                SetSecureURLs( const ::com::sun::star::uno::Sequence< ::rtl::OUString >& seqURLList )       ;
 
+        bool isTrustedLocationUri(rtl::OUString const & uri) const;
+        bool isTrustedLocationUriForUpdatingLinks(rtl::OUString const & uri) const;
+
         /*-****************************************************************************************************//**
             @short      interface methods to get and set value of config key "org.openoffice.Office.Common/Security/Scripting/StarOfficeBasic"
             @descr      These value determines how StarOffice Basic scripts should be handled.
