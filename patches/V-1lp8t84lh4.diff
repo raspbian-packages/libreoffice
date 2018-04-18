@@ -1,0 +1,32 @@
+From 3ed4715779bdd3a3d27cf34e222275c8ba092a70 Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?Caol=C3=A1n=20McNamara?= <caolanm@redhat.com>
+Date: Tue, 8 Dec 2015 14:20:52 +0000
+Subject: [PATCH] guard against corrupt m_nNumTabs
+
+Change-Id: I41b8514a127d463ac951e5855f09416fa0456b1b
+---
+ lotuswordpro/source/filter/lwptabrack.cxx | 5 +++--
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+
+diff --git a/lotuswordpro/source/filter/lwptabrack.cxx b/lotuswordpro/source/filter/lwptabrack.cxx
+index b27082c..ab8ab3c 100644
+--- a/lotuswordpro/source/filter/lwptabrack.cxx
++++ b/lotuswordpro/source/filter/lwptabrack.cxx
+@@ -86,11 +86,12 @@ LwpTabRack::LwpTabRack(LwpObjectHeader objHdr, LwpSvStream* pStrm):LwpObject(obj
+ 
+ void LwpTabRack::Read()
+ {
+-//  LwpObjectID     m_NextID;
+     m_NextID.ReadIndexed(m_pObjStrm);
+ 
+     m_nNumTabs = m_pObjStrm->QuickReaduInt16();
+-    for( int i=0; i<m_nNumTabs; i++ )
++    if (m_nNumTabs > MaxTabs)
++        throw std::out_of_range("corrupt LwpTabRack");
++    for (int i=0; i<m_nNumTabs; ++i)
+     {
+         m_aTabs[i].Read(m_pObjStrm);
+         m_pObjStrm->SkipExtra();
+-- 
+2.1.4
+

@@ -1,0 +1,115 @@
+From 0a1f215c8ebe76ff88f8a8e46a4956f45e96a9cd Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?Caol=C3=A1n=20McNamara?= <caolanm@redhat.com>
+Date: Mon, 26 Jan 2015 11:26:41 +0000
+Subject: [PATCH] coverity#1266485 Untrusted value as argument
+
+(cherry picked from commit 0934ed1a40c59c169354b177d7dab4228de66171)
+
+min legal size here is > 4
+
+(cherry picked from commit 3131205c05a3fde4ef1e3322cc48ca23c443f6d3)
+
+(cherry picked from commit 964000d415bcf491704dad57aee7e0656ea60dab)
+Reviewed-on: https://gerrit.libreoffice.org/16983
+Reviewed-by: David Tardon <dtardon@redhat.com>
+Tested-by: David Tardon <dtardon@redhat.com>
+
+Conflicts:
+	vcl/source/gdi/jobset.cxx
+
+9f68d000b32623db4d949d13284043630f5689f4
+
+Change-Id: I7708ecaf5412535055584ed6c71beaa9cd71c10c
+DebianPatchName: coverity-1266485.diff
+---
+ vcl/source/gdi/jobset.cxx | 35 +++++++++++++++++++++--------------
+ 1 file changed, 21 insertions(+), 14 deletions(-)
+
+diff --git a/vcl/source/gdi/jobset.cxx b/vcl/source/gdi/jobset.cxx
+index 14b86b2..ed27fb4 100644
+--- a/vcl/source/gdi/jobset.cxx
++++ b/vcl/source/gdi/jobset.cxx
+@@ -31,6 +31,7 @@
+ #include <tools/stream.hxx>
+ #include <rtl/alloc.h>
+ #include <vcl/jobset.hxx>
++#include <boost/scoped_array.hpp>
+ 
+ #include <jobset.h>
+ 
+@@ -277,21 +278,26 @@ SvStream& operator>>( SvStream& rIStream, JobSetup& rJobSetup )
+     DBG_ASSERTWARNING( rIStream.GetVersion(), "JobSetup::>> - Solar-Version not set on rOStream" );
+ 
+     {
+-        sal_Size nFirstPos = rIStream.Tell();
+-
+         sal_uInt16 nLen = 0;
+         rIStream >> nLen;
+-        if ( !nLen )
++        if (nLen <= 4)
+             return rIStream;
+ 
+         sal_uInt16 nSystem = 0;
+         rIStream >> nSystem;
+-
+-        char* pTempBuf = new char[nLen];
+-        rIStream.Read( pTempBuf,  nLen - sizeof( nLen ) - sizeof( nSystem ) );
+-        if ( nLen >= sizeof(ImplOldJobSetupData)+4 )
++        const size_t nRead = nLen - sizeof(nLen) - sizeof(nSystem);
++        if (nRead > rIStream.remainingSize())
++        {
++            SAL_WARN("vcl", "Parsing error: " << rIStream.remainingSize() <<
++                     " max possible entries, but " << nRead << " claimed, truncating");
++            return rIStream;
++        }
++        sal_Size nFirstPos = rIStream.Tell();
++        boost::scoped_array<char> pTempBuf(new char[nRead]);
++        rIStream.Read(pTempBuf.get(),  nRead);
++        if (nRead >= sizeof(ImplOldJobSetupData))
+         {
+-            ImplOldJobSetupData* pData = (ImplOldJobSetupData*)pTempBuf;
++            ImplOldJobSetupData* pData = (ImplOldJobSetupData*)pTempBuf.get();
+             if ( rJobSetup.mpData )
+             {
+                 if ( rJobSetup.mpData->mnRefCount == 1 )
+@@ -313,7 +319,7 @@ SvStream& operator>>( SvStream& rIStream, JobSetup& rJobSetup )
+             if ( nSystem == JOBSET_FILE364_SYSTEM ||
+                  nSystem == JOBSET_FILE605_SYSTEM )
+             {
+-                Impl364JobSetupData* pOldJobData    = (Impl364JobSetupData*)(pTempBuf + sizeof( ImplOldJobSetupData ));
++                Impl364JobSetupData* pOldJobData    = (Impl364JobSetupData*)(pTempBuf.get() + sizeof( ImplOldJobSetupData ));
+                 sal_uInt16 nOldJobDataSize              = SVBT16ToShort( pOldJobData->nSize );
+                 pJobData->mnSystem                  = SVBT16ToShort( pOldJobData->nSystem );
+                 pJobData->mnDriverDataLen           = SVBT32ToUInt32( pOldJobData->nDriverDataLen );
+@@ -331,8 +337,10 @@ SvStream& operator>>( SvStream& rIStream, JobSetup& rJobSetup )
+                 }
+                 if( nSystem == JOBSET_FILE605_SYSTEM )
+                 {
+-                    rIStream.Seek( nFirstPos + sizeof( ImplOldJobSetupData ) + 4 + sizeof( Impl364JobSetupData ) + pJobData->mnDriverDataLen );
+-                    while( rIStream.Tell() < nFirstPos + nLen )
++//                    rIStream.Seek( nFirstPos + sizeof( ImplOldJobSetupData ) + 4 + sizeof( Impl364JobSetupData ) + pJobData->mnDriverDataLen );
++//                    while( rIStream.Tell() < nFirstPos + nLen )
++                    rIStream.Seek( nFirstPos + sizeof( ImplOldJobSetupData ) + sizeof( Impl364JobSetupData ) + pJobData->mnDriverDataLen );
++                    while( rIStream.Tell() < nFirstPos + nRead )
+                     {
+                         String aKey, aValue;
+                         rIStream.ReadByteString( aKey, RTL_TEXTENCODING_UTF8 );
+@@ -351,13 +359,12 @@ SvStream& operator>>( SvStream& rIStream, JobSetup& rJobSetup )
+                         else
+                             pJobData->maValueMap[ aKey ] = aValue;
+                     }
+-                    DBG_ASSERT( rIStream.Tell() == nFirstPos+nLen, "corrupted job setup" );
++                    DBG_ASSERT( rIStream.Tell() == nFirstPos+nRead, "corrupted job setup" );
+                     // ensure correct stream position
+-                    rIStream.Seek( nFirstPos + nLen );
++                    rIStream.Seek( nFirstPos + nRead );
+                 }
+             }
+         }
+-        delete[] pTempBuf;
+     }
+ 
+     return rIStream;
+-- 
+1.9.1
+

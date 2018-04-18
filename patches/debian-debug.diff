@@ -1,0 +1,65 @@
+diff --git a/configure.in b/configure.in
+index 3257668..afd36de 100755
+--- libreoffice-3.5.0/configure.in
++++ libreoffice-3.5.0/configure.in
+@@ -2352,8 +2352,13 @@
+ dnl ===================================================================
+ AC_MSG_CHECKING([whether to include symbols])
+ if test -n "$enable_symbols" -a "$enable_symbols" != "no"; then
+-    ENABLE_SYMBOLS="TRUE"
+-    AC_MSG_RESULT([yes])
++   if test "$enable_symbols" = "SMALL" -o "$enable_symbols" = "small"; then
++      ENABLE_SYMBOLS="SMALL"
++      AC_MSG_RESULT([yes, small ones])
++   else
++      ENABLE_SYMBOLS="TRUE"
++      AC_MSG_RESULT([yes])
++   fi
+ else
+     ENABLE_SYMBOLS=
+     AC_MSG_RESULT([no])
+diff --git a/solenv/inc/unxgcc.mk b/solenv/inc/unxgcc.mk
+index c73333f..9338110 100644
+--- libreoffice-3.5.0/solenv/inc/unxgcc.mk
++++ libreoffice-3.5.0/solenv/inc/unxgcc.mk
+@@ -73,7 +73,11 @@
+ CFLAGS+=-fmessage-length=0 -c
+ 
+ # flags to enable build with symbols
++.IF "$(ENABLE_SYMBOLS)" == "SMALL"
++CFLAGSENABLESYMBOLS=-g1
++.ELSE
+ CFLAGSENABLESYMBOLS=-g
++.ENDIF
+ 
+ # flags for the C++ Compiler
+ CFLAGSCC= -pipe $(ARCH_FLAGS)
+@@ -106,7 +106,11 @@ CFLAGSSLOCUIMT=$(PICSWITCH)
+ # Compiler flags for profiling
+ CFLAGSPROF=
+ # Compiler flags for debugging
++.IF "$(ENABLE_SYMBOLS)"=="SMALL"
++CFLAGSDEBUG=-g1
++.ELSE
+ CFLAGSDEBUG=-g
++.ENDIF
+ CFLAGSDBGUTIL=
+ 
+ GCCNUMVERSION_CMD=-dumpversion $(PIPEERROR) $(AWK) -v num=true -f $(SOLARENV)/bin/getcompver.awk
+--- libreoffice-3.5.0/solenv/gbuild/platform/unxgcc.mk.orig       2011-07-05 12:38:23.398653265 +0200
++++ libreoffice-3.5.0/solenv/gbuild/platform/unxgcc.mk    2011-07-05 14:10:50.598728992 +0200
+@@ -217,9 +217,14 @@
+ gb_LinkTarget_CXXFLAGS := $(gb_CXXFLAGS) $(gb_CXXFLAGS_WERROR)
+ 
+ ifeq ($(gb_SYMBOL),$(true))
++ifeq ($(ENABLE_SYMBOLS),SMALL)
++gb_LinkTarget_CXXFLAGS += -g1
++gb_LinkTarget_CFLAGS += -g1
++else
+ gb_LinkTarget_CXXFLAGS += -ggdb2
+ gb_LinkTarget_CFLAGS += -ggdb2
+ endif
++endif
+ 
+ # note that `cat $(extraobjectlist)` is needed to build with older gcc versions, e.g. 4.1.2 on SLED10
+ # we want to use @$(extraobjectlist) in the long run
