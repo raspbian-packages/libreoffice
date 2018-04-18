@@ -7629,6 +7629,7 @@ AC_MSG_CHECKING([whether to build extension for support of scripts in JavaScript
 if test "x$enable_ext_scripting_javascript" = "xyes" -a "x$enable_extension_integration" != "xno" -a "x$with_java" != "xno"; then
    AC_MSG_RESULT([yes])
    ENABLE_SCRIPTING_JAVASCRIPT=YES
+   BUILD_TYPE="$BUILD_TYPE RHINO"
 else
    AC_MSG_RESULT([no])
    ENABLE_SCRIPTING_JAVASCRIPT=NO
