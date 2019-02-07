@@ -1,0 +1,38 @@
+Package: libreoffice-dev
+Section: devel
+Architecture: %OOO_ARCHS%
+Depends: libreoffice-core (= ${binary:Version}),
+         ${idlc-cpp-depends},
+         ${misc:Depends},
+         ${shlibs:Depends}
+Recommends: g++, ${java-common-depends}, ${java-runtime-depends}
+Suggests: libmythes-dev, libreoffice-dev-doc
+Replaces: libreoffice-core (<< 1:4.1.0~beta1), libreoffice-common (<< 1:4.1.0~beta1)
+Description: office productivity suite -- SDK
+ LibreOffice is a full-featured office productivity suite that provides
+ a near drop-in replacement for Microsoft(R) Office.
+ .
+ This package contains the files needed to build plugins/add-ons for
+ LibreOffice (includes, IDL files, build tools, ...). It also contains
+ the zipped source of the UNO Java libraries for use in IDEs like eclipse.
+
+Package: libreoffice-dev-doc
+Section: doc
+Architecture: all
+Depends: ${misc:Depends}
+Recommends: libreoffice-dev (= ${binary:Version}),
+            www-browser
+Suggests: libreoffice-dtd-officedocument1.0
+Conflicts: openoffice.org-dev-doc
+Description: office productivity suite -- SDK documentation
+ LibreOffice is a full-featured office productivity suite that provides
+ a near drop-in replacement for Microsoft(R) Office.
+ .
+ This package contains the documentation of the LibreOffice SDK:
+ .
+  * C++/Java API reference
+  * IDL reference
+  * C++/Java/Basic examples
+ .
+ It also contains the gsicheck utility.
+

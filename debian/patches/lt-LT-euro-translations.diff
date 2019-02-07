@@ -1,0 +1,3003 @@
+diff -urN translations-old/source/af/wizards/source/euro.po translations/source/af/wizards/source/euro.po
+--- a/translations-old/source/af/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/af/wizards/source/euro.po	2014-11-09 20:06:40.435308188 +0100
+@@ -637,7 +637,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -645,6 +645,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/am/wizards/source/euro.po translations/source/am/wizards/source/euro.po
+--- a/translations-old/source/am/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/am/wizards/source/euro.po	2014-11-09 20:06:25.935202439 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "ለሰነዱ የተሰናዳው ገንዘብ የአውሮፓውያን ገንዘብ አይደለም!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "ለ መስሪያ ስርአት የተሰናዳው ቋንቋ የ European Monetary Union አይደለም"
+diff -urN translations-old/source/an/wizards/source/euro.po translations/source/an/wizards/source/euro.po
+--- a/translations-old/source/an/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/an/wizards/source/euro.po	2014-11-09 20:09:44.696613051 +0100
+@@ -645,7 +645,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -653,6 +653,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/ar/wizards/source/euro.po translations/source/ar/wizards/source/euro.po
+--- a/translations-old/source/ar/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/ar/wizards/source/euro.po	2014-11-09 20:09:59.512714942 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "العملة المعيّنة لهذا المستند ليست عملة أوروبية!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+diff -urN translations-old/source/as/wizards/source/euro.po translations/source/as/wizards/source/euro.po
+--- a/translations-old/source/as/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/as/wizards/source/euro.po	2014-11-09 20:09:53.364672714 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "ডকুমেন্টৰ বাবে ছেট কৰা মুদ্রাটো ইউৰোপীয়ান মুদ্ৰা নহয়!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "আপোনাৰ অপাৰেটিং চিস্টেমৰ বাবে সংহতি কৰা ভাষা ইউৰোপিয়ান মনিটাৰি ইউনিয়নৰ এটা ভাষা নহয়।"
+diff -urN translations-old/source/ast/wizards/source/euro.po translations/source/ast/wizards/source/euro.po
+--- a/translations-old/source/ast/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/ast/wizards/source/euro.po	2014-11-09 20:52:39.963934486 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "¡La moneda establecida pal documentu nun ye una moneda européa!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "La llingua configurada nel sistema operativu nun ye una llingua de la Xunión Monetaria Européa."
+diff -urN translations-old/source/be/wizards/source/euro.po translations/source/be/wizards/source/euro.po
+--- a/translations-old/source/be/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/be/wizards/source/euro.po	2014-11-09 20:11:10.513197232 +0100
+@@ -635,7 +635,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -643,6 +643,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/bg/wizards/source/euro.po translations/source/bg/wizards/source/euro.po
+--- a/translations-old/source/bg/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/bg/wizards/source/euro.po	2014-11-09 20:07:15.679563313 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "Валутата, избрана за документа, не е европейска валута!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "Езикът, зададен за операционната система, не е език от Европейския паричен съюз."
+diff -urN translations-old/source/bn/wizards/source/euro.po translations/source/bn/wizards/source/euro.po
+--- a/translations-old/source/bn/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/bn/wizards/source/euro.po	2014-11-09 20:07:13.155545131 +0100
+@@ -637,7 +637,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -645,6 +645,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/bn-IN/wizards/source/euro.po translations/source/bn-IN/wizards/source/euro.po
+--- a/translations-old/source/bn-IN/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/bn-IN/wizards/source/euro.po	2014-11-09 20:09:29.220506152 +0100
+@@ -636,7 +636,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -644,6 +644,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/bo/wizards/source/euro.po translations/source/bo/wizards/source/euro.po
+--- a/translations-old/source/bo/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/bo/wizards/source/euro.po	2014-11-09 20:11:27.873313673 +0100
+@@ -636,7 +636,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -644,6 +644,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/br/wizards/source/euro.po translations/source/br/wizards/source/euro.po
+--- a/translations-old/source/br/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/br/wizards/source/euro.po	2014-11-09 20:10:51.249067344 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n""CURRENCIES + 18\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "Ar moneiz despizet evit an teul n'eo ket ur moneiz europat !"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "Ar yezh despizet evit ho reizhiad korvoiñ n'eo ket ur yezh eus an Unvaniezh Moneiz Europat."
+diff -urN translations-old/source/brx/wizards/source/euro.po translations/source/brx/wizards/source/euro.po
+--- a/translations-old/source/brx/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/brx/wizards/source/euro.po	2014-11-09 20:09:33.256534076 +0100
+@@ -635,7 +635,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -643,6 +643,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/bs/wizards/source/euro.po translations/source/bs/wizards/source/euro.po
+--- a/translations-old/source/bs/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/bs/wizards/source/euro.po	2014-11-09 20:06:49.423373506 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "Valuta koja je podešena za ovaj dokument nije evropska valuta!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "Jezik koji je podešen u vašem operativnom sistemu nije jezik Evropskog Monetarnog Saveza."
+diff -urN translations-old/source/ca/wizards/source/euro.po translations/source/ca/wizards/source/euro.po
+--- a/translations-old/source/ca/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/ca/wizards/source/euro.po	2014-11-09 20:07:55.631849294 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "La moneda definida per al document no és una moneda europea."
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "La llengua definida al sistema operatiu no és una llengua de la Unió Monetària Europea."
+diff -urN translations-old/source/ca-valencia/wizards/source/euro.po translations/source/ca-valencia/wizards/source/euro.po
+--- a/translations-old/source/ca-valencia/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/ca-valencia/wizards/source/euro.po	2014-11-09 20:07:42.659756811 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "La moneda definida per al document no és una moneda europea."
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "La llengua definida al sistema operatiu no és una llengua de la Unió Monetària Europea."
+diff -urN translations-old/source/cs/wizards/source/euro.po translations/source/cs/wizards/source/euro.po
+--- a/translations-old/source/cs/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/cs/wizards/source/euro.po	2014-11-09 20:09:00.236304647 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "Měna nastavená pro dokument není měnou používanou v Evropské unii!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "Jazyk vašeho operačního systému není jazykem používaným v Evropské měnové unii."
+diff -urN translations-old/source/cy/wizards/source/euro.po translations/source/cy/wizards/source/euro.po
+--- a/translations-old/source/cy/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/cy/wizards/source/euro.po	2014-11-09 20:07:52.671828222 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "Nid arian Ewropeaidd yw'r arian sydd wedi ei osod yn y ddogfen!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "Nid iaith yr Undeb Ariannol Ewropeaidd yw'r iaith sydd wedi ei osod yn eich system weithredu."
+diff -urN translations-old/source/da/wizards/source/euro.po translations/source/da/wizards/source/euro.po
+--- a/translations-old/source/da/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/da/wizards/source/euro.po	2014-11-09 20:08:36.932141389 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "Den valgte valuta for dokumentet er ikke en europæisk valuta!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "Sproget angivet for dit operativsystem er ikke et sprog i den Europæiske Monetære Union."
+diff -urN translations-old/source/de/wizards/source/euro.po translations/source/de/wizards/source/euro.po
+--- a/translations-old/source/de/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/de/wizards/source/euro.po	2014-11-09 20:05:53.270962518 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr "Litauische Litas"
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "Die für das Dokument eingestellte Währung ist keine Euro-Währung!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "Die für Ihr Betriebssystem eingestellte Sprache ist keine Sprache der Europäischen Währungsunion!"
+diff -urN translations-old/source/dgo/wizards/source/euro.po translations/source/dgo/wizards/source/euro.po
+--- a/translations-old/source/dgo/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/dgo/wizards/source/euro.po	2014-11-09 20:10:18.420844344 +0100
+@@ -691,13 +691,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "दस्तावेज आस्तै एह् सैट्ट करंसी कोई योरपी करंसी नेईं ऐ!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "थुआढ़े आप्रेटिङ सिस्टम आस्तै सैट्ट भाशा योरपी  आर्थिक संघ दी भाशा नेईं ."
+diff -urN translations-old/source/dz/wizards/source/euro.po translations/source/dz/wizards/source/euro.po
+--- a/translations-old/source/dz/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/dz/wizards/source/euro.po	2014-11-09 21:11:23.621410709 +0100
+@@ -636,7 +636,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -644,6 +644,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/el/wizards/source/euro.po translations/source/el/wizards/source/euro.po
+--- a/translations-old/source/el/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/el/wizards/source/euro.po	2014-11-09 20:09:39.236575391 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "Όλα τα νομίσματα στο έγγραφο δεν είναι ευρωπαϊκά νομίσματα!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "Η γλώσσα που ορίστηκε στο λειτουργικό σας σύστημα δεν είναι γλώσσα της ευρωπαϊκής νομισματικής ένωσης."
+diff -urN translations-old/source/en-GB/wizards/source/euro.po translations/source/en-GB/wizards/source/euro.po
+--- a/translations-old/source/en-GB/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/en-GB/wizards/source/euro.po	2014-11-09 20:09:12.276388559 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr "Lithuanian Litas"
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "The currency set for the document is not a European currency!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "The language set for your operating system is not a language of the European Monetary Union."
+diff -urN translations-old/source/en-ZA/wizards/source/euro.po translations/source/en-ZA/wizards/source/euro.po
+--- a/translations-old/source/en-ZA/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/en-ZA/wizards/source/euro.po	2014-11-09 21:11:27.013463255 +0100
+@@ -636,7 +636,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -644,6 +644,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/eo/wizards/source/euro.po translations/source/eo/wizards/source/euro.po
+--- a/translations-old/source/eo/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/eo/wizards/source/euro.po	2014-11-09 20:07:06.103494260 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "La valuto atribuita por la dokumento ne estas eŭropa valuto!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "La lingvo agordita por via mastruma sistemo ne estas lingvo el la Eŭropa Mona Unio."
+diff -urN translations-old/source/es/wizards/source/euro.po translations/source/es/wizards/source/euro.po
+--- a/translations-old/source/es/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/es/wizards/source/euro.po	2014-11-09 20:07:45.647778145 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "La moneda establecida para el documento no pertenece a la zona del euro."
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "El idioma establecido en el sistema operativo no corresponde a algún país de la Unión Monetaria Europea."
+diff -urN translations-old/source/et/wizards/source/euro.po translations/source/et/wizards/source/euro.po
+--- a/translations-old/source/et/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/et/wizards/source/euro.po	2014-11-09 20:09:08.936365311 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "Dokumendi rahaühik pole Euroopa rahaühik!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "Operatsioonisüsteemi keel ei ole Euroopa Majandus- ja Rahaliitu kuuluva riigi keel."
+diff -urN translations-old/source/eu/wizards/source/euro.po translations/source/eu/wizards/source/euro.po
+--- a/translations-old/source/eu/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/eu/wizards/source/euro.po	2014-11-09 20:06:15.507126100 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "Dokumentuan ezarritako moneta ez da Europakoa!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "Zure sistema eragileak ezarrita duen hizkuntza ez da Europako Diru Batasunaren hizkuntza bat."
+diff -urN translations-old/source/fa/wizards/source/euro.po translations/source/fa/wizards/source/euro.po
+--- a/translations-old/source/fa/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/fa/wizards/source/euro.po	2014-11-09 20:06:21.115167185 +0100
+@@ -637,7 +637,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -645,6 +645,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/fi/wizards/source/euro.po translations/source/fi/wizards/source/euro.po
+--- a/translations-old/source/fi/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/fi/wizards/source/euro.po	2014-11-09 20:08:48.256220859 +0100
+@@ -636,13 +636,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "Asiakirjaan määritetty valuutta ei ole eurooppalainen valuutta!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "Käyttöjärjestelmän kielimääritys ei ole minkään EMU-alueen maan kieli."
+diff -urN translations-old/source/fr/wizards/source/euro.po translations/source/fr/wizards/source/euro.po
+--- a/translations-old/source/fr/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/fr/wizards/source/euro.po	2014-11-09 20:11:20.933267193 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "La monnaie définie pour le document ne correspond à aucun pays de l'Union Européenne !"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "La langue définie pour le système d'exploitation ne correspond à aucun pays de l'Union Monétaire Européenne."
+diff -urN translations-old/source/ga/wizards/source/euro.po translations/source/ga/wizards/source/euro.po
+--- a/translations-old/source/ga/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/ga/wizards/source/euro.po	2014-11-09 20:06:23.331183399 +0100
+@@ -635,7 +635,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -643,6 +643,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/gd/wizards/source/euro.po translations/source/gd/wizards/source/euro.po
+--- a/translations-old/source/gd/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/gd/wizards/source/euro.po	2014-11-09 20:10:02.264733820 +0100
+@@ -638,13 +638,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "Shuidhich thu airgeadra airson na sgrìobhainne nach eil 'na airgeadra Eòrpach!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "Thagh thu cànan airson an t-siostaim-obrachaidh agad nach eil 'na chànan Aonadh Airgid na Roinn-Eòrpa."
+diff -urN translations-old/source/gl/wizards/source/euro.po translations/source/gl/wizards/source/euro.po
+--- a/translations-old/source/gl/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/gl/wizards/source/euro.po	2014-11-09 20:11:17.497244146 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "A moeda definida para o documento non é unha moeda europea!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "O idioma do seu sistema operativo non é un idioma da Unión Monetaria Europea."
+diff -urN translations-old/source/gu/wizards/source/euro.po translations/source/gu/wizards/source/euro.po
+--- a/translations-old/source/gu/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/gu/wizards/source/euro.po	2014-11-09 20:07:03.479475303 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "દસ્તાવેજ માટે નાણાનો સમૂહ યુરોપીયન નાણું નથી!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "દસ્તાવેજ માટે નાણાનો સમૂહ યુરોપીયન નાણું નથી!"
+diff -urN translations-old/source/he/wizards/source/euro.po translations/source/he/wizards/source/euro.po
+--- a/translations-old/source/he/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/he/wizards/source/euro.po	2014-11-09 20:08:45.500201542 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "המטבע שנקבע במסמך אינו מטבע אירופי!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "השפה שהוגדרה למערכת ההפעלה אינה שפה ממדינות גוש האירו."
+diff -urN translations-old/source/hi/wizards/source/euro.po translations/source/hi/wizards/source/euro.po
+--- a/translations-old/source/hi/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/hi/wizards/source/euro.po	2014-11-09 20:05:40.010864443 +0100
+@@ -636,7 +636,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -644,6 +644,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/hr/wizards/source/euro.po translations/source/hr/wizards/source/euro.po
+--- a/translations-old/source/hr/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/hr/wizards/source/euro.po	2014-11-09 20:09:56.756696022 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "Valuta postavljena za dokument nije europska valuta!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "Jezik vašeg operativnog sustava nije jezik Europske monetarne unije."
+diff -urN translations-old/source/hu/wizards/source/euro.po translations/source/hu/wizards/source/euro.po
+--- a/translations-old/source/hu/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/hu/wizards/source/euro.po	2014-11-09 20:09:23.876469126 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "A dokumentumhoz rendelt pénznem nem európai pénznem!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "Az operációs rendszer nyelve nem tartozik az Európai Monetáris Unió nyelvei közé."
+diff -urN translations-old/source/id/wizards/source/euro.po translations/source/id/wizards/source/euro.po
+--- a/translations-old/source/id/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/id/wizards/source/euro.po	2014-11-09 20:06:46.583352886 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "Satuan mata uang untuk dokumen bukan mata uang Eropa!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "Set bahasa bagi sistem operasi Anda bukan bahasa Uni Eropa."
+diff -urN translations-old/source/is/wizards/source/euro.po translations/source/is/wizards/source/euro.po
+--- a/translations-old/source/is/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/is/wizards/source/euro.po	2014-11-09 20:07:26.475640928 +0100
+@@ -636,13 +636,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "Gjaldmiðillinn sem er skilgreindur fyrir skjalið er ekki evrópskur gjaldmiðill!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "Tungumálið sem stýrikerfið þitt hefur stillt tilheyrir ekki Efnahags- og myntbandalagi Evrópu (EMU)."
+diff -urN translations-old/source/it/wizards/source/euro.po translations/source/it/wizards/source/euro.po
+--- a/translations-old/source/it/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/it/wizards/source/euro.po	2014-11-09 20:08:17.184002164 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "La valuta impostata per il documento non è una valuta europea."
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "La lingua impostata per il tuo sistema operativo non è una lingua dell'Unione monetaria europea."
+diff -urN translations-old/source/ja/wizards/source/euro.po translations/source/ja/wizards/source/euro.po
+--- a/translations-old/source/ja/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/ja/wizards/source/euro.po	2014-11-09 20:08:31.348102103 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "このドキュメント用に設定されている通貨はユーロではありません。"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "お使いのオペレーティングシステムに設定されている言語は、ユーロ加盟国の言語ではありません。"
+diff -urN translations-old/source/ka/wizards/source/euro.po translations/source/ka/wizards/source/euro.po
+--- a/translations-old/source/ka/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/ka/wizards/source/euro.po	2014-11-09 20:07:31.427676445 +0100
+@@ -636,7 +636,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -644,6 +644,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/kk/wizards/source/euro.po translations/source/kk/wizards/source/euro.po
+--- a/translations-old/source/kk/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/kk/wizards/source/euro.po	2014-11-09 20:09:18.304430460 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "Бұл құжат үшін орнатылған қаржы Еуропалық емес қаржы болып тұр!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "Операциялық жүйеңіздің тілі Еуропалық Валюталық Одақ тілдерінің бірі емес."
+diff -urN translations-old/source/kl/wizards/source/euro.po translations/source/kl/wizards/source/euro.po
+--- a/translations-old/source/kl/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/kl/wizards/source/euro.po	2014-11-09 20:07:58.211867645 +0100
+@@ -636,7 +636,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -644,6 +644,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/km/wizards/source/euro.po translations/source/km/wizards/source/euro.po
+--- a/translations-old/source/km/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/km/wizards/source/euro.po	2014-11-09 21:11:30.221512698 +0100
+@@ -638,13 +638,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "សំណុំ​រូបិយប័ណ្ណ​​សម្រាប់​ឯកសារ​​នេះ មិន​មែន​ជា​រូបិយប័ណ្ណ​អឺរ៉ុប !"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "ភាសា​ដែល​បាន​កំណត់​សម្រាប់​ប្រព័ន្ធ​ប្រតិបត្តិការ​របស់​អ្នក​មិនមែន​ជា​ភាសា​របស់​សហភាព​រូបិយវត្ថុ​អឺរ៉ុប។"
+diff -urN translations-old/source/kmr-Latn/wizards/source/euro.po translations/source/kmr-Latn/wizards/source/euro.po
+--- a/translations-old/source/kmr-Latn/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/kmr-Latn/wizards/source/euro.po	2014-11-09 20:07:08.719513144 +0100
+@@ -637,7 +637,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -645,6 +645,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/kn/wizards/source/euro.po translations/source/kn/wizards/source/euro.po
+--- a/translations-old/source/kn/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/kn/wizards/source/euro.po	2014-11-09 20:08:13.527976300 +0100
+@@ -636,13 +636,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "ಡಾಕ್ಯುಮೆಂಟ್‌ಗಾಗಿ ಹೊಂದಿಸಲಾದ ಕರೆನ್ಸಿಯು ಒಂದು ಯುರೋಪಿಯನ್ ಕರೆನ್ಸಿಯಾಗಿಲ್ಲ!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "ನಿಮ್ಮ ಕಾರ್ಯಾಚರಣೆ ವ್ಯವಸ್ಥೆಗಾಗಿ ಹೊಂದಿಸಲಾದ ಭಾಷೆಯು ಯುರೋಪಿಯನ್ ಮೊನೆಟರಿ ಯುನಿಯನ್‌ನ ಭಾಷೆಯಾಗಿಲ್ಲ."
+diff -urN translations-old/source/ko/wizards/source/euro.po translations/source/ko/wizards/source/euro.po
+--- a/translations-old/source/ko/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/ko/wizards/source/euro.po	2014-11-09 20:09:41.928593966 +0100
+@@ -636,7 +636,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -644,6 +644,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/kok/wizards/source/euro.po translations/source/kok/wizards/source/euro.po
+--- a/translations-old/source/kok/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/kok/wizards/source/euro.po	2014-11-09 20:08:23.048043591 +0100
+@@ -636,7 +636,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -644,6 +644,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/ks/wizards/source/euro.po translations/source/ks/wizards/source/euro.po
+--- a/translations-old/source/ks/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/ks/wizards/source/euro.po	2014-11-09 20:08:56.228276648 +0100
+@@ -635,7 +635,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -643,6 +643,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/ky/wizards/source/euro.po translations/source/ky/wizards/source/euro.po
+--- a/translations-old/source/ky/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/ky/wizards/source/euro.po	2014-11-09 20:06:44.019334254 +0100
+@@ -635,7 +635,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -643,6 +643,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/lb/wizards/source/euro.po translations/source/lb/wizards/source/euro.po
+--- a/translations-old/source/lb/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/lb/wizards/source/euro.po	2014-11-09 20:08:28.452081703 +0100
+@@ -637,7 +637,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -645,6 +645,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/lo/wizards/source/euro.po translations/source/lo/wizards/source/euro.po
+--- a/translations-old/source/lo/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/lo/wizards/source/euro.po	2014-11-09 20:11:06.821172395 +0100
+@@ -636,7 +636,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -644,6 +644,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/lt/wizards/source/euro.po translations/source/lt/wizards/source/euro.po
+--- a/translations-old/source/lt/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/lt/wizards/source/euro.po	2014-11-09 20:06:55.019414086 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr "Lietuvos Litas"
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "Dokumentui nustatyta valiuta nėra Europos valiuta!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "Operacinės sistemos kalba nėra Europos pinigų sąjungos kalba."
+diff -urN translations-old/source/lv/wizards/source/euro.po translations/source/lv/wizards/source/euro.po
+--- a/translations-old/source/lv/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/lv/wizards/source/euro.po	2014-11-09 20:05:36.622839321 +0100
+@@ -636,13 +636,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "Dokumentā iestatītā valūta nav Eiropas valūta!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "Jūsu sistēmā iestatītā valoda nav Eiropas monetārās savienības valoda."
+diff -urN translations-old/source/mai/wizards/source/euro.po translations/source/mai/wizards/source/euro.po
+--- a/translations-old/source/mai/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/mai/wizards/source/euro.po	2014-11-09 20:08:20.500025599 +0100
+@@ -635,7 +635,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -643,6 +643,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/mk/wizards/source/euro.po translations/source/mk/wizards/source/euro.po
+--- a/translations-old/source/mk/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/mk/wizards/source/euro.po	2014-11-09 20:10:58.333115191 +0100
+@@ -636,7 +636,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -644,6 +644,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/ml/wizards/source/euro.po translations/source/ml/wizards/source/euro.po
+--- a/translations-old/source/ml/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/ml/wizards/source/euro.po	2014-11-09 20:06:07.075064199 +0100
+@@ -636,7 +636,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -644,6 +644,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/mn/wizards/source/euro.po translations/source/mn/wizards/source/euro.po
+--- a/translations-old/source/mn/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/mn/wizards/source/euro.po	2014-11-09 20:10:40.904997304 +0100
+@@ -636,7 +636,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -644,6 +644,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/mni/wizards/source/euro.po translations/source/mni/wizards/source/euro.po
+--- a/translations-old/source/mni/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/mni/wizards/source/euro.po	2014-11-09 20:06:09.811084302 +0100
+@@ -636,13 +636,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "দোকুমেন্ত অসিগী সেত তৌরিবা করেন্সি অসি ইউরোপিযান করেন্সি নত্তে!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+diff -urN translations-old/source/mr/wizards/source/euro.po translations/source/mr/wizards/source/euro.po
+--- a/translations-old/source/mr/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/mr/wizards/source/euro.po	2014-11-09 20:10:13.212808772 +0100
+@@ -636,7 +636,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -644,6 +644,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/my/wizards/source/euro.po translations/source/my/wizards/source/euro.po
+--- a/translations-old/source/my/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/my/wizards/source/euro.po	2014-11-09 20:10:05.604756712 +0100
+@@ -635,7 +635,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -643,6 +643,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/nb/wizards/source/euro.po translations/source/nb/wizards/source/euro.po
+--- a/translations-old/source/nb/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/nb/wizards/source/euro.po	2014-11-09 20:06:58.243437434 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "Valutaen som er valgt for dokumentet er ikke en europeisk valuta."
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "Språket som er valgt i operativsystemet er ikke et språk i den europeiske pengeunionen."
+diff -urN translations-old/source/ne/wizards/source/euro.po translations/source/ne/wizards/source/euro.po
+--- a/translations-old/source/ne/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/ne/wizards/source/euro.po	2014-11-09 20:09:06.496348313 +0100
+@@ -636,7 +636,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -644,6 +644,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/nl/wizards/source/euro.po translations/source/nl/wizards/source/euro.po
+--- a/translations-old/source/nl/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/nl/wizards/source/euro.po	2014-11-09 20:10:55.177093886 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "De voor het document opgegeven valuta is geen Europese valuta!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "De ingestelde taal voor uw besturingssysteem is geen taal van de Europese Monetaire Unie."
+diff -urN translations-old/source/nn/wizards/source/euro.po translations/source/nn/wizards/source/euro.po
+--- a/translations-old/source/nn/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/nn/wizards/source/euro.po	2014-11-09 20:08:53.908260426 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "Valutaen som er vald for dokumentet er ingen EU-valuta."
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "Språket som er sett opp på operativsystemet er ikkje eit språk i den europeiske pengeunionen."
+diff -urN translations-old/source/nr/wizards/source/euro.po translations/source/nr/wizards/source/euro.po
+--- a/translations-old/source/nr/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/nr/wizards/source/euro.po	2014-11-09 20:06:28.187218893 +0100
+@@ -635,7 +635,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -643,6 +643,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/nso/wizards/source/euro.po translations/source/nso/wizards/source/euro.po
+--- a/translations-old/source/nso/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/nso/wizards/source/euro.po	2014-11-09 20:07:00.855456333 +0100
+@@ -636,7 +636,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -644,6 +644,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/oc/wizards/source/euro.po translations/source/oc/wizards/source/euro.po
+--- a/translations-old/source/oc/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/oc/wizards/source/euro.po	2014-11-09 20:09:36.272554922 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "La moneda definida pel document es pas una moneda europèa!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "La lenga definica pel sistèma operatiu correspond pas a cap de país de l'Union Monetària Europèa."
+diff -urN translations-old/source/om/wizards/source/euro.po translations/source/om/wizards/source/euro.po
+--- a/translations-old/source/om/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/om/wizards/source/euro.po	2014-11-09 20:08:04.663913477 +0100
+@@ -635,7 +635,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -643,6 +643,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/or/wizards/source/euro.po translations/source/or/wizards/source/euro.po
+--- a/translations-old/source/or/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/or/wizards/source/euro.po	2014-11-09 20:05:46.790914640 +0100
+@@ -636,7 +636,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -644,6 +644,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/pa-IN/wizards/source/euro.po translations/source/pa-IN/wizards/source/euro.po
+--- a/translations-old/source/pa-IN/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/pa-IN/wizards/source/euro.po	2014-11-09 20:10:46.009031890 +0100
+@@ -636,7 +636,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -644,6 +644,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/pl/wizards/source/euro.po translations/source/pl/wizards/source/euro.po
+--- a/translations-old/source/pl/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/pl/wizards/source/euro.po	2014-11-09 20:11:04.473156585 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "Język, ustawiony dla dokumentu nie językiem żadnego z krajów Europejskiej Unii Walutowej!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "Język ustawiony w systemie operacyjnym nie jest językiem żadnego z krajów Europejskiej Unii Walutowej."
+diff -urN translations-old/source/pt/wizards/source/euro.po translations/source/pt/wizards/source/euro.po
+--- a/translations-old/source/pt/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/pt/wizards/source/euro.po	2014-11-09 20:05:32.422808141 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "A moeda definida no documento não é uma moeda europeia!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "O idioma definido no seu sistema operativo não é um idioma pertencente à União Económica e Monetária."
+diff -urN translations-old/source/pt-BR/wizards/source/euro.po translations/source/pt-BR/wizards/source/euro.po
+--- a/translations-old/source/pt-BR/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/pt-BR/wizards/source/euro.po	2014-11-09 20:07:29.015659152 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "A moeda definida para o documento não é uma moeda europeia!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "O idioma definido para seu sistema operacional não é um idioma da União Monetária Europeia."
+diff -urN translations-old/source/ro/wizards/source/euro.po translations/source/ro/wizards/source/euro.po
+--- a/translations-old/source/ro/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/ro/wizards/source/euro.po	2014-11-09 20:11:14.217222125 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "Limba aleasă pentru sistemul de operare nu este o limbă a Uniunii Monetare Europene."
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "Limba selectată pentru sistemul de operare nu este o limbă a Uniuni Europene Monetare."
+diff -urN translations-old/source/ru/wizards/source/euro.po translations/source/ru/wizards/source/euro.po
+--- a/translations-old/source/ru/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/ru/wizards/source/euro.po	2014-11-09 20:09:21.304451287 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "Установленная для этого документа валюта не является Европейской валютой!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "Язык, установленный для вашей операционной системы, является языком страны, не входящей в Европейский Экономический Союз (ЕЭС)."
+diff -urN translations-old/source/rw/wizards/source/euro.po translations/source/rw/wizards/source/euro.po
+--- a/translations-old/source/rw/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/rw/wizards/source/euro.po	2014-11-09 20:09:03.860329935 +0100
+@@ -635,7 +635,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -643,6 +643,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/sa-IN/wizards/source/euro.po translations/source/sa-IN/wizards/source/euro.po
+--- a/translations-old/source/sa-IN/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/sa-IN/wizards/source/euro.po	2014-11-09 20:11:01.305135235 +0100
+@@ -636,13 +636,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "मुद्रा यत् स्थापिता न सा ऐरोपियमुद्रा"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+diff -urN translations-old/source/sat/wizards/source/euro.po translations/source/sat/wizards/source/euro.po
+--- a/translations-old/source/sat/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/sat/wizards/source/euro.po	2014-11-09 20:07:37.767721841 +0100
+@@ -636,13 +636,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "दोलिल ला़गित् कौड़ी साजाव दो इरोपियान कैड़ी टाका बाङ काना !"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "आमाक् का़मी सेस्टेम ला़गित् पा़रसी साजाव दो इरोपियान मोनेटरी युनियान रेयाक् पा़रसी बाङ काना ."
+diff -urN translations-old/source/sd/wizards/source/euro.po translations/source/sd/wizards/source/euro.po
+--- a/translations-old/source/sd/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/sd/wizards/source/euro.po	2014-11-09 20:07:23.139616971 +0100
+@@ -636,13 +636,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "دستاويز لاءِ ڪرنسيءَ جو سيٽ يوروپي ڪرنسي ناهي!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "توهانجي ڪارروائيءَ جي سرشتي لاءِ ٻوليءَ جو سيٽ يوروپي مانيٽري يونين جي ٻولي ناهي۔"
+diff -urN translations-old/source/si/wizards/source/euro.po translations/source/si/wizards/source/euro.po
+--- a/translations-old/source/si/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/si/wizards/source/euro.po	2014-11-09 20:05:49.990938295 +0100
+@@ -636,7 +636,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -644,6 +644,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/sid/wizards/source/euro.po translations/source/sid/wizards/source/euro.po
+--- a/translations-old/source/sid/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/sid/wizards/source/euro.po	2014-11-09 20:08:25.672062104 +0100
+@@ -638,7 +638,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -646,6 +646,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/sk/wizards/source/euro.po translations/source/sk/wizards/source/euro.po
+--- a/translations-old/source/sk/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/sk/wizards/source/euro.po	2014-11-09 20:09:14.952407169 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "Mena použitá v dokumente nie je menou používanou v Európskej únii!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "Jazyk vášho operačného systému nie je jazykom používaným v Európskej menovej únii."
+diff -urN translations-old/source/sl/wizards/source/euro.po translations/source/sl/wizards/source/euro.po
+--- a/translations-old/source/sl/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/sl/wizards/source/euro.po	2014-11-09 20:06:34.623265856 +0100
+@@ -638,13 +638,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "Nastavljena valuta za dokument ni evropska valuta!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "Nastavljeni jezik za operacijski sistem ne sodi med jezike Evropske denarne unije."
+diff -urN translations-old/source/sq/wizards/source/euro.po translations/source/sq/wizards/source/euro.po
+--- a/translations-old/source/sq/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/sq/wizards/source/euro.po	2014-11-09 20:08:51.496243548 +0100
+@@ -640,7 +640,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -648,6 +648,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/sr/wizards/source/euro.po translations/source/sr/wizards/source/euro.po
+--- a/translations-old/source/sr/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/sr/wizards/source/euro.po	2014-11-09 20:05:43.158887763 +0100
+@@ -631,11 +631,19 @@
+ msgstr ""
+ 
+ #: euro.src
+-#, fuzzy
+ msgctxt ""
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++#, fuzzy
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "Валута подешена за овај документ није европска валута!"
+ 
+@@ -643,7 +651,7 @@
+ #, fuzzy
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "Језик подешен на вашем оперативном систему није језик Европске монетарне заједнице."
+diff -urN translations-old/source/sr-Latn/wizards/source/euro.po translations/source/sr-Latn/wizards/source/euro.po
+--- a/translations-old/source/sr-Latn/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/sr-Latn/wizards/source/euro.po	2014-11-09 20:06:18.247146183 +0100
+@@ -631,11 +631,19 @@
+ msgstr ""
+ 
+ #: euro.src
+-#, fuzzy
+ msgctxt ""
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++#, fuzzy
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "Valuta podešena za ovaj dokument nije evropska valuta!"
+ 
+@@ -643,7 +651,7 @@
+ #, fuzzy
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "Jezik podešen na vašem operativnom sistemu nije jezik Evropske monetarne zajednice."
+diff -urN translations-old/source/ss/wizards/source/euro.po translations/source/ss/wizards/source/euro.po
+--- a/translations-old/source/ss/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/ss/wizards/source/euro.po	2014-11-09 20:10:36.744969077 +0100
+@@ -635,7 +635,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -643,6 +643,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/st/wizards/source/euro.po translations/source/st/wizards/source/euro.po
+--- a/translations-old/source/st/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/st/wizards/source/euro.po	2014-11-09 20:06:51.927391672 +0100
+@@ -636,7 +636,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -644,6 +644,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/sv/wizards/source/euro.po translations/source/sv/wizards/source/euro.po
+--- a/translations-old/source/sv/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/sv/wizards/source/euro.po	2014-11-09 20:07:20.031594631 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "Valutan för dokumentet är inte europeisk!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "Språket på ditt operativsystem är inte ett språk i den Europeiska valutaunion."
+diff -urN translations-old/source/sw-TZ/wizards/source/euro.po translations/source/sw-TZ/wizards/source/euro.po
+--- a/translations-old/source/sw-TZ/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/sw-TZ/wizards/source/euro.po	2014-11-09 20:09:26.308485984 +0100
+@@ -635,7 +635,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -643,6 +643,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/ta/wizards/source/euro.po translations/source/ta/wizards/source/euro.po
+--- a/translations-old/source/ta/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/ta/wizards/source/euro.po	2014-11-09 20:06:37.855289405 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "ஆவணத்தின் நாணயக் கோவை ஐரோப்பிய நாணயமல்ல!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "இயங்கு தளத்திற்கு அமைத்த மொழி ஐரோப்பிய நிதி கூட்டமைப்பின் மொழித்தொகுப்பில் இல்லை."
+diff -urN translations-old/source/te/wizards/source/euro.po translations/source/te/wizards/source/euro.po
+--- a/translations-old/source/te/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/te/wizards/source/euro.po	2014-11-09 20:05:56.526986541 +0100
+@@ -637,7 +637,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -645,6 +645,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/tg/wizards/source/euro.po translations/source/tg/wizards/source/euro.po
+--- a/translations-old/source/tg/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/tg/wizards/source/euro.po	2014-11-09 20:06:12.423103479 +0100
+@@ -636,7 +636,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -644,6 +644,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/th/wizards/source/euro.po translations/source/th/wizards/source/euro.po
+--- a/translations-old/source/th/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/th/wizards/source/euro.po	2014-11-09 20:10:10.836792526 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "ภาษาของระบบปฏิบัติการของคุณไม่ใช่ภาษาของสหภาพสกุลเงินยุโรป"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+diff -urN translations-old/source/tn/wizards/source/euro.po translations/source/tn/wizards/source/euro.po
+--- a/translations-old/source/tn/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/tn/wizards/source/euro.po	2014-11-09 20:06:31.815245377 +0100
+@@ -635,7 +635,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -643,6 +643,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/tr/wizards/source/euro.po translations/source/tr/wizards/source/euro.po
+--- a/translations-old/source/tr/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/tr/wizards/source/euro.po	2014-11-09 20:06:02.247028683 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "Belge için seçilmiş birim bir Avrupa para birimi değildir.!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "İşletim sisteminizin dili Avrupa Para Birliği'nin bir dili değil."
+diff -urN translations-old/source/ts/wizards/source/euro.po translations/source/ts/wizards/source/euro.po
+--- a/translations-old/source/ts/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/ts/wizards/source/euro.po	2014-11-09 20:07:34.687699798 +0100
+@@ -635,7 +635,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -643,6 +643,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/tt/wizards/source/euro.po translations/source/tt/wizards/source/euro.po
+--- a/translations-old/source/tt/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/tt/wizards/source/euro.po	2014-11-09 20:08:42.656181591 +0100
+@@ -636,7 +636,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -644,6 +644,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/ug/wizards/source/euro.po translations/source/ug/wizards/source/euro.po
+--- a/translations-old/source/ug/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/ug/wizards/source/euro.po	2014-11-09 20:08:34.220122316 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "پۈتۈككە تەڭشىگەن پۇل بىرلىكى ياۋروپا پۇل بىرلىكى ئەمەس!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "مەشغۇلات سىستېمىسىنىڭ تىل تەڭشىكى ياۋروپا پۇل ئىتتىپاقىدىكى تىللارنىڭ بىرى ئەمەسكەن."
+diff -urN translations-old/source/uk/wizards/source/euro.po translations/source/uk/wizards/source/euro.po
+--- a/translations-old/source/uk/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/uk/wizards/source/euro.po	2014-11-09 20:11:23.973287565 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "Вказана для цього документа валюта не є європейською валютою!"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "Мова, встановлена для вашої операційної системи, є мовою країни, що не входить в Європейський Економічний Союз (ЄЕС)."
+diff -urN translations-old/source/ur/wizards/source/euro.po translations/source/ur/wizards/source/euro.po
+--- a/translations-old/source/ur/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/ur/wizards/source/euro.po	2014-11-09 20:05:59.395007680 +0100
+@@ -635,7 +635,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -643,6 +643,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/uz/wizards/source/euro.po translations/source/uz/wizards/source/euro.po
+--- a/translations-old/source/uz/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/uz/wizards/source/euro.po	2014-11-09 20:08:07.315932290 +0100
+@@ -635,7 +635,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -643,6 +643,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/ve/wizards/source/euro.po translations/source/ve/wizards/source/euro.po
+--- a/translations-old/source/ve/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/ve/wizards/source/euro.po	2014-11-09 20:10:31.328932279 +0100
+@@ -636,7 +636,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -644,6 +644,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/vi/wizards/source/euro.po translations/source/vi/wizards/source/euro.po
+--- a/translations-old/source/vi/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/vi/wizards/source/euro.po	2014-11-09 20:08:10.367953923 +0100
+@@ -636,7 +636,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -644,6 +644,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/xh/wizards/source/euro.po translations/source/xh/wizards/source/euro.po
+--- a/translations-old/source/xh/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/xh/wizards/source/euro.po	2014-11-09 20:10:08.028773311 +0100
+@@ -635,7 +635,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -643,6 +643,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 
+diff -urN translations-old/source/zh-CN/wizards/source/euro.po translations/source/zh-CN/wizards/source/euro.po
+--- a/translations-old/source/zh-CN/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/zh-CN/wizards/source/euro.po	2014-11-09 20:07:40.111738603 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "该文档中设置的货币不是欧洲货币！"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "您操作系统的语言不是欧洲货币联盟的语言。"
+diff -urN translations-old/source/zh-TW/wizards/source/euro.po translations/source/zh-TW/wizards/source/euro.po
+--- a/translations-old/source/zh-TW/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/zh-TW/wizards/source/euro.po	2014-11-09 20:08:39.628160333 +0100
+@@ -637,13 +637,21 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
++msgid "Lithuanian Litas"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 19\n"
++"string.text"
+ msgid "The currency set for the document is not a European currency!"
+ msgstr "為文件設定的貨幣不是歐元！"
+ 
+ #: euro.src
+ msgctxt ""
+ "euro.src\n"
+-"CURRENCIES + 19\n"
++"CURRENCIES + 20\n"
+ "string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr "您作業系統的語言設定並非歐洲貨幣聯盟中的語言之一。"
+diff -urN translations-old/source/zu/wizards/source/euro.po translations/source/zu/wizards/source/euro.po
+--- a/translations-old/source/zu/wizards/source/euro.po	2014-10-23 13:32:48.000000000 +0200
++++ b/translations/source/zu/wizards/source/euro.po	2014-11-09 20:08:02.067895047 +0100
+@@ -636,7 +636,7 @@
+ "euro.src\n"
+ "CURRENCIES + 18\n"
+ "string.text"
+-msgid "The currency set for the document is not a European currency!"
++msgid "Lithuanian Litas"
+ msgstr ""
+ 
+ #: euro.src
+@@ -644,6 +644,14 @@
+ "euro.src\n"
+ "CURRENCIES + 19\n"
+ "string.text"
++msgid "The currency set for the document is not a European currency!"
++msgstr ""
++
++#: euro.src
++msgctxt ""
++"euro.src\n"
++"CURRENCIES + 20\n"
++"string.text"
+ msgid "The language set for your operating system is not a language of the European Monetary Union."
+ msgstr ""
+ 

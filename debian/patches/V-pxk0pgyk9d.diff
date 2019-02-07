@@ -1,0 +1,91 @@
+From eef71d6a9fdbda67affadb46534fcde4b2dbdb0d Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?Caol=C3=A1n=20McNamara?= <caolanm@redhat.com>
+Date: Wed, 9 Dec 2015 11:56:52 +0000
+Subject: [PATCH 1/2] guard against corrupt ObjIndexData
+
+Change-Id: I214991e5d34c8e335cdd8ea482f8fa4913ba637b
+(cherry picked from commit c88a23b9d44118e96de41a70ab7f87eb0aafb126)
+Reviewed-on: https://gerrit.libreoffice.org/20502
+Reviewed-by: David Tardon <dtardon@redhat.com>
+Tested-by: David Tardon <dtardon@redhat.com>
+---
+ lotuswordpro/source/filter/lwpidxmgr.cxx  | 2 +-
+ lotuswordpro/source/filter/lwpobjstrm.cxx | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/lotuswordpro/source/filter/lwpidxmgr.cxx b/lotuswordpro/source/filter/lwpidxmgr.cxx
+index 07ea4a1..3cc70da 100644
+--- a/lotuswordpro/source/filter/lwpidxmgr.cxx
++++ b/lotuswordpro/source/filter/lwpidxmgr.cxx
+@@ -212,7 +212,7 @@ void LwpIndexManager::ReadObjIndexData(LwpObjectStream* pObjStrm)
+             vObjIndexs[k]->offset = pObjStrm->QuickReaduInt32();
+ 
+         for (k = 0; k < LeafCount; k++)
+-            m_TempVec[k] = pObjStrm->QuickReaduInt32();
++            m_TempVec.at(k) = pObjStrm->QuickReaduInt32();
+     }
+ 
+     for( sal_uInt16 j=0; j<LeafCount; j++ )
+diff --git a/lotuswordpro/source/filter/lwpobjstrm.cxx b/lotuswordpro/source/filter/lwpobjstrm.cxx
+index 312ae67..cd7001f 100644
+--- a/lotuswordpro/source/filter/lwpobjstrm.cxx
++++ b/lotuswordpro/source/filter/lwpobjstrm.cxx
+@@ -170,7 +170,7 @@ sal_uInt16 LwpObjectStream::QuickRead(void* buf, sal_uInt16 len)
+     memset(buf, 0, len);
+     if( len > m_nBufSize - m_nReadPos )
+     {
+-        assert(false);
++        SAL_WARN("lwp", "read request longer than buffer");
+         len = m_nBufSize - m_nReadPos;
+     }
+     if( m_pContentBuf && len)
+-- 
+2.1.4
+
+From 4070e18e6da9bfb40086c8a2e77bab9dc1a9bc03 Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?Caol=C3=A1n=20McNamara?= <caolanm@redhat.com>
+Date: Wed, 9 Dec 2015 11:28:52 +0000
+Subject: [PATCH 2/2] guard against corrupt RootData
+
+Change-Id: Iad2788a7e5e7ee3b3107eab37cde2d3d38eae005
+(cherry picked from commit fc943ea85a7924ce0552b08eef99ed8e02f0b965)
+Reviewed-on: https://gerrit.libreoffice.org/20496
+Reviewed-by: David Tardon <dtardon@redhat.com>
+Tested-by: David Tardon <dtardon@redhat.com>
+---
+ lotuswordpro/source/filter/lwpidxmgr.cxx  | 5 ++++-
+ lotuswordpro/source/filter/lwptabrack.cxx | 2 +-
+ 2 files changed, 5 insertions(+), 2 deletions(-)
+
+diff --git a/lotuswordpro/source/filter/lwpidxmgr.cxx b/lotuswordpro/source/filter/lwpidxmgr.cxx
+index 3cc70da..43208ab 100644
+--- a/lotuswordpro/source/filter/lwpidxmgr.cxx
++++ b/lotuswordpro/source/filter/lwpidxmgr.cxx
+@@ -154,7 +154,10 @@ void LwpIndexManager::ReadRootData(LwpObjectStream* pObjStrm)
+     sal_uInt16 KeyCount = pObjStrm->QuickReaduInt16();
+     m_nLeafCount = KeyCount ? KeyCount + 1 : 0;
+ 
+-    if(KeyCount)
++    if (m_nLeafCount > SAL_N_ELEMENTS(m_ChildIndex))
++        throw std::range_error("corrupt RootData");
++
++    if (KeyCount)
+     {
+         //read object keys
+         LwpKey* akey = new LwpKey();
+diff --git a/lotuswordpro/source/filter/lwptabrack.cxx b/lotuswordpro/source/filter/lwptabrack.cxx
+index ab8ab3c..c288bb0 100644
+--- a/lotuswordpro/source/filter/lwptabrack.cxx
++++ b/lotuswordpro/source/filter/lwptabrack.cxx
+@@ -90,7 +90,7 @@ void LwpTabRack::Read()
+ 
+     m_nNumTabs = m_pObjStrm->QuickReaduInt16();
+     if (m_nNumTabs > MaxTabs)
+-        throw std::out_of_range("corrupt LwpTabRack");
++        throw std::range_error("corrupt LwpTabRack");
+     for (int i=0; i<m_nNumTabs; ++i)
+     {
+         m_aTabs[i].Read(m_pObjStrm);
+-- 
+2.1.4
+
