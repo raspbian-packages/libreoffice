@@ -33,6 +33,9 @@ Module gid_Module_Optional_Gnome
 #if (defined ENABLE_GNOMEVFS && defined ENABLE_LOCKDOWN) || defined ENABLE_GIO
       gid_File_Share_Registry_Gnome_Xcd,
 #endif
+#ifdef ENABLE_EVOAB2
+     gid_File_Share_Registry_Evoab_Xcd,
+#endif
       gid_File_Bin_Gnome_Open_Url,
       gid_File_Bin_Gnome_Open_Url_Bin,
       gid_File_Bin_XidFullscreen
