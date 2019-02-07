@@ -254,6 +254,8 @@ gb_GLOBALDEFS += \
 		ENABLE_LTO \
 	)
 
+gb_GLOBALDEFS += $(HARDEN_CPPFLAGS)
+
 gb_GLOBALDEFS := $(sort $(gb_GLOBALDEFS))
 
 include $(GBUILDDIR)/Deliver.mk
