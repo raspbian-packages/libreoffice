@@ -1,0 +1,39 @@
+Package: libreoffice-presenter-console
+Section: oldlibs
+Priority: extra
+Architecture: all
+Depends: libreoffice-impress (>= 1:4.0.0)
+Description: transitional package for the LibreOffice presenter console
+ This package used to contain the LibreOffice presenter console. It has been
+ integrated with LibreOffice Impress 4.0. You can safely remove this package.
+
+Package: libreoffice-presentation-minimizer
+Section: oldlibs
+Priority: extra
+Architecture: all
+Depends: libreoffice-impress (>= 1:4.2.0~)
+Description: transitional package for the LibreOffice presentation minimizer
+ This package used to contain the LibreOffice presentation minimizer. It has been
+ integrated with LibreOffice Impress 4.2. You can safely remove this package.
+
+Package: libreoffice-emailmerge
+Architecture: all
+Depends: libreoffice-common (>= 1:4.0.2~rc1)
+Section: oldlibs
+Priority: extra
+Description: transitional package for LibreOffices email mail merge
+ This package used to contain the email merge module for LibreOffice. It has
+ been integrated in libreoffice-common now.You can safely remove this
+ package.
+
+Package: libreoffice-l10n-ku
+Architecture: all
+Depends: libreoffice-l10n-kmr
+Section: oldlibs
+Priority: extra
+Description: transitional package for LibreOffice Kurdish l10n
+ ku ("Kurdish") was renamed in LO 4.2 to kmr-Latn ("Kumanji"). This package is
+ a transitional package to easy transition to -l10n-kmr.
+ .
+ You can safely remove this package if -l10n-kmr is installed.
+

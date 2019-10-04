@@ -1,0 +1,33 @@
+From 4478218df5c4af87c8d242b296bf085e432353b3 Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?Caol=C3=A1n=20McNamara?= <caolanm@redhat.com>
+Date: Wed, 7 Aug 2019 12:58:01 +0100
+Subject: expand pyuno path separators
+
+Change-Id: Ic97649ed6d4be595b308922c7bdc880cbb60b239
+Reviewed-on: https://gerrit.libreoffice.org/77102
+Reviewed-by: Michael Stahl <Michael.Stahl@cib.de>
+Tested-by: Jenkins
+Reviewed-by: Stephan Bergmann <sbergman@redhat.com>
+(cherry picked from commit 75903a0298218f89a199a5ac151ee0166f4469d7)
+Reviewed-on: https://gerrit.libreoffice.org/77116
+---
+ sfx2/source/doc/objmisc.cxx | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/sfx2/source/doc/objmisc.cxx b/sfx2/source/doc/objmisc.cxx
+index e999557..ab41b14 100644
+--- a/sfx2/source/doc/objmisc.cxx
++++ b/sfx2/source/doc/objmisc.cxx
+@@ -1360,7 +1360,8 @@ bool SfxObjectShell::UnTrustedScript(const OUString& rScriptURL)
+     if (!sfUri.is())
+         return false;
+ 
+-    OUString sScript = sfUri->getName();
++    // pyuno encodes path separator as |
++    OUString sScript = sfUri->getName().replace('|', '/');
+ 
+     // check if any path portion matches LibreLogo and ban it if it does
+     sal_Int32 nIndex = 0;
+-- 
+cgit v1.1
+

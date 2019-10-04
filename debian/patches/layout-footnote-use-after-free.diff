@@ -1,0 +1,97 @@
+From c7782c7c27d85866872cc24a618df02504ff12ca Mon Sep 17 00:00:00 2001
+From: Michael Stahl <mstahl@redhat.com>
+Date: Thu, 22 Jun 2017 10:39:36 +0200
+Subject: tdf#101821 sw: fix layout footnote use-after-free in SwRootFrame
+
+The ClearSwLayouterEntries() accesses anchored objects and if they are
+anchored in footnotes then RemoveFootnotes() has already deleted them.
+
+(regression from 962d0500c4debaef43e5f146e47e08c66d851562)
+
+Invalid write of size 1
+   at 0x4143CCB3: SwAnchoredObject::SetTmpConsiderWrapInfluence(bool) (anchoredobject.cxx:739)
+   by 0x414D8A21: SwObjsMarkedAsTmpConsiderWrapInfluence::Clear() (objstmpconsiderwrapinfl.cxx:58)
+   by 0x414C943E: SwLayouter::ClearObjsTmpConsiderWrapInfluence(SwDoc const&) (layouter.cxx:401)
+   by 0x411DBE57: sw::DocumentLayoutManager::ClearSwLayouterEntries() (DocumentLayoutManager.cxx:504)
+   by 0x414D05D9: SwRootFrame::DestroyImpl() (newfrm.cxx:594)
+   by 0x41535AB3: SwFrame::DestroyFrame(SwFrame*) (ssfrm.cxx:389)
+   by 0x419E8171: std::_Sp_counted_deleter<SwRootFrame*, void (*)(SwFrame*), std::allocator<void>, (__gnu_cxx::_Lock_policy)2>::_M_dispose() (shared_ptr_base.h:464)
+   by 0x40EB6DB5: std::_Sp_counted_base<(__gnu_cxx::_Lock_policy)2>::_M_release() (shared_ptr_base.h:150)
+   by 0x40EB5E76: std::__shared_count<(__gnu_cxx::_Lock_policy)2>::~__shared_count() (shared_ptr_base.h:662)
+   by 0x419E65F9: std::__shared_ptr<SwRootFrame, (__gnu_cxx::_Lock_policy)2>::~__shared_ptr() (shared_ptr_base.h:928)
+   by 0x419E6615: std::shared_ptr<SwRootFrame>::~shared_ptr() (shared_ptr.h:93)
+   by 0x419E619D: SwViewShell::~SwViewShell() (vnew.cxx:285)
+  Address 0x5feb6eee is 334 bytes inside a block of size 488 free'd
+   at 0x4C2F21A: operator delete(void*) (vg_replace_malloc.c:576)
+   by 0x41488962: SwFlyAtContentFrame::~SwFlyAtContentFrame() (flyfrms.hxx:134)
+   by 0x41535AFC: SwFrame::DestroyFrame(SwFrame*) (ssfrm.cxx:391)
+   by 0x415360BD: SwLayoutFrame::DestroyImpl() (ssfrm.cxx:477)
+   by 0x41535AB3: SwFrame::DestroyFrame(SwFrame*) (ssfrm.cxx:389)
+   by 0x414A2FF4: sw_RemoveFootnotes(SwFootnoteBossFrame*, bool, bool) (ftnfrm.cxx:852)
+   by 0x414A3104: sw_RemoveFootnotes(SwFootnoteBossFrame*, bool, bool) (ftnfrm.cxx:874)
+   by 0x414A321A: SwRootFrame::RemoveFootnotes(SwPageFrame*, bool, bool) (ftnfrm.cxx:897)
+   by 0x414D0558: SwRootFrame::DestroyImpl() (newfrm.cxx:585)
+   by 0x41535AB3: SwFrame::DestroyFrame(SwFrame*) (ssfrm.cxx:389)
+   by 0x419E8171: std::_Sp_counted_deleter<SwRootFrame*, void (*)(SwFrame*), std::allocator<void>, (__gnu_cxx::_Lock_policy)2>::_M_dispose() (shared_ptr_base.h:464)
+   by 0x40EB6DB5: std::_Sp_counted_base<(__gnu_cxx::_Lock_policy)2>::_M_release() (shared_ptr_base.h:150)
+   by 0x40EB5E76: std::__shared_count<(__gnu_cxx::_Lock_policy)2>::~__shared_count() (shared_ptr_base.h:662)
+   by 0x419E65F9: std::__shared_ptr<SwRootFrame, (__gnu_cxx::_Lock_policy)2>::~__shared_ptr() (shared_ptr_base.h:928)
+   by 0x419E6615: std::shared_ptr<SwRootFrame>::~shared_ptr() (shared_ptr.h:93)
+   by 0x419E619D: SwViewShell::~SwViewShell() (vnew.cxx:285)
+
+Change-Id: I147f46d49c90de46189ad34feed66c289adddc15
+---
+ sw/source/core/layout/newfrm.cxx | 24 ++++++++++++++----------
+ 1 file changed, 14 insertions(+), 10 deletions(-)
+
+diff --git a/sw/source/core/layout/newfrm.cxx b/sw/source/core/layout/newfrm.cxx
+index 0d5bd8590921..f93752fb1fdd 100644
+--- a/sw/source/core/layout/newfrm.cxx
++++ b/sw/source/core/layout/newfrm.cxx
+@@ -563,16 +563,6 @@ SwRootFrm::~SwRootFrm()
+ {
+     bTurboAllowed = false;
+     pTurbo = 0;
+-    // fdo#39510 crash on document close with footnotes
+-    // Object ownership in writer and esp. in layout are a mess: Before the
+-    // document/layout split SwDoc and SwRootFrm were essentially one object
+-    // and magically/uncleanly worked around their common destruction by call
+-    // to SwDoc::IsInDtor() -- even from the layout. As of now destuction of
+-    // the layout proceeds forward through the frames. Since SwTxtFtn::DelFrms
+-    // also searches backwards to find the master of footnotes, they must be
+-    // considered to be owned by the SwRootFrm and also be destroyed here,
+-    // before tearing down the (now footnote free) rest of the layout.
+-    RemoveFtns(0, false, true);
+ 
+     if(pBlink)
+         pBlink->FrmDelete( this );
+@@ -581,8 +571,11 @@ SwRootFrm::~SwRootFrm()
+     {
+         SwDoc *pDoc = pRegisteredInNonConst->GetDoc();
+         pDoc->DelFrmFmt( pRegisteredInNonConst );
++	// do this before calling RemoveFtns because footnotes
++	// can contain anchored objects
+         pDoc->ClearSwLayouterEntries();
+     }
++
+     delete pDestroy;
+     pDestroy = 0;
+ 
+@@ -596,6 +589,17 @@ SwRootFrm::~SwRootFrm()
+     // Some accessible shells are left => problems on second SwFrm::Destroy call
+     assert(0 == nAccessibleShells);
+ 
++    // fdo#39510 crash on document close with footnotes
++    // Object ownership in writer and esp. in layout are a mess: Before the
++    // document/layout split SwDoc and SwRootFrm were essentially one object
++    // and magically/uncleanly worked around their common destruction by call
++    // to SwDoc::IsInDtor() -- even from the layout. As of now destuction of
++    // the layout proceeds forward through the frames. Since SwTxtFtn::DelFrms
++    // also searches backwards to find the master of footnotes, they must be
++    // considered to be owned by the SwRootFrm and also be destroyed here,
++    // before tearing down the (now footnote free) rest of the layout.
++    RemoveFtns(0, false, true);
++
+     // manually call base classes Destroy because it could call stuff
+     // that accesses members of this
+     SwLayoutFrm::Destroy();
