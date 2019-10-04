@@ -16,21 +16,6 @@
 #   the License at http://www.apache.org/licenses/LICENSE-2.0 .
 #
 # i84653 -o sc.ScPageObj
-# i84554 -o sc.AccessibleEditableTextPara_PreviewNote
-# i88241 -o sc.AccessibleEditableTextPara_HeaderFooter
--o sc.AccessibleEditableTextPara_PreviewCell
--o sc.ScAccessibleCell
-# i91044 -o sc.ScAccessibleCsvCell
-# i91044 -o sc.ScAccessibleCsvGrid
-# i84641 -o sc.ScAccessibleCsvRuler
-# i88330 -o sc.ScAccessibleDocument
-# i91045 -o sc.ScAccessibleDocumentPagePreview
--o sc.ScAccessiblePageHeader
-# fdo#FOO -o sc.ScAccessiblePageHeaderArea
--o sc.ScAccessiblePreviewCell
--o sc.ScAccessiblePreviewHeaderCell
--o sc.ScAccessiblePreviewTable
-# fdo#45337 -o sc.ScAccessibleSpreadsheet
 # FIXME_REMOVE_WHEN_RE_BASE_COMPLETE
 # -o sc.ScAnnotationObj
 # -o sc.ScAnnotationShapeObj
