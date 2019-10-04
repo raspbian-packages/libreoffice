@@ -1,0 +1,35 @@
+From 51d9ed1bdc0df652de313ae24897ea9360db0a4d Mon Sep 17 00:00:00 2001
+From: Stephan Bergmann <sbergman@redhat.com>
+Date: Sat, 3 Aug 2019 16:37:48 +0100
+Subject: keep name percent-encoded
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Change-Id: I470c4b24192c3e3c9b556a9bbb3b084359e0033b
+Reviewed-on: https://gerrit.libreoffice.org/77008
+Reviewed-by: Caolán McNamara <caolanm@redhat.com>
+Reviewed-by: Christian Lohmaier <lohmaier+LibreOffice@googlemail.com>
+Tested-by: Christian Lohmaier <lohmaier+LibreOffice@googlemail.com>
+---
+ scripting/source/pyprov/pythonscript.py | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+diff --git a/scripting/source/pyprov/pythonscript.py b/scripting/source/pyprov/pythonscript.py
+index f1b2bfc..64e1337 100644
+--- a/scripting/source/pyprov/pythonscript.py
++++ b/scripting/source/pyprov/pythonscript.py
+@@ -219,7 +219,9 @@ class MyUriHelper:
+ 
+             # path to the .py file + "$functionname, arguments, etc
+             xStorageUri = self.m_uriRefFac.parse(scriptURI)
+-            sStorageUri = xStorageUri.getName().replace( "|", "/" );
++            # getName will apply url-decoding to the name, so encode back
++            sStorageUri = xStorageUri.getName().replace("%", "%25")
++            sStorageUri = sStorageUri.replace( "|", "/" )
+ 
+             # path to the .py file, relative to the base
+             sFileUri = sStorageUri[0:sStorageUri.find("$")]
+-- 
+cgit v1.1
+

@@ -1,0 +1,85 @@
+From 1256f4f1ad0e6038055c0a5856c79b9e61c3f802 Mon Sep 17 00:00:00 2001
+From: Stephan Bergmann <sbergman@redhat.com>
+Date: Tue, 6 Aug 2019 13:29:22 +0200
+Subject: Properly obtain location
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Change-Id: I9fb0d883a3623394343cd54ef61e5610544198c8
+Reviewed-on: https://gerrit.libreoffice.org/77019
+Tested-by: Jenkins
+Reviewed-by: Stephan Bergmann <sbergman@redhat.com>
+(cherry picked from commit a9cde2557242a0c343d99533f3ee032599c66f42)
+Reviewed-on: https://gerrit.libreoffice.org/77022
+Reviewed-by: Caolán McNamara <caolanm@redhat.com>
+Reviewed-by: Christian Lohmaier <lohmaier+LibreOffice@googlemail.com>
+Tested-by: Christian Lohmaier <lohmaier+LibreOffice@googlemail.com>
+---
+ scripting/source/protocolhandler/scripthandler.cxx |  9 +++++++--
+ sfx2/source/doc/objmisc.cxx                        | 21 ++++++++++++---------
+ 2 files changed, 19 insertions(+), 11 deletions(-)
+
+diff --git a/scripting/source/protocolhandler/scripthandler.cxx b/scripting/source/protocolhandler/scripthandler.cxx
+index 07c4353..3340ff4 100644
+--- a/scripting/source/protocolhandler/scripthandler.cxx
++++ b/scripting/source/protocolhandler/scripthandler.cxx
+@@ -49,6 +49,7 @@
+ 
+ #include "com/sun/star/uno/XComponentContext.hpp"
+ #include "com/sun/star/uri/XUriReference.hpp"
++#include "com/sun/star/uri/XVndSunStarScriptUrlReference.hpp"
+ #include "com/sun/star/uri/UriReferenceFactory.hpp"
+ #include "com/sun/star/uri/XVndSunStarScriptUrl.hpp"
+ 
+@@ -135,8 +136,12 @@ void SAL_CALL ScriptProtocolHandler::dispatchWithNotification(
+     {
+         try
+         {
+-            bool bIsDocumentScript = ( aURL.Complete.indexOf( "document" ) !=-1 );
+-                // TODO: isn't this somewhat strange? This should be a test for a location=document parameter, shouldn't it?
++            css::uno::Reference<css::uri::XUriReferenceFactory> urifac(
++                css::uri::UriReferenceFactory::create(m_xContext));
++            css::uno::Reference<css::uri::XVndSunStarScriptUrlReference> uri(
++                urifac->parse(aURL.Complete), css::uno::UNO_QUERY_THROW);
++            auto const loc = uri->getParameter("location");
++            bool bIsDocumentScript = loc == "document";
+ 
+             if ( bIsDocumentScript )
+             {
+diff --git a/sfx2/source/doc/objmisc.cxx b/sfx2/source/doc/objmisc.cxx
+index 902e96ccea05..7f7e304a3477 100644
+--- a/sfx2/source/doc/objmisc.cxx
++++ b/sfx2/source/doc/objmisc.cxx
+@@ -1500,19 +1500,22 @@
+     OSL_TRACE( "in CallXScript" );
+     ErrCode nErr = ERRCODE_NONE;
+ 
+-    bool bIsDocumentScript = ( _rScriptURL.indexOf( "location=document" ) >= 0 );
+-        // TODO: we should parse the URL, and check whether there is a parameter with this name.
+-        // Otherwise, we might find too much.
+-    if ( bIsDocumentScript && !lcl_isScriptAccessAllowed_nothrow( _rxScriptContext ) )
+-        return ERRCODE_IO_ACCESSDENIED;
+-
+-    if ( UnTrustedScript(_rScriptURL) )
+-        return ERRCODE_IO_ACCESSDENIED;
+-
+     bool bCaughtException = false;
+     Any aException;
+     try
+     {
++        css::uno::Reference<css::uri::XUriReferenceFactory> urifac(
++            css::uri::UriReferenceFactory::create(comphelper::getProcessComponentContext()));
++        css::uno::Reference<css::uri::XVndSunStarScriptUrlReference> uri(
++            urifac->parse(_rScriptURL), css::uno::UNO_QUERY_THROW);
++        auto const loc = uri->getParameter("location");
++        bool bIsDocumentScript = loc == "document";
++        if ( bIsDocumentScript && !lcl_isScriptAccessAllowed_nothrow( _rxScriptContext ) )
++            return ERRCODE_IO_ACCESSDENIED;
++
++        if ( UnTrustedScript(_rScriptURL) )
++            return ERRCODE_IO_ACCESSDENIED;
++
+         // obtain/create a script provider
+         Reference< provider::XScriptProvider > xScriptProvider;
+         Reference< provider::XScriptProviderSupplier > xSPS( _rxScriptContext, UNO_QUERY );

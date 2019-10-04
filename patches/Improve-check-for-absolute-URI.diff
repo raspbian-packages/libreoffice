@@ -1,0 +1,36 @@
+From 52f7aa318722bd17c77ee5c4fa8307936e7b53af Mon Sep 17 00:00:00 2001
+From: Stephan Bergmann <sbergman@redhat.com>
+Date: Mon, 19 Aug 2019 11:27:15 +0200
+Subject: Improve check for absolute URI
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Change-Id: I4dee44832107f72f8f3fb68554428dc1e646c346
+Reviewed-on: https://gerrit.libreoffice.org/77706
+Tested-by: Jenkins
+Reviewed-by: Stephan Bergmann <sbergman@redhat.com>
+(cherry picked from commit c79efeb66f7951305d0334bc288aee1c571a8728)
+Reviewed-on: https://gerrit.libreoffice.org/77724
+Reviewed-by: Caolán McNamara <caolanm@redhat.com>
+Tested-by: Caolán McNamara <caolanm@redhat.com>
+---
+ scripting/source/pyprov/pythonscript.py | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/scripting/source/pyprov/pythonscript.py b/scripting/source/pyprov/pythonscript.py
+index d8924f8..acb6184 100644
+--- a/scripting/source/pyprov/pythonscript.py
++++ b/scripting/source/pyprov/pythonscript.py
+@@ -237,7 +237,7 @@ class MyUriHelper:
+                 log.debug( message )
+                 raise RuntimeException( message )
+ 
+-            if xFileUri.isAbsolute():
++            if not xFileUri.hasRelativePath():
+                 message = "pythonscript: an absolute uri is invalid '" + sFileUri+ "'"
+                 log.debug( message )
+                 raise RuntimeException( message )
+-- 
+cgit v1.1
+

@@ -1,0 +1,32 @@
+From ffad51e9e625a22f1efab3da7886baf4134b444f Mon Sep 17 00:00:00 2001
+From: Stephan Bergmann <sbergman@redhat.com>
+Date: Mon, 26 Aug 2019 10:18:09 +0200
+Subject: Improve check
+
+Change-Id: I8280a81eef2ced0ff0ace51ea9f094421abafe13
+Reviewed-on: https://gerrit.libreoffice.org/78108
+Tested-by: Jenkins
+Reviewed-by: Stephan Bergmann <sbergman@redhat.com>
+(cherry picked from commit 761e6dd25782420bf06e4a2ff3205a79b6cbb136)
+Reviewed-on: https://gerrit.libreoffice.org/78129
+Reviewed-by: Michael Stahl <Michael.Stahl@cib.de>
+---
+ sfx2/source/doc/objmisc.cxx | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/sfx2/source/doc/objmisc.cxx b/sfx2/source/doc/objmisc.cxx
+index 08f4d8c..dd01995 100644
+--- a/sfx2/source/doc/objmisc.cxx
++++ b/sfx2/source/doc/objmisc.cxx
+@@ -1364,7 +1364,7 @@ bool SfxObjectShell::UnTrustedScript(const OUString& rScriptURL)
+     do
+     {
+         OUString aToken = sScript.getToken(0, '/', nIndex);
+-        if (aToken.startsWithIgnoreAsciiCase("LibreLogo"))
++        if (aToken.startsWithIgnoreAsciiCase("LibreLogo") || aToken.indexOf('~') != -1)
+         {
+             return true;
+         }
+-- 
+cgit v1.1
+

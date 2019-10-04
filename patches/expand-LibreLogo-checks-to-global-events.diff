@@ -1,0 +1,89 @@
+From 70d022f6f134e67ffa9e65ca2a6de64e458a7db0 Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?Caol=C3=A1n=20McNamara?= <caolanm@redhat.com>
+Date: Tue, 23 Jul 2019 15:31:05 +0100
+Subject: expand LibreLogo check to global events
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Change-Id: I7f436983ba0eb4b76b02d08ee52626e54b103d5f
+Reviewed-on: https://gerrit.libreoffice.org/76194
+Tested-by: Jenkins
+Reviewed-by: Michael Stahl <Michael.Stahl@cib.de>
+Reviewed-by: Caolán McNamara <caolanm@redhat.com>
+Tested-by: Caolán McNamara <caolanm@redhat.com>
+(cherry picked from commit 85cbe1f06703c0b8e1f15a3d969202d99c66f34b)
+Reviewed-on: https://gerrit.libreoffice.org/76540
+Reviewed-by: Stephan Bergmann <sbergman@redhat.com>
+Reviewed-by: Christian Lohmaier <lohmaier+LibreOffice@googlemail.com>
+Tested-by: Christian Lohmaier <lohmaier+LibreOffice@googlemail.com>
+---
+ include/sfx2/objsh.hxx               |  2 ++
+ sfx2/source/doc/objmisc.cxx          |  6 +-----
+ sfx2/source/notify/eventsupplier.cxx | 18 ++++++++++++------
+ 3 files changed, 15 insertions(+), 11 deletions(-)
+
+--- libreoffice-4.3.3.orig/include/sfx2/objsh.hxx
++++ libreoffice-4.3.3/include/sfx2/objsh.hxx
+@@ -382,6 +382,8 @@
+     */
+     bool                        AdjustMacroMode( const OUString& rScriptType, bool _bSuppressUI = false );
+ 
++    static bool                 UnTrustedScript(const OUString& rScriptURL);
++
+     SvKeyValueIterator*         GetHeaderAttributes();
+     void                        ClearHeaderAttributesForSourceViewHack();
+     void                        SetHeaderAttributesForSourceViewHack();
+--- libreoffice-4.3.3.orig/sfx2/source/doc/objmisc.cxx
++++ libreoffice-4.3.3/sfx2/source/doc/objmisc.cxx
+@@ -1509,16 +1509,12 @@
+     }
+ }
+ 
+-namespace {
+-
+ // don't allow LibreLogo to be used with our mouseover/etc dom-alike events
+-bool UnTrustedScript(const OUString& rScriptURL)
++bool SfxObjectShell::UnTrustedScript(const OUString& rScriptURL)
+ {
+     return rScriptURL.startsWithIgnoreAsciiCase("vnd.sun.star.script:LibreLogo");
+ }
+ 
+-}
+-
+ ErrCode SfxObjectShell::CallXScript( const Reference< XInterface >& _rxScriptContext, const OUString& _rScriptURL,
+     const Sequence< Any >& aParams, Any& aRet, Sequence< sal_Int16 >& aOutParamIndex, Sequence< Any >& aOutParam, bool bRaiseError, const ::com::sun::star::uno::Any* pCaller )
+ {
+--- libreoffice-4.3.3.orig/sfx2/source/notify/eventsupplier.cxx
++++ libreoffice-4.3.3/sfx2/source/notify/eventsupplier.cxx
+@@ -218,18 +218,24 @@
+         else if (aType == "Service" ||
+                   aType == "Script")
+         {
+-            if ( !aScript.isEmpty() )
++            bool bAllowed = false;
++            util::URL aURL;
++            if (!aScript.isEmpty())
+             {
+-                SfxViewFrame* pView = pDoc ?
+-                    SfxViewFrame::GetFirst( pDoc ) :
+-                    SfxViewFrame::Current();
+-
+                 uno::Reference < util::XURLTransformer > xTrans( util::URLTransformer::create( ::comphelper::getProcessComponentContext() ) );
+ 
+-                util::URL aURL;
+                 aURL.Complete = aScript;
+                 xTrans->parseStrict( aURL );
+ 
++                bAllowed = !SfxObjectShell::UnTrustedScript(aURL.Complete);
++            }
++
++            if (bAllowed)
++            {
++                SfxViewFrame* pView = pDoc ?
++                    SfxViewFrame::GetFirst( pDoc ) :
++                    SfxViewFrame::Current();
++
+                 uno::Reference
+                     < frame::XDispatchProvider > xProv;
+ 

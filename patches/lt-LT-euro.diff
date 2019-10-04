@@ -1,0 +1,180 @@
+From a150d06bc5cda4f18364256af859fd3e1ee70b4b Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?Aurimas=20Fi=C5=A1eras?= <aurimas@members.fsf.org>
+Date: Sat, 23 Aug 2014 11:56:42 +0300
+Subject: added EUR as default currency to Lithuanian locale
+
+Change-Id: I08c82639da2acd5830fa69044b252217b69c5e62
+Reviewed-on: https://gerrit.libreoffice.org/11089
+Reviewed-by: Thomas Arnhold <thomas@arnhold.org>
+Tested-by: Thomas Arnhold <thomas@arnhold.org>
+
+diff --git a/i18npool/source/localedata/data/lt_LT.xml b/i18npool/source/localedata/data/lt_LT.xml
+index a7f8717..97839ab 100644
+--- a/i18npool/source/localedata/data/lt_LT.xml
++++ b/i18npool/source/localedata/data/lt_LT.xml
+@@ -413,7 +413,14 @@
+     </Calendar>
+   </LC_CALENDAR>
+   <LC_CURRENCY>
+-    <Currency default="true" usedInCompatibleFormatCodes="true">
++    <Currency default="true" usedInCompatibleFormatCodes="false">
++      <CurrencyID>EUR</CurrencyID>
++      <CurrencySymbol>€</CurrencySymbol>
++      <BankSymbol>EUR</BankSymbol>
++      <CurrencyName>Euras</CurrencyName>
++      <DecimalPlaces>2</DecimalPlaces>
++    </Currency>
++    <Currency default="false" usedInCompatibleFormatCodes="true">
+       <CurrencyID>LTL</CurrencyID>
+       <CurrencySymbol>Lt</CurrencySymbol>
+       <BankSymbol>LTL</BankSymbol>
+-- 
+cgit v0.10.2
+
+From 0b3e1d9b222bf045b03746f1c162bf8077a24a1b Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?Aurimas=20Fi=C5=A1eras?= <aurimas@members.fsf.org>
+Date: Sat, 23 Aug 2014 12:12:12 +0300
+Subject: added LTL Lithuanian Litas to Euro Converter
+
+Change-Id: Id4eeb42bbbaec979f60b57ddab2794b38f1e3157
+Reviewed-on: https://gerrit.libreoffice.org/11090
+Reviewed-by: Thomas Arnhold <thomas@arnhold.org>
+Tested-by: Thomas Arnhold <thomas@arnhold.org>
+
+diff --git a/wizards/source/euro/Init.xba b/wizards/source/euro/Init.xba
+index 33d9eb8..69226ed 100644
+--- a/wizards/source/euro/Init.xba
++++ b/wizards/source/euro/Init.xba
+@@ -90,6 +90,7 @@ Public sCurrMALTESE as String
+ Public sCurrSLOVAK as String
+ Public sCurrESTONIAN as String
+ Public sCurrLATVIAN as String
++Public sCurrLITHUANIAN as String
+ Public sCurrUNKNOWN as String
+ Public sCurrSYSUNKNOWN as String
+ 
+@@ -134,8 +135,8 @@ Public CurExtension(2) as String
+ Public Currfactor as Double
+ Public CurrSymbolList(2) as String
+ Public CurrLanguage as String
+-Public CurrValue(17,5)
+-Public LangIDValue(17,2,2) as String
++Public CurrValue(18,5)
++Public LangIDValue(18,2,2) as String
+ Public PreName as String
+ Public Separator as String
+ Public BitmapDir as String
+@@ -216,8 +217,9 @@ Dim LocWorkPath as String
+ 		sCurrSLOVAK = GetResText(1515)
+ 		sCurrESTONIAN = GetResText(1516)
+ 		sCurrLATVIAN = GetResText(1517)
+-		sCurrUNKNOWN = GetResText(1518)
+-		sCurrSYSUNKNOWN = GetResText(1519)
++		sCurrLITHUANIAN = GetResText(1518)
++		sCurrUNKNOWN = GetResText(1519)
++		sCurrSYSUNKNOWN = GetResText(1520)
+ 		.cmdCancel.Label =  sCANCEL
+ 		.cmdHelp.Label =  sHELP
+ 		.cmdBack.Label =  GetResText(1002)
+@@ -392,6 +394,11 @@ Sub InitializeLanguages()
+     LangIDValue(17,1,1) = &quot;LV&quot;
+     LangIDValue(17,1,2) = &quot;-64B&quot;
+ 
++&apos; CURRENCIES_LITHUANIAN
++    LangIDValue(18,0,0) = &quot;lt&quot;
++    LangIDValue(18,0,1) = &quot;LT&quot;
++    LangIDValue(18,0,2) = &quot;-427&quot;
++
+ End Sub
+ 
+ 
+@@ -562,6 +569,15 @@ Dim i as Integer
+ 	CurrValue(17,4) = &quot;Ls&quot;
+ 	CurrValue(17,5) = &quot;LVL&quot;
+ 
++	CurrValue(18,0) = sCurrLITHUANIAN
++	&apos; real conversion rate
++	CurrValue(18,1) = 3.45280
++	&apos; rounded conversion rate
++	CurrValue(18,2) = 3.5
++	CurrValue(18,3) = &quot;Lt&quot;
++	CurrValue(18,4) = &quot;Lt&quot;
++	CurrValue(18,5) = &quot;LTL&quot;
++
+ 	i = -1
+ 	CurrSymbolList(0) = &quot;&quot;
+ 	CurrSymbolList(1) = &quot;&quot;
+diff --git a/wizards/source/euro/euro.src b/wizards/source/euro/euro.src
+index bf795ba..2280b75 100644
+--- a/wizards/source/euro/euro.src
++++ b/wizards/source/euro/euro.src
+@@ -412,11 +412,16 @@ Text [ en-US ] = "Latvian Lats";
+ 
+ String CURRENCIES + 18
+ {
+-Text [ en-US ] = "The currency set for the document is not a European currency!";
++Text [ en-US ] = "Lithuanian Litas";
+ };
+ 
+ String CURRENCIES + 19
+ {
++Text [ en-US ] = "The currency set for the document is not a European currency!";
++};
++
++String CURRENCIES + 20
++{
+ Text [ en-US ] = "The language set for your operating system is not a language of the European Monetary Union.";
+ };
+ 
+-- 
+cgit v0.10.2
+
+From 21c8b5815a21b6586fe13b12d00a9fb432c2aef4 Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?Aurimas=20Fi=C5=A1eras?= <aurimas@members.fsf.org>
+Date: Sat, 23 Aug 2014 11:50:56 +0300
+Subject: added Lithuanian "LTL" to EUROCONVERT(), CONVERT()
+
+Change-Id: Iefde129177df827c4b6508ff190f20e1e1973221
+Reviewed-on: https://gerrit.libreoffice.org/11088
+Reviewed-by: Thomas Arnhold <thomas@arnhold.org>
+Tested-by: Thomas Arnhold <thomas@arnhold.org>
+
+diff --git a/officecfg/registry/data/org/openoffice/Office/Calc.xcu b/officecfg/registry/data/org/openoffice/Office/Calc.xcu
+index 190766e..a62d065 100644
+--- a/officecfg/registry/data/org/openoffice/Office/Calc.xcu
++++ b/officecfg/registry/data/org/openoffice/Office/Calc.xcu
+@@ -217,6 +217,17 @@
+         <value>0.702804</value>
+       </prop>
+     </node>
++    <node oor:name="CR19" oor:op="replace">
++      <prop oor:name="FromUnit">
++        <value>EUR</value>
++      </prop>
++      <prop oor:name="ToUnit">
++        <value>LTL</value>
++      </prop>
++      <prop oor:name="Factor">
++        <value>3.45280</value>
++      </prop>
++    </node>
+   </node>
+   <node oor:name="Calculate">
+     <node oor:name="Other">
+diff --git a/sc/source/core/tool/interpr2.cxx b/sc/source/core/tool/interpr2.cxx
+index e695d57..ac6d71e 100644
+--- a/sc/source/core/tool/interpr2.cxx
++++ b/sc/source/core/tool/interpr2.cxx
+@@ -2795,7 +2795,8 @@ static bool lclConvertMoney( const OUString& aSearchUnit, double& rfRate, int& r
+         { "CYP", 0.585274, 2 },
+         { "SKK", 30.1260,  2 },
+         { "EEK", 15.6466,  2 },
+-        { "LVL", 0.702804, 2 }
++        { "LVL", 0.702804, 2 },
++        { "LTL", 3.45280,  2 }
+     };
+ 
+     static const size_t nConversionCount = sizeof( aConvertTable ) / sizeof( aConvertTable[0] );
+-- 
+cgit v0.10.2
+

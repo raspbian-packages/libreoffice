@@ -1,0 +1,59 @@
+Package: libreoffice-dbg
+Section: debug
+Architecture: %OOO_ARCHS%
+Priority: extra
+Depends: libreoffice-core (= ${binary:Version}) | libreoffice-dev (= ${binary:Version}) | libreoffice-gnome (= ${binary:Version}) | libreoffice-kde (= ${binary:Version}) | libreoffice-calc (= ${binary:Version}) | libreoffice-base-core (= ${binary:Version}) | libreoffice-base (= ${binary:Version}) | libreoffice-impress (= ${binary:Version}) | libreoffice-draw (= ${binary:Version}) | libreoffice-writer (= ${binary:Version}) | python3-uno (= ${binary:Version}) | browser-plugin-libreoffice (= ${binary:Version}) | libreoffice-ogltrans (= ${binary:Version}),
+         ${misc:Depends}
+Recommends: ure-dbg
+Suggests: ${dbg-dbg-suggests}, python-six
+Pre-Depends: dpkg (>= 1.15.6)
+Description: office productivity suite -- debug symbols
+ LibreOffice is a full-featured office productivity suite that provides
+ a near drop-in replacement for Microsoft(R) Office.
+ .
+ This package contains the debug symbols of all LibreOffice and
+ LibreOffice SDK components.
+
+Package: uno-libs3-dbg
+Section: debug
+Priority: extra
+Architecture: %OOO_ARCHS%
+Depends: uno-libs3 (= ${ure:Version}), ${misc:Depends}
+Replaces: ure-dbg (<< 4.0.3-2)
+Suggests: python-six
+Description: LibreOffice UNO runtime environment -- public shared library debug symbols
+ The Uno Runtime Environment (URE) is the well-known UNO component model
+ of LibreOffice, packaged up as an individual product.
+ .
+ It offers you a flexible, low-overhead component model that is most ideal
+ for (but not limited to) combining in one application components written in
+ different computer languages, and developed by different parties. You can use
+ it to create any kind of application, in whatever application domain you can
+ imagine.
+ .
+ This package contains the (detached) debug symbols for the public libraries:
+  - libuno_sal: System Abstraction Layer (C Interface)
+  - libuno_salhelpergcc3: additional C++ functionality for sal
+  - libuno_cppu: C++ UNO bridge (C Interface)
+  - libuno_cppuhelpergcc3: additionl C++ functionality for cppu
+  - libuno_purpenvhelpergcc3: "purpose environments" helper
+
+Package: ure-dbg
+Section: debug
+Priority: extra
+Architecture: %OOO_ARCHS%
+Depends: uno-libs3-dbg (= ${ure:Version}),
+         ure (= ${ure:Version}),
+         ${misc:Depends}
+Description: LibreOffice UNO runtime environment -- debug symbols
+ The Uno Runtime Environment (URE) is the well-known UNO component model
+ of LibreOffice, packaged up as an individual product.
+ .
+ It offers you a flexible, low-overhead component model that is most ideal
+ for (but not limited to) combining in one application components written in
+ different computer languages, and developed by different parties. You can use
+ it to create any kind of application, in whatever application domain you can
+ imagine.
+ .
+ This package contains the (detached) debug symbols for the URE.
+

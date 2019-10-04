@@ -1,0 +1,8 @@
+Package: libreoffice-subsequentcheckbase
+Section: libs
+Priority: extra
+Architecture: all
+Depends: libreoffice, openjdk-7-jdk, build-essential, %BUILD_DEPS_ARCH_ALL%, ${misc:Depends}                
+Description: LibreOffice java test libraries
+ LibreOffice subsequentchecks integration test suite
+

@@ -1,0 +1,148 @@
+commit 7a66dbe982623be620ad6ac426fe689a434e5f51
+Author: David Tardon <dtardon@redhat.com>
+Date:   Tue May 12 10:37:53 2015 +0200
+
+    java dir for powepc64 and powepc64le can differ
+    
+    E.g., RHEL >= 7.1 uses ppc64le for reasons listed in
+    https://bugs.openjdk.java.net/browse/JDK-8073139 .
+    
+    Change-Id: I982e65cdf99999e8a5ed23cf444ccb2aee764c4c
+
+diff --git a/configure.ac b/configure.ac
+index 26071dc..55157a9 100644
+--- a/configure.ac
++++ b/configure.ac
+@@ -6997,9 +6997,12 @@ then
+         powerpc)
+             my_java_arch=ppc
+             ;;
+-        powerpc64*)
++        powerpc64)
+             my_java_arch=ppc64
+             ;;
++        powerpc64le)
++            AS_IF([test -d "$JAVA_HOME/jre/lib/ppc64le"], [my_java_arch=ppc64le], [my_java_arch=ppc64])
++            ;;
+         x86_64)
+             my_java_arch=amd64
+             ;;
+commit d8eee8e4d1a303044bf34b28c2e95bd6da23fd79
+Author: David Tardon <dtardon@redhat.com>
+Date:   Tue May 12 12:10:16 2015 +0200
+
+    java dir for powepc64 and powepc64le can differ
+    
+    E.g., RHEL >= 7.1 uses ppc64le for reasons listed in
+    https://bugs.openjdk.java.net/browse/JDK-8073139 .
+    
+    This is a follow-up to commit 7a66dbe982623be620ad6ac426fe689a434e5f51.
+    
+    Change-Id: I685f76d51e9775788a7fb225c6a5e2309a45ceb7
+
+diff --git a/config_host/config_java.h.in b/config_host/config_java.h.in
+new file mode 100644
+index 0000000..8b23de9
+--- /dev/null
++++ b/config_host/config_java.h.in
+@@ -0,0 +1,6 @@
++#ifndef CONFIG_JAVA_H
++#define CONFIG_JAVA_H
++
++#undef JAVA_ARCH
++
++#endif
+diff --git a/configure.ac b/configure.ac
+index 55157a9..5414754 100644
+--- a/configure.ac
++++ b/configure.ac
+@@ -7002,6 +7002,7 @@ then
+             ;;
+         powerpc64le)
+             AS_IF([test -d "$JAVA_HOME/jre/lib/ppc64le"], [my_java_arch=ppc64le], [my_java_arch=ppc64])
++            JAVA_ARCH=$my_java_arch
+             ;;
+         x86_64)
+             my_java_arch=amd64
+@@ -7011,6 +7012,7 @@ then
+             ;;
+         esac
+         JAWTLIB="-L$JAVA_HOME/jre/lib/$my_java_arch -ljawt"
++        AS_IF([test "$JAVA_ARCH" != ""], [AC_DEFINE_UNQUOTED([JAVA_ARCH], ["$JAVA_ARCH"])])
+     fi
+     AC_MSG_RESULT([$JAWTLIB])
+ fi
+@@ -12988,6 +12990,7 @@ AC_CONFIG_HEADERS([config_host/config_folders.h])
+ AC_CONFIG_HEADERS([config_host/config_gcc.h])
+ AC_CONFIG_HEADERS([config_host/config_global.h])
+ AC_CONFIG_HEADERS([config_host/config_graphite.h])
++AC_CONFIG_HEADERS([config_host/config_java.h])
+ AC_CONFIG_HEADERS([config_host/config_lgpl.h])
+ AC_CONFIG_HEADERS([config_host/config_locales.h])
+ AC_CONFIG_HEADERS([config_host/config_mpl.h])
+diff --git a/jvmfwk/inc/vendorbase.hxx b/jvmfwk/inc/vendorbase.hxx
+index 2ecd01f..a01db56 100644
+--- a/jvmfwk/plugins/sunmajor/pluginlib/vendorbase.hxx
++++ b/jvmfwk/plugins/sunmajor/pluginlib/vendorbase.hxx
+@@ -20,6 +20,8 @@
+ #ifndef INCLUDED_JVMFWK_PLUGINS_SUNMAJOR_PLUGINLIB_VENDORBASE_HXX
+ #define INCLUDED_JVMFWK_PLUGINS_SUNMAJOR_PLUGINLIB_VENDORBASE_HXX
+ 
++#include "config_java.h"
++
+ #include "rtl/ustring.hxx"
+ #include "rtl/ref.hxx"
+ #include "osl/endian.h"
+@@ -31,7 +33,9 @@ namespace jfw_plugin
+ 
+ 
+ //Used by subclasses of VendorBase to build paths to Java runtime
+-#if defined(__sparcv9)
++#if defined(JAVA_ARCH)
++#define JFW_PLUGIN_ARCH JAVA_ARCH
++#elif defined(__sparcv9)
+ #define JFW_PLUGIN_ARCH "sparcv9"
+ #elif defined SPARC
+ #define JFW_PLUGIN_ARCH "sparc"
+commit caacdc4b39460fcd9ba34652da7c25740f077160
+Author: Caolán McNamara <caolanm@redhat.com>
+Date:   Wed Jul 1 08:34:58 2015 +0100
+
+    f22 openjdk for ppc64le has both these dirs, but jawt is only on one
+    
+    Change-Id: Ie770ecceb8c8f5a6fa882a9f5d5a26806b029589
+
+diff --git a/configure.ac b/configure.ac
+index aecbe8f..8964c96 100644
+--- a/configure.ac
++++ b/configure.ac
+@@ -7058,7 +7058,7 @@ then
+             my_java_arch=ppc64
+             ;;
+         powerpc64le)
+-            AS_IF([test -d "$JAVA_HOME/jre/lib/ppc64le"], [my_java_arch=ppc64le], [my_java_arch=ppc64])
++            AS_IF([test -d "$JAVA_HOME/jre/lib/ppc64le/libjawt.so"], [my_java_arch=ppc64le], [my_java_arch=ppc64])
+             JAVA_ARCH=$my_java_arch
+             ;;
+         x86_64)
+commit e1d8fb13b2f033d89dd4d1bf9a6fbf0c7a686b53
+Author: Caolán McNamara <caolanm@redhat.com>
+Date:   Wed Jul 1 10:52:34 2015 +0100
+
+    d->e
+    
+    Change-Id: I76ced60151bcc160eb4a4c12cc86f01edec076fc
+
+diff --git a/configure.ac b/configure.ac
+index 8964c96..70ab9c8 100644
+--- a/configure.ac
++++ b/configure.ac
+@@ -7058,7 +7058,7 @@ then
+             my_java_arch=ppc64
+             ;;
+         powerpc64le)
+-            AS_IF([test -d "$JAVA_HOME/jre/lib/ppc64le/libjawt.so"], [my_java_arch=ppc64le], [my_java_arch=ppc64])
++            AS_IF([test -e "$JAVA_HOME/jre/lib/ppc64le/libjawt.so"], [my_java_arch=ppc64le], [my_java_arch=ppc64])
+             JAVA_ARCH=$my_java_arch
+             ;;
+         x86_64)
