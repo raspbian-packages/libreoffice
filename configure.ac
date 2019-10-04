@@ -12884,6 +12884,9 @@ fi
 AC_SUBST(MPL_SUBSET)
 
 
+CDEFAULTOPT=`echo $CFLAGS 2>/dev/null | grep -E -o "\-O[[0-3]]"`
+AC_SUBST(CDEFAULTOPT)
+
 dnl ===================================================================
 dnl Setting up the environment.
 dnl ===================================================================
