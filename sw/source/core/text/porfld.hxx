@@ -172,6 +172,7 @@ public:
     SwGrfNumPortion( SwFrm *pFrm,
                      const OUString& rGraphicFollowedBy,
                      const SvxBrushItem* pGrfBrush,
+                     OUString const & referer,
                      const SwFmtVertOrient* pGrfOrient,
                      const Size& rGrfSize,
                      const bool bLeft,

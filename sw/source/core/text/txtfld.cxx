@@ -51,6 +51,7 @@
 #include "reffld.hxx"
 #include "flddat.hxx"
 #include "fmtautofmt.hxx"
+#include <sfx2/docfile.hxx>
 
 static bool lcl_IsInBody( SwFrm *pFrm )
 {
@@ -459,9 +460,18 @@ SwNumberPortion *SwTxtFormatter::NewNumberPortion( SwTxtFormatInfo &rInf ) const
 
         if( SVX_NUM_BITMAP == rNumFmt.GetNumberingType() )
         {
+            OUString referer;
+            if (auto const sh1 = rInf.GetVsh()) {
+                if (auto const doc = sh1->GetDoc()) {
+                    auto const sh2 = doc->GetPersist();
+                    if (sh2 != nullptr && sh2->HasName()) {
+                        referer = sh2->GetMedium()->GetName();
+                    }
+                }
+            }
             pRet = new SwGrfNumPortion( (SwFrm*)GetTxtFrm(),
                                         pTxtNd->GetLabelFollowedBy(),
-                                        rNumFmt.GetBrush(),
+                                        rNumFmt.GetBrush(), referer,
                                         rNumFmt.GetGraphicOrientation(),
                                         rNumFmt.GetGraphicSize(),
                                         bLeft, bCenter, nMinDist,

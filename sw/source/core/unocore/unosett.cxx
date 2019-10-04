@@ -53,6 +53,7 @@
 #include <vcl/font.hxx>
 #include <editeng/flstitem.hxx>
 #include <vcl/metric.hxx>
+#include <sfx2/docfile.hxx>
 #include <svtools/ctrltool.hxx>
 #include <osl/mutex.hxx>
 #include <vcl/svapp.hxx>
@@ -1498,10 +1499,18 @@ uno::Sequence<beans::PropertyValue> SwXNumberingRules::GetNumberingRuleByIndex(
             pData = new PropValData((void*)&aUString, UNO_NAME_GRAPHIC_URL, ::cppu::UnoType<OUString>::get());
             aPropertyValues.push_back(pData);
 
+            OUString referer;
+            if (pDoc != nullptr) {
+                auto const sh = pDoc->GetPersist();
+                if (sh != nullptr && sh->HasName()) {
+                    referer = sh->GetMedium()->GetName();
+                }
+            }
+
             //graphicbitmap
             const Graphic* pGraphic = 0;
             if(pBrush )
-                pGraphic = pBrush->GetGraphic();
+                pGraphic = pBrush->GetGraphic(referer);
             if(pGraphic)
             {
                 uno::Reference<awt::XBitmap> xBmp = VCLUnoHelper::CreateBitmap( pGraphic->GetBitmapEx() );
