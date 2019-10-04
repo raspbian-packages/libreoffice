@@ -126,12 +126,14 @@ File gid_File_Package_odk_html
 End
 
 #if defined(ENABLE_JAVA)
+#if defined(JAVADOC)
 File gid_File_Package_odk_javadoc
     TXT_FILE_BODY;
     Dir = FILELIST_SDK_DIR;
     Name = "odk_javadoc.filelist";
     Styles = (FILELIST,USE_INTERNAL_RIGHTS);
 End
+#endif
 #endif
 
 File gid_File_Package_odk_lib
