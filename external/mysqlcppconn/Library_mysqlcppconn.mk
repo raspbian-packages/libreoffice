@@ -73,4 +73,8 @@ $(eval $(call gb_Library_add_generated_exception_objects,mysqlcppconn,\
 	UnpackedTarball/mysqlcppconn/driver/nativeapi/mysql_native_statement_wrapper \
 ))
 
+$(eval $(call gb_Library_add_cflags,mysqlcppconn,\
+	-DLIBMYSQLCLIENT_SONAME=\"$(shell readlink -f `mysql_config --variable=pkglibdir`/libmysqlclient_r.so | sed -e s/mysqlclient/mysqlclient_r/ | sed -e "s,`mysql_config --variable=pkglibdir`/\(libmysqlclient_r.so.[0-9][0-9]\).*,\\1,")\" \
+))
+
 # vim: set noet sw=4 ts=4:
